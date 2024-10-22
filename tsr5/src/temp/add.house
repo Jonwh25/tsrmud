@@ -1,0 +1,75 @@
+
+#define HOME_ITEM_2   11801 /* turtle */
+#define HOME_ITEM_3   11802 /* snake */
+#define HOME_ITEM_4   11803 /* spider */
+#define HOME_ITEM_5   11804 /* carved chair */
+#define HOME_ITEM_6   11805 /* highback chair */
+#define HOME_ITEM_7   11806 /* hard chair */
+#define HOME_ITEM_8   11807 /* sturdy chair */
+#define HOME_ITEM_9   11808 /* oak desk */
+#define HOME_ITEM_10  11809 /* pine desk */
+#define HOME_ITEM_11  11810 /* carved desk */
+#define HOME_ITEM_12  11811 /* polished desk */
+#define HOME_ITEM_13  11812 /* teak desk */
+#define HOME_ITEM_14  11813 /* plain desk */
+#define HOME_ITEM_15  11814 /* plush sofa */
+#define HOME_ITEM_16  11815 /* padded sofa */
+#define HOME_ITEM_17  11816 /* comfy sofa */
+#define HOME_ITEM_18  11817 /* fluffed sofa */
+#define HOME_ITEM_19  11818 /* comfy sofa */
+#define HOME_ITEM_20  11819 /* oak end */
+#define HOME_ITEM_21  11820 /* pine end */
+#define HOME_ITEM_22  11821 /* carved end */
+#define HOME_ITEM_23  11822 /* teak end */
+#define HOME_ITEM_24  11823 /* norm end */
+#define HOME_ITEM_25  11824 /* oak dining table */
+#define HOME_ITEM_26  11825 /* pine table */
+#define HOME_ITEM_27  11826 /* carved table */
+#define HOME_ITEM_28  11827 /* polished table */
+#define HOME_ITEM_29  11828 /* teak table */
+#define HOME_ITEM_30  11829 /* comfy recliner */
+#define HOME_ITEM_31  11830 /* lamp */
+#define HOME_ITEM_32  11831 /* lantern */
+#define HOME_ITEM_33  11832 /* torch */
+#define HOME_ITEM_34  11833 /* oak dresser */
+#define HOME_ITEM_35  11834 /* pine dresser */
+#define HOME_ITEM_36  11835 /* carved dresser */
+#define HOME_ITEM_37  11836 /* polished dresser */
+#define HOME_ITEM_38  11837 /* teak dresser */
+/* #define HOME_ITEM_39  11838 norm dresser */
+#define HOME_ITEM_40  11839 /* oak foot */
+#define HOME_ITEM_41  11840 /* pine foot */
+#define HOME_ITEM_42  11841 /* carved foot */
+#define HOME_ITEM_43  11842 /* polished foot */
+#define HOME_ITEM_44  11843 /* teak foot */
+/* #define HOME_ITEM_45  11844 norm foot */
+#define HOME_ITEM_46  11845 /* oak arm */
+#define HOME_ITEM_47  11846 /* pine arm */
+#define HOME_ITEM_48  11847 /* carved arm */
+#define HOME_ITEM_49  11848 /* polished arm */
+#define HOME_ITEM_50  11849 /* teak arm */
+/* #define HOME_ITEM_51  11850 norm arm */
+#define HOME_ITEM_52  11851 /* oak war */
+#define HOME_ITEM_53  11852 /* pine arm */
+#define HOME_ITEM_54  11853 /* carved arm */
+#define HOME_ITEM_55  11854 /* polished arm */
+#define HOME_ITEM_56  11855 /* teak arm */
+/* #define HOME_ITEM_57  11856 norm arm */
+#define HOME_ITEM_58  11857 /* oak book */
+#define HOME_ITEM_59  11858 /* pine book */
+#define HOME_ITEM_60  11859 /* carved book */
+#define HOME_ITEM_61  11860 /* polished book */
+#define HOME_ITEM_62  11861 /* teak book */
+/* #define HOME_ITEM_63  11862  norm book */
+#define HOME_ITEM_64  11863 /* oak chiff */
+#define HOME_ITEM_65  11864 /* pine chiff */
+#define HOME_ITEM_66  11865 /* carved chiff */
+#define HOME_ITEM_67  11866 /* polished chiff */
+#define HOME_ITEM_68  11867 /* teak chiff */
+/* #define HOME_ITEM_69  11868  norm chiff */
+#define HOME_ITEM_70  11869 /* royalbed */
+#define HOME_ITEM_71  11870 /* cot */
+#define HOME_ITEM_72  11871 /* featherbed */
+#define HOME_ITEM_73  11872 /* canopybed */
+#define HOME_ITEM_74  11873 /* postedbed */
+#define HOME_ITEM_75  11874 /* twinbed */

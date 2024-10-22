@@ -1,0 +1,56 @@
+This is a dynamic string buffer, which expands as needed, and never
+overflows.
+
+In addition, the string length is saved, so it is faster than doing
+strcat()s.
+
+Example use:
+
+void somefunction()
+{
+	/* allocate memory, start with roughy 1000 bytes */
+	BUFFER *buf = buffer_new(1000);
+
+	for (...) /* some loop where we find output */
+	{
+		/* .... */
+		bprintf (buf, "The player %s has %d X and %d Z.\n\r", str, i, i2);
+	}
+
+	/* finished, send result */
+
+	send_to_char (buf->data, ch);
+	
+	/* free memory */
+	
+	buffer_free (buf);
+}
+
+1) Allocate the buffer, using buffer_new(). The size given is the starting
+size: if you know you will be needing a large buffer, you can start with a
+larger size.
+
+2) Use the buffer. There are 2 functions: buffer_strcat and bprintf.
+
+buffer_strcat (buffer, "some string"); adds this string to the buffer.
+
+bprintf (buffer, "format: %s", string); corresponds roughly to:
+
+char temp_buf[1024];
+sprintf (temp_buf, format, ....);
+buffer_strcat (buffer, temp_buf);
+
+However, it is much more covenient, and it checks for overflow in the
+temp_buf.
+
+
+3) Send results, they are in buffer->data
+
+4) Free the buffer, using buffer_free(buffer)
+
+This buffer system is faster and safer than using strcat(): you will never
+overflow this buffer, if you use buffer_strcat() and bprintf() to access it.
+
+The buffers were inspired by Russ Taylor's buffer system in ROM.
+
+

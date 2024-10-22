@@ -1,0 +1,2011 @@
+#AREADATA
+Name        Orhad Outpost~
+Levels      0 0
+Builders    Jereth~
+VNUMs       1900 1999
+Security    9
+Recall      25001
+Flags       16
+Sounds      {GThe cries of war corse through your body.{x~
+End
+
+
+
+#MOBILES
+#1900
+belgrant red warrior~
+Belgrant warrior~
+A warrior in red is here preparing for battle.
+~
+~
+65 0 64 0 -100 S
+20 0 0 600d0+0 0d0+0
+0 0 100 0
+0 0 1
+128 0 0
+#1901
+belgrant red warrior~
+Belgrant warrior~
+A warrior dressed in red unsheaths his sword.
+~
+~
+67 0 64 0 -100 S
+20 0 0 600d0+0 0d0+0
+0 0 100 0
+0 0 1
+128 0 0
+#1902
+belgrant red mage~
+Belgrant mage~
+A mage in red charges up a fireball.
+~
+~
+67 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1903
+belgrant red warrior~
+Belgrant warrior~
+A warrior in red looks frenzied.
+~
+~
+67 0 64 0 -100 S
+20 0 0 600d0+0 0d0+0
+0 0 100 0
+0 0 1
+128 0 0
+#1904
+orhad warrior yellow~
+Orhad warrior~
+A warrior in yellow is looking for someone to kill.
+~
+~
+67 0 128 0 100 S
+21 0 0 552d0+0 0d0+0
+0 0 110 0
+0 0 1
+512 0 0
+#1905
+orhad warrior yellow~
+Orhad warrior~
+A warrior in yellow is ready to fight.
+~
+~
+97 0 128 0 100 S
+21 0 0 552d0+0 0d0+0
+0 0 110 0
+0 0 1
+512 0 0
+#1906
+orhad warrior yellow~
+Orhad warrior~
+A warrior dress in yellow is covered in blood.
+~
+~
+65 0 128 0 100 S
+21 0 0 552d0+0 0d0+0
+0 0 110 0
+0 0 1
+512 0 0
+#1907
+belgrant red mage~
+Belgrant mage~
+A mage in red utters in concentration.
+~
+~
+65 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1908
+belgrant red mage~
+Belgrant mage~
+A mage in red stares at a target.
+~
+~
+65 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1909
+orhad yellow mage~
+Orhad mage~
+A mage in yellow is trying to flee from battle.
+~
+~
+67 0 128 0 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1910
+orhad yellow mage~
+Orhad mage~
+A mage in yellow fizzles a spell.
+~
+~
+67 0 128 0 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1911
+orhad yellow mage~
+Orhad mage~
+A mage in yellow prepares a spell.
+~
+~
+67 0 128 262144 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1912
+belgrant red archer~
+Belgrant archer~
+An archer clad in red takes aim.
+~
+~
+67 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1913
+belgrant red archer~
+Belgrant archer~
+A bowman stands ready.
+~
+~
+67 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1914
+belgrant red archer~
+Belgrant archer~
+An archer steadies his bow.
+~
+~
+67 0 64 0 -100 S
+21 0 0 690d0+0 0d0+0
+0 0 110 0
+0 0 1
+128 0 0
+#1915
+orhad yellow archer~
+Orhad archer~
+An archer draws an arrow.
+~
+~
+67 0 128 0 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1916
+orhad yellow archer~
+Orhad archer~
+An archer in yellow fires an arrow.
+~
+~
+99 0 128 0 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1917
+orhad yellow archer~
+Orhad archer~
+An archer in yellow stands ready.
+~
+~
+67 0 128 0 100 S
+20 0 0 480d0+0 0d0+0
+0 0 100 0
+0 0 1
+512 0 0
+#1918
+belgrant red lieutenant~
+Belgrant lieutenant~
+A brightly dressed man in red stands with his sword.
+~
+A Prisoner From The Last Raid, This Elf Seems In Need Of Your Help.
+~
+67 0 64 0 -100 S
+22 0 0 780d0+0 0d0+0
+0 0 130 0
+0 0 1
+128 0 0
+#1919
+belgrant red lieutenant~
+Belgrant lieutenant~
+An armored lieutenant in red issues orders.
+~
+~
+67 0 64 0 -100 S
+22 0 0 780d0+0 0d0+0
+0 0 130 0
+0 0 1
+128 0 0
+#1920
+belgrant red lieutenant~
+Belgrant lieutenant~
+A man dressed in a red uniform commands his soilders.
+~
+~
+65 0 64 0 -100 S
+22 0 0 780d0+0 0d0+0
+0 0 130 0
+0 0 1
+128 0 0
+#1921
+belgrant yellow lieutenant~
+Orhad lieutenant~
+A man in a yellow uniform unsheaths his sword.
+~
+~
+65 0 128 0 100 S
+23 0 0 496d0+0 0d0+0
+0 0 130 0
+0 0 1
+512 0 0
+#1922
+belgrant yellow lieutenant~
+Orhad lieutenant~
+A lieutenant in yellow stands ready.
+~
+~
+33 0 128 0 100 S
+23 0 0 496d0+0 0d0+0
+0 0 130 0
+0 0 1
+512 0 0
+#1923
+belgrant yellow lieutenant~
+Orhad lieutenant~
+An Orhad soilder stands here.
+~
+~
+65 0 128 0 100 S
+23 0 0 496d0+0 0d0+0
+0 0 130 0
+0 0 1
+512 0 0
+#1924
+belgrant red general~
+Belgrant general~
+A general of Belgrantstands here.
+~
+~
+65 0 64 0 -100 S
+25 0 0 470d0+0 0d0+0
+0 0 150 0
+0 0 1
+128 0 0
+#1925
+belgrant red general~
+Belgrant general~
+A decorated general in red looks upon the war.
+~
+~
+65 0 64 0 -100 S
+25 0 0 485d0+0 0d0+0
+0 0 150 0
+0 0 1
+128 0 0
+#1926
+belgrant red general~
+Belgrant general~
+A general in red stands ready.
+~
+~
+1 0 64 0 -100 S
+25 0 0 500d0+0 0d0+0
+0 0 150 0
+0 0 0
+128 0 0
+#1927
+yellow orhad general~
+Orhad general~
+A well decorated general stands ready for war.
+~
+~
+65 0 128 0 100 S
+24 0 0 768d0+0 0d0+0
+0 0 140 0
+0 0 1
+512 0 0
+#1928
+yellow orhad general~
+Orhad general~
+A general clad in yellow stands ready.
+~
+~
+65 0 128 0 100 S
+24 0 0 768d0+0 0d0+0
+0 0 140 0
+0 0 1
+512 0 0
+#1929
+yellow orhad general~
+Orhad general~
+A highly decorated Orhad general stands here.
+~
+~
+65 0 128 0 100 S
+24 0 0 768d0+0 0d0+0
+0 0 140 0
+0 0 1
+512 0 0
+#1930
+orhad yellow hounds~
+A war dog~
+A Orhad war dog sniffs around.
+~
+~
+65 0 0 0 0 S
+19 0 0 560d0+0 0d0+0
+0 0 95 0
+0 0 2
+0 0 0
+#1931
+belgrant red hounds~
+A war dog~
+A large war dog is lapping up a puddle of blood.
+~
+~
+65 0 0 0 0 S
+19 0 0 560d0+0 0d0+0
+0 0 95 0
+0 0 1
+0 0 0
+#1932
+orhad yellow hounds~
+A war dog~
+A Orhad war dog is here chasing birds.
+~
+~
+65 0 0 0 0 S
+19 0 0 560d0+0 0d0+0
+0 0 95 0
+0 0 1
+0 0 0
+#1933
+belgrant red hounds~
+A war dog~
+A war dog is sitting here.
+~
+~
+1 0 0 0 0 S
+19 0 0 560d0+0 0d0+0
+0 0 95 0
+0 0 0
+0 0 0
+#1934
+belgrant red commander~
+Belgrant commander~
+A Belgrant commander arms himself.
+~
+~
+1 0 64 0 -100 S
+26 0 0 1140d0+0 0d0+0
+0 16 0 0
+0 0 1
+128 0 0
+#1935
+belgrant red commander~
+Belgrant commander~
+A commander in a red uniform is looking for a target.
+~
+~
+1 0 64 0 -100 S
+26 0 0 1140d0+0 0d0+0
+0 16 0 0
+0 0 1
+128 0 0
+#1936
+belgrant red commander~
+Belgrant commander~
+A soilder in a decorated uniform prepares to attack.
+~
+~
+1 0 64 0 -100 S
+26 0 0 1140d0+0 0d0+0
+0 16 0 0
+0 0 1
+128 0 0
+#1937
+orhad yellow commander~
+Orhad commander~
+An Orhad commander in yellow reaches for his axe.
+~
+~
+1 0 128 0 100 S
+27 0 0 984d0+0 0d0+0
+0 17 0 0
+0 0 1
+512 0 0
+#1938
+orhad yellow commander~
+Orhad commander~
+A man in a yellow uniform prepares his bow.
+~
+~
+1 0 128 0 100 S
+27 0 0 984d0+0 0d0+0
+0 17 0 0
+0 0 1
+512 0 0
+#1939
+orhad yellow commander~
+Orhad commander~
+A cowardly Orhad commander is waving a white flag.
+~
+~
+1 0 128 0 100 S
+27 0 0 984d0+0 0d0+0
+0 17 0 0
+0 0 1
+512 0 0
+#0
+
+
+
+#OBJECTS
+#1900
+belgrant long sword~
+a silver long sword.~
+A long sword with the Belgrant emblem on it.~
+~
+5 2 0 0 8193 20
+0~ 0~ 0~ 3~
+4 0 20 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 20
+A
+19 17
+#1901
+orhad long sword~
+a silver long sword~
+A silver long sword with the orhad emblem on it.~
+~
+5 0 0 0 8193 20
+0~ 0~ 0~ 3~
+4 0 20 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 17
+A
+19 20
+#1902
+belgrant short sword~
+a silver short sword~
+A silver short sword with the Belgrant emblem.~
+~
+5 0 0 0 8193 19
+0~ 0~ 0~ 1~
+3 0 15 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 18
+A
+19 16
+#1903
+no name~
+a silver short sword~
+A silver short sword with an Orhad emblem on it.~
+~
+5 0 0 0 8193 19
+0~ 0~ 0~ 0~
+3 0 15 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 18
+A
+18 16
+#1904
+bastered sword belgrant~
+a silver bastered sword~
+A silver bastered sword with a Belgrant emblem on it's hilt.~
+~
+5 0 0 0 8193 22
+0~ 0~ 0~ 3~
+5 0 30 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 21
+A
+19 20
+#1905
+bastered sword orhad~
+a silver bastered sword~
+A silver bastered sword with the orhad emblem.~
+~
+5 0 0 0 8193 22
+0~ 0~ 0~ 3~
+5 0 30 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 20
+A
+19 21
+#1906
+broad sword belgrant~
+a silver broad sword~
+A silver broad sword with the belgrant emblem.~
+~
+5 0 0 0 8193 24
+0~ 0~ 0~ 3~
+4 0 40 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 24
+A
+18 23
+#1907
+broad sword orhad~
+a silver broad sword~
+A silver broad sword with an Orhad emblem.~
+~
+5 0 0 0 8193 24
+0~ 0~ 0~ 0~
+4 0 40 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1908
+foil belgrant~
+a silver fencing foil.~
+A silver fencing foil with a belgrant emblem.~
+~
+5 0 0 0 8193 23
+0~ 0~ 0~ 11~
+2 0 25 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 23
+A
+19 23
+#1910
+whip orhad~
+a black whip~
+A leather whip with a Orhad beand on it.~
+~
+5 0 0 0 8193 23
+0~ 0~ 0~ 0~
+2 0 25 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 26
+A
+19 23
+#1911
+dagger belgrant~
+a silver dagger~
+A silver dagger with the Belgrant emblem etched into the blade.~
+~
+5 16384 0 0 8193 26
+0~ 0~ 0~ 2~
+2 0 37 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 25
+A
+19 28
+#1912
+orhad contraption thingy~
+a strange contraption~
+An odd looking thingy ~
+~
+5 0 0 0 8193 26
+0~ 0~ 0~ 6~
+3 0 40 0 0
+5 0
+high explosive~
+0 0
+0 0 0
+A
+18 22
+A
+19 30
+#1913
+belgrant dragon claw~
+{RDr{rag{Kon {RCl{ra{Kw{x~
+The magical red dragon claw of Belgrant.~
+~
+5 6 0 0 8193 26
+0~ 0~ 0~ 5~
+6 0 40 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 28
+A
+19 28
+A
+5 1
+A
+1 1
+#1914
+orhad katana~
+{WOr{Yha{yd's {WHo{Yn{yor{x~
+The ancient sword of the Orhad.~
+~
+5 0 0 0 8193 26
+0~ 0~ 0~ 3~
+3 0 4 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 27
+A
+18 29
+A
+3 1
+A
+1 1
+#1915
+orhad bow~
+a long bow~
+A Orhad long bow.~
+~
+5 0 0 0 8193 26
+0~ 0~ 0~ 0~
+4 0 30 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 24
+#1916
+axe orhad~
+a large silver axe~
+A large silver axe with the Orhad emblem on it.~
+~
+5 0 0 0 8193 26
+0~ 0~ 0~ 0~
+0 0 45 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 31
+A
+18 26
+#1917
+bow orhad~
+a short bow~
+An Orhad short bow.~
+~
+5 0 0 0 8193 20
+0~ 0~ 0~ 0~
+4 0 30 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 24
+A
+19 24
+#1918
+bow belgrant~
+a short bow~
+A short bow of Belgrant.~
+~
+5 0 0 0 8193 20
+0~ 0~ 0~ 0~
+0 0 30 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 22
+A
+19 25
+#1919
+white flag~
+a small white flag~
+A small white flag.~
+~
+13 0 0 0 16385 1
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1920
+staff fireball~
+staff of fire~
+A staff of fire.~
+~
+4 0 0 0 16385 20
+15~ 3~ 3~ fireball~
+2 0 60 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1921
+staff fire~
+flamestrike wand~
+A wand of flamestrike.~
+~
+4 0 0 0 16385 20
+19~ 1~ 1~ flamestrike~
+2 0 70 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1922
+staff lightning~
+wand of lightning~
+A sparking wand.~
+~
+4 0 0 0 16385 20
+18~ 3~ 3~ lightning bolt~
+2 0 70 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1923
+wand chain~
+lightning rod~
+A sparking lightning rod.~
+~
+3 0 0 0 16385 20
+15~ 1~ 1~ chain lightning~
+2 0 90 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1924
+war banner orhad~
+a {WOr{Yha{yd{x war banner~
+A banner of war.~
+~
+9 0 0 0 16385 25
+0~ 0~ 0~ 0~
+2 0 90 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+5 1
+A
+13 10
+A
+12 10
+A
+4 -1
+A
+3 -1
+#1925
+war banner belgrant~
+{RBel{rgra{Knt{x war banner~
+A war banner~
+~
+9 0 0 0 16385 25
+0~ 0~ 0~ 0~
+2 0 90 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 10
+A
+12 10
+A
+5 1
+A
+4 -1
+A
+3 -1
+#1926
+medal honor orhad~
+medal of {WHo{Yn{yor{x~
+An Orhad medal.~
+~
+9 256 0 0 5 26
+4~ 0~ 0~ 0~
+1 3 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+5 2
+#1927
+medal belgrant war~
+medal of {RW{ra{Kr{x~
+A Belgrant medal of war.~
+~
+9 4 0 0 5 26
+4~ 0~ 0~ 0~
+0 3 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+1 2
+#1928
+chain mail chainmail~
+chainmail Armor~
+A piece of chainmail armor~
+~
+9 0 0 0 9 20
+20~ 0~ 0~ 0~
+3 10 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1929
+helm iron~
+an iron helm~
+An iron helm~
+~
+9 0 0 0 17 20
+20~ 0~ 0~ 0~
+3 3 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1930
+cloak red blegrant~
+a {RBel{rgra{Knt {xcloak~
+An cloak from Belgrant.~
+~
+9 16 0 0 5 25
+25~ 0~ 0~ 0~
+1 30 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+12 10
+A
+25 10
+#1931
+cape orhad yellow golden~
+a {WOr{Yha{yd {xcape~
+A war cape of the Orhad.~
+~
+9 0 0 0 5 25
+25~ 0~ 0~ 0~
+1 30 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 10
+#1932
+ankle braclet~
+an Ankle braclet~
+A war dog's ankel braclet.~
+~
+9 0 0 0 1048577 19
+15~ 0~ 0~ 0~
+2 0 100 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#1900
+Entrance to the Orhad Outpost~
+A large wooden fence surrounds this outpost.  From insides screams and
+warcries can be heard.  There is a war going on in there, a war that has
+raged for many years between the Belgrant and the Orhad tribes.  The {Wye{Yll{yow{x
+flag of the {WOr{Yha{yd{x hangs broken atop the smashed front gate.  A guard lies
+dead on the ground, his yellow armor pierced and his yellow suit soaked in
+blood.  To the north, beyond the gate, lies a battle ground...  
+~
+0 0 0 1
+Rd     0
+D0
+~
+gate~
+0 0 1901
+O ~
+S
+#1901
+Inside the Gate~
+The sounds of war have already get louder by the second.  Small pudles of
+blood line the street along side boddies of the those who left them.  Smoke
+can be seen up ahead, fire crackling atop a hay roof.  To the south is the
+main gate, the exit from this war.  Next to the gate lay a few bodies of
+those who couldn't flee fast enough to eacape death.  To the north, more
+war.  
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 0 1902
+D2
+~
+gate~
+0 0 1900
+O ~
+S
+#1902
+Four Way Intersection~
+All around there is fighting, a war with a purpose long forgotten, and
+fueled only by hate and vengences.  Men scream, dogs welp, the sounds of war
+are everywhere.  The smell of blood filles the streets and is masked only by
+the smell of smoke comming from the east.  To the north a large tower can be
+seen with arrows flying from it's upper part.  Loud howls can be heard from
+the a westren direction.  
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 0 1911
+D1
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 1903
+O ~
+S
+#1903
+Path to Huts~
+You are walking down a small dirt path leading to a tiny grouping of
+huts.  The huts are farther to the west.  You can reach the main walkway by
+going east.  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1904
+O ~
+S
+#1904
+Before The Huts~
+The wall of the outpost prevents you from going further west.  The small
+huts you saw earlier are to the north and south.  You can go back to the
+main walkway by heading due east.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1905
+D1
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1906
+O ~
+S
+#1905
+Goblin Hut~
+The stench that assaults your nostrils as you enter the hut nearly
+overwhelms you.  Although these goblins may be better organized, they sure
+aren't any cleaner than any other goblin tribe you've met before.  There is
+a small bed in a corner and a bunch of scattered garbage everywhere else. 
+Fresh air is to the north.  
+~
+0 401416 0 0
+Rd     0
+D2
+~
+~
+0 0 1904
+O ~
+S
+#1906
+Goblin Hut~
+The stench that assaults your nostrils as you enter the hut nearly
+overwhelms you.  Although these goblins may be better organized, they sure
+aren't any cleaner than any other goblin tribe you've met before.  There is
+a small bed in a corner and a bunch of scattered garbage everywhere else.
+Fresh air is to the south.
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1904
+O ~
+S
+#1907
+Path To Huts~
+Smoke filles this street
+~
+0 1 0 1
+Rd     0
+D1
+~
+~
+0 0 1908
+D3
+~
+~
+0 0 1902
+O ~
+S
+#1908
+Before The Huts~
+The wall of the outpost prevents you from going further east.  The small
+huts you saw earlier are to the north and south.  You can go back to the
+main walkway by heading due west.
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1909
+D2
+~
+~
+0 0 1910
+D3
+~
+~
+0 0 1907
+O ~
+S
+#1909
+Goblin Hut~
+The stench that assaults your nostrils as you enter the hut nearly
+overwhelms you.  Although these goblins may be better organized, they sure
+aren't any cleaner than any other goblin tribe you've met before.  There is
+a small bed in a corner and a bunch of scattered garbage everywhere else. 
+Fresh air is to the south.  
+~
+0 401416 0 0
+Rd     0
+D2
+~
+~
+0 0 1908
+O ~
+S
+#1910
+Goblin Hut~
+The stench that assaults your nostrils as you enter the hut nearly
+overwhelms you.  Although these goblins may be better organized, they sure
+aren't any cleaner than any other goblin tribe you've met before.  There is
+a small bed in a corner and a bunch of scattered garbage everywhere else. 
+Fresh air is to the north.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1908
+O ~
+S
+#1911
+Main Walkway~
+As you walk down the walkway, you begin to hear faint sounds of metal
+clanging and screams.  There is an intersection to the south while the
+walkway continues north.  
+~
+0 401412 0 0
+Rd     0
+D0
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1902
+O ~
+S
+#1912
+Main Walkway~
+The farther north you go, the more apparent it is that the sounds you
+were hearing are those of fighting.  They seem to come from the north.
+Far off to the south is the only way out of here.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1911
+O ~
+S
+#1913
+A Four Way Intersection~
+At last, you can see what all the commotion is about, to the east and
+west, you can see goblins training in small fields.  You can also see a
+structure to the north.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1914
+D1
+~
+~
+0 0 1922
+D2
+~
+~
+0 0 1912
+D3
+~
+~
+0 0 1915
+O ~
+S
+#1914
+Main Walkway~
+Continuing down the walkway, you see a large tower before you.  It's
+already pretty high and you're not that close to it yet.  You can reach the
+tower by continuing you journey to the north or turn back to the south.  
+~
+0 401412 0 0
+Rd     0
+D0
+~
+~
+0 0 1929
+D2
+~
+~
+0 0 1913
+O ~
+S
+#1915
+Road of Training~
+The road is littered with broken armor and weapons, you can see small
+puddles of blood drying in a few spots.  Decidedly, these goblins don't take
+too many precautions when training.  You can reach the western training
+grounds by continuing west or go back to the main walkway be heading east.  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1913
+D3
+~
+~
+0 0 1916
+O ~
+S
+#1916
+Road Of Training~
+There is more blood, armor and weapons everywhere.  The entrance to the
+training grounds is close by to the west.  A short walk to the east will get
+you back to the walkway.  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1917
+O ~
+S
+#1917
+Before the Training Grounds~
+You arrive at the entrance to the training grounds.  You can enter them
+by going north or leave east.  The outpost wall prevent continuing to the
+west.  
+~
+0 401412 0 0
+Rd     0
+D0
+~
+~
+0 0 1918
+D1
+~
+~
+0 0 1916
+O ~
+S
+#1918
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1919
+D2
+~
+~
+0 0 1917
+D3
+~
+~
+0 0 1920
+O ~
+S
+#1919
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D2
+~
+~
+0 0 1918
+D3
+~
+~
+0 0 1921
+O ~
+S
+#1920
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1921
+D1
+~
+~
+0 0 1918
+O ~
+S
+#1921
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1919
+D2
+~
+~
+0 0 1920
+O ~
+S
+#1922
+Road of Training~
+The road is littered with broken armor and weapons, you can see small
+puddles of blood drying in a few spots.  Decidedly, these goblins don't take
+too many precautions when training.  You can reach the eastern training
+grounds by continuing east or go back to the main walkway be heading west.  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1913
+O ~
+S
+#1923
+Road of Training~
+There is more blood, armor and weapons everywhere.  The entrance to the
+training grounds is close by to the east.  A short walk to the west will get
+you back to the walkway.  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1922
+O ~
+S
+#1924
+Before the Training Guards~
+You arrive at the entrance to the training grounds.  You can enter them
+by going north or leave west.  The outpost wall prevent continuing to the
+east.  
+~
+0 401412 0 0
+Rd     0
+D0
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1923
+O ~
+S
+#1925
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.  
+~
+0 401420 0 0
+Rd     0
+D0
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1927
+O ~
+S
+#1926
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D2
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1928
+O ~
+S
+#1927
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1928
+D1
+~
+~
+0 0 1925
+O ~
+S
+#1928
+Training Ground~
+Whoa!  There is blood everywhere!  How can there still be goblins
+standing?  Broken armor and weapons lie in heaps everywhere.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1927
+O ~
+S
+#1929
+Captain's Quarters~
+After stopping to admire the tower before you, you hear faint voices
+comming from below you.  You look down and notice you are standing on a
+gratting.  It's pretty obvious that this is some kind of cell to keep
+prisoners.  A little off north is the entrance to the tower, while you can
+just barely see the southern gate from here.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+door~
+3 0 1930
+D2
+~
+~
+0 0 1914
+D5
+~
+gratting~
+3 0 1956
+O ~
+S
+#1930
+Base of the Tower~
+The many windows in this room make it so you can see pretty well even
+without a light.  There is a small trail in the dirt floor which leads to
+the rooms only object.  A ladder in the back of the room leads to the upper
+level of the tower.  You can exit the tower out the southern door.  
+~
+0 401420 0 0
+Rd     0
+D2
+~
+~
+3 0 1929
+D4
+~
+~
+0 0 1931
+O ~
+S
+#1931
+Up the Ladder~
+You are on the ladder, climb on up or go back down.  The is nothing else
+to do in this shaft.  
+~
+0 401416 0 0
+Rd     0
+D4
+~
+~
+0 0 1932
+D5
+~
+~
+0 0 1930
+O ~
+S
+#1932
+Up the Ladder~
+Again you are in a small ordinary shaft.  Looking up, you notice that the
+end of the ladder is close.  
+~
+0 401416 0 0
+Rd     0
+D4
+~
+~
+0 0 1933
+D5
+~
+~
+0 0 1931
+O ~
+S
+#1933
+Entrance to the Tower~
+You pull yourself up the last of the ladder and find yourself at the
+entrance to the tower.  Other than a desk on the left side of the room,
+there is nothing else here.  You can enter the tower by going south or leave
+back down the ladder.  
+~
+0 401416 0 0
+Rd     0
+D2
+~
+door~
+0 0 1934
+D5
+~
+~
+0 0 1932
+O ~
+S
+#1934
+Four Way Intersection~
+As soon as you enter the tower, you are faced with choosing a direction
+as the hallway splits in all directions.  From what you can see by looking
+east and west, there must be some kind of watchpoint in those directions. 
+To the south the walkway continues on.  The exit to the tower is directly to
+the north.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1933
+D1
+~
+~
+0 0 1938
+D2
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1935
+O ~
+S
+#1935
+Path to Archer Tower~
+You are on the way to what appears to be an archer's tower.  Will you
+continue on your way or go back?  
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1934
+D3
+~
+~
+0 0 1936
+O ~
+S
+#1936
+Path To Archer Tower~
+You can clearly see the tower from here, and what appears to be movement.
+The path leads both east and north.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1937
+D1
+~
+~
+0 0 1935
+O ~
+S
+#1937
+Archer Tower~
+You have a clear view of the back of the outpost.  You think to yourself
+what kind of army would be needed to surmount such a wall.  
+~
+0 401408 0 0
+Rd     0
+D2
+~
+~
+0 0 1936
+O ~
+S
+#1938
+Path To Archer Tower~
+The path leads on to the tower or back to the intersection.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1934
+O ~
+S
+#1939
+Path To Archer Tower~
+You can clearly see the tower from here, and what seems to be movement,
+be on your guard.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1938
+O ~
+S
+#1940
+Archer Tower~
+You have a view of the rear of the outpost.  You think to yourself that
+an army of 500 soldier would have difficulty in climbing succesfully raiding
+this place.  
+~
+0 401408 0 0
+Rd     0
+D2
+~
+~
+0 0 1939
+O ~
+S
+#1941
+Tower Walkway~
+A walkway in the tower, everything seems normal except the light comming
+from the ceiling, maybe you should invertigate?  The walkway continues North
+and South of here.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1934
+D2
+~
+~
+0 0 1942
+D4
+~
+~
+3 0 1952
+O ~
+S
+#1942
+Tower Walkway~
+It Appears to be a normal walkway, it continues on northwards and
+southwards.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1943
+O ~
+S
+#1943
+Four Way Intersection~
+You can see a huge vault door south of here, alot of energy seems to seep
+from the cracks.  East and west exits seem to lead to a tower window, the
+walkway lies south of here, maybe you should head back there right now?  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1942
+D1
+~
+~
+0 0 1947
+D2
+~
+vault~
+3 0 1950
+D3
+~
+~
+0 0 1944
+O ~
+S
+#1944
+Path To Archer Tower~
+An Archer Tower lies west of here, you can almost see it from here.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1943
+D3
+~
+~
+0 0 1945
+O ~
+S
+#1945
+Path To Archer Tower~
+You have a clear view of the tower, there seems to be movement however.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1944
+D2
+~
+~
+0 0 1946
+O ~
+S
+#1946
+Archer Tower~
+You have an undisturbed view of nearly the whole outpost.  It seems well
+organised, every goblin seems to have his place in the structure and the
+order of this advanced goblin civilisation.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1945
+O ~
+S
+#1947
+Path To Archer Tower~
+An Archer tower lies east of here, be on your guard.
+~
+0 401408 0 0
+Rd     0
+D1
+~
+~
+0 0 1948
+D3
+~
+~
+0 0 1943
+O ~
+S
+#1948
+Path To Archer Tower~
+You're getting closer to it, you can see what appears to be an opening.  
+~
+0 401408 0 0
+Rd     0
+D2
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1947
+O ~
+S
+#1949
+Archer Tower~
+You can see all of the Goblin outpost from here.  It appears to be well
+protected against invasion as well as well organised, every goblin seems to
+know where he should be and what he should be doing.  The only exit lies
+north.  
+~
+0 401408 0 0
+Rd     0
+D0
+~
+~
+0 0 1948
+O ~
+S
+#1950
+Goblin Treasury~
+Here lies the chest of the acumulated riches of this civilisation.  It
+also serves as the alchemists quarters, he better not find you in here.  The
+only exit lies north.  
+~
+0 393244 0 0
+Rd     0
+D0
+~
+vault~
+3 0 1943
+O ~
+S
+#1951
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#1952
+Top of the Tower~
+This place seems to be dangerous, be on your guard.  The exits lie down
+and south.  
+~
+0 401416 0 0
+Rd     0
+D2
+~
+~
+0 0 1953
+D5
+~
+~
+3 0 1941
+O ~
+S
+#1953
+Top of the Tower~
+This seem to be a great place for an ambush.  You move around cautiously.
+The path goes onwards towards the south and north.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1952
+D2
+~
+~
+0 0 1954
+O ~
+S
+#1954
+Before the Chamber~
+You can see the royal chamber from here.  You feel as though you don't
+belong here.  You might end up dead.  The numerous skulls on the door would
+indicate as much.  
+~
+0 401416 0 0
+Rd     0
+D0
+~
+~
+0 0 1953
+D2
+~
+~
+3 0 1955
+O ~
+S
+#1955
+Royal Chamber~
+The king of the goblins has a real taste for exquisite material.  The
+Room is ornamented with all kinds of satin and silk tapestries.  There is
+also a great deal of object encrusted with gold.  You might want to leave
+everything as it is and go back to where you belong.  
+~
+0 401424 0 0
+Rd     0
+D0
+~
+~
+3 0 1954
+O ~
+S
+#1956
+Outpost Dungeon~
+A prison for the goblins most hated ennemy is here.  It usually serves
+for elves, as you can see by the skulls and the material on the floor,
+generally of elf kind.  
+~
+0 401416 0 0
+Rd     0
+D4
+~
+gratting~
+3 0 1929
+O ~
+S
+#1960
+Defender's Room~
+where my defenders load in
+~
+0 401428 0 0
+Rd     0
+O ~
+S
+#0
+
+
+
+#SPECIALS
+M 1902 spec_cast_mage
+M 1907 spec_cast_mage
+M 1908 spec_cast_mage
+M 1909 spec_cast_mage
+M 1910 spec_cast_mage
+M 1911 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 1922 4 1960
+E 0 1905 0 20
+E 0 1905 0 21
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

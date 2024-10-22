@@ -1,0 +1,135 @@
+#AREADATA
+Name        {{ALL}} The World~
+Levels      0 0
+Builders    Jereth~
+VNUMs       30800 31099
+Security    9
+Recall      25000
+Flags       16
+Sounds      The winds blows~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#30800
+*note*~
+This area is created for the purpose of liking area without the need of
+useing area vnum for a walk.  This allows the creation of long distances
+between areas *cackle* 
+ 
+300 vnums here. Was created with vnums 30800-31099
+ 
+-{BJ{cereth{x
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#30801
+West of Ravenwood~
+The light here minimal, mostly blocked out by the thick forest west of
+the dark city Ravenwood.  To the east stands a large iron cast gate that
+reveals the westren end of Ravenwood through it's bars.  To the west, a
+large thick forest casting a long shadow upon Ravenwood.  
+~
+0 1 0 3
+Rd     0
+D1
+~
+gate~
+3 0 1319
+D3
+~
+~
+0 0 30802
+O ~
+S
+#30802
+Ravenwood Forest~
+Night and day are one in this forest.  The thick trees let little to no
+light within these woods.  Small rodents scurrie about the forest floor in
+search of smaller rodents to eat.  The dirt path heads to the east towards
+Ravenwood and also veers north deeper into the forest.  
+~
+0 1 0 3
+Rd     0
+D0
+~
+~
+0 0 30803
+D1
+~
+~
+0 0 30801
+O ~
+S
+#30803
+Ravenwood Forest~
+No vegitation can recive light on the floor of a forest this thick, thus
+it is covered with a garden of rocks and dirt.  Smaller trees unablr to
+recive light lay fallen on the ground and agienst other trees.  A few large
+rocks pretrude from the ground creating an even more gothic look.  The path
+leads both north and south.  
+~
+0 1 0 3
+Rd     0
+D0
+~
+~
+0 0 30804
+D2
+~
+~
+0 0 30802
+O ~
+S
+#30804
+Before Ravenwood Forest~
+Lightning crashes as an eternal storm rages on outside this forest.  For
+many years the rain has fallen without sign of stopping.  To the south lies
+the deep forest of Ravenwood.  The forest is too thick and dark to see into
+it.  To the north, a huge stone tower.  
+~
+0 1 0 3
+Rd     0
+D0
+~
+~
+0 0 300
+D2
+~
+~
+0 0 30803
+O ~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,50 @@
+#AREADATA
+Name        {Sect} Providence Cove~
+Levels      15 101
+Builders    Rhylus~
+VNUMs       23100 23199
+Security    9
+Recall      25000
+Flags       16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#23100
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1515 @@
+#AREADATA
+Name        {00 00} Xalgaroth's Area~
+Levels      15 101
+Builders    Xalgaroth~
+VNUMs       14700 14799
+Security    1
+Recall      25000
+Flags       16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#14700
+ring duty~
+a ring of duty.~
+The fabled ring of duty lies here on the floor.~
+~
+9 3 0 0 3 105
+25~ 0~ 0~ 0~
+5 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 50
+A
+18 50
+A
+17 -100
+A
+13 100
+#0
+
+
+
+#ROOMDATA
+#14700
+Before the Gates~
+The front gates are massive beyond belief. These gates have been built to
+withstand the repeated attacks of the dwarven enemies such as orcs and
+giants. In the 300 years since work was completed, no one has ever breached
+them. The workmanship is that as only generations of dwarves can do. The
+finish is utterly smooth except where dwarven runes of protection and
+strength adorn it.
+~
+0 1073741824 0 5
+Rd     0
+E
+gates~
+Massive works of stone that is covered with runes.
+~
+D0
+~
+~
+0 -1 14701
+S
+#14701
+The Front Gates~
+This is literally inside the gates. They are fully 20 feet thick and drop down
+from above. When they drop the gates and seal the city, the only way in is to
+tunnel through 20 feet of solid granite. And considering the fact that is takes
+almost 3 days and half the city to open them again, the king does not close
+them without good cause. 
+~
+0 1073741832 0 13
+Rd     0
+E
+gates~
+The gates hang in the air like a giant hammer over the street.
+~
+D0
+~
+~
+0 -1 14702
+D2
+~
+~
+0 -1 14700
+S
+#14702
+Beyond the Gates~
+After finally going through the gates, the tunnel is flanked to the east and
+west by 2 guard posts. With all the guard activity in this area, it appears
+that the posts are well manned. The repeated attacks of orcs and other foul
+beings require that the dwarves take the defense of thier homeland very
+seriously. They can not afford to be caught off guard.
+~
+0 1073741824 0 13
+Rd     0
+D0
+~
+~
+0 -1 14705
+D1
+~
+~
+0 -1 14703
+D2
+~
+~
+0 -1 14701
+D3
+~
+~
+0 -1 14704
+S
+#14703
+Eastern Guard Post~
+The eastern guard post has the sleeping quarters and the mess area for the
+quards. The floor is very clean and there are no dirty pans in the sink. The
+captain of the guard requires that everyone clean up after themselves with
+no exceptions. Sometimes a few of the guards sleep here when they are too
+tired to go home.
+~
+0 1073741824 0 13
+Rd     0
+D3
+~
+~
+0 -1 14702
+S
+#14704
+Western Guard Post~
+This is the western part of the main guard post that guards the front gate.
+This is where the extra weapons and armor for the guards is kept. The weapon
+racks are locked as tight as the spare armor is. There is a grinding wheel to
+perform basic upkeep on the weapons, while there is spare leather straps and
+plates for armor. All of it, except the wheel, is locked up tight of course. 
+Only the sargents and above have keys to unlock them.
+~
+0 1073741824 0 13
+Rd     0
+E
+racks~
+Locked up tight with a well crafted dwarven lock on them.
+~
+E
+wheel~
+This wheel is used to keep a sharp edge on the dwarven axes.
+~
+D1
+~
+~
+0 -1 14702
+S
+#14705
+Main Tunnel~
+After passing the guard posts, the tunnel continues on straight into the heart
+of the mountain. The pathway is broad and smooth with a high ceiling. Dwarven
+runes and glyphs of strength and protection adorn everything but the floor.
+Up ahead, the tunnel seems to curve to the east but how much is difficult to
+tell from here.
+~
+0 1073741824 0 13
+Rd     0
+E
+glyphs~
+Dwarven runes and glyphs of strength and protection.
+~
+E
+runes~
+Dwarven runes and glyphs of strength and protection.
+~
+D0
+~
+~
+0 -1 14706
+D2
+~
+~
+0 -1 14702
+S
+#14706
+Turn to the East~
+The tunnel makes a sharp turn to the right here, probably to slow down any
+army that may be trying to invade the dwarven kingdom. By using chokepoints
+and sharp turns, the dwarves hopes to slow the invaders down to permit the
+dwarves to better defend themselves from the attack. The slower the invaders
+are, the more crossbow quills may be fired to thin the enemy ranks.
+~
+0 1073741824 0 13
+Rd     0
+D1
+~
+~
+0 -1 14707
+D2
+~
+~
+0 -1 14705
+S
+#14707
+Turn to the North~
+The tunnel turns back to the north here and narrows quite a bit. It only wide
+enough here to permit two dwarves abreast of one another. By forcing the enemy
+through here, only a few of them may advance, while many dwarves can be on the
+other side attempting to stop them. The ground rises slightly here to permit
+dwarven crossbowman to fire over the heads of the dwarven infantry defending
+these tunnels.
+~
+0 1073741824 0 13
+Rd     0
+D0
+~
+~
+0 -1 14708
+D3
+~
+~
+0 -1 14706
+S
+#14708
+Turn to the West~
+After rising a few feet, the tunnel turns sharply to the left. Notches are cut
+into the walls here to allow the dwarves to stockpile quivers of crossbow
+quarrels in the event of an attack. This is one of the primary defensive
+positions and the names of those who have fallen defending it have been carved
+into walls to remember them and to also add strength to those who still do.
+~
+0 1073741824 0 13
+Rd     0
+E
+notches~
+These notches are cut to hold extra quivers of quarrels for the crossbows
+of those defending the city.
+~
+D2
+~
+~
+0 -1 14707
+D3
+~
+~
+0 -1 14709
+S
+#14709
+Turn to the North~
+The tunnel opens up somewhat here and also turns back to the north. The floor
+has flatted back out after rising the last few turns. The walls here carry
+the ever present dwarven runes of strength and protection carved into them.
+Up ahead the tunnel seems to continue straight towards the dwarven kingdom.
+~
+0 1073741824 0 13
+Rd     0
+D0
+~
+~
+0 -1 14710
+D1
+~
+~
+0 -1 14708
+S
+#14710
+Main Tunnel~
+The first thing that is noticeable about this part of the tunnel is the large
+stone button on the wall. There is the usual dwarven runes here there is
+also a message carved in common on the wall above the button. Another thing
+that stands out is the glyph for danger and one of warning carved repearedly
+all over the walls.
+~
+0 1073741824 0 13
+Rd     0
+E
+button~
+A large stone button.
+~
+E
+message~
+Do not push the button except in case of extreme emergency!
+~
+E
+glyph~
+One says danger in dwarven and common and the other is a warning in common
+and dwarven.
+~
+D0
+~
+~
+0 -1 14711
+D2
+~
+~
+0 -1 14709
+S
+#14711
+Upward Slope~
+After going straight ahead for a while, the tunnel slopes sharply upwards and
+narrows considerably here. The passageway looks slightly bigger than a fully
+armed and armored dwarf. Anything human sized or taller must duck to continue
+upwards. Anything very large, like a giant, would be almost on thier hands
+and knees crawling. This makes it impossible for anyone to try to charge up
+the slope without taking devastating losses.
+~
+0 1073741824 0 13
+Rd     0
+D2
+~
+~
+0 -1 14710
+D4
+~
+~
+0 -1 14712
+S
+#14712
+Top of Slope~
+After finally ascending the slope, the tunnel opens out into a large passageway
+that seems to lead into the city proper. After all the previous defenses, the
+dwarves hope that there would not be much of a threat left alive to continue
+the attack. And if there is, then they would have to take the city by house
+to house fighting. With every dwarven household armed and ready to fight, it
+would be a slow and costy endevour.
+~
+0 1073741824 0 13
+Rd     0
+D0
+~
+~
+0 -1 14713
+D5
+~
+~
+0 -1 14711
+S
+#14713
+Main Entryway~
+Up ahead can be seen the begining of the city. A broad, smooth street leads
+north to the city and to an intersection which can be seen from here. The
+rising ceiling echos the normal hustle and bustle of a city full of hard
+working dwarves trying to create a safe haven for all dwarves. They do not
+believe in slacking off for an instant. To not be prepared in the face of the
+many dwarven foes would court disaster.
+~
+0 1073741824 0 13
+Rd     0
+D0
+~
+~
+0 -1 14714
+D2
+~
+~
+0 -1 14712
+S
+#14714
+Main Street~
+The main street of the dwarven kingdom of Rockhold starts here and heads
+north through town. Looking to the east, Hammer street can be seen while
+Axe street is to the west. Looking farther north on Main street, the armory
+with its excellent dwarven forged armor can be seen. Most of the main shops
+can be found on Main street while the smaller shops can be found on the side
+streets such as Hammer and Axe.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14715
+D1
+~
+~
+0 -1 14734
+D2
+~
+~
+0 -1 14713
+D3
+~
+~
+0 -1 14721
+S
+#14715
+Main Street~
+The sharp ringing of metal on metal can be heard from the west coming from the
+armoury. In a city of dwarves, it is seldom that somewhere in the city someone
+isn't forging something. With the fear of constant attack by orcs and other
+enemies, weapons and armor must be in constant supply. Main street continues
+to run north and south here and a resturant can be seen to the east although
+the entrance is farther north.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14716
+D2
+~
+~
+0 -1 14714
+D3
+~
+~
+0 -1 14757
+S
+#14716
+Main Street~
+There is another guard post to the west, while the entrance to a resturant is
+east of here. The center of the city and the main water supply for the city
+is to the north of here and the armoury is to the southwest of here. Main
+street itself continues to run north and south along here on a smooth granite
+surface.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14717
+D1
+~
+~
+0 -1 14754
+D2
+~
+~
+0 -1 14715
+D3
+~
+~
+0 -1 14752
+S
+#14717
+Cistern Square~
+This the center of the city. The dwarven king chose this location because of
+the ample supply of water found in the natural deep well located here. He
+had it smoothed out and pipes installed to carry water through out the city.
+There is also a bucket and windlass to allow anyone who needs it to get water
+whenever they may need it. Shield street crosses Main street here running
+east and west while Main street continues to the north and also back south.
+~
+0 1073741824 0 1
+Rd     0
+E
+cistern~
+This well is almost 20 feet wide and goes down out of sight.
+~
+D0
+~
+~
+0 -1 14718
+D1
+~
+~
+0 -1 14745
+D2
+~
+~
+0 -1 14716
+D3
+~
+~
+0 -1 14732
+S
+#14718
+Main Street~
+A bakery lies to the west while another guard post lies to the east. There
+seems to be a guard post on every corner in this city. Either there is lots of
+crime here or there is almost no crime because of the posts. Knowing the dour
+nature of the dwarves and thier dislike for criminals, there probably is not
+much crime here to worry about.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14719
+D1
+~
+~
+0 -1 14753
+D2
+~
+~
+0 -1 14717
+D3
+~
+~
+0 -1 14758
+S
+#14719
+Main Street~
+Judging by the number of people entering and exiting it, the bar to the west
+must be very popular. Loud music and the sound of a great many people talking
+and fighting can be heard out here in the street even. Things must not be to
+out of hand because the local guard hasn't shown up yet. There is a sign
+hanging by the door to the bar showing what seems to be a giant's twisted leg
+and a large hammer.
+~
+0 1073741824 0 1
+Rd     0
+E
+sign~
+The Kneecapper.
+~
+D0
+~
+~
+0 -1 14720
+D2
+~
+~
+0 -1 14718
+D3
+~
+~
+0 -1 14761
+S
+#14720
+Main Street~
+Main street ends here after going through the center of town. Hammer street
+goes off the east from here while Axe street heads to the west. A loud and
+rowdy bar can be heard from the southwest and the ringing of a hammer on steel
+can be heard from the southeast coming from the local weapon shop. The ceiling
+has sloped down enough to be seen from here.
+~
+0 1073741824 0 1
+Rd     0
+E
+ceiling~
+The ceiling appears to be carved from solid granite and very smooth.
+~
+D1
+~
+~
+0 -1 14744
+D2
+~
+~
+0 -1 14719
+D3
+~
+~
+0 -1 14731
+S
+#14721
+Axe Street~
+This is the start of Axe street as it winds towards the western part of the
+city. At the edge of the city here, the ceiling can be seen coming down to
+blend into the south wall. Both have been carved from solid granite and bear
+the mark of the usual dwarven craftsmanship. There is an armor shop to the
+north but there is no entrance from here.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14714
+D3
+~
+~
+0 -1 14722
+S
+#14722
+Axe Street~
+Following Axe street through the western part of town, an empty shop can be
+seen to the north. The door is open and the darken interior can be seen from
+here. Again, the ceiling can be seen sloping up into darkness. There is an
+armor shop to the northeast. Axe street continues to the east and to the west.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14765
+D1
+~
+~
+0 -1 14721
+D3
+~
+~
+0 -1 14723
+S
+#14723
+Axe Street~
+As Axe street turns to the north, yet another guard post can be seen to the
+southwest. The dwarven kingdom of Rockhold does not take the defense of thier
+homeland lightly. The constant state of readiness is almost paranoid in
+nature. Rockhold does not seem to be the best place to cause trouble, as it
+can be fatal.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14724
+D1
+~
+~
+0 -1 14722
+S
+#14724
+Axe Street~
+Here at the western edge of the city, Axe street runs north and south along
+a very smooth road. The road, along with the ceiling, was carved from granite
+and shows no chisel marks what so ever. There is an empty shop to the east and
+another to the north east, although there is no way into them from here. This
+must be the poorer part of town, if you can call anyone wearing 100 pounds of
+mithiral poor.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14725
+D2
+~
+~
+0 -1 14723
+S
+#14725
+Axe Street~
+The broken down doorway of an empty shop lies to the east. It is hard to tell
+what used to be there, but the faded sign seems to say Escort Service, what-
+ever that means. Compared to the other empty shop, this is much more run down.
+Loud music can be heard from somewhere to the northeast. Axe street runs north
+and south here.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14726
+D1
+~
+~
+0 -1 14766
+D2
+~
+~
+0 -1 14724
+S
+#14726
+Axe Street~
+This is where Axe street and Shield street connect. Shield street runs to the
+east while Axe street lies to the north and south. The loud music of a bard
+can be heard from the northeast. There are two entrances to the bar visible
+from here, one to the north connecting to Axe street and another to the east
+from Shield street.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14727
+D1
+~
+~
+0 -1 14733
+D2
+~
+~
+0 -1 14725
+S
+#14727
+Axe Street~
+There is another entrance to the bar to the east. There is almost as many
+entrances to the bar as there are guard posts. Guess that says alot about the
+priorities of the dwarves. Axe street continues to run north and south along
+the western wall here with a connection to Shield street that can be seen to
+the south.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14728
+D1
+~
+~
+0 -1 14759
+D2
+~
+~
+0 -1 14726
+S
+#14728
+Axe Street~
+The constant drone of dozens of voices all talking at once bleed through the
+eastern wall. The popularity of the bar is in part to the hero who owns it.
+And partly to the fact it serves the best dwarven ale in the realms. Axe
+street runs north and south along the western wall of Rockhold here. A guard
+post can be seen farther north while a connection to Shield street can be seen
+to the south.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14729
+D2
+~
+~
+0 -1 14727
+S
+#14729
+Axe Street~
+As Axe street follows along the west wall here, it curves to the east to
+eventually connect to Main street. The guard post for this section of the
+city lies to the northwest from here. The granite ceiling can be seen curving
+from a north and south line to a east and west one as it curves over the
+doorway of the guard post.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14730
+D2
+~
+~
+0 -1 14728
+S
+#14730
+Axe Street~
+The loud noises of what sounds like a fight can be heard through the southern
+wall. Either it is a full fledged bar fight, or just the normal sounds of
+dwarves relaxing. Hard to tell the difference. An entrance to the bar can be
+seen to the east while it appears to be a guard post entrance to the west.
+Axe street runs east and west here.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14731
+D3
+~
+~
+0 -1 14729
+S
+#14731
+Axe Street~
+Another entrance to the very popular bar called The Kneecapper is to the south.
+The constant stream of people and the loud music blasting out the open door
+shows how busy this place must be. The connection to Main street is to the
+east while Axe street continues to the west. This is another area that has
+enough light to see part of the high vaulted granite ceiling.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14720
+D2
+~
+~
+0 -1 14761
+D3
+~
+~
+0 -1 14730
+S
+#14732
+Shield Street~
+This part of Shield street lies to the west of Cistern Square, the main water
+supply of the city. There is a bakery to the north although the entrance is
+around the corner to the northeast on Main street. One of the main guard
+posts for the city lies to the south. To the northwest can be heard the sounds
+of a very loud and rowdy bar.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14717
+D2
+~
+~
+0 -1 14752
+D3
+~
+~
+0 -1 14733
+S
+#14733
+Shield Street~
+There seems to be an extremly popular bar to the north as people are constantly
+entering and exiting it. Loud music can be heard and the general buzz of people
+talking and laughing echos through out the street. The broken window of an
+empty shop is visible to the south. Axe street lies to the west while Shield
+street continues to the east.
+~
+0 1073741824 0 1
+Rd     0
+E
+sign~
+The Kneecapper.
+~
+D0
+~
+~
+0 -1 14759
+D1
+~
+~
+0 -1 14732
+D3
+~
+~
+0 -1 14726
+S
+#14734
+Hammer Street.~
+This is the start of Hammer street which winds along the eastern part of the
+city and joins back to Main street on the north side of the city. To the north
+can be seen a large window from a resturant. The entrance is not visible from
+here, but looks like it is on Main street somewhere. Up ahead is the resident
+mage to the northeast and a guard post to the southeast. It seems as if there
+are quite a few guard posts around town.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14735
+D3
+~
+~
+0 -1 14714
+S
+#14735
+Hammer Street~
+Due north of here is the home and shop of the local mage. No one has ever seen
+him leave in over 100 years, but he is there every day, seven days a week.
+Up ahead on Hammer street, the road curves to the north while at the same time
+passing a local guard post to the southeast. A guard post can be seen from
+almost anywhere in the city.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14748
+D1
+~
+~
+0 -1 14736
+D3
+~
+~
+0 -1 14734
+S
+#14736
+Hammer Street~
+The is almost the southeast corner of the city. The only thing farther away is
+the guard post which lies directly to the southeast from here. The local magic
+lies to the northwest while its entrance is to the west. This close to the edge
+of the city, the roof has sloped down far enough to see. It appears to be solid
+granite. The amount of effort it must have took to carve this city out must
+have been enormous.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14737
+D3
+~
+~
+0 -1 14735
+S
+#14737
+Hammer Street~
+After turning north, Hammer street continues to run north and south here. More
+of the granite ceiling can be seen from here. Along the edges of the city is
+the only place that the ceiling is visible, in the rest of the city it if too
+high to be seen with even magical light. The dwarves don't seem to mind the
+fact that there is no support except at the edges. The magic shop is to the
+west although there is no entrance from here.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14738
+D2
+~
+~
+0 -1 14736
+S
+#14738
+Hammer Street~
+Here on the east side of the city, Hammer street north and south as it runs
+behind a resturant. The delicious smell of a home cooked meal wafts from
+the window to the west, although the entrance to the resturant is over on
+Main street. Shield street connects to Hammer street to the north while a
+guard post is farther south.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14739
+D2
+~
+~
+0 -1 14737
+S
+#14739
+Hammer Street~
+Here under the large vaulted ceiling of granite, Hammer street is joined by
+Shield as in comes in from the west. There is a sign advertising an inn to the
+north and the fragrant smells of home cooked food can be smelled coming from
+the southwest. Hammer street runs north and south here along the eastern part
+of the city.
+~
+0 1073741824 0 1
+Rd     0
+E
+sign~
+Craftsman Inn to the north.
+~
+D0
+~
+~
+0 -1 14740
+D2
+~
+~
+0 -1 14738
+D3
+~
+~
+0 -1 14746
+S
+#14740
+Hammer Street~
+The outside wall of an inn is to the west although the sign says that the
+entrance is farther north. The wall to the east is as smooth and polished as
+the streets are. The walls and the ceiling were carved out from solid granite
+at the same time and is all one piece. It is hard to say where the wall stops
+and the ceiling begins. Hammer street runs to the north and south to the
+connection to Shield street.
+~
+0 1073741824 0 1
+Rd     0
+E
+sign~
+Craftsman Inn - North then West.
+~
+D0
+~
+~
+0 -1 14741
+D2
+~
+~
+0 -1 14739
+S
+#14741
+Hammer Street~
+The entrance to the Craftsman Inn is to the west, where it is said that a
+decent room can be rented for a fair price. Although the beds are probably
+dwarf sized, so taller races may have to curl up to fit in the beds. A guard
+post can be seen to the far northeast while Hammer street runs north and south
+here.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14742
+D2
+~
+~
+0 -1 14740
+D3
+~
+~
+0 -1 14763
+S
+#14742
+Hammer Street~
+The guard post in charge of defending the northeast part of the city lies to
+the northeast. There is a very regular parade of guards entering and exiting
+the guard post. The entrance to the Craftsman Inn is to the south along Hammer
+street. Hammer street itself curves along the corner of the city heading south
+and west from here.
+~
+0 1073741824 0 1
+Rd     0
+D2
+~
+~
+0 -1 14741
+D3
+~
+~
+0 -1 14743
+S
+#14743
+Hammer Street~
+The faint echos of hammer on steel by the local weaponsmith can be heard from
+the southwest. The entrance to the guard post for this section of the city can
+be seen to the east. There is a sign advertising an inn hanging from the wall
+here. The smooth granite surface of Hammer street runs east and west here.
+~
+0 1073741824 0 1
+Rd     0
+E
+sign~
+Craftsman Inn - East then South.
+~
+D1
+~
+~
+0 -1 14742
+D3
+~
+~
+0 -1 14744
+S
+#14744
+Hammer Street~
+Hammer street runs east and west along the north side of the city here. The
+local weaponsmith has a shop located to the south of here while the outside
+of an inn can be seen to the southeast. Much farther to the east looks like
+another guard post. The ceiling curves down to meet the north wall here also.
+~
+0 1073741824 0 1
+Rd     0
+E
+ceiling~
+The ceiling appears to be carved from solid granite and very smooth.
+~
+D1
+~
+~
+0 -1 14743
+D2
+~
+~
+0 -1 14762
+D3
+~
+~
+0 -1 14720
+S
+#14745
+Shield Street~
+Yet another guard post lies the north. There appears to be some sort of inn
+to the northeast and a resturant is to the south athough no entrance is
+visible from here. Shield street goes east to connect to Hammer street and
+west to the main water supply of the city in Cistern Square on Main street.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 14753
+D1
+~
+~
+0 -1 14746
+D3
+~
+~
+0 -1 14717
+S
+#14746
+Shield Street~
+The solid granite that the street is made of is flat and smooth as it runs
+east and west here. Considering it it 20 feet wide here makes for an impressive
+display of workmanship. There is an inn to the north and a resturant to the
+south although there is no entrances here. Hammer street is east of here and
+the center of the city is farther west.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+~
+0 -1 14739
+D3
+~
+~
+0 -1 14745
+S
+#14747
+Guard Post~
+This guard post if in charge of defense of the southeast part of the city. In
+case of attack, anyone living in this part of town report here for orders. The
+commander of the post forms them into squads to co-ordinate with the other
+sections of the city. There are weapon racks for anyone who was not able to
+bring thier own weapons for whatever reason.
+~
+0 1073741828 0 0
+Rd     0
+E
+rack~
+These weapon racks have a very sturdy dwarven lock prevent anyone from stealing
+the weapons.
+~
+S
+#14748
+A Generic Magic Shop~
+The mage who runs this store refuses to reveal his name or the name of the
+shop, saying that true names hold power over the object they name. So, he
+simply goes by the name of "The Mage" and the shop goes by the generic name
+given to it. Aside from that, the dwarf mage that owns this shop is one of the
+few dwarves who practice magic not of the clerical nature. Like most magic
+stores, this is cluttered with unknown junk and body parts from odd beasts of
+all sorts.
+~
+0 1073741824 0 0
+Rd     0
+D2
+~
+~
+0 -1 14735
+S
+#14749
+Guard Post~
+The northeast guard post is in charge of defending the northeast part of the
+city under orders from the main guard posts in the center of the city. This
+allows for counter attacks from many different sides and allows east corner
+to support the others. There are a few cots and an empty weapons rack in the
+corner. Hammer street lies back to the southwest.
+~
+0 1073741828 0 0
+Rd     0
+E
+cot~
+Plain canvas cots.
+~
+E
+rack~
+An empty weapons rack.
+~
+S
+#14750
+Guard Post~
+This is the guard post in charge of the northwest corner of the city. All the
+local defense is commanded through here and this is under the main guard
+posts in the center of the city in the dwarven chain of command. A few cots
+and a rack for extra weapons are pretty much all there is here except for the
+map the of the city on the back wall.
+~
+0 1073741828 0 0
+Rd     0
+E
+map~
+This is a map of Rockhold.
+~
+E
+rack~
+This rack of weapons is currently empty.
+~
+E
+cot~
+This cot looks nice and comfy, except for giants, who would find them
+rather short.
+~
+S
+#14751
+Guard Post~
+This guard post is in charge of the southwest portion of the city. The dwarves
+gather here in the event the main defenses have been breached to regroup and
+coordinate the counter attack. There is a weapon rack here to hold extra
+for the defenders to use. The only exit is to the northeast back to Axe street.
+~
+0 1073741828 0 0
+Rd     0
+E
+rack~
+This weapon rack is locked up tight.
+~
+S
+#14752
+Guard Post~
+This is the southwest guard post of the main pair tasked with defending the
+center of the city. This one, along with the northeast one, are the center of
+defense in case any attackers breach the main defenses. The corner guard
+posts follow any orders sent to them from these two and are lower in the
+chain of command for defense. Main street is to the east while Shield street
+is to the north.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14732
+D1
+~
+~
+0 -1 14716
+S
+#14753
+Guard Post~
+As the twin to the guard post to the southwest, this place looks almost
+identical to it. As the command post for defense for repeling invaders from
+the city, these guard posts play a vital part in the survival of the dwarven
+kingdom of Rockhold. Main street lies to the west while Shield street is to
+the south.
+~
+0 1073741824 0 0
+Rd     0
+D2
+~
+~
+0 -1 14745
+D3
+~
+~
+0 -1 14718
+S
+#14754
+The Rockhold Resturant~
+This is the entranceway to the Rockhold Resturant, the best resturant in town,
+and not just because it is the only resturant in town, the food and drinks are
+second to none. There is a non-smoking section to the east, for sensitive
+guests, and a smoking section to the south, for the hardier patrons. Main
+street lies to the west, leading back into the city.
+~
+0 1073741824 0 0
+Rd     0
+D1
+~
+~
+0 -1 14755
+D2
+~
+~
+0 -1 14756
+D3
+~
+~
+0 -1 14716
+S
+#14755
+The Rockhold Resturant~
+This is the no smoking section of the resturant, for those who can't take the
+smoke from pipes and such. Mostly elves and other weaker races are the only
+patrons in this part of the resturant. But smoking or non-smoking, the food
+is excellent no matter what side is chosen. The large menu includes many
+alcoholic drinks as well as the best food in town, with service guaranteed
+in under 30 minutes or the order is free.
+~
+0 1073741824 0 0
+Rd     0
+D3
+~
+~
+0 -1 14754
+S
+#14756
+The Rockhold Resturant~
+Smoking is allowed in this section of resturant and as a result, the air has
+a faint haze that be seen hovering over most of the tables. There is a much
+livelier atmosphere on this side of the resturant as the more hardy races
+dine here. The menu is the same as the other side with many alcoholic drinks
+and the best food in town. And service is guaranteed in under 30 minutes or
+the order is free.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14754
+S
+#14757
+Armory~
+The cluttered stockpiles of all types of armor can be found stacked on every
+avalible surface. Everything from helms to boots of various sizes are littered
+from one end of the store to the other. The dwarven blacksmith that runs this
+place is a huge dwarf, almost 5 feet tall and almost as wide. For all the
+clutter, every piece of armor is in excellent condition and looks new, used or
+otherwise.
+~
+0 1073741824 0 0
+Rd     0
+D1
+~
+~
+0 -1 14715
+S
+#14758
+Bakery~
+The warm smell of freshly baked bread fills the air here as a steady stream
+of loafs are pulled from the oven. Underneath the counter are many different
+types of baked goods for sale. There is a little flour almost everywhere
+from the almost hectic pace of the workers trying to keep up with the demand
+of the customers.
+~
+0 1073741824 0 0
+Rd     0
+D1
+~
+~
+0 -1 14718
+S
+#14759
+The Kneecapper~
+This bar apparently gets its name from the many hammers and other blunt objects
+of destruction that line the walls. Most are dwarven made while some are not.
+All have been used, in fact, some look like it would take just one more hit
+to destroy them. The number of kneecaps it must have taken to wear all these
+down this much is almost unthinkable. Shield street is to the south while
+Axe street is to the west.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14760
+D2
+~
+~
+0 -1 14733
+D3
+~
+~
+0 -1 14727
+S
+#14760
+Main Bar~
+The northwest quarter of this room is taken up by a massive black marble bar.
+There is a dwarf behind the bar serving drinks as fast as dwarvenly possible
+to keep up with the demand of the patrons. Many different types of ales and
+beers, along with wines and liquors from many far off places line the shelves
+behind the bar. The Kneecapper takes its alcohol very seriously.
+~
+0 1073741824 0 0
+Rd     0
+E
+bar~
+This black marble bar has been polished to a fine shine and looks like it
+weighs at least a ton. It is huge and covers the room from the middle of
+the north wall to the middle of the west wall.
+~
+D1
+~
+~
+0 -1 14761
+D2
+~
+~
+0 -1 14759
+S
+#14761
+The Kneecapper~
+The loud music and the crowds of people make this a very lively place. The
+walls are decorated with weapons, mostly hammers and other blunt weapons, and
+inlaid with real wood, an expensive item for Rockhold due to trees not growing
+very well underground. The main bar is to the west and the exits are to the
+east to Main street and north to Axe street.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14731
+D1
+~
+~
+0 -1 14719
+D3
+~
+~
+0 -1 14760
+S
+#14762
+Weaponsmith~
+The walls here are covered with an example of almost every type of weapon ever
+designed. Although the most prevalant ones are the typical dwarven weapons,
+such as hammers and axes. The quality of the weapons are second to none in
+any comparison except for magical weapons, and they are probably better than
+most of the less powerful ones in terms of sharpness and duribility.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14744
+S
+#14763
+Craftsman Inn~
+There is a sign advertising the best dwarven beds ever made. Considering this
+is the only inn in town, it might not be too hard to live up to that claim.
+But, it is hard to put a price on a good nights rest, safe from harm. Of course
+there is not much crime to worry about, but why takes chances. Hammer street
+is to the east.
+~
+0 1073741824 0 0
+Rd     0
+E
+sign~
+The best dwarven beds ever made!
+~
+D1
+~
+~
+0 -1 14741
+D2
+~
+~
+0 -1 14764
+S
+#14764
+Craftsman Inn~
+The best dwarven beds ever made turn out to be made of granite. Guess the
+dwarves like sleeping on stone, but what about everybody else? The thought of
+an elf sleeping on stone is ridiculous. At least the door locks, that will
+keep out the criminals during the night. The only exit is the one to the north
+back to the main lobby.
+~
+0 1073741824 0 0
+Rd     0
+D0
+~
+~
+0 -1 14763
+S
+#14765
+Empty Shop~
+The inside of this shop has been burnt to a crisp. As there is slight melting
+of the stone walls, one can only assume that some type of mage fire was the
+cause. Or dragon fire, best not to think about that possibility. There is a
+sign with a few runes that are still readable, other than that, there is
+nothing of value to be found.
+~
+0 1073741824 0 0
+Rd     0
+E
+sign~
+Esco    ervic .
+~
+D2
+~
+~
+0 -1 14722
+S
+#14766
+General Store~
+The clutter that fills this room from end to end makes it almost impossible
+for anyone to move around, let alone do any shopping. The strangest knick-
+knacks lie anywhere and everywhere on top of anything and everything. About
+the only semi-clear area is a path from the door to the counter. To travel
+anywhere else in the store would be to take ones life in ones hands from the
+tall stacks of merchandise that go clear to the 10 foot ceiling. It clearly
+looks as if one could find almost anything if enough time was spent looking.
+~
+0 1073741824 0 0
+Rd     0
+E
+merchandise~
+This merchandise is piled up to the ceiling and could tip over at any moment.
+~
+D3
+~
+~
+0 -1 14725
+S
+#14799
+Final Room~
+~
+0 1073741828 0 1
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

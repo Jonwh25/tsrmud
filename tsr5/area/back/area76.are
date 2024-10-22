@@ -1,0 +1,767 @@
+#AREADATA
+Name        Temple of Order~
+Levels      0 0
+Builders    Krast~
+VNUMs       23300 23399
+Security    1
+Recall      25000
+Flags       16
+Sounds      The praise of Order echos in your mind...~
+End
+
+
+
+#MOBILES
+#23300
+Ivory Pillar~
+an Ivory Pillar~
+An Ivory Pillar glows with a soft white hue.
+~
+~
+1966083 0 168 0 0 S
+115 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67108895 0 0
+#23301
+Loawin~
+Loawin the Banker~
+Loawin the Banker of Order
+~
+~
+1835075 0 56 48 0 S
+115 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 1
+32783 0 0
+#23302
+Dainon~
+Dainon the Master ~
+Dainon the Master 
+~
+Easily standing seven feet tall, and with arms that resemble oaks,
+you know this is a man that can fight. You sense there is more there though,
+you see in his eyes a desire to teach and help his friends and family.
+~
+1967107 0 168 16 1000 S
+115 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23303
+Ceni~
+Ceni the Trainer of Order~
+Ceni the Trainer of Order
+~
+Ceni, a human Paladin, shows in his face his many years of
+of battle and learning. He now devotes his time to the Order to
+help them advance and train.
+~
+1442371 0 40 0 0 S
+115 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 1
+15 0 0
+#23304
+Horain~
+Horain the Alchemist~
+Horain the Alchemist
+~
+~
+1966147 0 56 16 700 S
+115 0 0 30000d0+0 0d0+0
+1000 0 0 0
+0 0 1
+0 0 0
+#23305
+Bangor~
+Bangor Order of Cleric~
+Bangor wanders about muttering to himself
+~
+Bangor is a wise old cleric. His age showing in his blue eyes and 
+many wrinkles about his brow. He greets you with a knowing nod of his head.
+~
+65 0 8 0 700 S
+80 0 0 20000d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+#0
+
+
+
+#OBJECTS
+#23300
+fountain of Order~
+fountain of Order~
+A Goblet shaped fountain overflows with spring water.~
+~
+25 0 0 0 0 0
+0~ 0~ 0~ 0~
+2000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23301
+Vault of Order~
+Vault of Order~
+Vault of Order~
+~
+15 268435456 0 0 0 0
+10000000~ 5~ 0~ 0~
+300000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23302
+Ivory Axe of Order~
+Ivory Axe of Order~
+Ivory Axe of Order~
+~
+5 65536 0 0 8193 110
+0~ 0~ 0~ 1~
+10 0 0 0 0
+0 0
+reserved~
+0 0
+23302 0 0
+A
+23 -400
+A
+24 -400
+A
+23 -100
+A
+24 -100
+A
+4 10
+A
+5 10
+A
+3 10
+A
+2 10
+A
+1 10
+A
+19 500
+A
+18 500
+A
+18 500
+A
+19 500
+A
+17 -10000
+A
+13 20000
+E
+Ivory~
+Ivory
+~
+E
+Axe~
+~
+E
+Ivory~
+~
+E
+Order~
+~
+#23303
+lava rock~
+lava rock~
+A Lava rock~
+~
+13 0 0 0 0 100
+0~ 0~ 0~ 0~
+1000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23304
+Scroll of Recall~
+a Scroll of Recall~
+A Scroll of Recall lies here.~
+~
+2 0 0 0 1 1
+0~ word of recall~ reserved~ reserved~
+0 0 0 20 0
+0 0
+reserved~
+0 0
+0 0 0
+#23305
+Golden Chain~
+a golden chain~
+A long golden bead chain.~
+~
+9 0 0 0 4 60
+10~ 0~ 0~ 0~
+3 100 0 0 0
+0 0
+reserved~
+0 0
+23306 0 0
+A
+4 2
+A
+3 2
+A
+17 -20
+#23306
+the necklace of Order~
+the necklace of Order~
+The necklace of Order~
+~
+9 0 0 0 5 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#23300
+Main Lobby~
+This, the main lobby of the Temple of Order, is beyond
+description. The white marble walls glow with a spectacular aura,
+provided by the many torches that line them. Timbers gathered
+from across the realms, of the finest mahogany, run the length
+of each wall at waist level. The dark wood smoothed to a mirror
+finish by the finest craftsmen.
+  In the center of the room, on a large pyramid of carved ivory,
+sits a brass goblet of immense proportions. Water flows gently
+over its rim and down the ivory. The sounds of the runoff echo as it 
+hits many feet below in the drains.
+  You cant help but sense a feeling of power and justice as you
+stand here. A feeling that there is one that sees good and evil
+in the heart, not in a name. A feeling of swift justice. Their 
+justice.
+~
+0 1044 0 0
+Rd     0
+D0
+~
+~
+0 0 23301
+D1
+~
+~
+0 0 23306
+D2
+~
+~
+0 0 23308
+D3
+~
+~
+0 0 23307
+S
+#23301
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial
+ceilings add to the grandoir of this fine temple, beams rising 30
+feet to the peak. Hanging from the very center is a ruby chandelier
+of a thousand gems. As light of the torches dances off each, you
+see the reflections off your armor, as the blood off Order.
+~
+0 1044 0 0
+Rd     0
+D0
+~
+~
+0 0 23302
+D1
+~
+~
+0 0 23303
+D2
+~
+~
+0 0 23300
+D3
+~
+~
+0 0 23305
+S
+#23302
+Healing Chambers of Order~
+You have entered the healing chambers, a huge circular room. 
+The room is dominated by a large ivory pillar in the middle of the room.
+It is easily 6 foot in diameter, and is emitting a soft white glow.
+With each pulse you feel the powers of this room. The light seeming to heal 
+your very wounds.
+~
+0 2098180 0 0
+Rd     0
+D2
+~
+~
+0 0 23301
+S
+#23303
+Halls of Order~
+You are in one of the smaller halls of the temple. A single 
+chandleir covered in diamonds, hangs from the ceiling. The light
+it provides is enhanced by the sparkling of the ever moving
+diamonds.
+On each wall is a Tapastry of blue silk, embroided in gold
+Each Tapastry bears a embroidry of two crossed ivory battle
+axes, the symbol of the Order.
+  You cant help but feel a sense of pride as you walk here.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23304
+D3
+~
+~
+0 0 23301
+S
+#23304
+***********Horains Shop**********~
+The smell of smoke hangs in the air, glazing the dim 
+light put off by the two candles burning. Books lay
+scattered about the shelves and half written scrolls lay 
+waiting to be finished.
+In front of you a cluttered counter half hides a busy
+cleric named Horain. 
+~
+0 2098196 0 0
+Rd     0
+D3
+~
+~
+0 0 23303
+S
+#23305
+Banquet Hall of Order~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23301
+S
+#23306
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial
+ceilings add to the grandoir of this fine temple, beams rising 30
+feet to the peak. Hanging from the very center is a jade chandelier
+The light of the torches creates a beautiful display of green
+flashes on the ivory walls.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23315
+D3
+~
+~
+0 0 23300
+S
+#23307
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial
+ceilings add to the grandoir of this fine temple, beams rising 30
+feet to the peak. Hanging from the very center is a ruby chandelier
+of a thousand gems. As light of the torches dances off each, you
+see the reflections off your armor, as the blood off Order.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23300
+S
+#23308
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial
+ceilings add to the grandoir of this fine temple, beams rising 30
+feet to the peak. Hanging from the very center is a emerald chandelier
+The light of the torches creates a beautiful display of green
+flashes on the ivory walls.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23300
+D1
+~
+~
+0 0 23319
+D2
+~
+~
+0 0 23309
+D3
+~
+~
+0 0 23310
+S
+#23309
+Portals of Order~
+You stand in the Portal Room of Order. The floor is covered with a
+fine mist that seems to be coming from the five doors you see in front of
+you. Each arched door, is glowing a soft white, the mist rolling gently out
+apon the floor. 
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23308
+D1
+~
+Ravenwood~
+0 0 1307
+D2
+~
+Bethaven~
+0 0 25002
+D3
+~
+~
+0 0 5605
+D4
+~
+~
+0 0 10288
+D5
+~
+~
+0 0 8768
+S
+#23310
+Halls of Order~
+You are in one of the smaller halls of the temple. A single
+chandaleir covered in diamonds, hangs from the ceiling. The light
+it provides is enhanced by the sparkling of the ever moving
+diamonds.
+On each wall is a Tapastry of red silk, embroided in gold.
+Each Tapastry bears a embroidry of two crossed ivory battle
+axes, the symbol of the Order.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23308
+D3
+~
+~
+0 0 23311
+S
+#23311
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial ceilings
+add to the grandoir of this fine temple, beams rising 30 feet to the peak.
+Hanging from the very center is a sapphire chandalier The light of the
+torches creates a beautiful display of blue flashes on the ivory walls. 
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23314
+D1
+~
+~
+0 0 23310
+D2
+~
+~
+0 0 23312
+D3
+~
+~
+0 0 23313
+S
+#23312
+Bank of Order~
+You stand in the Bank of the Order . The ivory walls rising
+30 feet in the air. Large mahagony pillars providing support
+to the cathedrial ceilings. Four golden chandelier's provide 
+a light of ironic richness to the room.
+  You notice a large marble safe in the back of the room. By its
+appearence it has been carved out of a single massive peice of
+marble.
+~
+0 18875412 0 0
+Rd     0
+D0
+~
+~
+0 0 23311
+S
+#23313
+Practice room of Order~
+This large room, shaped in a circular fashion, is used by
+the members of Order to practice their skills. The walls are
+lined with varies weapons. A large marble statue, in the rear, seems
+to have been the target of much magical abuse.
+~
+0 20 0 0
+Rd     0
+D1
+~
+~
+0 0 23311
+S
+#23314
+Training room of Order~
+You stand in the Training Room of Order. This large room
+is used by the Order  to advance themselves both mentally
+and physically. Scrolls, books and items of great knowledge line the 
+mahagoney shelves on the walls, while mats and weights are sprewn about
+the floor.
+~
+0 2097172 0 0
+Rd     0
+D2
+~
+~
+0 0 23311
+S
+#23315
+Meeting Chambers - Rough Draft~
+Brilliant diamond chandeliers, six in total, illuminate this 
+grand room. Light dances off the mahagony floors. Chairs line 
+the room, in a semi-circle fashion, centered by a large podium
+~
+0 2490388 0 0
+Rd     0
+D0
+~
+~
+3 0 23316
+D1
+A solid mahogany door with one small crystal widow towards the top.
+~
+door~
+3 0 23317
+D2
+~
+~
+0 0 23318
+D3
+~
+~
+0 0 23306
+S
+#23316
+Landing~
+Differing from the main halls, these walls, appear rough. Light
+falls and fades on the damp walls. Nothing is visible but the 
+stairs before you.
+~
+0 8388609 0 0
+Rd     0
+D2
+A large, solid mahogany door.
+~
+door~
+3 0 23315
+D4
+~
+~
+0 0 23320
+D5
+~
+~
+0 0 23321
+S
+#23317
+Sauna~
+Solid mahogany walls glisten with moisture. A single pipe, barely 
+exposed in the ceiling, releases a steady drip of spring water 
+down to the rock below. With each drip a burst of steam erupts.
+~
+0 512 0 0
+Rd     0
+D3
+~
+~
+3 0 23315
+S
+#23318
+Sanctuary~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23315
+S
+#23319
+Crypt of Order~
+This room takes on a more somber feel. The walls and floor made
+entirely of mahagony. Marble squares, four foot across, are 
+placed around the room. This is the final resting place of those
+beloved that died with honor. A place we can come to, and remember our cause.
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 23308
+S
+#23320
+Staircase~
+Noises echo above, as what sounds like the softened footsteps
+of many echoes down from above.
+~
+0 8388609 0 0
+Rd     0
+D4
+~
+~
+0 0 23323
+D5
+~
+~
+0 0 23316
+S
+#23321
+Staircase~
+~
+0 8388609 0 0
+Rd     0
+D4
+~
+~
+0 0 23316
+D5
+~
+~
+0 0 23322
+S
+#23322
+Cellar~
+~
+0 8388609 0 0
+Rd     0
+D1
+~
+~
+0 0 23324
+D4
+~
+~
+0 0 23321
+S
+#23323
+Landing~
+A high ceiling, rising to a peak, looms above. The sounds you once 
+heard now echo more loudly in your ears. Slamming doors and
+shouts of praise cna be heard to the east.
+~
+0 1 0 0
+Rd     0
+D5
+~
+~
+0 0 23320
+S
+#23324
+~
+~
+0 8388609 0 0
+Rd     0
+D1
+~
+~
+0 0 23325
+D3
+~
+~
+0 0 23322
+S
+#23325
+~
+~
+0 8388609 0 0
+Rd     0
+D1
+~
+~
+0 0 23326
+D3
+~
+~
+0 0 23324
+S
+#23326
+~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 23325
+S
+#0
+
+
+
+#SPECIALS
+M 23300 spec_healer
+M 23305 spec_cast_cleric
+S
+
+
+
+#RESETS
+O 0 23300 0 23300
+M 0 23300 1 23302
+M 0 23304 1 23304
+M 0 23304 1 23304
+G 0 23304 0
+O 0 23301 0 23312
+M 0 23302 1 23313
+M 0 23302 1 23313
+M 0 23302 1 23313
+M 0 23302 1 23313
+M 0 23302 1 23313
+M 0 23303 1 23314
+M 0 23303 1 23314
+O 0 23303 0 23317
+S
+
+
+
+#SHOPS
+23304 0 2 10 0 0 110 90 0 24
+0
+
+
+
+#$

@@ -1,0 +1,424 @@
+#AREADATA
+Name        Castle of Illusions~
+Levels      0 116
+Builders    Bryelle~
+VNUMs       23800 23899
+Security    1
+Recall      23800
+Flags       16
+End
+
+
+
+#MOBILES
+#23800
+Balzhur creature~
+Balzhur~
+Balzhur the eater of souls!!
+~
+~
+1 0 336167122 393248 -1000 S
+115 0 0 60000d0+0 0d0+0
+0 0 0 0
+0 0 0
+95742 0 0
+#23801
+Gatekeeper statue~
+The GateKeeper~
+~
+Standing in a pose as to attack, this huge statues seems to stare 
+ominously at you. It large claws reaching out towards you as this
+winged-lion's immense fangs reveal themselves to you in a show of
+superiority... or maybe its hunger?? Good thing its just a statue..
+RIGHT???
+~
+1 0 0 0 0 S
+30 0 0 5000d0+0 0d0+0
+0 0 0 0
+0 0 0
+3 0 0
+>act_prog p opens the gate.~
+mpecho You hear a loud rumbling noise coming from near-by.
+close gate
+say TRESSPASSER!!!
+mpkill $n
+~
+|
+#0
+
+
+
+#OBJECTS
+#23800
+Invisible crystal dagger~
+~
+~
+~
+5 536875136 0 0 8193 105
+0~ 0~ 0~ 11~
+2 10000 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 1000
+A
+18 1000
+A
+26 300
+A
+19 500
+A
+18 500
+#23801
+crystal Mask~
+crystal Mask~
+A crystaline mask lays here before you.~
+~
+9 129 0 0 65537 112
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -500
+#23802
+White Gown~
+a white gown~
+A long white gown lays here.~
+~
+9 0 0 0 9 17
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -250
+#23803
+Bracelet thorn~
+circlet of Thorns~
+A thorn bracelet lays here.~
+~
+9 66 0 0 4097 112
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -250
+#23804
+golden aura~
+a Silver Aura~
+A golden aura lays here.~
+~
+9 1 0 0 32769 105
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 1000
+A
+18 1000
+A
+17 -300
+A
+18 100
+A
+19 100
+A
+1 5
+A
+3 5
+A
+4 5
+A
+2 5
+A
+5 5
+#23805
+silver ring~
+a silver ring~
+A simple silver ring lays here~
+~
+9 4096 0 0 3 105
+0~ 0~ 0~ 0~
+0 0 0 0 0
+5 0
+chaos field~
+300 300
+0 0 0
+#23806
+Gloves of Magnitude~
+Gloves of MAGNITUDE~
+Gloves of MAGNITUDE~
+~
+9 33558659 0 0 129 115
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -500
+A
+24 -500
+A
+26 200
+A
+17 -300
+A
+19 400
+A
+18 400
+#23807
+Silver Anklet~
+Silver Anklet~
+Silver Anklet~
+~
+9 67112961 0 0 1048577 116
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 400
+A
+19 400
+A
+24 -400
+A
+23 -400
+#23808
+Silver Leather suit~
+A silver leather body suit.~
+A silver leather body suit.~
+~
+15 4227 0 0 9 105
+5000~ 5~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 400
+A
+19 400
+#0
+
+
+
+#ROOMDATA
+#23800
+Room of Judgement~
+MORTAL!!!!  You have been brought here before the  Law Enforcer
+of these realms to have judgement passed upon you. Listen carefully 
+and listen closely... these words shall not be repeated to you,
+and PATIENCE is no longer an option!!
+~
+0 403996 0 0
+Rd     0
+S
+#23801
+A forbidden path.~
+Dried-out grass crackles at your feet and the silence surrounding
+you makes it ring loudly in your ears. The trees that surround you
+at both sides look dark and dreary, with their long, almost dead,
+branches reaching out towards the sky as if to try to regain the life
+that they have lost.
+Ahead of you the path seems almost endless and too desolate for
+your taste. Before, you take a step fowards you take a look back
+and realize that the only way is onward into the darkness that is
+just beginning to engulf you.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23802
+S
+#23802
+A forbidden path.~
+Onwards on this path, the trees surrounding you seem to close in
+and their branches reach out to you in a plea to not go on on this 
+trail. Maybe they know something you should.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23803
+D2
+~
+~
+0 0 23801
+S
+#23803
+A forbidden path.~
+Looming over you, these trees reach up high and above you almost
+as if to make a tunnel-like passage. Their branches so thick and 
+rotting that they block out any sign of possible life that may be
+beyond them. Only way out is to move foward.
+~
+0 2560 0 0
+Rd     0
+D0
+~
+~
+0 0 23804
+D2
+~
+~
+0 0 23802
+S
+#23804
+A forbidden path.~
+On this dirt-ridden trail, you find yourself getting weary of such
+long travel. The road ahead reveals a large, cast-iron gate that seems
+to lead into an area that, in its time, was a beautiful garden.
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23805
+D2
+~
+~
+0 0 23803
+S
+#23805
+Before the gate~
+Looking in between the iron bars that stand here, you can barely
+make out the area beyond. Large vines twirl themselves around the bars
+that stand here between you and what seems to be a garden. These 
+vines also wrap themselves around two statues that stand at the sides
+of the gate. Pushing the vines away from the statues you are appalled
+by their appearance. Two hideous winged-lions stand here ominously
+looking around for intruders.
+The only way through is north through the gate.
+~
+0 0 0 0
+Rd     0
+D0
+~
+gate~
+3 0 23806
+D2
+~
+~
+0 0 23804
+S
+#23806
+~
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+3 0 23805
+S
+#23807
+~
+~
+0 4 0 0
+Rd     0
+S
+#23808
+Jail~
+Youve come to bryelle's Jail.. youll be here at least 2 hours RL TIME.
+~
+0 145155100 0 0
+Rd     0
+S
+#23809
+~
+~
+0 4 0 0
+Rd     0
+S
+#23810
+~
+~
+0 4 0 0
+Rd     0
+S
+#23811
+~
+~
+0 4 0 0
+Rd     0
+S
+#23812
+~
+~
+0 4 0 0
+Rd     0
+S
+#23813
+~
+~
+0 4 0 0
+Rd     0
+S
+#23814
+~
+~
+0 4 0 0
+Rd     0
+S
+#23815
+~
+~
+0 4 0 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 23800 1 23800
+E 0 23800 0 20
+E 0 23800 0 21
+E 0 23806 0 13
+E 0 23804 0 9
+E 0 23804 0 10
+E 0 23807 0 26
+E 0 23807 0 25
+E 0 23801 0 8
+E 0 23803 0 19
+E 0 23803 0 18
+M 0 23801 2 23805
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

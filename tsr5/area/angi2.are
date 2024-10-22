@@ -1,0 +1,183 @@
+#AREADATA
+Name        crap~
+Levels      0 0
+Builders    Angi~
+VNUMs       8300 8349
+Security    1
+Recall      25001
+Flags       16
+Sounds      Hmmm...~
+End
+
+
+
+#MOBILES
+#8300
+fire god loki~
+Loki the Fire-God~
+Loki the Fire-God stands guard here
+~
+~
+1572929 0 0 0 0 S
+60 0 0 0d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+#0
+
+
+
+#OBJECTS
+#8300
+pompom~
+a set of pompoms~
+A bright set of red fluffy pompoms lie here~
+~
+8 0 0 0 16385 30
+0~ 0~ 0~ 0~
+0 1000 50 100 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+poem~
+Best Points
+
+Look out for the best points in others.
+Look out for the finest things first...
+Be sure that you've found all the good traits
+Before recognizing the worst.
+Too often, put out by some quarrel
+Past kindness we're apt to forget
+The ties of affection are severed
+By words that we live to regret.
+And many a friendship is broken,
+Because when it comes to the test
+We only see what are the worst points
+And fail to remember the best.
+~
+#8301
+test item~
+weapon thing~
+Weapon thing~
+~
+5 0 0 0 8193 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#8300
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#8301
+Behind the Shop~
+Strange trinkets line the red velvet walls, causing you to look more
+closely.  The sensual atmosphere that drew you to this room is strong,
+sending a tingling sensation throughout your body.  One must wonder what
+those shackles resting against the tall steel column could possibly be
+used for.  Against the east wall lies a larg king size bed.  
+~
+0 4 0 0
+Rd     0
+E
+bed~
+Covered with white satin sheets, this huge bed invites you to bask in
+it's warmth and pleasures it may offer.  
+~
+E
+tall steel column~
+A tall, steel column rises over you, with shackles attached to the
+sides, dangling loosely.  The shackles are made of iron as well, with a fur
+outline to protect victims' wrists.  They are attached to silver chains
+embedded into the column, just long enough to provide the most minimum
+movement.  
+~
+O ~
+S
+#8302
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#8315
+Score Example for NON-Immortal~
+Name: Angi the Pixie Vampire
+Level: 112           Age: 225 yrs|833 hrs
+Hp: 30000/30000      Bp: 30000/30000      Mv: 30000/30000
+Carrying: 15/100000 items        Weight: 645/100000000 kg
+Str: 18(16)          Int: 18(16)          Wis: 18(16)
+Dex: 18(16)          Con: 18(16)          Cha: 18(16)
+Hitroll: 400         Damroll: 400         Saving Throw: -400
+Gold: 100000000      Silver: 100000000    Copper: 100000000
+Experience: 10000000000   Wimpy: 1000000  Practices: 21
+AC:-500 You are well armored.     Alignment:-1000 You are satanic.
+Page Pausing: 20 lines of text    Position: You are standing.
+Autoexit: Yes  Autoloot: No  Autosac: Yes  Autocoins: Yes  Autosplit: No
+Clan: Head Honchos
+~
+0 4 0 3
+Rd     0
+D0
+~
+~
+0 0 8316
+O ~
+S
+#8316
+Score Example for Immortal~
+Name: Angi the Pixie Vampire
+Clan: Head Honchos
+Level: 112  Age: 225 yrs|833 hrs  Trust: 100000
+Hp: 30000/30000  Mana: 30000/30000  Mv: 30000/30000
+Carrying: 15/100000 items       Weight: 645/1000000 kg
+Str: 18(16)     Int: 18(16)     Wis: 18(16)
+Dex: 18(16)     Con: 18(16)     Cha: 18(16)
+Hitroll: 400    Damroll: 400    Saving Throw: -400
+Gold: 100000000   Silver: 100000000   Copper: 100000000
+Experience: 10000000   Wimpy: 100000  Practices: 25
+AC: -500 You are well armored.     Alignment: -1000 You are satanic.
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 8315
+O ~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 8300 2 8301
+S
+
+
+
+#SHOPS
+8300 0 10 0 0 0 50 50 8 8
+0
+
+
+
+#$

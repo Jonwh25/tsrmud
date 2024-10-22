@@ -1,0 +1,847 @@
+#AREADATA
+Name        {??-???} QuestMaster Items   Lacey~
+Levels      0 0
+Builders    Grimfang Lacey Angi~
+VNUMs       2426 2499
+Security    9
+Recall      25001
+Flags       16
+End
+
+
+
+#MOBILES
+#2499
+zenza woman~
+Zenza~
+Zenza the wild one purrs seductively at you...
+~
+Your eyes gaze upon a sensuous, voluptuous creature...  Her
+silvery eyes glitter with evil intent, making you cringe with fear as
+you wonder what is in store for your future.  Zenza is a wild one, here
+to please your every command.  
+~
+2129985 0 100679680 0 1000 S
+113 0 0 30000d0+0 0d0+0
+100 400 2000 0
+0 0 2
+0 0 0
+#0
+
+
+
+#OBJECTS
+#2426
+a Bamboo training sword Quest~
+a Bamboo training sword ~
+A Bamboo training sword is here.~
+~
+5 67108992 0 0 8193 1
+0~ 0~ 0~ 3~
+1 0 0 0 0
+5 0
+adrenaline rush~
+10 10
+0 0 0
+A
+4 2
+A
+5 2
+A
+17 -20
+A
+18 8
+A
+19 7
+#2427
+tassled leather leggings Quest~
+tassled leather leggings ~
+A pair of tassled leather leggings lie here. ~
+~
+9 129 0 0 33 5
+0~ 0~ 0~ 0~
+1 0 0 0 0
+5 0
+fly~
+10 10
+0 0 0
+A
+17 -5
+A
+5 2
+A
+4 2
+A
+1 1
+A
+19 5
+A
+18 5
+#2428
+quest ivory carved anklets~
+small ivory-carved anklets~
+An unbroken ring of polished ivory lies here.~
+~
+9 805306497 0 0 1048577 10
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+2 1
+A
+1 2
+A
+18 2
+A
+19 3
+A
+17 -25
+#2429
+glowing bauble trinket quest~
+a glowing bauble~
+A small trinket lies here on the ground.~
+~
+9 805306497 0 0 32769 11
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+4 2
+A
+19 3
+A
+18 2
+A
+13 25
+A
+24 -10
+A
+17 -26
+#2430
+shield blazing flameshield quest~
+a blazing flameshield~
+A shield cloaked within multiple roaring pillars of flame lies here.~
+~
+9 838860928 0 0 513 15
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+fireshield~
+5 5
+0 0 0
+A
+19 3
+A
+18 3
+A
+17 -35
+A
+12 25
+A
+13 30
+#2431
+ice-covered scaly vambraces quest~
+a pair of ice-covered scaly vambraces~
+Overlapping scales covered in pure ice form a pair of vambraces here.~
+~
+9 805306496 0 0 513 20
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 4
+A
+18 3
+A
+12 35
+A
+17 -35
+A
+24 -17
+A
+5 2
+#2432
+black steel visor quest~
+a black steel visor~
+A large visor made of dark black metal lie shere.~
+~
+9 805306496 0 0 65537 21
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+flesh armor~
+15 15
+0 0 0
+A
+19 4
+A
+18 3
+A
+17 -36
+A
+13 40
+A
+12 25
+#2433
+taloned gauntlets quest~
+a pair of long-taloned gauntlets~
+A pair of gauntlets ending long, sharp talons lie here.~
+~
+9 805306496 0 0 129 25
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 4
+A
+18 4
+A
+17 -40
+A
+13 40
+A
+25 14
+A
+23 -13
+#2434
+long brass scope quest~
+a long brass scope~
+A long eyescope made of brass lies here.~
+~
+27 805306368 0 0 131073 30
+45~ -1~ 0~ scry~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+117 -1
+A
+19 5
+A
+18 4
+A
+17 -45
+A
+13 45
+A
+23 -14
+#2435
+clasp ear silver quest~
+a small silver ear clasp~
+Someone seems to have carelessly left their ear clasp here.~
+~
+9 805306496 2048 0 524289 31
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 5
+A
+18 4
+A
+12 50
+A
+13 50
+A
+17 -25
+#2436
+heavy leather boots~
+a pair of heavy leather boots~
+Large soled boots made of thick leather lie here.~
+~
+9 805306496 0 0 65 35
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+108 -1
+A
+17 -50
+A
+13 35
+#2437
+wreath illusions quest~
+a wreath of illusions~
+A small wreath of leaves, glowing slightly lie here.~
+~
+9 805306497 0 4096 17 40
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+phase shift~
+5 5
+0 0 0
+A
+19 6
+A
+18 5
+A
+24 -30
+A
+13 55
+#2438
+long hafted spear quest~
+a long hafted spear~
+A long hafted spear with a foot long bladed on it's end rests here.~
+~
+5 805306496 0 0 8193 41
+0~ 15~ 47~ 11~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 22
+A
+18 16
+A
+123 -1
+A
+26 -56
+A
+13 55
+A
+17 -45
+#2439
+arch sorcerer robe quest~
+an Arch Sorcerer's robes~
+The long flowing black robes of an arch sorcerer lie here.~
+~
+9 805306496 0 0 1025 45
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+mana~
+50 50
+0 0 0
+A
+19 6
+A
+18 6
+A
+24 -40
+A
+12 60
+A
+23 -35
+#2440
+engraved golden breastplate armor~
+an engraved golden breastplate~
+A large breastplate made of engraved gold lies here.~
+~
+9 805306496 0 0 9 50
+0~ 0~ 0~ 0~
+7 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 22
+A
+18 22
+A
+17 -65
+A
+23 -25
+A
+13 65
+A
+12 65
+#2441
+ankle sheathed dagger quest~
+an ankle-sheathed dagger~
+A dagger sheathed in an ankle-sheath lies here.~
+~
+9 805306496 0 0 1048577 51
+0~ 0~ 0~ 0~
+3 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 7
+A
+18 6
+A
+17 -25
+A
+2 2
+A
+1 1
+#2442
+band winds quest~
+the band of winds~
+A small band of metal lies here surrouned by swirling winds.~
+~
+9 805306496 0 0 3 55
+0~ 0~ 0~ 0~
+1 0 0 0 0
+5 0
+control weather~
+0 -1
+0 0 0
+A
+3 2
+A
+12 70
+A
+24 -23
+#2443
+dark stormcloud quest~
+a dark stormcloud~
+A dark stormcloud hovers above the ground here.~
+~
+9 805306368 0 0 32769 60
+0~ 0~ 0~ 0~
+-50 0 0 0 0
+5 0
+chain lightning~
+0 -1
+0 0 0
+A
+19 8
+A
+18 7
+A
+110 -1
+A
+13 75
+A
+12 75
+A
+17 -30
+#2444
+heavy winter fur cloak quest~
+a heavy winter fur cloak~
+A heavy fur cloak made for winter temperatures lies here.~
+~
+9 805306496 0 0 5 61
+0~ 0~ 0~ 0~
+4 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -30
+A
+24 -35
+A
+13 75
+A
+17 -76
+A
+18 7
+A
+19 8
+#2445
+grey traveller cloak quest~
+a grey traveller's cloak~
+A heavy travelling cloak of grey material lies here.~
+~
+9 805306496 0 0 1025 65
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -55
+A
+12 80
+A
+13 80
+A
+14 100
+A
+18 8
+A
+19 8
+#2446
+demon fiery glare quest~
+a demon's fiery glare~
+A pair of eyeballs burning where they lie rest here.~
+~
+27 805306496 0 0 131073 70
+40~ -1~ 0~ fireball~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 85
+A
+23 -20
+A
+24 -25
+A
+124 -1
+A
+18 8
+A
+19 9
+#2447
+band crackling energy quest~
+a golden band of crackling energy~
+A golden band lies here with a blueish light crackling about it.~
+~
+9 805306496 0 0 3 71
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -55
+A
+12 100
+A
+24 -27
+#2448
+no name~
+a dragon-carved golden belt buckle~
+A large golden belt buckle carved in the shape of a dragon lies here.~
+~
+9 805306496 0 0 2049 75
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -25
+A
+13 90
+A
+12 90
+A
+25 25
+A
+18 9
+A
+19 9
+#2449
+elbow-bladed chainmail sleeves quest~
+elbow-bladed chainmail sleeves~
+A pair of chainmail sleeves with blades at the elbow-pieces lie here.~
+~
+9 805306496 0 0 257 80
+0~ 0~ 0~ 0~
+3 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -20
+A
+25 27
+A
+13 95
+A
+17 -95
+A
+18 9
+A
+19 10
+#2450
+heavy dwarven chainmail quest~
+a set of heavy dwarven chainmail~
+Heavy chainmail made in the dwarven fashion lies here.~
+~
+9 805306496 0 0 9 81
+0~ 0~ 0~ 0~
+9 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+5 3
+A
+13 96
+A
+23 -25
+A
+17 -96
+A
+18 22
+A
+19 34
+#2451
+shield solidified ash quest~
+a shield of solidifed ash~
+A large chunk of ash magically solidified forms a shield here.~
+~
+9 805306496 0 0 513 85
+0~ 0~ 0~ 0~
+4 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+12 130
+A
+17 -125
+A
+18 10
+A
+19 10
+A
+24 -35
+A
+13 80
+#2452
+platinum platemail leggings quest~
+a pair of platinum platemail leggings~
+Large metal leggings forged of platinum lie here.~
+~
+9 805306496 0 0 33 90
+0~ 0~ 0~ 0~
+6 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 11
+A
+18 10
+A
+17 -105
+A
+13 105
+A
+24 -18
+#2453
+arcane arts book quest~
+a book of the Arcane Arts~
+A leather bound book with an aura of pure magic about it rests here.~
+~
+8 805306496 0 0 16385 91
+0~ 0~ 0~ 0~
+3 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+24 -40
+A
+12 175
+A
+18 10
+A
+19 11
+A
+13 106
+#2454
+hovering sphere light quest~
+a hovering sphere of light~
+A bright sphere of light stands here hovering.~
+~
+1 805306497 0 0 1 95
+0~ 0~ -1~ 0~
+-20 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -65
+A
+13 100
+A
+12 110
+A
+18 11
+A
+19 11
+#2455
+earguard helm quest~
+a Helm's Earguard~
+A Helm's Earguard is here.~
+~
+9 805306496 0 0 524289 100
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+25 40
+A
+19 12
+A
+18 11
+A
+13 110
+A
+1 1
+A
+24 -33
+A
+17 -115
+A
+12 100
+#2456
+ivory carved mask quest~
+an ivory-carved mask~
+A small mask made of bright ivory carved in the shape of a skull lies here.~
+~
+9 805306496 0 0 65537 101
+0~ 0~ 0~ 0~
+2 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -20
+A
+25 15
+A
+12 95
+A
+13 125
+A
+17 -115
+A
+18 12
+A
+19 13
+#2495
+xavier locket symbol love true~
+xavier's symbol of love~
+Xavier's locket symbolizing love and dedication~
+~
+8 0 0 0 5 112
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 2497 2496
+#2496
+locket necklace~
+a tiny locket~
+A tiny locket with a glowing aura lies here..~
+~
+8 0 0 0 1 112
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+2495 0 0
+#2497
+love~
+angi's symbol of love~
+Angi's symbol of love and dedication with a riddle inscribed on it lies here..~
+~
+8 0 0 0 1 100
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+2495 0 0
+E
+riddle~
+This symbol of love that I give to thee
+    Is filled with magic, as you shall see.
+    Its' overwhelming power and ability to heal
+    Can affect your very soul and the feelings you feel.
+    For it is you, the beholder, who controls such things
+    You must find the answer and your heart shall sing.
+                                         Luv always,
+                                               Angi
+~
+#2498
+wedding ring band golden~
+a golden wedding band~
+A golden wedding band with a glowing aura lies here.~
+~
+8 0 0 0 3 100
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+band~
+To my love, Xavier, these few words my heart speaks to thee...
+ 
+        Infinite are the flakes of snow
+        That lie upon the ground..
+        Infinite are the many children
+        Suffering all around..
+        Infinity is such a word
+        That justifies no end
+        Exactly like the way I feel
+        For you, my love, my friend.
+                       Love Forever,
+                               Angi
+~
+#0
+
+
+
+#ROOMDATA
+#2426
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

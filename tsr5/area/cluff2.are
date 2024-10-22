@@ -1,0 +1,1225 @@
+#AREADATA
+Name        {??-???} PROTO AREA          Cluff~
+Levels      0 0
+Builders    Cluff~
+VNUMs       3500 3599
+Security    9
+Recall      25001
+Flags       16
+End
+
+
+
+#MOBILES
+#3501
+brock doorman guard~
+Brock the doorman~
+Brock the guard stands here, inspecting all who approach
+~
+Brock is a large man, nearly 7 feet in height, and a build to match. 
+Other than the armor and sword, he looks like a cheery fellow.  
+~
+65 0 0 0 0 S
+1 0 0 1d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+#3511
+riley arion cleric healer adept~
+Riley Arion~
+Riley Arion is here to aid you.
+~
+Riley Arion is Cluff's brother.  Choosing a slightly different path, he
+also helps those in need, whether physical or spiritual.  He's slightly over
+6 feet in height.  His thick black hair flows with the breeze.  He keeps his
+white robes immaculately clean, just like his heart and soul..  
+~
+67 0 50331816 0 1000 S
+105 0 0 1d0+0 0d0+0
+0 0 0 0
+0 0 1
+2 0 0
+#0
+
+
+
+#OBJECTS
+#3501
+gate key~
+gate key~
+A large padlock key rests here.~
+~
+18 0 0 0 16385 1
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#3511
+statue cluff memorial~
+cluff's Statue~
+A large statue of Cluff Arion stands here.~
+~
+13 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+statue~
+This large stone statue of Cluff Arion depicts him wearing full armor,
+with a sword in each hand.  There is a plaque attached to the base of the
+monument.  
+~
+E
+plaque~
+The citizens of Mira have erected this statue to honor Cluff Arion, a
+True Paladin who defended our city against a red dragon's attack.  His valor
+and courage, as well as those of his lineage, will be remembered until the
+end of time..  
+~
+#0
+
+
+
+#ROOMDATA
+#3501
+Southern Gate to Mira~
+You stand before the southern gate to Mira, the flying city.  High stone
+walls lined with garrisons dominate your view.  A guard by the gate attracts
+your attention.  
+~
+0 0 0 1
+Rd     0
+D0
+~
+portcullis~
+118 0 3502
+O ~
+S
+#3502
+Intersection of Stardock and Celestia~
+~
+0 134348816 0 0
+Rd     0
+D0
+~
+~
+0 0 3505
+D1
+~
+~
+0 0 3503
+D2
+~
+portcullis~
+118 0 3501
+D3
+~
+~
+0 0 3522
+O ~
+S
+#3503
+&~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3504
+D3
+~
+~
+0 0 3502
+O ~
+S
+#3504
+redo~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3518
+D3
+~
+~
+0 0 3503
+O ~
+S
+#3505
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3506
+D2
+~
+~
+0 0 3502
+O ~
+S
+#3506
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3507
+D2
+~
+~
+0 0 3505
+O ~
+S
+#3507
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3508
+D2
+~
+~
+0 0 3506
+O ~
+S
+#3508
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3509
+D2
+~
+~
+0 0 3507
+O ~
+S
+#3509
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3510
+D2
+~
+~
+0 0 3508
+O ~
+S
+#3510
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3511
+D2
+~
+~
+0 0 3509
+O ~
+S
+#3511
+Arion Memorial~
+At the heart of Mira stands Arion Memorial.  The memorial is in honor of
+the family whose members have defended the city time and time again.  A
+statue has been erected of one of the more recent of the Arion family.  
+~
+0 394256 0 0
+Rd     0
+D0
+~
+~
+0 0 3512
+D1
+~
+~
+0 0 3562
+D2
+~
+~
+0 0 3510
+D3
+~
+~
+0 0 3568
+O ~
+S
+#3512
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3513
+D2
+~
+~
+0 0 3511
+O ~
+S
+#3513
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3512
+O ~
+S
+#3514
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3515
+D2
+~
+~
+0 0 3513
+O ~
+S
+#3515
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3516
+D2
+~
+~
+0 0 3514
+O ~
+S
+#3516
+Intersection of Stardock and Acheron~
+~
+0 134348816 0 0
+Rd     0
+D0
+~
+portcullis~
+118 0 3517
+D1
+~
+~
+0 0 3557
+D2
+~
+~
+0 0 3515
+D3
+~
+~
+0 0 3544
+O ~
+S
+#3517
+Northern Gate to Mira~
+~
+0 0 0 0
+Rd     0
+D2
+~
+portcullis~
+118 0 3516
+O ~
+S
+#3518
+~
+~
+0 131096 0 1
+Rd     0
+D1
+~
+~
+0 0 3519
+D3
+~
+~
+0 0 3504
+O ~
+S
+#3519
+~
+~
+0 20 0 1
+Rd     0
+D1
+~
+~
+0 0 3520
+D3
+~
+~
+0 0 3518
+O ~
+S
+#3520
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3521
+D3
+~
+~
+0 0 3519
+O ~
+S
+#3521
+Corner of Celestia and Carados~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3545
+D3
+~
+~
+0 0 3520
+O ~
+S
+#3522
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 3523
+O ~
+S
+#3523
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3522
+D3
+~
+~
+0 0 3524
+O ~
+S
+#3524
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3523
+D3
+~
+~
+0 0 3525
+O ~
+S
+#3525
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3524
+D3
+~
+~
+0 0 3526
+O ~
+S
+#3526
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3525
+D3
+~
+~
+0 0 3527
+O ~
+S
+#3527
+Corner of Celestia and Bytopia~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3528
+D1
+~
+~
+0 0 3526
+O ~
+S
+#3528
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3529
+D2
+~
+~
+0 0 3527
+O ~
+S
+#3529
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3530
+D2
+~
+~
+0 0 3528
+O ~
+S
+#3530
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3531
+D2
+~
+~
+0 0 3529
+O ~
+S
+#3531
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3532
+D2
+~
+~
+0 0 3530
+O ~
+S
+#3532
+Intersection of Celestia and Arcadia~
+~
+0 134348816 0 1
+Rd     0
+D0
+~
+~
+0 0 3533
+D1
+~
+~
+0 0 3572
+D2
+~
+~
+0 0 3531
+O ~
+S
+#3533
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3534
+D2
+~
+~
+0 0 3532
+O ~
+S
+#3534
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3535
+D2
+~
+~
+0 0 3533
+O ~
+S
+#3535
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3536
+D2
+~
+~
+0 0 3534
+O ~
+S
+#3536
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3537
+D2
+~
+~
+0 0 3535
+O ~
+S
+#3537
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3538
+D2
+~
+~
+0 0 3536
+O ~
+S
+#3538
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3539
+D2
+~
+~
+0 0 3537
+O ~
+S
+#3539
+Corner of Bytopia and Acheron~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3540
+D2
+~
+~
+0 0 3538
+O ~
+S
+#3540
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3541
+D3
+~
+~
+0 0 3539
+O ~
+S
+#3541
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3542
+D3
+~
+~
+0 0 3540
+O ~
+S
+#3542
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3543
+D3
+~
+~
+0 0 3541
+O ~
+S
+#3543
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3544
+D3
+~
+~
+0 0 3542
+O ~
+S
+#3544
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3516
+D3
+~
+~
+0 0 3543
+O ~
+S
+#3545
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3546
+D2
+~
+~
+0 0 3521
+O ~
+S
+#3546
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3547
+D2
+~
+~
+0 0 3545
+O ~
+S
+#3547
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3548
+D2
+~
+~
+0 0 3546
+O ~
+S
+#3548
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3549
+D2
+~
+~
+0 0 3547
+O ~
+S
+#3549
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3550
+D2
+~
+~
+0 0 3548
+O ~
+S
+#3550
+Intersection of Carados and Arcadia~
+~
+0 134348816 0 1
+Rd     0
+D0
+~
+~
+0 0 3551
+D2
+~
+~
+0 0 3549
+D3
+~
+~
+0 0 3567
+O ~
+S
+#3551
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3552
+D2
+~
+~
+0 0 3550
+O ~
+S
+#3552
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3553
+D2
+~
+~
+0 0 3551
+O ~
+S
+#3553
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3554
+D2
+~
+~
+0 0 3552
+O ~
+S
+#3554
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3555
+D2
+~
+~
+0 0 3553
+O ~
+S
+#3555
+~
+~
+0 131088 0 1
+Rd     0
+D0
+~
+~
+0 0 3556
+D2
+~
+~
+0 0 3554
+O ~
+S
+#3556
+Corner of Carados and Acheron~
+~
+0 131088 0 1
+Rd     0
+D2
+~
+~
+0 0 3555
+D3
+~
+~
+0 0 3561
+O ~
+S
+#3557
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3558
+D3
+~
+~
+0 0 3516
+O ~
+S
+#3558
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3559
+D3
+~
+~
+0 0 3557
+O ~
+S
+#3559
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3560
+D3
+~
+~
+0 0 3558
+O ~
+S
+#3560
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3561
+D3
+~
+~
+0 0 3559
+O ~
+S
+#3561
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3556
+D3
+~
+~
+0 0 3560
+O ~
+S
+#3562
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3511
+O ~
+S
+#3563
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3565
+D3
+~
+~
+0 0 3562
+O ~
+S
+#3564
+~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 3563
+O ~
+S
+#3565
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3566
+D3
+~
+~
+0 0 3563
+O ~
+S
+#3566
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3567
+D3
+~
+~
+0 0 3565
+O ~
+S
+#3567
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3550
+D3
+~
+~
+0 0 3566
+O ~
+S
+#3568
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3511
+D3
+~
+~
+0 0 3569
+O ~
+S
+#3569
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3568
+D3
+~
+~
+0 0 3570
+O ~
+S
+#3570
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3569
+D3
+~
+~
+0 0 3571
+O ~
+S
+#3571
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3570
+D3
+~
+~
+0 0 3572
+O ~
+S
+#3572
+~
+~
+0 131088 0 1
+Rd     0
+D1
+~
+~
+0 0 3571
+D3
+~
+~
+0 0 3532
+O ~
+S
+#3573
+~
+~
+0 4 0 1
+Rd     0
+O ~
+S
+#0
+
+
+
+#SPECIALS
+M 3511 spec_healer
+S
+
+
+
+#RESETS
+M 0 3501 1 3501
+O 0 3511 0 3511
+M 0 3511 1 3511
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

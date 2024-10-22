@@ -1,0 +1,129 @@
+Sender  Beowolf~
+Date    Thu Apr  5 12:55:24 2001~
+Stamp   986489821
+Expire  991673737
+To      all~
+Subject Code Change~
+Text
+I have decided to take TSR down. This is now a MUD ran
+by both Akasha and Isaac. I leave this in their hands.
+As you can see this is NOT the TSR you were used to.
+However, this is based on TSR III code. It has MANY
+advantages over the TSR you are used to such as 
+multiclassing and a TON of new spells/skills. 
+Give it a shot before you decide you hate it.
+ 
+Beo
+~
+
+Sender  Hunter~
+Date    Fri Apr  6 01:09:04 2001~
+Stamp   986534170
+Expire  991717756
+To      all~
+Subject Introduction :)~
+Text
+From the days of yore, a child was born in the wilderness.
+This child, called Hunter by his parents for being the only
+child that was innovative enought to hunt down any problems he
+encountered in his life and work, growed more wise and hansom
+with the years. 
+After his work as a head-enforcer in the Cursed Lands, he
+sought new pleasures and new challenges as a headcoder, in
+which shape he worked with pleasure for four different 
+countries. 
+People got to know him as the crazy coder, the caring and
+listening friend and the every so justful enforcer and imm.
+And now this blue-eyed, easy minded Cleric has entered these
+realms, ready to serve all who live here. 
+If you need him to help you with anything, you just need to
+call for him, or if he is on a trip to other lands, you
+can always leave him a note. One of his many habits is always
+responding to them.
+Beware tho, cross this person and he may turn out to be a 
+very honest, but also very strict and sometimes harsh 
+enforcer. Treat him with respect and he will return the favor.
+Do otherwise and you will feel his wrath and meet with his
+psyonic powers. 
+For he is called the Hunter, who hunts for love, respect and
+loyalty and justice.
+ 
+~
+
+Sender  Hunter~
+Date    Sun Apr  8 06:57:23 2001~
+Stamp   986727563
+Expire  991911458
+To      all~
+Subject Mud startup~
+Text
+Greetings fellow Citizens,
+ 
+Due to some problems with the core-energy for this world, it's
+startup file, the world may have been inacessible at some time.
+Today, I've reset the world and it should keep running again.
+We are sorry for any of the inconvenience this may have caused
+in your lives.
+ 
+Greetings,
+ 
+Hunter Maveo
+Lord of Souls
+~
+
+Sender  Jereth~
+Date    Wed Apr 11 03:39:15 2001~
+Stamp   986975049
+Expire  992158763
+To      all~
+Subject Weapons and EQ~
+Text
+Alright I've heard alot about to much
+EQ zapping people. So here's the scoop.
+ 
+This mud had a system for all eq in
+which there is anti-everyclass/race.
+This is here so you could anti-whatever
+for realism on size and class restrctions.
+ 
+Basicly each race has a size Small
+medium, human, and large. For example
+something meant for a large charcter
+would be anti-everything except Ogres
+Minotaur, demons and trolls.
+ 
+Also since classes like clerics don't
+use certian types of weapons, such as
+swords, this allows builder to more
+freely build weapons and just restrict
+the classes that can't use them rather
+than having weapon types.
+ 
+I want peoples opinions on the armor
+size thingy though, it does add realisim
+but i know it could get annoying as we
+add more classes.
+ 
+-{BJ{cereth
+~
+
+Sender  Hunter~
+Date    Wed Apr 11 20:02:57 2001~
+Stamp   987033861
+Expire  992217781
+To      all~
+Subject Coding~
+Text
+Okay, our coders know they cannot code atm due to 
+implementation of CVS, but due to some unforeseen,
+very crashy bugs, I had to pop in and code anyways.
+Things done:
+ 
+- Fixxed spell bug, which crashed mud about ever 15 secs
+- Wiznet now has a prefix {r[WIZ]{x if you do wiznet prefix
+- CVS Scripting environment has been finished. Waiting for
+  the new server.
+ 
+Hunter
+~
+

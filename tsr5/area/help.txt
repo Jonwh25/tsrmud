@@ -1,0 +1,1720 @@
+[    0] Tamarae: Shadow Shd
+[    0] Tamarae: Psionisist
+[    0] Bleeds: Demon Dem
+[    0] Bleeds: Psionisist
+[    0] Anduscias: Elder Eld
+[23932] Anduscias: field of decay
+[23932] Anduscias: astrip
+[23932] Anduscias: astrip
+[23932] Anduscias: qset
+[23932] Anduscias: hlist
+[23932] Anduscias: hnumber
+[23932] Anduscias: hnumber
+[23932] Anduscias: nukerep
+[23932] Anduscias: opstat
+[23932] Anduscias: plist
+[23932] Anduscias: qset
+[23932] Anduscias: racelist
+[23932] Anduscias: rpstat
+[23932] Anduscias: wiznet
+[23932] Anduscias: asave
+[23932] Anduscias: rename_obj
+[23932] Anduscias: channel_rules
+[    0] Admanthos: Halfling Hlf
+[23932] Anduscias: account
+[    0] Admanthos: Halfling Hlf
+[    0] Luthias: Human Hum
+[    0] Luthias: Human Hum
+[    0] Yoda: Demon Dem
+[    0] Xaviar: Human Hum
+[    0] Xaviar: Psionisist
+[    0] Xaviar: Human Hum
+[    0] Xaviar: Psionisist
+[    0] Admanthos: Halfling Hlf
+[23932] Anduscias: nedit
+[    0] Admanthos: Halfling Hlf
+[23932] Anduscias: nedit
+[23932] Anduscias: todo
+[23932] Anduscias: qset
+[23932] Akasha: security
+[    0] Admanthos: Halfling Hlf
+[    0] Admanthos: Halfling Hlf
+[    0] Admanthos: Halfling Hlf
+[ 2208] Beowolf: hut
+[    0] Testicles: Human Hum
+[ 2208] Beowolf: remake
+[ 2208] Beowolf: fullname
+[ 2208] Beowolf: conference
+[ 2208] Beowolf: info
+[ 2208] Beowolf: nedit
+[23932] Anduscias: fullname
+[    0] Fugue: Demon Dem
+[    0] Fugue: Psionisist
+[    0] Triss: Shadow Shd
+[    0] Scaurius: Minotaur Min
+[    0] Admanthos: Halfling Hlf
+[    0] Snickers: Human Hum
+[    0] Bubbly: Human Hum
+[    0] Admanthos: Halfling Hlf
+[    0] Admanthos: Halfling Hlf
+[    0] Myself: Shadow Shd
+[  810] Myself: calendar
+[  810] Myself: movement
+[    0] Myself: Tabaxi Tbx
+[    0] Myself: Ghoul Ghl
+[  800] Myself: admin
+[ 2207] Anduscias: movement
+[ 2207] Anduscias: FIELD OF DECAY
+[ 2207] Anduscias: note board
+[ 2207] Anduscias: info
+[ 2207] Anduscias: hnumber
+[ 2207] Anduscias: olc edit
+[    0] Debya: Drow Drw
+[    0] Debya: Human Hum
+[    0] Snick: Human Hum
+[    0] Snicker: Human Hum
+[    0] Grimsty: Drow Drw
+[    0] Grumbi: Drow Drw
+[    0] Testie: Human Hum
+[    0] Drylock: Drow Drw
+[    0] Testie: Elf Elf
+[    0] Britta: Shadow Shd
+[23932] Anduscias: info
+[23932] Anduscias: hlist
+[23932] Anduscias: passwd
+[23932] Anduscias: copyover
+[23932] Anduscias: recent
+[23932] Anduscias: astrip
+[23932] Anduscias: asave
+[23932] Anduscias: cset
+[23932] Anduscias: aset
+[23932] Anduscias: changes
+[23932] Anduscias: changes
+[23932] Anduscias: copyover
+[23932] Anduscias: cset
+[23932] Anduscias: clandesc
+[23932] Anduscias: shadows
+[23932] Anduscias: cloak
+[23932] Anduscias: clan
+[23932] Anduscias: exlist
+[23932] Anduscias: vlist
+[23932] Anduscias: hnumber
+[    0] Tamarae: Drow Drw
+[ 2207] Lizzie: copyover
+[ 2207] Lizzie: astrip
+[ 2207] Lizzie: cset
+[23932] Akasha: omni
+[ 4658] Anduscias: soul gem
+[ 4658] Anduscias: gem
+[ 4658] Anduscias: gems
+[    0] Reliath: Human Hum
+[    0] Elvine: Elf Elf
+[    0] Xion: Human Hum
+[    0] Knisus: Dwarf Dwa
+[    0] Derelor: Illithid Ill
+[    0] Derelor: Psionisist
+[  809] Knisus: charisma
+[  809] Knisus: wisdom
+[    0] Navia: Elf Elf
+[    0] Knisus: Demon Dem
+[    0] Knisus: Drow Drw
+[    0] Knisus: Demon Dem
+[    0] Knisus: Elder Eld
+[    0] Knisus: Shadow Shd
+[    0] Knisus: Dwarf Dwa
+[    0] Acaniel: Human Hum
+[    0] Thao: Human Hum
+[    0] Nephillim: Shadow Shd
+[    0] Thao: Psionisist
+[  800] Acaniel: notes
+[23932] Lizzie: demm_110
+[    0] Nephillim: Shadow Shd
+[    0] Matthias: Elf Elf
+[    0] Nephillim: Psionisist
+[23932] Lizzie: demm_109
+[    0] Mathhias: Elf Elf
+[    0] Knisus: Dwarf Dwa
+[    0] Reliath: Human Hum
+[    0] Thao: Human Hum
+[    0] Nephillim: Shadow Shd
+[    0] Mathhias: Elf Elf
+[    0] Reliath: Human Hum
+[    0] Wurzel: Minotaur Min
+[    0] Xion: Human Hum
+[    0] Doshaus: Minotaur Min
+[    0] Matthias: Elf Elf
+[    0] Jubelo: Halfling Hlf
+[    0] Shaia: Human Hum
+[    0] Shaia: Human Hum
+[  800] Lizzie: demm_mortal
+[    0] Nobeer: Drow Drw
+[ 1199] Xaviar: astrip
+[25000] Reliath: colors
+[    0] Val: Human Hum
+[    0] Val: Psionisist
+[ 1199] Xaviar: incog
+[    0] Flith: Human Hum
+[    0] Flith: Psionisist
+[ 1199] Xaviar: wiznet
+[    0] Lodi: Human Hum
+[ 1199] Xaviar: hnumber
+[    0] Flith: Demon Dem
+[    0] Flith: Psionisist
+[  800] Flith: Psionisist
+[    0] Lodi: Human Hum
+[    0] Digem: Shadow Shd
+[    0] Digem: Human Hum
+[    0] Digem: Shadow Shd
+[    0] Nal: Human Hum
+[    0] Kateri: Human Hum
+[    0] Shaia: Human Hum
+[    0] Urza: Human Hum
+[    0] Faethor: Elf Elf
+[    0] Lodi: Human Hum
+[    0] Faethor: Elf Elf
+[    0] Kengus: Human Hum
+[    0] Nal: Human Hum
+[    0] Rhuc: Human Hum
+[    0] Faethor: Psionisist
+[    0] Kaelyn: Shadow Shd
+[    0] Faethor: Elf Elf
+[    0] Kaelyn: Shadow Shd
+[    0] Faethor: Psionisist
+[    0] Zendac: Human Hum
+[    0] Vieth: Human Hum
+[    0] Nal: Human Hum
+[    0] Scaven: Human Hum
+[    0] Aritim: Shadow Shd
+[    0] Vieth: Human Hum
+[    0] Scaven: Minotaur Min
+[    0] Nal: Human Hum
+[    0] Faethor: Elf Elf
+[    0] Aritim: Shadow Shd
+[    0] Lykin: Elf Elf
+[    0] Lykin: Psionisist
+[    0] Jozan: Human Hum
+[    0] Stinson: Shadow Shd
+[  800] Stinson: Aritim
+[    0] Johanish: Elf Elf
+[    0] Dratcha: Human Hum
+[    0] Kaelyn: Shadow Shd
+[    0] Dratcha: Drow Drw
+[    0] Dratcha: Human Hum
+[    0] Nal: Human Hum
+[    0] Kaelyn: Shadow Shd
+[    0] Vieth: Human Hum
+[    0] Aritim: Ghoul Ghl
+[    0] Fadrake: Minotaur Min
+[    0] Urza: Halfling Hlf
+[    0] Vieth: Human Hum
+[    0] Vaz: Human Hum
+[    0] Hurk: Minotaur Min
+[    0] Fadrake: Minotaur Min
+[    0] Aritim: Ghoul Ghl
+[    0] Urza: Human Hum
+[    0] Kaelyn: Shadow Shd
+[    0] Vieth: Human Hum
+[    0] Aritim: Shadow Shd
+[    0] Fadrake: Minotaur Min
+[    0] Urza: Shadow Shd
+[    0] Nal: Shadow Shd
+[    0] Gogar: Lizardman Liz
+[    0] Elros: Shadow Shd
+[    0] Elros: Elder Eld
+[    0] Nal: Human Hum
+[ 1199] Nephillim: poof
+[    0] Nal: Human Hum
+[    0] Zendac: Human Hum
+[    0] Aritim: Elder Eld
+[    0] Elros: Elder Eld
+[    0] Urza: Shadow Shd
+[    0] Fadrake: Minotaur Min
+[    0] Elrich: Demon Dem
+[    0] Elrich: Psionisist
+[    0] Elros: Elder Eld
+[    0] Elros: Dwarf Dwa
+[    0] Fadrake: Minotaur Min
+[    0] Aritim: Shadow Shd
+[    0] Elros: Drow Drw
+[    0] Zendac: Human Hum
+[    0] Elros: Psionisist
+[    0] Urza: Human Hum
+[    0] Zoalin: Demon Dem
+[    0] Catarina: Human Hum
+[    0] Catarina: Illithid Ill
+[    0] Catarina: Ghoul Ghl
+[    0] Catarina: Human Hum
+[  857] Zoalin: riddlemaster
+[    0] Matthias: Elf Elf
+[    0] Aritim: Shadow Shd
+[    0] Catarina: Human Hum
+[    0] Urza: Human Hum
+[    0] Zoalin: Shadow Shd
+[    0] Lanthul: Human Hum
+[    0] Lanthul: Psionisist
+[    0] Catarina: Human Hum
+[    0] Greyman: Elf Elf
+[    0] Catarina: Human Hum
+[    0] Lanthul: Human Hum
+[    0] Greyman: Elf Elf
+[    0] Lanthul: Psionisist
+[    0] Lodi: Human Hum
+[    0] Greyman: Elf Elf
+[    0] Catarina: Human Hum
+[    0] Lanthul: Shadow Shd
+[    0] Lodi: Human Hum
+[    0] Lodi: Human Hum
+[    0] Lanthul: Human Hum
+[  800] Lanthul: notes
+[  800] Lanthul: letter
+[    0] Digem: Shadow Shd
+[    0] Digem: Psionisist
+[  829] Digem: keywords
+[  829] Digem: keyword
+[    0] Elros: Shadow Shd
+[    0] Elros: Psionisist
+[    0] Elros: Dwarf Dwa
+[    0] Elros: Lizardman Liz
+[    0] Elros: Dwarf Dwa
+[    0] Sero: Elf Elf
+[    0] Sero: Elf Elf
+[  800] Sero: remort
+[23932] Nephillim: bodybag
+[    0] Elros: Dwarf Dwa
+[  800] Nephillim: wiznet
+[ 1199] Akasha: wiznet
+[    0] Lia: Elf Elf
+[    0] Lia: Psionisist
+[  800] Nephillim: wiznet
+[    0] Lizzie: Human Hum
+[    0] Falanor: Drow Drw
+[    0] Falanor: Drow Drw
+[    0] Mernok: Demon Dem
+[    0] Falanor: Drow Drw
+[    0] Falanor: Elder Eld
+[    0] Falanor: Drow Drw
+[    0] Shrander: Shadow Shd
+[  801] Falanor: darkblessing
+[    0] Ankaa: Human Hum
+[25000] Falanor: whgo
+[    0] Isaac: Elder Eld
+[    0] Falanor: Drow Drw
+[    0] Falanor: Psionisist
+[    0] Falanor: Drow Drw
+[    0] Falanor: Psionisist
+[    0] Zaimor: Shadow Shd
+[25000] Zaimor: notes
+[    0] Sydo: Demon Dem
+[    0] Matthias: Elf Elf
+[    0] Garnaralf: Human Hum
+[    0] Garnaralf: Human Hum
+[    0] Zaimor: Human Hum
+[    0] Lizzie: Elf Elf
+[    0] Lizzie: Elf Elf
+[    0] Daeraloth: Human Hum
+[    0] Daeraloth: Shadow Shd
+[    0] Daeraloth: Human Hum
+[    0] Daeraloth: Shadow Shd
+[    0] Daeraloth: Shadow Shd
+[    0] Karnosh: Elder Eld
+[    0] Karnosh: Lizardman Liz
+[    0] Kiaru: Drow Drw
+[    0] Kiaru: Psionisist
+[    0] Kiaru: Psionisist
+[23932] Isaac: conference
+[23932] Akasha: riddle
+[  857] Elros: riddlemaster
+[  857] Elros: riddle
+[    0] Roltz: Shadow Shd
+[    0] Heth: Human Hum
+[    0] Mythster: Demon Dem
+[    0] Kaelyn: Shadow Shd
+[    0] Heth: Human Hum
+[    0] Zann: Shadow Shd
+[    0] Darcnix: Demon Dem
+[    0] Darcnix: Shadow Shd
+[    0] Darcnix: Drow Drw
+[    0] Darcnix: Demon Dem
+[    0] Darcnix: Tabaxi Tbx
+[    0] Darcnix: Elder Eld
+[    0] Darcnix: Demon Dem
+[    0] Xanatha: Pixie Pix
+[    0] Xanatha: Elf Elf
+[    0] Xanatha: Human Hum
+[    0] Xanatha: Shadow Shd
+[    0] Warren: Illithid Ill
+[    0] Zann: Illithid Ill
+[    0] Zann: Psionisist
+[    0] Kuraka: Demon Dem
+[25005] Zann: world
+[    0] Ashtor: Elf Elf
+[    0] Zann: Elder Eld
+[    0] Zann: Ghoul Ghl
+[  857] Zaimor: riddle
+[23932] Isaac: riddlemaster
+[    0] Kuraka: Demon Dem
+[  809] Heth: attributes
+[23932] Isaac: charisma
+[  809] Heth: charisma
+[  812] Heth: sword
+[25000] Heth: sheild
+[    0] Zylen: Human Hum
+[25000] Heth: 'frost blade'
+[    0] Xanatari: Shadow Shd
+[25000] Heth: spell blind
+[    0] Xanatari: Human Hum
+[    0] Xanatari: Human Hum
+[    0] Xanatari: Psionisist
+[    0] Hunter: Human Hum
+[    0] Hunter: Psionisist
+[23932] Isaac: wholist
+[25001] Heth: blah
+[    0] Qmtarr: Elf Elf
+[25000] Heth: ancient
+[    0] Simian: Elf Elf
+[    0] Simian: Minotaur Min
+[  828] Heth: autoassit
+[    0] Garnaralf: Human Hum
+[    0] Jayss: Tabaxi Tbx
+[    0] Jayss: Tabaxi Tbx
+[  857] Garnaralf: riddlemaster
+[23932] Akasha: join
+[    0] Jayss: Minotaur Min
+[    0] Tarok: Shadow Shd
+[    0] Jayss: Human Hum
+[23932] Hunter: ansicolour
+[    0] Jayss: Tabaxi Tbx
+[    0] Jayss: Pixie Pix
+[    0] Jayss: Shadow Shd
+[    0] Jayss: Psionisist
+[    0] Jayss: Minotaur Min
+[    0] Jayss: Dwarf Dwa
+[    0] Jayss: Human Hum
+[    0] Zylen: Troll Tro
+[    0] Jayss: Drow Drw
+[    0] Jayss: Psionisist
+[    0] Adantariel: Elder Eld
+[    0] Adantariel: Elf Elf
+[    0] Adantariel: Psionisist
+[  809] Adantariel: wis
+[  809] Adantariel: wisdom
+[  829] Adantariel: psionisist
+[23932] Isaac: race_edit
+[23932] Isaac: spedit
+[    0] Talina: Human Hum
+[23932] Isaac: empower
+[23932] Isaac: detract
+[    0] Talina: Human Hum
+[23932] Isaac: aset
+[    0] Nal: Human Hum
+[  800] Nal: flamehand
+[    0] Tarok: Shadow Shd
+[23932] Isaac: clan
+[    0] Talina: Human Hum
+[  802] Tarok: valor
+[  802] Tarok: strife
+[23932] Isaac: euridition
+[23932] Isaac: guild_euridition
+[  816] Nal: guild_eu
+[  857] Tarok: guild_euridition
+[  816] Nal: guild_euridition
+[23932] Isaac: guild rule
+[    0] Scaurius: Minotaur Min
+[  902] Elros: cuase serious
+[  816] Nal: highten sen
+[  816] Nal: highten senses
+[  816] Nal: flamehand
+[    0] Corves: Elf Elf
+[  816] Nal: bladepalm
+[    0] Dray: Troll Tro
+[23932] Isaac: demm_mortal
+[25000] Elros: ward of saftey
+[25000] Elros: ward of safety
+[    0] Kiriel: Troll Tro
+[    0] Nal: Human Hum
+[23932] Akasha: relevel
+[23932] Isaac: security
+[23932] Akasha: guild_euridition
+[23932] Hunter: guild_euridition
+[23932] Hunter: guild_euridition
+[23932] Isaac: player homes
+[    0] Kalibus: Elf Elf
+[    0] Kalibus: Elf Elf
+[    0] Elneas: Human Hum
+[14000] Kalibus: mudschool
+[    0] Jakil: Human Hum
+[    0] Jakil: Human Hum
+[    0] Grisella: Elf Elf
+[    0] Grisella: Elf Elf
+[    0] Maras: Human Hum
+[    0] Tila: Elf Elf
+[    0] Gorio: Human Hum
+[    0] Sorin: Human Hum
+[    0] Sorin: Shadow Shd
+[  810] Hunter: rules 
+[    0] Caladar: Illithid Ill
+[    0] Caladar: Psionisist
+[  809] Caladar: illlithid
+[    0] Reliath: Human Hum
+[    0] Reliath: Psionisist
+[  400] Hunter: todo
+[  400] Hunter: todo
+[  300] Hunter: tsr
+[  300] Hunter: beowulf
+[  300] Hunter: beowolf
+[  300] Hunter: TSRI
+[  300] Hunter: roleplay
+[  300] Hunter: role-play
+[  300] Hunter: changes
+[  300] Hunter: CHANGES
+[ 2210] Hunter: room-flags
+[25130] Daeraloth: announ
+[    0] Baatezu: Tabaxi Tbx
+[    0] Aritim: Shadow Shd
+[    0] Aritim: Minotaur Min
+[    0] Elvine: Elf Elf
+[  857] Zaimor: old
+[  857] Zaimor: tsr
+[    0] Kaziganthi: Illithid Ill
+[  809] Kaziganthi: advance
+[    0] Namian: Elf Elf
+[    0] Namian: Psionisist
+[    0] Ananas: Demon Dem
+[    0] Flith: Shadow Shd
+[    0] Flith: Psionisist
+[25000] Knisus: slist psi
+[    0] Tarok: Elder Eld
+[  820] Kaziganthi: advance
+[  820] Kaziganthi: skill list
+[23932] Isaac: artifactor
+[ 1300] Knisus: create bard
+[25001] Xion: clan
+[ 1300] Knisus: enhacned hit
+[    0] Ecthalion: Shadow Shd
+[  844] Kiaru: jump
+[    0] Niloc: Human Hum
+[  810] Kiaru: balistic
+[  848] Kiaru: lore
+[  848] Kiaru: globe
+[  848] Kiaru: darkness
+[    0] Kardon: Human Hum
+[    0] Kardon: Psionisist
+[    0] Grisella: Tabaxi Tbx
+[    0] Zharrok: Elf Elf
+[    0] Zharrok: Elf Elf
+[    0] Zharrok: Tabaxi Tbx
+[    0] Zharrok: Elf Elf
+[ 1199] Akasha: objects
+[ 1199] Akasha: object
+[25000] Kaziganthi: alingment
+[    0] Brandun: Human Hum
+[25000] Elros: creat bard
+[25000] Elros: create bard
+[25123] Xaviar: set
+[25123] Nal: repair
+[    0] Erayswen: Drow Drw
+[    0] Spauw: Shadow Shd
+[    0] Spauw: Psionisist
+[    0] Urza: Human Hum
+[    0] Chaden: Elf Elf
+[    0] Urza: Demon Dem
+[25000] Knisus: inteligence
+[25000] Knisus: inteligence
+[25000] Knisus: stat
+[    0] Jereth: Demon Dem
+[    0] Drazahr: Shadow Shd
+[    0] Drazahr: Shadow Shd
+[    0] Zepher: Elder Eld
+[    0] Zepher: Shadow Shd
+[    0] Zepher: Psionisist
+[  800] Zepher: notes
+[  800] Zepher: Blood points
+[  800] Zepher: race skills
+[  800] Zepher: race skills
+[  825] Kiaru: move
+[  825] Kiaru: enter
+[  800] Zepher: barbarian
+[    0] Zepher: Drow Drw
+[    0] Silvana: Elder Eld
+[    0] Silvana: Troll Tro
+[    0] Silvana: Demon Dem
+[    0] Silvana: Demon Dem
+[  800] Zepher: hunter
+[  800] Zepher: drain life
+[  800] Zepher: drain life
+[ 1300] Thao: set align
+[  800] Zepher: mistform
+[  800] Zepher: phaseshift
+[ 1199] Akasha: cloak
+[  800] Zepher: soulbind
+[  800] Zepher: soulbind
+[ 1199] Akasha: rece
+[ 1199] Jereth: avdm
+[  800] Zepher: tnl
+[  800] Zepher: tnl
+[  800] Zepher: oscore
+[  800] Zepher: oscore
+[  800] Zepher: gorge
+[  804] Zepher: drow fire
+[  804] Zepher: Faerie fire & incinerate
+[  804] Zepher: Farie
+[  805] Zepher: trains
+[  819] Kuraka: grat
+[25092] Kuraka: congratulates
+[25130] Zepher: race skills
+[25130] Zepher: rskills
+[    0] Lythis: Elf Elf
+[    0] Lythis: Psionisist
+[  810] Kiaru: psichic drain
+[    0] Arithon: Elder Eld
+[  800] Arithon: stench of decay
+[  800] Arithon: etherreal
+[  800] Arithon: cuase serious
+[  835] Arithon: telnetga
+[  836] Arithon: mp
+[    0] Balen: Elf Elf
+[  834] Arithon: questing
+[  834] Arithon: quest time
+[  816] Arithon: chaosblade
+[    0] Aidan: Human Hum
+[  835] Arithon: soulbind
+[  835] Arithon: soul bind
+[    0] Aidan: Psionisist
+[  837] Arithon: bodyphase
+[25115] Kiaru: money
+[ 1199] Akasha: smeg
+[    0] Crand: Human Hum
+[    0] Comdar: Human Hum
+[  805] Arithon: vampires
+[    0] Comdar: Human Hum
+[    0] Comdar: Human Hum
+[  812] Arithon: food
+[25000] Arithon: oracle
+[25000] Arithon: oracle
+[  841] Arithon: move
+[    0] Garnaralf: Minotaur Min
+[    0] Garnaralf: Human Hum
+[25000] Crand: colors
+[ 1199] Isaac: rp
+[    0] Arithon: Elder Eld
+[    0] Lanthul: Human Hum
+[  835] Arithon: grat
+[    0] Swen: Elder Eld
+[  836] Arithon: bp
+[25000] Elros: fast healing
+[  800] Swen: wearwolf
+[    0] Mernok: Shadow Shd
+[    0] Swen: Human Hum
+[  829] Arithon: clans
+[  829] Arithon: clans
+[  829] Arithon: clan
+[  829] Arithon: sectors
+[  800] Swen: bull
+[  800] Swen: bul
+[    0] Mernok: Halfling Hlf
+[    0] Mernok: Human Hum
+[  837] Arithon: staves
+[  801] Swen: bARD_res
+[  801] Swen: bard_res
+[  801] Swen: vampire_res
+[    0] Xerita: Halfling Hlf
+[    0] Xerita: Illithid Ill
+[  841] Daeraloth: bath
+[    0] Swen: Dwarf Dwa
+[  800] Swen: ward of safety
+[  800] Swen: sixth attack
+[    0] Vaz: Elder Eld
+[    0] Rathke: Human Hum
+[    0] Vaz: Elder Eld
+[    0] Rathke: Psionisist
+[    0] Elrich: Troll Tro
+[    0] Scaurius: Minotaur Min
+[  840] Swen: spin kick
+[  816] Swen: scroll
+[  816] Swen: sword
+[  816] Swen: create bard
+[  816] Swen: 'create bard'
+[  816] Swen: high
+[    0] Gredan: Elder Eld
+[    0] Gredan: Human Hum
+[    0] Gredan: Drow Drw
+[    0] Gredan: Shadow Shd
+[    0] Inos: Shadow Shd
+[    0] Inos: Shadow Shd
+[    0] Crand: Human Hum
+[    0] Lanthul: Human Hum
+[    0] Zann: Human Hum
+[    0] Zann: Shadow Shd
+[    0] Zann: Human Hum
+[  827] Zann: remort
+[  827] Zann: remort
+[    0] Scaurius: Minotaur Min
+[    0] Rir: Elf Elf
+[    0] Zann: Human Hum
+[    0] Thrumer: Demon Dem
+[25000] Zann: shadow walk
+[    0] Inos: Minotaur Min
+[25000] Zann: fool
+[    0] Jayss: Dwarf Dwa
+[  805] Flith: charisma
+[    0] Jayss: Minotaur Min
+[    0] Jayss: Tabaxi Tbx
+[    0] Jayss: Shadow Shd
+[    0] Jayss: Psionisist
+[    0] Vieth: Human Hum
+[    0] Vaz: Elder Eld
+[25000] Nephillim: constiturion
+[25000] Nephillim: constition
+[25130] Swen: he he
+[  816] Inos: vamppire
+[    0] Crom: Demon Dem
+[    0] Vieth: Human Hum
+[    0] Kabigon: Human Hum
+[  837] Kiaru: dirt
+[    0] Nephillim: Shadow Shd
+[  821] Nephillim: healer
+[25000] Vieth: colors
+[    0] Comdar: Human Hum
+[    0] Comdar: Human Hum
+[    0] Rathke: Drow Drw
+[    0] Rathke: Psionisist
+[    0] Rathke: Drow Drw
+[    0] Shrander: Shadow Shd
+[    0] Shrander: Illithid Ill
+[    0] Shrander: Shadow Shd
+[    0] Shrander: Human Hum
+[    0] Shrander: Shadow Shd
+[25000] Rathke: soulbind
+[25000] Rathke: soulbind
+[    0] Tylan: Drow Drw
+[    0] Tylan: Psionisist
+[  809] Shrander: necromancers
+[  809] Shrander: werewolv
+[    0] Shrander: Ghoul Ghl
+[  805] Tylan: costs
+[    1] Isaac: guild rules
+[  809] Tylan: psionist
+[    1] Isaac: guildrule
+[    1] Isaac: jail
+[    0] Vallisar: Human Hum
+[    0] Vallisar: Psionisist
+[  800] Vallisar: bladepalm
+[    0] Shrander: Ghoul Ghl
+[    0] Vallisar: Minotaur Min
+[    0] Vallisar: Elder Eld
+[    0] Vallisar: Ghoul Ghl
+[    0] Vallisar: Illithid Ill
+[  800] Vallisar: soulbind
+[    0] Vallisar: Drow Drw
+[    0] Vallisar: Human Hum
+[  836] Vallisar: flamefist
+[  836] Vallisar: flamehanbd
+[  836] Vallisar: flamehand
+[  836] Vallisar: flame hand
+[23932] Isaac: mstr
+[23932] Isaac: channel rules
+[23932] Isaac: bugs
+[23932] Isaac: channel rules
+[    0] Vallisar: Human Hum
+[    0] Sho: Human Hum
+[23932] Isaac: channel rule
+[23932] Isaac: channel rules
+[23932] Isaac: asave
+[23932] Isaac: channel rules
+[23932] Isaac: channel rules
+[23932] Isaac: channel rule
+[23932] Isaac: channel rules
+[23932] Isaac: channel rules
+[23932] Isaac: 'channel rules'
+[23932] Isaac: "channel rules"
+[    0] Grisella: Elf Elf
+[    0] Skya: Human Hum
+[    0] Krolys: Elf Elf
+[ 1199] Jereth: notes
+[    0] Mystaro: Demon Dem
+[22304] Jereth: load
+[26211] Jereth: levl
+[26211] Jereth: 2.skills
+[26211] Jereth: stat
+[25000] Jereth: bodybag
+[25000] Jereth: exlist
+[25000] Jereth: rename
+[25000] Jereth: hlist
+[25000] Jereth: aset
+[25000] Jereth: asave
+[    1] Jereth: set
+[25000] Jereth: chanel
+[25000] Jereth: telnetga
+[25000] Jereth: telnet
+[25001] Jereth: relevel
+[25001] Jereth: remake
+[  809] Jereth: darkbless
+[  810] Jereth: soul bl
+[  810] Jereth: etheral
+[  810] Jereth: fronsthand
+[  810] Jereth: frosthand
+[  810] Jereth: frost h
+[  810] Jereth: drow f
+[  810] Jereth: drow 
+[  810] Jereth: location
+[  810] Jereth: blizz
+[  810] Jereth: vision
+[  810] Jereth: globe
+[    0] Durn: Demon Dem
+[  810] Jereth: flamesp
+[  810] Jereth: drain l
+[  810] Jereth: enchantm
+[  810] Jereth: mind p
+[  810] Jereth: shadow w
+[  810] Jereth: voices
+[  810] Jereth: eter
+[    0] Delicose: Dwarf Dwa
+[  821] Delicose: aff
+[  821] Delicose: affected
+[  821] Delicose: duration
+[ 1414] Silvana: exchange
+[    0] Silvren: Elder Eld
+[    0] Arithon: Elder Eld
+[    0] Silvren: Troll Tro
+[    0] Silvren: Elder Eld
+[    0] Silvren: Illithid Ill
+[    0] Silvren: Psionisist
+[    0] Silvren: Shadow Shd
+[    0] Silvren: Lizardman Liz
+[  832] Arithon: causelight
+[    0] Silvren: Minotaur Min
+[  818] Arithon: sword
+[  818] Arithon: Unspeakable
+[  818] Arithon: UNSPEAKABLE
+[  832] Arithon: quests
+[  830] Arithon: quest time
+[  830] Arithon: quset
+[  845] Arithon: congradulate
+[  820] Arithon: tnl
+[25000] Arithon: lore
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Psionisist
+[    0] Wulfen: Troll Tro
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[  800] Vaz: song of the ghosts
+[    0] Vaz: Human Hum
+[  800] Vaz: drain life
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Human Hum
+[    0] Vaz: Shadow Shd
+[  164] Wulfen: enhaced claw
+[    0] Vaz: Shadow Shd
+[    0] Vaz: Demon Dem
+[    0] Xanatha: Elf Elf
+[    0] Von: Shadow Shd
+[    0] Von: Halfling Hlf
+[    0] Forl: Halfling Hlf
+[    0] Forl: Halfling Hlf
+[    0] Von: Halfling Hlf
+[    0] Yjb: Human Hum
+[    0] Jehkar: Elf Elf
+[    0] Jehkar: Human Hum
+[    0] Jehkar: Ghoul Ghl
+[    0] Jehkar: Human Hum
+[    0] Jehkar: Illithid Ill
+[  800] Jehkar: soulbind
+[    0] Jehkar: Human Hum
+[    0] Jehkar: Minotaur Min
+[    0] Shrander: Ghoul Ghl
+[    0] Acaniel: Human Hum
+[    0] Sho: Human Hum
+[  837] Sho: unarmed
+[  837] Sho: chaoshand
+[  837] Sho: Chaos hand
+[25000] Kiaru: coins
+[25000] Kiaru: money
+[25000] Kiaru: aromor
+[25000] Kiaru: armor class
+[25123] Kiaru: repare
+[25123] Kiaru: repair
+[25000] Knisus: wisdom
+[25000] Falanor: cross
+[25000] Kiaru: coins
+[  828] Sho: smeg
+[25000] Kiaru: coins
+[25000] Kiaru: copper
+[25000] Kiaru: money
+[    0] Testchar: Shadow Shd
+[    0] Testchar: Psionisist
+[23932] Akasha: channel rules
+[23932] Xaviar: channel rules
+[23932] Akasha: 'channel rules'
+[23932] Isaac: 'channel rules'
+[    0] Brandun: Human Hum
+[    0] Tana: Human Hum
+[  851] Arithon: copyover
+[    0] Derelor: Human Hum
+[    0] Derelor: Psionisist
+[    0] Derelor: Human Hum
+[    0] Derelor: Psionisist
+[    0] Igapoof: Human Hum
+[23932] Isaac: login
+[25000] Falanor: kidney
+[25000] Falanor: spin kick
+[25000] Falanor: jump kick
+[25000] Falanor: turn undead
+[    0] Beotch: Ghoul Ghl
+[    0] Seba: Elf Elf
+[23932] Akasha: empower
+[23932] Isaac: empower
+[23932] Isaac: empower
+[23932] Isaac: wiznet
+[25001] Sho: set
+[25000] Kiaru: mental  
+[ 1284] Delicose: message
+[    0] Xerita: Drow Drw
+[    0] Luthful: Human Hum
+[    0] Auther: Human Hum
+[ 1349] Inos: create bard
+[  833] Arithon: money
+[    0] Lythin: Human Hum
+[    0] Lythin: Psionisist
+[25130] Isaac: load
+[    0] Vaz: Elder Eld
+[    0] Vaz: Shadow Shd
+[    0] Vaz: Psionisist
+[  827] Lythin: snake
+[    0] Scaurius: Elder Eld
+[    0] Scaurius: Troll Tro
+[    0] Scaurius: Elder Eld
+[    0] Scaurius: Demon Dem
+[    0] Scaurius: Lizardman Liz
+[    0] Scaurius: Minotaur Min
+[  848] Adantariel: lore
+[    0] Scaurius: Troll Tro
+[    0] Scaurius: Minotaur Min
+[25000] Thao: lawful evil
+[    0] Gredan: Minotaur Min
+[25000] Thao: LAWFUL EVIL
+[23932] Isaac: load
+[    0] Verx: Illithid Ill
+[    0] Verx: Psionisist
+[    0] Verx: Demon Dem
+[    0] Verx: Shadow Shd
+[    0] Rensa: Lizardman Liz
+[    0] Rensa: Illithid Ill
+[    0] Rensa: Psionisist
+[    0] Alakin: Shadow Shd
+[ 2215] Jereth: alais
+[ 1300] Knisus: flamehand
+[ 1300] Knisus: turn undead
+[25000] Delicose: @
+[ 2215] Jereth: oreset
+[    0] Phaen: Demon Dem
+[    0] Phaen: Elder Eld
+[    0] Phaen: Shadow Shd
+[    0] Phaen: Human Hum
+[    0] Phaen: Ghoul Ghl
+[    0] Phaen: Demon Dem
+[    0] Phaen: Shadow Shd
+[    0] Phaen: Demon Dem
+[    0] Anzalan: Human Hum
+[  857] Phaen: riddle
+[  857] Phaen: rid
+[  857] Phaen: lair
+[  857] Phaen: riddlemaster
+[25000] Phaen: loot
+[25000] Phaen: corpse
+[25000] Phaen: battle
+[25000] Anzalan: quests
+[    0] Grimsella: Elder Eld
+[  816] Arithon: field of decay
+[  816] Arithon: field
+[  816] Arithon: animate head
+[  816] Arithon: lore
+[25132] Tana: quests
+[ 1281] Vallisar: coins
+[25000] Vallisar: hand
+[ 1300] Arithon: donations
+[ 1300] Vallisar: flamehand
+[ 1300] Vallisar: flame hand
+[ 1300] Vallisar: frost hand
+[ 1300] Vallisar: frosthand
+[ 1300] Vallisar: bladepalm
+[ 1300] Vallisar: anatomy knoeledge
+[  138] Arithon: set align
+[  138] Arithon: set
+[    0] Vaz: Shadow Shd
+[    0] Vaz: Psionisist
+[  151] Arithon: witching
+[  145] Arithon: affect
+[  143] Arithon: reveal
+[  159] Arithon: autotriggers
+[  159] Arithon: autotriger
+[  159] Arithon: trigger
+[    0] Renstav: Shadow Shd
+[    0] Renstav: Ghoul Ghl
+[    0] Renstav: Human Hum
+[    0] Renstav: Shadow Shd
+[    0] Renstav: Shadow Shd
+[    0] Renstav: Ghoul Ghl
+[    0] Renstav: Tabaxi Tbx
+[    0] Renstav: Elder Eld
+[    0] Renstav: Human Hum
+[    0] Renstav: Tabaxi Tbx
+[25000] Daeraloth: food
+[25000] Daeraloth: hun
+[    0] Kalein: Elf Elf
+[    0] Nephillim: Shadow Shd
+[    0] Nephillim: Shadow Shd
+[    0] Renstav: Tabaxi Tbx
+[ 1414] Daeraloth: money
+[ 1414] Daeraloth: copper
+[    0] MiracleMax: Drow Drw
+[    0] Nephillim: Shadow Shd
+[    0] Daerin: Tabaxi Tbx
+[    0] MiracleMax: Drow Drw
+[    0] MiracleMax: Psionisist
+[23932] Kalein: drain life
+[10700] Vallisar: leveitation
+[10700] Vallisar: levatation
+[23932] Isaac: bodybag
+[23932] Isaac: bodybg
+[23932] Isaac: body bag
+[23932] Isaac: soul gem
+[    0] Wyglif: Drow Drw
+[    0] Catarina: Minotaur Min
+[    0] Catarina: Demon Dem
+[    0] Anzalan: Human Hum
+[ 1300] Falanor: potion
+[  832] Anzalan: congrats
+[25130] Daerin: enter
+[25000] Vaz: wizinvis
+[25000] Vaz: wiznet
+[    0] Catarina: Shadow Shd
+[25089] Xaviar: incog
+[23932] Xaviar: set
+[  837] Catarina: fight
+[  837] Catarina: wound
+[  818] Wyglif: skull
+[    0] Rhuc: Human Hum
+[  843] Catarina: grats
+[  843] Catarina: congra
+[25000] Reliath: oracle
+[    0] Rhuc: Demon Dem
+[    0] Rhuc: Shadow Shd
+[  810] Reliath: mind trust
+[    0] Scaurius: Minotaur Min
+[  810] Kiaru: barrier
+[  143] Wyglif: grate
+[25000] Zaimor: plan
+[    0] Rathke: Shadow Shd
+[25001] Anzalan: cloaked
+[  146] Sho: enhanced damage 2
+[25000] Zaimor: tsr
+[25000] Zaimor: mud
+[25089] Daerin: attributes
+[25089] Daerin: charisma
+[    0] Gogar: Shadow Shd
+[    0] Gogar: Human Hum
+[    0] Gogar: Human Hum
+[25000] Kiaru: set
+[    0] Insynerate: Demon Dem
+[25000] Kiaru: help chaos
+[    0] Acaniel: Human Hum
+[    0] Xanatha: Elf Elf
+[  800] Acaniel: away
+[    0] Scaurius: Minotaur Min
+[  809] Adantariel: intelligence
+[  809] Adantariel: wis
+[  809] Adantariel: wisdom
+[    0] Challer: Human Hum
+[    0] Challer: Elf Elf
+[    0] Challer: Human Hum
+[    0] Challer: Human Hum
+[    0] Challer: Psionisist
+[    0] Dremas: Human Hum
+[  800] Challer: notes
+[ 2215] Jereth: empower
+[25001] Zaimor: 2.socials
+[  815] Challer: challenge
+[  815] Challer: arena
+[  146] Heth: algin
+[25000] Rathke: bloodbah
+[  160] Heth: lore
+[25000] Rathke: mistform
+[15158] Hunter: GREETING | ,pre
+[15158] Hunter: GREETING | more
+[    0] Silvren: Elder Eld
+[    0] Nos: Minotaur Min
+[    0] Silvren: Elder Eld
+[23932] Xaviar: rename
+[    0] Silvren: Elder Eld
+[    0] Silvren: Elder Eld
+[    0] Silvren: Elder Eld
+[25000] Catarina: avatar
+[25000] Catarina: coder
+[25000] Catarina: copyover
+[  850] Rhuc: bp
+[ 2208] Beowolf: locker
+[25000] Rhuc: healer
+[ 2208] Beowolf: bounty
+[25005] Catarina: dice
+[    0] Nephillim: Shadow Shd
+[  857] Arithon: weapons
+[    0] Nephillim: Shadow Shd
+[ 1305] Delicose: create bard
+[  139] Arithon: currency
+[  153] Arithon: write note
+[  161] Arithon: drain life
+[ 1942] Isaac: empower
+[ 2210] Hunter: wiznet
+[25000] Challer: hungry
+[25000] Challer: thirst
+[25000] Flith: bounty
+[  832] Challer: gossip
+[25000] Challer: arean
+[25000] Challer: arena
+[    0] Earon: Halfling Hlf
+[25000] Challer: grats
+[25000] Challer: gossip
+[25000] Challer: ooc
+[25000] Challer: talk
+[    0] Challer: Human Hum
+[  800] Challer: general
+[ 1316] Catarina: bounty
+[25133] Hunter: demm_mortal
+[25051] Hunter: demm_mortal
+[    0] Sarun: Elf Elf
+[25133] Challer: bounty
+[  136] Kiaru: set
+[25000] Challer: info
+[  808] Challer: arena
+[  808] Challer: challenge
+[    0] Hatski: Pixie Pix
+[  810] Challer: pack
+[  810] Challer: clan
+[  810] Challer: sectors
+[  805] Challer: clan
+[ 2215] Jereth: aset
+[ 1199] Isaac: pack
+[25000] Garnaralf: healer
+[  810] Dray: adrenaline rush
+[25000] Flith: drain life
+[ 1002] Isaac: spedit
+[10302] Dray: scrolls
+[10302] Dray: scroll
+[10302] Dray: scrolls
+[ 2215] Jereth: scroll
+[25000] Jereth: postman
+[ 1002] Isaac: todo
+[ 8001] Flith: cell adjustment  
+[ 8001] Flith: control flames 
+[25002] Flith: drain life
+[23932] Isaac: cos
+[23932] Isaac: city 
+[23932] Isaac: bethaven
+[ 2215] Jereth: imm or my sets rather
+[ 2215] Jereth: racelist
+[23932] Isaac: nukerep
+[23932] Isaac: conference
+[    0] Eltari: Troll Tro
+[ 2215] Isaac: recent
+[ 2215] Isaac: astrip
+[  948] Isaac: target
+[  948] Isaac: nedit
+[  948] Isaac: spedit
+[    0] Sadrith: Illithid Ill
+[    0] Sadrith: Psionisist
+[    0] Asus: Illithid Ill
+[    0] Asus: Psionisist
+[  810] Sadrith: soulbind
+[25050] Anzalan: pautoquest
+[25000] Silvren: zombie
+[    0] Sundre: Demon Dem
+[    0] Chaden: Drow Drw
+[23932] Hunter: race_edit
+[23932] Hunter: raceedit
+[    0] MeTest: Drow Drw
+[    0] Chaden: Elf Elf
+[23932] Hunter: sedit
+[  810] Wulfen: fast healing
+[25000] Hunter: demm_mortal
+[  809] Chaden: wis
+[25016] Hunter: demm_mortal
+[23932] Isaac: greetings1
+[    0] Silvana: Angel Ang
+[    0] Silvana: Elder Eld
+[    0] Silvana: Shadow Shd
+[    0] Silvana: Demon Dem
+[25053] Daerin: chaoshand
+[    0] Hurk: Elder Eld
+[    0] Hurk: Ghoul Ghl
+[    0] Hurk: Halfling Hlf
+[    0] Hurk: Drow Drw
+[    0] Hurk: Tabaxi Tbx
+[    0] Sundre: Drow Drw
+[    0] Hurk: Elder Eld
+[    0] Hurk: Dwarf Dwa
+[    0] Sundre: Drow Drw
+[    0] Konan: Dwarf Dwa
+[  808] Sundre: bp
+[    0] Jinn: Shadow Shd
+[  836] Sundre: fai
+[  836] Sundre: faeriefire
+[  836] Sundre: "faerie fire"
+[    0] Lanthul: Human Hum
+[    0] Lanthul: Psionisist
+[14000] Rhuc: messages
+[25000] Silvana: charisma
+[25000] Rhuc: race skill
+[25000] Rhuc: race skills
+[  146] Kiaru: drow 
+[  146] Kiaru: race drow
+[  146] Kiaru: drow race
+[  146] Kiaru: drow info
+[ 1413] Kuraka: balan
+[  810] Silvana: drain life
+[25000] Rhuc: drain life
+[25000] Rhuc: drain 
+[25000] Rhuc: drain life
+[    0] Catherina: Angel Ang
+[    0] Catherina: Human Hum
+[    0] Catherina: Human Hum
+[    0] Lathos: Human Hum
+[    0] Lykin: Human Hum
+[    0] Lykin: Psionisist
+[    0] Kiriel: Troll Tro
+[25000] Rhuc: master
+[    0] Faethor: Elf Elf
+[    0] Lathos: Human Hum
+[  155] Arithon: grace
+[25000] Arithon: osay
+[    0] Lathos: Human Hum
+[    0] Lythand: Human Hum
+[  158] Arithon: wands
+[  158] Arithon: staves
+[  158] Arithon: scrolls
+[  154] Arithon: drain life
+[  158] Arithon: bp
+[  136] Arithon: write note
+[25000] Arithon: Shu
+[ 1300] Wulfen: adrenaline rush
+[25000] Falanor: spin kick
+[25000] Falanor: spin
+[25000] Falanor: uppercut punch
+[25000] Vallisar: levels
+[25000] Catarina: shocking
+[25000] Catarina: shocking
+[25000] Catarina: grasp
+[    0] Catherina: Human Hum
+[    0] Catherina: Human Hum
+[    0] Tylan: Illithid Ill
+[    0] Tylan: Psionisist
+[  836] Tylan: weapons
+[    0] Tylan: Minotaur Min
+[    0] Xerita: Demon Dem
+[    0] Xerita: Angel Ang
+[    0] Xerita: Ghoul Ghl
+[    0] Xerita: Dwarf Dwa
+[    0] Xerita: Shadow Shd
+[    0] Xerita: Troll Tro
+[  800] Xerita: mistform
+[    0] Xerita: Demon Dem
+[    0] Xerita: Elder Eld
+[25133] Daerin: bounty
+[25003] Catherina: 'quest'
+[25000] Catherina: currency
+[25000] Dremas: colors
+[25000] Dremas: sules
+[23932] Isaac: 'strength'
+[    0] Seraph: Angel Ang
+[    0] Jinn: Human Hum
+[    0] Zylen: Ghoul Ghl
+[    0] Zylen: Shadow Shd
+[    0] Zylen: Ghoul Ghl
+[    0] Kimare: Tabaxi Tbx
+[    0] Jinn: Human Hum
+[    0] Jinn: Shadow Shd
+[    0] Kimare: Elder Eld
+[    0] Kimare: Tabaxi Tbx
+[    0] Sadrith: Lizardman Liz
+[    0] Sadrith: Demon Dem
+[    0] Sadrith: Elder Eld
+[    0] Sadrith: Angel Ang
+[    0] Sadrith: Lizardman Liz
+[25025] Catherina: highten
+[    0] Binkie: Ogre Ogr
+[25115] Zylen: money
+[25115] Zylen: exchage
+[25115] Zylen: exchange
+[23932] Akasha: money
+[23932] Akasha: silver
+[23932] Akasha: copper
+[25090] Zylen: food
+[25021] Catherina: chaoshand
+[ 1199] Isaac: player home
+[ 1199] Isaac: home
+[25000] Zylen: evolve
+[25000] Zylen: ascend
+[10677] Flith: enhance strength
+[25000] Zylen: questing
+[    0] Acaniel: Human Hum
+[25000] Dray: fast healing
+[    0] Kiriel: Troll Tro
+[25133] Catherina: bounty
+[    0] Yelith: Lizardman Liz
+[    0] Solitian: Human Hum
+[    0] Solitian: Elder Eld
+[    0] Solitian: Demon Dem
+[    0] Solitian: Drow Drw
+[    0] Solitian: Psionisist
+[    0] Raistlin: Demon Dem
+[    0] Raistlin: Human Hum
+[    0] Dolsar: Angel Ang
+[    0] Dolsar: Human Hum
+[    0] Brandun: Human Hum
+[    0] Brandun: Dwarf Dwa
+[ 1300] Knisus: wisdom
+[ 1300] Knisus: attributes
+[ 1300] Anzalan: plan
+[ 1300] Knisus: disintegrate'
+[    0] Reca: Human Hum
+[  814] Reca: eclass
+[    0] Recca: Human Hum
+[    0] Carpio: Shadow Shd
+[    0] Carpio: Psionisist
+[25000] Recca: clan
+[  824] Anzalan: tier
+[ 1352] Anzalan: 'enhanced hit
+[25000] Anzalan: pdual
+[25000] Anzalan: ethernal intell
+[25000] Anzalan: eternal intellect
+[25000] Anzalan: eternal
+[    0] Nargor: Minotaur Min
+[    0] Tanarg: Minotaur Min
+[    0] Vlad: Shadow Shd
+[    0] Arto: Human Hum
+[    0] Scurn: Minotaur Min
+[10625] Anzalan: cloaked
+[25000] Anzalan: ninja
+[25000] Anzalan: prace
+[25000] Anzalan: mental blck
+[25000] Anzalan: mental blpck
+[ 1300] Anzalan: ave
+[    0] Drenon: Angel Ang
+[    0] Drenon: Angel Ang
+[ 1383] Anzalan: word
+[ 1301] Anzalan: word of recall
+[    0] Jarell: Shadow Shd
+[  805] Jarell: scan
+[  805] Jarell: scan
+[    0] Justiel: Angel Ang
+[    0] Justiel: Ogre Ogr
+[    0] Justiel: Drow Drw
+[    0] Sundre: Drow Drw
+[23932] Isaac: wolf claw
+[23932] Isaac: wolf
+[25000] Wulfen: att
+[25000] Wulfen: attribute
+[    0] Sundre: Drow Drw
+[25120] Arithon: boad
+[  844] Sundre: enhance reflexes
+[  844] Sundre: "enhance reflexes"
+[  844] Sundre: enhance reflexes
+[  844] Sundre: "enhance reflexes"
+[  844] Sundre: "summon shadow"
+[23932] Akasha: bmotd
+[    0] Mefistoteles: Human Hum
+[  831] Sundre: enhance reflexes
+[  831] Sundre: word of recall
+[  831] Sundre: enhance hit
+[    0] Saruman: Human Hum
+[  831] Sundre: heigten sences
+[23932] Isaac: bethaven
+[25000] Catherina: macro
+[    0] Gandalf: Human Hum
+[23932] Isaac: poofin
+[23932] Isaac: poof
+[23932] Isaac: bop
+[23932] Isaac: slaymes
+[ 1317] Catherina: poison weaon
+[ 1317] Catherina: poison weapn
+[ 1300] Knisus: ppixie
+[23932] Isaac: rebuild
+[    0] Yelith: Lizardman Liz
+[    0] Yelith: Lizardman Liz
+[    0] Zharrok: Tabaxi Tbx
+[    0] Zharrok: Elder Eld
+[    0] Zharrok: Angel Ang
+[    0] Zharrok: Tabaxi Tbx
+[    0] Yelith: Lizardman Liz
+[    0] Narmacthul: Shadow Shd
+[    0] Narmacthul: Shadow Shd
+[    0] Heliocaust: Lizardman Liz
+[    0] Heliocaust: Pixie Pix
+[    0] Arkme: Lizardman Liz
+[23932] Isaac: eld_restrictions
+[23932] Isaac: creation guildmaster
+[25000] Catherina: evolve
+[    0] Zharrok: Tabaxi Tbx
+[    0] Shinobi: Demon Dem
+[  815] Narmacthul: fighting
+[  800] Shinobi: remort
+[  815] Shinobi: fullname
+[    0] Tila: Angel Ang
+[    0] Shinobi: Drow Drw
+[    0] Tila: Human Hum
+[    0] Shinobi: Shadow Shd
+[    0] Shinobi: Drow Drw
+[25002] Narmacthul: request
+[  800] Tila: backbelt
+[25000] Catherina: bid
+[    0] Diram: Angel Ang
+[    0] Diram: Human Hum
+[    0] Diram: Angel Ang
+[    0] Diram: Illithid Ill
+[    0] Diram: Psionisist
+[    0] Rafta: Demon Dem
+[    0] Rafta: Halfling Hlf
+[25000] Shinobi: healer
+[    0] Yelith: Lizardman Liz
+[25000] Reliath: colors
+[  841] Daremo: spin
+[    0] Retreaver: Elf Elf
+[    0] Retreaver: Psionisist
+[    0] Yselm: Elf Elf
+[    0] Yselm: Psionisist
+[23932] Akasha: secure
+[23932] Akasha: wiznet
+[    0] Erellan: Pixie Pix
+[23932] Isaac: affected_by2
+[  810] Daremo: spam
+[    0] Acaniel: Pixie Pix
+[  823] Daremo: globe
+[  823] Daremo: darkness
+[25000] Daremo: reflexes
+[25090] Daremo: racestat
+[25090] Daremo: racem modif
+[25090] Daremo: race skills
+[25090] Daremo: globe
+[25090] Daremo: darkness
+[25000] Kalith: globe of darkness
+[25090] Daremo: globe of darkness
+[    0] Urza: Angel Ang
+[    0] Urza: Elf Elf
+[    0] Urza: Human Hum
+[    0] Faethor: Human Hum
+[    0] Erellas: Pixie Pix
+[    0] Erellan: Pixie Pix
+[    0] Lythos: Elf Elf
+[    0] Lythos: Psionisist
+[    0] Faethor: Elf Elf
+[    0] Faethor: Elf Elf
+[    0] Krii: Illithid Ill
+[    0] Krii: Psionisist
+[23932] Isaac: globe of darkness
+[23932] Isaac: globe
+[23932] Isaac: chant
+[23932] Isaac: song of stone
+[    0] Jinn: Human Hum
+[    0] Maellas: Drow Drw
+[    0] Maellas: Psionisist
+[    0] Zera: Shadow Shd
+[    0] Chronus: Angel Ang
+[    0] Chronus: Illithid Ill
+[    0] Chronus: Psionisist
+[25000] Zylen: arena
+[  816] Challer: general
+[    0] Catarina: Shadow Shd
+[    0] Catarina: Minotaur Min
+[    0] Catarina: Human Hum
+[    0] Catarina: Elder Eld
+[    0] Catarina: Elder Eld
+[ 1300] Challer: hometow
+[25000] Zylen: arena
+[25094] Catherina: reserved
+[ 1300] Falanor: challenge
+[25000] Challer: nedit1
+[25000] Challer: turn undead
+[    0] Regann: Human Hum
+[25028] Challer: lawful evil
+[25035] Challer: charisma
+[    0] Recca: Human Hum
+[    0] Reca: Human Hum
+[  819] Reca: world
+[25033] Challer: world
+[ 1300] Flith: world
+[    0] Azuas: Shadow Shd
+[    0] Azuas: Tabaxi Tbx
+[    0] Azuas: Shadow Shd
+[    0] Azuas: Elder Eld
+[    0] Azuas: Demon Dem
+[    0] Azuas: Shadow Shd
+[    0] Azuas: Psionisist
+[25000] Challer: afk message
+[    0] Azuas: Shadow Shd
+[    0] Azuas: Illithid Ill
+[    0] Azuas: Psionisist
+[    0] Tabarnak: Illithid Ill
+[    0] Tabarnak: Minotaur Min
+[    0] Tabarnak: Troll Tro
+[25097] Challer: artifactor
+[ 1199] Isaac: poof
+[ 1301] Challer: gate
+[ 1900] Jereth: world
+[ 1300] Challer: ward of healing
+[ 1300] Challer: shadow walk
+[ 1300] Challer: aura of peach
+[ 1900] Jereth: prog
+[ 1900] Jereth: mobprog
+[ 1900] Jereth: 2.angel
+[    0] Zera: Shadow Shd
+[    0] Zera: Psionisist
+[ 1349] Flith: akasha
+[ 1349] Flith: sex
+[ 1900] Jereth: hierarchy
+[ 1900] Jereth: mpedit
+[ 1199] Isaac: vnum
+[25000] Challer: plan
+[ 1900] Jereth: stay_area
+[ 1900] Jereth: prog
+[    0] Serthest: Shadow Shd
+[    0] Kiriel: Troll Tro
+[ 1900] Jereth: 2
+[ 1900] Jereth: 3
+[ 1900] Jereth: 4
+[ 1900] Jereth: 5
+[ 1900] Jereth: 7
+[  800] Kiriel: pack
+[ 1900] Jereth: 102
+[ 1900] Jereth: 101
+[  800] Kiriel: strife
+[  800] Kiriel: clan
+[ 1900] Jereth: 114
+[    0] Etardotha: Pixie Pix
+[    0] Eldarron: Angel Ang
+[    0] Eldarron: Elder Eld
+[    0] Eldarron: Demon Dem
+[    0] Eldarron: Human Hum
+[  836] Etardotha: remake
+[ 1900] Jereth: smith
+[25000] Adantariel: lore
+[  843] Etardotha: lore
+[  843] Etardotha: stat
+[25031] Adantariel: 'psychic drain'
+[ 1900] Jereth: moblist
+[25087] Vallisar: money
+[25087] Vallisar: currency
+[ 1900] Jereth: currency
+[25000] Elros: turn undead
+[ 2215] Jereth: silver
+[ 2215] Jereth: money
+[ 2215] Jereth: silver
+[    0] Izual: Demon Dem
+[    0] Halastar: Human Hum
+[    0] Breanna: Human Hum
+[    0] Fragon: Angel Ang
+[    0] Fragon: Shadow Shd
+[    0] Fragon: Angel Ang
+[    0] Fragon: Shadow Shd
+[  805] Fragon: tnl
+[  829] Breanna: sells
+[    0] Maellas: Drow Drw
+[    0] Maellas: Psionisist
+[    0] Izual: Demon Dem
+[25123] Maellas: smith
+[ 2215] Jereth: weapon dice
+[25133] Breanna: bounty
+[ 2215] Jereth: addaffect
+[ 2215] Jereth: ojoin
+[ 2215] Jereth: ac_v3
+[    0] Pleak: Shadow Shd
+[    0] Pleak: Shadow Shd
+[    0] Pleak: Demon Dem
+[ 5140] Wulfen: fast healing
+[  816] Pleak: congratulatte
+[  816] Pleak: congratulate
+[    0] Pleak: Shadow Shd
+[ 5117] Wulfen: obj_
+[ 5117] Wulfen: obj
+[ 5116] Jereth: cen
+[  857] Pleak: riddle
+[25000] Pleak: grats
+[ 1300] Pleak: world
+[25000] Pleak: questing
+[    0] Silvren: Angel Ang
+[    0] Silvren: Illithid Ill
+[    0] Silvren: Drow Drw
+[    0] Zepher: Human Hum
+[    0] Zepher: Drow Drw
+[25000] Arithon: vampires
+[    0] Zepher: Demon Dem
+[    0] Zepher: Psionisist
+[    0] Zepher: Human Hum
+[    0] Zepher: Minotaur Min
+[  800] Zepher: werewolves
+[  800] Zepher: warriors
+[    0] Zera: Shadow Shd
+[    0] Zepher: Ogre Ogr
+[    0] Zepher: Ogre Ogr
+[    0] Zepher: Angel Ang
+[    0] Zepher: Angel Ang
+[    0] Zepher: Ogre Ogr
+[    0] Zepher: Ogre Ogr
+[    0] Zepher: Drow Drw
+[    0] Zepher: Drow Drw
+[    0] Zepher: Drow Drw
+[    0] Zophar: Drow Drw
+[  829] Zophar: cross punch
+[ 1308] Scurn: shops
+[ 1308] Scurn: buying
+[25000] Vallisar: chi shield
+[25000] Vallisar: chishield
+[25097] Zera: remake
+[  818] Zera: scream
+[  818] Zera: witch curse
+[  818] Zera: witch
+[  843] Zera: direction
+[    0] Zane: Demon Dem
+[25001] Zera: healer
+[  821] Daremo: healer
+[ 1300] Tabarnak: create bard
+[25000] Anzalan: pheighten
+[25000] Daremo: bounty
+[    0] Urza: Lizardman Liz
+[    0] Morx: Minotaur Min
+[  857] Daremo: riddle
+[    0] Tryson: Shadow Shd
+[    0] Geane: Elder Eld
+[25020] Daremo: globe
+[25020] Daremo: globe of darkness
+[    0] Geane: Elf Elf
+[23932] Beowolf: bounty
+[25000] Kalith: mots
+[    0] Medgam: Human Hum
+[    0] Medgam: Shadow Shd
+[    0] Kelimvor: Shadow Shd
+[    0] Ashtor: Dwarf Dwa
+[    0] Ashtor: Illithid Ill
+[    0] Ashtor: Elf Elf
+[    0] Ashtor: Psionisist
+[    0] Ashtor: Elf Elf
+[    0] Ashtor: Psionisist
+[    0] Catarina: Angel Ang
+[    0] Catarina: Elder Eld
+[    0] Catarina: Elder Eld
+[    0] Catarina: Elder Eld
+[ 1277] Sundre: scrolls
+[ 1277] Sundre: weapons
+[ 1300] Flith: ward of healing
+[  818] Catarina: magic missle
+[  818] Catarina: magic missile
+[  818] Catarina: 'magic missile
+[25003] Sundre: silver
+[25003] Sundre: money
+[    0] Zepher: Drow Drw
+[    0] Geran: Drow Drw
+[    0] Geran: Ghoul Ghl
+[    0] Geran: Demon Dem
+[25000] Pleak: shocking grasp
+[    0] Geran: Drow Drw
+[25000] Pleak: quests
+[  809] Geran: sneack
+[  809] Geran: Globe of Darkness
+[  809] Geran: globe of darkness
+[  809] Geran: globe
+[  829] Geran: kidney punch
+[  829] Geran: kidney
+[  829] Geran: kid
+[  829] Geran: spin
+[  829] Geran: barserk
+[  829] Geran: high kick
+[  829] Geran: high
+[  821] Geran: show
+[  821] Geran: affect
+[  821] Geran: affect
+[  821] Geran: affe
+[  839] Geran: fullname
+[  839] Geran: full name
+[ 1412] Pleak: currency
+[ 1412] Pleak: money
+[ 1412] Pleak: coin
+[ 1412] Pleak: exchange
+[ 1412] Pleak: copper
+[  851] Geran: deathfied
+[  851] Geran: deathfield
+[  851] Geran: ice shield
+[  851] Geran: energy drian
+[  824] Ashtor: psyonisist
+[  856] Arithon: astral lock
+[  856] Arithon: astral lock
+[25000] Kiaru: mind probe
+[  844] Catarina: plan
+[    0] Arain: Angel Ang
+[    0] Arain: Elder Eld
+[    0] Arain: Angel Ang
+[    0] Arain: Minotaur Min
+[    0] Arain: Lizardman Liz
+[    0] Arain: Elder Eld
+[    0] Arain: Ogre Ogr
+[    0] Arain: Drow Drw
+[    0] Arain: Shadow Shd
+[    0] Arain: Elf Elf
+[    0] Arain: Psionisist
+[    0] Denivoua: Human Hum
+[    0] Bersreker: Shadow Shd
+[    0] Bersreker: Demon Dem
+[    0] Bersreker: Human Hum
+[    0] Bersreker: Lizardman Liz
+[    0] Bersreker: Halfling Hlf
+[    0] Bersreker: Angel Ang
+[    0] Bersreker: Drow Drw
+[    0] Bersreker: Human Hum
+[    0] Berserker: Human Hum
+[  713] Isaac: affect
+[  713] Isaac: limits
+[    0] Digem: Human Hum
+[    0] Digem: Elder Eld
+[    0] Digem: Angel Ang
+[    0] Digem: Pixie Pix
+[    0] Digem: Tabaxi Tbx
+[    0] Digem: Human Hum
+[    0] Digem: Minotaur Min
+[    0] Digem: Minotaur Min
+[    0] Digem: Minotaur Min
+[    0] Tagmier: Demon Dem
+[25000] Kalith: wiznet
+[    0] Cyric: Angel Ang
+[    0] Cyric: Illithid Ill
+[    0] Cyric: Psionisist
+[23932] Isaac: wiznet
+[23932] Isaac: wiznet
+[    0] Myddraal: Shadow Shd
+[    0] Myddraal: Psionisist
+[    0] Eldarron: Angel Ang
+[    0] Eldarron: Ogre Ogr
+[    0] Eldarron: Drow Drw
+[    0] Eldarron: Dwarf Dwa
+[ 2215] Jereth: smith
+[ 2215] Jereth: smithy
+[ 2043] Catherina: aling
+[    0] Nos: Angel Ang
+[    0] Nos: Shadow Shd
+[25000] Challer: bounty
+[    0] Nos: Troll Tro
+[25000] Zylen: enhaned hit
+[    0] Nos: Elder Eld
+[    0] Ashlar: Human Hum
+[    0] Shraknai: Demon Dem
+[    0] Nos: Ogre Ogr
+[    0] Nos: Ghoul Ghl
+[    0] Nos: Troll Tro
+[    0] Nos: Minotaur Min
+[    0] Hatski: Pixie Pix
+[ 1300] Challer: fire shield
+[ 1300] Challer: charisma
+[    0] Luciana: Pixie Pix

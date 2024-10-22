@@ -1,0 +1,4 @@
+Hunter       5000000
+Isaac        100000
+Catarina     1000
+Akasha       1000

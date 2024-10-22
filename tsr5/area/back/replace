@@ -1,0 +1,11 @@
+perl -i -pe 's#&w##g' *.c
+perl -i -pe 's#&W##g' *.c
+perl -i -pe 's#&Y##g' *.c
+perl -i -pe 's#&y##g' *.c
+perl -i -pe 's#&O##g' *.c
+perl -i -pe 's###g' *.c
+perl -i -pe 's#&C##g' *.c
+perl -i -pe 's#&G##g' *.c
+perl -i -pe 's#&P##g' *.c
+perl -i -pe 's#&R##g' *.c
+perl -i -pe 's#&B##g' *.c

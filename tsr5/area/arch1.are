@@ -1,0 +1,1984 @@
+#AREADATA
+Name        {??-???} needs fissin2    Laric~
+Levels      0 0
+Builders    Isabo Dolguard~
+VNUMs       2300 2399
+Security    1
+Recall      25001
+Flags       16
+End
+
+
+
+#MOBILES
+#2300
+loster~
+Alreha~
+Alreha is here watching you closely.
+~
+Alreha stands here protecting the entrance from intruders.  Looking at her closely you can see bruises and scars all over her body.  She seems to be keeping an eye on you to make sure you don't cause any trouble
+~
+71 0 167805624 0 300 S
+100 0 0 19600d0+0 0d0+0
+0 0 0 0
+0 0 2
+3 0 0
+#2301
+Turkey~
+Fat Turkey~
+A Big Fat Turkey
+~
+The Fat Turkey wonders around the room and cuddles Alreha.
+~
+3 0 0 0 0 S
+1 0 0 20d0+0 0d0+0
+0 0 0 0
+0 0 2
+0 0 0
+#2320
+lori storeowner~
+Lori~
+A petite woman stands here rolling out dough.
+~
+Lori almost resembles a halfling with her relatively small size and round
+face, but she's clearly human lacking several of the common physical
+characteristics of halflings.  She's wearing a dark blue apron covered with
+dough.  
+~
+67 0 40 0 650 S
+25 0 0 1415d0+0 0d0+0
+0 0 0 0
+0 0 0
+2 0 0
+#2321
+shopowner vareth~
+Vareth~
+Vareth stands here attempting you to buy one of his fine wares.
+~
+Heavy-set and armed to the teeth this young storeowner doesn't seem to be
+one you want to mess with.  He has a sword belted across his waist and a
+dagger sheathed within his tunic also adding to your suspicion that this man
+knows how to sell and wield his weapons.  
+~
+67 0 168 0 750 S
+30 0 0 1560d0+0 0d0+0
+0 0 0 0
+0 0 1
+2 0 0
+#2324
+gateguard guard gate~
+a guard~
+A stockly built gateguard stands here watching your every move with intent.
+~
+You size the guard up with your glance noticing his rather well trained
+stance, ready to handle any problems this town may incur.  One hand lies
+above his eyes shielding them from the sky's light while the other rests on
+the hilt of his sword.  His armor glistens with an almost glassy look while
+made of chain rings making you wonder if it's completely natural.  
+~
+67 0 40 0 1000 S
+25 0 0 1420d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+#2367
+thief forest-thief~
+A Forest Thief~
+A deadly young man attempts to remain unseen here.
+~
+~
+229 0 98536 32784 -1000 S
+100 0 0 50000d0+0 0d0+0
+0 0 0 0
+0 0 1
+2048 0 0
+#2382
+Tameran~
+Tameran~
+Brier, Captain of the Guard, sits here at his desk frowning at your intrusion.
+~
+He seems rather annoyed at your presence and gives you a glance before
+returning to his work.  A dagger is sheathed at his belt along with a sword
+on the opposite side.  His gauntlets are removed and lying beside him while
+he works making his armor look incomplete.  His dark eyes once again look up
+at you as he removes his axe from his place across his back.  Something
+makes you think now would be a good time to leave him be.  
+~
+67 0 8360 0 1000 S
+35 0 0 1775d0+0 0d0+0
+0 0 0 0
+0 0 0
+19 0 0
+#2390
+cleric torak~
+Torak~
+Torak, master of the arts of alchemy, stands here.
+~
+~
+67 0 167772288 0 1000 S
+100 0 0 100000d0+0 0d0+0
+0 0 0 0
+0 0 1
+3 0 0
+#2399
+black lion black-lion familar~
+a black lion~
+Arch's familar, a black lion, is here looking closely at you.
+~
+A large lion with silken fur as black as a starless night stands proudly
+before you.  He looks at you with intelligent sky blue eyes and you feel as
+if he's looking into your very soul.  He casually unsheaths a razor sharp
+claw to remind you that he's more than capable of protecting his master.  
+~
+323 0 268435466 0 1000 S
+1 0 0 100000d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+#0
+
+
+
+#OBJECTS
+#2300
+empty~
+empty~
+Empty~
+~
+9 805306368 0 0 1 1
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 -1
+0 0 0
+#2301
+portal rip~
+a rip in space~
+A large rip in the fabric of space is here showing a path to Bethaven.~
+~
+29 0 0 0 0 0
+25001~ 0~ 0~ 0~
+300 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2303
+pillows pit~
+a pit of pillows~
+A large pit of fluffy pillows stacked to make you comfortable lies here.~
+~
+12 805306368 0 0 0 0
+0~ 0~ 0~ 0~
+300 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2304
+chasm~
+a chasm~
+Yawning at the floor of the room is a large chasm.~
+~
+15 0 0 0 0 100
+999~ 0~ 0~ 0~
+1000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2305
+pillow~
+a fluffy pillow~
+A big fluffy pillow lies here.~
+~
+30 805306368 0 0 8193 105
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2306
+fire fireplace~
+a roaring fireplace~
+Fire crackles from a roaring fireplace set in the wall.~
+~
+13 838860800 0 0 0 0
+0~ 0~ 0~ 0~
+300 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2307
+crown metal thorn~
+a Crown of metal Thorns~
+A nasty looking crown made of thorns lies here.~
+~
+9 67125313 3404 4096 17 100
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+inertial barrier~
+10 10
+0 0 0
+A
+23 -10
+A
+24 -25
+A
+17 -100
+A
+13 100
+A
+18 10
+A
+19 10
+#2308
+Sword Might~
+sword of Might~
+A constantly  Shape Shifting Sword lies on the ground here.~
+~
+5 67108864 4 0 8193 100
+0~ 25~ 80~ 3~
+4 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 30
+A
+2 2
+#2309
+loin cloth~
+a loin cloth~
+(no description)~
+~
+9 67108864 528 4096 25 80
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -20
+#2334
+portal gateway~
+empty.~
+A small portalable portal to Arch's office.~
+~
+13 0 0 0 1 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2335
+honey~
+empty.~
+A lump of fresh honey~
+~
+13 1 0 0 1 1
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2336
+sign~
+a Sign~
+A sign is nailed down here.~
+~
+13 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+sign~
+This is Lairich the valley of Mist.
+Turn back now for it is enchancted  and few have made it out even dead.
+Level 95-105
+~
+#2390
+trust ring signet~
+empty~
+A large golden ring bearing the symbol of <Trust> lies here.~
+~
+13 8192 0 0 3 105
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2391
+hypnotizing eyes charm~
+empty.~
+The gouged out eyes of a giant fly are here.~
+~
+13 805318756 0 0 131073 25
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2392
+ring band justice~
+empty~
+A solid gold ring lies here forcing thoughts of justice in your mind.~
+~
+9 536879104 0 0 3 106
+0~ 0~ 0~ 0~
+1 0 0 0 0
+1 0
+holy strength~
+0 -1
+0 0 0
+#2394
+whip ariel~
+empty.~
+A large nasty looking whip lies here and you want to obey it.~
+~
+13 8192 0 0 0 1
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2395
+helmet helm fire~
+empty~
+A helm of pure fire sits here.~
+~
+13 0 0 0 0 10
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2396
+dagger ash ash-dagger~
+empty.~
+A dagger made from the reminents of a large fire lies on the ground here.~
+~
+13 0 0 0 0 103
+0~ 0~ 0~ 0~
+1 0 0 0 0
+1 0
+haste~
+0 -1
+0 0 0
+#2397
+sword heron heron-mark broadsword~
+a sword~
+A large broadsword bearing a heron-mark on it's hilt lies buried tip down here.~
+~
+5 0 0 0 8193 106
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#2398
+band ring honor~
+empty~
+A smooth circle of gold forming a ring lies here.~
+~
+13 536870912 0 0 3 106
+0~ 0~ 0~ 0~
+1 0 0 0 0
+1 0
+phase shift~
+0 -1
+0 0 0
+#2399
+cloak arch color shifting~
+empty.~
+A cloak of swirling colors lies on the ground here.~
+~
+13 0 0 0 0 105
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#2300
+The Entrance to Lairich the Valley of Mist~
+============================================================================
+You have reached an impasse in the road where a thick mist like a wall
+permeates the view ahead of you preventing you from seeing any further.
+Your heartbeat quickens but is it with excitment or fear? You feel
+an almost tangible pull as the silence seems to almost sing you towards it
+and beguile your senses and paralyze your will. There is a sign rooted in
+front of you barely noticeable through the thick blanket of uncertainty.
+=============================================================================
+~
+0 0 0 0
+Rd     0
+E
+sign~
+This sign is to be modified.
+~
+D0
+~
+~
+0 0 2350
+D1
+~
+~
+0 0 2317
+O ~
+S
+#2301
+Town Fountain~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2302
+O ~
+S
+#2302
+Main Street~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2301
+D2
+~
+~
+0 0 2303
+O ~
+S
+#2303
+Intersection of Main and Commerce~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2302
+D1
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2327
+O ~
+S
+#2304
+Commerce Road~
+~
+0 0 0 0
+Rd     0
+D0
+The words, "Talmes' Armor Shop & Blacksmity" are chisled into a rusted,
+metal sign fastened to the door.  
+~
+entrance~
+3 0 2314
+D1
+~
+~
+0 0 2305
+D2
+~
+~
+0 0 2324
+D3
+~
+~
+0 0 2303
+O ~
+S
+#2305
+Intersection of Commerce & Hollow~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2306
+D1
+~
+~
+0 0 2308
+D3
+~
+~
+0 0 2304
+O ~
+S
+#2306
+South Hollow Avenue~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2310
+D1
+The words, "Rhelien Town Barracks", are carved roughly within the deep
+set oak door guarding this two story building.  
+~
+entrance~
+3 0 2307
+D2
+~
+~
+0 0 2305
+O ~
+S
+#2307
+Rhelien Barracks~
+~
+0 0 0 0
+Rd     0
+D1
+The letters, "Captain's Office", are etched in the middle of the door. 
+Underneath that lies a smaller note reading, "Do not disturb."  .  
+~
+entrance~
+3 0 2382
+D3
+~
+~
+3 0 2306
+O ~
+S
+#2308
+Commerce Road~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2309
+D3
+~
+~
+0 0 2305
+O ~
+S
+#2309
+East Gate of Rhelien~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2308
+O ~
+S
+#2310
+South Hollow Avenue~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2306
+D3
+A large, ornate sign outlined in bright silver reading, "Aegean's Magic
+Supplies and Potions Store", hangs upon the door.  
+~
+entrance~
+3 0 2315
+O ~
+S
+#2311
+North Hollow Avenue~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2310
+O ~
+S
+#2312
+Valner Street~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2316
+O ~
+S
+#2313
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#2314
+Talmes' Armor Shop & Blacksmity~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+3 0 2304
+O ~
+S
+#2315
+Aegean's Magic Supplies & Potions Shop~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+3 0 2310
+O ~
+S
+#2316
+Corner of Commerce and Valner~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2312
+D1
+~
+~
+0 0 2327
+O ~
+S
+#2317
+East of entrance~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2318
+D3
+~
+~
+0 0 2300
+O ~
+S
+#2318
+Further into Nairich~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You continue down the road, careful as can be due to the fear that grips
+your throat and makes you heart pummel out its beat. you hear strange
+empty singing echoing all around but cannot place the source still. You head
+toward it in a dreamlike trance. There is a large tree here with a frozen
+grimace on it. It shouts out at you....
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~
+0 0 0 0
+Rd     0
+D0
+A large sign reading, "Vareth's Weaponery", hangs upon the door here.  
+~
+entrance~
+3 0 2321
+D2
+~
+~
+0 0 2317
+D3
+~
+~
+0 0 2350
+O ~
+S
+#2319
+Valner Street~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2301
+D2
+Carved in crude letters, "Lori's Bakery", adorns the center of the door.  
+~
+entrance~
+3 0 2320
+O ~
+S
+#2320
+Lori's Bakery~
+Lanterns hanging from the ceiling offer only a small amount of light as
+you step further in.  No windows are present to add in nature's light, which
+strikes you as a little odd, although that could be so more space could be
+made for shelves and cupboards like the ones that cover the walls in all
+directions.  A cauldron sits over a small fire surrounded by cobblestones to
+make a firepit.  Beneath the cupboards runs a long counter running the
+length of the west wall and bending down the south one some.  
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+3 0 2319
+O ~
+S
+#2321
+Vareth's Weaponery~
+The scent of rusty metal lays thick in the air of this small shop.  Along
+each wall weapons are set upon racks or pegs holding them up for display. 
+The only organization to the pattern seems to be by type, with swords to the
+back of the room, axes to your west and assorted staffs or spears along the
+east wall.  A long tail stands at the back of the room.  
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+3 0 2318
+O ~
+S
+#2322
+North Hollow Avenue~
+~
+0 0 0 0
+Rd     0
+D1
+A large, weather beatten sign reading, "Long Shade Inn", raps back and
+forth upon the surface of the door as wind nudges it about.  
+~
+entrance~
+3 0 2323
+O ~
+S
+#2323
+Long Shade Inn~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+3 0 2322
+D5
+~
+trapdoor~
+3 0 2325
+O ~
+S
+#2324
+South Gate of Rhelien~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2328
+O ~
+S
+#2325
+Cellar~
+~
+0 0 0 0
+Rd     0
+D4
+~
+~
+3 0 2323
+O ~
+S
+#2326
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#2327
+Commerce Road~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2303
+D3
+~
+~
+0 0 2316
+O ~
+S
+#2328
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2324
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2329
+O ~
+S
+#2329
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2328
+D3
+~
+~
+0 0 2330
+O ~
+S
+#2330
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2329
+D3
+~
+~
+0 0 2332
+O ~
+S
+#2331
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2332
+O ~
+S
+#2332
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2331
+D1
+~
+~
+0 0 2330
+D2
+~
+~
+0 0 2333
+O ~
+S
+#2333
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2332
+D2
+~
+~
+0 0 2334
+D3
+~
+~
+0 0 2380
+O ~
+S
+#2334
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2333
+D2
+~
+~
+0 0 2335
+O ~
+S
+#2335
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2336
+O ~
+S
+#2336
+Southern Bridge on the Talas River~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2337
+O ~
+S
+#2337
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2336
+D3
+~
+~
+0 0 2338
+O ~
+S
+#2338
+Old Shack~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2337
+O ~
+S
+#2339
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2340
+D3
+~
+~
+0 0 2328
+O ~
+S
+#2340
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2341
+D3
+~
+~
+0 0 2339
+O ~
+S
+#2341
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2340
+D2
+~
+~
+0 0 2343
+O ~
+S
+#2342
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2343
+O ~
+S
+#2343
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2341
+D1
+~
+~
+0 0 2344
+D3
+~
+~
+0 0 2342
+O ~
+S
+#2344
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2345
+D3
+~
+~
+0 0 2343
+O ~
+S
+#2345
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2344
+O ~
+S
+#2346
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2347
+D1
+~
+~
+0 0 2348
+D2
+~
+~
+0 0 2345
+O ~
+S
+#2347
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2346
+O ~
+S
+#2348
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2346
+O ~
+S
+#2349
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2351
+D1
+~
+~
+0 0 2360
+D3
+~
+~
+0 0 2348
+O ~
+S
+#2350
+North of Entrance to the lairich~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You have decided to brave the mist and the unknown and the unseen. As you 
+ venture further in, you sense this eerie presence all around yet you cannot
+phathom the source nor can you see it. You only sense an awesome power. 
+You can only see a few feet around you and then the grey blanket that
+consumes the rest. There are strange looking plants in hues of blue and
+white lying all around in a hazy blur.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+0 0 2300
+O ~
+S
+#2351
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2349
+O ~
+S
+#2352
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2355
+D1
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2351
+D3
+~
+~
+0 0 2354
+O ~
+S
+#2353
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 2352
+O ~
+S
+#2354
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2352
+O ~
+S
+#2355
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2352
+O ~
+S
+#2356
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2355
+D3
+~
+~
+0 0 2357
+O ~
+S
+#2357
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2356
+D3
+~
+~
+0 0 2358
+O ~
+S
+#2358
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2357
+D2
+~
+~
+0 0 2359
+O ~
+S
+#2359
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2358
+D3
+~
+~
+0 0 2309
+O ~
+S
+#2360
+Eastern Bridge of the Talas River~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2361
+D3
+~
+~
+0 0 2349
+O ~
+S
+#2361
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2360
+O ~
+S
+#2362
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2363
+D3
+~
+~
+0 0 2361
+O ~
+S
+#2363
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2364
+D3
+~
+~
+0 0 2362
+O ~
+S
+#2364
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2363
+D1
+~
+~
+0 0 2365
+D2
+~
+~
+0 0 2368
+O ~
+S
+#2365
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2366
+D3
+~
+~
+0 0 2364
+O ~
+S
+#2366
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2367
+D3
+~
+~
+0 0 2365
+O ~
+S
+#2367
+DEAD End in the Averillon Forest Path~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2366
+O ~
+S
+#2368
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2364
+D2
+~
+~
+0 0 2369
+O ~
+S
+#2369
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2368
+D3
+~
+~
+0 0 2370
+O ~
+S
+#2370
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2369
+D2
+~
+~
+0 0 2371
+O ~
+S
+#2371
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2370
+D2
+~
+~
+0 0 2372
+O ~
+S
+#2372
+Outside the Norther Wall of the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2371
+D1
+~
+~
+0 0 2373
+D3
+~
+~
+0 0 2379
+O ~
+S
+#2373
+Outside the Tower~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2374
+D3
+~
+~
+0 0 2372
+O ~
+S
+#2374
+Outside the Eastern Wall of the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2373
+D2
+~
+~
+0 0 2375
+O ~
+S
+#2375
+Outside the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2374
+D3
+~
+~
+0 0 2376
+O ~
+S
+#2376
+Outside the Southern Wall of the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+entrance~
+3 0 2384
+D1
+~
+~
+0 0 2375
+D3
+~
+~
+0 0 2377
+O ~
+S
+#2377
+Outside the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2378
+D1
+~
+~
+0 0 2376
+O ~
+S
+#2378
+Outside the Western Wall of the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2379
+D2
+~
+~
+0 0 2377
+O ~
+S
+#2379
+Outside the Tower~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2372
+D2
+~
+~
+0 0 2378
+O ~
+S
+#2380
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2381
+O ~
+S
+#2381
+Path in Averillon Forest~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2380
+O ~
+S
+#2382
+Captain of the Guards' Office~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+3 0 2307
+O ~
+S
+#2383
+~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#2384
+Entrance to the Tower~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2386
+D1
+~
+~
+0 0 2387
+D2
+~
+~
+3 0 2376
+D3
+~
+~
+0 0 2385
+O ~
+S
+#2385
+Western Wing of the Tower's 1st Floor~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 2384
+D4
+~
+~
+0 0 2389
+O ~
+S
+#2386
+North Wing of the Tower's 1st Floor~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2384
+D4
+~
+~
+0 0 2390
+O ~
+S
+#2387
+Eastern Wing of the Tower's 1st Floor~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 2384
+D4
+~
+~
+0 0 2393
+O ~
+S
+#2388
+North Wing of the Tower's 2nd Floor~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2389
+D4
+~
+~
+0 0 2394
+O ~
+S
+#2389
+West Wing of the Tower's 2nd Floor~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2388
+D5
+~
+~
+0 0 2385
+O ~
+S
+#2390
+Isabo's Death chamber~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2391
+D5
+~
+~
+0 0 2386
+O ~
+S
+#2391
+South Wing of the Tower's 2nd Floor~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2390
+D4
+~
+~
+0 0 2397
+O ~
+S
+#2392
+North Wing of the Tower's 2nd Floor~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 2393
+D4
+~
+~
+0 0 2396
+O ~
+S
+#2393
+East Wing of the Tower's 2nd Floor~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 2392
+D5
+~
+~
+0 0 2387
+O ~
+S
+#2394
+West Wing of the Tower's 3rd Floor~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+3 0 2395
+D5
+~
+~
+0 0 2388
+O ~
+S
+#2395
+North Wing of the Tower's 3rd Floor~
+~
+0 0 0 0
+Rd     0
+D1
+~
+entrance~
+3 0 2396
+D2
+~
+entrance~
+3 0 2397
+D3
+~
+entrance~
+3 0 2394
+D4
+~
+trapdoor~
+3 0 2398
+O ~
+S
+#2396
+East Wing of the Tower's 3rd Floor~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+3 0 2395
+D5
+~
+~
+0 0 2392
+O ~
+S
+#2397
+South Wing of the Tower's 3rd Floor~
+-
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+3 0 2395
+D5
+~
+~
+0 0 2391
+O ~
+S
+#2398
+Zira's Quarters~
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+3 0 2395
+O ~
+S
+#2399
+empty~
+~
+0 4 0 0
+Rd     0
+O ~
+S
+#0
+
+
+
+#SPECIALS
+M 2300 spec_executioner
+M 2367 spec_thief
+S
+
+
+
+#RESETS
+M 0 2300 1 2300
+M 0 2324 3 2309
+M 0 2320 1 2320
+M 0 2321 1 2321
+M 0 2324 1 2324
+M 0 2324 3 2324
+M 0 2382 1 2382
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

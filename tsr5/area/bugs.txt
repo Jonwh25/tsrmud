@@ -1,0 +1,209 @@
+[  933] Kelvin: cant go south like it says
+[ 4601] Cerin: the flaming head from demon temple is a light..and i can light it..but it dosen't liet me see in teh dark
+[ 4601] Cerin: the dagger the high priestis has in teh demon temple is missing some desc
+[19719] Serin: muscular thug attacks own kind instead of player.
+[11812] Kelvin: 1000 gold in pile up to you guys
+[10134] Kelvin: no way back to south gate of COS
+[20232] Slyst: I found a mana potion that is a regular mana potion x3. Its called a Glowing Potion. Not sure if it is supposed to be there but Variant seems to think its not. The pixies in the tree south of CoS have them. Please let me know if these are ok to use, 
+[25020] Shayol: I found some rings that need to be fixed, they are deathFang Guardian's Signet Ring... It says I can wear them but still zaps me.
+[25087] Slyst: Giiogion and I went through this and thought we had it fixed but it wasnt. Necklace and diamond earrings from the town in the portal on the beach on the new continent show that youre mana is raised but acutually reduce it
+[25087] Slyst: *shrug* not sure why..necklace was item type trash but giiogion changed it and still the trouble....just letting you know...and knowing is half the battle:)
+[25000] Deven: no help wis, str, dex, etc. fix it
+[ 1300] Pax: The anti-tabaxi flag doesnt always show in items unless in the editor
+[  846] Adrianna: missiles no help file
+[  846] Adrianna: voices no help files
+[  146] Adrianna: giants no help file
+[  810] Adrianna: night vision no help files
+[25001] Kaelyn: casting energy drain on yourself gives you hp
+[10696] Adrianna: flight no help flie
+[  814] Azygwl: er the apples in mud school appear one room south of where the apple tree is.. ;)
+[  821] Slyth: vale backpack: Command 'close backpack'. It closes it but still says 'I see no backpack here'. 
+[25000] Dalmor: when I use peek, it doesn't increase in %.
+[21485] Dynnah: beowolf i think the mob Joshua in Tolaria might be bugged, i just stole more than 1 billion silver from it. thanks, dynnah
+[11122] Benisato: whenever i sac something it says "you get 4 hit points" etc i enver get it, im a vampire/warrior
+[  810] Jacinth: Can't practice protection
+[11632] Dynnah: vampires can't use alchemy because it need mana, and vampire has only bloodpoints. thanks
+[10670] Jacinth: sight No help fight
+[10698] Jacinth: No help file Soothing
+[10698] Jacinth: No help file Night Vision
+[ 4475] Vordan: this elder of the cano gives you a key every time.. should fix the mobprog to not give ya one if ya got one already..
+[20247] Vordan: mt cano keeper of the flame sword has two hitroll affects instead of hit/dam.
+[16006] Taltos: when i cast iceshield the mud crashs
+[10642] Samuil: my manna keeps restoring itself to 175/156
+[ 6600] Vordan: daern mansion has a one way exit from sitting room into the forge.. odd
+[ 1369] Dynnah: dispel magic crashes the mud.
+[  810] Jacinth: No help file Enticement
+[  810] Jacinth: no help file vision
+[11817] Vordan: room description here claims kulm to east.. but is to west??
+[11822] Vordan: sigh ignore me.. im an idiot (east, west.. whats the difference)
+[ 8773] Vordan: can ya please make it so challenges return you to where you came from?? people abuse it all to heck as a form of recall..
+[25000] Jacinth: No help files Flames
+[  810] Dynnah: i seems to be able to make antidote without even practising the skill
+[25001] Kaelyn: bry
+[11806] Vordan: if you try and unlock a non-locked door, it says "you havent the key".. think it would say.. it is already unlocked... :)
+[25000] Vordan: in the bethaven sewers,, the muscular thug/bandit picks up the wooden chest... which then resests.. so there are like 20 of em in his inventory.
+[25000] Vordan: the earlier bug about the muscular bandit thug... happens of course only if someone flees from it first, letting the mob walk around.
+[25000] Vordan: of course? i dont have the slightest idea what im talking about.. time for bed.. *wave* thanks for the great mud.. still looking for good bugs to exploit..er. report
+[25120] Vordan: could the order of str/int/wis/etc... be the same in score and worth? 'preciate it.
+[  810] Jacinth: Practice problem.  Can't practice flamestrike and flames.
+[  810] Jacinth: When I try to practice flames it mistakes it for flamestrike
+[16050] Krast: Detect invis crashing mud
+[23800] Krast: Bryelle
+[25000] Jacinth: The spell flames doesn't work.
+[25000] Dynnah: the forging for anklets don't seem to work, it said you can't wield, wear, or hold item
+[10277] Vordan: this rooms exit should really be west, not east
+[25000] Jacinth: no help file seeing
+[20234] Vordan: earlier i commented about sewer exits in hammerheim.. i guess its intentional cause there are 4 that way..
+[20234] Vordan: doesnt make a lot of sense really, but i retract that as a bug ;)
+[25092] Samuil: when I typed c blackbelt it gave me exp and improved my % I was trying to fiqure out how to wield something in my off hand...
+[25000] Daoloth: no help field of decay
+[ 5101] Jacinth: no help file location
+[25000] Jacinth: no help file location
+[25000] Jacinth: no help file enchantment
+[ 2715] Vordan: ok. ive played with this long enough and think it should be changed...
+[ 2715] Vordan: when you animate a corpse, and then kill it, you get really decent xp, but without half the fight.. 
+[ 2715] Vordan: when you animate things, their level, or whatever sets xp, needs to drop to about 3/4 or something...
+[ 2709] Vordan: if you stun a mob.. and their random move action hits in.. they will walk away from the middle of the fight.
+[ 2709] Vordan: you can also flee from a fight if your wimpy kicks in while you are stunned...
+[ 2733] Vordan: hmm. im in a wyvern castle dungeon and the clouds are visible..
+[11201] Vordan: psychic quake spell doesnt seem to do what the help file indicates.. hasnt hit room targets yet..
+[25000] Bremen: or
+[  810] Jacinth: no help file poison sight
+[25000] Jacinth: Bards can't sing their songs i.e. song of faerie fire
+[25000] Jacinth: Bards can't sing their songs i.e. song of faerie fire
+[25000] Jacinth: sorry...Hit return..didn't mean to bug the bard song thing twice
+[25000] Jacinth: no help files song of acid blast
+[25000] Jacinth: no help files song of cursing
+[19722] Zoraster: marij, got 9 chests from the muscular thug, just wanted you to know the bug is still going on
+[10191] Fulstyr: Mag/Psi/Theif casts "true Sight" spell just after i leveled to level 49 Race Elf (fulstyr)
+[10180] Vordan: indesctructable items shouldnt claim to be pitted or etched..
+[10180] Vordan: indesctructable items shouldnt claim to be pitted or etched..
+[11266] Vordan: i still cant seem to loot a corpse... is there a level restriction or something?
+[25024] Zoraster: the blood points of Zoraster is bugged, doesnt subtract them and everyone and a while says im outa mana when i dont have any at all
+[25000] Viskiante: i have a vam/cle combo and i have blood points but use mana and cant see my mana pts
+[  810] Jacinth: no help file Song of sanctuary
+[  146] Zanshin: no helpfiles on any of the punches available to warriors
+[  172] Allianna: Whenever I pick the desk in the Marble Golem's office, it says that "I see no desk here' and then lets me continue picking 
+[23300] Krast: Frenzy dont work nor blackbelt or half the things that help monks werewolvers or Bards
+[  825] Zefflinius: can't turn off the gossip channel
+[25001] Zefflinius: 'wa' should be short for wake, shouldn't it? But when I type wa while I'm sleeping, it says 'what...in your dreams'
+[25000] Jacinth: no help file song of healing
+[  820] Raylar: I have prompt problem
+[20224] Hassim: Euh im a War\Psi\Thief and whwn i use the lvl 35 poison skill it says What do you think you are a Thief?
+[25000] Chelsea: billy
+[25000] Chelsea: my sub-issue billy clubhas stopped draining mobs when i hit them.[Cyour servant, Chelsea
+[  140] Tlexen: spell armor error, the last two times i cast it i got kicked off, i think everyone did
+[25000] Jacinth: no help file song of the ghosts
+[25063] Chelsea: continual light is bugged for me (chelsea)
+[25062] Naveen: I killed a monster that gave me 0 exp but I jumped five levels from it... my character is naveen
+[25000] Zodilodarepe: no helpfile on shadow walk
+[ 2345] Yrinthi: Cyrus killed bridge troll and got a shit load of money...think it is bug
+[25000] JyKarath: Holy Strength
+[25000] JyKarath: Holy Strength doesn't give a strength bonus even though I've had it for 19levels....pretty sure is a bug...Thanks....
+[11214] Meldor: Dark ritual takes corpses from all around the realms...
+[ 8768] Meldor: you can practice skills by typing c '<skill>' Not good is it?
+[11202] Meldor: potions in Teple of demons contain spells of 'reserved' which does nothing
+[11202] Jacinth: no help file song of fiery death
+[25000] Jacinth: no help file song of revealing
+[25000] Zodilodarepe: no helpfile on druid spell pass plant
+[ 8768] Hassim: I have the Peek and Enhaced dodge skill and they dont seem to raise.. i have them for about 30 lvls now.. and im War\psi\th
+[25000] Temkhes: summon treant help is summon trent...wtf is a trent? smirk
+[25000] Robythian: There doesn't seem to be and *HELP* catagory for FLAMEHAND (LVL 35 Monk skill) - what does it do?
+[25081] Decameron: sacrify certain amount of copper and kill him, then you'll get xxx coppers + yyy coppers < which had been belonged to beggar orginally >, the code didn't check the SUM
+[25000] Jacinth: no help file warcry
+[25000] Robythian: There seems to be no help file on the monk skills flamehand, bladepalm, frosthand, or chaoshand...
+[ 9540] Mortu: You might want to check the sanc code.  I'm invincible when I use it. (Everyone misses me...)
+[25000] Azhelyn: sanctuary: you don't seem to get hit, and mobs with sanc don't get damage either
+[25002] Chelsea: although miroj kindly re-created her character, chelsea's fly spell is still bugged and she is afraid to try the others
+[ 5301] Chelsea: fly druid/mage lev 12  (chelsea)
+[25000] Jacinth: no help file lullaby
+[25042] Dunamis: Why is it that the "slobbering Drunk" in Bethhaven is considered a player (i.e. I have to use MURDER ot attack him)
+[10667] Obsidir: scrolls of recall dont work... Trust me, its not in no-recall zone or anything, I made sure of that, and Im sure as hell not cursed... check that out...
+[20201] Isaac: Recite recall
+[  829] Arcadinius: when I created my shadow character, psionicist was spelt "psionisist".  This meant that I couldn't see the help file for the psionicist when I made my class.  Minor bug but fyi
+[25010] Divolg: psychic healing
+[25004] Ejder: group allied's damage mesg's does not appear on the screen!
+[25068] Ejder: mobs DO NOT COLLECT   money!
+[14005] Ejder: please UPDATE the help damage text < /dist/area/help.are >
+[25001] Celendel: there is a bug in this location (Fighting Grounds of Mudschool) you cannot go east.
+[25001] Celendel: there is a bug here where you can't go west either...
+[25000] Delicose: In challenge arena, around 9:30 Central Time, couldn't move from room to room. Acted like I was hitting walls, as if there were no exits.
+[25038] Antares: PLEASE update the DAMAGE text!!!
+[ 2021] Ejder: game crashes when a pet or mobile (!npc) tries to enter char commands like email.
+[  150] Vald: fly spell char vald vamp mage lv 8 dunno if that will help but
+[25115] Ejder: yes
+[ 8073] Samuil: I have been using blackbelt for several levels now and it has not increased in skill
+[11801] Grishnax: Kurats in DeathFang manor. Wield 
+[11801] Grishnax: sorry bout that, hit enter accidently, anyways, the Kurats wield "destruction", and this weapon can be disarmed, but not looted. Not sure if this is a bug, if it isn't sorry for wasting your time and mine. :)
+[21485] Taltos: the portal at An Oasis takes you to Above the Fountain but before you can move the portal there takes you back to An Oasis
+[ 2059] Delicose: the "spells" command doesn't work. Maybe it should be removed from the help files.
+[25000] Grishnax: Hiya. Umm, when I came on today I relaized I had no weapon, so I wnet to find one. Killed a mob and when I went to grab the weapon from the corpse, said it was too heavy. Well, I checked "score" and my weight is 347/0 kg. My strength is 18(20)
+[25000] Shoonush: Should I be able to drain life from myself? It adds to my hp without doing anything bad as a result. It doesn't even take bp.
+[25000] Ruun: I and some other ppl are having problems with practicing skills. I find if I leave the practice area and re-enter I can then practice the skill.
+[ 2002] Alkarin: psionists can USE their spells even WHILE RESTING..please fix this
+[ 2002] Alkarin: please add do_look function when do_stand or wake functions are implemented
+[ 2084] Alkarin: I should begin a combat with a single kick or punch..why this feature is disabled ?
+[10693] Lyssaer: unles this is supposed to happen, if i cast spells fast enough i can get in two spells between melees rather than one
+[ 1198] Alkarin: cloaked-102  I think there's not such an affection, may be a code fault
+[25054] Alkarin: again !!:: I GAVE 1,000 GOLD TO A BEGGAR, THEN KILL HIM = 10 copper !!!!  nasty!
+[ 8084] Lyssaer: everytime i cast identify on a red runestone the system crashes (stone from the vale)
+[ 5046] Lyssaer: hmm now my (lyssaer) identify spell takes 100 mana to cast
+[ 2009] Alkarin: PLEASE .... update the DAMAGE HELP TEXT
+[ 2832] Durvin: bag 3
+[20245] Isaac: sir morty
+[25002] Jaxxis: It may have been a cowinsodince (sp) put the mud crashed when I tried to cast shield.
+[ 9579] Samuil: My bless is always set to -1 hours left...
+[ 7370] Daoloth: Mental drain does not restore any mana in the arena
+[10913] Malaclypse: when i cast identify the mud crashes
+[20211] Alkarin: after charm affec removes from a mob, make them follow themselves again
+[ 5118] Alkarin: is there any god ?
+[ 2402] Geshp: My cure light spell does not work.
+[25088] Accasbel: dog
+[25088] Accasbel: If one uses life drain on oneself it give Hp to the person
+[ 1270] Zenlore: can't cast cure light spell (cast cure light)
+[25000] Geshp: Levitation is bugged.
+[ 9541] Geshp: enhanced strength is bugged.  Just because you're working on TSR 4 doesn't mean you should abandon this game.
+[15159] Isaac: undead warrior
+[ 5139] Alkarin: shaman of the centaurs is supposed to keep the silence when he sleeps, yet he's still uttering some spells :)
+[20222] Dray: morgue's portal to bethaven wouldn't let me in... "you can't evter that" was it's reply.
+[  837] Keben: im in the mud school area to kill stuff and everyonce and a while i will just stop fighting whatever it was i was fighting and when i look its not there, its not fleeing and im not getting any xp
+[  825] Radak: there is bug in help damage
+[  825] Radak: it says min when you meants max
+[  840] Pauck: stuff keeps killing itself with poison; that's weird.
+[25005] Pauck: I paid 0 coins when I haggled for something and the skill was at 25%
+[25092] Xanatari: long
+[30506] Vlasyvae: I hate to bug any of you with IV going and all - but the North Star Sword seems bugged. Nobody can wield it, yet, it identifies that you could wield it.
+[25000] Karne: continual light
+[10696] Karne: Cure serious
+[  146] Artrax: I keep stopping recieving messages
+[25120] Cyrus: note read is fucked up
+[ 1300] Judex: My experience points are lowered every time i enter the MUD after having been offline.
+[25099] Reliak: in the bank, it tells you you can not store unless you have enough money to pay for it (100 gold) and it says you don't have enough regardless of whether you do or not
+[25090] Cyrus: sac
+[25092] Reliak: Stores will only buy things for half what they say they wwill
+[  837] Lycose: ogre 
+[  837] Lycose: ogre
+[25002] Oli: drinking
+[ 1300] Miki: , i not see the invis, because my race info demon have got detect invis or hide
+[25095] Tharn: Come to my attension that bards have a skill call inspiration, A bard told me that it complies you hit and dam if you log off then log on and cast it again
+[25095] Tharn: Bard cont.. so you can have as much hit dam and save as you want, why I think all these bards or poping up please check into it
+[25092] Kyla: mace
+[ 9595] Xalgaroth: sword destruction has no take flag, wield only
+[ 9595] Xalgaroth: sword destruction is vnum 11800
+[25000] Dray: there is no slist for ranger.
+[10105] Dray: there is no slist for bard
+[  824] Dray: i've entered the newbie school at level 13
+[25130] Dray: at no time did my wimpy trigger, was under wimpy for nearly 5 turns
+[25130] Dray: flee, typed 8 times, didn't work
+[10161] Dray: did the werewolves damage get reduced? i was getting serious **DeVESTATES** a while a go, and i'm not anymore....
+[  830] Adantariel: In battle, it usually says 'hits name' or 'misses name' for the second hit or miss on a player.
+[ 5106] Falanor: pray spell is borken
+[25000] Xaviar: monk's slist get second attack at lvl 10 but it is not on the prac list to practice it
+[25000] Falanor: your fucking autoquit thing on spam made me loose my pet that took me an hour to get just because I had to go south a bunch
+[  915] Falanor: pets are worthless for anything can't level with em
+[25079] Zylen: write
+[25079] Zylen: when I do a scan I can see a beautiful woman in bethaven and it says I am in the same room. but I cannot see the mob in the room or attack it
+[25004] Zylen: When I die, I am unable to sacrifice my corpse or get it.  i think I should be able to pick it up since ghouls eat corpses..  would make a good meal :)
+[25000] Falanor: I suggest the removal of some if not all of the anti flags...its rediculous how I can't find a weapon
+[ 1300] Vallisar: i get hit more often and harder when i have all my ac reducing spells up then when i don't
+[14003] Zylen: write

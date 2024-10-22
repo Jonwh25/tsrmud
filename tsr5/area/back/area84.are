@@ -1,0 +1,537 @@
+#AREADATA
+Name        House of Abomination~
+Levels      0 0
+Builders    Nox~
+VNUMs       1000 1099
+Security    1
+Recall      25000
+Flags       16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#1000
+gargoyle Fountain~
+gargoyle Fountain~
+This beautifully hideous Gargoyle spouts water from it's mouth.~
+~
+25 0 0 0 0 0
+0~ 0~ 0~ 0~
+10000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+water~
+Clear cold yet comfortable water flows into the basin around the statue. 
+~
+>rand_prog 5~
+0
+emote gurgles as it refills with water.
+~
+|
+#0
+
+
+
+#ROOMDATA
+#1000
+Through the Mists~
+You stand in the hallway between the Mists and the inner halls of the
+House of Abomination. It is within these confines that the Chosen make their
+home. Slightly below your audible range of hearing whispers waft through the
+corridor. The walls are cold and hard to the touch, but oddly your footsteps
+make no noise as you travel through these mysterious halls. A strange grey
+haze hangs over you in this room. 
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1001
+S
+#1001
+Inner Hallway~
+You are in the main room of the Guild House. You think you see movement
+out of the corner of your eye, but as you turn, there is nothing. Voices of
+all different languages come from every direction. In the center of the room
+a large fountain glows. The center-piece is a hideously, beautiful gargoyle.
+You do not know whether to loathe it, or worship it. The hallway is bare,
+and seemingly devoid of all life. It doesn't escape your attention that 
+these halls would typically be guarded fiercely.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1006
+D1
+~
+~
+0 0 1004
+D2
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 1002
+S
+#1002
+Southwest Tower~
+The southwestern tower exists in solitude. Stone stairs wrap themselves
+around the interior of the walls, leading up into the library above.
+Ensconced torches light the tower. A strong breeze brushes past you, and it
+appears as if the torches might extinguish, but they remain lit. 
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1001
+D4
+~
+~
+0 0 1003
+S
+#1003
+Library of Legends~
+This is the Library of Legends.  The accolades of Abomination's greatest
+heroes adorn the walls.  You are filled with both pride and honor as you
+gaze upon the deeds of your predecessors. Without their devout dedication
+and steadfast commitment, this Guild would not be what it is today. Walk
+proudly here. You are amongst the spirits of the greatest of the Chosen. 
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+0 0 1002
+S
+#1004
+Southeast Tower~
+The southeastern tower exists in solitude. Stone stairs wrap themselves
+around the interior of the walls, leading up to the library above. Ensconced
+torches light the tower. A strong breeze brushes past you, and it appears as
+if it might extinguish the torches, but they remain lit. 
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 1001
+D4
+~
+~
+0 0 1005
+S
+#1005
+Library of Peace~
+Welcome to the Library of Peace. This room contains no tomes, nor
+decorations. It is simply a ward to escape the stress and anxiety of the
+day. Here you can rest peacefully, and safely knowing that nothing can
+affect you here. 
+~
+0 134235648 0 0
+Rd     0
+D5
+~
+~
+0 0 1004
+S
+#1006
+Within the Keep~
+This corridor leads between the inner hallways of the house, and the
+ante-chamber of the Octagon. The hall is lined with statues of the gods. As
+you walk down this long corridor, it appears as if their eyes follow your
+every move. Once again, movement seems to fade in and out of your periphery.
+An eerie irridescence cascades off of the walls, and the stoic figures,
+giving them a luster of their own. Do not linger long in this corridor. 
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1007
+D2
+~
+~
+0 0 1001
+S
+#1007
+Before the Octagon~
+You are now in the corridor leading towards the inner rooms of the
+Octagon. The Octagon is the council of eight that represents the Chosen, and
+their concerns. It is there you can go to express concerns to the Council. 
+Once again, the sounds of voices many voices touch your ears.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1008
+D2
+~
+~
+0 0 1006
+S
+#1008
+The Octagon~
+You have entered the Octagon. This is the antechamber before the eight
+meeting rooms of the eight represented Chosen. It is in the following rooms
+that you can meet with your fellow kin, and discuss current issues.
+ 
+The Kindred's Lair lies to the West.
+Lycanthrope's Den lies to the East
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1011
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1009
+S
+#1009
+Kindred's Lair~
+You have entered the Lair of the Kindred. It is here that fellow night
+stalkers can discuss issues of import. The room itself is perpetually dark,
+and it has several gothic undertones. The smell of coagulating blood either
+appeals to your tastes, or disgust you outright. The current Kindred Council
+Member's office is above you. If you have no business here, it would be wise
+that you move on. 
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1008
+D4
+~
+~
+0 0 1020
+S
+#1010
+Lycanthrope's Den~
+You have entered the Den of the Lycanthropes. This is the meeting area
+where all shape-shifters may convene and discuss pertinent concerns. This
+room itself is rather humble, with murals and paintings to pay homage to the
+many Beasts who have given their life for their kin. Directly above is the
+office of the current Lycanthrope Council member. Move on if you have no
+business here. 
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 1008
+D4
+~
+~
+0 0 1021
+S
+#1011
+The Octagon~
+You are still within the confines of the Octagon. The meeting room lies
+further to the north, and from here you can convene with your fellow kin, if
+necessary. The hall itself is uncharacteristic other than the adjacent
+rooms. 
+ 
+The Caverns lie to the West
+The Underworld lies to the East
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1014
+D1
+~
+~
+0 0 1013
+D2
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1012
+S
+#1012
+The Tomb~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1011
+S
+#1013
+The Underworld~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 1011
+S
+#1014
+The Octagon~
+You have entered the penultimate chamber in the Octagon. An eerie silence
+permeates throughout the atmosphere in this room. Strange energies seem to
+brush your consciousness. Oddly, it appears as if the ceiling itself is
+endless, and the nightly gathering of stars can be seen. Occasionally, a
+shooting star crosses your line of sight. Or is this just your imagination? 
+ 
+Eternal Darkness lies to your West.
+The Mentalist's Gate lies to your East.
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1022
+D1
+~
+~
+0 0 1016
+D2
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1015
+S
+#1015
+Eternal Darkness~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1014
+S
+#1016
+Mentalist's Gate~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 1014
+S
+#1018
+~
+~
+0 0 0 0
+Rd     0
+D4
+~
+~
+0 0 1019
+S
+#1019
+~
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+0 0 1018
+S
+#1020
+~
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+0 0 1009
+S
+#1021
+~
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+0 0 1010
+S
+#1022
+The Octagon~
+You have entered the final chamber of the Octagon. Aside from the two
+remaining meeting rooms, you can travel upstairs for the Abomination Council
+conference room, or to the Guildmaster's chambers. Either way, this room
+certainly catches your attention, if not only because it is the most
+non-descript chamber you have come across in the Octagon. One thing is for
+certain, it is the largest of all the chambers. This would make sense
+considering some of the larger races need to convene near here. The size
+allows for several individuals to be present at once, rather than having to
+travel down the initial corridors in as few numbers as possible. 
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1025
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1024
+D4
+~
+~
+0 0 1026
+S
+#1023
+~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1022
+S
+#1024
+Hall of Puissance~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 1022
+S
+#1025
+name Primal Lair~
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 1022
+S
+#1026
+~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 1027
+D5
+~
+~
+0 0 1022
+S
+#1027
+Abomination Conference Room~
+You have entered the conference room for the Guild. It is here that the
+Council meets to discuss various issues, and is also a meeting place for all
+members to discuss matters of import. The room itself is massive,
+encompassing the entire second level of the Guild house. In the center of
+the room is an Octagon, with a scripted A in the center. The room can
+support well over a hundred individuals, and the acoustics of the chamber,
+allow for voices to carry to every corner of the room. The Council sits in
+the back of the room. The Guildmaster's seat is high above the Council,
+looking down upon the chamber below. Behind the terrace that houses the
+Guildmaster's seat are his private quarters. 
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 1026
+D4
+~
+~
+0 0 1028
+S
+#1028
+Guildmaster's Chambers~
+This is the home of the Guildmaster, Drazzen Ilesere. The room itself is
+lavishly decorated, containing amenities from nearly every era. In the
+center of the room is a large, cedar desk with various notes and Guild
+information. Murals and paintings of the Realms Mythos adorn each wall,
+creating an interesting spatial affect. In fact, the desk seems to disappear
+along with the artifacts of the room, when you view a particular scene.
+There appears to be no exits, other than the stairs which lead back down
+into the Conference chamber. 
+~
+0 0 0 0
+Rd     0
+D5
+~
+~
+0 0 1027
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 1000 0 1001
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

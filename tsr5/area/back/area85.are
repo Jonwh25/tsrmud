@@ -1,0 +1,2925 @@
+#AREADATA
+Name        {crazed} Dark Garnet Cavern  Vaendyr~
+Levels      1 100
+Builders    Vaendyr Ember~
+VNUMs       1100 1199
+Security    1
+Recall      1121
+Flags       16
+Sounds      Passions swirl about, trying to become your every desire.~
+End
+
+
+
+#MOBILES
+#1100
+Test mob~
+A test mob~
+A test mob stands here eagerly, with the key to the trapdoor.
+~
+~
+1 0 0 0 300 S
+10 0 0 1200d0+0 0d0+0
+2 25 16 0
+0 0 0
+0 0 0
+#1101
+voice control~
+a formless voice~
+The control voice for the Garnet Cavern stands here clearing its throat.
+~
+Its really hard to describe what a voice looks like. Lets just not bother
+and pretend that you can see it yourself.
+~
+1835011 0 552 16 0 S
+101 0 0 50000d0+0 0d0+0
+1 1 1 0
+0 0 0
+0 0 0
+#1102
+bats swarm~
+a swarm of bats~
+Flapping all around you, a swarm of bats has identified you as food.
+~
+Leathery wings flapping furiously, a swarm of bats surrounds you. While you
+try to get a good look at these creatures, you really cant make out any
+individual bat, as they keep moving too fast. Oooooh wait! One has just made
+identification much easier, by choosing to come sink its fangs into your
+nose. It is about a foot long, and is surprisingly light of weight. I guess
+thats why it can move so fast. You are interrupted on thinking about this
+bat any further by the rather excrutiating pain your probiscus feels. You
+pluck the bat away from your face and it returns to being just a shape in
+a swarm of biting and flapping and biting bats.
+~
+1966245 0 623144 48 0 S
+75 0 0 5000d0+0 0d0+0
+85 18 0 0
+0 0 0
+122 0 0
+#1103
+lizard rock small~
+a small rock lizard~
+Intentionally avoiding your gaze, a small rock lizard shuffles along.
+~
+Whoops! you almost tripped over the tale of this small rock lizard. Of
+course the fact that it is the identical color to the floor of the cavern
+helps to explain why you missed it. You are somewhat slighted that your
+presence does not seem to affect him at all, considering how importantly
+you view yourself... Then again, after noticing the rather sharp talons
+and the kind of nasty spiked tail, you begin to be glad that he is not
+an extremely excitable boy.
+~
+1966081 0 67190824 196624 0 S
+60 0 0 9000d0+0 0d0+0
+114 0 84 0
+0 0 1
+133126 0 0
+#1104
+lizard rock large~
+a large rock lizard~
+You struggle to find room to walk around a large rock lizard.
+~
+Sprawling all around the pool is a very, very, large rock lizard. She seems
+content to just sit by this pool. Personally, you think that she should be
+out in the main cavern socializing with all the male lizards, but then again...
+If you had to put up with a bunch of male lizards trying to woo you, maybe
+you too would prefer to remain lingering languidly by a lagoon.
+~
+1966083 0 201408552 196624 0 S
+63 0 0 10000d0+0 0d0+0
+247 254 0 0
+0 0 2
+133542 0 0
+#1106
+wanderer~
+the Wanderer~
+You are stunned speechless briefly at seeing someone else wandering the Cavern.
+~
+Looking rather insane, this individual has the strangest red eyes you have
+ever seen... Other than that, it looks very much like an elf who has been
+kept away from the trees and in the darkness much too long. He seems to be
+constantly mumbling things, and every so often a bit of what he says is
+loud enough for you to hear, and intoned clearly enough for you to understand.
+~
+1966081 0 268436008 131088 -300 S
+75 0 0 17500d0+0 0d0+0
+100 250 150 0
+0 0 1
+67144578 0 0
+#1107
+darkness cavern swirl~
+a swirl of darkness~
+Darkness swirls around you so think, you can almost touch it.
+~
+Normally in this Cavern, the wispy darkness seems more like tendrils reaching
+out to caress your ankles. However... at this spot, these tendrils have gotten
+together and created something that actually has substance. You admire this
+hazy creation for a moment, and suddenly you realize that it is looking back
+at you. You do not understand how darkness can become animate, but in this
+Cavern, where there is so much of it, you aren't that surprised.
+~
+1966213 0 268534314 163856 -300 S
+70 0 0 12000d0+0 0d0+0
+1 0 0 0
+0 0 0
+67309560 0 0
+#1108
+demon yzvxxs~
+an arrogant demon~
+Apparently, you mistook a 12' red-eyed demon for a cavern wanderer. Oh shit.
+~
+Glaring at you and attempting to slice a sharp sword into your side, is a
+demon. In fact, its a particularly large and arrogant and powerful demon.
+The only thing about it that looks similar to that confused wanderer is the
+eyes... Now you understand why they looked so strange before. Now, you need
+to stop gawking at this demon and figure out how to keep it from killing
+you. Maybe you shouldn't have given him the Ironwood ring and sword. 
+~
+1966117 0 508158634 229424 -800 S
+95 0 0 28000d0+0 0d0+0
+2100 800 0 0
+0 0 0
+67362614 0 0
+#1109
+shade Ironwood~
+the shade of an Ironwood Elf~
+Hovering over her skeleton, the shade of an unfortunate Elf is here.
+~
+Looking at you with a rather pained expression, is the shade of an Elf. You
+take a quick look at the scene here and quickly surmise that this elf was
+sleeping here between the doors, awaiting entry to the City, and happened
+to have a stalactite fall right atop her. You feel sorry for her, and try to
+think of some way you could end her term of haunting.... Maybe if you asked
+her how you could help... she might be able to tell you.
+~
+1975811 0 168313514 163856 800 S
+105 0 0 40000d0+0 0d0+0
+0 0 0 0
+0 0 2
+67447930 0 0
+#1110
+crawler cavern~
+a cavern crawler~
+The stalactite here seems to be moving... moving towards... you!!
+~
+Fantastically strong tentacles clutch at you, pulling you in many directions
+at once. Overall, this being pulled apart is not pleasant.  You can make out 
+nothing about whatever is holding you other than the suckers attached to the
+tentacles that are making it very hard for you to break free. Not good at all.
+~
+1441827 0 269025800 229392 -600 S
+67 0 0 15000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67352826 0 0
+#1111
+crawler cavern~
+a cavern crawler~
+The stalactite here seems to be moving... moving towards... you!!
+~
+Fantastically strong tentacles clutch at you, pulling you in many directions
+at once. Overall, this being pulled apart is not pleasant.  You can make out 
+nothing about whatever is holding you other than the suckers attached to the
+tentacles that are making it very hard for you to break free. Not good at all.
+~
+1441827 0 269025800 229392 -600 S
+67 0 0 15000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67352826 0 0
+#1112
+crawler cavern~
+a cavern crawler~
+The stalactite here seems to be moving... moving towards... you!!
+~
+Fantastically strong tentacles clutch at you, pulling you in many directions
+at once. Overall, this being pulled apart is not pleasant.  You can make out 
+nothing about whatever is holding you other than the suckers attached to the
+tentacles that are making it very hard for you to break free. Not good at all.
+~
+1441827 0 269025800 229392 -600 S
+67 0 0 15000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67352826 0 0
+#1113
+crawler cavern~
+a cavern crawler~
+The stalactite here seems to be moving... moving towards... you!!
+~
+Fantastically strong tentacles clutch at you, pulling you in many directions
+at once. Overall, this being pulled apart is not pleasant.  You can make out 
+nothing about whatever is holding you other than the suckers attached to the
+tentacles that are making it very hard for you to break free. Not good at all.
+~
+1441827 0 269025800 229392 -600 S
+67 0 0 15000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67352826 0 0
+#1114
+crawler cavern~
+a cavern crawler~
+The stalactite here seems to be moving... moving towards... you!!
+~
+Fantastically strong tentacles clutch at you, pulling you in many directions
+at once. Overall, this being pulled apart is not pleasant.  You can make out 
+nothing about whatever is holding you other than the suckers attached to the
+tentacles that are making it very hard for you to break free. Not good at all.
+~
+1441827 0 269025800 229392 -600 S
+67 0 0 15000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67352826 0 0
+#0
+
+
+
+#OBJECTS
+#1100
+cavernkey~
+the Cavern master key~
+Gasp! somehow the Cavern master key got set here for you to see.~
+~
+18 0 0 0 1 101
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1101
+key simple stone   ~
+a simple stone key~
+On the ground has been dropped a simple key made of stone.~
+~
+18 268435460 0 0 1 1
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key simple stone  ~
+To all appearances, it is indeed a simple key made of stone.
+~
+#1102
+key heavy granite   ~
+a heavy granite key~
+You notice a dark granite key lying on the ground.~
+~
+18 805306372 0 0 1 1
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key heavy granite  ~
+You can tell merely that it is a solid, well constructed key of granite.
+~
+#1103
+secret     ~
+the secret lock~
+You, covered in fantastic detail work and exquisite inlaid carvings.~
+~
+15 805306372 0 0 0 101
+2000~ 15~ 1107~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+secret    ~
+You have found a hidden lock! The keyhole is right in the middle of an
+intricate designm made out of both granite and garnet.
+~
+#1104
+pedestal stone    ~
+the stone pedestal~
+A solid looking stone pedestal, hewn from a stalagmite, stands here before~
+~
+15 536870916 0 0 0 101
+20~ 15~ 1102~ 0~
+1000 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pedestal stone   ~
+About waist high, this pedestal was originally a stalagmite, but the top was
+sliced off and the sides trimmed to form a hexagonal shape. The whole thing was
+then polished and covered with intricate carvings and inlaid granite detail work.
+~
+E
+detail carvings inlaid~
+Your mind reels from the quality of this craftmanship, almost up to
+dwarven standards! Garnet, granite, obsidian, and a rosy quartz have 
+been pieced together beautifully. The carvings seem to depict two
+distinct scenes... The first of small party headed down into a crevass,
+and the second a hooded figure placing a couple objects in this pedestal.
+~
+#1105
+earring garnet    ~
+a garnet~
+The small and pretty bit of garnet which is here, would look great on your ear.~
+~
+9 805306372 0 0 524289 60
+5~ 0~ 0~ 0~
+2 50 0 0 0
+0 0
+reserved~
+0 0
+1107 0 0
+E
+earring garnet   ~
+Shaped rather oddly for an earring, this piece of garnet nonetheless clips onto
+your ear very snugly, and even looks good.
+~
+#1106
+earring granite    ~
+some granite~
+As a bold choice in terms of fashion, you could stick this granite in your ear.~
+~
+9 805306372 0 0 524289 60
+5~ 0~ 0~ 0~
+2 0 50 0 0
+0 0
+reserved~
+0 0
+1107 0 0
+E
+earring granite   ~
+With a rounded disc connected to a small shaft, this bit of granite does
+note really look like an earring any normal jeweller would make, but a little
+hook on the end fits snugly on your ear.
+~
+#1107
+key joined delicate   ~
+a key of joined stones~
+A delicate key formed by joining pieces of garnet and granite sits here.~
+~
+18 805306436 0 0 1 1
+0~ 0~ 0~ 0~
+4 50 50 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key joined delicate  ~
+Even though you just put the pieces together, you can not even see the seam.
+Even though the key is comprised of two stones... its almost seamless.
+~
+#1108
+history scroll first~
+the first part of a Scroll of history~
+Rolling at your feet is the first part of a hand-penned history Scroll.~
+~
+8 805306372 0 0 1 65
+0~ 0~ 0~ 0~
+3 0 100 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+history scroll first~
+____________________________________________________________
+/ \                                                          \
+\_|                                                          |
+  | I pen this scroll in hopes that it someday will be found |
+  | by those who come to help us.  Should any enter our city |
+  | bearing this scroll, welcomed will they indeed be.  This |
+  | invitation shall never expire, although at this time our |
+  | City gates are locked and sealed, and none will enter it |
+  | without the brooch of the Cavern Rose. Many seek to gain |
+  | admission, but we will let in only those whom have shown |
+  | themselves to be at home in the Garnet Darkness.         |
+  |                                                          |
+  | The Garnet Cavern was sealed after the Fall of the Triad |
+  | by Humans who had been led to believe that all Drow were |
+  | Evil creatures.  This myth had been spread by Elves that |
+  | felt the Drows had not been affected by the Chaon forces |
+  | which had destroyed Elven forests, slaughtered villagers |
+  | and abused Elven womenfolk.  Our underground Caverns are |
+  | more defendable, and the Drow took less interest in this |
+  | war than we should have. It was later found out that the |
+  | Elves who started these rumors acted under the influence |
+  | of two Chaon Warlords who sought to create dissention in/
+  | the Realms, and further their own plans. That h__,-----'
+/ | is more the story of the Drow Plag_____,------'
+\_/`-------.______,--------------.___/
+~
+#1109
+bones pile~
+a pile of cleanly picked bones~
+Scattered about on the floor is what amounts to a pile of stark white bones.~
+~
+15 805306372 0 0 1 1
+5~ 0~ 0~ 0~
+200 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+bones pile~
+You recognize a few lizard skeletons, and a lot of bat bones, and even
+to your dismay, a substantial number of bones that had once belonged to
+members of your race.
+~
+#1110
+lizard eye~
+the eYe of a lizard~
+Rolling about on the floor, winking at you, is the eYe of a rock lizard.~
+~
+9 268435460 0 0 131073 60
+5~ 0~ 0~ 0~
+3 0 30 15 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+lizard eye~
+Popped out of a lizard corpse by some Adventurer, it is a plain old
+eYe. Of course, you are somewhat confused since it does have this
+continued habit of winking at you, which you find to be disturbing.
+~
+#1111
+bat wings~
+leathery bat wings~
+Scattered about are the sliced off wings of a small cavern bat. Yum!~
+~
+26 16390 0 0 1 1
+1~ fly~ cure poison~ reserved~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+bat wings~
+Small in size and probably a bit chewy, but a delicacy nonetheless.
+~
+#1112
+keyhole lock~
+a rose shaped keyhole~
+Embedded in the wall near the door is a keyhole in the shape of a rose.~
+~
+15 805306372 0 0 0 101
+3~ 0~ 0~ 0~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+keyhole lock~
+.
+.        , -'`;'`-'`-
+.      :'_,.'-' `.' ;'.
+.      ;,- -. .` '. `,'
+.     '-. -. ; ' ;  ; 
+.        `._`..,;`.'.:           _,_,-.
+.           `---. ,'_\        _-' __.-_`.
+.               |/\ \__     .' ,-'   _.,_\
+.                  `. /     \,'_._,-'
+.                   `,`.    //
+.         _,--''`-_-' , `-.//
+.      ,-'  ,.,-'' }-' `--.,`-._
+.    -',.-''   _.-'        |/`-.`-/|
+.  /_'_ _ .,-''                 `-. -.
+~
+#1113
+rose brooch~
+a brooch shaped as the Cavern Rose~
+An intricately assembled brooch in the shape of the cavern rose is here.~
+~
+9 805306437 0 0 5 60
+10~ 0~ 0~ 0~
+3 250 0 0 0
+0 0
+reserved~
+0 0
+0 1114 1117
+E
+rose brooch~
+.
+.        , -'`;'`-'`-
+.      :'_,.'-' `.' ;'.
+.      ;,- -. .` '. `,'
+.     '-. -. ; ' ;  ; 
+.        `._`..,;`.'.:           _,_,-.
+.           `---. ,'_\        _-' __.-_`.
+.               |/\ \__     .' ,-'   _.,_\
+.                  `. /     \,'_._,-'
+.                   `,`.    //
+.         _,--''`-_-' , `-.//
+.      ,-'  ,.,-'' }-' `--.,`-._
+.    -',.-''   _.-'        |/`-.`-/|
+.  /_'_ _ .,-''                 `-. -.
+~
+#1114
+stem leafy metal~
+a leafy stem of green metal~
+What appears to be the broken end of a long stemmed rose brooch is here.~
+~
+13 268435460 0 0 1 60
+0~ 0~ 0~ 0~
+1 0 1 0 0
+0 0
+reserved~
+0 0
+1113 1115 1116
+#1115
+twisted rod metal~
+a twisted green metal rod~
+A twisted rod of green metal has been cast away here, broken at one end.~
+~
+13 0 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1114 0 0
+#1116
+leaf curling delicate metal~
+a delicate metal leaf~
+A curling leaf of green metal, broken away from where it belongs, rests here.~
+~
+13 0 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1114 0 0
+#1117
+rose metal brooch broken~
+a broken metal rose~
+Although broken at the bottom end, this rose brooch is beautiful.~
+~
+9 0 0 0 5 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1113 1118 1121
+#1118
+stem leafy metal~
+a leafy stem of green metal~
+Broken off at both ends, this is apparently part of some metal flower.~
+~
+13 0 0 0 1 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1117 1119 1120
+#1119
+leaf bent betal~
+a bent metal leaf~
+Torn from its stem, a bent leaf of green metal was left here.~
+~
+13 0 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1118 0 0
+#1120
+rod angled metal~
+an angled metal rod~
+A broken rod of green metal, bent askew at an angle, is here.~
+~
+13 0 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1118 0 0
+#1121
+short rose shortstem~
+a shortstem rose~
+Missing much of the stem, a metallic rose has been discarded here.~
+~
+13 0 0 0 1 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1117 1122 1123
+#1122
+short rod metal~
+a short rod~
+A short green metal rod with broken ends keeps getting kicked around.~
+~
+13 0 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1121 0 0
+#1123
+rosebud bud metal~
+a metal rosebud~
+Snapped from its stem, you gaze upon a devastatingly beautiful metal rosebud.~
+~
+13 0 0 0 1 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1121 0 0
+#1124
+talons shiny lizard~
+shiny lizard talons~
+Sliced from the footpad of a rock lizard, these talons are sharp and shiny.~
+~
+1 4 0 0 1 60
+0~ 0~ -1~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1125
+talons shiny lizard~
+shiny lizard talons~
+Sliced from the footpad of a rock lizard, these talons are sharp and shiny.~
+~
+9 4 0 0 1048577 65
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1126
+tentacle tube hollow~
+a hollow tentacle~
+A hollow tube which originally was part of some sticky tentacle.~
+~
+9 4 0 0 4097 65
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1127
+hilt shattered broken~
+the hilt to a shattered sword~
+A sword is here shoved into the ground! no.. just the hilt of a broken blade.~
+~
+18 0 0 0 1 65
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1131 0 0
+#1128
+blade shattered broken~
+a piece of shattered blade~
+What once was part of a proud and true blade has been left here, broken.~
+~
+18 0 0 0 1 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1130 0 0
+#1129
+blade shattered broken~
+a piece of shattered blade~
+What once was part of a proud and true blade has been left here, broken.~
+~
+18 0 0 0 1 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1130 0 0
+#1130
+blade rejoined~
+a rejoined blade~
+A hiltless blade rejoined from two pieces sits here, glimmering.~
+~
+13 0 0 0 1 65
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+1131 1128 1129
+#1131
+sword rejoined~
+a rejoined sword~
+Dented and battered, a sword here has been rejoined from several pieces. ~
+~
+5 6 0 0 8193 75
+0~ 0~ 0~ 13~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 1130 1127
+#1132
+reforged sword yzvxxs~
+the reforged sword of Yzvxxs~
+At your feet, a demon's sword pulses with dark power.~
+~
+5 637534293 0 0 8193 95
+0~ 0~ 0~ 10~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1133
+eye demon~
+the Demon's eye~
+Glaring at you with hatred, the eye of a demon watches you here.~
+~
+9 0 0 0 131073 90
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1134
+socks darkness~
+socks of pure darkness~
+Darkness swirls around your feet here, trying to attach itself.~
+~
+9 0 0 0 65 70
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1135
+mantle darkness~
+a mantle of pure darkness~
+Swirling about your body, the darkness here enshrouds you.~
+~
+9 0 0 0 1025 70
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1136
+skirt darkness~
+a skirt of pure darkness~
+Entwining your legs, the darkness here is almost tangible.~
+~
+9 0 0 0 33 70
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1137
+skeleton bones~
+a skeleton of an elf~
+You recognize the skeleton of an Elf, its flesh long ago decayed.~
+~
+15 0 0 0 0 101
+10~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1138
+ring elven heirloom~
+an elven heirloom ring~
+Left here is the ancient ring of a noble elven house.~
+~
+9 0 0 0 3 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1139
+swirling darkness~
+pure swirling darkness~
+The darkness of the shadows here seems to be very much alive.~
+~
+9 0 0 0 32769 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1140
+dust pile~
+a pile of dust~
+You gaze upon the remnants of the shade... a pile of dust.~
+~
+15 0 0 0 0 101
+1000~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1141
+helm ironwood~
+a helm bearing the Ironwood crest~
+Tossed casually on the ground is a helm from Ironwood forest.~
+~
+9 0 0 0 17 66
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1142
+shield ironwood~
+a shield bearing the Ironwood crest~
+The Ironwood crest is recognizable on a shield resting face up on the ground.~
+~
+9 0 0 0 513 70
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1143
+belt ironwood buckle~
+a belt bearing the Ironwood crest~
+The Ironwood crest has been worked into a sturdy belt buckle here.~
+~
+9 0 0 0 2049 75
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1144
+gloves ironwood~
+gloves bearing the Ironwood crest~
+Gloves adorned with the Ironwood forest crest lie here.~
+~
+9 0 0 0 129 70
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1145
+armor ironwood~
+the armor of Ironwood~
+Armor of superior craftsmanship has been left here to rot.~
+~
+9 0 0 0 9 80
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1146
+mask death face~
+the mask of death~
+Hideous in every way, a face frozen in the moment of death is here.~
+~
+9 4224 0 0 65537 1
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1147
+crystal elven~
+a wonderful elven crystal~
+A crystal, forged with the tears of elves, is underfoot.~
+~
+9 3 0 0 16385 60
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1148
+collection coins large~
+a collection of coins~
+Scattered all over the floor here, is a large collection of coins.~
+~
+20 0 0 0 1 1
+5286~ 1057~ 2644~ 0~
+1 5286 1057 2644 0
+0 0
+reserved~
+0 0
+0 0 0
+#1149
+moneypouch pouch~
+a tattered moneypouch~
+Threadworn and tattered, a moneypouch was cast aside here.~
+~
+15 0 0 0 16385 60
+20~ 5~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1150
+coins collection small~
+a collection of coins~
+Scattered about on the ground is a collection of coins.~
+~
+20 0 0 0 1 1
+182~ 1053~ 235~ 0~
+1 182 1053 235 0
+0 0
+reserved~
+0 0
+0 0 0
+#1151
+stalactite fallen~
+a fallen stalactite~
+The end of a stalactite has fallen from above, and lies here.~
+~
+12 0 0 0 0 101
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1152
+stalactite fallen~
+a fallen stalactite~
+The end of a stalactite has fallen from above, and lies here.~
+~
+15 0 0 0 0 101
+100~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1153
+vaendyr note~
+a note signed 'Vaendyr'~
+A note is here, begging to be looked at.~
+~
+18 0 0 0 16385 70
+0~ 0~ 0~ 0~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+note vaendyr~
+Greetings. You have come into this Cavern of Garnet as an outsider...
+
+You have been plagued by bats, found secrets in the stone,
+dispersed some darkness and gathered others around you, overcome
+the crawlers of the cavern niches, done a favor for a demon,
+re-assembled the brooch of the CavernRose and given it back to
+the Caverns, and then released the shade from its torment.
+ 
+All in all, you have done well, and proven yourself worthy of
+entrance into the Garnet City of the Drow. Alas however, at
+this time, those that would answer the door are away. And so,
+I instead will give you a different reward. send me a note
+and mention this one... I shall reward your endeavours now,
+and remember them in the future.... -Vaendyr
+~
+#1154
+pool spring cavern~
+a cavern spring~
+Water pools here from a small cavern spring, cold and clear.~
+~
+25 0 0 0 0 101
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1155
+clouds puffy thick~
+thick puffy clouds~
+Off the ledge, your view is obscured by thick puffy clouds below you.~
+~
+29 0 0 0 0 101
+22141~ 0~ 0~ 0~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+#1179
+ralisan~
+ancient ralisan~
+Something peculiar is here.~
+~
+29 0 0 0 1 99
+5615~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1180
+postcard bedroom~
+a postcard showing a bedroom~
+Tacked on the wall is a postcard of a peaceful bedroom.~
+~
+29 0 0 0 0 1
+5008~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+postcard bedroom~
+You smile as you see the peaceful nature of the bedroom, so Vale-like in decor.
+~
+#1181
+quiet haven~
+a quiet haven~
+~
+~
+29 805306368 0 0 16385 40
+1192~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+quiet haven~
+This mysterious object will take you to a quiet haven.
+~
+#1182
+pitcher water~
+a water pitcher~
+On a shelf sits a full water pitcher.~
+~
+25 805306432 0 0 0 40
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+"pitcher water"~
+Simple and rustic, yet clearly magical, this pitcher is always full of water.
+~
+#1183
+cradle wicker~
+a wicker cradle~
+Awaiting the presence of a sleepy child, a wicker cradle rocks in the corner.~
+~
+15 805306432 0 0 0 40
+100~ 0~ 0~ 0~
+1 100 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+cradle wicker~
+Functional and sturdy and safe, this wicker cradle would make any child happy. 
+~
+#1184
+key shell~
+a key made of shell~
+Hanging on a hook by the door is a key made of shell.~
+~
+18 805306432 0 0 16385 40
+0~ 0~ 0~ 0~
+0 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+"key shell"~
+Cold and smooth to the touch is a key made of shell.
+~
+#1185
+birthmark rose~
+a birthmark of a --^-@~
+--^-@~
+~
+9 805306624 0 0 1048577 1
+5~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+110 -1
+A
+5 4
+A
+4 4
+A
+124 -1
+A
+117 -1
+A
+105 -1
+A
+106 -1
+E
+rose birthmark~
+.        , -'`,'`  ,_                
+.      :'_,.'-' `.' ,'.               
+.      ;,- -. .` '. ` '  
+.     '-. -. , ' '  | ' 
+.        `._`..,'`.'.{           _,_,-.  
+.           `---._ '_\        _-' __.-_`. 
+.               |/\ `__     .' ,-'   _.,_\ 
+.                  \ \'     \,'_._,-'       
+.                   `.`.    //             
+.         _,--''`-_-' ,`-..//          
+.      ,-'  ,.,-'' }-' `--,.`-._        
+.    ,',.-''    .-'        |/`-.`-./|    
+.   /_'_ _ .,-''                 `-.`-._  
+~
+#1186
+tattoo~
+a tattoo of Ember~
+Perfectly drawn, a tattoo of Ember peering naked out from under the covers is here.~
+~
+9 805306372 0 0 257 101
+3~ 0~ 0~ 0~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+23 -400
+A
+24 -400
+A
+18 800
+A
+19 800
+A
+17 -1500
+A
+13 4152
+A
+12 4230
+A
+108 -1
+#1187
+kate~
+a music box~
+A music box with a dancing Unicorn is playing the perfect song.~
+~
+15 805306368 0 0 0 101
+5~ 15~ 1188~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+box music unicorn~
+A music box with a dancing Unicorn is playing the perfect song.
+~
+#1188
+star picture laric~
+a picture of Laric~
+Hanging on the wall, is a picture of Laric in a star-shaped frame.~
+~
+18 805306433 0 0 16385 101
+0~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1189
+secret~
+a merry dolphin~
+Among the waves, a dolphin frolics merrily.~
+~
+29 805306368 0 0 0 101
+1195~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+dolphin~
+The dolphin performs all kinds of acrobatic tricks for its own
+amusement. Of course you think its rather fantastic as well.
+~
+#1190
+bed iron wrought four-poster ~
+wrought iron four-poster bed~
+You admire a wrought iron four-poster bed covered in blue sheets flecked with gold.~
+~
+29 805306368 0 0 16 101
+1197~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+bed iron wrought four-poster~
+A beautiful wrought iron bed stands in the middle of the room. It
+is covered in satin sheets flecked with stars. Bed curtains that
+match the sheets surround the bed, held black by lacy black ribbons.
+~
+#1191
+mirror~
+sexy mirror~
+A sexy mirror hangs above the gold flecked sheets, letting you see everything.~
+~
+29 805306368 0 0 0 101
+1198~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1192
+pillow fluffy~
+a fluffy pillow in a twilight-sky colored case~
+Looking very fluffy, a pillow in a case the color of the twilight-sky is here.~
+~
+30 805306688 0 0 16385 101
+0~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pillow fluffy~
+Stuffed with soft feathers and fur, the pillow is very fluffy and covered in
+the same gold-flecked midnight sheets as the rest of the bed. You find yourself
+desiring to grab it and hug it.. and then to launch it at your bed partner.
+~
+#1193
+waves ocean~
+ocean waves~
+Overturning on the black sand, the ocean waves beat a sensual rhythm.~
+~
+29 805306368 0 0 0 101
+1197~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1194
+headboard iron wrought~
+wrought iron headboard~
+A sturdy and worn wrought iron headboard dominates the end of the bed.~
+~
+29 805306372 0 0 0 101
+1193~ 0~ 0~ 0~
+100 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+headboard iron wrought~
+Utterly magnificant, the headboard shimmers slightly, as though
+it is in two places at once. You notice several gouges in the iron and
+correctly deduce that the marks are left over from handcuffs which
+have been worn happily by guests in these midnight sheets.
+~
+#1195
+postcard beach~
+a postcard of the beach~
+A postcard of a mOoonlit black-sand beach is tacked to the wall.~
+~
+29 0 0 0 0 101
+1193~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1196
+pillow fluffy~
+a fluffy pillow encased in satin~
+Almost as big as you, a fluffy pillow is here encased in red satin. ~
+~
+30 805306688 0 0 16385 101
+0~ 0~ 0~ 0~
+1 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pillow fluffy~
+Stuffed with soft feathers and fur, the pillow is very fluffy and
+covered in satin as it is, you feel obligated to wrap your arms tight
+around it and give it a big hug... or use it to beat up whomever you
+found to bring into the bed with you.
+~
+#1197
+curtains realms~
+gossamer curtains of a canopy bed~
+A gossamer curtain separates the bed from the Realms.~
+~
+29 805306370 0 0 0 101
+23932~ 0~ 0~ 0~
+1000 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#1198
+silver circlet~
+an amethyst set in a silver circlet~
+Suitable for a pretty maiden, a jewelled silver circlet rests here.~
+~
+9 805307841 7823 65501 17 40
+6~ 0~ 0~ 0~
+1 1000 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+3 2
+A
+4 2
+A
+124 -1
+A
+117 -1
+A
+106 -1
+A
+105 -1
+E
+silver circlet~
+A lightweight, yet apparently magically strengthened circlet of silver.
+The silver is braided toward the back, and at the front splits into
+two strands that wrap themselves about a rather large amethyst that
+seems to glow with its own inner fire.
+~
+E
+amethyst stone~
+A gorgeous stone, you find yourself compelled to stare at it endlessly.
+Every so often, you think you see something moving inside the stone,
+but decide that it must be your imagination. Nobody has the ability to
+trap some kind of Fey creature in gems anymore... that is a legendary
+Elven craft, and the silver circlet surrounding the stone does not
+look like _that_ old of an heirloom... or is it?
+~
+#1199
+circlet silver amethyst~
+an amethyst set in a silver circlet~
+Suitable for a pretty maiden, a jewelled silver circlet rests here.~
+~
+9 268435456 2048 65501 17 20
+0~ 0~ 0~ 0~
+1 100 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+silver circlet amethyst~
+Suitable for a pretty maiden, it is a jewelled silver circlet.
+~
+#0
+
+
+
+#ROOMDATA
+#1100
+Vaendyr's floating to-do list~
+There is nothing here to speak of, except for a big chalkboard and an eraser.
+Written on the chalkboard you see the following list.
+ 
+Create Rooms -DONE-             Add Exits -DONE-
+Room Descrips                   Create Objects -DONE-
+Obj Descrips/Affects -doing-    Obj Resets -DONE-
+Create Mobs -DONE-              Mob Descrips/Affects -DONE-
+Mob Resets -DONE-               Full Area Check
+Progs on Obj/Mob/Room           Final Area Testing/Adjusts
+ 
+Actually, some confusion must have gone one because theres lots of
+erasure marks and re-scribbling where the Resets are listed...
+ 
+~
+0 139292 0 1
+Rd     -1
+D5
+~
+~
+7 0 1101
+S
+#1101
+Control Room~
+~
+0 1048 0 0
+Rd     0
+D4
+~
+~
+7 1100 1100
+S
+#1102
+Within the Rubble~
+~
+0 403046429 0 5
+Rd     25
+D1
+~
+~
+0 0 1103
+S
+#1103
+In the EntranceWay~
+~
+0 134610973 0 5
+Rd     0
+D2
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1102
+S
+#1104
+In the Hallway~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1105
+D3
+~
+~
+0 0 1103
+S
+#1105
+In the Hallway~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1104
+D2
+~
+~
+0 0 1106
+S
+#1106
+At the Northern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1105
+D1
+~
+~
+0 0 1108
+D2
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1111
+D4
+~
+~
+0 0 1149
+S
+#1107
+On a Garnet Bridge~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1106
+D1
+~
+~
+0 0 1116
+D2
+~
+~
+0 0 1127
+D3
+~
+~
+0 0 1115
+D4
+~
+~
+0 0 1149
+S
+#1108
+At the Northern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1109
+D3
+~
+~
+0 0 1106
+D4
+~
+~
+0 0 1151
+S
+#1109
+At a Fissure~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1110
+D3
+~
+~
+0 0 1108
+D4
+~
+~
+0 0 1151
+S
+#1110
+Within the Fissure~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1109
+S
+#1111
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1112
+D1
+~
+~
+0 0 1106
+D2
+~
+~
+0 0 1115
+D4
+~
+~
+0 0 1149
+S
+#1112
+Before a Natural Archway~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1111
+D2
+~
+~
+0 0 1113
+D4
+~
+~
+0 0 1149
+S
+#1113
+Under the Arch~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1112
+D2
+~
+~
+0 0 1114
+S
+#1114
+Under the Arch~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1113
+D1
+~
+~
+0 0 1115
+D3
+~
+~
+55 1101 1120
+S
+#1115
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1111
+D1
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1114
+D4
+~
+~
+128 0 1149
+S
+#1116
+Between the Streambed and the Stalagmite~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1117
+D2
+~
+~
+0 0 1128
+D3
+~
+~
+0 0 1107
+D4
+~
+~
+0 0 1151
+S
+#1117
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1118
+D2
+~
+~
+0 0 1128
+D3
+~
+~
+0 0 1116
+D4
+~
+~
+0 0 1151
+S
+#1118
+At the Eastern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D3
+~
+~
+0 0 1117
+D4
+~
+~
+0 0 1151
+S
+#1119
+On a Dark Ledge~
+~
+0 138813469 0 1
+Rd     0
+D2
+~
+~
+0 0 1118
+D4
+~
+~
+0 0 1151
+S
+#1120
+At a Small Pool~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+55 1101 1114
+D2
+~
+~
+0 0 1158
+S
+#1121
+At the Western Side of the Cavern~
+~
+0 131092 0 1
+Rd     0
+D1
+~
+~
+0 0 1126
+D2
+~
+~
+0 0 1122
+D4
+~
+~
+0 0 1146
+S
+#1122
+Under the Overhang~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1121
+D1
+~
+~
+0 0 1125
+D2
+~
+~
+0 0 1123
+D3
+~
+~
+87 1101 1158
+S
+#1123
+Deep in the Grotto~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1122
+D1
+~
+~
+0 0 1124
+S
+#1124
+In the Grotto~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1125
+D1
+~
+~
+0 0 1133
+D3
+~
+~
+0 0 1123
+S
+#1125
+Before a Large Grotto~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1126
+D1
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1124
+D3
+~
+~
+0 0 1122
+D4
+~
+~
+0 0 1146
+S
+#1126
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D1
+~
+~
+0 0 1127
+D2
+~
+~
+0 0 1125
+D3
+~
+~
+0 0 1121
+D4
+~
+~
+0 0 1146
+S
+#1127
+Beside the Stalagmite~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1107
+D1
+~
+~
+0 0 1131
+D2
+~
+~
+0 0 1132
+D3
+~
+~
+0 0 1126
+D4
+~
+~
+0 0 1146
+S
+#1128
+Beside the Stalagmite~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1117
+D1
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1130
+D3
+~
+~
+0 0 1116
+D4
+~
+~
+0 0 1153
+S
+#1129
+At the Eastern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1138
+D3
+~
+~
+0 0 1130
+D4
+~
+~
+0 0 1153
+S
+#1130
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1128
+D1
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1137
+D3
+~
+~
+0 0 1131
+D4
+~
+~
+0 0 1153
+S
+#1131
+Beside the Stalagmite~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1127
+D1
+~
+~
+0 0 1130
+D2
+~
+~
+0 0 1134
+D3
+~
+~
+0 0 1132
+D4
+~
+~
+0 0 1153
+S
+#1132
+In the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1127
+D1
+~
+~
+0 0 1131
+D2
+~
+~
+0 0 1133
+D3
+~
+~
+0 0 1125
+D4
+~
+~
+0 0 1146
+S
+#1133
+At the Southern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1132
+D1
+~
+~
+0 0 1134
+D3
+~
+~
+0 0 1124
+D4
+~
+~
+0 0 1146
+S
+#1134
+At the Southern Side of the Cavern~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1131
+D3
+~
+~
+0 0 1133
+D4
+~
+~
+0 0 1153
+S
+#1135
+In a Dark Chimney~
+~
+0 138682397 0 1
+Rd     0
+D1
+~
+~
+0 0 1134
+D4
+~
+~
+0 0 1153
+S
+#1136
+In the Darkness on a Stalagmite~
+~
+0 138813465 0 1
+Rd     0
+D0
+~
+~
+0 0 1116
+D1
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1131
+D3
+~
+~
+0 0 1127
+D4
+~
+~
+0 0 1156
+S
+#1137
+Before the Great Door~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1130
+D1
+~
+~
+0 0 1138
+D2
+~
+~
+119 1100 1140
+S
+#1138
+Before the Great Door~
+~
+0 134610969 0 1
+Rd     0
+D2
+~
+~
+119 1100 1139
+D3
+~
+~
+0 0 1137
+S
+#1139
+Between the Doors~
+~
+0 134610972 0 1
+Rd     0
+D0
+~
+~
+119 1100 1138
+D2
+~
+~
+119 1100 1139
+D3
+~
+~
+0 0 1140
+S
+#1140
+Between the Doors~
+~
+0 134619160 0 1
+Rd     0
+D0
+~
+~
+119 1100 1137
+D1
+~
+~
+0 0 1139
+D2
+~
+~
+119 1100 1140
+S
+#1141
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1142
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1141
+D4
+~
+~
+0 0 1145
+D5
+~
+~
+0 0 1112
+S
+#1142
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1142
+D1
+~
+~
+0 0 1143
+D2
+~
+~
+0 0 1145
+D3
+~
+~
+0 0 1141
+D4
+~
+~
+0 0 1148
+D5
+~
+~
+0 0 1129
+S
+#1143
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1144
+D2
+~
+~
+0 0 1146
+D3
+~
+~
+0 0 1145
+D4
+~
+~
+0 0 1146
+D5
+~
+~
+0 0 1119
+S
+#1144
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1144
+D1
+~
+~
+0 0 1144
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1142
+D4
+~
+~
+0 0 1151
+D5
+~
+~
+0 0 1106
+S
+#1145
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1148
+D4
+~
+~
+0 0 1145
+D5
+~
+~
+0 0 1109
+S
+#1146
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1143
+D1
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1149
+D3
+~
+~
+128 0 1149
+D4
+~
+~
+0 0 1156
+D5
+~
+~
+0 0 1116
+S
+#1147
+In the Darkness on a Stalagmite~
+~
+0 138813469 0 1
+Rd     0
+D0
+~
+~
+0 0 1146
+D1
+~
+~
+0 0 1147
+D2
+~
+~
+0 0 1146
+D3
+~
+~
+0 0 1147
+D4
+~
+~
+0 0 1153
+D5
+~
+~
+0 0 1126
+S
+#1148
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1149
+D2
+~
+~
+0 0 1151
+D3
+~
+~
+0 0 1155
+D4
+~
+~
+0 0 1141
+D5
+~
+~
+0 0 1127
+S
+#1149
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1145
+D1
+~
+~
+128 0 1146
+D2
+~
+~
+0 0 1151
+D3
+~
+~
+0 0 1148
+D4
+~
+~
+0 0 1153
+D5
+~
+~
+0 0 1132
+S
+#1150
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1150
+D1
+~
+~
+0 0 1150
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1151
+D4
+~
+~
+0 0 1154
+D5
+~
+~
+0 0 1128
+S
+#1151
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1149
+D1
+~
+~
+0 0 1152
+D2
+~
+~
+0 0 1151
+D3
+~
+~
+0 0 1145
+D4
+~
+~
+0 0 1149
+D5
+~
+~
+0 0 1125
+S
+#1152
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1150
+D1
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1152
+D3
+~
+~
+0 0 1149
+D4
+~
+~
+0 0 1153
+D5
+~
+~
+0 0 1135
+S
+#1153
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1152
+D1
+~
+~
+0 0 1144
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1151
+D4
+~
+~
+0 0 1151
+D5
+~
+~
+128 0 1115
+S
+#1154
+Fumbling about in the Darkness~
+~
+0 168165401 0 9
+Rd     0
+D0
+~
+~
+0 0 1151
+D1
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1146
+D4
+~
+~
+0 0 1156
+D5
+~
+~
+0 0 1147
+S
+#1155
+In a Dark Alcove~
+~
+0 138813469 0 1
+Rd     0
+D1
+~
+~
+0 0 1148
+S
+#1156
+In a Chimney~
+~
+0 168165392 0 9
+Rd     0
+D4
+~
+~
+0 0 1157
+D5
+~
+~
+0 0 1146
+S
+#1157
+On a Ledge on the Cliff Face~
+~
+0 133124 0 5
+Rd     0
+D5
+~
+~
+0 0 1156
+S
+#1158
+At a Small Pool~
+~
+0 134610969 0 1
+Rd     0
+D0
+~
+~
+0 0 1120
+D1
+~
+~
+87 1101 1122
+S
+#1192
+Cordelia's Grass Hut~
+Here inside this hut of woven grass, you expect to be safe, snug and secure. The
+walls are not very thick, but are reinforced with great Magic. It needs a lot of 
+work to turn it into a home, but the hut is comfortable and clean. It looks as though
+someone is starting to live here again, as you see blankets and linens folded neatly
+on the shelves.
+~
+0 134349852 0 0
+Rd     0
+E
+walls shelves blankets linens~
+Attached to the walls which are virtually oozing with peaceful magic are simple
+shelves. These are full of the occasional beach momento, but in most places the
+sand has been cleaned away and fresh linens and blankets stacked here.
+~
+D1
+The grass door leads out onto the beautiful beach.. Dont forget to take the key!
+~
+door~
+119 1184 1193
+S
+#1193
+A mOoonlit black-sand beach~
+The sun has set some time ago here on this black sand beach. There is nothing
+but the rhythmic pounding of the surf and the gentle glow of the moon.
+~
+0 2532893 0 0
+Rd     0
+E
+hut grass west~
+A hut made of woven grass stands to the west. It seems pretty delicate, but
+there is no way you are going to get in without the key.
+~
+D3
+~
+hut~
+119 1184 1192
+S
+#1194
+Ember's Sitting Room~
+You find yourself in a cozy little sitting room. There is a fireplace
+along one wall and a soft synthetic bear-skin rug adorns the hardwood
+floor. A small fountain in the shape of an embracing couple gurgles
+in the corner, and there are a couple comfy cushions on which you can
+rest. Through an archway to the east lies Ember's Bedroom. 
+~
+0 136447004 0 0
+Rd     0
+E
+down hardwood floor~
+The hardwood floor has been recently resanded and polished, and the
+result is simply beautiful.
+~
+D1
+~
+~
+0 0 1198
+S
+#1195
+A Closet~
+You have found your way into a closet. It is here that Ember hides
+people when unexpected company drops in, and is also where a nonexistant
+builder likes to sit so he doesnt bother anyone else. So mind what you
+touch around here, cause this is really poor Vaendyr's home.
+To the east is the bathing Chamber, and north is Ember's bedroom.
+~
+0 2534941 0 0
+Rd     0
+D0
+~
+~
+83 0 1198
+D1
+~
+~
+0 0 7041
+S
+#1197
+Between satin sheets flecked with stars~
+You find yourself between satin sheets the color of the midnight sky.
+Gold stars dapple the sheets. Soft...smooth...and sooo inviting.
+~
+0 14845468 0 0
+Rd     0
+S
+#1198
+Ember's Bedroom~
+Crystal walls surround you, stalagtites hang from the 
+ceiling enveloping the room with light.  A large
+iron bed sits in the middle of the room surrounded
+by satin curtains of midnight blue dappled with
+moons and stars of gold.  Pillows the color of the 
+twilight sky lean against the headboard, and a trunk
+waits to be opened by the footboard.  A rosewood
+desk sits in the corner along with a big comfy chair
+covered in fabric to match the bedcurtains.
+.f
+.s
+~
+0 136709133 0 0
+Rd     0
+D2
+~
+~
+83 0 1195
+D3
+~
+~
+0 0 1194
+S
+#1199
+Within the Satin Sheets~
+You are all snuggled up and warm inside this big comfy bed with its
+fluffy pillows and sleek satin sheets. The only thing reminding you
+of the outside Realms is the gossamer curtains through which you hear
+the humming sounds of people and things.
+~
+0 134619660 0 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 1140 0 1101
+O 0 1149 0 1101
+P 0 1148 0 1149
+P 0 1153 0 1149
+O 0 1146 0 1101
+O 0 1141 0 1101
+O 0 1142 0 1101
+O 0 1143 0 1101
+O 0 1144 0 1101
+O 0 1145 0 1101
+M 0 1101 1 1101
+M 0 1103 6 1106
+M 0 1106 1 1107
+O 0 1151 0 1108
+M 0 1102 12 1110
+M 0 1107 3 1111
+M 0 1102 12 1112
+M 0 1103 6 1113
+O 0 1151 0 1115
+O 0 1151 0 1117
+M 0 1103 6 1117
+M 0 1107 3 1118
+O 0 1109 0 1119
+P 0 1150 0 1109
+M 0 1110 1 1119
+E 0 1119 0 22
+O 0 1154 0 1120
+M 0 1104 1 1120
+O 0 1103 0 1121
+P 0 1108 0 1103
+P 0 1147 0 1103
+P 0 1123 0 1103
+O 0 1104 0 1121
+P 0 1105 0 1104
+P 0 1106 0 1104
+M 0 1107 3 1123
+M 0 1102 12 1124
+O 0 1151 0 1125
+M 0 1103 6 1126
+O 0 1151 0 1128
+M 0 1102 12 1128
+M 0 1103 6 1130
+M 0 1103 6 1133
+O 0 1151 0 1134
+O 0 1109 0 1135
+P 0 1127 0 1109
+M 0 1111 1 1135
+E 0 1122 0 22
+O 0 1137 0 1136
+P 0 1138 0 1137
+M 0 1112 1 1136
+O 0 1112 0 1137
+M 0 1102 12 1138
+O 0 1152 0 1140
+P 0 1129 0 1152
+M 0 1109 1 1140
+E 0 1141 0 6
+E 0 1142 0 15
+E 0 1143 0 17
+E 0 1144 0 13
+E 0 1145 0 5
+O 0 1137 0 1140
+M 0 1102 12 1141
+M 0 1102 12 1145
+O 0 1109 0 1147
+M 0 1113 1 1147
+E 0 1115 0 22
+M 0 1102 12 1150
+R 0 1154 5
+M 0 1102 12 1154
+O 0 1109 0 1155
+P 0 1150 0 1109
+M 0 1114 1 1155
+E 0 1116 0 22
+M 0 1102 12 1156
+O 0 1155 0 1157
+O 0 1154 0 1158
+M 0 1102 12 1158
+O 0 1183 0 1192
+O 0 1180 0 1192
+O 0 1182 0 1192
+P 0 1181 0 1183
+O 0 1184 0 1192
+O 0 1193 0 1193
+O 0 1189 0 1193
+O 0 1195 0 1195
+O 0 1191 0 1197
+O 0 1192 0 1197
+O 0 1194 0 1197
+O 0 1187 0 1198
+O 0 1188 0 1198
+O 0 1190 0 1198
+O 0 1197 0 1199
+O 0 1196 0 1199
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

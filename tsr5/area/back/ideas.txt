@@ -1,0 +1,424 @@
+[  857] Cyrion: a scan command!
+[ 1284] DaLMoR: make help files for the stats, so you know what they modify.
+[  820] Cyrion: newbie gear
+[25007] Cyrion: a moneychanger, exchange x amount of copper for x amount of silver
+[ 8063] Saridon: Have the spel-casting classes (mage, cleric, necromancer, psion) get a meditate skill for mana recovery
+[ 1325] Cyrion: an mob that id's items for a price
+[ 1300] Phalas: since wearwolves are part dog, I think they should be able to see in the dark. maybe make that a skill or something
+[ 5030] Cyrion: fast healing for warriors!
+[25006] Cyrion: MOUNTS!
+[10915] Cyrion: blood trails should lead in a certain direction
+[25000] Phalas: give a help file on the conversions of the currency.
+[25000] Cerin: a heal for pay healer
+[25001] Phalas: how about having a command where you can pick which song you want to play without saying it(like what i have to). the syntax can be "play <filename> <# ot times>". Though I don't think this is nessesary, I think it would be easier.
+[25000] Phalas: When you pick your class and race, how about doing it at the same time, so you know what class you want to be and know the races that can be that class.
+[25000] Phalas: List the max stats for each race.
+[25000] Phalas: how about a carry commmand? you can carry someone at double your move, good if they ran out if them.
+[25000] Cerin: maby some more damage levels..prehasp spread it out some..so that at higher levels you don't get tired ot seeing diferent messages..maby add lots of color
+[  930] Phalas: how about disease be contageous, from airbourn(everyone in the room is infected) to nonairbourn(just if you touch the person you get infected). and when you get infected, it is half of the infected person.
+[25008] Cyrion: a NEWBIE channel
+[  841] Deven: layout of mudschool needs to be more logical. Gotta remember to make a new one
+[25087] Cerin: how about making palm n auto skill..if the dex is high enough to use
+[ 8768] Cerin: bas
+[ 1272] Zorax: I just want to get the Shocking Grasp spell back to mages... Or replace it with another spell... Thanks, Zorax
+[  823] Ghenghir: There should be a spell to replace shocking grasp. Now druids kinda suck
+[ 1300] Trey: I was wondering if they have Clan houses? If not, what about the possibility of having them available with the option for upgrading them. For instance, Clan members could pool their money to get the Clan Hall and then later buy guards, an oracle(loa
+[ 1300] Trey: This would not only promote more rivalry between Clans, but also a chance for players to have ownership and to have to defend the House. There are alot of possibilities and I know your busy with the spells/skills, but I thought I'd just offer an ide
+[ 1351] Ghenghir: I think the old practice system is more realistic... maybe each time you should gain only 1 exp for each time you cast though or something if you think it would be tougher... If you dont want that, at least give us many more practice points than wha
+[14550] Saridon: since paladins are clerical in nature how about a cure blindness spell added to the spell list. (low priority)
+[20203] Krin: works
+[10209] Cerin: vial
+[ 4602] Zorax: I would just like the Shocking Grasp back for mages... You guys put it back then just now took it away... Im sorry to disturb you... Thanks, Zorax
+[23904] Cerin: sun
+[10177] Cerin: claw
+[10649] Zorax: Immortals... shouldn't bards have Charm Person? I dunno... maybe they are good enough as they are. Just a thought
+[ 4626] Zorax: I know you guys do the best you can but no Immortals are on that much anymore....
+[10682] Cyrus: claw
+[ 9572] Daxon: I don't like Yrinthi's idea, and I don't think 40-80 hp is a waste either.
+[ 9572] Daxon: I was wondering if you'd taken off summon, and when (if) we'll get it back.
+[  810] Varnath: shell
+[  808] Varnath: shell
+[10134] Amergin: 00 silver
+[10645] Zorax: I know of a spell that is causing a really bad crash! It is the identify spell. Im not sure about the scroll. I just wanna tell you guys are doin a great job and I know you will do the best you can. Thanks, Zorax
+[ 9583] Daxon: I think you should put the stats along with the level of the weapon being auctioned
+[ 5139] Daxon: We need a numerical readout of our hunger, because when we get hungry, we lose hp, and we could prevent that precisely if we could see our hunger.
+[10608] Zorax: arm
+[10643] Zorax: talon
+[10694] Zorax: Im sorry Immortals but my aliases are not working and that was identify... Again I am very sorry...
+[  825] Cirion: tree
+[25130] Isaac: list
+[25129] Morgath: palt
+[25088] Arakius: nimbus
+[25088] Arakius: nimbus
+[20218] Arakius: greas
+[25094] Arakius: grease
+[25094] Arakius: grease
+[25021] Azygwl: ok.. im a vampire/demon thingee... and yet drinking blood doesnt fill me up food/thirst wise.. i have to eat bread? (sigh)
+[ 1275] Azygwl: since multiclass chars have more skills.. might we get more pracs per level too?
+[20220] Arakius: bamboo
+[25031] Arakius: holy
+[25000] Azygwl: could group command show xp to next level, rather than total xp?
+[23900] Daxon: I think beeps should work if you're asleep.  That way you can wake people up without announcing it all over the game.
+[20220] Arakius: glove
+[10664] Azygwl: anklet
+[25000] Cronus: chest
+[ 9564] Cronus: liv
+[  825] Belzzar: tree
+[  823] Cyrix: Remember the common knowledge that 'Cats always land on their feet'? Tabaxis shouldnt be able to be tripped maybe, or should have some sort of racial ability... just my opinion...
+[ 1399] Durvin: How about a carry skill for warriors?  They could carry exhausted people on their back, but they would have to be able to support the weight.
+[ 1282] Drakin: I have an idea for a spell: Disrupt   it could be the same as Shocking grasp or not as much damage as that, but it would have an affect on stats or something...
+[ 4607] Durvin: Eternal intellect needs a help file.
+[ 4607] Durvin: anatomy knowledge needs a help file.
+[ 4607] Durvin: Pardon, anatomy knowledge does NOT need a help file.
+[    4] Beowolf: JAIL!
+[ 5122] Azygwl: make a command "ic" which takes you back from the ooc lounge to the room you were in last... :) 
+[ 9590] Azygwl: add an (ooc) flag before peoples names on the who list..
+[25000] Dalmor: How about limiting people kinds(class and race) of people who can worship a god or join a sect. Like not allowing demons to join rebellion.
+[11101] Azygwl: bracer
+[11101] Azygwl: sorry!!!
+[25000] Azygwl: how about an otell command for ooc tell??
+[25000] Azygwl: if possible, can we turn off the grat channel? same as the info channel... (really cool would be info channel=off override if sender is immortal or system)
+[  800] Jordan: here
+[  836] Jordan: here
+[  835] Jordan: here
+[ 1272] Fiontan: shroud
+[ 1272] Fiontan: shroud
+[  818] Jordan: here
+[25015] Doogin: one of you gits should be on when i stop by!!
+[25000] Phalin: how about changing the sidestep skill for shadows to auto hide and sneak at night...
+[25000] Dalmor: How about making some NPC's aggressive toward a certain race and maybe even a class.
+[  818] Junkus: have the max % for each skill. I don't like have the same max % for all the skills.
+[  812] Junkus: how about making a few races unable to bleed, like shadows or demons. So they won't leave a trail.
+[25000] Vandyr: make a way to look at someone and just get description, not all their worn eq.. would help with roleplay too.
+[  848] Krin: gem
+[  810] Vandyr: could the practice at the trainer listing only show the ones you have yet to practice??? (or "practice new" option??)
+[25025] Fain: ring
+[ 9572] Vandyr: when training hp/mana/moves could some message tell you how many you just got?
+[10601] Yrl: I tneao.guess what it does.
+[25000] Samuil: ring
+[  824] Yisheng: :P umm, i like to suggest that we should have more info in once finger, like finger makara, and then its show not only his age but his level, how many times he had died and so on :) hope u like the idea
+[25000] Dalmor: make an anti-paladin...good for rp'ing
+[25000] Dalmor: restrict classes and races and alignment(e.g. a lawful_good shadow bard)
+[10645] Flinn: stole
+[10645] Flinn: shroud
+[  800] Rubicon: list
+[25000] Jarek: br
+[25000] Jarek: oops
+[ 9572] Sargon: red
+[ 9572] Sargon: red
+[ 9572] Sargon: red
+[ 8028] Sargon: crown
+[ 2047] Vordan: make the class channel go to all classes for which you are multiclassed (please)
+[ 9594] Vordan: allow telling to/from sleeping chars.. will reduce some channel spam, and since you can gossip/question asleep already.. its not breaking any "rules"??
+[ 2039] Vordan: claw
+[ 2039] Vordan: gloves
+[ 2039] Vordan: sorry bout that..
+[14000] Vordan: have ooc channel show your name to folks even if you are invis/dark invis... after all, it IS ooc... (wizinvis gods should get exception here of coursse)
+[25000] Laric: vordan:sorry about that
+[25000] Vordan: add a fake ide command to stop people putting identifies into the idea channel with id as the abbreviation.
+[ 5311] Yisheng: os
+[  825] Talin: tree
+[ 4450] Vordan: how about allowing a banker to change gold to silver to copper and back around again.. but at a cost of say 50% of value?
+[10308] Sargon: mask
+[14545] Yisheng: eye
+[20210] Absolam: helm
+[ 2128] Samuil: bill
+[ 2128] Samuil: club
+[ 2038] Vordan: could following out of level range be allowed, but not grouping? makes for easier times on quests or corpse recoveries, etc.
+[ 8768] Vordan: please can we have a way to turn off the grat channel?
+[26024] Vordan: have the time for corpse explosion depend upon level.. (hopefully it already does?)
+[26033] Vordan: its kinda bad for roleplay to see "you must be level xx to wear that".. cant ya make it something less number oriented? maybe like close, someday, outclassed??
+[20222] Vorn: breeches
+[20222] Vorn: cloak
+[20228] Vordan: can ya put save vs breath into the score along with save vs spell?? damn dragons..
+[11841] Vordan: for a spell that fails so much, turn has a high mana cost :) 100?? more than a golden aura? cant it get dropped down to 50, maybe?
+[25000] Yisheng: is the a spell call fiest or party? maybe it would be nice to have cleric and paladins being able to create lots of foods and drinks
+[25000] Vordan: please include bank account money on worth??
+[11206] Vordan: auction also displays the level # of the item.. kinda breaks with rp.. could ya change it to be one of 10 options depending on which 10 level group its from?
+[ 9544] Yisheng: bro
+[ 1402] Raywal: ring
+[25119] Raywal: ring
+[  594] Samuil: stone
+[25000] Samuil: perhaps we should have sotore houses for stuff, so when we losse cor we don't loose all
+[25001] Vordan: I had mentioned afore about taking out the level # shown in auction. Perhaps a more elegant fix would be to only show you auctioned items if they are of a level you could use.
+[ 2972] Vordan: when you animate a corpse, could any of its contents spill out onto the ground, instead of vanishing into the ether?
+[ 2710] Vordan: a "target" command or skill that lets you pick which of the many attacking mobs you want to be hitting...
+[25073] Vordan: how about a way to set odds during challenges :)
+[ 5100] Raywal: ring
+[25000] JyKarath: 100 copper
+[10668] Lybock: How about a 'fast' skill for monks, allowing them to go long periods without food?
+[ 9044] Vordan: a prison... you can push someone in, and its a no recall room. mob will hold them there the number of ticks that they are paid to do so. limit of say 20 or something.. Also a peaceful room.
+[10176] Fulstyr: Bring Back True Sight... and Death Field for the Psionist.... (the help file says that death field is for Psionists)
+[10176] Fulstyr: Mobs should be better at disarm... and more max xps for grouped chars
+[11240] Fulstyr: A Extending mana spell......same as dark blessing or aid but adds +mana max
+[11208] Fulstyr: A Teleport To An Object Spell not just a mob
+[25000] Vordan: how about having the hero help files available at level 99, so you can tell what you are going to be getting into??
+[14000] Vordan: a way to become vis without fighting from phaseshift and invis.. (visable command??)
+[26013] Fulstyr: Enchant Weapon Should do more then icrease the hit and damage rolls by 3
+[ 2073] Sargon: pick
+[20221] Meldor: sw
+[20221] Meldor: sw
+[  837] Zefflinius: scourge
+[  857] Zefflinius: Update teh helpfiles please :)
+[10232] Fulstyr: 'Psionist's Psychic REjuvenation (heal all wounds...)
+[25127] Theren: brace
+[25127] Theren: brace
+[25126] Theren: snout
+[25126] Theren: collar
+[ 9549] Niediam: star
+[25043] Yarrik: list
+[ 1282] Danila: bracers
+[ 1282] Danila: bracer
+[ 1282] Danila: bracer
+[ 1282] Danila: bracer
+[25000] Viskiante: crash reimbursements!!  that is so damn irritating to lose everything
+[20232] Kaelyn: crown
+[25079] Cyrus: flies
+[10648] Raylar: talon
+[10654] Raylar: belt
+[10664] Raylar: tail
+[ 1300] Raylar: talon
+[19741] Trey: I was wondering about something. I do see that people have plenty of money to spend/waste on things as silly as 20,000 gold for a sapphire earring. Why not allow people to purchase homes, chests or something of the sort. Give people more ownership
+[ 4617] Nargor: harp
+[25000] Sagrus: how about making Platinum coins in this game.
+[25000] Sagrus: bank can convert money from copper to silver to gold.
+[ 4602] Kaden: blub
+[ 4602] Kaden: club
+[  825] Derxexes: tree
+[  850] Derxexes: band
+[   71] Thallin: list
+[10611] Chelsea: fur
+[25001] Shad: leaf
+[25000] Octavia: list
+[25000] Octavia: list
+[ 9529] Freyr: dagger
+[25079] Freyr: bracelet
+[25039] Freyr: warpaint
+[25092] Reglos: sword of a fortress guard
+[25000] Jagon: stil
+[  810] Morhyn: cloak
+[  810] Morhyn: cloak
+[25000] Dunamis: spl
+[25027] Sagrus: how about a skill for necros canibalize (which allows you to slice up corpses to eat for food)
+[25064] Reglos: auc
+[10205] Meldor: nring
+[25130] Dunamis: Due to all the pkillings that have been going on lately where high level characters kill much lower level characters causing possible new members to this growing mud to get fed up and leave...(cont.)
+[25130] Dunamis: ...would it be possible to code it so you couldn attack another player who was x levels below your own with the x value being anwhere between 1-5?
+[25130] Dunamis: Just mentioning it because I know of a couple players who were told this mud focused more on RP than PK and that was *not* the experience they had when they tried it out...
+[  825] Rikah: hole
+[  825] Rikah: tree
+[  805] Surat: bracer
+[ 8016] Vordan: a way to turn off mental block? like there is the vis command?
+[10648] Chirlu: cane
+[ 9520] Chirlu: sword
+[ 4631] Veed: flowers
+[ 4631] Veed: flowers
+[ 4631] Veed: tooth
+[ 4631] Veed: tooth
+[ 4631] Veed: tooth
+[ 4631] Veed: tooth
+[ 4631] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: tooth
+[25000] Veed: ring
+[25000] Veed: ring
+[25000] Veed: ring
+[25000] Veed: ring
+[25000] Veed: ring
+[25000] Veed: ring
+[25000] Veed: ring
+[25088] Veed: dress
+[25088] Veed: dress
+[25088] Veed: dress
+[25088] Veed: dress
+[25088] Veed: dress
+[25088] Veed: ring
+[ 4600] Swebo: rubber
+[ 4646] Swebo: rubber
+[ 1402] Tinthis: ring
+[25020] Coramis: ring
+[  841] Elfis: list
+[  841] Elfis: Give drow ability to levitate?
+[ 2402] Cyrus: skin
+[ 2402] Cyrus: whoops sorry mistype
+[  514] Samuil: sho
+[  825] Lucien: tree
+[25000] Tasad: apron
+[ 2402] Orlis: hammer
+[10804] Faradiarh: collar
+[10804] Faradiarh: collar
+[25002] Darlkin: bots
+[25000] Pohhuist: arm
+[  200] Ember: dagger
+[25000] Ember: flask
+[25004] Dynnah: claw
+[  805] Hauk: red
+[  838] Gaspar: backpack
+[  836] Gaspar: apple
+[ 1199] Ember: shaccles
+[ 2402] Cyrus: fire
+[ 9554] Samuil: sab
+[ 2059] Tasad: cap
+[ 2402] Tasad: collar
+[  840] Amaroth: play i
+[10172] Tasad: dev
+[25124] Dunamis: gem
+[ 6706] Tasad: gold
+[ 2402] Lyssaer: after the wake command is entered could there be an auto-look entered also
+[ 2039] Kryeaari: light
+[25000] Xavius: cap
+[ 2039] Ruun: dagger
+[ 2039] Ruun: Sorry. Damn alias.
+[25000] Talben: It would be nice if we could turn the tell off, like the other channel.  Tells are not very relistic.
+[  825] Graeg: tree
+[  825] Graeg: gaeyro
+[ 2402] Crobus: under
+[25127] Obsidir: staff
+[ 5046] Alkarin: vest
+[ 2402] Alkarin: fire
+[  825] Ramaber: tree
+[25036] Dhajan: mace
+[25000] Calryn: pants
+[25092] Kylan: copper mace
+[25012] Mortag: ring
+[19732] Thraxen: mini
+[10983] Cordelia: it for JyKarath...
+[25026] Dagon: broze
+[25026] Dagon: bronze
+[  825] Aldrik: tree
+[  136] Reyton: nec
+[25000] Tealgar: eyes
+[25002] Tealgar: eyes
+[ 8016] Tealgar: eyes
+[ 2125] Tealgar: eyes
+[ 4643] Xavius: shield
+[ 9506] Derati: A leap skill for werewolves...they can pounce upon the enemy, and it would stop combat and/or be like backstab
+[25002] Diem: robe
+[  825] Euli: tree
+[25000] Lyri: make the spells the oracle casts silent..it would greatly reduce spam
+[  161] Kuil: drow can poison their weapons
+[25094] Laef: crimson
+[ 4601] Lyri: clo
+[ 4623] Lyri: po
+[ 2400] Lyri: fla
+[ 1282] Gaol: g
+[25000] Lyri: require descriptions!! at least general appearance.
+[ 9549] Laef: lagless spells
+[25130] Kinstar: silver
+[  810] Zenlore: ring
+[  827] Firewall: 3 copper
+[  825] Malorn: tree
+[25000] Torel: mace
+[  157] Tasmine: cleaver
+[  157] Tasmine: cleaver
+[  157] Tasmine: scourge
+[23932] Akasha: list
+[ 2402] Xenati: brea
+[23932] Akasha: list
+[25000] Vhash: ruby
+[ 9531] Vhash: tunic
+[25000] Dray: teardrop
+[25000] Cyrus: tol
+[25000] Rezam: axe
+[ 5326] Radak: make a guard skill so when your grouping team can guard player
+[   67] Qmtarr: read
+[  825] Jaer: scroll
+[  146] Jaer: longsword
+[25090] Kelmar: them
+[ 1414] Troy: vale
+[ 1414] Troy: boots
+[ 1414] Troy: 2.vale
+[  706] Troy: boots
+[  825] Jeron: tree
+[  809] Valgrom: cloak
+[25000] Cyrus: wing
+[ 2402] Rei: fire dagger
+[25120] Gruad: list
+[10172] Kai: whip
+[ 2402] Rei: kerkin
+[23932] Akasha: list
+[10691] Berfolk: why dont you make recall cost money after lvl 10 for certain amount
+[10101] Eban: axe
+[ 1276] Artrax: Having practices and trains be seperate
+[ 8150] Zamiel: coif
+[10663] Kadim: boots
+[ 1300] Kadim: bracer
+[  825] Lilu: skull
+[  825] Lilu: tree
+[10129] Tharn: charm
+[ 2972] Tharn: mask
+[25098] Tharn: flag
+[25002] Kai: dag
+[25119] Tharn: vial
+[25001] Tharn: chain
+[  857] Axiemere: serp
+[ 2708] Cyrus: ear
+[25000] Troy: ring
+[25000] Cyrus: plate
+[ 9592] Durvin: blade
+[10134] Larsen: mitte
+[  825] Daed: scroll
+[ 7450] Cyrus: swo
+[  809] Arios: list
+[25000] Shiltar: list
+[25000] Shiltar: hehehe...you should make recall so that you can attack people there since this site is closing...
+[25000] Shiltar: let the gods fight the morts on the final day...as in make the gods morts..
+[25000] Cyrus: snow
+[25000] Troy: silver
+[25000] Troy: silver
+[25000] Troy: silverf
+[25000] Troy: silver
+[25000] Troy: box
+[25000] Vigaeus: message
+[23932] Akasha: list
+[23932] Jubelo: Unnochannel me.
+[23932] Jubelo: Bitte :P
+[  810] Pappilon: apron
+[  810] Pappilon: apron
+[ 1302] Yendal: talon
+[  825] Jaspin: tree
+[10199] Cyrus: claw
+[25000] Zenlore: even
+[25000] Cyrus: exc
+[  825] Alamin: twin
+[25000] Jazul: tcase
+[25000] Ovik: band
+[  854] Ovik: band
+[  809] Ovik: ring
+[25094] Grun: ring
+[25094] Grun: lime rin
+[25000] Cyrus: dagger
+[20047] Cyrus: doom
+[ 6702] Arakius: petals
+[  810] Stix: axe
+[  810] Stix: axe
+[25120] Dagon: list
+[  812] Phesius: daxvri
+[23234] Cyrus: ace
+[25000] Klodante: vam
+[10949] Klodante: topa
+[ 1430] Velius: d
+[ 1430] Velius: s
+[  809] Dray: vial
+[ 9595] Xalgaroth: robes
+[25002] Tharn: bracer
+[25002] Tharn: bracer
+[25002] Tharn: bracer
+[ 2402] Reyton: axe
+[25000] Cyrus: ba
+[11202] Dray: queen
+[ 8768] Reliak: I think that the healing zones should be fast healing (like they were in IV)
+[25000] Cohen: leaf
+[25000] Cohen: leaf
+[25000] Cohen: leaf
+[ 4622] Ketchin: hammer
+[  768] Conrad: belt

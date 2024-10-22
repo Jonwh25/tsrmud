@@ -1,0 +1,818 @@
+#AREADATA
+Name        {1-10} Dungeon~
+Levels      0 0
+Builders    Pil~
+VNUMs       23400 23499
+Security    1
+Recall      25000
+Flags       16
+Sounds      The sound of dripping water echos throughout the room~
+End
+
+
+
+#MOBILES
+#23460
+mold yellow~
+a pile of yellow mold~
+Disgusting yellow mold covers the tables and chairs
+~
+This yellowish mold has a mind of its own, and is devouring anything in its 
+path, slowly of course, but none the less still doing its damage.  It grows 
+on almost everything in the room and It appears to be heading for you!
+~
+65 0 0 0 0 S
+2 0 0 12d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23461
+rat dirty~
+a dirty rat~
+A dirty beady eyed little rat stares at you from the shadows
+~
+This rat is is covered in matted brown and black hair.  Two beady yellow eyes
+seem to bulge from his head.  It has a pair of sharp teeth sticking out from
+under his little dark moist nose.  A long hairless tail drags limply behind
+the rodent as it looks for scraps of food.
+~
+69 0 0 0 0 S
+3 0 0 12d0+0 0d0+0
+0 0 2 0
+0 0 0
+0 0 0
+#23462
+spider~
+a large black spider~
+A bulbous black spider skitters back into its web
+~
+This creepy thing stares at you with eight reddish eyesThis spider has 
+eight dark barrbed legs that look well built for climbing in webs.  It's 
+dark face contains two razor sharp fangs that are dripping with the blood
+of its last victim.
+~
+69 0 0 0 0 S
+4 0 0 14d0+0 0d0+0
+0 0 4 0
+0 0 0
+0 0 0
+#23463
+ooze slime~
+a blob of ooze~
+A slimy glob of ooze drips from the wall and ooozes toward you.
+~
+You are looking at a slimy greenish blue glob of what can only be called
+ooze.  It is horribly disgusting, and seems to just slide slowly over
+the ruble in the room, eating at all that it touches.  
+~
+65 0 0 0 0 S
+5 0 0 16d0+0 0d0+0
+0 1 0 0
+0 0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#23400
+no name~
+a pouch of holding~
+A small leather pouch is tied at the top with a blue ribbon~
+~
+15 0 0 0 1 50
+10000~ 3~ 0~ 0~
+0 100 100 100 0
+0 0
+reserved~
+0 0
+0 0 0
+#23454
+lantern old~
+a Glowing Lantern~
+An old rusty lantern is here hanging from the wall~
+~
+1 8193 0 0 1 1
+0~ 0~ 0~ 0~
+2 0 0 100 0
+0 0
+reserved~
+0 0
+0 0 0
+#23455
+key ~
+a small brass key~
+This old dust covered key has been lying here for some time.~
+~
+18 0 0 0 1 0
+0~ 0~ 0~ 0~
+1 0 0 10 0
+0 0
+reserved~
+0 0
+0 0 0
+#23456
+desk~
+wardens desk~
+The wardens desk is here in the corner collecting cobwebs and dust.~
+~
+15 8192 0 0 0 0
+100~ 0~ 0~ 0~
+50 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23457
+dagger knife~
+a serrated knife~
+A rusty serrated knife sits here on the ground.~
+~
+5 16384 0 0 8193 2
+0~ 0~ 0~ 11~
+2 17 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 1
+A
+19 1
+#23458
+blanket ~
+a wool blanket~
+A crupled woolen blanket is lying here~
+~
+9 65 0 0 1025 3
+5~ 0~ 0~ 0~
+0 4 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+5 1
+#0
+
+
+
+#ROOMDATA
+#23400
+Castle Ruins~
+These ruins appear to be what is left of what was once a magnificant castle
+Now, though all that remains is a few freestanding walls that are covered
+with moss.  There is an abundance of long grass that has grown up though
+the ruble, and even a few wildflowers scatered around the rocks.  Looking
+a little closer, you see the remains of a tower with only the lower level
+remaining.  An old wooden door stands ajar at the towers base, and an eerie
+light flickers from somwhere inside.
+~
+0 0 0 2
+Rd     0
+D0
+~
+door~
+1 0 23401
+S
+#23401
+Tower Ruins~
+Surrounding you are crumbling rock walls that amazingly seem to stand on
+their own.  The rocks of the wall have become green with the large colonies
+of moss, and lichens that have taken refuge there.  Above you old wooden planks
+are all that is left of the second level of this tower.  The planks block enough sun 
+so that you can see the faint glow of a burning lantern that still hangs on the wall
+In the light of the flickering lantern, you see a spiral staircase that 
+decends into the darkness below
+~
+0 0 0 2
+Rd     0
+D2
+~
+~
+1 0 23400
+D5
+~
+~
+0 0 23402
+S
+#23402
+Bottom of Staricase~
+The black iron staircase has come to an end here against a hard stone floor.
+The rooms darkness seems to swallow everything.  Without the light of the sun
+everthing takes on a threatening look.  A menacing large iron gate stands strong
+to the north.  To the east is a strong oaken door, that has so far passed the test 
+of time. To the west is it's not so strong counterpart that is nearly falling off
+of its hinges
+~
+0 9 0 0
+Rd     0
+D0
+~
+gate door~
+23 23455 23407
+D1
+~
+~
+3 0 23403
+D3
+~
+~
+3 0 23404
+D4
+~
+~
+0 0 23401
+S
+#23403
+Wardens Office~
+Here you find yourself in what was probably the nicest room in the dungeons.
+The wooden floor is still here, though it creaks with each step you take.
+On the walls around this room are some of the cheap paintings that the warden
+decided to decorate with.  In the far corner sits an old wooden desk which
+obviously hasn't been used in ages.  There are a few cracked flower pots strewn
+about.  Someone must have forgotton to tell the warden that plants don't grow 
+without sunlight.
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+3 0 23402
+S
+#23404
+Living Quarters~
+Strewn about this room are the remains of chairs, and couches.  Nothing 
+that looked like it was ever really comfortable, but soldiers never did get
+too much.  In the center of the room is an overturned table with a handfull
+of carved wooden figures, and some hard paper cards.  It must have been 
+a game the soldiers played during thier short hours free time when they were 
+not sleeping.
+~
+0 9 0 0
+Rd     0
+D1
+~
+~
+3 0 23402
+D2
+~
+~
+0 0 23405
+S
+#23405
+Mess Area~
+Here you find yourself surrounded by more old furniture.  Tables and chairs
+seem to be the most prominant.  There is also a large amount of broken plates
+and glasses.  Silverwear is scattered about this room as well, most of it is
+bent up and mangled.  To your disgust you notice that some fo the food remains as
+well, and it is coverd with a thick layer of yellow mold.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23404
+D1
+~
+~
+0 0 23406
+S
+#23406
+Sleeping Area~
+There are beds everywhere in here.  They don't look so comfortable now.
+most have broken legs, or are missing matresses.  Again you notice that
+this room is full of dust and cobwebs.  The stench here is quite overwhelming, 
+and you notice that the source must be some bed pans that were left here
+when the soldiers abbandoned this place.
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+0 0 23405
+S
+#23407
+Musty Hallway~
+This empty hallway leads further into the dungeon.  It is rather dark in here, 
+and devoid of any decorations.  A few torch scones line the walls, but these are
+empty now and do not give any much needed light to the hallway.  The floor is 
+dusted with sand, and rocks used in the walls have been polished smooth with
+time.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23408
+D2
+~
+~
+23 0 23402
+S
+#23408
+Dungeon Corridor~
+Here you find yourself standing in a very dark hallway.  The hard stone echos
+quietly under your feet as you step into the corridor.  In each wall there are 
+strong iron gates that lead to the dungeons prison cells.  A few cobwebs
+in the corners flutter slightly as the air flows slowly throughout the room,
+and a musty scent wafts in from the cells.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23411
+D1
+~
+gate ~
+3 0 23410
+D2
+~
+~
+0 0 23407
+D3
+~
+gate~
+7 23455 23409
+S
+#23409
+Prison Cell~
+You have just stepped into a very awful place.  Thick layers of mold have grown
+over the straw that must have been the prisoners beds.  The mold gives the room
+a discomforting smell.  A few humanoid bones lie quietly in the corner, showing
+that when the guards left this place they didn't bother themselves with taking 
+the prisoners as well.  Water drips in from the back wall into a small puddle.
+~
+0 9 0 0
+Rd     0
+D1
+~
+~
+7 0 23408
+S
+#23410
+Prison Cell~
+This is what you would expect of a typical dungeon prison cell.  It's dark,
+and cold.  The stone walls are wet to the touch.  Mud has accumulated in one 
+corner, and in the opposite corner is a small pile of straw.  A few peices of
+what was once a clay pitcher probably held the prisoners water at one time.
+Now, however, it only adds to the forboding atmosphere.
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+3 0 23408
+S
+#23411
+Dungeon Corridor~
+This corridor just keeps getting darker, and darker.  Again to the east and west
+of you are the gates that were used to hold the worst of society.  In the dust
+on the floor you can see marks, that look like someone had been scratching the 
+floor with a pointed object.  Just who that someone is, you don't know.  It is 
+probably a good idea not to wait around and find out.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23414
+D1
+~
+gate~
+3 0 23413
+D2
+~
+~
+0 0 23408
+D3
+~
+gate~
+1 0 23412
+S
+#23412
+Prison Cell~
+This appears to be more of the same.  The smell is not so bad here, however,
+since the pile of straw is not sitting near any source of water. The floor in 
+here is mostly dry, because of the slight slope toward the back wall.  You also
+notice that celing here is beggining to cave in under the weight of the earth, 
+and that this is probably not a good spot to set up camp.
+~
+0 9 0 0
+Rd     0
+D1
+~
+~
+1 0 23411
+S
+#23413
+Prison Cell~
+Walking into this cell, the first thing that catches your eye are a bunch of runes
+scribbled onto the back wall.  As you look at them closer you notice that they are
+written in blood.  Apparently some crazed mage was imprisoned here, and was trying
+desparately to cast a spell that would take him to freedom.  The rest of the cell
+is pretty dull however, except for maybe few scraps of bread that haven't been eaten
+by the rats yet.
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+3 0 23411
+S
+#23414
+Dungeon Corridor~
+You are nearing the end of the corridor, though that doesn't seem to make you 
+feel any better.  The darkness is almost impenatrable here, and even your light
+does little to help.  To no supprise of your own you find more iron cell doors
+in the east and west walls.  There was indeed plenty of room for those who went 
+agianst the ideas of local governmet.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23417
+D1
+~
+gate~
+7 23455 23416
+D2
+~
+~
+0 0 23411
+D3
+~
+gate~
+1 0 23415
+S
+#23415
+Prison Cell~
+This is the worst cell yet.  The floor is completely covered with a thin
+layer of dirty water.  The straw in the corner is completely saturated with 
+moisture, and has an abundance of yellow and green mold growing on it.  The mold
+has spread to the surrounding walls as well.  Water drips in from countless points 
+in the celing playing out an eerie song of dread.
+~
+0 9 0 0
+Rd     0
+D1
+~
+~
+1 0 23414
+S
+#23416
+Prison Cell~
+You see no reason why this room should be locked any longer.  The remains
+of a helpless captive are still lying on the straw that was once his bed. 
+Strangely enough the blanket that partialy covers the corpse is in 
+perfect condition.  Nothing else here has survied the test of time, even
+the rock walls are begining to give way and the iron door to the west is almost 
+rusted through in places
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+7 0 23414
+S
+#23417
+Top of Staircase~
+You have arrived at the end of the hallway, and you are now standing at the 
+top of a old stone staircase.  The walls in here are dry, and the floor is
+covered with a thin layer of sand.  Above the staicase a sign is nailed to the
+wall.  It is written in large letters, but they are of some ancient language
+that you can not make out.  Down below you can only see darkness.
+~
+0 9 0 0
+Rd     0
+D2
+~
+~
+0 0 23414
+D5
+~
+~
+0 0 23418
+S
+#23418
+Bottom of Stairs~
+The floor here at the bottom of the stairs is very similar to that of the 
+floor above.  Both the stairs and the floor are dusted with a thin layer of
+sand.  A few broken crates lie in a pile in the back corner of the room.  
+A few splintered boards are scattered around on the floor.  To the south is 
+a doorway leading deeper into the dungeon.
+~
+0 1 0 0
+Rd     0
+D2
+~
+~
+0 0 23419
+D4
+~
+~
+0 0 23417
+S
+#23419
+Prison hallway~
+You find yourself in yet another hallway full of prison cells.  It seems as
+though crime was quite a problem in this area at one time.  To both your 
+east and west, are rusty gates that barely hang from thier hinges, no longer
+able to hold in the criminals whose fate lead them here.  The hallway continues
+to the south where you can see that there are more prison cells to come.
+~
+0 9 0 0
+Rd     0
+D0
+~
+~
+0 0 23418
+D1
+~
+gate~
+1 0 23421
+D2
+~
+~
+0 0 23422
+D3
+~
+gate~
+1 0 23420
+S
+#23420
+Prison cell~
+Steping beyond the gate you find your self surrounded by stone walls.  This 
+prison cell seems to be even more depressing than the cells on the level above.
+In one corner the wall the stones have begun to collaps under the tremendous
+weight of the earth stacked above you.  The rest of the cell is empty except 
+for bits of straw strewn about.
+~
+0 9 0 0
+Rd     0
+D1
+~
+~
+1 0 23419
+S
+#23421
+Prison cell~
+This prison room is much like it's counterpart to the west.  The stone walls 
+block all ways except for to your west.  Water drizles slowly down a far wall
+and runs along the floor to the south.  In the southeastern corner a small
+puddle has formed.  The straw in here has been shaped into what looks like 
+a small rats nest.  You also notice that there are small cracks in the stone
+celing.
+~
+0 9 0 0
+Rd     0
+D3
+~
+~
+1 0 23419
+S
+#23422
+Prison hallway~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23419
+S
+#23423
+Prison cell~
+~
+0 4 0 0
+Rd     0
+S
+#23424
+Prison cell~
+~
+0 4 0 0
+Rd     0
+S
+#23425
+Tunnel entrance~
+~
+0 4 0 0
+Rd     0
+S
+#23426
+Dirty tunnel~
+~
+0 4 0 0
+Rd     0
+S
+#23427
+Tunnel bend~
+~
+0 4 0 0
+Rd     0
+S
+#23428
+Dirty tunnel~
+~
+0 4 0 0
+Rd     0
+S
+#23429
+End of tunnel~
+~
+0 4 0 0
+Rd     0
+S
+#23430
+Prison hallway~
+~
+0 4 0 0
+Rd     0
+S
+#23431
+Prison cell~
+~
+0 4 0 0
+Rd     0
+S
+#23432
+~
+~
+0 4 0 0
+Rd     0
+S
+#23433
+Musty hallway~
+~
+0 4 0 0
+Rd     0
+S
+#23434
+Musty hallway~
+~
+0 4 0 0
+Rd     0
+S
+#23435
+Prison Intersection~
+~
+0 4 0 0
+Rd     0
+S
+#23436
+West passage~
+~
+0 4 0 0
+Rd     0
+S
+#23437
+Cell intersection~
+~
+0 4 0 0
+Rd     0
+S
+#23438
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23439
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23440
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23441
+East passage~
+~
+0 4 0 0
+Rd     0
+S
+#23442
+Cell intersection~
+~
+0 5 0 0
+Rd     0
+S
+#23443
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23444
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23445
+Dark cell~
+~
+0 4 0 0
+Rd     0
+S
+#23446
+Back hallway~
+~
+0 4 0 0
+Rd     0
+S
+#23447
+Top of stairwell~
+~
+0 4 0 0
+Rd     0
+S
+#23448
+Bottom of stairs~
+~
+0 4 0 0
+Rd     0
+S
+#23449
+North passage~
+~
+0 4 0 0
+Rd     0
+S
+#23450
+Guard room~
+~
+0 4 0 0
+Rd     0
+S
+#23451
+Guard room~
+~
+0 4 0 0
+Rd     0
+S
+#23452
+North passage~
+~
+0 4 0 0
+Rd     0
+S
+#23453
+Secure cell~
+~
+0 4 0 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 23454 0 23401
+O 0 23456 0 23403
+O 0 23456 0 23403
+P 0 23455 0 23456
+M 0 23462 1 23403
+O 0 23457 0 23405
+M 0 23460 1 23405
+M 0 23460 2 23405
+M 0 23462 1 23409
+M 0 23461 1 23410
+M 0 23462 1 23411
+M 0 23461 2 23412
+M 0 23461 1 23413
+M 0 23460 2 23415
+O 0 23458 0 23416
+M 0 23461 2 23416
+M 0 23463 1 23417
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

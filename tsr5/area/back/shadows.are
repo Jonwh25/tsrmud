@@ -1,0 +1,4304 @@
+#AREADATA
+Name        {  All } City of Shadows     Beowolf/Remik/Laric~
+Levels      0 100
+Builders    Beowolf All~
+VNUMs       8600 8799
+Security    99
+Recall      25001
+Flags       0
+Sounds      The melodious sounds of the Court Bard's harp music fills the air.~
+End
+
+
+
+#MOBILES
+#8600
+Male citizen~
+A male citizen~
+A male citizen nods slightly in your direction as you pass.
+~
+This male citizen, standing out no more than the rest, wanders along the
+street with determination in his eye. He looks and nods slightly at you as
+you pass 
+~
+193 0 8196 192 -700 S
+30 0 0 2000d0+0 0d0+0
+0 20 10 0
+0 0 1
+0 0 0
+>act_prog all~
+~
+|
+#8601
+Female citizen~
+A female citizen~
+A female citizen gives a slight curtsey as you pass.
+~
+A female citizen, dressed commonly for the city, looks to be after
+something. She scurries off along her way, giving you little more than a
+small curtsey as you pass. 
+~
+193 0 8196 192 -600 S
+25 0 0 1050d0+0 0d0+0
+0 0 150 0
+0 0 2
+0 0 0
+#8602
+Child citizen~
+A small child~
+A small child sneaks about, hiding in the shadows.
+~
+A small child, full of energy, sneaks about, jumping from shadow to
+shadow. You notice their eyes full of youth, just as they flare you a
+dramatic bow. 
+~
+193 0 32768 0 -300 S
+5 0 0 100d0+0 0d0+0
+0 0 25 0
+0 0 0
+0 0 0
+#8603
+Shadow Soldier~
+A Shadow Soldier~
+A Shadow Soldier stands guard, protecting the city.
+~
+A middle-aged soldier, with both his youth and intelligence to boast,
+stands guard, protecting the city with his life.
+~
+393283 0 8424 196784 200 S
+50 0 0 8500d0+0 0d0+0
+5 55 100 0
+0 0 1
+0 0 0
+#8604
+Shadow City Guard~
+A Shadow Guard~
+A Shadow Guard wanders about, making sure justice is upheld.
+~
+A city guard, more widely known as a 'Shadow Guard', wanders about, making
+sure that all is well.  He looks and tests things, to make sure that 
+everything is in order.  He spies little kids hiding in the shadows and smiles
+at their wonderous youth.
+~
+393285 0 8424 16 100 S
+40 0 0 2500d0+0 0d0+0
+0 25 0 0
+0 0 1
+0 0 0
+#8605
+Young adventurer~
+A young adventurer~
+A young adventurer strides through town, boasting an overly-large sword.
+~
+A pompous, young adventurer strides through town with his head up high.
+He smiles to all the young women and glares at all the men his age. On his
+belt he sheaths an overly-large sword. 
+~
+193 0 8192 131072 0 S
+25 0 0 1050d0+0 0d0+0
+0 0 150 0
+0 0 1
+0 0 0
+#8606
+A young adventuress~
+A young adventuress~
+A young adventuress parades through town, giggling at the people.
+~
+A young adventuress, smiles and waves at the people she sees on the
+streets. She laughs without care and giggles at the children playing. 
+~
+193 0 134217728 16 600 S
+30 0 0 1500d0+0 0d0+0
+0 20 0 0
+0 0 2
+0 0 0
+#8607
+Court Bard~
+The Court Bard~
+The Court Bard strums his harp and dances dramatically for the people.
+~
+The Court Bard, strumming away at his harp, sings and dances with rhythm
+and tune.  His act, the best around, makes the citizens of the town perk up
+a bit and hum along.
+~
+197 0 16785600 16 0 S
+43 0 0 0d0+0 0d0+0
+100 100 100 0
+0 0 1
+0 0 0
+#8608
+Male citizen~
+A male citizen~
+A male citizen brushes past you, glaring as you walk past.
+~
+This male citizen, standing out no more than the rest, wanders along the
+street with determination in his eye. He looks and nods slightly at you as
+you pass. 
+~
+193 0 8196 192 -700 S
+50 0 0 8000d0+0 0d0+0
+0 55 100 0
+0 0 1
+0 0 0
+#8609
+Male citizen~
+A male citizen~
+A male citizen wanders through the street, obviously not very happy.
+~
+This male citizen, standing out no more than the rest, wanders along the
+street with determination in his eye. He looks and nods slightly at you as
+you pass. 
+~
+193 0 8196 192 -500 S
+40 0 0 3300d0+0 0d0+0
+0 30 100 0
+0 0 1
+0 0 0
+#8610
+Male citizen~
+A male citizen~
+A male citizen smirks as he continues on his way.
+~
+This male citizen, standing out no more than the rest, wanders along the
+street with determination in his eye. He looks and nods slightly at you as
+you pass. 
+~
+193 0 8196 192 -300 S
+60 0 0 11500d0+0 0d0+0
+0 100 100 0
+0 0 1
+0 0 0
+#8611
+Female citizen~
+A female citizen~
+A female citizen winks at you, grining as you walk past.
+~
+A female citizen, dressed commonly for the city, looks to be after
+something. She scurries off along her way, giving you little more than a
+small curtsey as you pass. 
+~
+193 0 8192 192 -550 S
+15 0 0 500d0+0 0d0+0
+0 0 100 0
+0 0 2
+0 0 0
+#8612
+Female citizen~
+A female citizen~
+A female citizen absently smiles in your direction.
+~
+A female citizen, dressed commonly for the city, looks to be after
+something. She scurries off along her way, giving you little more than a
+small curtsey as you pass. 
+~
+193 0 8192 192 -100 S
+35 0 0 2750d0+0 0d0+0
+0 35 100 0
+0 0 2
+0 0 0
+#8613
+Female citizen~
+A female citizen~
+A female citizen searches the street for her child.
+~
+A female citizen, dressed commonly for the city, looks to be after
+something. She scurries off along her way, giving you little more than a
+small curtsey as you pass. 
+~
+193 0 8192 192 -700 S
+45 0 0 5500d0+0 0d0+0
+0 60 50 0
+0 0 2
+0 0 0
+#8614
+Child citizen~
+A small child~
+A small child is here, playing in the middle of the street.
+~
+A small child, full of energy, sneaks about, jumping from shadow to
+shadow. You notice their eyes full of youth, just as they flare you a
+dramatic bow. 
+~
+193 0 32768 0 0 S
+13 0 0 400d0+0 0d0+0
+0 0 50 0
+0 0 0
+0 0 0
+#8615
+Child citizen~
+A small child~
+A small child walks about, gathering sticks for a fire.
+~
+A small child, full of energy, sneaks about, jumping from shadow to
+shadow. You notice their eyes full of youth, just as they flare you a
+dramatic bow. 
+~
+193 0 32768 0 -100 S
+9 0 0 275d0+0 0d0+0
+0 0 35 0
+0 0 0
+0 0 0
+#8616
+Child citizen~
+A small child~
+A small child looks about, trying to find other children to play with.
+~
+A small child, full of energy, sneaks about, jumping from shadow to
+shadow. You notice their eyes full of youth, just as they flare you a
+dramatic bow. 
+~
+193 0 32768 0 0 S
+17 0 0 600d0+0 0d0+0
+0 0 75 0
+0 0 0
+0 0 0
+#8700
+Sylvia~
+Sylvia the Healer~
+Sylvia is here healing the wounded.
+~
+~
+3 0 285212800 0 0 S
+105 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 2
+29167 0 0
+#0
+
+
+
+#OBJECTS
+#8600
+Sword Shadow Soldier~
+a Shadow Soldiers sword~
+A wicked, black sword lies here, unattended.~
+~
+5 33554436 4119 34840 8193 50
+0~ 0~ 0~ 3~
+15 300 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+2 1
+A
+1 1
+A
+19 10
+A
+18 10
+A
+2 -1
+#8601
+Shadow Soldier Gauntlets~
+the Gauntlets of a Shadow Soldier~
+Black gauntlets lie here, unattended.~
+~
+9 536870916 4119 34840 129 50
+-35~ 0~ 0~ 0~
+8 100 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+1 3
+#8602
+longsword named "Chaondeath"~
+longsword named "Chaondeath"~
+(no description)~
+~
+5 33555200 0 0 8193 107
+0~ 0~ 0~ 10~
+4 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 400
+A
+19 400
+A
+1 10
+A
+5 10
+A
+3 10
+A
+4 10
+A
+1 15
+A
+17 -400
+#8603
+psionicist Focus Medallion~
+psionicist Focus Medallion~
+(no description)~
+~
+9 321 0 0 5 107
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+4 5
+A
+2 5
+A
+5 5
+A
+1 5
+A
+17 -200
+#8604
+cloak of Deception~
+cloak of Deception~
+(no description)~
+~
+9 67109124 0 0 1025 107
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8605
+Shortsword~
+shortsword named "Rottingdeath"~
+(no description)~
+~
+5 0 0 0 8193 107
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8606
+Amethyst~
+an uncut, thumb-sized amethyst~
+An uncut, thumb-sized amethyst, in a platinum-wired cage lies here.~
+~
+9 3 0 65471 5 0
+-15~ 0~ 0~ 0~
+3 20 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8607
+chaondeath longsword~
+a Wicked Black Longsword Entitled 'Chaondeath'~
+(no description)~
+~
+5 536887620 0 0 8193 107
+0~ 0~ 0~ 10~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+3 40
+A
+4 40
+A
+5 40
+A
+2 40
+A
+1 40
+A
+19 40000
+A
+18 40000
+#8608
+silence~
+a Dark Aura of Chaotic Silence~
+(no description)~
+~
+9 603980036 0 0 32769 107
+-600~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8609
+psi containment medallion dalos~
+psionicist Containment Medallion of Dalos~
+(no description)~
+~
+9 536871169 0 0 5 0
+-600~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8610
+cape sin eternal~
+the Cape of Eternal Sin~
+(no description)~
+~
+9 536871169 0 0 1025 107
+-600~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8611
+infinity mark thallin~
+an Infinity Sign~
+(no description)~
+~
+9 570425622 0 0 4097 107
+-600~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#8612
+chaon Blade of the Third Army~
+chaon Blade of the Third Army~
+(no description)~
+~
+5 100663298 0 0 8193 100
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+5 20
+A
+3 20
+A
+2 20
+A
+4 20
+A
+1 20
+A
+19 1000
+A
+18 1000
+#8700
+A Sword of Life Stealing~
+sword of life stealing~
+A hungry sword~
+~
+5 369115136 0 0 8193 110
+0~ 0~ 0~ 11~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+108 -1
+A
+111 -1
+A
+18 1000
+A
+17 -1000
+A
+13 30000
+A
+105 -1
+A
+19 250
+#0
+
+
+
+#ROOMDATA
+#8600
+On the Stairs to the Temple.~
+You stand on a large set of stairs made from solid granite stone. The
+stairs are smooth and worn with age but command an air of greatness.
+Rising high to your north is the Temple of Shadows, the greatest temple
+in all the realms. Its great pyramid shape make it a grand and spectacular
+view. To the south is the southern part of the city where the docks and
+more run down section of town is.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8778
+D2
+~
+~
+0 -1 8601
+S
+#8601
+Fox Street.~
+You stand on the notorius Fox street. Many people crowd around you in
+old tattered clothing. Many smell of the sea and months of no bathing.
+The air itself smells of fish, breads, and many interesting smells 
+including the ocean. A cool breeze touches your skin. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8600
+D1
+~
+door~
+1 -1 8603
+D2
+~
+~
+0 -1 8605
+D3
+~
+door~
+1 -1 8602
+S
+#8602
+Noblemans Home.~
+This room is very richly decorated. A high arched ceiling is over your
+head. Gold and Ivory line many of the items in this room including the
+table and chairs. Fine rugs and tapestries cover the floors and walls of
+this elaborte room. A large desk sits in the corner of the room awaiting
+the nobleman who owns it to return.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8601
+S
+#8603
+A Noblemans Home.~
+You stand in a fine noblemans home. A large fireplace stands in the 
+northern section of the room where a warm fire burns. In front of
+the fireplace is a large llama rug. On the walls are the stuffed heads
+of various creatures of the realms including a white stag. The nobleman
+who lives here must be a hunter or adventurer.
+~
+0 0 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8601
+S
+#8604
+A Cozy Home.~
+You stand in a small cozy room. A small bed of straw rests against the
+western wall. Brooms and various other cleaning supplies lie scattered
+about the room. Pictures of children and other people line the walls of
+this home. The wooden floor creaks as you walk on it.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8605
+S
+#8605
+Fox Street.~
+Standing on Fox street you notice that the street is made from red 
+brick. A old stone and timber building lies to your east. A small
+wooden home is to your west. People seem to hurry by you on this part
+of the street keeping well away from the old building to your east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8601
+D1
+~
+~
+0 -1 8606
+D2
+~
+~
+0 -1 8608
+D3
+~
+door~
+1 -1 8604
+S
+#8606
+The Old Xoblob Shop.~
+This is a very curious shop. Its known for its trophies of battle, 
+adventuring bands, and exotic, faraway places. From drow sculptures to
+the huge, eyeless, stuffed beholder that overhangs everything, the shop
+is crammed with an untidy assortment of blades, treasure maps, coils of
+rope hundreds of feet long, statuettes of forgotten make and mysterious
+origin, and more. The shop is named for the beholder; killed by the
+proprietor in single combat long ago. Xoblob is all he could pronounce
+of its name.
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8605
+S
+#8607
+A Sailors Home.~
+This small home smells strongly of the ocean. The mantle over the glowing
+fireplace contains many small model ships in bottles. Hanging over the
+mantle is a huge sea serpent head with a long tongue and yellow slitted
+eyes. The floor is wooden and there is a quant table and chair in the
+northern part of the room. A small bed is next to the door.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8608
+S
+#8608
+Fox Street.~
+This part of Fox street is crowded with people. Some of the red bricks
+that the road is made from are cracked. A quant little home is to the
+west while a tall brick building is standing to the east. A sign hangs
+over the building, gently swaying in the wind. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8605
+D1
+~
+door~
+1 -1 8609
+D2
+~
+~
+0 -1 8613
+D3
+~
+door~
+1 -1 8607
+S
+#8609
+Selchoun's Sundries Shop.~
+As you stand in the shop you notice how clean it is. The floor has been
+swept recently as there is no dirt anywhere on the floor to be found. 
+The counters are dust free and even the glass counter is finger-print
+free. The room is covered in touristy items such as the small shield
+behind that counter that reads, "I saw Shadow City and survived!"
+~
+0 0 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8608
+S
+#8610
+Augurer Training Grounds.~
+Your in a small courtyard where you may train and learn new things. 
+The courtyard is surrounded on the north, west, and south sides by
+brick homes. The large Augurer's Guildhouse entrance is to your east.
+All around you are other Augurer's training in battle for the city
+outside these walls.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8611
+S
+#8611
+Augurer's Guildhouse.~
+You stand in a large theatre. Many Augurers sit in various booths or
+at elaborate wooden tables refelcting on the day. Upon the stage to 
+the north a group of Augurers perform with musical instraments and
+sing ballads. You are surrounded by people like yourself. Each
+Augurer here is very unique and very independant.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+0 -1 8617
+D3
+~
+~
+0 -1 8610
+S
+#8612
+A Small Home.~
+This small home is very unremarkable. The floor is wooden and the roof
+is made out of thatch. A small fire burns in the small fireplace in the
+south part of the room. The smells of cooking deer floats in the air
+and you see a small cooking pot boiling over the fire. 
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8613
+S
+#8613
+Fox Street.~
+High to the north the pyramid that is called the Shadow Temple rises
+high above the city. You are directly in the middle of Fox street.
+Not far to the south are the famous docks and the Ocean. Two small
+homes are to your west and east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8608
+D1
+~
+door~
+1 -1 8614
+D2
+~
+~
+0 -1 8619
+D3
+~
+door~
+1 -1 8612
+S
+#8614
+A Divine House.~
+The room around you is magnificent. Beautiful works of art surround
+you. A large statue that some say is of Ao the god of the gods stands
+proudly in the center of this divine place. It is said that if you speak
+to Ao in this room he can hear you. 
+~
+0 0 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8613
+S
+#8615
+Dragonscale Shields.~
+The floor to this shop is made from old and creaky floorboards. The
+strong smell of sweat and molten fire dominates this place. A huge
+fire burns in the wall to the north. The place is very hot and large
+pictures of many dragons hang on the walls. The most dominating feature
+of this place stands out though...The HUGE scales of dragons hanging 
+behind the counter to your east.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+17 -1 8621
+S
+#8616
+Madam Moraine's.~
+This grand place is very strange and unique. There are various candles
+of many shapes and sizes burning throughout the room. A large oval
+tables dominates the center of the room where a large crystal balls
+resides in the middle of the oak table. Large beads hang from the 
+entranceway and the smells of incense are heavy in this room. A large
+cabinet is entirely covering the south wall.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8617
+D2
+~
+cabinet~
+0 8600 8623
+S
+#8617
+Corner of Prowl and Skull.~
+This part of the street echos with the soothing sounds of music. The
+music seems to be strong from this part of the street. A lone flute
+sings sweetly through the air above all the rest of this superb music.
+Various people have their eyes closed as they listen to the music here.
+A large building is to your north but there isn't any visible doorway.
+To your west is a run down shop. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+wall~
+0 -1 8611
+D1
+~
+~
+0 -1 8618
+D2
+~
+~
+0 -1 8624
+D3
+~
+door~
+1 -1 8616
+S
+#8618
+The Avenue of Skulls.~
+Standing on this street you see many intricate skulls carved into the
+stone ground here. The skulls are not in any certain formation but
+rather line the street chaoticly. The side of a large home blocks your
+way north and the side of a warehouse blocks the way to the south.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8619
+D3
+~
+~
+0 -1 8617
+S
+#8619
+Fox Street.~
+The smell of the ocean gets stronger from this part of the street. The
+street continues north and south. Faint sounds of pleasant music are
+carried by the wind to the west. It sounds like a flute. Armed warriors
+and various other adventurers line the roads to the east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8613
+D1
+~
+~
+0 -1 8620
+D2
+~
+~
+0 -1 8626
+D3
+~
+~
+0 -1 8618
+S
+#8620
+The Avenue of Skulls.~
+Standing on this street you see many intricate skulls carved into the
+stone ground here. The skulls are not in any certain formation but
+rather line the street chaoticly. The side of a large home blocks your
+way north and the side of a warehouse blocks the way to the south.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8621
+D3
+~
+~
+0 -1 8619
+S
+#8621
+Corner of Lone and Skull.~
+The skulls of the street are more plentiful on this section of the 
+road. Warm heat blows towards you from the shop to the north. A
+large sign hangs from the short building to the north. The side of
+a building blocks your way to the east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8615
+D2
+~
+~
+0 -1 8628
+D3
+~
+~
+0 -1 8620
+S
+#8622
+Gelio's Store Room.~
+This room is lit by a glowing fire burning in a small hearth. Large fur
+rugs line the floor of this elaborate room. A large desk with papers
+scattered all across it sits in the corner of the room. On the walls
+are many daggers which are displayed proudly. 
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+81 -1 8629
+S
+#8623
+A Secret Summoning Chamber.~
+A large pentagram rests on the floor of this room. It is traced in 
+red and has mystic symbols engraved inside each point. At the top of
+each point rests a single white candle slowly burning. Finely woven
+tapistries line the walls all around you. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+cabinet~
+0 8600 8616
+S
+#8624
+The Prowl.~
+This short alley is said to be the favorite hunting ground of a pair
+of skeletal hands that strangle folk from behind, leaving wither-scars
+graven deep into the victims' throats where each finger has been. The
+alley itself was named for the acts of an eccentric nobleman who used
+to loose his pet panthers to stalk around it, terrorizing the neighborhood
+(until one of the cats grew exasperated - or just hungry - one day, and
+ate him!). Some folk who have glanced into this alley at night but have
+not entered it have reported seeing two points of light close together
+in the air, like floating, glowing eyes. A large warehouse stands to
+your east and the wall of a shop blocks the way to the west.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8617
+D1
+~
+door~
+1 -1 8625
+D2
+~
+~
+0 -1 8631
+S
+#8625
+A Large Warehouse.~
+The warehouse is huge and uninviting. Rows and rows of wooden shelves
+enforced by steel beams tower over you and surround you as well. The
+sounds of your footsteps echo when you walk in this place. It smells
+damp and at the same time strongly of the ocean.
+~
+0 0 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8624
+S
+#8626
+Fox Street.~
+The strong scent of the ocean hangs in the air. The sound of gulls can
+be heard as well as the sounds of waves breaking on the shore not too
+far from here. A huge gate stands to the south where outside the gate
+is the ocean and docks. The backs of two large warehouses block your way
+to the west and the east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8619
+D2
+~
+~
+0 -1 8633
+S
+#8627
+A Large Warehouse.~
+The warehouse is huge and uninviting. Rows and rows of wooden shelves
+enforced by steel beams tower oever you and surround you as well. The
+sounds of your footsteps echo when you walk in this place. It smells
+damp and at the same time strongly of the ocean.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8628
+S
+#8628
+Lone Alleyway.~
+This short alley was named for all the lone adventurers coming through
+this part of town. It seems that it's the favorite alley for theives to
+travel through. The air is quiet here and a large building stands before
+you to the west. Another grand building stands to your east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8621
+D1
+~
+door~
+1 -1 8629
+D2
+~
+~
+0 -1 8635
+D3
+~
+door~
+1 -1 8627
+S
+#8629
+Gelio's Fine Daggers.~
+The floorboards of this shop are well polished and in wonderful shape.
+Many daggers of various shape and size are proudly displayed on the
+walls and in the counters of this shop. The counters are very large 
+and made from oak and glass. A large bell is on the main counter to 
+your right. A large doorway stands in the northern part of the room.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+81 -1 8622
+D3
+~
+door~
+17 -1 8628
+S
+#8630
+Tamara's Bakery.~
+The room smells heavilly of fine baked breads and goods. Large pans
+lie scattered behind the counter to your left. The counter displays 
+various breads and baked items. The floor is covered in flour and 
+dirt. Pictures of muffins of many flavors are hung carefuly on the
+wall.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8631
+S
+#8631
+Corner of Prowl and Smoke.~
+The smells of all kinds of delicious food fills your nose on this part
+of the street. A bakery stands to your west and a feasthall stands to
+the south. Many people crowd you in order to get into the feasthall or
+the bakery. Everything smells so wonderful.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8624
+D1
+~
+~
+0 -1 8632
+D2
+~
+door~
+17 -1 8638
+D3
+~
+door~
+17 -1 8630
+S
+#8632
+Smoke Street.~
+This is perhaps one of the strangest streets known to the realms. Large
+pillars of smoke waft up from the cracks in the stone street. The stones
+themselves are smooth showing that this is a heavily traveled road. The
+side of a warehouse blocks your way north while the side of a building 
+blocks the way south.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8633
+D3
+~
+~
+0 -1 8631
+S
+#8633
+Before the Gates.~
+A huge pair of iron gates rise high in the air to the south. They are
+raised so that people may enter and go as they choose. The gate itself
+is thick and the bars are ended in fine points. Large stone blocks
+support it and decorate its archway. The strong smell of the ocean
+blows in from the south through the gate.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8626
+D1
+~
+~
+0 -1 8634
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 -1 8632
+S
+#8634
+Smoke Street.~
+This is perhaps one of the strangest streets known to the realms. Large
+pillars of smoke waft up from the cracks in the stone street. The stones
+themselves are smooth showing that this is a heavily traveled road. The
+side of a warehouse blocks your way north while the side of the Bloody
+Fist blocks the way south.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8635
+D3
+~
+~
+0 -1 8633
+S
+#8635
+Corner of Lone and Smoke.~
+The street here is stained with smoke as well as blood. The sounds of
+rowdy men and women can be heard coming from the Bloody Fist tavern to
+the east. The stones in the street are cracked in places as well. The
+smell of stale beer lingers in the air as people hurry by you to avoid
+the tavern to the east. The tavern wraps around and its walls are also
+to your south. Its quite an immense place.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8628
+D1
+~
+door~
+3 -1 8636
+D3
+~
+~
+0 -1 8634
+S
+#8636
+The Bloody Fist.~
+This large Tavern is known well for its bad reputation as perhaps one
+of the most dangerous places in the city. It is a fact that at least 
+ten fights break out here a night. Its a dreadful place filled with
+theives and mercenaries. The floor is stained with blood and stale 
+beer. Cheap wooden tables and chairs line the room. Even the bar itself
+is poorly constucted of wood. A large steel doorway stands to the 
+south of the room. Many tables line the walls close to this door.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+19 -1 8643
+D3
+~
+door~
+19 -1 8635
+S
+>enter_prog ~
+0
+~
+>exit_prog south~
+0
+if class($n) == thief
+say Welcome to our little dwelling.  Enjoy your stay with us $n.
+else
+say You can not enter this room $n.  You should no better than to snoop around here!
+growl
+~
+|
+#8637
+Private Dinner Room.~
+A huge dining table dominates the center of this finely decorated room.
+Large woven tapiestries hang on the walls and a large crystal chandiler
+hangs from the ceiling. Tall leather and lush chairs line the table.
+The room is very eloquately decorated. Large torches line the walls
+in almost every location of the room making it well lit.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8638
+S
+#8638
+The Jade Dancer.~
+The strong smells of a feasthall assult your nose. The smells of mutton
+and wine. The floor is littered with peanut shells and various other
+table scraps. Many large tables acomidate the room. It is here that you
+may come and enjoy yourself. A large stage fills the northern part of the
+room where the establishment received its name. The stage is filled with
+dancers wearing jade necklaces and jewlery.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8631
+D3
+~
+door~
+81 -1 8637
+S
+#8639
+A Guard House.~
+The floors here are spotless. Huge bunkbeds line the walls. At the 
+foot of each bed is a wooden chest. The strong smell of sweat and of
+men fills the room. The room is rather unremarkable other than how clean
+and tidy it is.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 0 8640
+S
+#8640
+Inside the Gates~
+The large iron gate towers to your north and south. Large stone arches
+are high above you. The iron bars are round and end in sharp wicked points.
+The gate encloses you here. The guardhouses are to the east and the west.
+The salty smell of the ocean assults you nose here as do the rhytmic sounds
+of the ocean to the south. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 0 8633
+D1
+~
+~
+0 0 8641
+D2
+~
+~
+0 0 10134
+D3
+~
+~
+0 0 8639
+S
+#8641
+A Guard House.~
+The floors here are spotless. Huge bunkbeds line the walls. At the
+foot of each bed is a wooden chest. The strong smell of sweat and of
+men fills the room. The room is rather unremarkable other than how clean
+and tidy it is.
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 0 8640
+S
+#8642
+Thieves Training Room.~
+The room is large and many doorframes line the room complete with
+a working door. It is here that thieves may come and practice picking
+locks. Ropes also hang from the ceiling for your climbing pleasure.
+Elsewhere in the room the sounds of sparring with fist and dagger 
+can be heard.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8643
+S
+#8643
+Thieves Gambling Hall.~
+This portion of the Tavern was designed for Thieves. Many gambling
+tables line the room. A large dagger is painted on the wall to your
+right. The tip of the dagger is covered in blood. Thieves of all races
+gather here to steal from each other and to trade secrets.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+3 -1 8636
+D3
+~
+door~
+1 -1 8642
+S
+#8644
+On the Stairs to the Temple.~
+You stand on a large set of stairs made from solid granite stone. The 
+stairs are smooth and worn with age but command an air of greatness.
+Rising high to your west is the Temple of Shadows, the greatest temple
+in all the realms. Its great pyramid shape make it a grand and spectacular
+view. Many grand shops await you on the east side of the city.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8645
+D3
+~
+~
+0 -1 8770
+S
+#8645
+The High Road.~
+A gentle wind blows softly here. The air is so sweet and pure. The smells
+of the city fill your nose, from the fine leathers to the fresh baked
+bread. Two large brick homes lie to your north and south. Not far to your
+east is the city gates where many people enter and leave the city.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8646
+D1
+~
+~
+0 -1 8649
+D2
+~
+door~
+1 -1 8647
+D3
+~
+~
+0 -1 8644
+S
+#8646
+A Nobleman's Home.~
+The soft sound of beautiful music whispers into your ears. A pair of
+magical torches burn with a purple fire on each side of the doorway
+to the south. The room is decorated with plush furniture and lavish
+tapestries. A small fire burns in the fireplace to the right.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8645
+S
+#8647
+A Nobleman's Home.~
+Large tapestries depecting the downfall of New Midgaard hang on
+the walls of this home. Sitting throughout the room are various
+plush couches and pieces of furniture. There are small plants
+and sculptures of strange things in the room as well.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8645
+S
+#8648
+A Warriors Home.~
+A strong pungent odor assults your nose. It smells of heavy sweat and
+rotting food. Hundreds of trophies sit atop the mantle over the fireless
+fireplace to the left. A huge stuffed owlbear stands to the right towering
+beside the door. In the center of the room is a beat up couch.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8649
+S
+#8649
+The High Road.~
+The Temple of Shadows rises not far to the west. People walk quietly
+around you smiling as they go about their daily buisness. Large warriors
+and adventurers of all kinds enter and leave through the gate not far to
+your east. A large wooden home stands proudly to your north while a
+house made from stone lies to your south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8648
+D1
+~
+~
+0 -1 8662
+D3
+~
+~
+0 -1 8645
+S
+#8650
+A Strange Room.~
+A large elm tree magically grows in the center of this round room. How
+very odd considering that the floor is stone and there is a high roof
+overhead. Not a single beam of sunlight can even enter this room. A 
+few branches contain a small bed big enough for a pixie. 
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8653
+S
+#8651
+Caravan Street.~
+The long dirt road called caravan street looms before you. The street
+has a few places where dirt becomes mud puddle and mud puddle makes
+way for horse dung. Wagon marks line this street frequently as if in heavy
+use. Perhaps that is why its called Caravan street. The side of a stone
+home blocks your way west while the side of the guard house stands 
+proudly to your east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8662
+D2
+~
+~
+0 -1 8654
+S
+#8652
+Guard House.~
+The guardhouse is filled with many rows of bunkbeds. Each bed is
+neatly made and pulled so tight against the bed that you could
+bounce a gold coin off of it. The room smells of sweaty men and
+boot polish. Rows of weapon cabinets also line the room. A small
+doorway stands to your north.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8663
+S
+#8653
+House of Katlyn.~
+This room resembles a miniature castle. Large stones fill the walls
+and footsteps have a way of echoing in this room. The whole room
+glows with a blue hue indicating that its magical in nature. Large
+swords cross high above the doorway to the north.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8650
+D1
+~
+door~
+1 -1 8654
+S
+#8654
+Caravan Street.~
+This section of the street is very muddy. The loud sounds of metal on
+metal rings loudly in the air. A very tall building to the west is
+home to famous shields. The tall building to the east is the home to
+some of the best armor in the realms. Huge armed warriors enter these
+shops frequently. More beastly warriors make their way south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8651
+D1
+~
+door~
+1 -1 8655
+D2
+~
+~
+0 -1 8657
+D3
+~
+door~
+1 -1 8653
+S
+#8655
+Nalathar's Fine Armory.~
+The shop is amazing. Everywhere stands full suits of armor proudly
+on display. Some suits of armor actually hang from the ceiling! The
+counter is very curious as it is made from shining plate armor. 
+The floor is made from polished stone and where you can make out
+the ceiling you see that it is very tall.
+~
+0 0 0 1
+Rd     0
+D3
+~
+door~
+17 -1 8654
+S
+#8656
+The Hammer and the Helm.~
+This place is cheerfully noisy - a sort of brawling "fun house" for
+warriors and pirates. If you want to hurl people into tables or punch
+them through rails, this is the place to come and do it. Just watch
+out for all the others waiting to do it to you. A tall steel bar
+stands defiantly to the left where tankards of ale are served. A 
+doorway leads to the south.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8657
+D2
+~
+door~
+17 -1 8659
+S
+#8657
+Caravan Street.~
+The street ends abrubtly here with a large wall to your south. A huge
+Tavern stands to the west. The building is tall and is made from fine
+brown wooden beams and small round stones. Merry music rises from the
+tavern and the sounds of drunken warriors echos in your ears. Smoke
+billows out of the chimney of the small shop to the east. The sound of
+a hammer on anvil rings from that building.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8654
+D1
+~
+door~
+1 -1 8658
+D3
+~
+door~
+1 -1 8656
+S
+#8658
+Optym's Blades.~
+A large anvil stands in the center of the room. It is merly a fine 
+display of Optym's first Anvil. A large sword is embeded inside
+the anvil. Some say a powerful wizard placed it there long ago
+in the memory of a world he was wisked away from during a magical
+battle. A large counter resides not far in front of you where 
+behind it are some fine swords. A large bookshelf is to the south.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+81 -1 8661
+D3
+~
+door~
+17 -1 8657
+S
+#8659
+Warrior Trophy Room.~
+This room is filled with many trophies from tournyments that have
+been conducted throughout the realms. A magical harp floats in the
+air playing soothing ballads while an unseen voice sings of brave
+hero's of the shadow realms. There is a large door to the east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8656
+D1
+~
+~
+0 -1 8660
+S
+#8660
+Warrior Training Grounds.~
+This is a very large and open room. It is filled with many warriors who
+are sparing with each other to hone their skills. Some spar with weapons
+while some with bare hands. There are the symbols for every god in this
+room to give the warriors who come to train here more strength. 
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8659
+S
+#8661
+Optym's Home.~
+A lantern burns brightly in this small room. A magical light illuminates
+a solid gold anvil in the center of the room. Strange runes adorn the
+anvil. A large wooden desk with papers scattered all over it is in
+the southern part of the room while a large bed sits to the left.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+81 -1 8658
+S
+#8662
+The High Road.~
+This part of the High road is the heart of the street. It is where the
+infamous Caravan street touches it to the north and south. Huge men
+in blazing armor make their way frequently to the south, while other
+people move about their buisness to the north or on their way to pray
+at the Temple of Shadows.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8665
+D1
+~
+~
+0 -1 8663
+D2
+~
+~
+0 -1 8651
+D3
+~
+~
+0 -1 8649
+S
+#8663
+The High Road.~
+Towering before you to the east are the huge gates that lead outside 
+of this city. Armed guardsmen enter and exit from the buildings to 
+the north and the south while the gate guardsmen to the east look 
+people over as they enter and leave the city. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8666
+D1
+~
+~
+0 -1 8664
+D2
+~
+door~
+1 -1 8652
+D3
+~
+~
+0 -1 8662
+S
+#8664
+Inside the Gates.~
+You stand inside the eastern gates of the city of Shadows. The huge
+gate towers above you on the east and west sides. Its long metal bars
+end in wicked points, sharp enough to tear a giant in half if the gate
+were to fall on him. You hear the bustling sound of the thriving city
+to the west. 
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 0 26001
+D3
+~
+~
+0 -1 8663
+S
+#8665
+Caravan Street.~
+The long dirt road called caravan street looms before you. The street
+has a few places where dirt becomes mud puddle and mud puddle makes way
+for horse dung. Wagon marks line this street frequently as if in heavy
+use. Perhaps that is why its called Caravan street. The side of a wooden
+building rises to your west while the side of the guard house stands 
+proudly to your east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8668
+D2
+~
+~
+0 -1 8662
+S
+#8666
+Guard House.~
+The guardhouse is filled with many rows of bunkbeds. Each bed is 
+neatly made and pulled so tight against the bed that you could 
+bounce a gold coin off of it. The room smells of sweaty men and
+boot polish. Rows of weapon cabinets also line the room. A small doorway
+is standing to the south.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8663
+S
+#8667
+Dornsar's Leathers.~
+This room has a very high ceiling. The floor is made from fine polished
+wood. A large oaken counter with a glass top and glass front stands
+in front of you. A small rack of leather shirts and various other
+things stand on display on wooden dummies to the left. It smells very
+strongly of new leather in this room.
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8668
+S
+#8668
+Caravan Street.~
+The tracks on this section of the street are more deep and some contain
+water. The fine smell of new leather fills your nose on this part of
+the street. A small shop stands to your west. Its sign gently swaying
+in the wind. A large building is to the east. You see a big window
+with a books on display inside. A sign also hangs from this building.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8671
+D1
+~
+door~
+1 -1 8669
+D2
+~
+~
+0 -1 8665
+D3
+~
+door~
+1 -1 8667
+S
+#8669
+Serpentil Books & Folios.~
+The shop is very dark and dusty. Tall deep-hued bookshelves line the
+walls. Where you can see the walls you see wooden paneling. The only
+light in this room comes from magical glowing globes of light that
+drift about the shop. There is a small desk to your left which have 
+three chairs around it. There are so many books in this room many
+just piles on the floor since the shelves are overstocked.
+~
+0 0 0 1
+Rd     0
+D0
+~
+bookshelf~
+0 -1 8672
+D3
+~
+door~
+17 -1 8668
+S
+#8670
+A Small Home.~
+This is a very small, but cozy home. The floor is wooden and the roof is
+made out of thatch. A small fire slowly burns and crackles in the 
+fireplace to the south. The wonderful smell of vegetable soup lingers
+in the air as it cooks in a small pot over the fire. 
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8671
+S
+#8671
+Caravan Street.~
+The wagon tracks end on this section of the street. Standing to your
+north rises a tall wood and stone building. It is covered in small
+intricate designes of currancy throughout the realms. A lone building
+stands oodly to the northeast. The side of the bookstore stands to your
+east while to the west is a small home.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8674
+D2
+~
+~
+0 -1 8668
+D3
+~
+door~
+1 -1 8670
+S
+#8672
+Jannaxil's Home.~
+This backroom is home to the famous Jannaxil. Various bookshelves line
+the room filled with very rare and wonderous tidbits of information
+or very rare and hard to find spells. A large desk sits in the corner
+of the room where a small tome is open. A small bed rests in the lefthand
+corner of the room opposite the desk. 
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+0 -1 8669
+S
+#8673
+Golem Back Room.~
+This is a very large room. There are special tables set up all across
+the room for the very rich to gamble at. Various card games and dice
+games are taking place all around you. A large chopping block stands 
+proudly in the southern part of the room. Those who fail to pay their
+debts simply get taken to the chopping block and lose a various body
+part. Every now and then someone will actually lose their head!
+~
+0 0 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8674
+S
+#8674
+The Gambling Golem.~
+The room is filled with laughter and smoke. People of all races and
+classes visit this famous gambling house. Large tables designed for
+cards and dice games are spread out before you. Large round wheels 
+turn landing on special red or black numbers where people win money.
+A large brass door stands to the west.
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+17 -1 8671
+D3
+~
+door~
+17 -1 8673
+S
+#8675
+Aknaten's Home.~
+This is a very unique home. Large statues of strange looking people
+wearing robes and carrying ankh's stand around the room. A large 
+picture stands proudly on the north wall of a large eye. In common
+lettering under the eye are the words, "The Eye of Ra." 
+~
+0 4 0 1
+Rd     0
+S
+#8676
+On the Stairs to the Temple.~
+The steps of the temple are made of smooth polished marble. There are
+small red and blue bolts of lightning shimmering inside the steps. The
+steps glow with divine magic. Many people in long flowing robes dressed
+as mages walk about to the west. Rising high above you to the east is 
+the famed Temple of Shadows. 
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8766
+D3
+~
+~
+0 -1 8677
+S
+#8677
+The High Road.~
+The road here is made of some strange material. It's some kind of
+hard polished stone, but its glowing blue! Most of the mages
+of the city seem to take great pride in this road. High above you
+to the east is a great pyramid. A large brick home stands proudly
+to the north, while to the south is a wall of a home.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8678
+D1
+~
+~
+0 -1 8676
+D3
+~
+~
+0 -1 8680
+S
+#8678
+Nobleman's Home.~
+High vaulted ceilings and plush red rugs mark this home as one of
+a nobleman. A large crstal vase stands on a marble stand to the right.
+A large leather couch surrounded by mid sized plants sits in front of
+you. A large oak table and chairs rest against the wall to your left.
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8677
+S
+#8679
+Black Hand Meeting Room.~
+The room radiates with powerful magic. The sounds of rhythmic chanting
+echos about the room. You see enscriptions of magic etched upon the
+damn cave-like walls of the room. The enscriptions glow with an errie
+red. The floor of the room is broken and uneven and a large 
+pentagram enclosed by a circle marks this room as evil. 
+~
+0 4 0 1
+Rd     0
+D3
+~
+wall~
+0 -1 8681
+S
+#8680
+The High Road.~
+The strange road continues to the west and east. The road is still
+made from the hard polished stone but now it seems to be glowing
+red. You hear the sounds of many people arguing over prices
+from the tall stone and wood building to the south. A large wall 
+blocks the way to the north.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8677
+D2
+~
+door~
+1 -1 8681
+D3
+~
+~
+0 -1 8683
+S
+#8681
+Hasaan's Commissions.~
+The floorboards creak noisily in this room. A large desk sits in the
+corner of the room. A small plant sits beside the desk. Your eyes are
+immediatly drawn to the large bookcase standing to the east. The bookcase
+contains many various tomes of the realms, but none of any intrest except
+one long book simply titled, "The Black Hand." A small sign is hung
+on the wall here.
+~
+0 1028 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8680
+D1
+~
+bookcase~
+0 -1 8679
+S
+#8682
+Deven's Trading Company.~
+This store is regarded as one of the most respected and honest trading
+companys in the city. It is here you may get the supplies that you 
+can not find anywhere else. A small counter has been set up against
+the north wall and several items are on display throughout the room
+including a backpack and several torches and lanterns.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+17 -1 8698
+S
+#8683
+The High Road.~
+The road here connects with a road running north and south from here.
+This part of the road seems to be glowing green. Many mages and
+other magical people make their way north where you see the faint
+outline of a small tower. A lot of wagons and adventurers make their
+way on the southern road while the gate of the city rises in the 
+distance to the west.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8698
+D1
+~
+~
+0 -1 8680
+D2
+~
+~
+0 -1 8687
+D3
+~
+~
+0 -1 8684
+S
+#8684
+The High Road.~
+You stand on the strange street that serves as the main road. The 
+street is glowing purple. You see many mages making their way 
+east and then north. A large guard house stands to the north and
+the south of you. Rising high to the west is a large metalic gate
+that leads out of the city.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8697
+D1
+~
+~
+0 -1 8683
+D2
+~
+door~
+1 -1 8686
+D3
+~
+~
+0 -1 8685
+S
+#8685
+Inside the West Gate.~
+The large metalic bars of the gate rise menacingly high to your 
+west and east. The metalic bars are round and end in sharp wicked
+points. The sounds of the city echo through the thick walls of the
+gate to the east. Adventure awaits you beyond the gate to the west.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8684
+D3
+~
+~
+0 -1 2703
+S
+#8686
+Guard House.~
+This gueardhouse is filled with many rows of bunkbeds. Each bed is 
+neatly made and pulled so tight against the bed that you could 
+bounce a gold coin off of it. The room smells of sweaty men and
+boot polish. Rows of weapon cabinets also line the room. A small
+doorway stands to your north.
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8684
+S
+#8687
+Moonstar Ave.~
+The road shines with a heavely glow. It's as if you were looking at
+the glow of the moon. The wall of the guard house blocks your way
+west while the wall of some building blocks the way east. Many traders
+and other kinds of folks make their way along the streets to the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8683
+D2
+~
+~
+0 -1 8689
+S
+#8688
+Shadow Bank.~
+The room is very large and lavishly decorated. A long red carpet is
+in the center of the room making a path from the doorway to your east
+to the counter where the receptionist stands to your far left. A large
+steel doorway is closed shut to the south. It appears to be the banks
+vault. Several small desks dominate the room each a desktop of a very
+serious banker. A large sign is hung on the wall to your right.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8689
+D2
+~
+vault~
+81 -1 8691
+S
+#8689
+Moonstar Ave.~
+The road continues to glow brightly like the moon. People make their
+way all around you trading with each other in the streets or going
+about their daily buisness. The side of a building blocks your way
+to the east. A stone and wood building lies to the west. A small
+sign sways above the doorway to the west. 
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8687
+D2
+~
+~
+0 -1 8692
+D3
+~
+door~
+1 -1 8688
+S
+#8690
+Matt's Gambling Hall.~
+The room is filled with smoke and laughter. Men and women of all sorts
+sit around tables here chatting as they gamble. The tables are made
+from the finest marble in all the realms making this establishment
+a well respected place. Coins rattle from table to table as the 
+rich gamble and the local merchants exchange tales of the realms.
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8693
+S
+#8691
+The Bank Vault.~
+The room is made out of very thick solid steel beams. The air that
+comes into the room is fed from small vents coming in from below you
+but not big enough for anyone to crawl though. The vault itself is
+lined with thousands of deposit boxes, each with many valuables 
+located inside. The vault is very cold and damp.
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+81 -1 8688
+S
+#8692
+Moonstar Ave.~
+The radiant glow of the road continues here. Merchants flow into the
+alley to the east. The side of a building lies to the west. You hear
+the sounds of various animals from the south. Many people seem to
+be content in this part of the city.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8689
+D1
+~
+~
+0 -1 8693
+D2
+~
+door~
+1 -1 8694
+S
+#8693
+Jesters Court.~
+This is a very lively section of the city. Many comics, jesters, and
+actors, along with musicians come here to entertain people. The
+court is famous for its music and acting. It is rumored that this
+is the street where couples come to elope. A small building lies to
+the north and to the south lies another.
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8690
+D2
+~
+door~
+1 -1 8696
+D3
+~
+~
+0 -1 8692
+S
+#8694
+Helmstar's Stables and Pets.~
+The strong smell of exotic as well as normal pets enters your nose as
+you stand here. A small unremarkable wooden counter stands freely in 
+the center of the room. There are bits of Straw scattered about the 
+floor. A large haystack resides to the west. 
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8692
+S
+#8695
+Helmstar's Backroom.~
+This is a very unremarkable backroom where all of Helmstar's pets
+are kept for his selling. Large bundles of hay are scattered about
+the room and there are troughs full of water so that the animals
+can drink. A large wall encloses this whole room.
+~
+0 4 0 1
+Rd     0
+S
+#8696
+The Cart and Carriage.~
+This shop is very large and has on display a variety of different carts
+and carriages. This is said to be a favorite shop used by merchants when
+they are ready to embark upon the realms they come here to buy reliable
+transportation. The walls are bare and there is only a small desk in the
+corner of the room where the transactions of sales are made.
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8693
+S
+#8697
+Guard House.~
+This guardhouse is filled with many rows of bunkbeds. Each bed is 
+neatly made and pulled so tight against the bed that you could
+bounce a gold coin off of it. The room smells of sweaty men and
+boot polish. Rows of weapon cabinets also line the room. A small
+doorway stands to the south.
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8684
+S
+#8698
+Moonstar Ave.~
+The road shines with a heavenly glow. Its as if you were looking at
+the glow of the moon. All of the buildings around you glow with bright
+magical energy. The wall of the guard house is to the west while a tall
+brick building is standing to the east. A small sign sways back and forth
+in the wind.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8700
+D1
+~
+door~
+1 -1 8682
+D2
+~
+~
+0 -1 8683
+S
+#8699
+Mayor's Office.~
+This is a very large and lavish office filled with many fine things.
+A large oversized oak desk with a blue marble top sits in the corner
+of the west wall. The desk has many papers scattered all over it. The
+floor of the room is covered with light blue plush carpeting. There 
+are small plants in the room to give it a homely feel. A large 
+certificate is hung on the wall above the desk.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8700
+S
+#8700
+Moonstar Ave.~
+The road here continues to the north and south. Its radiant glow
+will illuminate even the darkest of nights. The buildings to your
+west and east glow with bright magical energy. A small sign is hung
+on the doorway to the west. To the east you see a plaque embeded on
+the wall next to the doorway of the stone building.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8703
+D1
+~
+door~
+1 -1 8701
+D2
+~
+~
+0 -1 8698
+D3
+~
+door~
+1 -1 8699
+S
+#8701
+The Cauldrin.~
+The smells of burning sulpher and various other minerals and herbs
+assults your nose in this shop. A large skeleten hangs from a small
+hook in the ceiling posed with its hands "welcoming" you to the store.
+A large cauldron sits in the center of the room, giving this shop its 
+name. Inside the cauldron is a bubbling mixture of some kind of magical
+potion. A large picture hangs on the northern wall.
+~
+0 4 0 1
+Rd     0
+D0
+~
+door~
+81 -1 8704
+D3
+~
+door~
+17 -1 8700
+S
+#8702
+Enchanted Works.~
+The beautiful and rhythmic chanting of a powerful magic spell fills 
+your ears in this shop. A large mirror stands behind the small 
+counter against the northern wall. The floor seems to be made of
+solid silver and shines brightly in the light given off by the two
+small torches on either side of the doorway to the east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8703
+S
+#8703
+Moonstar Ave.~
+The road here ends before a huge tower. The roads radiant heavenly 
+glow pales in comparison to the bright magical energy of the tower.
+The windows of the building to your south are drawn closed blocking
+view into its contents. The building to your west glows with magic
+and a small sign is hung above the doorway.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+17 -1 8706
+D2
+~
+~
+0 -1 8700
+D3
+~
+door~
+1 -1 8702
+S
+#8704
+Simon's Home.~
+You enter what appears to be a large labratory. Large beakers and 
+various other equipment fill the room. A small desk filled with various
+papers and parchments sits idly next to the counter that contains 
+all the lab equipment. The only thing that seems out of place in 
+this room is a large fluffy bed sit against the northern wall and
+the small fireplace in the east wall.
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+17 -1 8701
+S
+#8705
+Mage Labatory.~
+Large beakers and various other equipment line the tall wooden shelves
+of this room. There are fifteen to twenty small tables scattered 
+throughout the room. It is here that mages come to learn how to 
+brew, scribe, and even cast new spells. The walls are blackened by
+spells that have gone bad. 
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8706
+S
+#8706
+Mage Tower.~
+This tower is simply magnificent. You are surrounded by large circular
+walls and a low ceiling. It is rumored that there is more to this 
+tower than meets the eye. The loud sound of explosions comes from the
+western doorway. The small door to the east seems very quiet.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8707
+D2
+~
+door~
+17 -1 8703
+D3
+~
+door~
+1 -1 8705
+S
+#8707
+Mage Library.~
+You are in the greatest source of magical information in the whole 
+city save for one special shop. Rows and rows of bookcases line the
+room in a haphazard shape. Some books seem to even hover in the air
+taking care of themselves. Many mages wonder back and forth in this 
+library, some books floating over to them as if the books knew the
+mages wanted to read them. There are small reading tables all over 
+this library where one can sit down and read.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8706
+S
+#8708
+On the Stairs to the Temple.~
+The stairway to the temple is made from solid granite stone. The stairs
+are very smooth and worn with age but they are very magical and powerful.
+Rising high to the south is the Temple of Shadows, the greatest temple in
+all the realms. The pyramid that is the temple is simply a marvelous
+wonder. Stretching before you to the north is the northern section of
+this magnificent city.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8710
+D2
+~
+~
+0 -1 8758
+S
+#8709
+House of Knowledge.~
+You stand in a large room filled with many people standing here. A
+large board is suspended in the air floating where people come to
+read news of the realms and learn of plans of gods and goddesses.
+Many adventurers come here to publicly threaten or humiliate other 
+adventurers. A post office stands to the north where you may check
+your mail.
+~
+0 4 0 1
+Rd     0
+D0
+~
+~
+0 -1 8712
+D1
+~
+~
+0 -1 8710
+S
+#8710
+Fox Street.~
+This is the main road through the north part of the city. People roam
+the streets around you going about their buisness. Children play in
+the street and run around causing trouble. A large building is to the
+west where many townsfolk come out holding mail or laughing. A large
+brick home is to the east while this road continues to the north or
+goes south to the temple of shadows.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8713
+D1
+~
+door~
+1 -1 8711
+D2
+~
+~
+0 -1 8708
+D3
+~
+~
+0 -1 8709
+S
+#8711
+Nobleman's Home.~
+You are in a very high ranked noblemans home. A large fur rug sits on
+the floor next to the fireplace in the eastern wall. A lot of great
+sculptures fill the room. There is one of what appears to be a hooded
+elven figure wielding two scimitars crouched next to a panther. A few
+plants and other various things fill the home.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8710
+S
+#8712
+Shadow Post Office.~
+You stand in a large room where many people of the realms come to
+get their mail. A large counter with a window is to the north where
+you get your mail from. You see many people smiling as they read 
+their mail in this place. 
+~
+0 4 0 1
+Rd     0
+D2
+~
+~
+0 -1 8709
+S
+#8713
+Fox Street.~
+The road here is covered in bright red brick. A large glowing building
+pulses with a red light to the east. The windows of the post office
+are to the west. People of the city seem to steer clear of the eastern
+building for some unknown reason. Fox Street continues to the north 
+and to the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8716
+D1
+~
+door~
+1 -1 8714
+D2
+~
+~
+0 -1 8710
+S
+#8714
+Outer Plane of Information.~
+You are suddenly ripped out of the fabric of time itself. You are 
+suddenly in a room filled with hi tech shit. You are now in another
+world where things are not as they were before. This is where you
+may come to post notes about things that go on outside of the 
+role-playing mud. Post things such as bugs or requests or even 
+ideas or suggestions to improve the mud here.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8713
+S
+#8715
+Nobleman's Home.~
+You are in a finely decorated nobleman's home. A large oak table that
+could seat thirty people or more stands proudly off to the right. A 
+large chandiller hangs above the eloquant table. Fine oil paintings
+line the walls containing famous artists such as J.S.Lee and the
+great Tain Chas. In one painting you see a large white house. There
+is a door to the east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8716
+S
+#8716
+Fox Street.~
+You hear the sounds of music coming from the west. It sounds as if it is
+a lone flute playing enchanting melodys. The windows to the east of you
+provide you with a view of a small room within. The windows are clean and
+bright yellow curtains hang on the inside. Fox street continues to the 
+north where you can make out the golden gates and south where you can
+see the magnificent pyramid called the temple of shadows.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8721
+D2
+~
+~
+0 -1 8713
+D3
+~
+door~
+1 -1 8715
+S
+#8717
+A Comfortable Room.~
+You are in a very large and comfortable room. It is here that you may
+rest for the night or the day free from hassle from anyone. A large
+fluffy bed invites you over to it. A large dresser and washbin sit
+next to the bed. The window provides a wonderful view of the city
+outside. Lucky for you there is not a view of the graveyard outside.
+~
+0 4 0 1
+Rd     0
+S
+#8718
+The Crawling Spider.~
+This strange place has a mock underground decor done with plaster slurry
+and rock rubble. Glowing mosses and lichens have been placed on the walls
+and ceiling and are watered regularly. These, plus a few netted glowing
+globes, provide a dim light for the place. Stuffed spiders have been
+affixed to the ceiling or hang from threads. The waitresses, hired for
+their sensuous walks and love of male company, wear black bodysuits and
+masks to make them look evil. There are many cave mouths that open up
+off this floor.
+~
+0 4 0 1
+Rd     0
+D0
+~
+~
+0 -1 8725
+D1
+~
+~
+0 -1 8719
+S
+#8719
+The Crawling Spider Dancefloor.~
+This part of the tavern is still filled with the glowing moss and 
+stuffed spiders but patrons here dance on a large glowing dance 
+floor that looks like a glowing pond. A few small tables and chairs
+sit around the dancefloor so that spectators can watch some of the
+more drunken people in the room.
+~
+0 4 0 1
+Rd     0
+D3
+~
+~
+0 -1 8718
+S
+#8720
+The Blue Bottle.~
+You stand in a large, damp, room filled with huge barrels. Some barrels
+are larger than 15 feet tall! A large wooden sign is nailed to the north
+wall. You see a large desk against the north wall. This is where the 
+finest wine in all the realms is made. A doorway leads east out to Fox st.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8721
+S
+#8721
+Fox Street.~
+The street here becomes more crowded. You tend to have to squeeze through
+groups of people to get by. The windows to the east show a nice Inn of
+great quality. You see many men and women of high social class entering
+the shop to the west. A large sign is swaying in the wind over the shop.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8729
+D2
+~
+~
+0 -1 8716
+D3
+~
+door~
+1 -1 8720
+S
+#8722
+The Sleeping Dragon.~
+You are in a very well established Inn of the city. Tired travelers
+of the realms come here for a good nights rest free of the worrys of
+danger lurking nearby. Unfortunatly many folks are too frightened to
+stay here due to the graveyard just outside the walls. Rumor has it
+that a gold dragon is the owner of this fine establishment.
+~
+0 4 0 1
+Rd     0
+S
+#8723
+The Graveyard.~
+The fog rolls about your feet. There is still no sign of the sky above.
+A lone gravestone stands out here marking the grave of a once famous
+warrior. You see flowers resting on the ground next to this grave. 
+The sounds of crickets echos through the air. A large building block
+your way to the west while the graveyard continues north and east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8731
+D1
+~
+~
+0 -1 8724
+S
+#8724
+The Graveyard.~
+The fog here is thick as it dissolves under your feet. This corner of
+the graveyard is very silent and very dark. Looking down you notice a
+glowing red gravestone. This is the marker of a once great mage
+of the realms. The sounds of crickets buzzes in the air. A large gate
+wraps its way around you to the south and east blocking your way. The
+graveyard continues west and north.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8732
+D3
+~
+~
+0 -1 8723
+S
+#8725
+The Crawling Spider Cavern.~
+You are in a small alcove in this fine establishment. It is here that
+assassins and other adventurers can make deals in private or those
+who wish to remain alone in the dark to , well make out come. There
+is a large comfortable couch and table here for you to sit on or
+rest on while you drink or eat. 
+~
+0 4 0 1
+Rd     0
+D2
+~
+~
+0 -1 8718
+S
+#8726
+Ghost Walk.~
+The sounds of running staggering footsteps rings heavilly in your ears
+now. Looking all around you you do not see a single person running. 
+All the people seem to hurry down this street as fast as they can trying
+not to notice the ghostly sound of the footsteps. A Huge stone and wood
+building stands proudly to the south and the west. It is a huge corner
+building and its entrance is to the southwest. A dark street is to 
+the north of you. While Ghost walk contines back to the east.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8734
+D1
+~
+~
+0 -1 8728
+S
+#8728
+Ghost Walk.~
+This is a very strange street. The street is said to be named for the
+sounds that come from this street. Rumor has it that the sounds are from
+long ago when a jealous apprentice of a famous mage summoned one of 
+Dymeir's demons to destroy the mage. The mage met his death by the demon
+and now the street is haunted by the phantom sounds of running staggering
+footsteps. A tall wooden shop stands to the north while the windows of a
+shop is to the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8735
+D1
+~
+~
+0 -1 8729
+D3
+~
+~
+0 -1 8726
+S
+#8729
+Fox Street.~
+You are on a very busy intersection. People travel in all directions
+on this part of the road. It is here that Fox street meets up with
+the notorius Ghost Walk. Strange sounds come from the eastern road.
+You get a wonderful view of the great pyramid called the Temple of
+Shadows that lies not far to the south of here.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8736
+D1
+~
+~
+0 -1 8730
+D2
+~
+~
+0 -1 8721
+D3
+~
+~
+0 -1 8728
+S
+#8730
+Death Alley.~
+Fog rolls about your feet in this darkened alley. A large iron gate
+stands menacingly to the east. Through the iron bars you can make out
+the shapes of gravestones sticking out of the ground. A tall building
+stands to the north while a fancy looking Inn stands to the south. With
+the gate to the east, and the buildings to the north and south you get
+a sense of being trapped. You can barly make out the sky above you due
+to the heavy amount of fog here.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8731
+D3
+~
+~
+0 -1 8729
+S
+#8731
+Entrance into the Graveyard.~
+A thick fog rolls in around you hiding the sky above. Its as dark as
+the darkest night here. The sounds of crickets buzz in the air. The
+ground below your feet is soft. You see a large sign standing before
+you stuck into the ground. Large gravestones surround you to the north,
+the south, and to the east. The gate leading out of the graveyard is 
+to the west. The fog rolls around your feet as you move.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8739
+D1
+~
+~
+0 -1 8732
+D2
+~
+~
+0 -1 8723
+D3
+~
+~
+0 -1 8730
+S
+#8732
+The Graveyard.~
+The fog rolls about your ankles here. Tall wisps of fog seem to swirl
+about the base of the strange gravestone before you. Your not sure
+who or what kind of creature is buried underneith the strange marker.
+The marker is like a little statue of a demon. Its eyes seem to glow
+in the darkness of this place. A large iron fence blocks your way east
+while the graveyard continues to the west, north, and south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8740
+D2
+~
+~
+0 -1 8724
+D3
+~
+~
+0 -1 8731
+S
+#8733
+Thentavva's Boots.~
+You are in a narrow shop. There are large statues of frolicking nymphs
+and pegasi in the room. The strong smell of leather fills your nose. 
+All around you is an assortment of fine boots, and custom made shoes.
+A large counter sits in the northern part of the room. The counter
+displays high quality slippers, thigh-high sleek pointedtoed lady
+shoes, and even walking boots. The door is to the east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8734
+S
+#8734
+Shadow Alley.~
+This alley is very dark. There are many carved stone heads that adorn
+the buildings surrounding you. The carved heads are of both sexes and 
+of many races. The heads are so lifelike that some fanciful folk claim
+they are petrified, severed heads of once living beings. Its widely
+rumored in the city that the head speak aloud from time to time, uttering
+cryptic messages. There is a large shop to the west and a large wall
+adorned with heads to the east. Shadow Alley continues to the north 
+while you hear strange footsteps from the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8742
+D2
+~
+~
+0 -1 8726
+D3
+~
+door~
+1 -1 8733
+S
+#8735
+Christy's Fine Clothing.~
+You stand in a large shop filled with large racks of clothing. This
+is where nobles come to buy fine clothing such as robes and fine
+tunics for dining. A large counter is to the north of the room where
+the owner of the shop sits behind the counter reading a book. The
+door is to your south.
+~
+0 4 0 1
+Rd     0
+D2
+~
+door~
+17 -1 8728
+S
+#8736
+Fox Street.~
+The road here is dirty and well traveled. Certain spots of the road 
+reveal that below all the caked dirt and mud lies red brick. The side
+of a building blocks your way west. A large rundown home is to the 
+east. Its walls are crumbling with age and a large dull white fence
+surrounds the home. The road continues to the north and south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8744
+D1
+~
+door~
+1 -1 8738
+D2
+~
+~
+0 -1 8729
+S
+#8738
+An Abandoned Home.~
+You stand in a large abandoned home. There are decaying tapistries on
+the walls of this place. The rugs that cover the once grand polished
+wood floor are tattered and moth eaten. The windows are dull and very
+dirty. There is a large fireplace in the northern wall.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8736
+S
+#8739
+The Graveyard.~
+The fog seems to crawl along the ground here. It is very dark here as 
+if someone wants it that way. A large rounded gravestone stands before
+you and a large skull rests atop it. The sounds of crickets echos in
+the air. A clear message stands out on the gravestone. It reads, "A
+mighty Wizard was he, one who almost destroyed the gods themselves."
+The ground is stained red here, as if it was dried blood. A large Wall
+blocks your way to the west. The graveyard continues to the north and
+to the east. Large spiders crawl over the skull.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8746
+D1
+~
+~
+0 -1 8740
+D2
+~
+~
+0 -1 8731
+S
+#8740
+The Graveyard.~
+The fog lifts slightly here revealing a large mausoleum blocking the way
+to the north. This is clearly the side of the large structure. A large
+chipped gravestone rests at your feet. It looks as if someone has been
+here trying to desacrate this gravestone. All you can make out of the
+name on the stone is "C**A*ON". A rusty fence blocks your way to the 
+east while more graves surround you to the south and west.
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8732
+D3
+~
+~
+0 -1 8739
+S
+#8741
+Kessel's Repair Shop.~
+The room is very hot. A large anvil sits behind the counter right in
+front of you. There is a lot of space behind the counter where you
+see many apprentices and the strong owner of the shop, Kessel, fixing
+broken and damaged equipment and armor. The door is to the east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8742
+S
+#8742
+Shadow Alley.~
+The alley is dark and mysteriously quiet. The carved heads surrounding
+you that adorn the walls and shops seem to grin. People walk by you
+as they smile at you. A large shop stands to the west where a large
+sign hangs over the wooden doorway. The wall to the east is covered
+with grining heads. Shadow Alley continues to the north and the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8750
+D2
+~
+~
+0 -1 8734
+D3
+~
+door~
+1 -1 8741
+S
+#8743
+Rinthar's Wagonworks.~
+You stand in a well-known establishment of the city. This is the shop
+of an aging, gruff craftsman who seldom speaks. It is said that he is
+the best person in the city to fix broken wagons though. The room is 
+filled with tools and wheels for repairing wagons.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8744
+S
+#8744
+Before the Gates.~
+You are before the overwhelming northern gates of the city. As you look
+north, you see that walls round in an arch providing entrace through 
+them. Its within these arches that the gates are constructed. The grand
+gates can be lowered and be used as a jail if ever needed. The wonders
+of the city loom to the south. The wall of a large building is blocking
+your east and to the west you see many wagons sitting in front of a large
+brick building. It looks like many travelers are going into the building.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8752
+D2
+~
+~
+0 -1 8736
+D3
+~
+door~
+1 -1 8743
+S
+#8745
+Tool Shed.~
+You stand in an old crumbling tool shed. It wouldn't be wise to stay
+in this shed for too long, it could collapse at any moment. You can 
+see various holes that shine into the shed from the outside. There is
+nothing of value in this shed. The ground is covered with old rusty
+tools and smells of old garbage.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8746
+S
+#8746
+The Graveyard.~
+The fog here rolls away from the large marble mausoleum towering over
+you to the east. Its massive doorway towers over you menacingly. A small
+unmarked gravestone lays broken in pieces on the ground. A large amount
+of tracks leads to the doors of the mausoleum. A small shed stands to
+the west. The shed looks like its about to collapse. The graveyard
+continues to the north and to the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8754
+D1
+~
+door~
+17 -1 8748
+D2
+~
+~
+0 -1 8739
+D3
+~
+door~
+1 -1 8745
+S
+#8748
+Mausoleum.~
+The mausoleum is huge. Large torches are lit here lighting the room
+in an errie glow. This is the home of the vampire. A few vampires
+gather here discussing plans of world domination. The walls are all
+smooth and nothing remarkable is upon them. The room is cold to make
+you feel at home. A large arched door leads to the north, while 
+the doorway to the west leads back out to the graveyard.
+~
+0 4 0 1
+Rd     0
+D0
+~
+~
+0 -1 8755
+D3
+~
+door~
+1 -1 8746
+S
+#8749
+Imbryl's Fine Tobbacco.~
+The room is filled with shelves that contain various pipes and smoking
+products such as jackets for the rich and small unremarkable ashtrays
+to large extravagant ashtrays. There is a large glass counter in the
+northwest part of the room that contains various pipes and tobacco
+products. The air in the room is very smoky coming from the owner 
+of this small shop. The door is to your east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8750
+S
+#8750
+Shadow Alley.~
+This part of the alley has a mysterious fog that rolls about it. The
+carved heads on the walls seem to scream while some seem to just stare
+blankly at you. There is a large wall to the north filled with more
+head statues and one to the east. A large stone building rises to the 
+west where a sign creaks back and forth. Shadow Alley continues south.
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8742
+D3
+~
+door~
+1 -1 8749
+S
+#8751
+Guard House.~
+You stand in a large room filled with bunkbeds and large chests which
+lie at the foot of each bed. The beds are all neatly made and the 
+sheets are pulled snug against the matress. You see a locked cabinet
+against the north wall where all weapons are locked up. The room 
+smells of sweat and battle. The door is to your east.
+~
+0 4 0 1
+Rd     0
+D1
+~
+door~
+1 -1 8752
+S
+#8752
+The North Gates.~
+The large golden bars of the northern gates rise high above you to the
+south and north. Looking up you see that the bars of the gate in end
+sharp wicked points. The large buildings, which seem to be part of the 
+walls, to the west and east surround you. The high arched ceiling of this
+gate above you is enough to warrant fear to some who travel through 
+these gates.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8796
+D1
+~
+door~
+1 -1 8753
+D2
+~
+~
+0 -1 8744
+D3
+~
+door~
+1 -1 8751
+S
+#8753
+The Guard House.~
+You stand in a large room filled with bunkbeds and large chests which
+lie at the foot of each bed. The beds are all neatly made and the 
+sheets are pulled snug against the matress. You see a locked cabinet
+against the north wall where all weapons are locked up. The room 
+smells of sweat and battle. The door is to your west.
+~
+0 4 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8752
+S
+#8754
+The Graveyard.~
+The fog is very thick here hiding the large fence blocking your way
+to the north. A large stone wall blocks your way west while the smooth
+walls of the marble mausoleum blocks your way east. A tall dead tree
+sways in the wind towering over the small black gravestone here. The
+gravestone has a strange eye symbol engraved upon it. The graveyard
+continues to the south.
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8746
+S
+#8755
+Vampire Crypts.~
+You stand in the vampire crypts where you can get more powerful. The
+room is full of crypts. A few vampires look to each other and teach
+each other powerful magic and weapon skills. The room is lit by 
+burning torches on the walls. There is an arched doorway to the south.
+~
+0 4 0 1
+Rd     0
+D2
+~
+~
+0 -1 8748
+S
+#8756
+High Priest Office.~
+This is a very fine and lavish office filled with books and various
+other items of high value. A large ornate desk sits against the
+back wall where it is covered in paperwork. A large glowing globe
+fills the room with magical light. 
+~
+0 4 0 1
+Rd     0
+S
+#8757
+A Donation Chamber.~
+You stand in a large room full of unique items from all over
+the world. Feel free to help yourself to anything in this room.
+Please remember to donate any unused equipment that you do
+not need for those who need it.
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8762
+S
+#8758
+Entrance into Shadow Temple.~
+You stand before the Shadow Temple.  The very heart of this land.  This is the
+most sacred place in all the Realms.  Commoners from all towns come to this
+very place to worship their god.  People as far from the city of Thenia, New
+Thalos, and Malathar come here.  The temple is made from a fine white marble
+and looks more grand than anything you have ever seen.  The entrance to this
+place stands a towering 20 feet tall decorated with elaborate fabrics 
+representing the Immortals of the Realms.  To the south, you can enter this
+holy ground or head back to the City of Shadows to the north.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8708
+D2
+~
+~
+0 -1 8763
+S
+#8759
+Stone Stairway.~
+You stand at the base of an elaborate stairway. The steps are made of
+fine blue marble which looks to be very polished. Every now and then
+you see little bolts of white lightning crackle in the steps. This 
+must lead to a very powerful place indeed. 
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8760
+D4
+~
+~
+0 -1 8783
+S
+#8760
+Temple Hallway.~
+This is a very remarkable hallway. It is filled with various tapestrys
+along all the walls. The tapestrys have depictions of battles, and
+you also see tapestrys with pictures of the gods themselves on them.
+You stand on plush red carpet in this part of the hallway. A warm
+breeze blows in from the west. The hall continues to the south.
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8765
+D3
+~
+~
+0 -1 8759
+S
+#8761
+High Priest Office.~
+This is a very simple room. The high priest whose office this is must
+be a simple man or woman indeed. There is only one item of luxury in
+this entire room. It is a painting of all the immortals of these 
+realms. In the center is a god whom you do not recognise, but must
+be of great importance since he is in the middle.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8762
+S
+#8762
+Temple Hallway.~
+You are in a very richly decorated hallway. Large arched doorways
+are to the north, northwest and west. Each door marks the private
+room of a high priest. The hallway leads out to the Altar to your
+southeast. The floor is covered in a rich, plush, blue carpet. The
+room is lit by small magical globes of light hanging from the ceiling.
+~
+0 4 0 1
+Rd     0
+D0
+~
+~
+0 -1 8757
+D3
+~
+~
+0 -1 8761
+S
+#8763
+Inside the Temple.~
+You are now inside the great pyramid called the Temple of Shadows. The
+smooth white marble that surrounds you is glowing with an unearthly
+glow. It must have indeed been made by the immortals for its magic
+is apparent. Large gold tasseled poles displaying the flags of each
+god and goddess lines the walls. You may travel north to the northern
+part of the city or south to the altar.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8758
+D2
+~
+~
+0 -1 8768
+S
+#8764
+Temple Hallway.~
+The hallway is very well lit. A pair of magical globes float near the
+ceiling lighting the room. The floor is covered with a plush red carpet.
+All along the walls are tapestries. Some tapestries have pictures of
+clerics fighting powerful demons, while others simply have the emblem
+of a God or Goddess. The Hall continues to the east. You may go 
+to the southwest to return to the Altar.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8765
+S
+#8765
+Temple Hallway.~
+The hall continues to glow with the magic of the spheres glowing
+overhead. The walls here are bare and you see that they are the
+white marble of the pyramid. Etched on the stone here are the 
+names of the powerful from ages long ago. The floor is covered 
+in the plush red carpet. The Hall continues north and west.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8760
+D3
+~
+~
+0 -1 8764
+S
+#8766
+Entrance into Shadow Temple.~
+You stand just inside the great pyramid known as the Temple of 
+Shadows. The grand white marble walls draw your attention for
+they pulse with a great glow. High overhead you can make out
+the pulsing magic of the immortal clock. Its green balls of 
+magic radiate high into the air every ten minutes. You may
+enter the temple to your east or travel into the magical side
+of the western part of the city.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8767
+D3
+~
+~
+0 -1 8676
+S
+#8767
+Inside the Temple.~
+You are inside the great pyramid. The smooth marble here glows with
+supernatural power. Large arcane runes are displayed proudly on the
+sloping walls. Great statues stand to either side of you. They 
+appear to be human bodys with dogshaped heads. They hold out their
+arms towards you in a jesture of peace. You may go west to the 
+city or east towards the temple.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8768
+D3
+~
+~
+0 -1 8766
+S
+#8768
+Altar to the Gods.~
+You stand slightly off center in a magnificent room. The walls are made
+of white marble and are smoother than humanoidly possible. The room is
+octagonal in shape for two reasons. One is that it harnessess the powers of
+the altar standing in the middle, second being tha its twice the four most
+powerful Immortals on the Shaikari land. Before you stands an ancient altar.
+It stands twelve feet tall and is transparent in color. On its shell, a
+carved symbol for each of the Immortals skewers its sides. Coursing the
+magical altar is magical lightning. Never before have you seen such
+brillance in a single room. The mere sight of all of this is making you
+dizzy. The simple thought of you being in a room that was forged by
+Immortals takes away your breath. On four of the eight walls stand exits,
+above which have an Immortal symbol. The northern exit contains Beowolf's
+symbol. Southern is Variant's, while the eastern and western exits contain
+Thallin and Miroj's symbolys. Exits lead in all directions. 
+~
+0 2098188 0 1
+Rd     0
+D0
+~
+~
+0 -1 8763
+D1
+~
+~
+0 -1 8769
+D2
+~
+~
+0 -1 8773
+D3
+~
+~
+0 -1 8767
+S
+#8769
+Inside the Temple.~
+You stand inside the great pyramid. Its gentle sloping walls of pure
+white marble astound you. A section of the wall glows with an errie
+green. A large dial set into the wall here displays the time to you.
+You see a large carved likeness of Variant battling Draven on the
+wall. He is holding his sword upraised for a killing blow. You may
+leave east to the city or west to the temple altar.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8770
+D3
+~
+~
+0 -1 8768
+S
+#8770
+Entrance to Shadow Temple.~
+You stand at the entrance to the great pyramid known as the Temple
+of Shadows. You can make out the green balls of magic rising high
+above the temple here, which keeps the time for the city. The pyramid
+is made of magical white marble which seems to pulse and glow. You
+may travel east into the city or west into the temple.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8644
+D3
+~
+~
+0 -1 8769
+S
+#8771
+Temple Hallway.~
+The hallway is very damp and cold here. The smooth white marble walls
+here glisten with moisture. This must be close to some subterraneon
+cave. The floor is stone and is well worn with age and use. The hall
+continues to the south and the east.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8772
+D2
+~
+~
+0 -1 8776
+S
+#8772
+Temple Hallway.~
+You are in a large hallway. Its very plain and unremarkable save for 
+the fact that the white marble walls are glowing with an unearthly
+power that you know comes from the immortals. The floor is made 
+of stone and is well worn with age. You see the temple altar to 
+the northeast and the hallway continues to the west.
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8771
+S
+#8773
+Inside the Temple.~
+The smooth white marble walls tell you that your inside the great
+pyramid. A large painting is on the wall to your east. It is a 
+scene of Beowolf destroying a city and killing all in his wake.
+A large altar rises to your north while you may venture out into
+the city to the south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8768
+D2
+~
+~
+0 -1 8778
+S
+#8774
+Temple Hallway.~
+You stand in a very prominate hallway. You see large arched doorways
+surrounding you to the south, southeast and to the east. You also
+see an exit leading to the altar to the northwest. The floor is 
+covered in plush green carpet. A large statue stands here with 
+its left arm outstretched holding a scale. The walls glow with 
+the magic of the pyramid.
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8775
+D2
+~
+~
+0 -1 8779
+S
+#8775
+High Priest Office.~
+You are in a very lavish room filled with remarkable paintings and
+sculptures. Its apparent that the owner of this room loves art. You
+see strange wire sculptures all about the room. A large painting of
+a human embracing a female elf stands on the northern wall. A large
+desk sits to the north. There is a couch and a fireplace here as well.
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8774
+S
+#8776
+Temple Hallway.~
+This long hallway seems very old and ancient. The rough stone floorway
+is worn with heavy useage and age. The white marble walls here are
+glowing with a blue hue. Two large magical spheres float about the
+room lighting your way. You may travel north to the hallway or east
+to the stairway down to the academy.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8771
+D1
+~
+~
+0 -1 8777
+S
+#8777
+A Stone Stairway.~
+You see a large black marble stairway leading down into darkness. Many
+young adventurers know those stairs well. Red crackles of energy spark
+inside the black marble stairs. A large floating magic globe illuminates
+the room. You may travel down to the academy or west to the Hallway.
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8776
+D5
+~
+~
+0 -1 8795
+S
+#8778
+Entrance to Shadow Temple.~
+You stand just inside of the great pyramid. You can see the magnificent
+magic at work here. The great green magic ball of time rises high above
+the temple. The white marble of the pyramid glows with a supernatural
+nature. You may travel into the temple to the north or you may walk
+freely about the soutern city to your south.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8773
+D2
+~
+~
+0 -1 8600
+S
+#8779
+A Morgue~
+The walls of this room are smooth and clean. There are many tables and
+small trays throughout the room. On each table is a lifeless, cold 
+corpse. The smell of death and decay fills your nose. There is a table
+in the corner, is that your corpse? Blood drips down the fingers onto
+the floor. You hear a hideous laughter inside your head.
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8774
+S
+#8780
+High Priest Office.~
+This room is very disturbing. You see many bodies swaying about the
+room hanging from beams on the ceiling. It looks as if they have
+been recently hung. This must be a evil priests chambers. You see
+a desk made out of bones of various races to your left.
+~
+0 4 0 1
+Rd     0
+S
+#8781
+Closet of the Grand Cleric.~
+~
+0 0 0 1
+Rd     0
+D2
+~
+door~
+1 -1 8784
+S
+#8782
+Temple Hallway.~
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8783
+D2
+~
+~
+0 -1 8785
+S
+#8783
+A Stone Stairway.~
+~
+0 0 0 1
+Rd     0
+D3
+~
+~
+0 -1 8782
+D5
+~
+~
+0 -1 8759
+S
+#8784
+The Grand Cleric's Room.~
+~
+0 0 0 1
+Rd     0
+D0
+~
+door~
+1 -1 8781
+D2
+~
+~
+0 -1 8787
+S
+#8785
+At the Bottom of the Stairs.~
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8782
+D4
+~
+~
+0 -1 8790
+S
+#8786
+Cleric Training Room.~
+~
+0 0 0 1
+Rd     0
+D2
+~
+~
+0 -1 8789
+S
+#8787
+Temple Hallway.~
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8784
+D1
+~
+~
+0 -1 8788
+S
+#8788
+The Cleric Reception.~
+~
+0 0 0 1
+Rd     0
+D1
+~
+~
+0 -1 8789
+D3
+~
+~
+0 -1 8787
+S
+#8789
+Meditation and Prayer.~
+~
+0 0 0 1
+Rd     0
+D0
+~
+~
+0 -1 8786
+D3
+~
+~
+0 -1 8788
+S
+#8790
+Atop the Temple.~
+~
+0 0 0 1
+Rd     0
+D5
+~
+~
+0 -1 8785
+S
+#8791
+A Dark Hall.~
+You stand in a large ornate hallway. The stone floor is smooth and
+worn with age. Large torches line the walls in this windowless place.
+Shadows dance on the walls playing tricks on your mind. You see the
+acadamy below here. The hallway contiues to the north.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 8792
+D5
+~
+~
+0 -1 0
+S
+#8792
+A Dark Hall.~
+You are in the middle of this strange hallway. The torches burn low
+here casting long dark shadows on the walls. The stone ground is 
+broken and uneven. A large arched doorway stands to the east.
+The hallway continues to the north and the south with another doorway
+stands to the west.
+~
+0 1073741824 0 1
+Rd     0
+D0
+~
+~
+0 -1 8793
+D1
+~
+door~
+17 -1 8795
+D2
+~
+~
+0 -1 8791
+S
+#8793
+A Dark Hall.~
+The hall ends here to the north. The wall before you blocks your way.
+A large doorway stands to the east. Two large torches stand on either
+side of the door. They burn with an errie purple flame. The hall
+continues to the south.
+~
+0 1073741824 0 1
+Rd     0
+D1
+~
+door~
+17 -1 8794
+D2
+~
+~
+0 -1 8792
+S
+#8794
+A Darkened Room.~
+This room is very dark and you feel that eyes stare at you from every
+crack in the wall. The walls are decaying and are full of cracks. The
+floor is broken and uneven. You see a rope ladder leading up into 
+the large city known as Darkhaven. The door to your west leads back
+out to the Hall.
+~
+0 1073741824 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8793
+D4
+~
+~
+0 -1 0
+S
+#8795
+The Bottom of a Stairway.~
+You stand at the bottom of a magnificent stairway. The steps are made
+of fine black marble that looks to be constantly polished. There is
+a sign on the wall next to the staircase. You may go back out the
+arched doorway to your west if you do not want to go up the stairs.
+~
+0 1073741824 0 1
+Rd     0
+D3
+~
+door~
+1 -1 8792
+D4
+~
+~
+0 -1 8777
+S
+#8796
+Into the forest~
+You leave the busy streets of the City of Shadows, and wander
+out into the forest surrounding it. The sounds of the city fade
+into the distance. The forest here is quiet and peaceful. All you
+can see is the path you are on and the trees surrounding you.
+~
+0 4 0 3
+Rd     0
+D0
+~
+~
+0 0 5319
+D2
+~
+~
+0 0 8752
+S
+#8799
+Remort Room.~
+You leave the busy streets of the City of Shadows, and wander
+out into the forest surrounding it. The sounds of the city fade
+into the distance. The forest here is quiet and peaceful. You
+may continue north or head back into the city.
+nw
+~
+0 1073741828 0 1
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+M 8603 spec_guard
+M 8604 spec_guard
+M 8605 spec_wanderer
+M 8607 spec_wanderer
+M 8700 spec_healer
+S
+
+
+
+#RESETS
+M 0 8600 8 8600
+M 0 8601 8 8600
+M 0 8602 8 8600
+M 0 8616 8 8600
+M 0 8601 8 8601
+M 0 8614 8 8602
+M 0 8615 8 8602
+M 0 8616 8 8602
+M 0 8602 8 8605
+M 0 8600 8 8608
+M 0 8601 8 8608
+M 0 8601 8 8613
+M 0 8602 8 8613
+M 0 8616 8 8613
+M 0 8600 1 8619
+M 0 8616 8 8619
+M 0 8615 8 8619
+M 0 8615 8 8620
+M 0 8614 8 8621
+M 0 8600 8 8626
+M 0 8602 8 8626
+M 0 8614 8 8626
+M 0 8603 8 8633
+E 0 8600 0 20
+E 0 8601 0 13
+M 0 8603 8 8633
+E 0 8601 0 13
+E 0 8600 0 20
+M 0 8609 8 8644
+M 0 8613 8 8644
+M 0 8612 8 8645
+M 0 8608 8 8649
+M 0 8609 8 8649
+M 0 8610 8 8649
+M 0 8611 8 8649
+M 0 8608 8 8654
+M 0 8609 8 8654
+M 0 8610 8 8654
+M 0 8608 8 8657
+M 0 8609 8 8657
+M 0 8610 8 8657
+M 0 8609 8 8662
+M 0 8612 8 8662
+M 0 8608 8 8663
+M 0 8610 8 8663
+M 0 8613 8 8663
+M 0 8603 8 8664
+E 0 8600 0 20
+E 0 8601 0 13
+M 0 8603 8 8664
+E 0 8601 0 13
+E 0 8600 0 20
+M 0 8611 8 8665
+M 0 8611 8 8671
+M 0 8612 8 8671
+M 0 8613 8 8671
+M 0 8609 8 8676
+M 0 8608 8 8677
+M 0 8611 8 8678
+M 0 8612 8 8678
+M 0 8613 8 8678
+M 0 8610 8 8680
+M 0 8609 8 8683
+M 0 8608 8 8684
+M 0 8603 8 8685
+E 0 8600 0 20
+E 0 8601 0 13
+M 0 8603 8 8685
+E 0 8601 0 13
+E 0 8600 0 20
+M 0 8611 8 8692
+M 0 8612 8 8692
+M 0 8613 8 8692
+M 0 8611 8 8698
+M 0 8612 8 8698
+M 0 8613 8 8700
+M 0 8611 8 8703
+M 0 8612 8 8703
+M 0 8613 8 8703
+M 0 8601 8 8708
+M 0 8600 8 8710
+M 0 8602 8 8710
+M 0 8601 8 8716
+M 0 8602 8 8716
+M 0 8600 8 8721
+M 0 8601 8 8736
+M 0 8603 2 8744
+E 0 8600 0 20
+E 0 8601 0 13
+M 0 8603 2 8744
+E 0 8601 0 13
+E 0 8600 0 20
+M 0 8600 8 8744
+M 0 8603 8 8752
+E 0 8600 0 20
+E 0 8601 0 13
+M 0 8603 1 8752
+E 0 8601 0 13
+E 0 8600 0 20
+M 0 8602 8 8758
+M 0 8600 8 8763
+M 0 8614 8 8763
+M 0 8610 8 8766
+M 0 8612 8 8766
+M 0 8613 8 8766
+M 0 8608 8 8767
+M 0 8609 8 8767
+M 0 8610 8 8767
+M 0 8700 1 8768
+M 0 8608 8 8769
+M 0 8609 8 8769
+M 0 8610 8 8769
+M 0 8611 8 8769
+M 0 8608 8 8770
+M 0 8610 8 8770
+M 0 8601 8 8773
+M 0 8602 8 8773
+M 0 8615 8 8778
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

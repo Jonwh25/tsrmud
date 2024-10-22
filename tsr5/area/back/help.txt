@@ -1,0 +1,28 @@
+[    0] Tamarae: Shadow Shd
+[    0] Tamarae: Psionisist
+[    0] Bleeds: Demon Dem
+[    0] Bleeds: Psionisist
+[    0] Anduscias: Elder Eld
+[23932] Anduscias: field of decay
+[23932] Anduscias: astrip
+[23932] Anduscias: astrip
+[23932] Anduscias: qset
+[23932] Anduscias: hlist
+[23932] Anduscias: hnumber
+[23932] Anduscias: hnumber
+[23932] Anduscias: nukerep
+[23932] Anduscias: opstat
+[23932] Anduscias: plist
+[23932] Anduscias: qset
+[23932] Anduscias: racelist
+[23932] Anduscias: rpstat
+[23932] Anduscias: wiznet
+[23932] Anduscias: asave
+[23932] Anduscias: rename_obj
+[23932] Anduscias: channel_rules
+[    0] Admanthos: Halfling Hlf
+[23932] Anduscias: account
+[    0] Admanthos: Halfling Hlf
+[    0] Luthias: Human Hum
+[    0] Luthias: Human Hum
+[    0] Yoda: Demon Dem

@@ -1,0 +1,1717 @@
+#AREADATA
+Name        {      } Alley of Shadows    Akasha~
+Levels      1 118
+Builders    Akasha Lauryn~
+VNUMs       23900 23999
+Security    1
+Recall      23900
+Flags       16
+Sounds      You shudder as a Shadow brushes past.~
+End
+
+
+
+#MOBILES
+#23900
+Shadow Healer~
+The Shadow Healer~
+Before you stands the Shadow Healer, friend to all Shadows.
+~
+~
+1966147 0 184566412 16 -1000 S
+112 0 0 90000d0+0 0d0+0
+0 0 0 0
+0 0 0
+72068 0 0
+#23901
+lich lord~
+The Lich Lord~
+A hideous flaming skull hovers above you, grinning with pure malice.
+~
+You see an oversize, flaming skull with yellow teeth and pulsating blue sapphire
+eyes.  The Lord of the Liches seems to ignore your presence, knowing his own
+superiority, and merely hovers about the room levitating things and preparing
+the required reagents for nefarious spells beyond mortal comprehension.  You
+can only gaze in awe at the obvious magical power of the creature before you.
+~
+2007107 0 503866088 229552 -1000 S
+105 0 0 30000d0+0 0d0+0
+10000 10000 10000 0
+0 0 0
+67209219 0 0
+#23902
+corpse greater ghoul~
+The greater ghoul~
+A hideously disfigured corpse shambles about here, seeking mortals to devour.
+~
+The greater ghoul exudes a powerful stench of decay, making you retch and gag.
+It's gaze seems to pierce your soul, sending a shiver down your spine.  Longing
+only to taste the delicacies of mortal flesh, it's movements seem delayed, as
+if controlled against it's will by a force much greater than itself.  Tattered
+garments hang in ribbons about it, and patches of blackened, bruised skin show
+through.
+~
+1613889 0 64 229392 -1000 S
+80 0 0 4000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67215127 0 0
+#23903
+Deathguard guard man~
+The Deathguard~
+A black, spectral guard watches over the souls of the damned.
+~
+The man before you has long since passed into the next life, yet somehow
+he has been sentenced to an eternity of service as a guardian for the souls
+that are between the realm of the living and the dead. His face is pale and
+gaunt, and bears no expression. You sense a certain sadness about him,
+permeating the room like a cloak and chilling you to the bone. 
+~
+1966083 0 565312 196624 0 S
+95 0 0 20000d0+0 0d0+0
+0 15000 0 0
+0 0 1
+0 0 0
+#23930
+Kalistoktin the Bartender~
+Kalistoktin the Bartender~
+Kalistoktin stands here offering you drinks and things to smoke.
+~
+Before you stands a handsome young man offering you various things to
+drink and to smoke.  He has dark blood shoot eyes which seem to peer
+through you to your very core.
+You think twice about messing with him and decide to ask for a list instead.
+Good Idea.
+~
+1966083 0 67649664 0 -1000 S
+108 0 0 25000d0+0 0d0+0
+10000 10000 10000 0
+0 0 1
+7 0 0
+#0
+
+
+
+#OBJECTS
+#23900
+dumpster~
+dumpster~
+A huge, green Dumpster stands along the wall amongst the Shadows.~
+~
+15 0 0 0 0 1
+100000~ 1~ 0~ 0~
+0 0 0 0 0
+1 0
+reserved~
+1000 1000
+0 0 0
+#23901
+Smelly Old Bag~
+a smelly old bag~
+A smelly old bag lies here in the dirt.~
+~
+15 0 0 0 16385 1
+30~ 0~ 0~ 0~
+2 0 0 10 0
+0 0
+reserved~
+0 0
+0 0 0
+#23902
+Spider Web Nightie~
+a Spider Web Nightie~
+A Spider Web Nightie clings to the Shadows.~
+~
+9 0 7677 0 9 104
+0~ 0~ 0~ 0~
+2 0 0 0 0
+5 0
+reserved~
+0 0
+0 0 0
+#23903
+Diamond Engagement Ring~
+diamond engagement ring of Shiro~
+The Diamond Engagement Ring given to Chelsea from Shiro lies here shining brightly.~
+~
+1 256 0 0 3 14
+0~ 0~ -1~ 0~
+10 100 0 0 0
+5 0
+bless~
+0 0
+0 0 0
+#23904
+A Dozen Roses~
+a dozen beautiful blue Roses~
+A dozen beautiful, delicate blue Roses have been carelessly left here.~
+~
+15 0 0 0 16385 14
+50~ 5~ 0~ 0~
+20 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23905
+nightstand~
+a lace covered wooden nightstand~
+A delicate wooden nightstand is here, covered with a lace tablecloth.~
+~
+12 805306368 0 0 0 101
+0~ 0~ 0~ 0~
+15 72 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+nightstand~
+This nightstand is very beautifully carven from several pieces of a
+light sandalwood. The seams are joined almost flawlessly. On top of the
+nightstand you admire a lace tablecloth that looks very delicate.
+~
+E
+lace tablecloth~
+Clearly hand made, the tablecloth is stunningly beautiful. The lace is
+very fine, and as you stare at it, you begin to see all kinds of scenes
+which were included by the artisan. The scenes seem to be things that
+Akasha remembers from her travels, and treasures.
+~
+E
+scenes~
+You look at one which shows a figure stepping out of the darkness to
+join Akasha on a small ledge. You see another which is a beautiful
+woman that resembles Akasha greatly, braiding her's and Akasha's hair.
+You see one which has-- you Blush all the way to your toes and stop
+looking at anymore of these clearly private scenes.
+~
+#23906
+picture beowolf akasha~
+a picture in a silver frame~
+A silver frame on the nightstand holds a picture of Akasha and Beowolf.~
+~
+8 805306368 0 0 0 101
+0~ 0~ 0~ 0~
+1 42 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+akasha beowolf~
+Now that you look closer, you understand why the picture is rare. Both
+Beowolf and Akasha are happy and smiling! They look as though all they need
+in the Realms are eachother. Maybe this explains what is wrong now....
+Since they are not able to be together, their hearts are in constant turmoil,
+causing bitter moods, and quarrelous hatred to mask the love for eachother.
+~
+E
+picture frame~
+In a lovely and delicate silver frame is a picture which has been stained
+in numerous spots by droplets of some liquid. From traces of salt at the
+edges of the spots, you realize they are teardrops. Clearly, Akasha has
+cried over this picture many a time. There is something unusual about both
+Beowolf and Akasha, and you should look at them closer to see what.
+~
+#23907
+autobiography book shadow queen~
+{W{wThe {KShadow Queen{w, by {RAkasha{W{x~
+{wHere lies a book with {ygold trimmed pages{w and a {Kblack velvet pageribbon{w.{x~
+~
+8 536879124 0 0 16385 1
+0~ 0~ 0~ 0~
+1 1200 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pages~
+As you make yourself comfortable to read the Story of the ShadowQueen,
+you find yourself suddenly becoming very sleepy.  You begin to doze off...
+
+ZZZzzzZZZzzzZZZzzzZZZzzz...
+
+Before you rests The Goddess Akasha in a comfortable chair by a huge
+fireplace.  This room makes you feel as safe and giddy as you were when
+you were a child.  The fire in the hearth glows warmly and is more than
+inviting.  It seems to call out your name.
+
+Akasha raises her head from her book and says, "Ah, another traveler
+seeking the information I have to share?  Please, come in, sit by the
+fire.  Tis quite comfortable in here, yes?  I sense that you are seeking
+information that you know not.  If this is the case then you have come
+to the right place.  Might I ask what it is you desire to ask of me on
+this fine eve?"
+
+With that she motions to the chair opposite her facing the fire place.
+You walk joyfully into the room and take your seat opposite her, eager to
+to ask the questions flooding your mind.
+
+You say, "Oh ShadowQueen, it is surely not my place to ask, yet I had
+often wondered if you felt hatred toward the people of the Realms?  You
+have many followers in the Realms.  Although, I am not always certain if
+they admire you for your ideals, or for your beauty."
+
+Akasha chuckles politely.
+Akasha says, "I enjoy that I am liked by the mortals."
+Akasha looks at you.
+Akasha says, "I am in a storytelling mood.  Have you time to listen?"
+You nod yes, anxious to hear.
+
+[To hear Akasha's tale, type "look story"]
+~
+E
+story~
+Akasha begins to speak, "Along time ago... Before I, Akasha, came to
+exist, there was a small town. It thrived almost unknown by most everyone.
+But one God, whose name I cannot mention, knew of the town.  Seeing the
+town and its weaknesses, he decided to destroy it just because.  He
+ordered his followers to destroy all and take what they wanted.  This was
+to include women as well as anything else of any value.  But when done
+they were to leave nothing living."
+
+"This God, decided that he too would pleasure himself among the mortal
+women upon whom his men were forcing themselves.  But being the greedy God
+that he was, he set out to find the most beautiful to take for himself,
+for it gave him a sense of joy to destroy something of such beauty.  He
+found what he was looking for when his eyes beheld a maiden by the name
+of Kalistes."
+
+"To the villagers, Kalistes was very well-liked.  She well-known for
+her musical abilities.  But even more so for the other powers which she
+possessed.  She had certain mystical and spiritual powers which none could
+explain, and of which most were envious.  Not to mention that she was a
+most beautiful sight to behold. She had skin so fair it appeared to be
+almost translucent. Her hair was as red as the brightest flame from a
+fire, and her eyes were the color of the most prized emeralds."
+
+"This God, as mentioned before, wanted her completely."  Akasha says, "He
+ordered his men that noone should touch her, even though they all wanted to
+have a little part in ruining this beautiful creature.  But, the order was
+a most horrible death."
+
+"To cause Kalistes even more pain and anguish, he choose to keep her alive
+until her entire town had been destroyed before her very eyes.  And then,
+to make matters worse, this God decided to rape Kalistes in the middle of
+the towns' square for all his men to see.  The people gathered and became
+noisy and anxious as they waited for their God to do as he said he would do." 
+
+[To continue with the story, type "look more"]
+~
+E
+more~
+"But, as he took Kalistes unto himself, all of the Realms were plunged into
+a strange darkness and utter silence.  At that instance, the God knew
+what had happened: the impossible had just become possible.  Kalistes, a
+mere mortal with special powers, had been made pregnant by this God - a
+powerful and evil creature.  Kalistes had conceived the child of a God!"
+
+"This God flew into a blind rage.  Somthing like this was not supposed to
+happen.  Would the almighty Ao allow such a thing?  With a passion, this
+God wished Kalistes dead.  But no matter how much hatred he housed in both
+his mind and body against Kalistes, the mere thought of having a child to
+teach his evil ways to, to have follow in his path of darkness and
+destruction, to mold into the epitimy of evil, all of this overwhelmed 
+him.  He decided for his own selfish, evil reasons that Kalistes would
+live, but only until this God-child no longer needed its mother.  When the
+child could survive on its own, Kalistes would be killed."
+
+Akasha pauses, and then begins to speak again, "As the Gods army started
+its journey back to his castle, the soldiers torched the village to cinders
+as a final farewell.  This once thriving village of peace became no more.
+The only survivors of the village were Kalistes and her unborn child."
+
+Akasha sighs loudly noticeably distraught.
+Akasha whispers quietly, "Please, I need to have a moment to rest and
+gather my thoughts.  You must understand, this story has been told only a
+limited number of times.  I had almost forgotten how upsetting it is."
+You smile at Akasha, beginning to realize exactly what story it is that
+she tells you.  You wait patiently until she is ready to continue.
+
+After a short period of time, Akasha speaks again, "And so it came to be
+that a young Goddess was born into this world as any other mortal creature
+would be.  She indeed proved to be perfect in every way, except for the
+simple fact that she aged.  As all mortals do age, but she would continue
+to do so until the end of time.  Though she only aged 1 year for every 10
+mortal years which passed, the thought of her forever aging was disturbing.
+She drank in all that was around her, seeming to have an unquenchable void
+in her which longed for knowledge, even at such a young age."
+ 
+[to learn more of Akasha, type "look tale"]
+~
+E
+tale~
+"Eventually, 50 mortal years had passed and Kalistes who was age 20 at the
+time of her birth, was now approximately 70 years old.  The God decided
+that Kalistes had lived long enough and that his child no longer needed
+her mother. Truly, she already needed the help of noone, as she was very
+independant. The God, tortured Kalistes to her death. And that is the end
+of Kalistes."
+
+You shudder at the thought of such cruelty and glance over at The
+ShadowQueen.  You notice that she is crying, with tears like diamonds
+slipping out of her deep green eyes and down her opaque cheeks.
+
+Akasha turns to you and apologizes, "I am truely sorry.  I am a fool 
+to cry over something that happened so long ago.  Please forgive me."
+ 
+Akasha silently wipes her eyes and says, "Now, the rest of the story.  I
+am sure you are eager to hear it.  This 'child' learned all that there was
+to know of the deeds her father committed and why.  But she was thirsty
+for more knowledge than her father could provide.  She had not only the
+power, knowledge, and intelligence of the immortals, but she also had the 
+compassion which mortals possessed.  She felt sorrow and regret for the
+weak mortals which her father mutilated and destroyed. At the physical age
+of 17 years, the mortal age of 170 years, the young Goddess confronted her
+father on this topic. Of course, this God exploded in an unbridled fury
+because of the simple fact:  He was afraid of what she might do if she
+ever was angered or decided to rise up against him."
+
+"He ordered his guards to lock her in the deepest dungeon.  She was tossed
+in a cell and the God placed a powerful spell upon the cell.  This spell
+kept the walls and bars strong.  Too strong for Akasha to escape.  The
+only way to escape the cell, was to have someone who did not have 
+someone's blood on their hands unlock it from the outside. The God ordered
+all of his guards to keep their distance.  They were not to even exchange
+words with her.  If any were caught doing so, they would die a slow and
+painful death at HIS hands.  All feared the God and so obeyed his order."
+
+[Akasha's tale continues when you type "look next"]
+~
+E
+next~
+Akasha shifts her weight slightly towards you and unknowingly lowers
+her voice and speaks to you again.
+
+"You see," Akasha says, "the God knew of the powers of which his child
+possessed.  He knew that with little or no effort at all she could 
+penetrate and manipulate the minds of mere mortals.  She could even enter
+the minds of some of the weaker Gods. After a great number of years of
+being held in the Shadows, Akasha learned to become one of them - she came
+to control the Shadows and have them do her bidding."
+ 
+"After such a long a period, the guards became somewhat lax with the way
+they were around her and began to stop accompanying the small mortal slave
+child who brought the Goddess her meals.  One day, the small slave child 
+came to give the Goddess her dinner, and upon looking into the cell could
+not find her.  Frightened and afeared for his life, the child alarmed the
+guard at once.  One guard came running all the while calling out Akasha's
+name.  A grave mistake as he would soon find out.  He opened his mind to
+her making it easy for the Goddess slip into his mind."
+
+"Because this was only a guard, he had never seen the marks of battle or
+death.  Akasha forced the guard to unlock the cell's heavy gates, and then
+she quickly and easily abandoned the guards mind to return to her own. To
+spare him the pain and suffering that she knew he would face when her
+father found out, Akasha swiftly and painlessly snapped his neck with a
+mere thought."
+
+"The young Goddess fled her fathers great castle and began a great
+learning process that would prove to be most useful.  On her travels, she
+used her new power over the Shadow themselves to become the Shadows, and
+use them as she pleased.  She was seen only when she wanted to be, for all
+knew who she was and if seen.  Then her father would hear of it and send
+guards to torture all who had seen her in his attempt to catch and kill
+her.  Upon one of her many travels, she learned of another mighty God
+named Beowolf."
+
+A slight smile showed briefly across Akasha's face as she rememebred this
+part of the tale.  You cannot help but smile in anticipation of what is
+left to come.
+ 
+[The wonderful saga continues with "look saga"]
+~
+E
+saga~
+"She could sit for hours and listen to the mortals' tales of Beowolf and
+his Great Army.  Having been conceived with her father's evil instilled
+inside her, and from the mortals' tales, she fell in love with him and his
+ways.  She decided that she would seek him out and did just that. But it
+seemed that her many paths would never cross those of the Mighty Beowolf.
+She always arrived after he had left. At her wits end, and in her last
+attempt to find her love, she settled herself on a ledge overlooking the
+valleys below her and the vast sky over head. She began to listen and read
+all the thoughts of the mortals - they came to her in a great rush.
+Desperately, she searched the minds of the mortals for any signs of the
+Mighty Beowolf. After a great many hours, maybe even days - she didn't
+know how long she had been sitting there, so long that she lost track of
+time - after a long time and no luck, her heart sank."  
+
+Akasha pauses once again and takes a sip from the glass she suddenly was
+holding in her hand.  You wonder how she does that, but soon begin to
+think on the story again and wait quietly for her to finish.
+
+Akasha begins again, "Then, as if in her head, in her mind someone asked,
+'Who are you and why do you seek me out?'  She looked around in disbelief
+as out of the dark stepped the mighty Beowolf.  Beowolf looked on in
+disbelief at the beauty of the young Goddess.  One of whom he had only
+heard of, and even then not not that much. She was known to walk in and 
+dwell in the Shadows.  Akasha was likewise speechless at the vision of
+the God Beowolf before her."
+
+"She begged him to hear her out and he agreed.  She told how she was
+looking for knowledge.  'Of what kind?' he asked.  Any and all, good or
+evil.  She wanted, no she NEEDED it all. Beowolf was quick to point out
+though that like the mortals she would age eternally, or had she forgotten?
+She cried in horror at the realization of something that she forgot, for
+she wanted to be with Beowolf always, to forever seek the knowledge which
+she needed.  And Beowolf was beginning to fall in love with her, simply by
+their conversation.  He wanted her to be with him always but saw that the
+aging would not allow it.  Beowolf recalled that there was an old Chaon
+spell to temporarily stop the aging process in mortals.  He wondered if it
+would work on the young woman as she was really an Immortal who aged.  He
+sought and learned the spell and taught it to her.  Much to their surprise,
+the spell worked, and due to her powers affected her permanently.  Now she
+was truly an Immortal such as himself."
+ 
+[Unable to stop now, you desire to "look epic"]
+~
+E
+epic~
+"Their love grew, but the happiness the two felt began to pull Beowolf away
+from the evil in which he resided.  Beowolf decided that his beliefs and
+position of evil were more important than his love for the Goddess Akasha.
+He gave up his Goddess and her love for him."
+
+Akasha sighs deeply, and then looks at you curiously.
+
+"The Goddess, as you guessed, is myself - Akasha, and I will always love
+him.  He is where my heart is.  This then, is my story.  This is what
+has made me and why, at times I am more confusing than not." Akasha states,
+"This explains why I am the Shadows, why I long to help those who are
+Mortal, and why I emanate evil."
+
+You ask, "Yet, are you, really? Evil I mean?  Are you truly evil?"
+
+"Ah, yes child, I am turmoil, inside me.  Evil ever conflicting on
+my inner side with the good that I feel the need to do to counteract the
+evil my father committed, and it is a constant battle. Still to this day
+I feel the rage against my father.  I wish to cause destruction upon him
+as he did my mothers village.  One day I shall have my revenge, and it
+shall be sweet." Akasha proclaims.
+ 
+You state, "You never spoke his name, might I ask what it is?"
+
+Akasha says, "I will not say.  Until the day that I find my father, I
+cannot bear to speak his name.  One day though, justice will be mine and
+so will his death.  Until then, I shall remain torn. I feel more pain
+than any mortal ten times his own strength could bear."
+
+You acknowledgingly say, "It is good to know that not only we mortals
+feel pain, but it is sad that you must live with this.  I have faith that
+you will find your father and reconcile this pain SahdowQueen, you have
+endured much. It makes my travels seem less endless, and ingratitudes more
+bearable. I wish I could help you."
+
+[To finish the story, "look end"]
+~
+E
+end~
+Akasha nods in recognition to you and says, "Indeed, there may be a time
+in which you can, and I will remember your offer."
+
+Akasha grins evilly at you, and you shiver uncomfortably.
+
+Akasha says, "Although... I ask not much from mortals, and expect even less."
+
+Akasha beams a smile at you.
+
+Akasha says, "Thank you for listening, I feel better after speaking to
+someone of this."
+
+Akasha curtseys gracefully to you.
+
+zzzZZZzzzZZZzzzZZZzzz
+
+You feel a cold hand upon your shoulder as if someone tries to wake you. You
+hear a faint whisper asking, "Are you ok? You were shivering in your sleep."
+
+You look around.  Oddly enough, you are still in Akasha's bedroom where you
+sat down to read the autobiography. You ponder all that happened, and shrug.
+
+Though you see noone, you state, "Yes, I'm fine. Thank you for being
+concerned. I could have sworn that... no. nevermind. just nevermind."
+
+You smile, deciding that it would be best if you returned the book now.
+~
+E
+autobiography book shadow queen~
+This small book has been penned in beautiful flowing caligraphy by the
+Goddess herself, and obviously contains the story of her life. It has
+many pages, and if you take the time to look at each one, the story of
+The Shadow Queen will become known to you. [To start, type "look pages"]
+~
+E
+ribbon velvet gold pageribbon~
+The pages of the thin book are trimmed beautifully in gold foil. You
+also admire the deep blue velvet pageribbon that allows you to mark
+your place. The binding is creased slightly, so you know that the book
+has been read a few times before. Still, you are very careful with it so
+that you are not the one to smudge any print, or dog-ear a corner.
+~
+#23908
+key~
+a metal desk-key with a ruby in the handle~
+Left here casually is a metal desk-key, a shimmering ruby in the handle.~
+~
+18 805306368 0 0 1 101
+0~ 0~ 0~ 0~
+1 800 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+ruby handle~
+A star pattern shimmers in the red stone as you admire the ruby in the
+handle of the key. You ponder briefly how valuable that stone must be,
+and then go back to wondering what lies behind the lock this key opens.
+~
+E
+key~
+Wrought of a dusky metal this key looks very strong. You imagine
+that the lock which it opens must guard something very valuable
+indeed. The handle is very impressively set with a large ruby.
+~
+#23909
+desk rolltop~
+an antique rolltop desk~
+Sitting against the wall is a mint-condition antique rolltop desk.~
+~
+15 805306368 0 0 0 101
+0~ 15~ 23908~ 0~
+1000 400 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+desk rolltop~
+Wow. You have heard of rolltop desks before, but this is the first one
+you have ever seen in person. The burnished sandalwood seems almost to
+glow, and it feels amazingly smooth and cool to your touch as you slide
+your fingers across the finish. The rolltop is halfway open, and you can
+see several drawers behind the writing surface, and one shelf that is
+locked away behind a magically strengthened pane of leaded glass. The
+handles on the drawers are all inset with beautiful shimmering rubies.
+~
+E
+drawers ruby rubies handles~
+You admire the ruby handles of the drawers, and then begin to get a little
+bit curious. You open a couple of the drawers and find nothing very unusual.
+A few colored pencils. A gold tipped quill pen and ink. Notes and letters
+addressed to Akasha that were sealed with wax at one time and which you
+correctly decide to forget about immediately. Eventually, you start to feel
+guilty and nervous about prying, and so you stop.
+~
+E
+pencils pen ink quill~
+Have you no respect at all? Staring at Akasha's things? You are just
+lucky that she has not noticed you prying. Besides these writing implements 
+look very normal, so why are you giving them all this attention?
+~
+E
+pane glass shelf lock~
+Deep in the back of the desk, you observe a shelf on which is sitting
+a book of some kind. You turn your head to read the words on the binding
+and are surprised to see that it is an autobiography of Akasha. You try
+to open the pane so you can read The Shadow Queen and maybe understand
+more about the Goddess, but are thwarted by the dusky metal lock.
+~
+#23910
+bed~
+a wooden canopy bed with satin sheets~
+The centerpiece of the room is a wooden canopy bed with satin sheets.~
+~
+29 805306368 0 0 0 101
+1199~ 0~ 0~ 0~
+2000 400 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+bed~
+It is a big bed. But it is not yours. Curling up inside it is probably
+frowned upon by the owner, unless you have been invited into it.
+~
+E
+canopy~
+The wooden four-poster frame is draped in two layers of fabric. Some
+dark red velvet cascades fluidly along the frame, and is bundled by
+golden cords at each post. Were these cords to be untied, the dark
+velvet would certainly create a very private atmosphere inside the bed.
+Underneath the velvet is a whispy curtain of sheer silk. It is so
+thin as to be almost transparent, and makes the bed look very soft
+and inviting, although it does not do a thing for privacy.
+~
+E
+velvet silk satin~
+The fabrics of the bed are flawless. Each piece made without a single
+seam, and not a single thread out of place. Never have you seen its like.
+~
+E
+sheets~
+Almost seductive merely in their presence, these satin sheets and the
+accompanying covers make it hard to not think of sharing the space between
+them with someone you care for greatly.
+~
+#23911
+candles~
+a plethera of burning candles~
+About the room are placed numerous burning candles.~
+~
+12 838860801 0 0 0 101
+0~ 0~ 0~ 0~
+4 0 0 30 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+candles~
+Casting a pale soft glow about the room, the candles are of many
+different sizes and colors. The only thing common between them all is
+that they are all lit, and none of them seem to burn down over time.
+~
+#23912
+hands lauryn gauntlets gloves~
+lauryn's Flaming Hands~
+Lauryn's Flaming Hands lie here.~
+~
+9 905986167 0 0 129 101
+50~ 0~ 0~ 0~
+1 3000 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 100
+A
+18 100
+A
+26 200
+A
+117 -1
+A
+105 -1
+#23913
+cloak night~
+the Cloak of the Night~
+Lauryn's mystical Cloak of the Night lies here, shimmering with darkness.~
+~
+9 5 0 0 1025 113
+50~ 0~ 0~ 0~
+1 0 0 0 0
+5 0
+fireshield~
+0 0
+0 0 0
+A
+103 -1
+A
+111 -1
+A
+110 -1
+A
+117 -1
+A
+100 -1
+A
+105 -1
+A
+109 -1
+A
+108 -1
+A
+107 -1
+A
+101 -1
+A
+112 -1
+#23914
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23915
+potion deific protection~
+a potion of deific protection~
+A very powerful potion lies here, radiating intense power.~
+~
+10 805314817 0 0 1 5
+100~ chaos field~ shockshield~ field of decay~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23916
+Aura of Decay~
+an Aura of Decay~
+An Aura of Decay permeates the area, choking you.~
+~
+9 533 0 11 32769 100
+20~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 10
+A
+18 10
+A
+17 -100
+A
+107 -1
+#23917
+Lauryn gateway planes~
+lauryn's Gateway to Other Planes~
+A shimmering gateway leading to distant planes of reality hovers here.~
+~
+29 0 0 0 0 105
+191~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23918
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23919
+lauryn's Book of Multiplaying Prevention~
+lauryn's Book of Multiplaying Prevention~
+(no description)~
+~
+8 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23920
+can whupass~
+a can of WHUP-ASS~
+A can of WHUP-ASS lies here, humming with POWER!~
+~
+15 1 0 0 1 1
+100000000~ 0~ 0~ 0~
+1 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23931
+Eyes of the Beast~
+some Eyes of the Beast~
+Some Eyes of the Beast lie here watching your every move.~
+~
+27 4833 492 61439 131073 45
+60~ -1~ 0~ sanctuary~
+5 0 200 0 0
+3 0
+refresh~
+-1 -1
+0 0 0
+#23999
+Light of the Shadows~
+(no short description)~
+(no description)~
+~
+1 33554775 0 0 17409 100
+0~ 0~ 0~ 0~
+25 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#23900
+Alley of Shadows~
+You stand at the Eastern most end of the Alley of Shadows.
+You notice beings walking about you, but see noone.
+You hear voices but again, see noone.  Can this be?
+A place where the Shadows thrive?  You feel you should
+watch your back, for you can never be too sure about a Shadow.
+The only exit lies to the East.
+~
+0 0 0 0
+Rd     0
+D3
+~
+~
+0 0 23901
+S
+#23901
+Alley of Shadows~
+Making your way through the Alley of Shadows, you notice the
+stench of death and decay penetrating your nostrils.  The buildings
+rise high all around you, limiting your view to almost none.  You
+hear footsteps coming up behind you, but when you turn you see noone.
+You merely feel the rush of the dank air brush past you.
+The Exits lie to the East and West.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23900
+D3
+~
+~
+0 0 23902
+S
+#23902
+Alley of Shadows~
+The Alley of Shadows continues East and West.  Upon the walls you see
+the scrawling of previous travellers of this Alley.  You lean closer
+to read what it says, "Beware the Shadows, You cannot escape them -- For
+THEY are EVERYWHERE."  YOu begin to think that you should begin the
+long journey for home.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23901
+D3
+~
+~
+0 0 23903
+S
+#23903
+The Alley of Shadows~
+The Alley of Shadows continues both East and West.  Though you smell
+a great stench coming from the West.  The walls are great and
+unclimbable. The air is thick with Shadows and you can
+barely see your hand in front of your face.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23902
+D3
+~
+~
+0 0 23904
+S
+#23904
+The Alley of Shadows~
+The Alley of Shadows seems to abruptly end here.  It seems that you 
+are stuck here with the only exit leading back to the east.  The stench
+here is even stronger in this spot than in the previous one.  You
+notice a huge Dumpster hidden in the Shadows along on of the crumbling
+walls.  It seems to hold the unwanted belongings of those who have
+wandered here before yourself.  You notice a small trickle of water
+that runs down the far wall, between your legs and then disappears
+beneath the dumpster.
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23903
+D5
+~
+~
+0 0 23905
+S
+#23905
+Outskirts of Hell~
+It seems that you have stepped out of the calm world that you
+once knew and into a world of hell.  You are on the outskirts
+of a once great city.  Unfortunatly, now it has been reduced
+to nothing but Hell in these Realms.  The trees here have been
+set afire and burn brightly in your eyes.  You wonder what the
+occupants of this town could have done to bring such mayhem to 
+their City.  Tread softly, or you might be next.
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23906
+D2
+~
+~
+0 0 23910
+D4
+~
+~
+0 0 23904
+S
+#23906
+The Outskirts of Hell~
+It seems that you have stepped out of the calm world that you
+once knew and into a world of Hell.  You are on the outskirts
+of a once great city.  Unfortunatly, now it has been reduced
+to nothing but Hell in these Realms.  The trees here have been
+set afire and burn brightly in your eyes.  You wonder what the
+occupants ot this town could have done to bring such mayhem to
+their City.  Tread softly, or you might be next.
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23907
+D2
+~
+~
+0 0 23905
+D3
+~
+~
+0 0 23913
+S
+#23907
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+0 0 23908
+D3
+~
+~
+0 0 23906
+S
+#23908
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23907
+D2
+~
+~
+0 0 23909
+S
+#23909
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23908
+D2
+~
+~
+0 0 23917
+D3
+~
+~
+0 0 23910
+S
+#23910
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23905
+D1
+~
+~
+0 0 23909
+D3
+~
+~
+0 0 23911
+S
+#23911
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23912
+D1
+~
+~
+0 0 23910
+S
+#23912
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23913
+D2
+~
+~
+0 0 23911
+S
+#23913
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23914
+D1
+~
+~
+0 0 23906
+D2
+~
+~
+0 0 23912
+S
+#23914
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+0 0 23913
+D3
+~
+~
+0 0 23915
+S
+#23915
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23914
+D3
+~
+~
+0 0 23916
+S
+#23916
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23915
+D2
+~
+~
+0 0 23919
+S
+#23917
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23909
+D1
+~
+~
+0 0 23918
+S
+#23918
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23919
+D3
+~
+~
+0 0 23917
+S
+#23919
+The Outskirts of Hell~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23916
+D3
+~
+~
+0 0 23918
+D5
+~
+~
+0 0 23920
+S
+#23920
+Passageway to Hell~
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+0 0 23928
+D3
+~
+~
+0 0 23921
+D4
+~
+~
+0 0 23919
+S
+#23921
+~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23920
+D2
+~
+~
+0 0 23927
+S
+#23922
+~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23923
+D2
+~
+~
+0 0 23926
+S
+#23923
+~
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+0 0 23922
+D3
+~
+~
+0 0 23924
+S
+#23924
+~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23923
+D4
+~
+~
+0 0 23944
+S
+#23925
+~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23926
+D4
+~
+~
+0 0 23940
+S
+#23926
+~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23922
+D2
+~
+~
+0 0 23939
+D3
+~
+~
+0 0 23925
+S
+#23927
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23921
+D1
+~
+~
+0 0 23928
+S
+#23928
+~
+~
+0 4 0 0
+Rd     0
+D0
+~
+~
+0 0 23920
+D2
+~
+~
+0 0 23937
+D3
+~
+~
+0 0 23927
+S
+#23929
+~
+~
+0 4 0 0
+Rd     0
+D1
+~
+~
+0 0 23931
+D2
+~
+~
+0 0 23936
+S
+#23930
+The Smokey Drink~
+As you enter this room, you notice that the smoke hangs heavily
+throughout the whole place.  Dim lights hand from the low ceilings
+as the air stirs ever so slightly with a persons movement. In the
+dark corners of the room you can see the little red tips of the
+cigarettes, pipes and such glowing quietly.
+You hear the quiet giggling of adventurers from the most distant
+corner. You catch the scent of something folks call Wacky
+Tabacky wafting towards you from the giggling group.
+You think you just might join them, it looks like great fun.
+~
+0 4 0 0
+Rd     0
+D2
+~
+~
+0 0 25062
+S
+#23931
+blank~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23933
+D2
+~
+~
+0 0 23935
+D3
+~
+~
+0 0 23929
+S
+#23932
+{wThe {KBedroom {wof {RAkasha{x~
+{wAs you step into the private chambers of {RAkasha{w, you notice that light is
+almost non-existent with the exception of the many candles lit around the
+room. In the center of the room stands a huge bed, complete with canopy and
+{Rred{w satin sheets. It looks rather comfortable and you think it would be nice
+to take a nap there, but then think of where you are and decide against it.
+Next to the bed stands a wooden night stand with a single picture standing
+on top of a {Wlace{w tablecloth. Against the wall, is an antique rolltop desk
+that matches the rest of the room's furniture.{x
+~
+0 134357020 0 0
+Rd     0
+S
+#23933
+~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 23934
+D3
+~
+~
+0 0 23931
+S
+#23934
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23933
+D3
+~
+~
+0 0 23935
+S
+#23935
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23931
+D1
+~
+~
+0 0 23934
+D3
+~
+~
+0 0 23936
+S
+#23936
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23929
+D1
+~
+~
+0 0 23935
+D3
+~
+~
+0 0 23937
+S
+#23937
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23928
+D1
+~
+~
+0 0 23936
+D3
+~
+~
+0 0 23938
+S
+#23938
+~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23937
+D3
+~
+~
+0 0 23939
+S
+#23939
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23926
+D1
+~
+~
+0 0 23938
+S
+#23940
+~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 23941
+D3
+~
+~
+0 0 23943
+D5
+~
+~
+0 0 23925
+S
+#23941
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23940
+D3
+~
+~
+0 0 23942
+S
+#23942
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23943
+D1
+~
+~
+0 0 23941
+S
+#23943
+~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23940
+D2
+~
+~
+0 0 23942
+S
+#23944
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23945
+D3
+~
+~
+0 0 23947
+D5
+~
+~
+0 0 23924
+S
+#23945
+~
+~
+0 0 0 0
+Rd     0
+D2
+~
+~
+0 0 23944
+D3
+~
+~
+0 0 23946
+S
+#23946
+~
+~
+0 0 0 0
+Rd     0
+D1
+~
+~
+0 0 23945
+D2
+~
+~
+0 0 23947
+S
+#23947
+~
+~
+0 0 0 0
+Rd     0
+D0
+~
+~
+0 0 23946
+D1
+~
+~
+0 0 23944
+S
+#23948
+~
+~
+0 4 0 0
+Rd     0
+S
+#23949
+~
+~
+0 4 0 0
+Rd     0
+S
+#23950
+~
+~
+0 4 0 0
+Rd     0
+S
+#23951
+Lauryn's Bedroom~
+Lauryn's bedroom is a plush, lavishly furnished room with two paintings
+on each side, and a bed woven from the very fabric of reality. She has a
+small dresser beside her bed with a statuette of a demonic head bearing ruby
+red eyes and cloaked in the mists of shadow. Glancing at her desk, you
+notice a spellbook bound in human skin, entitled "101 ways to give good
+Beats", and a red candle with an unholy looking black flame. Despite these
+rather grisly adornments, you feel an urge to settle in and make yourself at
+home. 
+~
+0 134217740 0 0
+Rd     0
+S
+#23952
+The Land of Barovia~
+Ravenloft is a world of startlingly beautiful, seductive settings that 
+have at once an allure and a cold, lonely edge.  By day, the settings are
+breathtaking - the windswept heath with brambles aflame in autumn color,
+soaring peaks with icy summits piercing the sky, mountain streams tumbling
+thousands of feet into an explosion of glittering spray.  The woods are wild,
+rambling, and dense, with velvet evergreens and gleaming silver aspen, or
+armies of ancient timber, towering and black.  Mountain lakes, too deep to
+secure anchor, mirror clouds racing across the sky.  But as the sun drifts
+west, and the granite cliffs circling the lakes reflect from the lakes in
+shades of gold, then red, this is no place for travelers to tarry.  Yet
+tarry they will...
+ 
+When night falls, she cloaks the world in impenetrable darkness.  A chill
+rises from the soil and contaminates the air.  Suddenly, "breathtaking" beauty
+has a new meaning.
+~
+0 134218764 0 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+M 23900 spec_healer
+M 23901 spec_cast_adept
+S
+
+
+
+#RESETS
+O 0 23900 0 23904
+M 0 23930 1 23930
+G 0 23901 0
+G 0 23901 0
+O 0 23910 0 23932
+O 0 23909 0 23932
+P 0 23907 0 23909
+O 0 23905 0 23932
+O 0 23906 0 23932
+O 0 23911 0 23932
+S
+
+
+
+#SHOPS
+23930 2 10 26 15 0 100 50 0 24
+0
+
+
+
+#$
