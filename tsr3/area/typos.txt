@@ -1,0 +1,78 @@
+[ 1410] Synleven: The mercenary shop in ravenwood says they are pets... which I guess they are... but still.
+[25087] Maudite: Zak's magic emporium, the yellow and orange pills have & codes
+[ 1401] Maudite: short an earing made of teeth - probly shouldn't have short in there
+[ 1412] Maudite: Ravenwood Apothecary has a green potion&x
+[ 1400] Saridon: in ravenwood house of weapons, rusty bronze sword has color sequence in name
+[25045] Cyrion: update the help damage file =)
+[ 1417] Yrinthi: in the list at the Ravenwood Staff and Wand Emporium.....fireball wand.....has color trigger visible at end
+[10664] Phalas: I found a typo when you type "help drow". It says "...lanterns of spells of magical sight." which I think should be "...lanter or spells or magic sights."
+[  832] Dalmor: there is a typo in the gravebind help file it says aborb which I think should be absorb.
+[10685] Phalas: there is a typo on mental block help file, on the word have that is spelled ahve
+[25003] Phalas: umm I think the help file on damage is wrong, it doesn't have any of the damages with *'s like *** DEVASTATES ***
+[  839] Deven: storm should be 'In these realms,'
+[19710] Mikah: stagnet pool of sewerwater... 'leach' is keword leech
+[23701] Fayrn: mace
+[ 5105] Saridon: in the help for mental block the syntax says mental barrier
+[ 2007] Saridon: bone club at troll entrance to mountain says lvl 33 when id'd and actually is lvl 38
+[ 2007] Saridon: disregard club one...apologize immensely
+[ 5030] Trey: at the Village Statue in the Forest Vale(Dale?) in the center of town it calls you Lady Trey...I think I'm a guy..hehe.
+[  829] Tay: ...ms.Ask h... no space there
+[  165] Trey: test
+[  838] Valorian: The ogre at mudschool has type when you kill it
+[  838] Valorian: it says "You get 1 a pair of Ogre's bootss from corpse of an ogre."
+[ 8768] Kaitlyn: A psionicist is able to heighten *their* senses *sometimes*.
+[  836] Terram: one to many 'S' on boots and gloves for newbie monsters
+[  805] Terram: long definition of item dog fur in game perserve fir instead of fur
+[19710] Azygwl: in sewer.. repulsive black leach is keyworded as leech (as it should be)..
+[ 1300] Azygwl: the lynx in game preserve has an item: "short an earring made of teeth"
+[11627] Vordan: divine aid spell: reashured instead of reassured.
+[  533] Vordan: room description says tunnel to east.. but its actually to north
+[  589] Vordan: room has exit to east, description says opening to the west.
+[ 4454] Vordan: this room has an extra newline in the description.. it messes with zmud's automapper ;)
+[ 4718] Vordan: there is no room description here in these deep sea rooms.. kinda sad..
+[11225] Vordan: this room desc has exits to north and east.. but are south and east in connection
+[ 2048] Vordan: this room claims a door to the north... but doesnt have one.. ice troll cliff passage.
+[26029] Vordan: affect message for mental block: your mind feels free of inStrustion
+[26032] Vordan: hmmm none of the rooms below level 1 in the abyss of the demon temple have descriptions
+[26024] Vordan: demon temple high priest has a cruely hooked dagger instead of a crueLly hooked one.
+[25056] Vordan: dispel magic says "...away at your succes."  <--missing s on that one.
+[11750] Vordan: in southern vault of Renu Fal terra.. first line of description: It si ablaze...
+[ 4408] Vordan: the cano natives walk up to you and "headbut" you in greeting rather than "headbutt"
+[11202] Vordan: the wear off effect message of meteor swarm is so nice: !SWARM! :)
+[ 2047] Stunty: in the ice hunters den
+[ 2047] Stunty: ack, says consisered instead of considered
+[20233] Vordan: melkor wears a pair of sandles.. perhaps sandals is better??
+[25000] Vordan: the help damage file isnt updated :)
+[ 1417] Viskiante: the wand of fireballs in ravenwood staff shop has a color code showing
+[25071] Allianna: 'Tower Street:  The Easter Tower..Should be the Eastern tower
+[  154] Allianna: In the tunnel with the golems, it says exits leave north and south, while the exits only leave east and south
+[25045] Zefflinius: the Mercenary's guild still says 'Pets for sale' when you type list
+[  783] Stunty: the king barmog is spelled kind
+[25000] Stunty: the gold ring is id'ed as goold
+[25000] Dax: You feel divine aid REASSURE you.. it says reashure
+[25001] Dantayl: heighten senses doesnt have any kind of message when you fail on it.
+[  838] Gween: backpack
+[  821] Katt: help ghoul in description second line the word strenghts.
+[  838] Godroth: in the ogre in the mudschool, he gives you bootss
+[14003] Dunamis: Is the enterence fee on the sign to the gardens north of the Bethave Oracle supposed to read "1" gold coin?  Currently it reads "100"
+[25002] Cyrus: or
+[25002] Cyrus: cyrus
+[  837] Tyralin: When I get a pair of Ogre's boots from the corpse of an ogre it says "You get 1 a pair of Ogre's bootss from corpse of an ogre." notice the extra 's' on boots
+[ 1300] Sartis: us should be use
+[  220] Samuil: The Dojo of Luken wan does not seem to be a 20-70 level area as teh area indicates...
+[  809] Quilb: train
+[25022] Xavius: You are no longer 'blured'... blurred :)
+[25058] Aalentar: the eq off the citizen of bethaven is called pantss, might be a s too much...
+[ 1300] Gilgameer: Oracle, Belaf The black stone which makes up the walls, ceiling, and floor
+[  836] Kyendor: I am new to yur MUD and I chose the class Psionicist for my character. But I couldn`t find a help file during the creation phase. Now I know why, because the Psionicist is written "Psionisist" (with 3 instead of 2 s) at the class^choice phase of t
+[  836] Kyendor: Psionicist is written "Pisonisist" at the creation-phase of the MUD
+[10174] Dray: la drake=> ...soar through the shies... should be soar through the sKiesl
+[  836] Artrax: The lizard gloves in the newbie fighting grounds when you go down.
+[  838] Artrax: The ogre's boots in the newbie fighting zone when you go down(try killing the creatures I have mentioned and looting their corpses to see what I mean)
+[  805] Morganae: it says to go east to train here, but you actually have to go west :)
+[  805] Ntaroth: when you create your character and choose the thief class....within the description the word detect is misspelled
+[  811] Ntaroth: pieces mispelled
+[  801] Fugazi: there is a typo in the newbie guide section 1 header trainiing should be training
+[  917] Spittle: "prelevent" should be prevelent surely, or prevalent
+[  529] Reliak: suddenly
+[25000] Cordelia: jaz

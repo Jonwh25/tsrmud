@@ -1,0 +1,85 @@
+#AREADATA
+Name        The Iron Spires of Eyhlz~
+Levels      0 0
+Builders    All~
+VNUMs       26301 26400
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      &rA whirl of wind envelops your being.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#26301
+Entrance to the Spires~
+Wind eveloping your body without sound, the flat hills of the area roll with
+the taste of satisfaction.  To the east, south and west the continuing flat
+land and slow, rolling hills make their way as far as the eye can see.  To
+the north however, your eye is entranced with the sight of the ancient and
+forgotten city of Jinutt.  A white, broken fence made of wood gives little
+protection from anything that wishes to cross the boundry of the city.
+Beyond the fence, a road, torn and withered with time stretches further north
+while a path to the east and west lie beyond the fence as well.
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 26302
+S
+#26302
+Entrance to the Spires~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 26301
+S
+#26303
+~
+~
+0 4 0
+Rd     0
+S
+#26304
+~
+~
+0 4 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

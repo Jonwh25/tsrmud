@@ -1,0 +1,88 @@
+#AREADATA
+Name        Area of Guilds~
+Levels      0 100
+Builders    All~
+VNUMs       26301 26400
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      &rA whirl of wind envelops your being.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#26301
+Strife Hall~
+Through some crates, boxes, garbage, and more of the type, the small path
+from Smoke Street to the side of the warehouse ends.  A thin metal door stands
+half open, showing nothing inside other than a noiseless void.  A small
+written message has been scrawled into the door.  It reads:  "To the Absolute
+Truth".  A flash of light is seen from inside the door.
+~
+0 0 0
+Rd     0
+D0
+~
+door~
+0 0 26302
+S
+#26302
+Entrance to the Spires~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 26301
+S
+#26303
+~
+~
+0 4 0
+Rd     0
+S
+#26304
+~
+~
+0 4 0
+Rd     0
+S
+#26305
+~
+~
+0 4 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

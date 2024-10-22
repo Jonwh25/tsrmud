@@ -1,0 +1,2333 @@
+#AREADATA
+Name        [  All ] Realm of the Changeling~
+Levels      0 112
+Builders    Fayrn~
+VNUMs       23700 23799
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      &rThe air ripples and shifts about Remik's form.~
+End
+
+
+
+#MOBILES
+#23700
+derelict dwarf~
+the derelict~
+A derelict is here collecting garbage.
+~
+As you take a closer look at the short figure you see that it is a dwarf.
+He has a bald spot on the crown of his head, but when the light hits it you
+see that it is an ugly, pink scare. He is also missing his left hand, it is
+only a pink nub. In his right hand he holds a silver mace, there is a faint
+glow about the head of the mace. His steel plate has taken a beating, pieces
+are missing and those that are still attatched to him are dented and covered
+with sewage. 
+~
+71 512 65536 0 S
+30 0 0 2300d0+0 0d0+0
+0 1 5 0
+0 0 1
+2048 0 0
+#23701
+slug~
+a giant slug~
+A giant slug moves toward you.
+~
+The giant slug is about 20 ft long, its skin is a pale gray and it is
+covered with slime. Unlike its smaller cousins, this slug has a mouth and a
+set of teeth. It moves toward you and you get the feeling it thinks its
+looking at its next meal. 
+~
+103 552 0 0 S
+25 0 0 1100d0+0 0d0+0
+0 1 0 0
+0 0 0
+1040 0 0
+#23702
+lurker~
+a lurker~
+A lurker waits on the ceiling to drop on its next meal.
+~
+It looks like some kind of manta ray that lives out of water. Its about
+15 ft in diameter, its gray belly looks like the stone ceiling it has
+attached itself to and makes it hard to see. 
+~
+35 66080 0 0 S
+25 0 0 1100d0+0 0d0+0
+0 0 0 0
+0 0 0
+80 0 0
+#23703
+bug~
+a giant bug~
+A giant bug hides in the shadows.
+~
+The bug is about 6 ft long and looks like a cross between a spider and a
+lobster. It has the body and front pinchers of a lobster and the head and
+eight legs of a spider. The most unusual feature of this giant bug is its
+long snout. 
+~
+71 66080 0 0 S
+29 0 0 1500d0+0 0d0+0
+0 1 2 0
+0 0 0
+131104 0 0
+#23704
+snail stalactite gastropod~
+a giant snail~
+A strange looking stalactite hides in the shadows.
+~
+At first glance this strange creature looks like a stalactite, but now
+that you take a better look you see that it is alive. It is some type of
+gastropod. It has a hard shell that looks like limestone and you see two
+small eye stalks that curl along the side of the shell. It is hanging from
+the ceiling waiting for something to walk under it, so it can dive into its
+dinner. 
+~
+99 65536 0 0 S
+28 0 0 1500d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23705
+sludgeman~
+a sludgeman~
+A sludgeman rises from the pool.
+~
+The animated sludge has taken on a stout humanoid shape, about 4 ft tall.
+The sludge is a dark brown with a golden glow about it. It has four thick
+fingers on each hand and its legs disapear under the pool of sludge. Its
+eyes are pools of jet black shadow. 
+~
+99 552 0 0 S
+35 0 0 2200d0+0 0d0+0
+0 0 0 0
+0 0 0
+67151874 0 0
+#23706
+goblin guard~
+a goblin guard~
+A goblin guard is here getting drunk.
+~
+This is one of the biggest goblins you have ever seen, he is about 5 ft
+tall. He wields a wickedly curved dagger in one hand and a jug of liquor in
+the other hand. His armor is mostly strange looking hides, but he wears a
+fine metal helm. 
+~
+99 512 0 -1000 S
+35 0 0 3200d0+0 0d0+0
+2 6 4 0
+0 0 1
+67584 0 0
+#23707
+goblin guard~
+a goblin guard~
+A goblin guard is here getting drunk.
+~
+The goblin stands about 4 ft tall, its has orange skin and glowing yellow
+eyes. It wields a rusty short sword in one hand and a jug of liquor in the
+other. Its armor is a mix of strange skins and pieces of metal armor. 
+~
+103 512 0 -1000 S
+30 0 0 1850d0+0 0d0+0
+0 8 0 0
+0 0 1
+67584 0 0
+#23708
+female goblin~
+a female goblin~
+A female goblin dances about.
+~
+The female goblin stands about 3 ft tall, it has orange skin and glowing
+yellow eyes. She has no clothes on and you can see her body, her breast are
+large and sagging and puss-filled boils cover her entire body. 
+~
+103 512 0 -1000 S
+30 0 0 1500d0+0 0d0+0
+0 0 0 0
+0 0 2
+67584 0 0
+#23709
+bugbear~
+a bugbear~
+A large bugbear is taking part in an orgy.
+~
+The bugbear kinda looks like a 7 ft tall goblin, but unlike goblins it
+has a muscular body. Even though the bugbear is enjoying the orgy himself,
+the others have to endure his chain mail and a large claymore strapped to his
+back. 
+~
+99 512 131072 -1000 S
+40 0 0 2750d0+0 0d0+0
+0 0 0 0
+0 0 1
+67584 0 0
+#23710
+female goblin~
+a female goblin~
+A female goblin dances about.
+~
+The female goblin stands about 3 ft tall, it has orange skin and glowing
+yellow eyes. She has no clothes on and you can see her body, her breast are
+large and sagging and puss-filled boils cover her entire body. 
+~
+99 512 0 -1000 S
+35 0 0 2000d0+0 0d0+0
+0 0 0 0
+0 0 2
+67584 0 0
+#23711
+head~
+a head~
+&w
+~
+The decapitaded head of a dwarf floats around in the pool. Its eyes are
+hollowed pits of rotting slime. As it turns about it the water you think you
+see something in its mouth. 
+~
+3 0 0 0 S
+35 0 0 2000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67584 0 0
+#23712
+beholder ~
+a beholder~
+A beholder floats before you and looks at you with its many eyes.
+~
+The 8 ft diameter sphere of flesh floats about 4 ft off the floor. It has
+one large eye set into the center of its body and many smaller eye stalks
+located a around its body. Its gaping mouth is full of rows of sharp teeth. 
+~
+1441891 268960312 98368 -1000 S
+50 0 0 6000d0+0 0d0+0
+10 10 0 0
+0 0 0
+67587 0 0
+#23713
+corpse~
+a corpse~
+A decomposing corpse lies here.
+~
+The rotting corpse is of average size, but you have no idea what race it
+had once been. Its skin has been burned away with acid and only dark sockets
+of oozing slime stare back at you. A finely crafted suit of chainmail holds
+the corpse togather. 
+~
+401475 544 32832 -800 S
+50 0 0 6250d0+0 0d0+0
+0 0 0 0
+0 0 0
+67340290 0 0
+#23714
+elder mage man~
+an elder~
+An tall man floats above the ground.
+~
+Before you stands a tall slim man. He has long blond hair, that he wears
+loose about his shoulders. At first glance you think he maybe human or elf,
+but he is neither. Althought his ears are pointed like those of an elf, his
+other facial features are too round to belong to an elf, but his eyes are
+very different. There is no white to his eyes, they are a solid lavinder
+with only a dark pupil of black breaking the color. 
+~
+1966147 17301504 0 0 S
+106 0 0 38000d0+0 0d0+0
+500 0 0 0
+0 0 1
+7 0 0
+#23715
+goblin scout~
+a goblin scout~
+A tall goblin scout hides in the shadows.
+~
+The goblin is almost 4 ft tall, his skin is a dark greenish-brown color,
+coarse black hairs sprout from his head, and his eyes are orange. He wields
+a wicked looking dagger and he wears a black cape made of a strange lizard
+skin. 
+~
+1458209 65536 0 -800 S
+20 0 0 3000d0+0 0d0+0
+0 31 0 0
+0 0 1
+67587 0 0
+>entry_prog 100~
+say Food!!!
+mpkill $r
+~
+>fight_prog 10~
+mpecho A goblin sneaks up and hits $n with a blackjack.
+mpecho The goblin grabs $n and runs away.
+mptransfer $n 23748
+emote scans for a new victum.
+say Plenty juicy for the Beholder
+mpteleport
+mpechoat 23748 Another body is tumbled into the pit.
+mpgoto 23750 
+~
+>rand_prog 10~
+say Catch Ya!
+say Kill Ya!
+say Eat Ya!
+~
+|
+#0
+
+
+
+#OBJECTS
+#23700
+mace~
+a dwarven mace~
+A dwarven mace lies here.~
+~
+5 32769 1541 8744 8193 25
+0~ 0~ 0~ 7~
+10 3 2 0 0
+0 0
+heal~
+0 0
+0 0 0
+A
+19 35
+A
+18 22
+A
+13 19
+A
+5 1
+E
+mace~
+The iron mace has a black leather grip with dwarven runes etched into the
+metal. The end of the mace is spiked. 
+~
+#23701
+sludge~
+a dried piece of sludge~
+A glowing chunk of dried sludgeman lies here.~
+~
+4 1 0 0 16385 30
+30~ 1~ 1~ sanctuary~
+5 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+sludge~
+A chunk of dried sludge has a golden glow about it.
+~
+#23702
+jug~
+a jug of liquor~
+A foul smelling jug of goblin liquor lies here.~
+~
+17 0 0 0 16385 1
+10~ 7~ 5~ 0~
+0 0 0 10 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+jug~
+The clay jug is half full of a foul smelling liquor. You don't see how
+anyone could drink the contents of the jug, you gag at the thought. 
+~
+#23703
+dagger~
+a curved dagger~
+A wickedly curved dagger lies here.~
+~
+5 16912 6370 12928 8193 35
+0~ 0~ 0~ 11~
+5 4 2 10 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 35
+A
+19 40
+A
+2 2
+E
+dagger~
+The hilt has been carved from black onyx. A serpents head has been carved
+into the end of the hilt and black snake skin has been rapped around the
+handle of the blade. The blade has been forged from a black metal, it is
+about 8 inches long and is curved like the fangs of a snake. There is a oily
+film that covers the blade and strange runes dance the length of the blade. 
+~
+#23704
+helm~
+a metal helm~
+A fine metal helm lies here.~
+~
+9 0 3637 15240 17 35
+13~ 0~ 0~ 0~
+9 10 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -40
+A
+4 2
+A
+13 35
+E
+helm~
+The helm is made of a very strong gray metal. Gold and silver have been
+worked into the metal to form runes that cover the edges. Soft fur has been
+added to the inside of the helm to cushion it against your head. 
+~
+#23705
+rusty short sword~
+a rusty short sword~
+A rusty short sword lies here.~
+~
+5 0 0 0 8193 25
+0~ 0~ 0~ 7~
+0 0 0 5 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 26
+A
+19 28
+E
+sword~
+The short sword is rusted and pitted, it has long since lost its edge and
+doesn't look like it could be repaired. 
+~
+E
+short~
+The short sword is rusted and pitted, it has long since lost its edge and
+doesn't look like it could be repaired. 
+~
+E
+rusty~
+The short sword is rusted and pitted, it has long since lost its edge and
+doesn't look like it could be repaired. 
+~
+#23706
+leggings~
+a pair of leggings~
+A pile of metal plates lies here.~
+~
+9 0 8021 49131 33 30
+15~ 0~ 0~ 0~
+16 9 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -15
+A
+13 30
+E
+leggings~
+The finely crafted leggings have been constructed from a dark metal. 
+~
+E
+plates~
+You see that the plates of dark metal have been joined, to make a pair of
+finley crafted leggings. 
+~
+#23707
+breastplate~
+a metal breastplate~
+A finely crafted breastplate lies here.~
+~
+9 0 8053 12936 9 30
+15~ 0~ 0~ 0~
+23 10 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -20
+A
+13 30
+E
+breastplate~
+The breastplate has been made out of a dark metal, with gold and silver
+etched into runes across the surface of the armor. 
+~
+#23708
+boots~
+a pair of boots~
+A pair of dark leather boots lies here.~
+~
+9 0 7989 49131 65 30
+15~ 0~ 0~ 0~
+2 9 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+14 30
+A
+2 2
+E
+boots~
+The boots have been made out of dark gray leather and dark metal plates
+cover the boot. 
+~
+#23709
+girdle~
+a metal girdle~
+A pile of dark metal scales lie here.~
+~
+9 0 7541 49131 2049 30
+15~ 0~ 0~ 0~
+5 9 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 30
+A
+17 -20
+E
+girdle~
+The finely crafted girdle is make out of dark metal scales. The scales
+are held togather with small rings of metal. 
+~
+E
+scales~
+The scales are held togather with small rings of metal to form a girdle. 
+~
+#23710
+gauntlets~
+a pair of gauntlets~
+A pair of dark metal gauntlets lie here.~
+~
+9 0 7989 40939 129 30
+15~ 0~ 0~ 0~
+2 8 7 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -10
+E
+gauntlets~
+The finely crafted gauntlets have beem made from a dark gray leather and
+metal. 
+~
+#23711
+sleeves~
+a pair of metal sleeves.~
+A pile of dark metal plates lie here.~
+~
+9 0 7989 49003 257 30
+15~ 0~ 0~ 0~
+8 9 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 15
+A
+17 -15
+A
+19 25
+A
+1 2
+E
+sleeves ~
+The finely crafted sleeves have been constructed from a dark metal. 
+~
+E
+plates~
+You see that the plates of dark metal have been joined, to make a pair of
+finely crafed sleeves. 
+~
+#23712
+claymore~
+a claymore~
+A large claymore lies here.~
+~
+5 532 1073 52607 8193 40
+0~ 0~ 0~ 1~
+260 20 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+1 2
+A
+17 -35
+A
+18 40
+A
+19 45
+E
+claymore~
+The two-handed sword is 6 ft long and has been forged from a black steel
+that seems to darken the room when light touches it. The hilt of to weapon
+has been wrapped with a black leather and trimmed with gold. Strange shadowy
+runes dances across the surface of the blade. 
+~
+#23713
+chainmail~
+a large suit of chainmail~
+A large suit of chainmail lies here.~
+~
+9 532 1077 3455 9 40
+25~ 0~ 0~ 0~
+150 20 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -50
+A
+13 50
+E
+chainmail~
+The finely crafted suit of chainmail has been make for a large humanoid.
+The links of chain that make up the armor have been forged from a black
+steel that seem to cast shadows across the surface of the armor. 
+~
+#23714
+box lockbox~
+a gray box~
+A grey lockbox rests firmly against a wall.~
+~
+15 268439560 0 0 16385 40
+250~ 13~ 23716~ 0~
+20000 30 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+box~
+The box is about 2 ft wide and deep and seems to be made out of a gray
+stone. It is locked tight and you can't force it open. 
+~
+E
+lockbox~
+The lockbox is about 2 ft wide and deep and seems to be made out of a
+gray stone. It is locked tight and you can't force it open. 
+~
+#23715
+pile~
+a pile of skins~
+&z~
+~
+15 0 0 0 1 5
+2000~ 0~ 0~ 0~
+2000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pile~
+Flesh is rotting on the animal skins and the smell is almost more than
+you can take. You see a gray box hidden under the furs. 
+~
+#23716
+gud's key~
+a &zkey&w~
+A small &zkey&w lies here.~
+~
+18 0 0 0 16385 40
+0~ 0~ 0~ 0~
+1 1 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key~
+It is a small gray skeleton. 
+~
+#23717
+silk shroud~
+a shroud of shadows~
+A large piece of gray silk lies here.~
+~
+9 100 2186 12928 1025 40
+25~ 0~ 0~ 0~
+4 20 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+109 40
+A
+2 2
+A
+17 -40
+E
+shroud~
+The silk is large anough to wrap around a medium sized humanoid. It is a
+dark gray material as strong as any leather, but as smooth and light as
+silk. It seems to absorb the light from around you and hide your body from
+normal sight. 
+~
+E
+shadows~
+You see only swirling darkness, you feel yourself drifting into the
+darknes and you look away at the last second before your soul was lost. 
+~
+#23718
+gem~
+a large &ggem&z~
+A large &ggem&W lies here.~
+~
+8 1 0 0 16385 40
+0~ 0~ 0~ 0~
+20 30 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+gem ~
+The &ggem&G is about 8 inches around and has a strange glow to it. Its
+surface has been polished smooth. 
+~
+#23719
+red eye stalk~
+an &Reye&W stalk~
+An &Reye&W stalk of a beholder lies here.~
+~
+3 65 7166 4 24577 50
+80~ 1~ 2~  ~
+8 25 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+stalk~
+The &Reye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Rred&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+red~
+The &Reye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Rred&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+eye~
+The &Reye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Rred&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+#23720
+blue eye stalk~
+an &Beye&W stalk~
+An &Beye&W stalk of a beholder lies here.~
+~
+3 65 7162 4 24577 50
+80~ 1~ 2~ charm person~
+8 25 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+stalk~
+The &Beye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Bblue&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+blue~
+The &Beye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Bblue&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+eye~
+The &Beye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Bblue&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+#23721
+yellow eye stalk~
+an &Yeye&W stalk~
+An &Yeye&W stalk of a beholder lies here.~
+~
+3 65 7162 4 24577 50
+80~ 1~ 2~ meteor swarm~
+8 25 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+stalk~
+The &Yeye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Yyellow&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+yellow~
+The &Yeye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Yyellow&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+E
+eye~
+The &Yeye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Yyellow&G glow about it. Maybe some of the magic
+form the beholder sill remains. 
+~
+#23722
+purple eye stalk~
+an &Peye&W stalk~
+An &Peye&W stalk of a beholder lies here.~
+~
+3 65 7130 4 24577 50
+80~ 1~ 2~ thunder strike~
+8 25 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+purple~
+The &Peye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Ppurple&G glow about it. Maybe some of the magic
+from the beholder still remains. 
+~
+E
+stalk~
+The &Peye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Ppurple&G glow about it. Maybe some of the magic
+from the beholder still remains. 
+~
+E
+eye~
+The &Peye&G stalk is about 10 inches long, its texture is rough and dry.
+The eye itself has a faint &Ppurple&G glow about it. Maybe some of the magic
+from the beholder still remains. 
+~
+#23723
+chest~
+a large chest~
+A large chest sets against the wall.~
+~
+15 268435456 0 0 16385 50
+3000~ 13~ 23724~ 0~
+30000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+chest~
+The chest has been constructed of stone and steel. Steel bands run around
+the sides of the chest to hold the stone slabs in place. The lid is flat and
+looks like it has been carved out of one piece of stone. You can see a small
+keyhole in the side of the chest. 
+~
+#23724
+golden key~
+a golden key~
+A golden key lies here.~
+~
+18 268435457 0 0 16385 50
+0~ 0~ 0~ 0~
+1 3 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key~
+The small key looks like it is made of solid gold. Dwarven runes have
+been etched on to the shaft of the small key. 
+~
+E
+golden~
+The small key looks like it is made of solid gold. Dwarven runes have
+been etched on to the shaft of the small key. 
+~
+#23725
+battle axe Skullcleaver~
+a battle axe~
+A steel battle axe lies here.~
+~
+5 268436737 5175 16408 8193 50
+0~ 0~ 0~ 13~
+40 20 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 80
+A
+18 70
+E
+axe~
+From its double-headed blades to its spiked handle the axe measures 3 ft.
+The twin blades of the axe have been forged for a brilliant steel that seems
+to have a faint glow about it. The handle has been wrapped with a strange
+gray leather and ends with a 3 inch spike. 
+~
+#23726
+warhammer Bonebreaker~
+a warhammer~
+A dark warhammer lies here.~
+~
+5 268436180 7203 8 8193 50
+0~ 0~ 0~ 7~
+30 30 8 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+19 60
+A
+18 45
+E
+Bonebreaker~
+The warhammer measures a little more than 2 ft long. It has been forged
+from a dark steel that seems to absorb any light that touches it. The
+weapon's handle has been wrapped with black lizard skin to give an
+unbreakable grip in battle. The end of the hammer's handle ends with a 4
+inch spike. 
+~
+E
+warhammer~
+The warhammer measures a little more than 2 ft long. It has been forged
+from a dark steel that seems to absorb any light that touches it. The
+weapon's handle has been wrapped with black lizard skin to give an
+unbreakable grip in battle. The end of the hammer's handle ends with a 4
+inch spike. 
+~
+#23727
+ring ~
+a stone ring~
+A dull gray ring lies here.~
+~
+8 268435460 648 12928 3 50
+0~ 0~ 0~ 0~
+1 50 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+12 150
+E
+runes~
+The runes seem to change as you try to look at them. Your eyes begin to
+burn and a stabing pain behind them make you look away. 
+~
+E
+ring~
+The ring has been made from one piece of smooth gray stone. There are
+runes inscribed on the inside of the ring. 
+~
+#23728
+chainmail suit~
+a suit of chainmail.~
+A pile of steel mesh lies here.~
+~
+9 268435521 3089 12956 9 50
+50~ 0~ 0~ 0~
+25 50 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 40
+A
+108 50
+A
+2 2
+E
+chainmail~
+The links have been woven into a perfect suit of steel. Most of the suit
+has been made for a light-weight steel, but the edges have been trimmed with
+a dark metal. 
+~
+#23729
+gold pile~
+a pile of coins~
+A pile of gold coins lies here.~
+~
+20 0 0 0 1 1
+100~ 0~ 0~ 0~
+30 100 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23730
+silver pile~
+a pile of silver coins~
+A pile of silver coins lies here.~
+~
+20 0 0 0 1 1
+0~ 400~ 0~ 0~
+55 0 400 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23731
+jug of dwarven liquor~
+a clay jug~
+A large clay jug lies here.~
+~
+17 0 0 0 16385 1
+50~ 50~ 7~ 0~
+8 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+jug~
+The jug is full of a very strong dwarven drink. You feel your self
+getting dizzy from just the fumes. 
+~
+#23732
+iron key~
+a small iron key~
+A small iron key lies here.~
+~
+18 2 0 0 16385 50
+0~ 0~ 0~ 0~
+1 0 7 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+key~
+The small key is crafted from iron, but has a small gem set in the tip of
+the key. The gem sparkles in the light. 
+~
+#23733
+lizard skin cape~
+a black cape~
+A black scaly cape lies here.~
+~
+9 268435460 0 49123 5 38
+-38~ 0~ 0~ 0~
+4 0 40 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+2 2
+A
+109 38
+E
+cape~
+The cape has been crafted from a strange black scaly skin, maybe lizard
+or snake. The skin is a flat black, it seems to absorb the light around you.
+The cape is about 3 ft in length and has a leather strap to sucure it to
+your neck. 
+~
+#23734
+Pool ~
+pool~
+A blue pool of crystal clear water lies here.~
+~
+29 1 0 0 0 1
+23750~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+pool~
+The oblong shaped pool is 6 ft long and 4 ft wide. The water in the pool
+is crystal clear and you can see the bottom of the pool, it looks only a few
+feet deep. The bottom of the pool is covered with blue crystals, they seem
+to be the source of the light. 
+~
+#23735
+water~
+crystal clear water~
+&w~
+~
+25 0 0 0 1 1
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+water~
+The crystal clear water has filterd down through hunderds of feet of
+stone before it came to rest in this pool. Glowing blue crystals in the
+bottom of the pool give the water its blue cast. 
+~
+#23736
+crystal~
+glowing crystal~
+&w~
+~
+12 0 0 0 1 1
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+crystal~
+The multifaceted crystals jut out of the bottom of the pool at odd
+angles. They have an inner blue light that fills the pool and room with a
+soft blue glow. 
+~
+#23737
+mushrooms~
+some &pmu&Ps&ph&Pr&po&Po&pms&w~
+A bunch of small &pmu&Ps&ph&Pr&po&Po&pms&O grow around the pool.~
+~
+19 0 0 0 1 1
+100~ 0~ 0~ 0~
+5 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+mushrooms~
+The mushrooms are only 3 inches tall and they grow on the stones around
+the pool. Their tops are dark purple with lavender spots and their stems are
+beige. 
+~
+#23750
+mist~
+a swirling mist~
+A swirling mist of mult-colored fog hovers around you.~
+~
+12 268439809 0 0 1 105
+0~ 0~ 0~ 0~
+10000 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 1000
+A
+12 1000
+E
+mist~
+Swirling multicolored mist curls about you and filles your lunges with
+new strength. But as the mist fills your vision the last thing you remember
+is falling into a endless swirling fog. 
+~
+#0
+
+
+
+#ROOMDATA
+#23700
+UnderDump.~
+You are standing at the bottom of a sewage pit, a grate is set into the
+top of the pit, but there is now way to reach the grate. You see a tunel
+running off to the west. 
+~
+0 8 0
+Rd     0
+D3
+~
+~
+0 0 23701
+S
+#23701
+A derelict's trash heap~
+To one side of the gutter, garbage has been formed into a horseshoe
+shaped mound, and planks have been laid across the top of the garbage to
+make a roof for this smelly shelter. It would seem someone, or something,
+has made its home here. The sewage flows down the tunnel to the west and you
+can hear water running into more water coming from the tunnel. To the east
+the dim light from the grate mixes with the falling sewage and water to cast
+an eerie green haze. 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23700
+D3
+~
+~
+0 0 23702
+S
+#23702
+In the main sewage canal~
+The gutter runs to the end of the tunnel and drops a few feet into a
+larger canal that runs north and south. The canal is about 20 ft wide and
+appears to have been carved out of the bedrock. You test the depth of the
+canal and find it is only a few inches deep. Footing is treacherous as you
+make your way across this part of the sewer. The slow moving sewage has left
+a slippery layer of sludge on the bottom of the canal as it flows south into
+the darkness. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23703
+D1
+~
+~
+0 0 23701
+D2
+~
+~
+0 0 23704
+S
+#23703
+To the sewers of Bethaven~
+The canal becomes deeper as you travel north. The sewage is up to your
+waist when you get to the portcullis that blocks your path into the sewers
+of Bethhaven. The bars are too close togather for you to squeeze between but
+the sewage from Bethaven flows past with no trouble. The only way to go is
+back south and follow the sewage flow and see where is goes. As you turn
+around something under the water bumps into your leg and you see a dark
+shape swim past you in the foul water. 
+~
+0 8201 0
+Rd     0
+D2
+~
+~
+0 0 23743
+S
+#23704
+Main sewage canal~
+You notice that the walls have been built from blocks of stone that have
+been cut to fit together with the other stones to form a water tight wall.
+The canal itself appears to have been carved from the bedrock it flows
+upon. The canal is only a foot deep here but the sludge on the bottom of the
+canal makes it hard to keep your footing. You can hear water running some
+where farther south. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23743
+D2
+~
+~
+0 0 23705
+S
+#23705
+Main sewage canal~
+The canal leads you farther down into the earth. The walls and floor of
+the canal are both cut from the bedrock now, blocks of stone have been
+fitted together to form the arched ceiling that runs about 13 ft above you.
+Although the water is only a foot deep, it is running very fast and the
+sludge on the floor of the canal is making it very hard to keep your
+footing. You come upon a tunnel opening set high in the west wall. A set of
+hand and foot holes have been cut into the rock, leading form the canal
+floor to the tunnel opening above. A stream of foul liquid runs down the
+wall just to the right of the hand holes. From the south you can hear the
+sound of falling water. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23704
+D2
+~
+~
+0 0 23709
+D4
+~
+~
+0 0 23706
+S
+#23706
+Side of the tunnel~
+As you put your hands into the holes you feel bugs flee past your
+fingers. The foul stream running down the wall reeks of urine and blood, now
+you think the sewage below didn't smell so bad after all. When you get to
+the tunnel opening you see that there is a dim light at the far end of the
+tunnel. A gutter has been cut into the floor of this natural tunnel. The
+gutter carries the foul sewage to the end of the tunnel, where it is dumped
+into the canal below. As you look up the tunnel you think you see something
+on the ceiling move or was it just the light from the other side of the
+tunnel. 
+~
+0 8201 0
+Rd     0
+D3
+~
+~
+0 0 23707
+D5
+~
+~
+0 0 23705
+S
+#23707
+The Lurker's lair~
+The tunnel leads into a larger room with a ceiling lost to shadows high
+above you. The gutter runs across the floor of the cave and carries foul
+smelling sewage down the tunnel to the east. You think you see something
+move in the shadows above you, but your light only make the shadows dance
+and your imagination runs wild. There is a dim light coming from the tunnel
+leading to the west. 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23706
+D3
+~
+~
+0 0 23708
+S
+#23708
+Under an Outhouse~
+The pit has been build out of stone blocks and there is a set of hand
+holds cut into the stone leading form the floor of the pit to the outhouse
+above. A gutter has been cut into the floor and sewage it flowing down the
+tunnel to the west. As you stand there and look about, you think to your
+self that you should be moving before someone decides to use the outhouse to
+relieve themselves and you get caught in the downpour. 
+~
+0 8 0
+Rd     0
+D1
+~
+~
+0 0 23707
+S
+#23709
+Main sewage canal~
+The canal dumps its putrid sludge and liquid sewage into an underground
+spring that carries the sewage farther down into the earth. The sound of
+thick sludge and watery liquid hitting the water below fills the cavern. The
+drop is only about 5 feet to the cesspool below. No hand holds have been
+carved into the stone here, so the only way to continue is to jump into the
+cesspool below and hope there is nothing under the water to greet you when
+you land. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23705
+D5
+~
+~
+0 0 23710
+S
+#23710
+The Cesspool~
+You splash into the cesspool, your head goes under the foul water and
+comes up with a layer of slime covering your mouth and nose. The water was
+deeper than you had thought, but you can touch the bottom of the pool as you
+make your way to the side of the pool. The stream leaves the cesspool to the
+west or you could try to climb back up to the canal spillway. 
+~
+0 8201 0
+Rd     0
+D3
+~
+~
+0 0 23711
+D4
+~
+~
+0 0 23709
+S
+#23711
+Tainted underground stream~
+The stream fills most of the cavern floor, the water moves slowly to the
+west. Its hard to think that some time in the past this water had been pure
+and clean. Now it smells and there is a thin film that covers the water's
+surface. In this part of the cavern the water is about 4 ft deep and the
+ceiling is lost in the shadows above. You can only make out the bottoms of
+stalactites that are hanging out of the shifting shadows. Almost as if they
+were getting ready to pounce on you as you walk under them. You see a faint
+yellow glow coming from the far west end of the cavern and only darkness to
+the east. 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23710
+D3
+~
+~
+0 0 23712
+S
+#23712
+Bend in the stream~
+The tunnel opens into a large underground chamber. A stream flows through
+the chamber, it enters from a tunnel to the east and makes a sharp bend and
+exits through a tunnel to the south. A faint yellow glow is coming from the
+northwest corner of the chamber where a dike of sludge has formed to hold a
+small pool of water. 
+~
+0 8200 0
+Rd     0
+D1
+~
+~
+0 0 23711
+D2
+~
+~
+0 0 23717
+D3
+~
+~
+0 0 23713
+S
+#23713
+The edge of a muddy pool~
+The mud has collected here to form a muddy beach.  Just past the muddy
+bank you see the source of the yellow glow. There is a shallow pool of clear
+water that has formed in the middle of the beach. The yellow glow hovers
+just over the top of the water. The muddy bank leads you east to an
+underground stream. 
+~
+0 8200 0
+Rd     0
+D1
+~
+~
+0 0 23712
+D2
+~
+~
+0 0 23716
+D3
+~
+~
+0 0 23714
+S
+#23714
+A muddy pool~
+When you step into the pool, your steps turn the crystal clear water into
+a brownish-gray soup. The mud is shifting and turning about your feet, as
+you take another step you feel the mud pulling your foot back. You think you
+see something move under the surface of the pool, but you tell yourself its
+just your imagination. 
+~
+0 8200 0
+Rd     0
+D1
+~
+~
+0 0 23713
+D2
+~
+~
+0 0 23715
+S
+#23715
+The farside of the muddy pool~
+You pull yourself onto the muddy bank, and when you look back at the pool you
+see that the mud in the pool is taking form. Stocky humanoid shapes are
+raising from the mud, the yellow glow has left the pool and now hangs about
+the creatures in the pool. Your back is to the chambers wall, the only exit
+you see is across the muddy pool. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23714
+D1
+~
+~
+0 0 23716
+S
+#23716
+A muddy pool~
+When you step into the pool, your steps turn the crystal clear water into
+a brownish-gray soup. The mud is shifting and turning about your feet, as
+you try to take another step you feel the mud pulling at your feet. You
+think you see something move under the surface of the pool, but you tell
+yourself its just your imagination. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23713
+D3
+~
+~
+0 0 23715
+S
+#23717
+Tainted underground stream~
+A stream rushes down the middle of the tunnel as you follow a small path
+around the stalagmites, that raise form the floor to create an underground
+forest of stone. Some of the stalactites have reached down and joined
+stalagmites to form natural stone columns that reach into the gloom above
+you. To the south you can hear the roar of a small waterfall. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23712
+D2
+~
+~
+0 0 23718
+S
+#23718
+The Drop~
+You are standing on a ledge overlooking an underground waterfall to the
+south and a large tunnel with a fast running stream pouring from it to the
+north, the stream roars off into the misty darkness and crashes against
+unseen rocks below. A set of steps, that have been carved into the side of
+the stone, lead down the side of the waterfall and to a much smaller ledge
+at the very edge of the falling water. There is a small path running along
+the stream to the north and into the tunnel. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23717
+D2
+~
+~
+0 0 23744
+D5
+~
+~
+0 0 23719
+S
+#23719
+Halfway down the ledge~
+You are standing on a small ledge that leads to a tunnel behind the
+waterfall. A set of steep steps have been carved into the side of the stone
+leading up to the top of the waterfall. The mist from the falling water has
+made the steps wet and slippery and very treacherous to walk upon. The
+tunnel descends to the west and a small stream of water runs into the tunnel
+and is lost in the darkness. A foul smell rises from the tunnel and is swept
+away by the falling water. 
+~
+0 8201 0
+Rd     0
+D3
+~
+~
+0 0 23720
+D4
+~
+~
+0 0 23718
+D5
+~
+~
+0 0 23721
+S
+#23720
+Hidden tunnel behind the waterfall~
+The tunnel has been cut from the stone and steps have been carved into
+the floor, to make the steep incline of the tunnel easier to traverse. A
+small gutter channels the water down the side of the tunnel and into the
+darkness below. To the east a defining roar can be heard as the tunnel opens
+behind a waterfall 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23719
+D5
+~
+~
+0 0 23725
+S
+#23721
+The bottom of the waterfall~
+You are at the bottom of the waterfall, there is a heavy mist in the air
+as well as falling debris from above. The waterfall fills an underground lake
+and you can see another waterfall on the far side of the lake. There is a
+small path leading south around the side of the lake. A set of hand holds
+that have been cut into the stone leads up the side of the waterfall. 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23745
+D2
+~
+~
+0 0 23722
+D4
+~
+~
+0 0 23719
+S
+#23722
+Outlet to an underground river~
+The path ends at the side of a large waterfall, the water from the lake
+is spilling into a hole in the cavern wall. You can't hear the water hit
+bottom, only the rush of it off into the darkness below. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23721
+D1
+~
+hole~
+0 0 23723
+S
+>enter_prog ~
+0
+~
+|
+#23723
+An underground river~
+~
+0 33562637 6
+Rd     0
+D4
+~
+~
+0 0 10642
+S
+#23724
+An underground river~
+~
+0 33554445 6
+Rd     0
+S
+#23725
+The hidden tunnel~
+The tunnel runs almost vertically here, the steps have became very narrow
+and steep and the water from the canal is falling past you and into the
+darkness below, making the steps wet and slippery. You can tell from the
+noise of the water hitting the bottom, that there is a floor just off into
+the darkness below you. A foul smell rises from the darkness below that
+makes you gag. 
+~
+0 8201 0
+Rd     0
+D4
+~
+~
+0 0 23720
+D5
+~
+~
+0 0 23726
+S
+#23726
+A ceilingless chamber~
+You are in a round chamber that has been carved from the rock. There is
+no ceiling in this chamber, only a set of steps that spiral into the
+darkness above. A shower of water hits the chamber's floor and rushes out
+the tunnel to the north. The chamber is filled with a fine mist and the
+noise of the small waterfall. Your only exits are up the steps into the
+darkness above or to follow the water into the tunnel. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23749
+D4
+~
+~
+0 0 23725
+S
+#23727
+The ledge~
+You stand on a ledge 20 ft above the cavern floor, a set of steps have
+been carved into the side of the stone, leading down to the floor of the
+cavern. There is a tunnel leading to the south into the stone wall, a stream
+of water rushes out of the tunnel opening, over the side of the ledge and
+splashes into a pool below. The ceiling of the cavern is covered with a
+strange fungus that emits an eerie green glow. You can just hear screams and
+laughter over the sound of the water hitting the pool below. The glow from
+the fungus casts anough light for you to see a group of goblins dancing
+about the cavern floor, a large tunnel opening in the northwest corner, and
+what looks like a small hut in the northeast corner of the cavern. The
+stench of rotting flesh rises from the cavern floor. 
+~
+0 8200 0
+Rd     0
+D2
+~
+~
+0 0 23749
+D5
+~
+~
+0 0 23728
+S
+#23728
+The narrow steps~
+You are on a set of steps that have been carved into the side of the
+cavern. You can see a tunnel leading south at the bottom of the steps and to
+the north you see a dark opening in the cavern wall. The goblins are so busy
+with their celebration, they don't see you on the steps. At the top of the
+steps there is a small ledge with a waterfall running off it and into a
+dark pool below. 
+~
+0 8200 0
+Rd     0
+D4
+~
+~
+0 0 23727
+D5
+~
+~
+0 0 23729
+S
+#23729
+Cavern floor~
+You stand in the southwest corner of the cavern. A set of steps, that
+have been carved into the side of the cavern wall, leads to a ledge and a
+small waterfall above. The water from the waterfall empties into a dark pool
+to the east. There is a small dark tunnel leading south and a larger tunnel
+opening in the northwest corner of the cavern. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23731
+D1
+~
+~
+0 0 23732
+D2
+~
+~
+0 0 23730
+D4
+~
+~
+0 0 23728
+S
+#23730
+A dark tunnel~
+The tunnel only runs a few yards until it is blocked by a cave-in. The
+head and shoulders of a dwarf lies half buried and rotting under the cave-in
+and his helm and breastplate have been crushed beyond repair. The stench of
+the rotting corpse is overpowering in the small tunnel and you retreat back
+to the main cavern. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23729
+S
+#23731
+Outer edge of the cavern~
+This must have been where they put all the broken formations and rocks
+when they cleared the cavern floor. The large pieces of stone make it easy
+to get past the group of goblins to the east. You see the mouth of a large
+tunnel set into the northwest corner of the cavern wall and a smaller tunnel
+to the south. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23736
+D2
+~
+~
+0 0 23729
+S
+#23732
+Rank pool of filth~
+You are standing before a rank pool of green water and rotting body
+parts. The goblins have decapitated their victim's heads and thrown them
+into the pool. The pool has been carved into the cavern floor to catch the
+water from above. The water falling into the pool stirs the strew of rotting
+body parts about the pool leaving a green ring of froth around the edge of
+the pool. Statues lay broken on the floor around the pool. You see a rickety
+hut to the east and a large open area to the north. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23735
+D1
+~
+~
+0 0 23733
+D3
+~
+~
+0 0 23729
+S
+#23733
+Before a hut~
+Before you stands a crude hut made from broken planks of wood and piles
+of stone. An old table top serves as a door for the hut. There are no other
+opening in the hut. A foul smelling pool lies to the west. 
+~
+0 8200 0
+Rd     0
+D1
+~
+door~
+3 0 23734
+D3
+~
+~
+0 0 23732
+S
+#23734
+Gud's hut~
+As you enter the hut your nose is assaulted by the putrid smell of
+rotting flesh. Against the back wall of the hut a large pile of uncured
+animal skins and clothes have been layed out to form a 9 ft bed. What ever
+sleeps here is bigger that a goblin. 
+~
+0 8201 0
+Rd     0
+E
+piles~
+Flesh is rotting on the animal skins and the smell is almost more than
+you can take. But you see a gray box hidden under the furs. 
+~
+D3
+~
+door~
+3 0 23733
+S
+#23735
+Middle of cavern~
+This is the center of the goblin camp. Scraps of cloth and bones litter
+the floor of the cavern. You have to be careful where you step because the
+goblins don't seem to care where they relieve themselves. Half eaten corpses
+are strewn about the mess on the floor. There is a large fissure running
+down the west of the cavern all the way to the north wall, blocking the west
+to all but those who can fly. You can see that there is a passage way of
+some kind on the north wall. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23747
+D2
+~
+~
+0 0 23732
+D3
+~
+~
+0 0 23742
+S
+#23736
+Northwest corner of the cavern~
+You are in the northwest corner of the cavern, there is a large fissure
+in the floor of the cavern to the east. The fissure runs from the cavern
+wall back into the east side of the field of boulders. Making the field of
+boulders to the south the only way to approach the tunnel from the cavern.
+The dim light of the cavern ceiling doesn't penetrate the darkness within
+the tunnel and a foul stinch comes from that same darkness. 
+~
+0 8200 0
+Rd     0
+D0
+~
+~
+0 0 23737
+D1
+~
+~
+0 0 23742
+D2
+~
+~
+0 0 23731
+S
+#23737
+A dark tunnel~
+The tunnel's ceiling and walls are about 20 ft in diameter and continues
+to the north another 40 ft, then the tunnel bends to the east and out of
+sight. The smell of rot and decay grows stronger from the north and to the
+south the tunnel opens into a cavern, you can hear wild shouts and screems
+coming from the cavern. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23738
+D2
+~
+~
+0 0 23736
+S
+#23738
+Bend in the tunnel~
+The tunnel turns east into a larger chamber. The smell of rotting corpses
+is almost overpowering. You see dried blood on the floor infront of the
+chamber's opening and you can hear hisses of air coming from the dark
+chamber. 
+~
+0 8201 0
+Rd     0
+D1
+~
+~
+0 0 23739
+D2
+~
+~
+0 0 23737
+S
+#23739
+Beholder's Lair~
+The tunnel opens into a round chamber, the ceiling is lost in the shadows
+above you and the walls are 20 ft apart. There are pools of blood and body
+parts strewn across the chamber floor. The foul odor of rotting flesh and
+body waste burns your nose and eyes. Pieces of ruined armor and weapons lay
+about the floor. There is a faint blue glow coming from a ledge 20 ft above
+you, but the walls are too smooth to climb. Looks like the only way to get
+up there, would be to fly. 
+~
+0 8201 0
+Rd     0
+D3
+~
+~
+0 0 23738
+D4
+~
+~
+0 0 23740
+S
+#23740
+Above the Lair~
+You are floating above the carnage on the floor below. The ceiling is
+another 10 ft above you. There is a ledge to your north and something in a
+pile of treasure is casting a blue glow about the walls. The air reeks of
+rotting flesh and urine. 
+~
+0 33562633 9
+Rd     0
+D0
+~
+~
+0 0 23741
+D5
+~
+~
+0 0 23739
+S
+#23741
+Beholder's treasure~
+This is where the beholder keeps its treasure, on a 10 ft ledge high
+above the floor below. There is a pile of equipment and a large chest
+against the back wall of the ledge. You see that some of the equipment is
+still attached to rotting body parts. 
+~
+0 8201 0
+Rd     0
+D2
+~
+~
+0 0 23740
+S
+#23742
+Over the pit~
+You are floating over a bottomless pit, only darkness and possibly your
+death await you there. To the west a large tunnel opening breaks the cavern
+wall and to the east a group of goblins have made their camp. Hot air rises
+from the fissure and your nose is filled with the smell of fire and
+brimstone. 
+~
+0 33562632 9
+Rd     0
+D1
+~
+~
+0 0 23735
+D3
+~
+~
+0 0 23736
+D5
+~
+~
+0 0 23746
+S
+#23743
+In the main sewage canal~
+The canal floor is covered with a foul sludge, making it very hard to
+keep your footing as you walk along the canal. There is a side tunnel to the
+east with sewage running from the tunnel and splashing into the canal. The
+canal disappears into the darkness to the north and south. 
+~
+0 8201 0
+Rd     0
+D0
+~
+~
+0 0 23703
+D1
+~
+~
+0 0 23701
+D2
+~
+~
+0 0 23704
+S
+#23744
+Misty fall~
+The air is filled with a thick mist that blocks all view of the world
+around you. The roar of the waterfall is deafening with the sound of water
+smashing against the rocks below. 
+~
+0 33562633 9
+Rd     0
+D0
+~
+~
+0 0 23718
+D5
+~
+~
+0 0 23745
+S
+#23745
+The rocks below~
+The water from the fall is smashing you against the rocks. You feel the
+rocks bruise and bash your whole body as you are swept around the bottom of
+the pool. You are tumbled about and pushed back under the water. As you are
+tumbling about you see a bank. 
+~
+0 268443657 6
+Rd     0
+D3
+~
+~
+0 0 23721
+S
+#23746
+The bottemless pit~
+You fall into darkness, you fall and fall for hours.... ... ... .. .. . .  .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+You fall for what seems like forever,
+        
+        
+                      The air rushing past you rips at your closths. .. . 
+ 
+ 
+ 
+ 
+Hmm maybe you have found a gate into the Abyss?
+~
+0 301989901 9
+Rd     0
+S
+#23747
+Shrine entrance~
+The cavern's ceiling bends and forms a wall of stone with only a natural
+passageway breaking the stone, and it has been blocked by a crude rod iron
+gate that has recently been installed. The passageway is 4 ft in width and
+twice that in hieght, it seems to have been formed from millions of years of
+running water. The beige stone has become as smooth as glass and is streaked
+with nickel and copper giving it pink and green streaks that cover the walls
+and floor. A set of iron hinges and a latch have been driven into the stone
+to support the gate and a large padlock secures the gate to the latch. Small
+rusty streams of water run from the iron that has been driven into the
+stone, almost as if the stone was weeping. 
+~
+0 8200 0
+Rd     0
+E
+gate~
+Rust has begain to from on the crude iron gate, working its way from the
+set of hinges and the latch set into the stone wall. 
+~
+E
+padlock~
+The padlock is nearly 8 inches across and 2 inches in thickness, but the
+keyhole is very small. It looks like it would be very hard to pick the lock.
+~
+D0
+~
+gate padlock~
+87 23732 23748
+D2
+~
+~
+0 0 23735
+S
+#23748
+A marble passageway~
+Moisture covers the smooth stone of the passageway making the floor as
+smooth as glass. The beige stone is streaked with pink and green veins of
+copper and nickel. A iron gate has been installed in the south opening of
+the passageway, you see a large cavern with an eerie green glow coming from
+its ceiling beyond the gate, and to the north the passageway opens into a
+large subterranean room, a soft blue glow fills the north end of the
+passageway. 
+~
+0 8201 0
+Rd     0
+E
+gate~
+Rust has begain to from on the crude iron gate, working its way from the
+set of hinges and the latch set into the stone wall. 
+~
+E
+padlock~
+The padlock is nearly 8 inches across and 2 inches in thickness, but the
+keyhole is very small. It looks like it would be very hard to pick the lock.
+~
+D0
+~
+~
+0 0 23751
+D2
+~
+gate padlock~
+87 23732 23747
+S
+#23749
+A short tunnel~
+The tunnel only runs 10 ft, connecting a chamber with a small waterfall
+to the south, to a ledge over looking a cavern to the north. An eerie green
+glow from something on the ceiling of the cavern cast shadows about the
+tunnel walls. A gutter has been carved into the floor and water flows north
+and over the ledge. The sound of splashing water fills the air, but you can
+just make out the sound of wild screams coming from the cavern.. 
+~
+0 9 0
+Rd     0
+D0
+~
+~
+0 0 23727
+D2
+~
+~
+0 0 23726
+S
+#23750
+Focus room~
+The chamber has beem formed from the growth of cystals that angle out of
+all the surfaces in the small cavern. The crystals pulse with a faint light.
+Pinks and yellows, blue and red hues are cast about the room. The pulsing
+crystals seem to have a hypnotic affect on you and you feel yourself
+slipping into a multi-colored fog of nothingness. 
+~
+0 134226972 0
+Rd     0
+S
+#23751
+A room of formations~
+The passageway opens into a large subterranean room, roughly 20 ft across
+and over 10 ft tall. Stalactites hang from the cieling and stalagmites rise
+from the floor to fill the room with wondrous formations of stone. The
+moisture on the formations glistens in the soft blue glow coming from the
+far side of the room. The source of the glow is hid from sight, from this
+side of the room, by the stalagmites. 
+~
+0 8 0
+Rd     0
+D0
+~
+~
+0 0 23752
+D2
+~
+~
+0 0 23748
+S
+#23752
+The Forgotten Shrine ~
+You stand before a fan-shapped formation of stone, that has been created
+from stalactites that have fromed togather and reached down to touch their
+twin stalagmites below. Small drops of water run down the formation and
+slide into a small blue pool of water that lies at the base of the
+formation. A light radiates from under the waters surface and fills the
+underground room with a soft blue glow. 
+~
+0 8 0
+Rd     0
+D2
+~
+~
+0 0 23751
+S
+#0
+
+
+
+#SPECIALS
+M 23712 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 23700 1 23701
+E 0 23700 0 20
+M 0 23701 1 23703
+M 0 23703 2 23705
+M 0 23702 1 23707
+M 0 23704 4 23711
+M 0 23704 4 23712
+M 0 23705 4 23714
+M 0 23705 4 23716
+M 0 23706 2 23727
+E 0 23703 0 20
+E 0 23702 0 22
+E 0 23704 0 6
+M 0 23706 2 23729
+E 0 23702 0 22
+E 0 23703 0 20
+E 0 23709 0 17
+M 0 23708 11 23731
+M 0 23707 8 23731
+E 0 23705 0 20
+E 0 23711 0 14
+E 0 23702 0 22
+M 0 23708 11 23731
+M 0 23707 8 23731
+M 0 23708 11 23732
+M 0 23707 8 23732
+E 0 23705 0 20
+E 0 23702 0 22
+E 0 23708 0 12
+M 0 23708 11 23732
+M 0 23707 8 23732
+M 0 23711 1 23732
+G 0 23732 0
+M 0 23710 4 23733
+M 0 23709 1 23733
+E 0 23712 0 20
+E 0 23713 0 5
+M 0 23708 11 23733
+M 0 23707 8 23733
+E 0 23705 0 20
+E 0 23702 0 22
+E 0 23710 0 13
+O 0 23714 0 23734
+P 0 23717 0 23714
+P 0 23718 0 23714
+M 0 23708 11 23735
+M 0 23707 8 23735
+E 0 23705 0 20
+E 0 23702 0 22
+E 0 23706 0 11
+M 0 23708 11 23735
+E 0 23702 0 22
+M 0 23707 8 23735
+M 0 23712 1 23739
+E 0 23719 0 22
+G 0 23720 0
+G 0 23721 0
+G 0 23722 0
+O 0 23723 0 23741
+P 0 23727 0 23723
+P 0 23725 0 23723
+P 0 23726 0 23723
+M 0 23713 1 23741
+E 0 23728 0 5
+M 0 23708 11 23747
+M 0 23707 8 23747
+E 0 23705 0 20
+E 0 23702 0 22
+E 0 23707 0 5
+M 0 23708 11 23747
+M 0 23707 8 23747
+O 0 23750 0 23750
+M 0 23714 1 23750
+E 0 23732 0 22
+G 0 23727 0
+G 0 23724 0
+M 0 23715 2 23750
+E 0 23703 0 20
+E 0 23733 0 4
+O 0 23735 0 23752
+O 0 23736 0 23752
+O 0 23737 0 23752
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

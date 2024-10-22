@@ -1,0 +1,1350 @@
+#AREADATA
+Name        { ALL } Tomb of Torment~
+Levels      0 0
+Builders    Annibus Yrinthi Akasha Laric~
+VNUMs       23200 23299
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#23200
+Berthris bartender~
+Berthris~
+Berthris is here waiting to serve you.
+~
+This thing before you in HUGE!  He is very quiet as he waits for your
+order.  
+~
+3 0 0 -1000 S
+100 0 0 1d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+>rand_prog 5~
+emote eyes you up and down for a possible meal.
+emote returns to licking his chops.
+~
+>all_greet_prog 100~
+emote nods as you enter.
+say Welcome $n, order what ya please.
+emote flashes a toothy grin.
+say but ya might wanna stay away from the Xarch tonight.
+~
+|
+#23201
+Grathon healer~
+Grathon~
+Grathon is here tormenting for your glory.
+~
+~
+393283 168296680 16 0 S
+105 0 0 80000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67633151 0 0
+>rand_prog 5~
+cast 'heal' $n
+cast 'haste' $n
+cast 'refresh' $n
+~
+>act_prog 5~
+cast 'heal' $n
+~
+>speech_prog haste~
+cast 'haste' $n
+~
+>speech_prog gold~
+cast 'golden aura' $n
+~
+>speech_prog aid~
+cast 'aid' $n
+cast 'sanc' $n
+cast golden $n
+cast haste $n
+cast dark $n
+~
+|
+#23202
+mum keeper souls~
+&zMum-Ra, &rKeeper of the Souls~
+&z A dark figure stands guard over the Chamber
+~
+&z A large creature stands here awaiting the next &rvictim.
+~
+1441859 0 65536 -1000 S
+100 0 0 55000d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+>rand_prog 2~
+, &zlooks around the room for stray souls.
+, &zlooks at you and grins.
+say &zOh there you are.  Do not stray away!
+~
+|
+#23203
+Kheld weapon~
+&gKheld~
+&g Kheld the &zWeapon Master
+~
+This man seems to care little for your presence.  Perhaps you are not 
+welcomed in this place
+~
+1441859 0 0 -1000 S
+100 0 0 45000d0+0 0d0+0
+10000 10000 10000 0
+0 0 0
+0 0 0
+#23204
+Vader knight warrior~
+&zVader the Lone Maurader~
+&z Vader, the Great Ancient Warrior of Oblivion
+~
+&zBefore you stand the a Sithid you thought never existed.  It is the Mighty
+warrior names &rVader&z.  His huge size makes the strongest of men shudder
+in there place.  Are you prepared to challenge this great warrior?
+~
+1441795 0 0 -1000 S
+102 0 0 50000d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23205
+magic Zantantholos~
+&pZantantholos~
+&pZantantholos, &bthe Great Wizard of Peril
+~
+&zA very old wizard stands here in a long &ppurple &zrobe.  He seems to be
+in deep concentration at the moment.
+~
+1441795 0 0 -1000 S
+102 0 0 30000d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23206
+guard Kalmox~
+&bKalmox~
+&bKalmox &zstands guard here.
+~
+&zKalmox stands at nearly 9 feet.  He is one of the biggests half-giants
+you have ever seen.  He stands here on guard before a great door.
+~
+393283 268435520 163892 -1000 S
+106 0 0 75000d0+0 0d0+0
+0 0 0 0
+0 0 1
+67127445 0 0
+>all_greet_prog 100~
+glare $n
+say &z Greetings $n.  Are you here to seek council with Lord Yrinthi?
+~
+>speech_prog yes~
+nod $n
+say &zI shall notify Lord Yrinthi of your presence.
+tell yrinthi &zYou have a &RGuest&z!  $s name is &B$n&z.  Shall I let them in?
+~
+>speech_prog &zChamber.~
+say &z You have been granted permission to seek council with Lord Yrinthi.
+mpoload 23209
+unlock east
+open east
+mptrash 23209
+say &zDo not keep him long or you may &ranger &zhim.
+~
+>speech_prog no~
+growl $n
+say &zThen your presence here is not needed!
+say &zYou may leave now or &rPrepare to DIE!
+grin $n
+~
+>all_greet_prog Yrimthi~
+if name($n) == Yrinthi
+bow $n
+say &zGreetings Lord Yrinthi!
+say &zShall I open the door to your chamber?
+~
+|
+#23207
+h r pufnstuf~
+&YH &RR &BP&Pu&Gf&Cn&Ys&Bt&Ru&Pf~
+&YH &RR &BP&Pu&Gf&Cn&Ys&Bt&Ru&Pf
+~
+A big.....well actually you are not sure what the hell this thing is.  His head 
+is rather large and he has a aura of sillyness floating around him.
+~
+5 16777344 144 1000 S
+100 0 0 60000d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#23208
+portal Sherik~
+&pSherik~
+&pSherik stands here awaiting your travel request
+~
+~
+67 0 0 -1000 S
+102 0 0 50000d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+>speech_prog Bethaven~
+say You are now in Bethaven $n.  Enjoy your visit.
+bow $n
+mptrans $n 25000
+~
+>speech_prog City Shadows~
+bow $n
+say &bYou are now in City of Shadows $n.  Enjoy your visit.
+mptrans $n 8768
+~
+>speech_prog Ravenwood~
+bow $n
+say &bYou are now in Ravenwood $n.  Enjoy your visit.
+mptrans $n 1300
+~
+>all_greet_prog 100~
+say &rGreetings $n.  Where would you like to travel today?
+~
+>speech_prog Tower~
+if level($n) >= 100
+say Enjoy you visit.  Report your findings to Yrinthi!
+mptrans $n 301
+else
+say You are too young my child.
+~
+>speech_prog Pits~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 600
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Abomination~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 1000
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Garnet~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 1100
+else
+say You are too young for such a journey my child.
+~
+>speech_prog hall~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 2200
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Ralisan~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 5550
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Gegasean~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 6350
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Arena~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 7350
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Tolaria~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 9101
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Deathfang~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 11800
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Spider~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 21949
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Lairich~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 22101
+else
+say You are too young for such a journey my child.
+~
+>speech_prog Spires~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 30600
+else
+say You are too young for such a journey my child.
+~
+>speech_prog ~
+if level($n) >= 100
+say Enjoy your visit.  Report your findings to Yrinthi!
+mptrans $n 
+else
+say You are too young for such a journey my child.
+~
+|
+#23209
+Hephix~
+Hephix~
+Hephix stand here guarding the entrance.
+~
+~
+67 0 0 -1000 S
+102 0 0 75000d0+0 0d0+0
+0 0 0 0
+0 0 1
+0 0 0
+>act_prog 5~
+at 504 mppurge
+at 504 mpoload 23212
+~
+|
+#0
+
+
+
+#OBJECTS
+#23200
+Dragon Throne~
+throne~
+The Throne of Annibus the Dragon God~
+~
+12 259 0 0 0 0
+0~ 0~ 0~ 0~
+1000 0 0 0 0
+5 0
+cure critical~
+5 5
+0 0 0
+#23201
+Key to the Beast~
+Lair Key~
+Lair Key~
+~
+18 268435603 0 0 16385 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23202
+blood~
+Stout of Mortal Blood~
+Stout of Mortal Blood~
+~
+17 1 0 0 16385 15
+100~ 100~ 13~ 0~
+1 0 10 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23203
+Tankard 'o Brew~
+tankard o' Brew~
+A tasty beverage sets here.~
+~
+17 0 0 0 16385 15
+50~ 50~ 4~ 0~
+1 0 10 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23204
+Xarch~
+a pint of Xarch~
+Some foul liquid sets here.~
+~
+10 268435456 0 0 1 1
+100~ gas breath~ gas breath~ gas breath~
+1 0 15 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23205
+assassin card~
+&pThe Assassin's Card~
+&zA small &rbloody &zcard lies here.~
+~
+13 67109396 0 0 16385 50
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+>drop_prog 100~
+0
+save
+,&zfalls to the ground silently.
+say &zThe contract has been fulfilled.
+~
+|
+#23206
+throne flames~
+&OThrone of &RF&rl&Ra&rm&Re&rs~
+&OThrone of &RF&rl&Ra&rm&Re&rs~
+~
+12 100663316 0 0 0 102
+0~ 0~ 0~ 0~
+100 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+throne~
+&RThe entire throne appears to have no subtance but that of the flames.
+~
+E
+flames~
+&rThe flames dance around forming the shape of a throne.  Would you dare sit in such a throne?
+~
+#23207
+fountain blood~
+&RFountain of Blood~
+&RFountain of Blood~
+~
+25 20 0 0 0 20
+0~ 0~ 0~ 0~
+100 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+E
+fountain~
+&z The fountain appears to be of sone structure....what what it contains is something very different.
+~
+E
+blood~
+&zWithin the basin of the fountain lies a large &Rpool of blood&z.
+~
+#23208
+warhammer east~
+&YWarhammer of the East~
+&YWarhammer of the East~
+~
+5 100663316 0 0 8193 102
+0~ 0~ 0~ 7~
+8 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23209
+key yrinthi~
+&zThe Chamber Key~
+&zA huge key lies here.~
+~
+18 33554437 0 0 16385 102
+0~ 0~ 0~ 0~
+5 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23210
+spear ~
+&OSpear of Crisis~
+&OSpear of Crisis~
+~
+5 100663301 0 0 8193 102
+0~ 0~ 0~ 2~
+10 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23211
+portal~
+portal~
+A portal stands here.~
+~
+29 5 0 0 0 10
+504~ 0~ 0~ 0~
+10 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23212
+portal~
+portal~
+A portal glimmering of dark flames stands here.~
+~
+29 0 0 0 0 100
+23201~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+>open_prog level $n >100~
+0
+say Welcome m'friend....you may journey to another realm
+~
+|
+#23213
+oblivion~
+&zTorpedo~
+&zA long curved dagger lies here. ~
+~
+5 905969724 3995 61796 8193 100
+0~ 0~ 0~ 2~
+0 5000 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+112 -1
+A
+100 -1
+A
+18 180
+A
+19 200
+A
+2 2
+>get_prog 100~
+0
+say &zYes Master?  Is it time to slay another?
+cackle
+~
+>get_prog ~
+0
+~
+|
+#23214
+claws pain~
+&OClaws of Pain~
+A piar of claws which seem to fit nicely over the hand.~
+~
+5 100667527 0 0 8193 25
+0~ 0~ 0~ 5~
+5 0 0 1 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+2 -2
+A
+1 -2
+A
+19 50
+A
+18 50
+>wear_prog 100~
+0
+cackle
+say &zYour soul now belongs to Yrinthi!&G
+say &zShall you worship him....or die?&G
+~
+>use_prog 100~
+0
+, forms tigher around your hand.....not letting go.
+say &zI am one with your flesh....as your soul binds with those of Yrinthi's slaves.&G
+opmurder $n
+opkill $n
+damage $n
+opdamge $n
+murder $n
+kill $n
+~
+>get_prog 100~
+0
+,smiles happily as it is held by its new master.
+say &zWield me and feel the power of my &rSTRIKE&z!&G
+~
+>drop_prog 100~
+0
+,emits a hideous cackle.
+say &zYou shall never part from me $n.  You now belong to &RYrinthi&z!&G
+~
+>rand_prog 5~
+0
+,begins to twitch violently.
+say &z$n betrayed Yrinthi.....now he shall suffer!&G
+cast incinerate $n
+~
+>cast_prog 10~
+0
+cast hex $n
+cast awe $n
+~
+>cast_sn_prog 10~
+0
+cast hex $n
+cast awe $n 
+~
+>cast_prog 10~
+0
+opcast hex $n
+opcast awe $n
+~
+>cast_sn_prog 10~
+0
+opcast hex $n
+opcast awe $n
+~
+|
+#23215
+head thallin~
+&RThe head of Thallin~
+&RThe head of Thallin~
+~
+13 0 0 0 16385 100
+0~ 0~ 0~ 0~
+20 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#23216
+Kriss Allah~
+&BKriss of &pAllah~
+A nasty looking weapon lies here sparkiling in the torch light.~
+~
+5 100663316 1101 41478 8193 57
+0~ 0~ 0~ 3~
+20 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 100
+A
+19 100
+A
+26 -50
+A
+13 150
+A
+12 150
+A
+17 -125
+#23217
+The Dream Collector~
+the dream machine~
+A large strange device sits in the middle of the room glowing softly~
+~
+13 67108867 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#0
+
+
+
+#ROOMDATA
+#23200
+The Lair of the Beast~
+You appear in a room filled with silence.  As you look around you are
+filled with horror as you witness the birth of pain and suffering in the
+heart of the realm.  The floors are smooth to the touch but you can feel the
+heat pulsing from the hell below.  Your organs ache at the stench of evil
+and your head clouds as you view a place of unholiness and torment.  You
+have entered the Lair of Annibus.  The beast has returned to the realm to
+wreak havok on the souls of dominion.  
+ 
+~
+0 1056780 0
+Rd     0
+D5
+~
+~
+103 23201 23223
+S
+#23201
+Entrance to the Dominion of Torment~
+You have travelled through time and space to a void that does not feel
+like your own.  This dimension places you in the Dominion of Torment.  A
+place where pain is for the noble and suffering beckons you at every moment.
+As a member of this brotherhood of evil you may enter the Dominion at your
+leisure.  But if you are a child of light then prepare to behold your
+nightmares for you have entered a realm that will make your soul curse and
+bleed from its essence.  "WELCOME TO TORMENT!!!!"  
+~
+0 12591105 11
+Rd     0
+D0
+~
+~
+0 0 23202
+S
+#23202
+Display of Damnation~
+Your pulse lumps in your throat as you witness the birth of pain and
+suffering.  Minions of evil are here ravishing the souls of the realm. 
+Corpses are strewn throughout this room with various defects mangeling there
+once beautiful complections.  This is the Display of Damnation....  A place
+where you do not wish to linger.  The guards before you beckon you to move
+along or be consumed.  
+~
+0 1073741824 0
+Rd     0
+D0
+~
+~
+0 0 23203
+D2
+~
+~
+0 0 23201
+S
+#23203
+The Pain of the Gods~
+This room is filled with gruesome murals of beings going through some
+sort of struggle.  Upon closer inspection you realize that these are
+immortals suffering!  The mural is filled with anguish that makes your
+bowels hollow.  This is the pain of the Gods.  You trudge into ankle deep
+blood created by the weeping immortals on the walls.  There are others in
+this room that are tending to the murals as if there were living creatures
+in them.  What you do not realize is that they are tending to the souls of
+mortals to make the gods suffer!  
+~
+0 1073741824 0
+Rd     0
+D0
+~
+~
+0 0 23204
+D2
+~
+~
+0 0 23202
+S
+#23204
+The Abyssmal Gateway~
+Heat singes your face immediatly followed by a blast of frost.  You enter
+a room with a huge void in the center.  This vortex is made up of an energy
+that you have never seen before.  The blue material swirls into an unknown
+abyss The sound of souls passing through this gate is deafening but you feel
+at peace.  This is your own personal hell.  You can witness the eternal
+damnation for your own eyes and know the reason you have entered this sacred
+sect.  
+ 
+~
+0 1107296264 0
+Rd     0
+D1
+~
+~
+0 0 23205
+D2
+~
+~
+0 0 23203
+D3
+~
+~
+0 0 23206
+S
+#23205
+Way of the Lost~
+You enter a corridor and momentarily lose your way. You have entered the
+way of the lost. A solemn place that brings tears to your eyes due to the
+terror of these lost souls. Covet this feeling for those of Torment rejoice
+in it. 
+~
+0 1073741825 0
+Rd     0
+D1
+~
+~
+0 0 23207
+D2
+~
+~
+0 0 23228
+D3
+~
+~
+0 0 23204
+S
+#23206
+Way of the Sinner~
+~
+0 1073741824 0
+Rd     0
+D1
+~
+~
+0 0 23204
+D3
+~
+~
+0 0 23214
+S
+#23207
+Way of the Lost~
+In this same passage you feel your soul beginning to slip through your
+grasp. You feel somber as you look at the rest of this area. Will you ever
+be the same after being in here?  The way of the lost is the way for the
+damned. And you'd be damned to witness this silent torture any longer. 
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23208
+D3
+~
+~
+0 0 23205
+S
+#23208
+Intersection to the Passage of Silence~
+Here you stand in a place of complete silence. Nothing can be heard not
+even your own breath or heart. Are you dead?  Or does this place have a
+control over you that you have never felt. You want so terribly to just lie
+down and sleep....ah..sleep. But if you sleep, will you ever wake up?  
+ 
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23209
+D2
+~
+~
+0 0 23211
+D3
+~
+~
+0 0 23207
+S
+#23209
+Passage of Silence~
+The silence is still deafening in this corridor as you attempt to hurry
+on your way. You see other murals here of mortals screaming but no sound
+escapes their lips as they move through the scene of horror. You look to
+your east and see a closed door with a dull blue glow emerging from its
+edges. You wish to get away from the silence...anything to hear again!  
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23210
+D1
+~
+~
+0 0 23226
+D2
+~
+~
+0 0 23208
+S
+#23210
+On to the Way of Torment~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 23209
+D3
+~
+~
+0 0 23221
+S
+#23211
+Passage of Silence~
+You become accustomed to the silence but only enough to keep your sanity.
+The walls here glow in a faint blue and seem to hum without sound. You
+notice the passageway sloping down ever so slightly and see a doorway up
+ahead. To the east you see a bright red light beaming from a cracked stone
+doorway. There is a sign above the way that looks to say T...M..T...ED A.L. 
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23208
+D1
+~
+~
+0 0 23227
+D2
+~
+~
+0 0 23212
+S
+#23212
+Entrance to the Elder Tomb of Torment~
+You have entered what might be called a "holy" place of torment. This is
+the tomb of the elders of this great sect. Inside you will find the areas
+for the High Council and other great Tormenters. Do not enter unguarded for
+there could be a member that does not wish you to intrude on their sacred
+ground. 
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23211
+D5
+~
+~
+0 0 23213
+S
+#23213
+Elder Tomb of Torment~
+&zYou stand at the end of the Tomb.  Your sight is very limited here, but
+you can make out a huge door on the east wall.  The door seems to made of a
+substance unknown to you.
+~
+0 0 0
+Rd     0
+D1
+~
+~
+375 23209 23234
+D4
+~
+~
+0 0 23212
+S
+#23214
+Way of the Sinner~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23229
+D1
+~
+~
+0 0 23206
+D3
+~
+~
+0 0 23215
+S
+#23215
+Intersection to the Passage of Madness~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23216
+D1
+~
+~
+0 0 23214
+D2
+~
+~
+0 0 23217
+S
+#23216
+Passage of Madness~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23218
+D2
+~
+~
+0 0 23215
+D3
+~
+~
+0 0 23231
+S
+#23217
+Passage of Madness~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23215
+D2
+~
+~
+0 0 23219
+D3
+~
+~
+0 0 23230
+S
+#23218
+On the Way of Torment~
+You are about to enter the triumph of all Torment. This passage is one
+that embues all that Torment is about. The joy of pain. The success in
+death. The gratitude of torment. Enjoy yourself as you travel through what
+so many generations have fought to overcome. Witness the Way of Torment!  
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23224
+D2
+~
+~
+0 0 23216
+S
+#23219
+Entrance to the Initiate Tomb of Torment~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23217
+D5
+~
+~
+0 0 23220
+S
+#23220
+Initiate Tomb of Torment~
+~
+0 131072 0
+Rd     0
+D4
+~
+~
+0 0 23219
+S
+#23221
+The Torment of Pain~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23233
+D1
+~
+~
+0 0 23210
+D3
+~
+~
+0 0 23222
+S
+#23222
+the Torment of Lust~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23221
+D3
+~
+~
+0 0 23223
+S
+#23223
+Dominion of Tormented Souls~
+This room is filled with the forms of souls screaming for thier freedom.
+The odd looking creature in the center of this room will not let this
+happen. Grathon is here to use his power taken from the lost souls of this
+realm to boost the members of his sect. Pay no attention to the slaughter
+you see before you for it makes you feel complete . 
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23222
+D3
+~
+~
+0 0 23225
+D4
+~
+~
+103 23201 23200
+S
+#23224
+Torment of Despair~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23225
+D3
+~
+~
+0 0 23218
+S
+#23225
+Torment of Sorrow~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23232
+D1
+~
+~
+0 0 23223
+D3
+~
+~
+0 0 23224
+S
+#23226
+Portals of Torment~
+~
+0 0 0
+Rd     0
+E
+note~
+SHERIKS PORTAL LIST
+
+Tower of Sorcery  = Tower
+Dark Garnet Cavern = Garnet
+Pits of Hell = Pits
+Hall of the Gods = Hall
+Abomination
+Ralisan
+Gegasean Camp = Gegasean
+The Grand Arena = Arena
+Tolaria
+Deathfang Manor = Deathfang
+Spider's Realm = Spider
+Lairich
+Spires of Eyhlidch = Spires
+ 
+WARNING:  These are unlinked areas.  You may get stuck, killed, dismemebered.  
+        Do not journey to these areas if you are not prepared for the unexpected.
+       Make written note of missing details and compare notes with others.
+       DO NOT let any equipment from these areas get loose.  If they do you will deal
+       with me!  I wont be nice!
+       Yrinthi
+~
+D3
+~
+~
+0 0 23209
+S
+#23227
+The Tormented Ale~
+You enter a solemn bar with very few customers.  The reason for this
+could be the large gargoyle in front of you wiping blood from his mouth. 
+Nevertheless, the place is one that you can sit and tell your war stories of
+despair.  Choose your drink wisely in this place for ya never know what
+might be in 'em!  
+~
+0 8 0
+Rd     0
+E
+[burning]~
+~
+D3
+~
+~
+0 0 23211
+S
+#23228
+Demonic Blades~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 23205
+S
+#23229
+Protectors from Good~
+~
+0 67108864 0
+Rd     0
+D2
+~
+~
+0 0 23214
+S
+#23230
+Nector of the Souls~
+~
+0 67108864 0
+Rd     0
+D1
+~
+~
+0 0 23217
+S
+#23231
+Zantantholos' Magic~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 23216
+S
+#23232
+Council of Torment~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 23225
+S
+#23233
+Pleasure of Torment~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 23221
+S
+#23234
+&zThe Chamber of Yrinthi~
+&zThe Chamber appears to be dark and you are unsure of it's extent.  However the 
+room seems to radiate a &rred &zglow of somekind which allows you to
+make out some of its features.  In the center of the room lies a fountain
+which appears to be flowing with &Rblood&z.  Throughout the rest of the room
+you notice the sounds of &Oagony &zand &rpain&z.  A little to the back of the 
+room lies a huge structure.  Suddenly this structure bursts into &Rf&rl&Ra&rm&Re&z!
+~
+0 136454161 0
+Rd     0
+D3
+~
+~
+375 23209 23213
+S
+>enter_prog ~
+0
+~
+|
+#23235
+~
+~
+0 4 0
+Rd     0
+S
+#23236
+Prison of the Damned~
+This is a small square chamber not unlike a prison cell.  The walls are
+bare and there seems to be no exit or means of escape.  Perhaps this is 
+the fabled holding cell for the gods.  You remember hearing that none have 
+escaped from such a place
+~
+0 10919965 0
+Rd     0
+S
+#23240
+&CThe Dream Chamber~
+~
+0 42004 9
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+M 23201 spec_healer
+M 23208 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 23209 1 23201
+O 0 23211 0 23201
+M 0 23201 1 23204
+M 0 23201 1 23205
+M 0 23206 1 23213
+E 0 23210 0 20
+M 0 23204 1 23220
+E 0 23208 0 20
+M 0 23208 1 23226
+M 0 23200 1 23227
+G 0 23202 0
+G 0 23203 0
+G 0 23204 0
+M 0 23203 1 23228
+M 0 23205 1 23231
+O 0 23206 0 23234
+O 0 23207 0 23234
+M 0 23202 1 23234
+S
+
+
+
+#SHOPS
+23200 0 0 0 0 0 25 20 0 23
+23203 0 0 0 0 0 10 25 0 23
+0
+
+
+
+#$

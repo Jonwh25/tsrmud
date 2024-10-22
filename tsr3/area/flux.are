@@ -1,0 +1,356 @@
+#AREADATA
+Name        {  ALL } The Realm of Flux   Laric~
+Levels      0 0
+Builders    Laric~
+VNUMs       190 200
+Security    100
+Recall      25001
+Flags       32
+Color       6
+End
+
+
+
+#MOBILES
+#190
+test~
+Test~
+(no long description)
+~
+~
+3 0 0 0 S
+60 0 0 0d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#191
+Madness~
+Madness~
+Madness stalks the Land at Larics call
+~
+~
+33 369647808 0 0 S
+105 0 0 90000d0+0 0d0+0
+0 0 0 0
+0 0 0
+67383420 0 0
+#195
+no name~
+The Pool of Flux~
+(no long description)
+~
+~
+1 0 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0 0 0
+0 0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#193
+A little help~
+help~
+A little help is here~
+~
+9 0 0 0 132097 1
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#194
+a shiny ring~
+a shiny ring~
+A ring glitters in the dirt~
+~
+9 0 0 0 3 100
+60~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+9 100
+A
+12 100
+A
+13 100
+#197
+A splended robe~
+a &YSplended&w Robe~
+A golden pile of cloth lies here~
+~
+9 0 0 0 9 1
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#198
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0 0 0 0
+0~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#199
+A Fopish Hat~
+a &YF&Co&Gp&Bi&RS&Wh &wHat&w~
+An obnoxious hat sits hear giving off its own light~
+~
+9 67108864 0 0 17 116
+1000~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -100
+#200
+The Medallion of a Master Bard~
+a Masters Medallion~
+A Golden Medallion lies here glinting in the light~
+~
+9 335544321 0 0 5 100
+20~ 0~ 0~ 0~
+0 100000 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+17 -200
+A
+19 200
+A
+18 200
+A
+105 -1
+A
+2 5
+#0
+
+
+
+#ROOMDATA
+#190
+Hall of Rangers~
+~
+0 -2004459520 3
+Rd     0
+D0
+~
+~
+0 0 191
+D1
+~
+~
+0 0 193
+D2
+~
+~
+0 0 195
+D3
+~
+~
+0 0 196
+S
+#191
+{   ALL   } Realm of Flux    Laric~
+You are under the canapie of the forest, oaks stand on all sides of you. 
+A strange and beutifull crystal fountain is here.  It shines from some inner
+light, showering the surronding woods with a beutifull splash of magical
+colors ripleing across the spectrum in an unending dance.  
+~
+0 -2012872192 3
+Rd     0
+D0
+~
+~
+0 0 199
+D1
+~
+~
+0 0 192
+D2
+~
+~
+0 0 190
+D3
+~
+~
+0 0 197
+S
+#192
+A quite corner of the woods~
+~
+0 -1736032256 3
+Rd     0
+D2
+~
+~
+0 0 193
+D3
+~
+~
+0 0 191
+S
+#193
+In the forest~
+The sights, the sounds, and the smell of the forest surrond you.  The
+magestic oaks ripple off unendingly to your sight in all directions.  The
+over grown remains of a foundation are here.  In the center of it a stone
+arch stands undamaged and unweathered.  Aparently impervious to the ravages
+of time.  
+~
+0 -2012872704 3
+Rd     0
+D0
+~
+~
+0 0 192
+D2
+~
+~
+0 0 194
+D3
+~
+~
+0 0 190
+S
+#194
+In the forest~
+You are in a small clearing, where an oak had fallen and broke the canape
+letting in some light.  In the middle of the clearing a wood alter has been
+carved into the fallen tree.  Set into the top of the alter is a small white
+saphire.  It's strange cut defies the eyes, as if there is an infant number
+of facades.  
+~
+0 -2012872704 0
+Rd     0
+D0
+~
+~
+0 0 193
+D3
+~
+~
+0 0 195
+S
+#195
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 190
+D1
+~
+~
+0 0 194
+D3
+~
+~
+0 0 198
+S
+#196
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 197
+D1
+~
+~
+0 0 190
+D2
+~
+~
+0 0 198
+S
+#197
+~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 191
+D2
+~
+~
+0 0 196
+S
+#198
+~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 196
+D1
+~
+~
+0 0 195
+S
+#199
+~
+~
+0 0 0
+Rd     0
+D2
+~
+~
+0 0 191
+S
+#200
+~
+done
+~
+0 6692884 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

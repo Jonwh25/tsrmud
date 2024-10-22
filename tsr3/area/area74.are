@@ -1,0 +1,50 @@
+#AREADATA
+Name        {  ALL } Newbuilder ~
+Levels      0 0
+Builders    None~
+VNUMs       23100 23199
+Security    1
+Recall      25000
+Flags       16
+Color       6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#23100
+~
+~
+0 4 0
+Rd     0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

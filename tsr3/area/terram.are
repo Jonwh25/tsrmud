@@ -1,0 +1,1779 @@
+#AREADATA
+Name        { ???-??}  Stone Bridge     Terram~
+Levels      0 0
+Builders    Terram~
+VNUMs       30700 30799
+Security    1
+Recall      25000
+Flags       16
+Color       6
+Sounds      The wind howls as it rushes under the bridge.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#30700
+Fig Leaf~
+a fig leave~
+A fig leaf is hiding a fig tree.~
+~
+9 4096 0 0 2049 1
+1000~ 0~ 0~ 0~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+#30701
+willow stick~
+a willow stick~
+(no description)~
+~
+5 0 0 0 10241 100
+0~ 0~ 0~ 4~
+0 0 0 0 0
+0 0
+reserved~
+0 0
+0 0 0
+A
+13 1000
+#0
+
+
+
+#ROOMDATA
+#30700
+Stone Bridge~
+This is the intersection of the three arches. The pattern of the stone at
+the intersection looks almost braided. As if someone wove the three ends of
+the bridge together then squished it flat. The two rivers join 30 feet below
+and go rushing off to the south. A light breeze blows across the smooth
+surface of the bridge. In a storm it would be impossible to stay on the
+bridge since it has no guardrails. 
+~
+0 1024 1
+Rd     0
+D0
+~
+~
+0 0 30701
+D2
+~
+~
+0 0 30716
+D3
+~
+~
+0 0 30761
+S
+#30701
+Stone Bridge~
+Water roars and crashes as it rushes under the natural stone bridge. The
+arch melds seemlessly with the stone of the keep. The keep looks more carved
+than build, out of a small crag that errupts from the farmland. The stone
+gate to the north is tall and thick. Spattered across the walls are
+arrowslits and a single large window. 
+~
+0 0 1
+Rd     0
+D0
+~
+gate~
+1 0 30702
+D2
+~
+~
+0 0 30700
+S
+#30702
+Under The Gate~
+An arch of rock allows entrance into the keep. High above holes that look
+like arrowslits pierce the ceiling. Deadly spikes that connect to a
+portcullis hang from the ceiling to the north. To the south is the solid
+stone gate that closes off the keep. The walls are fire blackened and
+chiped, but strong from their thickness. 
+~
+0 0 0
+Rd     0
+D0
+~
+portcullis~
+1 0 30703
+D2
+~
+gate~
+1 0 30701
+S
+#30703
+Courtyard~
+You emerge into a large courtyard. Thick stone walls rise high above.
+Along the base and near the top are alchoves with arrow slits. To the north
+the walls curve together to make an overhang. The sound of hammering can
+also be heard in that direction. To the east and west are large stone
+buildings that run the length of the courtyard. And to the south is the
+large gate that leads out onto the bridge. 
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30704
+D1
+~
+~
+0 0 30706
+D2
+~
+~
+1 0 30702
+D3
+~
+~
+0 0 30705
+S
+#30704
+Well Room~
+The wall curves in at the top and forms a room over the middle of the
+courtyard. Stalagtights and stalgmites have merged together into column that
+support the roof. A large well is centered under the cave like roof. A
+wooden bar is mounted above the well with a large crank resting on the well
+wall. The whistling of wind and murmur of messengers to the west is almost
+drowned out by the hammerings of the forge to the east. 
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 30709
+D1
+~
+~
+0 0 30711
+D2
+~
+~
+0 0 30703
+D3
+~
+~
+0 0 30710
+D5
+~
+well~
+3 0 30712
+S
+#30705
+Sergeant's Quarters~
+Flickering torches on each side of the door light a small part of the
+room. In thier light can be seen a large bunk bed, a desk and three chairs.
+Outside the flickering light the room is empty and dusty. The stone walls
+and ceiling are covered in years of torch residue. A fire ring is layed out
+on the edge of the light with bones and bits of charred wood inside. 
+~
+0 8 0
+Rd     0
+D1
+~
+~
+0 0 30703
+S
+#30706
+Barracks~
+The large barracks is filled with triple high bunks along the walls. Down
+the middle of the room runs a set of long tables. Torch bracket sit between
+each bunk, but only the ones near a door have lit torches. Most of the
+tables and bunks are dusty. This keep must have had a large garison at one
+time. At the south end of the room is a broad stairway leading up. 
+~
+0 8 0
+Rd     0
+D3
+~
+~
+0 0 30703
+D4
+~
+~
+0 0 30707
+S
+#30707
+Wall Stairs~
+The broad shallow steps curve around inside the wall and goes up over the
+gate. Arrowslits line the walls letting in little crosses of light. The
+floor above the gate is pierced by rows of murderholes. On one side of the
+death zone is a whinch and lever to control the portcullis. On the other is
+vats of rancid congealed oil. Wood is set, ready to burn, under the large
+vats. 
+~
+0 8 0
+Rd     0
+D3
+~
+~
+0 0 30708
+D5
+~
+~
+0 0 30706
+S
+#30708
+Catapult Room~
+The stone arches far overhead. A large window looks out over the great
+bridge. The walls and ceiling are scorched and cracked as if by a large
+fire. Cut timbers are piled neatly on the floor. Sawdust covers everything
+and the wind keeps it from settling. The air smells of cut wood and old
+fires. A large almost ceremonial torch is set in a large crack on the back
+wall. 
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30707
+S
+#30709
+Elemental Plaza~
+An open court yard stands before the rest of the keep. The center of the
+court yard is dominated by a large hump of stone. Towering to the north
+rises the crag that this keep is a part. The ground is flat around the stone
+but still looks natural. The ground meets seemlessly with the towering walls
+that protect the courtyard. 
+~
+0 0 5
+Rd     0
+D0
+A pair of tall strong grey granite doors rest solidly closed. 
+~
+Doors~
+119 0 30715
+D2
+~
+~
+0 0 30704
+S
+#30710
+Message Chamber~
+Wind whistles as it surges in and out of a large chimney. A light wooden
+chest suddenly is blown out of the chimney. A woman hurries in grabs the
+chest and hurries back out. Shelves line the walls and tables stand about
+the room. They look to be used to store messages and packages that arrive
+and to prepare them for going out. Thin arrow slits remind you that even
+this room is still part of a keep. 
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30704
+D4
+~
+chimney~
+0 0 30713
+S
+#30711
+Blacksmith's Forge~
+The ringing blows of the hammer and the woosh of the bellows drown out
+all but shouts. The odor of smoke and charcoal and hot metal singe the air.
+The place is lighted by the solid red glow of the forge. The bellows rests
+on the ground but the forge surface is three feet up. A wood pile is stacked
+along the east wall. Advils and other implements crowd the east and west
+sides of the forge. 
+~
+0 67108864 0
+Rd     0
+E
+forge~
+A large easily big enough to roast a cow. The surface is covered with
+glowing coals. Against the west side is a metal pannel that is used to throw
+wood down into the forge. 
+~
+D3
+~
+~
+0 0 30704
+D5
+A metal pannel for feeding wood to the forge is set flush against the
+west side of the base of the forge. 
+~
+pannel~
+3 0 30714
+S
+#30712
+Down The Well~
+The water is icy but clean white. A little light leaks in from above. The
+walls are good fitted stone, but with effort you can probably climb out of
+the well. The stone is a clean sandstone with no moss growing on it. The
+water can be felt to move sluggishly as if only a little flow of the river
+entered. The well has no bottom that you can see or feel. 
+~
+0 4194304 6
+Rd     0
+D4
+~
+~
+3 0 30704
+D5
+~
+~
+0 0 30790
+S
+#30713
+Windy Chimney~
+The inside of the chimney is round with near smooth walls. The wind is
+constaly jostling as it surges in and out. A hole in each of the cardinal
+direction is where the winds enter and leave. as it surges in and out. A
+hole in each of the cardinal direction is where the winds enter and leave.
+The east and south holes are very shallow before openning onto the outside.
+To the east is the fair grounds and the village can be seen to the south. 
+~
+0 33554432 0
+Rd     0
+D5
+~
+~
+0 0 30710
+S
+#30714
+In The Forge~
+The walls are solid set stone covered with glowing coals. The air is red
+and wavers with the heat. The ground is covered by burning sticks of wood.
+The ceiling is a red hot mesh covered with coals. The bellows blows air in
+through a small hole causing ash and sparks to fly up. Bits of liquid metal
+and chared bones are seen in the corners. The crackling of the fire is all
+the sound that can be heard. 
+~
+0 268435464 0
+Rd     0
+D4
+~
+~
+3 0 30711
+S
+#30715
+Anti Chamber~
+This cramped hollow is hardly taller than the entrance and only an arrow
+length deep. The light from the doors is cutoff as if it never was. The
+walls give off a faint phospherescent green glow. The rock is damp and chill
+as if it rests far below ground instead of behind a set of double doors. The
+texture and shape of the hollow does match that of a cave. 
+~
+0 134217752 0
+Rd     0
+D2
+~
+~
+119 0 30709
+S
+#30716
+Stone Bridge~
+The natural stone bridge reaches from the south cliff over the raging
+river to meet in the middle over the swirling together of both rivers. The
+bridge is a think natural stone arch with no supporting braces. The stone
+appears smooth but small grooves can be felt to give better traction. To the
+south is the small farming village of stone bridge. The bridge merges with
+the land at the edge of their village green. 
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30700
+D2
+~
+~
+0 0 30717
+S
+#30717
+Village Green~
+The rock of the bridge dives into the ground. A pact dirt trail connects
+the bridge with the caravaan trail to the east across the village green.
+Across the river can be seen the fort that is protected on two sides by
+rivers and cliffs on the other two sides. Large exposed rocks line the tops
+of the revine above the river and its east fork. An occasional hint of spray
+colors the air with rainbows and dampness. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30716
+D1
+~
+~
+0 0 30718
+D2
+~
+~
+0 0 30720
+S
+#30718
+Village Green~
+A path of compacted dirt follows the river as if rushes down the steep
+ravine. Across the river can be seen the rock arch of the bridge span to the
+gate of the fortress with smooth sheer drops on either side. Large stones
+have been set to keep wagons and livestock from falling into the river. The
+splash of the river as it crashes through among the rocks throughs up a lite
+mist but fills the air with its sound. 
+~
+0 0 2
+Rd     0
+D1
+~
+~
+0 0 30719
+D2
+~
+~
+0 0 30721
+D3
+~
+~
+0 0 30717
+S
+#30719
+Village Green~
+The path turns and runs to the south along the front of some buildings.
+To the east is a two story wooden building with branbles and other bushes
+growing up around it. Over the door is a painted a piece of mistletoe. the
+river gurgles along to the north with large rocks set on the edge of the
+ravine. The dirt path is widened here so that a couple wagons can wait
+outside the building and others still pass with ease. 
+~
+0 0 2
+Rd     0
+D1
+~
+~
+0 0 30726
+D2
+~
+~
+0 0 30722
+D3
+~
+~
+0 0 30718
+S
+#30720
+Village Green~
+The sounds of the fair across the river can be faintly heard over the
+quiet village sounds. Large stones set close together keep people and
+livestock from falling into the river below. Across the river can be seen
+the fair with its bustling confusion of people. Looking the others way is
+the peaceful village green. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30717
+D1
+~
+~
+0 0 30721
+D2
+~
+~
+0 0 30723
+S
+#30721
+Village Green~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30718
+D1
+~
+~
+0 0 30722
+D2
+~
+~
+0 0 30724
+D3
+~
+~
+0 0 30720
+S
+#30722
+Village Green~
+The path follows the edge of the village green. A wide openning between
+buildings is the start of the east caravaan path. To the west is the village
+green where large projects are worked on and community animals grazed. A
+much small foot path leads south into the rest of the village. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30719
+D1
+~
+~
+0 0 30737
+D2
+~
+~
+0 0 30725
+D3
+~
+~
+0 0 30721
+S
+#30723
+Village Green~
+The rocks marking the edge of the ravine are a little worn as they near
+the a small hovel to the south. One stone in particular looks smoothed and
+has a strange hole in its top. Below the river has gouged a piece out to the
+ravine wall making a small backwater. The grass of the village green spreads
+north and east. 
+~
+0 0 0
+Rd     0
+E
+hole rock~
+This rock looks like it has been smoothed by much use. Fish scales cover
+the rock and the ground The hole only goes down a hands width and is not
+much bigger around than a thumb. Someone probably sits here and puts their
+fishing pole in the hole. 
+~
+D0
+~
+~
+0 0 30720
+D1
+~
+~
+0 0 30724
+D2
+~
+~
+0 0 30738
+S
+#30724
+Village Green~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30721
+D1
+~
+~
+0 0 30725
+D2
+~
+~
+0 0 30736
+D3
+~
+~
+0 0 30723
+S
+#30725
+Village Green~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30722
+D1
+~
+~
+0 0 30730
+D2
+~
+~
+0 0 30743
+D3
+~
+~
+0 0 30724
+S
+#30726
+Sanctuary~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30727
+D3
+~
+~
+0 0 30719
+D4
+~
+~
+0 0 30728
+S
+#30727
+Sanctuary~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 30726
+S
+#30728
+Sanctuary~
+~
+0 1024 0
+Rd     0
+D5
+~
+~
+0 0 30726
+S
+#30729
+Carpenter's Home~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30746
+D3
+~
+~
+0 0 30760
+S
+#30730
+Meeting House~
+Fine craftsmanship has gone into this large building. The building is
+stone with a shingle roof. Two long tables with benches take up the middle
+of the building. The left half of the room is open up to the peak of the
+room. The right half is a loft. The the middle part of the south side of the
+building is the baker's oven which radiates heat to fill the hole room. A
+couple chairs with cushions are situated next to the heated brick wall. 
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 30725
+S
+#30731
+Baker's Home~
+This building is centered around the large oven that takes up a good part
+of the north wall. Sturdy wooden tables surround the oven. One is set up
+with stands and large mixing bowls. Another has been sanded smooth and is
+covered in flower for rolling the dough. And another is set with metal
+cooling wracks for the breads and pastries. In the back corner is a large
+feather matress on a wooden frame. A clothes chest is at its foot. 
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 30743
+S
+#30732
+Mill Shop~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30745
+D3
+~
+~
+0 0 30733
+S
+#30733
+The Mill~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30732
+D2
+~
+~
+0 0 30734
+S
+#30734
+Wash Spot~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30733
+D2
+~
+~
+0 0 30760
+S
+#30735
+Mechanist's Workplace~
+~
+0 0 0
+Rd     0
+D1
+~
+~
+0 0 30744
+S
+#30736
+Old Man Braun's Home~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 30724
+S
+#30737
+Path~
+~
+0 0 1
+Rd     0
+D1
+~
+~
+0 0 30747
+D3
+~
+~
+0 0 30722
+S
+#30738
+Fisherman's Hovel~
+The rank odor of decaying fish hangs about this hut. Nets to be repaired
+are piled against the east wall under the shuttered window. Poles and twine
+and hooks rest in the corners near the door. Against the back wall is a
+study table with heaps of fish scales scattered around the base. A simple
+straw thick is rolled up across from the nets with two wool blankets folded
+up ontop. 
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 30723
+S
+#30739
+Hovel~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 30744
+S
+#30740
+Hovel~
+~
+0 0 0
+Rd     0
+D3
+~
+~
+0 0 30745
+S
+#30741
+Herder's Hovel~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 30746
+D2
+~
+~
+1 0 30754
+S
+#30742
+Herder's Flock for pet store~
+~
+0 4 0
+Rd     0
+S
+#30743
+Village Path~
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30725
+D1
+~
+~
+0 0 30731
+D2
+~
+~
+0 0 30744
+S
+#30744
+Village Path~
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30743
+D1
+~
+~
+0 0 30739
+D2
+~
+~
+0 0 30745
+D3
+~
+~
+0 0 30735
+S
+#30745
+Village Path~
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30744
+D1
+~
+~
+0 0 30740
+D2
+~
+~
+0 0 30746
+D3
+~
+~
+0 0 30732
+S
+#30746
+Village Path~
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30745
+D2
+~
+~
+0 0 30741
+D3
+~
+~
+0 0 30729
+S
+#30747
+Path~
+~
+0 0 1
+Rd     0
+D2
+~
+~
+0 0 30748
+D3
+~
+~
+0 0 30737
+S
+#30748
+Practice Ground~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30747
+D2
+~
+~
+0 0 30749
+S
+#30749
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30748
+D1
+~
+~
+0 0 30755
+D2
+~
+~
+0 0 30750
+S
+#30750
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30749
+D1
+~
+~
+0 0 30756
+D2
+~
+~
+0 0 30751
+S
+#30751
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30750
+D1
+~
+~
+0 0 30757
+D2
+~
+~
+0 0 30752
+S
+#30752
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30751
+D1
+~
+~
+0 0 30758
+D2
+~
+~
+0 0 30753
+S
+#30753
+Pasture~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30752
+D1
+~
+~
+0 0 30759
+D3
+~
+~
+0 0 30754
+S
+#30754
+Pasture~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+1 0 30741
+D1
+~
+~
+0 0 30753
+S
+#30755
+Field~
+~
+0 0 2
+Rd     0
+D2
+~
+~
+0 0 30756
+D3
+~
+~
+0 0 30749
+S
+#30756
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30755
+D2
+~
+~
+0 0 30757
+D3
+~
+~
+0 0 30750
+S
+#30757
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30756
+D2
+~
+~
+0 0 30758
+D3
+~
+~
+0 0 30751
+S
+#30758
+Field~
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30757
+D3
+~
+~
+0 0 30752
+S
+#30759
+Pasture~
+~
+0 0 2
+Rd     0
+D3
+~
+~
+0 0 30753
+S
+#30760
+Carpenter's Workroom~
+~
+0 0 0
+Rd     0
+D0
+~
+~
+0 0 30734
+D1
+~
+~
+0 0 30729
+S
+#30761
+Stone Bridge~
+The stone arch melds into the rock and dirt of the caravaan path. The
+wind swirls up out of the ravine and twists the grass growing on the edge.
+To the west along the caravaan path stretchs the fair and beyond that the
+forest. A small toll station stands to the west to collect tariffs from
+caravaans and travelers. To the northeast rises the keep, and to the
+southeast is a small village. 
+~
+0 0 1
+Rd     0
+D1
+~
+~
+0 0 30700
+D3
+~
+~
+0 0 30762
+S
+#30762
+Toll Gate~
+A flimsy gate seperates the fair and the west caravaan route from the
+stone bridge to the east. The ground is hardpacked with long streaks of
+rock. The air is filled with the rush of the two rivers meeting. The smells
+of food, livestock, and people drifts from the fair. A small wooden fense
+blocks travel to the south and the toll house which controls the gate is
+leaning percariously in the north. 
+~
+0 0 1
+Rd     0
+D0
+~
+~
+0 0 30763
+D1
+~
+~
+0 0 30761
+D3
+A crude wooden beam is a better discription than a gate. It is counter
+balance to make it easy to open from the toll house. 
+~
+gate~
+3 0 30764
+S
+#30763
+Toll House~
+The Toll House is more of a three sided shack. It provides protection
+from the wind and weather but alows easy access to the gate. Warped wood
+with mud for the gapes hold up a badly thatched roof. The floor is hard
+packed earth. The only furniture is a shelf and a tall wobbly stool. 
+~
+0 8 0
+Rd     0
+D2
+~
+~
+0 0 30762
+S
+#30764
+Fair Path~
+A packed dirt road runs east over the great arch of rock. A wooden beam
+and shelter serve the purpose of a toll gate for the bridge. People are
+everywhere, more than one blanket with a merchant creeps into the road. The
+sound of people hawking and bartering fills the air. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30774
+D1
+A simple beam crosses the path. 
+~
+gate~
+3 0 30762
+D2
+~
+~
+0 0 30784
+D3
+~
+~
+0 0 30765
+S
+#30765
+Fair Path~
+People of all races jam the pathway. Towering minotaurs and demons push
+casually through the smaller folks while pixies zip overhead. The hawkers to
+the north and south blend together in a mismash collage. The eerie whistles
+of the wind occasionally rises above the constant drone of voices. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30773
+D1
+~
+~
+0 0 30764
+D2
+~
+~
+0 0 30783
+D3
+~
+~
+0 0 30766
+S
+#30766
+Fair Path~
+The caravaan road has been over lapped by blankets and sellers wagon so
+there is hardly a path large enough for a horse. Animals and sweat assult
+your nose. Buzz of people attack you ears and the wide array colors leave
+your eyes with little defense. Only the constant firm ground below you is
+stable. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30772
+D1
+~
+~
+0 0 30765
+D2
+~
+~
+0 0 30782
+D3
+~
+~
+0 0 30767
+S
+#30767
+Fair Path~
+The ground is hard packed and flat. Hawkers raise their voice hoping to
+catch anyone before they leave down the caravaan path. The press of people
+eases. Most of the hawkers are selling items useful on the caravan ride
+west. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30771
+D1
+~
+~
+0 0 30766
+D2
+~
+~
+0 0 30781
+D3
+~
+~
+0 0 30768
+S
+#30768
+Fair Path~
+The packed earth road is impinged on both sides by sellers. There is
+still enough room to pull a single wagon between the displays. To the west
+the carvanaan road begins winding its way through the forest. The armoma of
+food wafts from the north. The caravaan path continues east towards the
+stone arch. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30770
+D1
+~
+~
+0 0 30767
+D2
+~
+~
+0 0 30780
+D3
+~
+~
+0 0 30769
+S
+#30769
+Forest Path~
+Tall oaks and hickories spread out in all directions. The ground between
+is covered with brambles and brush. A wide dirt path winds between the
+stately trees. Bird song twiters from all about. To the east the path opens
+onto a fair ground filled with peope. To the west it disappears into the
+dark forest. 
+~
+0 0 3
+Rd     0
+D1
+~
+~
+0 0 30768
+S
+#30770
+Fair Grounds~
+The aroma of good foods and strange spices carries across the air. Small
+canopies provide protection for people chatting and eating. The presses is
+not to bad over here as the crowd thins out near the edge of the field.
+Scattered across the ground is half eaten food and chared wood. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+1 0 30775
+D1
+~
+~
+0 0 30771
+D2
+~
+~
+0 0 30768
+S
+#30771
+Fair Grounds~
+The stench of crowded people mixes with incense and the smell of food.
+Some fires for food sellers are near the forest to the west and north. A
+blue silk tent which beds and chairs glimsed through the open flaps is to
+the north. Sellers of incense and perfumes peddle their wares from packs. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30776
+D1
+~
+~
+0 0 30772
+D2
+~
+~
+0 0 30767
+D3
+~
+~
+0 0 30770
+S
+#30772
+Fair Grounds~
+The people walk and move, wandering from one display to another, forming
+a pattern of chaos. Small carvings, cups, cutlery, candles and carrots are a
+sampling of what is sold by the various merchant standing over their wares.
+To the north is a tent from which comes occasionaly glints of metal plate. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30777
+D1
+~
+~
+0 0 30773
+D2
+~
+~
+0 0 30766
+D3
+~
+~
+0 0 30771
+S
+#30773
+Fair Grounds~
+People step carefully between the racks of dryed herbs and berries that
+faintly scent the air. A sturdy canvas tent is to the north. Shoppers walk
+out of it carring daggers, swords, and other weapons. A hawkers and buyers
+keep a steady drown of noise from the talk with occasional bursts of volume
+as they haggle. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30778
+D1
+~
+~
+0 0 30774
+D2
+~
+~
+0 0 30765
+D3
+~
+~
+0 0 30772
+S
+#30774
+Fair Grounds~
+A very fancy tent of silk rises above the others to the north. The
+wandering militia and others watch with interest which people enter and
+leave. Rising to the east is the great crag, with two rivers meeting at its
+feet. Some people are sprawled on the grass eating confections and staring
+at it. Generally the crowd in this area looks more well off. 
+~
+0 0 2
+Rd     0
+D0
+~
+tentflap~
+1 0 30779
+D2
+~
+~
+0 0 30764
+D3
+~
+~
+0 0 30773
+S
+#30775
+Fair Grounds~
+A large fire sends smoke twisting in the breeze. The hiss of burning fat
+can be heard in the lul of conversations. A haunch of beef and a couple
+chickens are being roasted over the flames. A table with confections blocks
+the way north. A firewood scaveged forest of hardwoods covers the west. 
+~
+0 0 2
+Rd     0
+D2
+~
+~
+1 0 30770
+S
+#30776
+Fair Grounds~
+This blue silk tent is crowded with furniture. The smell of new leather
+and dyed wool saturates the air. Across the back are three beds and a wooden
+chair. The last bed and the chair has a cloth covered board resting on it.
+Along the walls are chairs and couches, stools and benches, tables and
+counters. A wicker cage with a glow stone sheds an even light over
+everything. 
+~
+0 8 2
+Rd     0
+D2
+~
+~
+0 0 30771
+S
+#30777
+Fair Grounds~
+Torch light shines and reflects off the scintilating suits or armor.
+Chests display the suits of armor and protect them during travel. Plate mail
+sits next to finely wrought chain. An overlapping of metal scaled barding
+rests in a corner. Behind it is a pile of cleaning cloths and a small tin of
+grease. 
+~
+0 0 2
+Rd     0
+D2
+~
+~
+0 0 30772
+S
+#30778
+Fair Grounds~
+The walls are a sturdy canvas with the look of much use. The smell of oil
+is strong among the weapons lining the walls. They are lined up by size and
+type with the smallest near the back and two sets of crossed polearms
+bracketing the door south. There are many missing weapons in the cases along
+the walls. 
+~
+0 0 2
+Rd     0
+D2
+~
+~
+0 0 30773
+S
+#30779
+Fair Grounds~
+The tent is made of fine silk on the inside. The floor is canavas covered
+by soft carpeting on the back half of the tent. Four open boxes covered with
+magic runes rest in a neat square in the middle of the tent. The sounds of
+the fair are strangely muted through the thin fabric of the walls. Exotic
+inscense covers the odor of people and livestock. 
+~
+0 153092096 2
+Rd     0
+D2
+~
+~
+1 0 30774
+S
+#30780
+Fair Grounds~
+Large oaks and heavy brush mark the western edge of the field. Very few
+venders get to close to the trees but they do provide a good bit of shade.
+To the south are two large wagons with a piece of canvas drapped between
+them. The fair seems a little more subdued over here. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30768
+D1
+~
+~
+0 0 30781
+D2
+~
+~
+1 0 30785
+S
+#30781
+Fair Grounds~
+A surprisingly open path exists between the venders in this part of the
+fair. Glancing around you notice that the sellers have a camp to the south
+which explains the path. Tools, rope, leather goods, and other odds and ends
+are laid out on simple rugs. Merchants can be seen hurring to and from the
+camp with new merchandise. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30767
+D1
+~
+~
+0 0 30782
+D2
+~
+~
+1 0 30786
+D3
+~
+~
+0 0 30780
+S
+#30782
+Fair Grounds~
+The faint smell of leather is overwelmed by the smell of stock from the
+simple corral to the south. The babble of people is quieter here, probably
+cause people don't want to breath. Fur hides are sewn together into simple
+rug. Hides and leathers are piled into heaps on each is a small token with
+the name of the seller. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30766
+D1
+~
+~
+0 0 30783
+D3
+~
+~
+0 0 30781
+S
+#30783
+Fair Grounds~
+The crowd wanders slowly between the seated merchants. A few wander south
+to buy baskets or listen to the storyteller. From the east arrive some
+holding fresh fish. A pair of trappers leave west hefting bundles of furs.
+To the north is a solid stream of people traversing the caravaan path. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30765
+D1
+~
+~
+0 0 30784
+D2
+~
+~
+0 0 30788
+D3
+~
+~
+0 0 30782
+S
+#30784
+Fair Grounds~
+Compared to the flash of colors all around the village across the river
+looks quiet and stable. The odor of fish and sweat is almost blown away by
+the wind rising from the river. A small table with cuts of fish is before
+you. A fishing pole is wedged under the table leg and hangs out over the
+river. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30764
+D2
+~
+~
+0 0 30789
+D3
+~
+~
+0 0 30783
+S
+#30785
+Fair Grounds~
+Two large well build wagons are parked in this corner of the fair. A
+piece of canvas is stretched between them proving a roof over a low table.
+Knives, vials, and dark clothes are spread haphazardly around the table. A
+rope is attached behind the table. It runs to the front of the stall where
+another piece of canvas allows the stall to be blocked from view. 
+~
+0 0 2
+Rd     0
+D0
+~
+canvasflag~
+1 0 30780
+S
+#30786
+Fair Grounds~
+Tents and wagons are set up in a temporary village. All the merchants
+have their lodgings and travel wagons here. The horses, oxen and other
+beasts of burden are in a simple corral to the east. Dotting the ground
+between the tents are small cook fires. Most are out but here and there
+people gather together around a blaze. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+1 0 30781
+D1
+~
+~
+0 0 30787
+S
+#30787
+Fair Grounds~
+Rough cut beams of wood make a simple but sturdy corral. By the look and
+stench, all, the merchants' animals are gathered here and have been for a
+while. The corral has single beams lashed to posts to seperate teams of
+animals making it look like a crazy spider web. 
+~
+0 0 2
+Rd     0
+D3
+~
+~
+0 0 30786
+S
+#30788
+Fair Grounds~
+The odor of manure wafts out of the simple corral to the west. The grass
+has been bent and crushed under the many feet at the fair. A collection of
+woven reed baskets and simple cloth bags are arrayed on a reed mat. Just out
+of reach of the live stock is a large pile of grasses. To the south the
+winds ruffle the plants growing in the fields. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30783
+D1
+~
+~
+0 0 30789
+S
+#30789
+Fair Grounds~
+People gather on the green grass near the ravine. Cool damp air is blown
+up from the river below. Gentle music from a variety of instruments color
+the air. A group of children sit around an elven storyteller. Broken grass
+covers all other fragrances. A little farther to the south are some plowed
+fields. Across the river is the little village of Stone Bridge. 
+~
+0 0 2
+Rd     0
+D0
+~
+~
+0 0 30784
+D3
+~
+~
+0 0 30788
+S
+#30790
+In The River~
+The chill black waters close around you, struggling to enter you mouth.
+The river swirls you around and slams you into a rock bank. The rushing of
+water over rocks is the only sound to be heard. For a second there is sky
+above you then it is gone, replaced by a solid rock ceiling. The water
+plunges deeper into the earth, but some stillness can be seen above. 
+~
+0 8388609 8
+Rd     0
+D4
+~
+~
+0 0 30712
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
