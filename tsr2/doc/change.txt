@@ -1,0 +1,66 @@
+                       A Listing of Code Changes on TSRII
+                       ----------------------------------
+                           ***[ January 1997 ]***
+
+1/4/97
+------
+ - Chat replaced with gossip.
+ - Added OOC channel.
+ - Immtalk channel re-coded.
+ - Count command added.
+ - Immortal page command created.
+ - Redid who list. 
+
+1/14/97
+-------
+ - Quest channel removed.
+ - Quest Code in.
+
+1/24/97
+-------
+ - send_to_room function added to code.
+ - Donate command added. 
+
+                     ***[ February 1997 ]***
+
+2/10/97
+-------
+ - Revamped color code. Took out stock SMAUG code and replaced with my 
+   own version. A way better color code.
+
+2/14/97
+-------
+ - Wizhelp recoded to reflect levels.
+
+                      ***[ March 1997 ]***
+
+3/16/97
+-------
+ - Coded Grats channel.
+ - INFO channel added. (This is the channel that allows you to see when
+   someone levels, logs in, or quits the MUD.) 
+ - Coded Admin channel for high level immortals.
+
+3/17/97
+-------
+ - Immortal mlevel command created (3-17-97)
+
+                     ****[ APRIL 1997 ]****
+
+4/1/97
+------
+ - MUD OPENS TO PUBLIC.
+ - Hometown code added. 
+
+4/9/97
+------
+ - Fixed do_quit Mount bug.
+
+4/14/97
+------- 
+ - PKILL command added.
+  
+4/15/97
+-------
+ - Copyover code added in.
+

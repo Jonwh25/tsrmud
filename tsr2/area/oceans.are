@@ -1,0 +1,358 @@
+#AREA   The Almoth Plains~
+
+
+
+#AUTHOR Thallin~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51200000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#2048
+Southwater~
+The water here is a deep emerald green.  The sky above is nearly
+perfeclty blue, with not a cloud in the sky.  The smell of the sea is strong
+in your nose.  Looking in the cardinal directions you see only more endless
+ocean.  Here you are truelly alone.
+~
+0 0 7
+D1
+~
+~
+0 0 2049
+D2
+~
+~
+0 0 2058
+S
+#2049
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2050
+D2
+~
+~
+0 0 2059
+D3
+~
+~
+0 0 2048
+S
+#2050
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2060
+D3
+~
+~
+0 0 2049
+S
+#2051
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2061
+D3
+~
+~
+0 0 2050
+S
+#2052
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2053
+D2
+~
+~
+0 0 2062
+D3
+~
+~
+0 0 2051
+S
+#2053
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2095
+D2
+~
+~
+0 0 2063
+D3
+~
+~
+0 0 2052
+S
+#2054
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2055
+S
+#2055
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2056
+D3
+~
+~
+0 0 2054
+S
+#2056
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2055
+S
+#2057
+Southwater~
+~
+0 0 7
+D1
+~
+~
+0 0 2058
+D3
+~
+~
+0 0 2056
+S
+#2058
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2048
+D1
+~
+~
+0 0 2059
+D3
+~
+~
+0 0 2057
+S
+#2059
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2049
+D1
+~
+~
+0 0 2060
+D3
+~
+~
+0 0 2058
+S
+#2060
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2050
+D1
+~
+~
+0 0 2061
+D3
+~
+~
+0 0 2059
+S
+#2061
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2051
+D1
+~
+~
+0 0 2062
+D3
+~
+~
+0 0 2060
+S
+#2062
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2052
+D1
+~
+~
+0 0 2063
+D3
+~
+~
+0 0 2061
+S
+#2063
+Southwater~
+~
+0 0 7
+D0
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2062
+S
+#2094
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2096
+D2
+~
+~
+0 0 2095
+S
+#2095
+.~
+~
+0 0 7
+D0
+~
+~
+0 0 2094
+D3
+~
+~
+0 0 2053
+S
+#2096
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2094
+S
+#2097
+~
+~
+0 0 0
+D2
+~
+~
+0 0 2099
+D3
+~
+~
+0 0 2098
+S
+#2098
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2097
+S
+#2099
+~
+~
+0 0 0
+D0
+~
+~
+0 0 2097
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

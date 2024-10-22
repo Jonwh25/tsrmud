@@ -1,0 +1,2163 @@
+#AREA   Skazoy~
+
+
+
+#AUTHOR Sepha~
+
+#RANGES
+25 45 0 60
+$
+
+#RESETMSG The spirits howl in grief.~
+
+#FLAGS
+0 5
+
+#ECONOMY 0 5000000
+
+#MOBILES
+#13800
+Duzhnoi~
+a duzhnoi~
+The duzhnoi flits in and out of being.
+~
+You can barely see the duzhnoi, as it shimmers in and out of view. What little
+light falls on it gives the image of being slightly humanoid, though not quite.
+It sometimes appears to be animalistic. Sometimes it's a plant. It shifts its
+image, but always has the ethereal quality about it that almost lends it an 
+eerie glow.
+~
+131073 1048578 -450 C
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+9 16 15 13 14 13 13
+0 0 0 0 0
+84 7 0 0 4096 4096 0
+0 0 0 32 0 512 1048576 0
+#13801
+werewolf~
+a werewolf~
+This werewolf stops before seeing you, deciding if he's hungry.
+~
+His fur glistens the silver of the moon, and his tail actually gives a token
+wag. His fangs, however, are bloodied with his recent meal, and they also are
+slightly yellowed. His yellowed eyes possess an intelligence, almost too wise
+to be believed to be animal's.
+~
+327685 9216 -100 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 13 13 13 17 13 13
+0 0 0 0 0
+47 2 0 0 4 1 0
+0 0 0 0 0 0 3 2
+#13802
+vodyonoi~
+a vodyonoi~
+From the waters, a vodyonoi arises.
+~
+The vodyonoi appears to be little more than living water. Whitewater forms a
+kind of "hair" that flows all the way down its back. As for colors, the only
+ones you see are the colors of water. Some strands of river-weeds straggle off
+its surface, but it ignores it. As you gaze up into its "face" you can tell 
+this thing can be kind...or very cruel.
+~
+3 -1879040000 200 C
+36 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 16 18 15 19 13 13
+0 0 0 0 0
+84 6 0 0 69632 4096 0
+0 0 0 8192 0 1048576 4096 64
+#13803
+Rusalka~
+the Rusalka~
+Upon her rock, the Rusalka sits and calls to out her mournful song.
+~
+This is a sad and shadowy figure you see before you. Legends have it that the
+Rusalka is the spirit of a young girl who drowned in the raging river without
+having the time to beg the permission of the vodyonoi to cross. What you see
+before you is a pale slip of a woman, shimmering and sad. Her skin is tinged
+with grey, as are her clothes, hair, and eyes. As you gaze at her, she turns
+her attentions to you...
+~
+3 -1874844544 -1000 C
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 16 13 21 21 17
+0 0 0 0 0
+84 4 0 0 602122 4096 0
+0 0 0 0 2048 1024 33554432 262144
+> rand_prog 20~
+if ispc($n)
+mea $n The wind howls, as does Rusalka, as she sings, lulling you closer.
+endif
+~
+> act_prog looks at you~
+if ispc($n)
+if sex($n) == 1
+if wis($n) < 16
+mea $n You find yourself drawn to the Rusalka, hungering for her touch.
+mea$n You cannot help yourself. You must kiss this beautiful woman.
+mpforce $n kiss Rusalka
+c 'energy drain' $n
+endif
+endif
+endif
+~
+|
+#13804
+onomostye~
+Onomostye~
+The Onomostye, He of the Bridge, waits to transport you...for coin.
+~
+Onomostye is silent, large, and proud. He stands upon the ferry, waiting for
+you to decide if you wish to cross. His pale-green hair is clipped close, save
+for the sprong that hangs over his right eye. Furs cover most of his body, but
+you can't identify what kinds of furs they are.
+~
+16777219 -2143280968 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+15 14 13 17 16 13 13
+0 0 0 0 0
+84 3 0 0 779249015 779249014 0
+0 0 0 0 0 0 0 16384
+> bribe_prog 1000~
+mea $n The Onomostye looks at you, then laughs.
+say Ha! Gladly will I aid you, $n!
+mea $n The Onomostye guides you on the raft, then pulls it across the river.
+mea $n The ropes creak with the strain.
+mptransfer $n 13833
+~
+> all_greet_prog 100~
+say So, you want cross? Pay coin. Think thousand be enough.
+~
+|
+#13805
+Firebird~
+the Firebird~
+The Firebird darts between the branches, stealing its fruit.
+~
+The Firebird's a hungry lady with a sweet tooth. Her feathers are long and 
+sleek, blazing shards of fire that dart out from a slender, graceful figure.
+Her eyes seem to sparkle with inner passion, and you could easily see yourself
+falling in love with her. Shaking your head, you realize that it might be a
+magical effect, for it's said that any who see the Firebird are cursed to fall
+in love with her.
+~
+3 37781672 1000 C
+44 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+16 21 13 13 13 13 18
+0 0 0 0 0
+78 2 0 0 1702065007 1702065007 0
+0 0 1024 0 1 4096 8192 512
+#13806
+domovoi~
+the domovoi~
+The domovoi purrs and swishes her tail against your leg.
+~
+The domovoi looks remarkably like a jet-black furred cat, except it has eyes 
+that seem far more knowledgeable than the average cat. She licks her jowls,
+once, as if tasting the air around her, or cleaning up after a tasty mouse.
+As she paws her way across the room, then jumps up on the wooden table, you
+notice an almost ethereal glow that trails her.
+~
+16777219 4268160 0 C
+43 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+12 15 13 13 18 13 13
+0 0 0 0 0
+29 25 0 0 733822 1 0
+0 0 0 0 0 0 3 6146
+#13807
+odnovoi~
+the Odnovoi~
+The Odnovoi darts around the yard, suspiciously.
+~
+The white fur decorates the odnovoi, glistening and soft. Its pied eyes are a
+glorious pale blue, and the blackest black. He wags his tail excitedly, and
+bares his fangs at you. A hefty BARK escapes his throat, and you're reminded
+of a Husky. Only difference is the intelligence and magic. This is no dog. It's
+the Odnovoi, spirit of the yard.
+~
+33 71303296 0 C
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+15 13 9 19 15 14 19
+0 0 0 0 0
+30 3 0 0 78462 4096 0
+0 0 1024 0 0 0 536870913 4096
+#13808
+Bannik~
+the Bannik~
+The Bannik seems to shimmer from the air, awaiting his tithe.
+~
+The Bannik is sensed more than it is seen. His presence is known as wisdom
+incarnate, but capable of great damage if crossed. He stands before (around)
+you, awaiting the tithe...the third bath. Eyes of water seem to swish as he
+remains there, near-motionless.
+~
+3 -2126503880 1000 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+9 19 21 10 15 13 18
+0 0 0 0 0
+84 24 0 0 779249015 1 0
+0 0 0 2051 0 65540 1073872896 526592
+> all_greet_prog 100~
+mea $n You feel a soft breeze, then the wind swirls around you.
+mea $n You vaguely feel the bather around you, but cannot see him.
+mea $n From out of nowhere, the form of the Bannik appears. He speaks.
+say Do you follow the paths of right?
+say Do you bathe in day or night?
+say When the moon glows in the glade
+say Do you give tithe to the shade?
+say Answer me this question, see...
+say Knowing the bath is the tithe to me
+say When you pay, will you say
+say How many baths do you draw today?
+~
+> speech_prog three~
+mea $n The Bannik's form shivers, and a brush of water touches your cheek.
+say You are correct, $n. May the sight and the life of the Bath
+say always guide you in your future.
+c bless $n
+c scry $n
+mprestore $n 50
+~
+|
+#13809
+~
+Onomostye~
+The Onomostye, He of the Bridge, waits to transport you...for coin.
+~
+Onomostye is silent, large, and proud. He stands upon the ferry, waiting for
+you to decide if you wish to cross. His pale-green hair is clipped close, save
+for the sprong that hangs over his right eye. Furs cover most of his body, but
+you can't identify what kinds of furs they are.
+~
+16777219 -2143280968 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+15 14 13 17 16 13 13
+0 0 0 0 0
+84 3 0 0 779249015 779249014 0
+0 0 0 0 0 0 0 16384
+#13810
+Return Onomostye~
+Onomostye~
+The Onomostye, He of the Bridge, waits to transport you...for coin.
+~
+Onomostye is silent, large, and proud. He stands upon the ferry, waiting for
+you to decide if you wish to cross. His pale-green hair is clipped close, save
+for the sprong that hangs over his right eye. Furs cover most of his body, but
+you can't identify what kinds of furs they are.
+~
+16777219 -2143280968 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+15 14 13 17 16 13 13
+0 0 0 0 0
+84 3 0 0 779249015 779249014 0
+0 0 0 0 0 0 0 16384
+> bribe_prog 500~
+mea $n Onomostye grins at you, and bids you welcome.
+mea $n He shoves his pole in the water, and guides you to the southern dock.
+mea $n You hear the ropes creak against the strain.
+mptransfer $n 13826
+~
+> all_greet_prog 100~
+say So! Is ready to return? Give 500 coin, and Onomostye take.
+~
+|
+#13814
+generic lyeshi~
+a lyeshi~
+The tree shimmers, then a lyeshi leans menacingly over you.
+~
+One of the many varieties of trees that litter this forest, the lyeshi here is
+unique in that it's ambulatory. It floats a little over the ground, alive and
+ready to defend itself and the woods around it. You notice its branches seem 
+very arm-like, and its roots lash about like vines ready to trip you.
+~
+129 2097152 750 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+15 10 20 16 17 13 13
+0 0 0 0 0
+84 5 0 0 69642 2 0
+0 0 8398402 2064 0 1 72 1024
+#13828
+Werebear~
+a werebear~
+You'd better run from this werebear! She looks angry!
+~
+One look at the werebear, and you see a lovely woman, in the buff, with hair
+so white it would make snow seem black, and eyes so blue as to appear to be
+icicles. She takes a step towards you, snarling, then her form shifts and
+blurs. A white lightness, empty and cold, surrounds her, and as it receeds, the
+lovely lady is gone, to be replaced by an angry, growling, and hungry bear of
+the same white coloring as the woman's hair.
+~
+16842785 272631296 -1000 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+21 8 7 15 21 13 5
+0 0 0 0 0
+47 3 0 0 1768715009 1768715008 0
+0 0 262144 2 0 8192 2 4
+#13899
+Oak Lyeshi~
+an Oak Lyeshi~
+A large Oak seems very alive to you.
+~
+This large Oak is very frightening, especially since it has eyes. The eyes,
+which at first seem to be knotholes, open slowly, gazing curiously down at
+you. Its mouth forms before your stunned faces, and then it curls downwards.
+You fear that if you don't move, and soon, branch-like arms and vine-like whips
+might become more a reality than a nightmare.
+~
+3 16785408 -100 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 15 16 9 18 13 8
+0 0 0 0 0
+84 5 0 0 69642 4096 0
+0 0 1026 16 0 1 64 8192
+> all_greet_prog 100~
+if ispc($n)
+mea $n The oak shimmers, arms, eyes, and mouth forming.
+mea $n The leaves swish, and you hear the soft sussuruss as it becomes hair.
+mea $n From around the lyeshi, you hear a soft voice.
+say Do you seek to harm this land?
+endif
+~
+> speech_prog yes~
+mea $n The oak howls with rage, and attacks!
+mpechoaround $n The Oak Lyeshi howls with rage, attacking $n!
+mpkill $n
+~
+> speech_prog no~
+mea $n The Oak lyeshi grins at you, and nods.
+mpechoaround $n The Oak lyeshi looks pleased with $n.
+c bless $n
+~
+> rand_prog 100~
+mpgoto 13806
+~
+|
+#0
+
+
+#OBJECTS
+#13801
+Rusalka's bones~
+the Rusalka's Bones~
+These bones are amazingly light.~
+~
+13 0 1
+0 0 0 0
+5 1200 120
+#13802
+Crystalline Flask~
+a crystalline flask~
+The light glistens off of this crystalline flask.~
+~
+10 0 1
+44 35 -1 -1
+1 0 0
+#13803
+Firebird's Feather~
+a Firebird's Feather~
+You hold the sleek tail-feather of the Firebird.~
+~
+3 33554432 16385
+45 20 20 7
+1 4000 400
+#13804
+Matioshka Doll~
+a Matioshka Doll~
+A brightly-painted Matioshka Doll sits here.~
+~
+15 1024 1
+2000 5 0 0
+1 2300 230
+#13805
+Acorn~
+an acorn~
+A plain-looking acorn fits neatly in your palm.~
+~
+26 262144 1
+20 91 4 3 33 0
+1 0 0
+#13806
+Smaller Doll~
+a smaller doll~
+A smaller, though precise, replica of the Matioshka Doll is here.~
+~
+15 1024 1
+1000 5 0 0
+2 1000 100
+#13807
+Tiny Matioshka~
+a tiny Matioshka Doll~
+An even smaller exact replica, tiny, in fact, peeks at you.~
+~
+15 1024 1
+500 5 0 0
+2 300 30
+#13808
+Matrinka~
+a Matrinka~
+The tiniest replica of the Matioshka Doll is without blemish.~
+~
+8 1024 16385
+0 0 0 0
+2 1200 120
+A
+12 30
+A
+4 3
+A
+17 -2
+A
+1 -3
+#13809
+towel~
+a towel~
+A big, puffy towel waits to dry you off.~
+~
+13 0 1
+0 0 0 0
+1 100 10
+#13810
+nest~
+a nest~
+~
+~
+15 0 0
+50 0 0 0
+1 0 0
+#13811
+golden egg~
+a golden egg~
+The golden egg glistens, freshly polished and warm.~
+~
+8 262209 16385
+0 0 0 0
+20 0 0
+A
+5 2
+A
+12 10
+A
+66 2
+A
+2 -1
+> drop_prog 100~
+mea $n The egg shivers and lets out a low moaning sound, as if in pain.
+mea $n The egg bursts into flame and is gone!
+mpechoaround $n Because $n dropped the golden egg, it's burst into flame!
+mpechoaround $n When the flame is gone, so is the egg!
+mppurge golden
+~
+|
+#13812
+black egg~
+a black egg~
+This black egg is so dark, it almost seems nonexistant.~
+~
+8 68 16385
+0 0 0 0
+5 0 0
+A
+1 2
+A
+4 -3
+A
+17 -2
+A
+12 2
+> drop_prog 100~
+mea $n The air stills around you and all grows dark!
+mea $n In a sudden burst of light and flame, the Firebird appears!
+mpechoaround $n The air stills, the sky groas dark, and the Firebird shows!
+mpmload 13805 41
+mpforce firebird c fireball $n
+mppurge black
+~
+|
+#13813
+T-Bone~
+a t-bone~
+A slobbered-over t-bone is in your hand.~
+%s slobber$q over the t-bone and shred$q the meat off, like a dog.~
+19 0 1
+50 0 0 0
+1 1000 100
+#13814
+Vine whip~
+a vine whip~
+A vine whip fits snugly in your hands.~
+~
+5 262152 8193
+0 5 8 4
+1 0 0
+A
+18 3
+A
+19 2
+A
+12 -5
+A
+30 25
+#13815
+Gloves of the Bather~
+the Gloves of the Bather~
+Liquid seems to flow, forming the Gloves of the Bather~
+~
+9 8448 129
+0 8 0 0
+5 45000 4500
+A
+18 3
+A
+19 2
+A
+5 2
+A
+17 -1
+#13816
+Corroded Chain Traveller's Bag~
+the bag~
+A corroded chain traveller's bag is half-buried here.~
+~
+15 4 1
+2900 5 0 0
+30 10 1
+#13828
+werebear skin~
+werebear skin~
+Thick white werebear skin snuggles around you.~
+~
+9 32 1025
+0 10 0 0
+1 0 0
+#13890
+Book of Hints~
+the Book of Hints~
+A Book of Hints will help you build. Just look.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+E
+book~
+TABLE OF CONTENTS
+Armorhelp
+weaponhelp
+mobhelp
+roomhelp
+proghelp
+~
+E
+armor~
+Value0 and Value1 should be POSITIVE numbers.
+Affect Armor (AC) should be a NEGATIVE number.
+Reverse the above if you want it to be bad armor.
+General guideline: Try to make Value0 and Value1 about half the level of the
+item. If you want to boost or lower the quality of that armor, namely, how
+good the armor is, it's best to use the AFFECT. That way, a compare command
+will tell the player that X armor is higher level than Y armor. But if they
+are the same level, it takes more effort: Identify, for example, to tell.
+~
+E
+Mobs~
+Stats on mobs are simple. As long as the mobs have stats about the same level
+or higher than players, we're OK. A good pattern is 2 at 17 or higher, 2 at 15
+or higher, and the rest 14 or lower. You can be flexible, just be reasonable.
+ 
+Please remember "Affected", "Attacks", and "Defenses." You don't use them, the
+mob is boring. Use them, however, only when it makes sense. A "foot" with 
+shield on it would make sense..."Bunyon." But a deer with it would be silly.
+~
+#13899
+loose rock~
+a loose rock~
+A loose rock blocks your way.~
+~
+37 0 0
+-1 13807 0 0
+1 0 0
+E
+rock~
+Though this rock is loose, it still seems to be awfully hard. You can't lift it
+but maybe you can push or pull it?
+~
+#0
+
+
+#ROOMS
+#13800
+Through the brambles~
+You finally push your way past the brambles and branches, and pick off the last
+of the burrs. You've scratches from head to toe, a twig stuck in your hair, and
+hear the mosquitos buzzing all around you. Basically, it's miserable here.
+You do, however, take consolation in a glisten of light through the trees up
+ahead. Perhaps if you continue on, you might find an actual path.
+One never knows until they look.
+~
+0 1 3
+D1
+Ahead of you there's a hint of a path.
+~
+~
+0 -1 13801
+D3
+~
+~
+0 -1 12054
+> rand_prog 100~
+mea $n Mosquitos buzz, and your hand goes instinctively to swat them.
+if ispc($n)
+if lck($n) < 15
+mea $n The mosquito bit you!
+mpdamage $n 1
+endif
+endif
+~
+|
+S
+#13801
+A tiny path~
+The light grows a little brighter here, and you make out the start of a tiny
+trail. You have to walk single-file, unfortunately, but you at least can move
+through the trees without those dreadful burrs catching on your legs, your 
+sleeves, your hair...
+Trees line the path on both sides, sending pine needles falling onto the path.
+This serves to soften your steps, making them slightly more slippery.
+~
+0 256 3 0 0 2
+D1
+The path widens to the east.
+~
+~
+0 -1 13802
+D3
+The path grows dark to the west, and vanishes.
+~
+~
+0 -1 13800
+> rand_prog 100~
+if ispc($n)
+if dex($n) <= 16
+if lck($n) < 16
+mea $n You slip on the leaves, and twist your ankle! OUCH!
+mpechoaround $n $n slipped on the leaves and twisted $l ankle! OUCH!
+mpdamage $n 20
+endif
+endif
+~
+|
+S
+#13802
+The path's widening~
+The path widens even more, now. It seems you can walk two at a time.
+This proves scant comfort as the trees themselves seem larger, more foreboding.
+Branches lean over you, and the very bark of the trunks almost seem animated.
+A shiver runs up your spine, and you glance down at your feet. The spookiest
+feeling touches you...when you realize the forest floor here is clean. Not
+a single leaf, dead branch, or pine needle lies upon the ground.
+~
+0 0 1 0 0 3
+D0
+Before you is a tiny gate.
+~
+~
+0 -1 13803
+D3
+The path thins to the west.
+~
+~
+0 -1 13801
+S
+#13803
+Forest Gate to Skazoy~
+Before you stands a gate of vines, branches, and leaves. It's low and almost
+unnoticeable. In fact, you don't even have to open it to enter.
+The woods around it seem dark and dank. Before you, the sound of trees rustling
+grow louder, with perhaps a moan thrown in for flavor. The moan doesn't sound
+pleasant at all. Past the gate, the path really isn't. You'll have to fight 
+your way through the trees, again.
+~
+0 4 3
+D0
+Past the gate to the north the forest is light, but frightening.
+~
+~
+0 -1 13804
+D2
+To the south is a widened path.
+~
+~
+0 -1 13802
+S
+#13804
+Light part of the Forest~
+The tiny portions between the trees are lush with tiny life. Moss clambers up
+the side of a tree, a squirrel darts across your feet. In the distance, though
+not too far off, you think you hear the howl of a wolf. You also think you 
+smell bear. You notice a faint trickle of red on the path before you. It leads
+deeper into the forest.
+~
+0 0 3
+D2
+You see the tiny gate to Skazoy behind you.
+~
+~
+0 -1 13803
+D3
+A bend in the path is to your west.
+~
+~
+0 -1 13805
+S
+#13805
+Bend in the path~
+The path bends here, turning away from the normal route.
+You notice the blood-red lines grow thicker here, as do the trees. You have an
+eerie feeling that something's watching you, but you continue to push your way
+forward. Another howl in the distance satisfies your curiousity about the
+wildlife. There are wolves. You have no doubt of it now.
+Ahead of you is a large oak tree set amongst several large boulders.
+~
+0 0 3
+D0
+You see a large oak tree, far greater than the rest, ahead of you.
+~
+~
+0 -1 13806
+D1
+To the east the trail of red begins.
+~
+~
+0 -1 13804
+S
+#13806
+Tall Oak~
+This portion of the room is eerie. The red trail leads to a spot, then vanishe
+completely. You see quite a few rocks blocking your path, and very little
+light creaking through the shelf of the tree-tops. All in all, running is a
+viable option.
+~
+0 1 3
+D2
+To the south is a bend in the path.
+~
+~
+0 -1 13805
+S
+#13807
+Underground route~
+You find yourself standing in the middle of a dark room. The room continues
+to the east, but you can't tell if there's blood staining the ground, due to
+how dark it is. Roots brush your hair, so you figure you must be beneath the
+forest's cover. A stale odor brushes against your nose, spurring you to keep
+moving.
+~
+0 1 13
+D1
+The path continues to the east.
+~
+~
+0 -1 13808
+D4
+You wish you could climb up again.
+~
+~
+33554432 -1 13806
+S
+#13808
+Underground passage~
+Dark as this room is, you see a light above you. As your mind rattles such
+inane expressions as "What ho? Is that a light I see?" your fingers brush
+against a thick cord, vine-like in nature. At your feet, the gravel crunches,
+no longer the hard rock of the long underground tunnel you just trudged through
+to get here. Your nose twitches, and you feel the urge to sneeze. Again you
+glance up, only to see the light and the dangling vine. You know the vine will
+support you, but you'd worry about more than you climbing it. Good luck?
+~
+0 1 13
+D3
+A dark tunnel leads back west.
+~
+~
+0 -1 13807
+D4
+A ledge is up a small slope. Maybe that would be easier.
+~
+~
+0 -1 13809
+S
+#13809
+Upwards slope~
+After scrabbling up the slope, you find more light bathing your face. You now
+see the vine clearly, and it hangs down beside you, jauntily teasing you.
+It would be no effort to jump from your nice, wide, sturdy, safe ledge, grab
+old of the unpredictable vine, and jimmy yourself up. You have climbed vines
+before, haven't you? All the same, there's a wonderful aroma of pine wafting
+down the opening, and it seems to beckon you. You feel the brush of a root to
+your side, and think you see a tall trunk beside you.
+~
+0 0 13
+D5
+Wasn't it silly to try to grab the vine below you?
+~
+~
+0 -1 13808
+D10
+The vine looks sturdy enough to climb.
+~
+vine~
+67584 -1 13810
+S
+#13810
+Mid-way up the vine~
+You shimmy your way up the vine, nervous that it might snap and send you 
+soaring back down. Each pull you make brings you higher, and soon not only are
+you above the hole, but you're half-way up a ridiculously long tree. If you 
+let go, you know you'll fall to the bottom - and get very, very hurt. So you
+keep climbing - to some unknown fate.
+~
+0 2048 3
+D5
+Below you is the ledge beneath the earth.
+~
+~
+0 -1 13809
+D10
+The vine looks sturdy enough to hold your weight.
+~
+vine~
+67584 -1 13811
+> rand_prog 100~
+mpecho The vine doesn't feel safe - you'd better hurry!
+if ispc($n)
+if dex($n) < 15
+mea $n You slip down!
+mpforce $n down
+endif
+if dex($n) >= 18
+mea $n You scramble up!
+mpforce $n climb vine
+endif
+endif
+~
+|
+S
+#13811
+On a thick branch~
+You finally pull your way to the top, where you perch yourself (then realize
+you're perching like a bird, and shift to a more straddling position) on a
+branch so thick it could be the back of a horse. The ground is so far below
+you that you can't make it out. The birds above you chirp happily. You notice
+a nest, and within the nest are two eggs: One golden, one black. You wonder
+what kind of bird would lay such eggs. Then you think that such a bird would 
+probably be pretty violent. Then you realize it would probably kill you if it
+saw you here.
+~
+0 0 3
+D1
+You can scoot your way on the branch to the east.
+~
+~
+0 -1 13812
+D10
+The vine is sturdy and climbable.
+~
+vine~
+67584 -1 13810
+S
+#13812
+End of the Branch~
+You're at the end of the branch, now, with no place to go but down or back.
+The wind is beautiful against your face, and it brings a certain euphoria
+that entices you. Just as you begin to feel safe again, another piercing howl
+splices the air in half, sending a chill up your spine. The howl is now half
+human...but half...something else. Another gust of wind blows against you,
+bringing the thoughts to the brown of the bark that sounds like it may be
+cracking beneath you. The bark, the branch...either way, you might be in a
+little trouble.
+~
+0 0 3
+D3
+You can clamber back to the safer spot of the branch to the west.
+~
+~
+0 -1 13811
+D10
+~
+jump~
+526336 -1 13813
+> rand_prog 40~
+mea $n The wind blows you off the branch!
+mpforce $n jump
+~
+|
+S
+#13813
+Falling...~
+Down, down, down you go. You jumped (a foolish thing to do) from that branch
+and now you pay the price. You keep soaring towards the ground, picking up
+speed. Fear has passed you. So have several scenes from your life. You never 
+knew you could remember so many prayers. The one that you call out now is one
+to Rhylus. In fact, your prayer is more like a pleading to both directions.
+You seem to wonder if you should ask for a lucky break...or no break, as the
+case might be...or ask WHY you were so unlucky as to have gotten stuck in the
+middle of the air, falling, in the first place. Then you realize...you're
+STILL falling down, down, down.
+~
+0 16777216 11
+D5
+~
+~
+2048 -1 13814
+S
+#13814
+Huge pile of leaves and pine needles~
+You land in a pile of leaves, blink with surprise, then start pulling leaves
+from your hair. Around you the constant howling of wolves draws nearer. You
+think you see eyes around you. The path resumes, and once more there's a
+trail of red. You hear the rushing of a stream or river ahead of you.
+The trees seem more alive here than normal, just like the lyeshi before.
+~
+0 4 3
+D0
+~
+~
+0 -1 13816
+D6
+~
+~
+0 -1 13817
+D7
+~
+~
+0 -1 13815
+S
+#13815
+Deep in Skazoy Forest~
+The forest is silent here, so silent that you can't even hear your heart beat.
+The wind gives passing glance to the leaves of the trees before darting around
+you, almost caressing you with its curiousity. The leaves at your feet are
+brittle, and would crunch if any sound were possible.
+~
+0 65536 3
+D0
+~
+~
+0 -1 13819
+D1
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13817
+D6
+~
+~
+0 -1 13820
+D7
+~
+~
+0 -1 13818
+D8
+~
+~
+0 -1 13814
+S
+#13816
+Deep in Skazoy Forest~
+The forest is silent here, so silent that you can't even hear your heart beat.
+The wind gives passing glance to the leaves of the trees before darting around
+you, almost caressing you with its curiousity. The leaves at your feet are
+brittle, and would crunch if any sound were possible.
+~
+0 65536 3
+D0
+~
+~
+0 -1 13820
+D1
+~
+~
+0 -1 13817
+D2
+~
+~
+0 -1 13814
+D3
+~
+~
+0 -1 13815
+D6
+~
+~
+0 -1 13821
+D7
+~
+~
+0 -1 13819
+S
+#13817
+Deep in Skazoy Forest~
+The forest is silent here, so silent that you can't even hear your heart beat.
+The wind gives passing glance to the leaves of the trees before darting around
+you, almost caressing you with its curiousity. The leaves at your feet are
+brittle, and would crunch if any sound were possible.
+~
+0 65536 3
+D0
+~
+~
+0 -1 13821
+D1
+~
+~
+0 -1 13815
+D3
+~
+~
+0 -1 13816
+D6
+~
+~
+0 -1 13822
+D7
+~
+~
+0 -1 13820
+D9
+~
+~
+0 -1 13814
+S
+#13818
+Deeper in Skazoy Forest~
+As you push yourself deeper, you realize that any hint of path has abandoned
+you long ago. The trees grow wider around the base, and less leaves are
+scattered at your feet than before. You look up, to see the forest ceiling, and
+see a pile of leaves wisping around above your head.
+~
+0 1 3
+D1
+~
+~
+0 -1 13819
+D7
+~
+~
+0 -1 13823
+S
+#13819
+Deeper in Skazoy Forest~
+As you push yourself deeper, you realize that any hint of path has abandoned
+you long ago. The trees grow wider around the base, and less leaves are 
+scattered at your feet than before. You look up, to see the forest ceiling, and
+see a pile of leaves wisping around above your head.
+~
+0 1 3
+D0
+~
+~
+0 -1 13825
+D1
+~
+~
+0 -1 13820
+D2
+~
+~
+0 -1 13815
+D3
+~
+~
+0 -1 13822
+D6
+~
+~
+0 -1 13826
+D8
+~
+~
+0 -1 13816
+D9
+~
+~
+0 -1 13817
+S
+#13820
+Deeper in Skazoy Forest~
+As you push yourself deeper, you realize that any hint of path has abandoned
+you long ago. The trees grow wider around the base, and less leaves are
+scattered at your feet than before. You look up, to see the forest ceiling, and
+see a pile of leaves wisping around above your head.
+~
+0 1 3
+D0
+~
+~
+0 -1 13826
+D1
+~
+~
+0 -1 13821
+D2
+~
+~
+0 -1 13816
+D3
+~
+~
+0 -1 13819
+D6
+~
+~
+0 -1 13827
+D7
+~
+~
+0 -1 13825
+D8
+~
+~
+0 -1 13817
+D9
+~
+~
+0 -1 13815
+S
+#13821
+Deeper in Skazoy Forest~
+As you push yourself deeper, you realize that any hint of path has abandoned
+you long ago. The trees grow wider around the base, and less leaves are
+scattered at your feet than before. You look up, to see the forest ceiling, and
+see a pile of leaves wisping around above your head.
+~
+0 1 3
+D0
+~
+~
+0 -1 13827
+D1
+~
+~
+0 -1 13822
+D2
+~
+~
+0 -1 13817
+D3
+~
+~
+0 -1 13820
+D6
+~
+~
+0 -1 13828
+D7
+~
+~
+0 -1 13826
+D8
+~
+~
+0 -1 13815
+D9
+~
+~
+0 -1 13816
+> rand_prog 100~
+mpsound The woods shiver with darkness and gloom.
+~
+|
+S
+#13822
+Deeper in Skazoy Forest~
+As you push yourself deeper, you realize that any hint of path has abandoned
+you long ago. The trees grow wider around the base, and less leaves are
+scattered at your feet than before. You look up, to see the forest ceiling, and
+see a pile of leaves wisping around above your head.
+~
+0 1 3
+D0
+~
+~
+0 -1 13828
+D1
+~
+~
+0 -1 13818
+D2
+~
+~
+0 -1 13817
+D3
+~
+~
+0 -1 13821
+D6
+~
+~
+0 -1 13829
+D7
+~
+~
+0 -1 13827
+D8
+~
+~
+0 -1 13815
+D9
+~
+~
+0 -1 13817
+S
+#13823
+Skazoy River - South Bank~
+A raging river dashes through the forest. The crests of water as it dashes
+over the water is a snowy-white color. There's no way to cross here,
+as the rapids are too fierce. You think you hear a moaning to the east, but
+that, too, could be the river. It's said the river sometimes sounds like a grief-
+
+~
+0 0 6
+D1
+~
+~
+0 -1 13824
+S
+#13824
+Rocky Shore of Skazoy River~
+The water and the rocks meet here, with the trees of the forest hanging over
+for the crowning touch to this beautiful sight. Though the river is still
+far too dangerous to cross here, the sound seems muted somehow, though not
+gone. The rocks on the shore are flate enough to sleep upon. A single ray of 
+moonlight shoots through the branches, illuminating one portion of the river
+beyond. You think you see a figure of a woman on the rocks there, but can't
+be certain.
+~
+0 0 6
+D1
+~
+~
+0 -1 13825
+D2
+~
+~
+0 -1 13818
+D3
+~
+~
+0 -1 13823
+S
+#13825
+Skazoy River - South Bank~
+A raging river dashes through the forest. The crests of water as it dashes over
+the rocks is a snowy-white color. There's no way you could cross here, as the
+rapids are too fierce. You think you hear a moaning to the west, but that, too,
+could be the river. It's said the river often sounds like a grief-torn
+person. The noise here would verify that.
+~
+0 0 3
+D1
+~
+~
+0 -1 13826
+D2
+~
+~
+0 -1 13819
+D3
+~
+~
+0 -1 13824
+D8
+~
+~
+0 -1 13820
+S
+#13826
+Ferry Over Skazoy River - Southern Dock~
+This portion of the river is still wild, but a little less so than what you've
+seen. A small stone dock juts northerly into the water, and a heavy raft is 
+tied to it. You notice two heavy ropes about shoulder-high stretching across 
+the river, and loops of rope draped over them, holding the ferry from sailing
+downriver. A burly figure stands on the ferry, brushing off the wood.
+~
+0 0 3
+D1
+~
+~
+0 -1 13827
+D2
+~
+~
+0 -1 13820
+D3
+~
+~
+0 -1 13825
+D6
+~
+~
+0 -1 13834
+D8
+~
+~
+0 -1 13821
+D9
+~
+~
+0 -1 13819
+S
+#13827
+Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails in all directions, but none
+seem more promising than the next.
+~
+0 0 3
+D0
+~
+~
+0 -1 13834
+D1
+~
+~
+0 -1 13828
+D2
+~
+~
+0 -1 13821
+D3
+~
+~
+0 -1 13826
+D6
+~
+~
+0 -1 13835
+D8
+~
+~
+0 -1 13822
+D9
+~
+~
+0 -1 13820
+S
+#13828
+Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails in all directions, but none
+seem more promising than the next.
+~
+0 0 3
+D0
+~
+~
+0 -1 13835
+D1
+~
+~
+0 -1 13829
+D2
+~
+~
+0 -1 13822
+D3
+~
+~
+0 -1 13827
+D6
+~
+~
+0 -1 13836
+D8
+~
+~
+0 -1 13818
+D9
+~
+~
+0 -1 13821
+S
+#13829
+Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails in all directions, but none 
+seem more promising than the next.
+~
+0 0 3
+D0
+~
+~
+0 -1 13836
+D1
+~
+~
+0 -1 13827
+D2
+~
+~
+0 -1 13820
+D3
+~
+~
+0 -1 13828
+D7
+~
+~
+0 -1 13835
+D8
+~
+~
+0 -1 13819
+D9
+~
+~
+0 -1 13822
+S
+#13830
+Skazoy River - Northern Bank~
+The river to the south rages loudly and fiercely. Water brushes up against
+your toes, sopping right through all footgear. You notice a fish dart up
+and down through the waves, almost leaping a foot above the water with each
+jump. To the north you see more forest, and the hint of smoke curling above
+the trees.
+~
+0 0 6
+D1
+~
+~
+0 -1 13831
+D3
+~
+~
+0 -1 13831
+D6
+~
+~
+0 -1 13838
+S
+#13831
+Raging River - North Bank~
+The raging river dashes through the forest. The crests of water hitting the
+rocks forms a snow-white foam. There's no way you could cross here, the rapids
+are far too fierce. You think you hear a wail far to the south, but that, too,
+could be the river. The noise here would verify that.
+~
+0 0 6
+D0
+~
+~
+0 -1 13838
+D1
+~
+~
+0 -1 13833
+D3
+~
+~
+0 -1 13830
+D5
+~
+~
+0 -1 13832
+D6
+~
+~
+0 -1 13839
+S
+#13832
+Under the River's Surface~
+You find yourself washed under the waves of the river, pulled below the surface
+and in a dangerous situation. You lose track of up and down, until you focus
+in on a gleam of white light from above. The only thing that might distract you
+is the larger gleam of golden light from below.
+~
+0 69 8
+D4
+~
+~
+0 -1 13831
+D5
+~
+~
+0 -1 13845
+S
+#13833
+Northern Dock of the Ferry~
+The northern shore of this ferry-spot is no less foreboding than the southern
+shore. The ropes are tied tautly around two thick tree-trunks, and they creak
+as the ferry is poled to shore. The water continues to spray against you,
+and the light peeks through the trees, though you can hardly tell if it's day
+or night.
+~
+0 0 6
+D0
+~
+~
+0 -1 13839
+D3
+~
+~
+0 -1 13831
+D7
+~
+~
+0 -1 13837
+S
+#13834
+Skazoy River~
+This part of the river thins out, but flows from the north, coming from higher
+ground. The rapids and waterfalls it produces assures you there would be no 
+purchase for your feet, nor does it look safe to swim. You hear a soft howling
+from the south, but that grows more distant.
+~
+0 0 6
+D0
+~
+~
+0 -1 13840
+D1
+~
+~
+0 -1 13835
+D2
+~
+~
+0 -1 13827
+D6
+~
+~
+0 -1 13841
+D8
+~
+~
+0 -1 13828
+D9
+~
+~
+0 -1 13826
+S
+#13835
+Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails in all directions, but none
+seem more promising than the next.
+~
+0 0 3
+D0
+~
+~
+0 -1 13841
+D1
+~
+~
+0 -1 13836
+D2
+~
+~
+0 -1 13828
+D7
+~
+~
+0 -1 13840
+D8
+~
+~
+0 -1 13829
+D9
+~
+~
+0 -1 13827
+S
+#13836
+Forest Skazoy~
+The orest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails in all directions, but none
+seem more promising than the next.
+~
+0 0 3
+D1
+~
+~
+0 -1 13835
+D2
+~
+~
+0 -1 13829
+D3
+~
+~
+0 -1 13835
+D7
+~
+~
+0 -1 13841
+D9
+~
+~
+0 -1 13828
+S
+#13837
+The Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails around you, and hear the river
+to the south.
+~
+0 0 3
+D1
+~
+~
+0 -1 13838
+D2
+~
+~
+0 -1 13831
+D3
+~
+~
+0 -1 13839
+D6
+~
+~
+0 -1 13842
+D8
+~
+~
+0 -1 13833
+D9
+~
+~
+0 -1 13830
+S
+#13838
+The Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see trails around you, and hear the river
+to the south.
+~
+0 0 3
+D0
+~
+~
+0 -1 13842
+D1
+~
+~
+0 -1 13839
+D2
+~
+~
+0 -1 13831
+D3
+~
+~
+0 -1 13837
+D6
+~
+~
+0 -1 13843
+D8
+~
+~
+0 -1 13833
+D9
+~
+~
+0 -1 13830
+S
+#13839
+The Forest Skazoy~
+The forest seems fairly normal here, the whistling of the wind a pleasant sound
+to behold. A light breeze swirls the leaves at your feet, and the occassional
+squirrel darts across your toes. You see the trails surrounding you, and the
+river rages loudly to your east and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 13843
+D1
+~
+~
+0 -1 13837
+D2
+~
+~
+0 -1 13833
+D3
+~
+~
+0 -1 13838
+D6
+~
+~
+0 -1 13844
+D7
+~
+~
+0 -1 13842
+D9
+~
+~
+0 -1 13831
+S
+#13840
+The River Skazoy~
+The river seems to vanish between the trees, and originate from above a large
+stone wall that extends from east to west before you. It angles down, roaring
+with anger and joy, but offers you no path to cross here. The trees continue
+to hang over the river, as if protecors, guardian-spirits.
+~
+0 0 6
+D1
+~
+~
+0 -1 13841
+D2
+~
+~
+0 -1 13834
+D8
+~
+~
+0 -1 13835
+S
+#13841
+Skazoy Forest - Fruit Tree~
+This portion of the forest holds a single tree that bears fruit. Golden apples
+glisten from the branches, a beautiful, and unusual sight. You think you see
+a glisten of flame-red feathers between the leaves, but it could be the light
+dashing off the apple skins. The scent of the apples waft around you, enticing
+you and offering promises of sweet luxury.
+~
+0 0 3
+D2
+~
+~
+0 -1 13835
+D3
+~
+~
+0 -1 13840
+D8
+~
+~
+0 -1 13836
+D9
+~
+~
+0 -1 13834
+S
+#13842
+The Rock Wall~
+The forest trees and vines grow against a huge stone wall here. The wall is
+completely covered with the green foliage, save a spot or two of dull grey.
+Beyond the wall, you hear soft music, but you can see no end to the height of
+the stones. They climb higher than the tallest tree.
+~
+0 0 3
+D1
+~
+~
+0 -1 13843
+D2
+~
+~
+0 -1 13838
+D3
+~
+~
+0 -1 13846
+D8
+~
+~
+0 -1 13839
+D9
+~
+~
+0 -1 13837
+S
+#13843
+The Rock Wall~
+The forest trees and vines grow against a huge stone wall to the north. The
+wall rides right into...and under...the river's water, and extends as high or
+higher than the tallest tree. You know there would be no way you could climb
+the wall. One stone in the wall seems to have some writing on it. You could
+look closer.
+~
+0 0 3
+D1
+~
+~
+0 -1 13844
+D2
+~
+~
+0 -1 13839
+D3
+~
+~
+0 -1 13842
+D9
+~
+~
+0 -1 13838
+E
+writing~
+Duchi-Ohni s oodovolstvyem priyechali bui k nam v'gosti.
+~
+E
+edit writing~
+~
+S
+#13844
+The Rock Wall~
+The forest trees and vines grow against a huge stone wall here. The wall is
+completely covered with the green material, save a spot or two of dull grey.
+Beyond this wall, you hear soft music, but you can see no end to the height
+of the stones. They climb higher than the tallest tree.
+~
+0 0 3
+D1
+~
+~
+0 -1 13842
+D3
+~
+~
+0 -1 13843
+D9
+~
+~
+0 -1 13839
+S
+#13845
+The Bottom of the River~
+The water is almost peaceful above you. If you can hold out long enough, you
+can look about you. Doing so reveals the typical greenery and moss on the 
+pebbles that lie beneath the river's surface, several clean skeletons of all
+sizes, though the scraps of clothing hint that all were male, and a glistening
+of gold. It seems all the pebbles, the sand, and the skeletons are dusted with
+this precious coloring.
+~
+0 65 12
+D4
+~
+~
+0 -1 13832
+S
+#13846
+The Clearing~
+You break through the trees that have grown so familiar to a patch of land so
+fresh and beautiful that the flickering of torches even seem to cease for a
+moment. You see a small home to the north, right in the center of this clearing
+and a well to the northeast. Besides the scent of the fresh-cut grass, you find
+yourself drawn to the aroma of sweet oranges.
+~
+0 0 2
+D0
+~
+~
+0 -1 13850
+D1
+~
+~
+0 -1 13842
+D6
+~
+~
+0 -1 13847
+D7
+~
+~
+0 -1 13849
+S
+#13847
+The Clearing~
+You stand before a small well that has a tiny pile of rocks next to it. Beside
+the rock is a small bowl with some water in it, and a plate with some scraps 
+of meat. You hear a rustle, and turn, but see nothing out of the ordinary.
+To your west is a small home, that looks clean, though abandoned.
+~
+0 0 2
+D3
+~
+~
+0 -1 13850
+D7
+~
+~
+0 -1 13848
+D9
+~
+~
+0 -1 13846
+S
+#13848
+The Clearing~
+This portion of the clearing has a small garden. Though the rows are neatly
+tilled, and the grass around it is cut to an even length, nothing grows.
+The lack of tools lends to believe that the garden isn't even planted, but if
+that were so, the garden would not even be tilled. What it results in is a
+puzzle.
+~
+0 0 2
+D2
+~
+~
+0 -1 13850
+D8
+~
+~
+0 -1 13847
+D9
+~
+~
+0 -1 13849
+S
+#13849
+The Clearing~
+Here in the clearing is a pile of wood, a stump, and an axe. The axe is buried
+well into the chopping stump, and would take great effort to pry loose. It
+appears rusted and unused. The woodpile consists of thick branches and thin 
+tree trunks, but all the wood seems rotted and useless.
+~
+0 0 2
+D1
+~
+~
+0 -1 13850
+D6
+~
+~
+0 -1 13848
+D8
+~
+~
+0 -1 13846
+S
+#13850
+Abandoned Forest Home~
+You stand in the center of the clearing facing a home with no door. There is a
+doorway, however, and you could enter it. There's a sign with a bright picture
+hanging over the doorway, and a small bowl sits by the door. In the bowl are 
+stains from cream that must have been finished a long time ago.
+~
+0 0 2
+D0
+~
+~
+0 -1 13848
+D1
+~
+~
+0 -1 13847
+D2
+~
+~
+0 -1 13846
+D3
+~
+~
+0 -1 13849
+D7
+~
+~
+0 -1 13851
+D10
+~
+doorway~
+133120 -1 13852
+S
+#13851
+The Bathhouse~
+Before you stands a stone building of far better quality than the home you just
+left. Hanging from the outside of the building are scraps of soft cloth, the
+likes of what one would use to dry themselves off after a bath. There's a bar
+of soap-like substance, but it hardly looks sanitary.
+The entrance is open and without a door.
+~
+0 0 2
+D8
+~
+~
+0 -1 13850
+D10
+The entrance stands before you, ready to use.
+~
+entrance~
+526336 -1 13853
+S
+#13852
+Inside the Home~
+This home is plain and spartan. What little furniture exists looks as if it
+hasn't moved in ages, but it's amazingly clear of dust. The pile of hay that
+serves as a bed has a cloth neatly, and tightly, pulled over it. On the shelf
+there seems to be some sort of statuette. It's brightly painted in reds, blues
+and greens. It seems to be a woman of sorts, but there's a crack in the middle.
+You can enter the doorway to leave the way you came.
+~
+0 0 0
+D10
+~
+doorway~
+133120 -1 13850
+S
+#13853
+Inside the Bathhouse~
+Inside here are three pools for water. One has stones, logs, a large pit, flint
+and tinder beside it. The second and the third are normal basins. All three
+look barren, as if they need to be filled. For such a plain home, the bathhouse
+seems a luxury, especially for one so far into the woods. There are clean
+towels on a shelf, sanitary-looking and folded neatly. You can also find the
+soap to use.
+The egress leads out where you came from.
+~
+0 0 1
+D10
+~
+egress~
+526336 -1 13851
+S
+#13854
+Floating in a void~
+~
+0 4 1
+S
+#13898
+Floating in a void~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+M 1 13801 4 13803
+O 1 18 1 13804
+O 1 18 1 13805
+M 1 13899 1 13806
+G 1 13805 1
+O 1 13899 1 13806
+O 1 18 1 13806
+M 1 13800 7 13807
+M 1 13800 7 13808
+M 1 13800 7 13808
+M 1 13814 8 13816
+E 1 13814 1 16
+M 1 13800 7 13817
+M 1 13814 8 13817
+G 1 13814 1
+M 1 13814 8 13817
+G 1 13814 1
+M 1 13814 8 13821
+O 1 13805 1 13821
+M 1 13828 4 13822
+M 1 13803 1 13824
+G 1 13801 1
+G 1 13802 1
+M 1 13800 7 13827
+M 1 13828 4 13828
+M 1 13801 4 13829
+M 1 13802 3 13830
+M 1 13802 3 13834
+M 1 13814 8 13835
+E 1 13814 1 16
+M 1 13814 8 13836
+E 1 13814 1 16
+G 1 13805 1
+M 1 13828 4 13836
+M 1 13814 8 13838
+M 1 13814 8 13838
+M 1 13800 7 13839
+M 1 13800 7 13839
+M 1 13801 4 13840
+M 1 13802 3 13840
+M 1 13805 1 13841
+G 1 13803 1
+M 1 13801 4 13842
+M 1 13828 4 13844
+E 1 13828 1 12
+M 1 13807 1 13850
+G 1 13813 1
+M 1 13808 1 13853
+E 1 13815 1 9
+O 1 20702 1 13853
+O 1 2418 1 13853
+O 1 13809 1 13853
+M 1 13810 1 13833
+M 1 13804 1 13826
+O 1 13816 1 13845
+P 0 2 1 0
+P 1 407 1 0
+O 1 13810 1 13811
+M 1 13806 1 13852
+O 1 13804 1 13852
+P 0 13806 1 0
+P 1 13807 1 0
+P 2 13808 1 0
+P 0 13812 0 13810
+P 0 13811 0 13810
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  13801 spec_thief
+M  13802 spec_janitor
+M  13803 spec_cast_undead
+M  13808 spec_cast_mage
+M  13814 spec_poison
+M  13899 spec_poison
+S
+
+
+#$

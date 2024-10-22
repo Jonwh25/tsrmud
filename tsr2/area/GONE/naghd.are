@@ -1,0 +1,474 @@
+#AREA	Draven Wenham [45  160] The Nag's Head Tavern~
+
+
+#MOBILES
+#100
+typical bar thug~
+A typical bar thug~
+A typical thug, usually found in a bar, is here.
+~
+A large ugly man sits here sipping a beer.  He stinks of rotten animals,
+and the worst body odor.  Killing him would do the world a favor
+~
+4|64|262144|16777216 128|512|2097152|67108864|268435456 0 S
+50 100 0 200d10+200 6d22+15
+20 0
+8 8 1
+#101
+nag guard~
+a bouncer~
+A bouncer for the Nag's Head stands here.
+~
+This LARGE man stands before you checking people for entrance to the
+Nag's Head Tavern.  Beware of him if you are not normally accepted into this
+place.
+~
+2|64 2|8|16|32|128|512|524288|2097152|67108864|268435456 0 S
+150 100 0 200d50+650 50d10+25
+2000 0
+8 8 1
+#0
+
+
+#OBJECTS
+#100
+Draven's fangs of Death.~
+draven's fangs~
+Draven's fangs are lying here~
+~
+5 0 1|8192|16384
+0 12 60 10
+100 100000000 0
+A
+1 5
+A
+19 100
+A
+18 100
+#102
+The Nag's Tusk~
+the Nag's Tusk~
+A mangled tusk lies here.~
+~
+5 262144|524288 1|8192|16384
+0 148 1 10
+5 1000000 0
+A
+4 2
+A
+18 15
+A
+19 15
+A
+1 -2
+A
+2 -1
+#103
+wooden table~
+a splintery tavern table~
+A splintery wooden table with strange carvings is here.~
+~
+15 4096|16384|262144 0
+100 1|4 0 100
+-31072 0 0
+#104
+thug's knife~
+a thug's knife~
+A short knife with a dull blade is here.~
+~
+5 8192|1048576 1|8192|16384
+0 4 25 0
+10 250 0
+A
+18 2
+A
+3 -1
+#105
+tavern bench~
+a splintered tavern bench~
+A long wooden bench at a tavern table is here.~
+~
+12 262144 0
+2 500 144 -20
+-31072 0 0
+#107
+turkey whole~
+a whole turkey~
+A whole juicy turkey sits here.~
+~
+19 0 1
+250 0 0 0
+0 20 0
+#199
+Draven's Paint~
+paint of Draven~
+Strange black and white paints lie here~
+~
+9 1|2|4|64|256|262144|16777216 1|16|32768
+100 100 100 100
+10 100000 0
+#0
+
+
+#ROOMS
+#100
+Entrance to the Nag's Head~
+Stepping onto an old rickety porch, you come upon the dark entrance to
+the Nag's Head Tavern.  This huge building looks as if it has been visited
+by many vagrants and thugs over the years.  There is really nothing on the
+outside of the building, but from the inside you hear music and extremely
+loud voices.  Sounds like your kind of place.
+~
+0 1|512 0
+D2
+An old rickety doorway.
+~
+~
+1 0 101
+S
+#101
+Inside the Nag's Head~
+You are standing inside the entrance of the Nag's Head Tavern.  Looking
+across the room, you see all kinds of thugs, vagrants, and theives.  This is
+NOT the world's safest place.  However, it is VERY exciting, and you think
+you might just want to stay for a drink.
+~
+0 8 2
+D0
+The Exit
+~
+~
+1 0 100
+D1
+further into the tavern
+~
+~
+0 0 108
+D2
+A table
+~
+~
+0 0 102
+S
+#102
+A Table Inside the Nag's Head~
+You are standing before a large splintery wooden table.  There is a white
+drip candle in the center of the table with wax flowing around it.  In the
+table itself is a large knife with the words "my table," carved underneath
+it.  Looking to your left, you see a big, ugly, foul smelling figurethat
+resembles a pig.  There is one more chair at the table...
+~
+0 1 0
+D0
+toward the EXIT
+~
+~
+0 0 101
+D1
+into the bar
+~
+~
+0 0 107
+D2
+in front of the stage
+~
+~
+0 0 103
+S
+#103
+Closer to the stage.~
+Coming closer to the stage area, you turn and look at all the vagrants
+and low-life scum scattered around the tavern.  You realize that this place
+may be a bit tougher than you had first expected.  For some reason, the
+people there haven't really noticed you yet.  Beware of trouble finding it's
+way to you though.
+~
+0 1|8 7
+D0
+A table in the tavern.
+~
+~
+0 0 102
+D2
+on the stage
+~
+~
+0 0 104
+S
+#104
+The rear stage~
+On the rear stage you can see the whole tavern.  Everything from the very
+long bar to the entrance.  There are a couple of dark corner tables, but
+nothing in particular.  The backs of the "entertainment" are to you.
+~
+0 1 0
+D0
+close to the stage
+~
+~
+0 0 103
+S
+#105
+The Back of the Stage~
+From this angle, you can see the whole tavern in front of you.  There
+are, however, two dark corners that aren't very clear.  On the stage in
+front of you the entertainment is starting to get a little rowdy, just the
+way you like it.
+~
+0 8 7
+D0
+towards the front of the stage
+~
+~
+0 0 106
+S
+#106
+The Stage~
+The bard towards the front of the stage lookes back at you and wonders
+what you're doing next to his equipment.  You wonder why he's looking at you
+that way, the little punk.  Next to you are some musical instruments.  You
+are clueless as how to play them, seeing as how you've never seen anything
+like them.  They would make good throwing objects though.
+~
+0 8192 2
+D0
+on the main floor of the tavern.
+~
+~
+0 0 107
+D2
+towards the rear of the stage
+~
+~
+0 0 105
+S
+#107
+Nag's Head~
+You are in the main part of the Nag's Head Tavern.  There is beer and
+liquor all over the floor.  Looks like this place gets pretty sloppy.  You
+can also tell that these people aren't here to play games, taking into
+consideration the fact that there's also blood on the floor.
+~
+0 8 2
+D0
+towards the entrance
+~
+~
+0 0 108
+D2
+towards the stage
+~
+~
+0 0 106
+D3
+a table
+~
+~
+0 0 102
+S
+#108
+Just Inside the Entrance to the NAg's Head~
+You are standing just inside the entrance to the Nag's Head Tavern. 
+Action is all around you in mysterious forms that you have never run into. 
+Watch what you say, and who's foot you step on.  To leave, go west from
+here.  If you've had too much to drink and need to take a piss, go north.
+~
+0 8 2
+D0
+to the outhouse
+~
+~
+0 0 109
+D1
+to a table
+~
+~
+0 0 111
+D2
+towards the main bar area
+~
+~
+0 0 107
+D3
+the entrance.
+~
+~
+0 0 101
+S
+#109
+The Path to the Outhouse~
+You step off the stoop onto a small dirt path covered with brush.  Trees
+rise up all around you, creating a dark and mysterious walk.  Is taking a
+piss really necessary?  The short walk to the outhouse could be even shorter
+if you're not careful.  Go south to go back into the tavern, and east if you
+really MUST.
+~
+0 4 0
+D1
+to the pisser
+~
+~
+1 0 110
+D2
+back to the tavern
+~
+~
+0 0 108
+S
+#110
+The Outhouse~
+As you step into this dark and smelly place, your urge to take a leak has
+suddently vanished.  It has instead been replaced by an feeling of utter
+terror.  You know there is something lurking in this dark shit hole, but
+what is it?
+~
+0 1|512|8192 0
+D3
+the only way out!
+~
+~
+1 0 109
+S
+#111
+A Crowded Table~
+Walking around the tavern, you notice that this table is the most crowded
+in the tavern.  It has so many people around it, that you can barely see the
+table.  You get brave, and step up to take a closer look.  Thats when one of
+the dirtiest guys you've ever seen turns on you and stares you dead in the
+eye.  It is deffinatly clear that you are NOT WANTED here.
+~
+0 8 0
+D3
+towards the pisser
+~
+~
+0 0 108
+S
+#112
+A dark, damp hole...~
+This dark, damp hole seems tight for you...  But you can still breathe. 
+Holding your light up, you can see that its been dug by human hands, almost
+in a frenzy it seems.  Worms and various insects crawl all around you. 
+Water from above drips on you forhead.  This is deffinatly some kind of
+tunnel.
+~
+0 1|4|8|2048|262144 0
+D1
+the hole continues
+~
+hole~
+0 0 113
+S
+#113
+The tunnel~
+The hole continues on west and south.  The dampness is getting worse.  In
+some places its even starting to drop water in a very thin stream...  What
+is this place?
+~
+0 1|4|8|2048|262144 0
+D2
+~
+tunnel~
+0 0 114
+D3
+~
+~
+0 0 112
+S
+#114
+The tunnel...~
+The dug out pathway continues on north.  Yet, there is a strange light to
+th south of here.  What could it be?  Then, there, in the dirt, you notice
+something glimering.  What could it be?  You bend over to take a better
+look.  Why, its the engagment ring Draven bought his fiancee, but why is it
+here?
+~
+0 1|4|2048|262144 0
+D0
+~
+~
+0 0 113
+D2
+~
+passage-way~
+0 0 115
+S
+#115
+The Alley of the Undead...~
+All around there are what look to be bums standing over fires warming
+themselves.  Far off in the distant you hear some kind of music.  Then, as
+if from nowhere comes a peal of wicked laughter...  Its right behind you. 
+Now you know why this is the Alley of the Undead...
+~
+0 1 1
+D0
+~
+hole~
+0 0 114
+D1
+~
+alley~
+0 0 117
+D3
+~
+alley~
+0 0 116
+S
+#116
+Before the Abandoned Building.~
+You stand before an enormous abandoned building.  The place is dark and
+gloomy, with a sense of death.  All the doors and windows of the building
+are borded up.  Yet, there are strange smells coming from the old cracks and
+crevices.  Why is that?
+~
+0 1 1
+D1
+~
+alley~
+0 0 115
+D5
+~
+trapdoor~
+1 0 118
+S
+#117
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 115
+S
+#118
+The Basement~
+Looking around this dank hole in the ground, you see torches lining one
+wall, and some kind of writing on the other.  Taking a much closer look at
+the writing you see that its written in blood!  It tates, "Funboy and
+Tin-Tin.  Two Down One To Go, They were dead as soon as Shelly was raped,
+and I passed through the window.  Let them fear, let them cower.  LET THEM
+KNOW THE FULL EXTENT OF MY POWER!"  -The Crow.
+~
+0 1|262144 0
+D4
+~
+trapdoor~
+1 0 116
+S
+#0
+
+
+#RESETS
+D 1 109 1 1
+D 1 110 3 1
+D 1 116 5 1
+D 1 118 4 1
+O 1 103 0 102
+P 1 104 0 103
+O 1 105 0 102
+M 1 100 1 102
+S
+
+
+#$

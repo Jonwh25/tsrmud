@@ -1,0 +1,50 @@
+#DEITY
+Filename		Rhylus.dei~
+Name		Rhylus~
+Description	The personification of random luck, or fortune, Rhylus represents
+the Benificence of Nature.  He stands for fortune, and luck, but
+as followers of Rhylus quickly find out, neither one is very
+predictable, and strange things happen in Rhylus' presence.  Born
+a young dwarf in Dragon's Tooth, Rhylus was killed in a freak
+accident when a meteor crashed into the ground, destroying a 
+Chaos encampment, where Rhylus was currently prisoner.  Bestowed
+with immortality by Ao himself, Rhylus was sent to the Realms
+to continue his work for the forces of good.
+~
+Alignment		500
+Worshippers	1
+Flee		20
+Flee_npcrace	20
+Flee_npcfoe	-20
+Kill		35
+Kill_npcrace	-100
+Kill_npcfoe	80
+Kill_magic	20
+Sac		30
+Bury_corpse	20
+Aid_spell		30
+Aid		40
+Steal		-20
+Backstab		-20
+Die		-15
+Die_npcrace	-20
+Die_npcfoe	-20
+Spell_aid		20
+Dig_corpse	-10
+Scorpse		200
+Savatar		800
+Sdeityobj		100
+Srecall		100
+Race		-1
+Class		-1
+Element		1
+Sex		-1
+Avatar		1
+Deityobj		409
+Affected		4
+Npcrace		2
+Npcfoe		6
+Suscept		8
+End
+
+#END

@@ -1,0 +1,513 @@
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         4642
+Level        1
+End
+
+#OBJECT
+Nest         2
+Vnum         4642
+Level        2
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         4642
+Level        1
+End
+
+#OBJECT
+Nest         2
+Vnum         4642
+Level        1
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         4642
+Level        2
+End
+
+#OBJECT
+Nest         2
+Vnum         4642
+Level        1
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         425
+Level        16
+Values       11 6 19 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21073
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21070
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2441
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2423
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        7
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         1702
+Level        10
+Values       12 2 12 7 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21059
+Level        7
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         425
+Level        38
+Values       10 11 33 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         15713
+Level        22
+Values       12 9 21 8 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21058
+Level        5
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21068
+Level        9
+Values       10 3 13 6 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         21062
+Level        5
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         425
+Level        38
+Values       12 10 33 6 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         428
+Level        38
+Values       8 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         426
+Level        39
+End
+
+#OBJECT
+Nest         1
+Vnum         432
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         434
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21064
+Level        8
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2448
+Level        12
+Cost         0
+Values       10 2 2 27 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         410
+Level        49
+Values       57 24 24 88 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         406
+Level        50
+Values       14 14 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         427
+Level        39
+Values       11 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         113
+Level        1
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         430
+Level        18
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         406
+Level        49
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         410
+Level        50
+Values       57 24 24 88 0 0
+Spell 3      'identify'
+End
+
+#OBJECT
+Nest         1
+Vnum         21
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         406
+Level        50
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         407
+Level        50
+End
+
+#OBJECT
+Nest         1
+Vnum         427
+Level        38
+Values       10 11 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2448
+Level        7
+Cost         0
+Values       9 2 2 27 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Nest         1
+Vnum         21057
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2439
+Level        3
+Values       8 3 3 29 0 0
+Spell 3      'colour spray'
+End
+
+#OBJECT
+Nest         1
+Vnum         107
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2107
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2422
+Level        11
+Values       1 1 1 125 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21062
+Level        6
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9215
+Level        5
+Values       15 3 3 72 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9218
+Level        2
+Values       12 1 1 79 0 0
+Spell 3      'gas breath'
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         15716
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9215
+Level        3
+Values       15 2 2 72 0 0
+Spell 3      'fireball'
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9217
+Level        1
+Values       7 4 4 57 0 0
+Spell 3      'earthquake'
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         4639
+Level        10
+Values       100 10 10 11 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         8638
+Level        17
+Values       12 8 56 1 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         4634
+Level        12
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         9225
+Level        6
+Values       19 46 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         21064
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         2102
+Level        9
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Count        13
+Vnum         4610
+Level        1
+Values       2147483647 0 0 0 0 0
+End
+
+#END

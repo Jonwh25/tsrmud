@@ -1,0 +1,13 @@
+#CORPSE
+Name         corpse Kane~
+ShortDescr   the corpse of Kane~
+Description  The corpse of Kane is lying here.~
+Vnum         11
+Room         8768
+ExtraFlags   4194304
+Timer        40
+Values       0 0 5 1 0 0
+End
+
+#END
+

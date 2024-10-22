@@ -1,0 +1,1925 @@
+#AREA   Catacombs~
+
+
+
+#AUTHOR Rhylus~
+
+#RANGES
+8 38 0 60
+$
+
+#RESETMSG Haunting screams chill your bones.~
+
+#FLAGS
+0 5
+
+#ECONOMY 0 11239048
+
+#MOBILES
+#6800
+a rotting corpse~
+A rotting corpse~
+A foul-smelling, rotting corpse is here.
+~
+~
+97 544 -1000 C
+8 0 0 0d0+0 0d0+0
+1000 0
+5 8 0
+18 8 8 12 20 5 8
+0 0 0 0 0
+0 17 0 0 1 1 2
+0 0 1671 1048576 0 1 6385 3
+#6801
+thief looter~
+a looting thief~
+A looting thief is here, rummaging through debris.
+~
+~
+199 33312 0 C
+10 0 0 0d0+0 0d0+0
+1429 0
+8 8 1
+16 16 15 20 18 14 19
+0 0 0 0 0
+1 16 0 0 3 2 3
+0 0 175 256 8 1048576 1648 524291
+#6802
+body wealthy~
+A wealthy person's body.~
+A wealthy looking body staggers towards you.
+~
+~
+99 680 500 C
+12 0 0 0d0+0 0d0+0
+4600 0
+8 8 1
+18 10 14 16 20 5 5
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 135 8192 0 8192 7152 524307
+#6803
+guard sentry~
+A lone sentry~
+The Gate Guard blocks your path.
+~
+~
+131171 37749308 0 C
+15 0 0 0d0+0 0d0+0
+7 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+40 3 0 0 2949821 2949820 3
+0 0 135 1048576 2104320 16 8388912 532483
+#6804
+gut ripper~
+A Gut-Ripper~
+A Gut-Ripper crouches here, drooling.
+~
+~
+101 33554472 -1000 C
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+20 16 18 18 19 12 14
+0 0 0 0 0
+79 3 0 0 1728079219 1728079219 3
+0 0 47 1154 2048 16 263 8194
+#6805
+great beast ravager~
+A Ravager~
+The Ravager leaps towards you!
+~
+~
+99 67109418 0 C
+22 0 0 0d0+0 0d0+0
+1 0
+8 8 1
+24 18 18 13 20 8 16
+0 0 0 0 0
+76 3 0 0 1819042147 1819042146 5
+0 0 1199 1049600 2080 130 262151 66
+#6806
+wight shrouded~
+A shrouded Wight~
+A Wight, covered in a dark shroud floats along the hall.
+~
+~
+65 23069368 -1000 C
+24 0 0 0d0+0 0d0+0
+4532 0
+8 8 0
+25 22 24 20 25 18 16
+0 0 0 0 0
+67 1 0 0 7499637 7499636 3
+0 0 0 0 1048576 8192 1075843072 16388
+#6807
+spectral guardian~
+A Spectral Guardian~
+A Spectral Guardian shifts it's gaze towards you.
+~
+~
+97 680 -1000 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+22 22 23 20 20 12 18
+0 0 0 0 0
+56 0 0 0 6778473 6778473 3
+0 0 0 136 3073 34 134221824 4
+#6808
+turask demon~
+The demonic Turask~
+The Turask turns demonic eyes towards you, and prepares to feast.
+~
+~
+131171 20972216 -1000 C
+35 0 0 0d0+0 0d0+0
+25869 0
+8 8 1
+25 25 13 25 25 22 25
+0 0 0 0 0
+67 0 0 0 7499637 7499636 5
+0 0 1199 1056768 3072 1 268960519 7
+#0
+
+
+#OBJECTS
+#6800
+chest wooden~
+A wooden chest~
+A crumbling wooden chest is here.~
+~
+15 4096 1
+100 0 0 0
+1 0 0
+E
+chest wooden~
+chest wooden
+~
+E
+chest wooden~
+A small wooden chest is here, covered in dust.
+~
+E
+A small wooden chest~
+~
+#6801
+red falchion sword~
+A red steel Falchion~
+A jagged red falchion sits here.~
+~
+5 540736 8193
+0 4 5 3
+10 8000 800
+A
+18 2
+A
+19 4
+A
+2 2
+#6802
+padded boots~
+Some padded boots~
+A pair of padded boots sit here.~
+~
+9 0 65
+5 5 0 0
+8 500 50
+A
+14 80
+A
+31 2
+#6803
+gloves leather~
+Some leather gloves~
+A well-work pair of leather gloves is here.~
+~
+9 16640 129
+6 6 0 0
+4 600 60
+A
+33 10
+#6804
+bronze plate armor~
+Bronze Plate Armor~
+A bronze chest plate sits here, gleaming.~
+~
+9 557056 9
+12 15 0 0
+12 4000 400
+A
+17 5
+A
+1 2
+A
+5 2
+A
+18 2
+A
+19 -1
+#6805
+helmet silver horned~
+A horned silver helmet~
+A fine silver helmet, with protruding horns sits here.~
+~
+9 4416 17
+8 8 0 0
+8 5000 500
+A
+23 10
+A
+24 10
+A
+3 2
+A
+4 2
+#6806
+dented leggings~
+a pair of dented leggings~
+A dented pair of leggings sit here.~
+~
+9 1024 33
+8 8 0 0
+8 4000 400
+A
+25 -2
+A
+18 2
+A
+56 -1
+#6807
+shroud wight~
+the Shroud of the Wight~
+The silvery Shroud of the Wight floats here.~
+~
+9 0 1025
+10 10 0 0
+1 10000 1000
+A
+13 4
+A
+5 2
+A
+2 -1
+A
+13 40
+A
+12 40
+#6808
+Ravager fang tooth~
+the Ravager's fang~
+The Ravager's fang quivers on the floor here.~
+~
+9 262160 5
+8 8 0 0
+4 100 10
+A
+17 8
+A
+13 -20
+A
+13 -10
+#6809
+sword soulseeker~
+Soulseeker~
+Cries of anguish emanate from the sword, Soulseeker, lying here.~
+~
+5 655624 8193
+0 4 15 12
+10 35466 3546
+A
+30 63
+A
+18 3
+A
+19 4
+A
+31 -3
+A
+29 8
+A
+17 10
+#6810
+amulet despair~
+the Amulet of Despair~
+The Amulet of Despair sits , absorbing all hope.~
+~
+9 112 16385
+15 15 0 0
+8 0 0
+A
+13 -100
+A
+56 17
+A
+5 -2
+A
+18 10
+A
+28 16
+A
+19 10
+A
+12 -100
+#6811
+gold pile~
+a pile of gold~
+A large pile of coins sits here.~
+~
+20 0 1
+200000 0 0 0
+1 0 0
+#6812
+scroll furies~
+a shimmering scroll~
+A shimmering Scroll of the Furies is here.~
+~
+2 0 1
+60 201 200 202
+1 0 0
+#0
+
+
+#ROOMS
+#6800
+Dark Chasm~
+You find yourself standing on the edge of a very deep pit.
+The bottom cannot be seen even with the most powerful of light sources.
+A sturdy-looking rope ladder leads it's way into the darkness.
+You hesitate, unsure if you are ready for the darkness of the catacombs.
+~
+0 4 0
+D4
+~
+~
+0 -1 9506
+D5
+pit
+~
+~
+0 -1 6801
+S
+#6801
+Dirt Floor~
+You are standing on a dirt floor, of a very old design.
+A rope ladder hangs above you, leading up out of the catacombs, but
+it is so high up, you cannot make out any light from above.
+This is a hallway leading in 2 directions, east and west, and a door
+lies to the south.
+~
+0 0 1
+D1
+~
+~
+0 -1 6813
+D2
+~
+~
+3 -1 6802
+D3
+~
+~
+0 -1 6803
+D4
+~
+~
+0 -1 6800
+S
+#6802
+Crumbling Room~
+Entering this small room, you cannot really make out anything out
+of the ordinary.  A closer look reveals old blood stains on the floor
+and the smell of death is everywhere.
+A faint shuffling sound can be heard all around you.  The only exit
+is north, through a doorway.
+~
+0 0 0
+D0
+door
+~
+~
+3 -1 6801
+S
+#6803
+Hallway~
+The corridor takes a sharp turn here, heading south and east.  You can
+hear faint shuffling sounds in all directions, and the walls seem to
+squeeze inwards towards you.
+~
+0 0 1
+D1
+~
+~
+0 -1 6801
+D2
+~
+~
+0 -1 6804
+S
+#6804
+Hallway~
+Damp air fills your lungs as you wander through the catacombs.  The
+hall continues south, and north here, with a rotting door to the west.
+Something mumbles from behind the door, and going through it might
+be a bad idea.
+~
+0 0 1
+D0
+~
+~
+0 -1 6803
+D2
+~
+~
+0 -1 6811
+D3
+~
+~
+0 -1 6805
+S
+#6805
+Dwelling~
+This area of the catacombs seems to be some kind of living area for
+whomever had once lived here.  You certainly hope they are no longer
+around.  Scattered remains lie everywhere.  The smell is almost over-
+powering, and you wonder how long you can take it.  A hole in the wall
+to the south leads into another dwelling.
+As well, a door leads east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6804
+D2
+~
+~
+0 -1 6806
+S
+#6806
+Dwelling~
+This seems to be another living area.  The cold stone walls are bare
+and it looks as though there was definitely some kind of battle in here
+although you can't be sure.  The dead lie scattered in heaps, and there
+is very little else to see here.  A small door leads south, and a hole
+in the wall continues to the next room north.
+ 
+~
+0 0 1
+D0
+~
+~
+0 -1 6805
+D2
+~
+~
+0 -1 6807
+S
+#6807
+Entryway~
+This appears to be an entryway for living quarters of some kind.  A
+rusted, rotting door lies ajar to the north, and a plain stone hallway
+leads east.
+~
+0 0 1
+D0
+~
+~
+0 -1 6806
+D1
+~
+~
+0 -1 6808
+S
+#6808
+Hallway~
+The cold stone hallway does not make you feel welcome.  Odd noises
+can be heard from all directions, and shadows dance all around you.
+An entryway to another section of these catacombs is to the west, and
+the hallway continues east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6809
+D3
+~
+~
+0 -1 6807
+S
+#6809
+Hallway~
+The hallway turns north and west here.  Scattered bodies lie partially
+You can see shadows flittering in all directions, and decide you want
+to leave...quickly.
+~
+0 0 1
+D0
+~
+~
+0 -1 6810
+D3
+~
+~
+0 -1 6808
+S
+#6810
+Intersection~
+The hallway intersects here in 3 directions.  You can head east, west
+or south.  The eastern exit seems to begin to slope downwards a bit.
+Perhaps it leads further into the darkness of the catacombs...
+~
+0 0 1
+D1
+~
+~
+0 -1 6812
+D2
+~
+~
+0 -1 6809
+D3
+~
+~
+0 -1 6811
+S
+#6811
+Cave-in~
+This corner of the hallway has caved in slightly, although you think
+you could fit through a small hole leading east.  Otherwise the hall
+stretches out to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 6804
+D1
+~
+~
+0 -1 6810
+S
+#6812
+Narrow Tunnel~
+The hallway narrows into a tunnel here, and you almost have to bend
+over to fit down it's small opening.  There is no light, other than
+the light you are supplying.  There seem to be fewer bodies along this
+part of the catacombs, perhaps an indication that no one had yet made
+it this far into them before the evacuation.
+The tunnel leads east, and a larger hallway is to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 6815
+D3
+~
+~
+0 -1 6810
+S
+#6813
+Alcove~
+You find youself standing in a small alcove of some kind.  Faint
+glyphs can be seen in the dusty stone walls.  Perhaps they say some-
+thing like 'Check your weapons at the door.' but you doubt it.  The
+hallway leads out of here to the west.
+~
+0 0 1
+D3
+~
+~
+0 -1 6801
+S
+#6814
+Cave~
+You are in a tight cave, barely big enough for you to stand in.  A
+lone mummified body sits in the corner, seeming to stare at you with
+empty eyes.  Very rich cloths adorn the figure, and you admire them
+for quite some time.  Too long in fact...you realize that the body is now
+rising up, and moving in your direction...
+~
+0 0 1
+D1
+~
+~
+35 -1 6816
+S
+#6815
+Tunnel~
+The narrow tunnel continues north, or west from here.  Faint light can
+be seen to the north, but you cannot make anything out in the distance.
+~
+0 0 1
+D0
+~
+~
+0 -1 6816
+D3
+~
+~
+0 -1 6812
+S
+#6816
+Cave-in~
+The tunnel has caved in slightly around this part of the tunnel.  A
+large crevice in the west wall reveals a faint light.  The tunnel
+continues to slope downward to the north, and upwards to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 6817
+D2
+~
+~
+0 -1 6815
+D3
+boulder
+~
+~
+3 -1 6814
+S
+#6817
+Bend~
+The tunnel bends south and east here.  It seems to narrow slightly
+and you notice it grows much more damp as you progress downward.
+~
+0 0 1
+D1
+~
+~
+0 -1 6818
+D2
+~
+~
+0 -1 6816
+S
+#6818
+Damp Tunnel~
+The tunnel continues to slope downward to the east, and also heads
+west.  Blood stains the stone walls, and you gag at the smell of rotting
+remains lying at your feet.
+~
+0 0 1
+D1
+~
+~
+0 -1 6819
+D3
+~
+~
+0 -1 6817
+S
+#6819
+Underground River~
+The tunnel crosses a small underground river.  Pulleys and buckets
+sit along the edge.  Obviously the populace of this place used this as
+their water source.  A small bridge spans the river, and you can go
+either east or west.
+~
+0 0 1
+D1
+~
+~
+0 -1 6820
+D3
+~
+~
+0 -1 6818
+S
+#6820
+Sharp Turn~
+The tunnel turns here again, heading into a more spacious area to the
+south, and narrowing slightly to the west.
+The cavern walls pulse with their own light, and puzzlement crosses
+your face as you try and discern where the light originates.
+~
+0 0 1
+D2
+~
+~
+0 -1 6821
+D3
+~
+~
+0 -1 6819
+S
+#6821
+Masoned Tunnel~
+It is obvious that this part of the tunnel was masoned by a fine crafts-
+man.  The smooth walls are cut at precise angles, and sconces line the
+walls holding long dead torches.  This appears to be a richer part of
+the catacombs, but the death brings everyone to the same level.  Bodies
+lie in all positions, grimaces of death on all faces.  The tunnel leads
+north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 6820
+D2
+~
+~
+0 -1 6822
+S
+#6822
+Hallway~
+The tunnel takes a sharp turn here, heading north and west.  The slight
+slope continues to the west, and quiet grating sounds can be heard
+in that direction also.  There is very little else to see here, but
+you continue to trip over bodies lying in the middle of the hall.
+~
+0 0 1
+D0
+~
+~
+0 -1 6821
+D3
+~
+~
+0 -1 6823
+S
+#6823
+Walkway~
+The hallway extends onto a rickety wooden bridge here, which continues
+south along an underwater river of some kind.  Bloated corpses float
+along the edge of the stone walls of the river, and the odour is over-
+powering.  The walkway continues south, and you can hear shuffling
+noises from the south.  The stone hallway continues east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6822
+D2
+~
+~
+0 -1 6824
+S
+#6824
+Walkway~
+The wooden bridge continues north and south over the stagnant water.
+A coil of rope hangs from the edge of the bridge here, and a rotting
+corpse swings quietly from a noose tied in it's end.  A low gurgling
+can be heard as the water splashes around the body's dangling feet.
+The remnants of a doorway can be seen to the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 6823
+D2
+~
+~
+0 -1 6828
+D3
+~
+~
+0 -1 6825
+S
+#6825
+Entryway~
+You enter a small entryway, containing the shattered remains of doors
+to the north, south and east.  Someone obviously entered here with
+great force.  A wooden walkway can be seen to the east, spanning
+a small underground river.
+~
+0 8 0
+D0
+~
+~
+0 -1 6826
+D1
+~
+~
+0 -1 6824
+D2
+~
+~
+0 -1 6827
+S
+#6826
+Alcove~
+This small room looks to have been built to house several people at a 
+time.  Considering it's size, the number of small sleeping pallets
+strewn about is enormous.  Bodies lie in various positions on the
+straw beds, some with weapons thrust into them, some without. A doorway
+to the south is the only exit.
+~
+0 8 0
+D2
+~
+~
+0 -1 6825
+S
+#6827
+Alcove~
+This room appears to be empty, save for the thirty or so corpses piled
+up against the south wall.  You reel from the stench, and wonder if
+there is any point to searching these bodies. A doorway leads north
+to the entryway.
+~
+0 8 0
+D0
+~
+~
+0 -1 6825
+S
+#6828
+Gate~
+A rusted and worn gate sits here, hanging from one hinge.  A stairway
+can be seen south, beyond the gate.  It appears to descend into 
+another level of the catacombs.  A low gurgling can be heard to your
+left and shuffling feet sound as though they are coming closer to you.
+A quick glance to your left reveals a sentry still guarding the
+depths of this abysmal place.
+~
+0 8 0
+D0
+~
+~
+0 -1 6824
+D2
+~
+~
+0 -1 6829
+S
+#6829
+Stairway~
+An old, but seemingly well-used stone stairway descends into darkness
+here.  No sound can be heard from the bottom of the stairs, and no
+light can be seen either.  A rusty gate sits open to the north.
+~
+0 8 0
+D0
+~
+~
+0 -1 6828
+D5
+~
+~
+0 -1 6830
+S
+#6830
+Hub~
+You are standing in a large circular room.  Exits lie in all directions
+like spokes in a wheel.  A starcase leads up to the top level of the
+catacombs.  Glowing torches, magically lit, and seemingly eternal,
+line the walls, and keep the room well-lit.  Movement can be heard
+all around you, but the source is not apparent to you.
+~
+0 8 0
+D0
+~
+~
+0 -1 6831
+D1
+~
+~
+0 -1 6834
+D2
+~
+~
+0 -1 6832
+D3
+~
+~
+0 -1 6833
+D4
+~
+~
+0 -1 6829
+D6
+~
+~
+0 -1 6847
+D7
+~
+~
+0 -1 6835
+D8
+~
+~
+0 -1 6843
+D9
+~
+~
+0 -1 6838
+S
+#6831
+North Room~
+The north room of the hub contains several large bookcases, filled
+with dusty tomes.  Obviously this was once used as a great library
+or reference centre for the underground inhabitants.  A few texts 
+catch your eye, but all of the books you examine seem to be in
+some foreign language.  The onlt exit appears to be south.
+~
+0 8 0
+D2
+~
+~
+0 -1 6830
+S
+#6832
+South room~
+This room holds several tables and chairs, and some more exotic 
+furniture.  A few patrons still maintain their places in death
+having never left where they were sitting apprently.  Charred
+walls indicate magic, and it's destructive use here.  An entryway
+leads north.
+~
+0 8 0
+D0
+~
+~
+0 -1 6830
+S
+#6833
+West Room~
+This room appears to have once been a shop of sorts.  A large counter
+sits against the north wall.  A large set of scales sit covered in dust
+on it.  Several shelves have been raised above and behind the counter
+but nothing can be found on these except more dirt.
+~
+0 8 0
+D1
+~
+~
+0 -1 6830
+S
+#6834
+East Room~
+A large open chest is the first thing which catches your eye here.
+The busted lock lying beside it indicates someone was obviously
+here before you however.  Two corpses sit holding each other in one
+corner, their skulls forever fused into a death grimace.
+The only exit is west.
+~
+0 8 0
+D3
+~
+~
+0 -1 6830
+S
+#6835
+Hallway~
+This hallway leads north-west from the central hub.  Two doors can
+be seen, one to the north, the other to the west.  Large bolts
+are fashioned on each, and you suspect these were cells of some kind.
+Quiet shuffling can be heard from the north door.
+~
+0 8 0
+D0
+~
+~
+3 -1 6836
+D3
+~
+~
+3 -1 6839
+D7
+~
+~
+0 -1 6837
+D8
+~
+~
+0 -1 6830
+S
+#6836
+Cell~
+Harsh blinding light momentarily blinds you as you enter the cell.
+The sound of shuffling feet grows louder, and you clear your eyes
+in haste, only to face a hideous, rotting, animated corpse stumbling
+towards you.
+~
+0 8 0
+D2
+~
+~
+3 -1 6835
+S
+#6837
+Hallway~
+The hallway turns here to the west, or to the southeast.  A smoke-
+filled room can be seen to the west, and any light coming from it
+is diffused before it reaches you.  Sounds like tinkling glass
+emanate from the west room.
+~
+0 0 1
+D3
+~
+~
+0 -1 6851
+D8
+~
+~
+0 -1 6835
+S
+#6838
+Hallway~
+This hallway travels northeast to the centre room, or continues
+southwest.  There are doors to the west and south, both sporting
+large locks, and several bolts.
+~
+0 0 1
+D2
+~
+~
+3 -1 6842
+D3
+~
+~
+3 -1 6840
+D6
+~
+~
+0 -1 6830
+D9
+~
+~
+0 -1 6841
+S
+#6839
+Empty Cell~
+This cell contains several bodies, piled helter-skelter against the
+bare walls.  A sticky yellow mucous covers most of the bodies, and
+you find yourself standing in it up to your ankles.  It is very 
+hard to walk through, and sticks to your feet as you shuffle in it.
+The cell door leads east.
+~
+0 8 0
+D1
+~
+~
+3 -1 6835
+S
+#6840
+Cell~
+This cell is empty.  A few chains still hang from its walls, but no
+signs of life or death can be seen in here.  The only exit is east.
+~
+0 0 1
+D1
+~
+~
+3 -1 6838
+S
+#6841
+Hallway~
+This hallway continues south to a room which seems to be full of a 
+misty vapour.  Sounds like crackling flames can be heard in that
+direction.  The hall also travels northeast, towards the central
+hub of this area.
+~
+0 0 1
+D2
+~
+~
+0 -1 6851
+D6
+~
+~
+0 -1 6838
+S
+#6842
+Chamber~
+This room looks as though it was used for some very hideous torture.
+Chains and racks line the walls, and the floor is stained crimson
+from the vast amounts of blood that must have been spilled here.
+A few splintered (human?) bones lie scattered on the floor, and
+some decapitated bodies sit against the east wall.
+~
+0 0 1
+D0
+~
+~
+3 -1 6838
+S
+#6843
+Hallway~
+This hallway leads southeast from the centre room, and continues in
+that direction into another section of hallway.  Two doors mark the 
+east and south walls.
+~
+0 0 1
+D1
+~
+~
+3 -1 6846
+D2
+~
+~
+3 -1 6844
+D7
+~
+~
+0 -1 6830
+D8
+~
+~
+0 -1 6845
+S
+#6844
+Cell~
+This cell was used to hold several prisoners at once it seems.  Large
+sections of fencing cordon off different areas of the room, and each
+section contains it's own set of shackles.  A few bodies lie shackled
+in the chains, long since dead.  A quiet growling starts, and you
+see a very hungry beast chained in the centre of the room.  It is unlike
+anything you have seen before, and before you can react it snaps
+it's chain and charges towards you!
+~
+0 0 1
+D0
+~
+~
+3 -1 6843
+S
+#6845
+Hallway~
+A well lit hallway continues northwest towards the central room in
+the catacombs, ehile this hall also travels east towards a hazy
+room, with very little light escaping from it.  The sound of running
+water seems to be coming from the east, but you can't be sure.
+~
+0 0 1
+D1
+~
+~
+0 -1 6851
+D7
+~
+~
+0 -1 6843
+S
+#6846
+Forge~
+This seems to be a converted cell, used by the inhabitants of this
+as a makeshift forge.  A large furnace sits cold in one corner, and
+a great steel anvil rests on the ground in front of it.  An empty
+water trough sits near both.  A few incomplete weapons and pieces
+of armor sit along one wall.
+~
+0 0 1
+D3
+~
+~
+3 -1 6843
+S
+#6847
+Hallway~
+You find yourself travelling a well lit hallway of sorts.  Two doors 
+mark the north and east walls.  The hall runs southwest to the central
+room and north east further down the hallway.
+~
+0 0 1
+D0
+~
+~
+3 -1 6850
+D1
+~
+~
+3 -1 6848
+D6
+~
+~
+0 -1 6849
+D9
+~
+~
+0 -1 6830
+S
+#6848
+Empty Cell~
+There is nothing in this cell, except for some human remains, lying
+scattered on the floor.  Chains hang from the walls, some with bits
+of flesh still hanging from them.  The only exit is west.
+~
+0 0 1
+D3
+~
+~
+3 -1 6847
+S
+#6849
+Hallway~
+This hall continues southwest towards the central room.  A misty
+vapour sends tendrils across the floor of this hall from the north
+room.  The sound of a strong wind can be heard from the north,
+but the haze does not clear.
+~
+0 0 1
+D0
+~
+~
+0 -1 6851
+D9
+~
+~
+0 -1 6847
+S
+#6850
+Cell~
+Another cell.  There must have been many bodies held in this one
+due to the large piles of bones and rotting corpses in here.  Taking
+a closer look, you notice that these bodies are from a race you have
+never seen before.  Horned skulls with large teeth grin up at you 
+from their final resting places.  The only exit is south.
+~
+0 0 1
+D2
+~
+~
+3 -1 6847
+S
+#6851
+Mist~
+Soft light cascades all around you, and you seem to be floating in a 
+light mist.  Tendrils of mist caress you and carry you in all dir-
+ections at once.  There is no sense of time, or direction, but a 
+pulling sensation nevertheless keeps you wondering where you are going.
+~
+0 12582916 1 10 6852 0
+S
+#6852
+Tomb of the Damned~
+The mist clears and you are on solid ground again.  There is one
+visible exit to the east, and movement can be heard clearly from
+outside the room.  Strange symbols mark the walls, and the entire
+room shimmers with magical energy.  
+~
+0 8192 0
+D1
+~
+~
+0 -1 6853
+> all_greet_prog 100~
+A shadowy voice echos through your head.  "Thou art damned if you
+find thyself within the walls of this tomb....."
+~
+|
+S
+#6853
+Stone Corridor~
+Arcane symbols line the walls of this tomb.  Smooth black stone lines
+the walls, shimmering with an aura of energy.  Shadows flicker in and
+out of the lighted areas.  Muttering and scratching can be heard all
+around you..as though some great force was chanting your name.
+~
+0 0 1
+D0
+~
+~
+0 -1 6864
+D1
+~
+~
+0 -1 6863
+D2
+~
+~
+0 -1 6854
+D3
+~
+~
+0 -1 6852
+S
+#6854
+Corridor~
+The black walls of this tomb continue along, almost seeming to absorb
+all the light within.  Large alcoves line the hallway, some with bodies
+in them, some without.  The guardians of this tomb consistently attempt
+to prevent your passage, and their numbers astound you.  The corridor
+leads north and west.
+~
+0 8200 0
+D0
+~
+~
+0 -1 6853
+D3
+~
+~
+0 -1 6855
+S
+#6855
+Corridor~
+The dark corridor continues.  The symbols on the walls almost seem
+to swim with their own life...their own energy.  The voices in your 
+head continue unabated.
+~
+0 0 1
+D1
+~
+~
+0 -1 6856
+D3
+~
+~
+0 -1 6856
+S
+#6856
+Altar~
+You have entered some sort of altar.  A ghastly figure made of the 
+same black stone as the walls sits over 70 feet tall at the head
+of the dias.  Large spiraling horns and grimacing pointed teeth
+stare down at you.  The bodies of several females hang, suspended
+in the throes of death from the figures hands.
+More of the altar can be seen tothe south, while the hallway leads east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6855
+D2
+~
+~
+0 -1 6857
+S
+#6857
+Altar~
+A small pool lies in the center of this room, near the altar.  The
+surface of the water is coated with a light green scum, and swirls
+of blood shimmer through the waste.  A few bubbles escape to the
+surface...and gurgling can be heard beneath the surface of the slime.
+More of the altar can be seen to the north, and a hallway leads east.
+~
+0 0 1
+D0
+~
+~
+0 -1 6856
+D1
+~
+~
+0 -1 6858
+S
+#6858
+Ramp~
+A long ramp runs slightly uphill towards the east.  Disappearing in
+darkness in the distance.  A large altar can be seen to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 6859
+D3
+~
+~
+0 -1 6857
+S
+#6859
+Ascension~
+A long ramp leads slightly downhill to the west.  You are standing
+at the peak of a small ascension, with the ramp leading into darkness
+to the east.  Fewer symbols line the black walls here, but they seem
+more powerfull.  A numbing vibration runs through your arm when you
+touch the walls.
+~
+0 0 1
+D1
+~
+~
+0 -1 6860
+D3
+~
+~
+0 -1 6858
+S
+#6860
+Passageway~
+A small passageway leads northeast here, barely wide enough for you
+to fit through.  A corridor leads west into darkness.
+~
+0 0 1
+D3
+~
+~
+0 -1 6859
+D6
+~
+~
+0 -1 6861
+S
+#6861
+Entryway~
+Here you find a small entryway into a narrow tunnel.  The tunnel 
+leads southwest, and very little can be seen at the other end.
+North of this entryway is a dark corridor.
+~
+0 0 1
+D0
+~
+~
+0 -1 6862
+D9
+~
+~
+0 -1 6860
+S
+#6862
+Gallery~
+Tapestries and paintings line the walls of this grand hall.  Disturbing
+events unfold on each, seeming to tell a story.  Headless bodies are
+sacrificed to indescribable beasts, and grimacing, bloodless faces
+stare from ancient portraits, surrounded by more pulsating symbols.
+The gallery continues east and west, while a small entryway can be
+seen to the south.
+~
+0 8200 0
+D1
+~
+~
+0 -1 6878
+D2
+~
+~
+0 -1 6861
+D3
+~
+~
+0 -1 6863
+S
+#6863
+Gallery~
+Pulling back the large velvet curtains leading to this hall, you 
+gaze at small statues and paintings crowded into this gallery.  Evil
+faces and mutilated statues stare down at you.  The power of this place
+almost gives them life.  The gallery leads east, and a corridor can be
+seen to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 6862
+D3
+~
+~
+0 -1 6853
+S
+#6864
+Walkway~
+You are standing on a large square walkway, surrounding a deep pit.
+No light can be seen from within the depths of the endless pit, and
+intense heat can be felt rising up from within it.  The walkway
+runs around it to the north, and the hallway lies to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 6867
+D1
+~
+~
+0 -1 6865
+D2
+~
+~
+0 -1 6853
+S
+#6865
+Walkway~
+The walkway continues around the pit to the west and north.  Loose
+limbs hang from some ropes and chains surrounding the pit on a 
+railing of sorts.
+~
+0 0 1
+D0
+~
+~
+0 -1 6866
+D3
+~
+~
+0 -1 6864
+S
+#6866
+Walkway~
+Youa re standing on a large walkway surrounding a large chasm.  No
+light can be seen from the bottom of the pit, and you can imagine
+that it probably has no bottom.  The walkway continues west and south,
+while a hallway can be seen to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 6868
+D2
+~
+~
+0 -1 6865
+D3
+~
+~
+0 -1 6867
+S
+#6867
+Walkway~
+The walkway continues around the large pit.  Ropes and chains hang
+from a railing surrounding the chasm.  Along with the intense heat,
+you can almost hear faint cries from within the depths of the
+pit.
+The walkway continues east and south.
+~
+0 0 1
+D1
+~
+~
+0 -1 6866
+D2
+~
+~
+0 -1 6864
+S
+#6868
+Hallway~
+More black stone runs along this hallway, covered again in strange
+arcane symbols.  Pulses of magic pass through you as you wander
+down the length of the hall, and chanting can be heard faintly from
+the east.  A walkway is to the south, and the hall continues east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6869
+D2
+~
+~
+0 -1 6866
+S
+#6869
+Hallway~
+This hallway leads in an east-west direction.  It is made of the same
+strange black stone you have seen in the rest of the tomb.  Voices
+whisper around you, and a low chanting is heard off in the distance.
+~
+0 0 1
+D1
+~
+~
+0 -1 6870
+D3
+~
+~
+0 -1 6868
+S
+#6870
+Wind~
+You step into a heavy billowing wind, but no source can be seen.  The
+wind howls around you, and tugs at your clothes.  The room seems no 
+different than any other, except for the strange wind, obviously magical
+in nature.
+~
+0 0 1
+D1
+~
+~
+0 -1 6871
+D3
+~
+~
+0 -1 6869
+S
+#6871
+Corner~
+The hallway here takes a turn, heading west and south.  Low chanting
+can be heard from the south, intermingled with several screams.  The
+deep black stone, covered in symbols pulsates with a heart-like rhythm
+along the south hall.
+~
+0 0 1
+D2
+~
+~
+0 -1 6872
+D3
+~
+~
+0 -1 6870
+S
+#6872
+Hallway~
+This part of the hallway continues north and south. You struggle against
+a fierce magical force while travelling south.  Something is trying to
+prevent you from going that way.  A hairline crack in the west wall
+can be seen here.
+~
+0 0 1
+D0
+~
+~
+0 -1 6871
+D2
+~
+~
+0 -1 6876
+D3
+~
+door~
+3 -1 6873
+S
+#6873
+Chamber~
+You enter a small chamber, barely high enough for you to stand up in.
+A small cot sits in one corner, and looks as though it had been
+used recently.  A few clothes sit on a table, very ornately decorated.
+There are exits to the south, and southwest.
+~
+0 0 1
+D1
+~
+door~
+3 -1 6872
+D2
+~
+~
+0 -1 6875
+D9
+~
+~
+0 -1 6874
+S
+#6874
+Vault~
+This appears to be a small vault of some kind.  A few chests sit locked
+against one wall, and several weapons and pieces of armor hang from
+hooks.  A very nice pile of treasure indeed.  As you reach your hand out
+to pick up a particularly nice item, a shock runs through your arm up
+to your shoulder.  Better not try that again.
+~
+0 0 1
+D6
+~
+~
+0 -1 6873
+D8
+~
+~
+0 -1 6875
+S
+#6875
+Library~
+Shelves line the walls of this room, the names of the tomes elude 
+you, as they are written in a strange glyph of sorts.  A very strong
+pulsating magical energy emanates from the shelves, and none of the
+books can be removed.  Exits lie north and northwest.
+~
+0 0 1
+D0
+~
+~
+0 -1 6873
+D7
+~
+~
+0 -1 6874
+S
+#6876
+Hallway of Souls~
+The walls of black stone swim with fierce energy, seeming to shift
+and swim around you.  Faces appear and disappera within the walls
+screaming out to you in agony.  Wisps of smoke curls around your
+feet, and caress your legs.  A haunting voice whispers very close
+to your ear
+Come...to me.....flesh....
+~
+0 0 1
+D0
+~
+~
+0 -1 6872
+D2
+~
+~
+0 -1 6877
+S
+#6877
+Hallway of Souls~
+A long gallery lies off to the west, and it's haunted paintings
+seem quiet compared to the rampage of screams which fly around you.
+The hallway here has begun to vortex with colors, and the screams
+become louder as you head south.  The hallway beckon back to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 6876
+D2
+~
+~
+0 -1 6879
+D3
+~
+~
+0 -1 6878
+S
+#6878
+Gallery~
+This section of the gallery contains but one portrait.  Once a large
+man, the image in the picture is one of a rotting corpse, still 
+animated however.  A rictus grin spreads like a plague from thin lips,
+and a tattered cloak envelops a decaying body.  Magic symbols run
+along all sides of the painting, and surround it with power.  The
+gallery runs west, and a hallway lies to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 6877
+D3
+~
+~
+0 -1 6862
+S
+#6879
+Chamber of Damnation~
+Sharp pain cuts through your head and chest, almost dropping you
+to your knees.  Faint shadows flick around you, and tease with
+laughing screams, taunting you.  Movement is almost impossible, a 
+wall of force pushes you back towards the north, but more light can
+be seen to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 6877
+D2
+~
+~
+0 -1 6880
+S
+#6880
+Fog~
+A thick curtain of fog surrounds you, and you cannot make out any
+directions.  A low grumbling, loud chanting, and continued screams
+can be heard from the south.  The force has grown very strong here
+and it is difficult to move.  You might be able to make it out
+to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 6879
+D2
+~
+~
+0 -1 6881
+S
+#6881
+Grand Temple~
+You force your way through the heavy force blocking passage from the 
+north, and find yourself in an immense Temple.  Spires leads up towards
+the vaulted ceiling, and altars line the south wall, many of them 
+covered in gore.  Before on of the altars in an immense figure, cloaked
+in silk robes, and just beginning to turn towards you.  His pale face
+reveals nothing more than pure hatred, and bloodless lips peel back
+in a shocking rictus of death.
+~
+0 0 1
+D0
+~
+~
+0 -1 6880
+D3
+~
+panel~
+2100271 -1 6882
+S
+#6882
+Secret Chamber~
+Stumbling into this hidden room, you gaze in wonder at the glimmering
+riches which twinkle in the dim light.  A deep rumbling cascades all
+around you, and suddenly you feel pulled away....
+~
+0 4194304 1 10 6830 0
+D1
+~
+panel~
+15 -1 6881
+S
+#6883
+Floating in a void~
+~
+0 4 1
+S
+#6884
+Floating in a void~
+~
+0 4 1
+S
+#6885
+Floating in a void~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+D 0 6801 2 1
+M 1 6800 9 6802
+G 1 6804 1
+D 0 6802 0 1
+M 1 6800 9 6804
+M 1 6801 4 6805
+E 1 6802 1 8
+O 1 6800 1 6805
+P 0 6801 1 0
+M 1 6801 4 6807
+E 1 6803 1 9
+M 1 6800 9 6810
+M 1 6800 9 6812
+M 1 6802 1 6814
+D 0 6814 1 1
+M 1 6800 9 6816
+D 0 6816 3 1
+M 1 6800 9 6818
+M 1 6801 4 6820
+M 1 6800 9 6823
+M 1 6800 9 6826
+M 1 6801 4 6827
+M 1 6803 1 6828
+E 1 6805 1 6
+E 1 6806 1 7
+M 1 6804 3 6831
+M 1 6804 3 6832
+M 1 6804 3 6833
+M 1 6806 4 6835
+E 1 6807 1 12
+D 0 6835 0 1
+D 0 6835 3 1
+M 1 6800 9 6836
+D 0 6836 2 1
+M 1 6806 4 6838
+D 0 6838 2 1
+D 0 6838 3 1
+D 0 6839 1 1
+D 0 6840 1 1
+D 0 6842 0 1
+M 1 6806 4 6843
+D 0 6843 1 1
+D 0 6843 2 1
+M 1 6805 1 6844
+G 1 6808 1
+D 0 6844 0 1
+D 0 6846 3 1
+M 1 6806 4 6847
+D 0 6847 0 1
+D 0 6847 1 1
+D 0 6848 3 1
+D 0 6850 2 1
+M 1 6807 7 6852
+M 1 6807 7 6855
+M 1 6807 7 6857
+M 1 6807 7 6860
+M 1 6807 7 6866
+M 1 6807 7 6869
+D 0 6872 3 1
+D 0 6873 1 1
+M 1 6807 7 6876
+M 1 6808 1 6881
+E 1 6809 1 16
+G 1 6810 1
+D 0 6881 3 2
+O 1 6812 1 6882
+O 1 6811 1 6882
+D 0 6882 1 2
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  6806 spec_cast_undead
+M  6807 spec_cast_mage
+M  6808 spec_breath_any
+S
+
+
+#$

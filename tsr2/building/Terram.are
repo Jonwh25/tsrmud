@@ -1,0 +1,3059 @@
+#AREA   The Savannah~
+
+
+
+#AUTHOR Terram~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 31249106
+
+#MOBILES
+#9000
+Gazelle~
+A graceful gazelle~
+A thin graceful gazelle watches for danger.
+~
+This animal is a lovely shade of tan that matches the blowing sand.
+It is thin and graceful, with twin horns sprouting from its head.
+By a trick off the light a gleam appears at the tip of one of the horns.
+It seems more concerned with watching for danger than browsing.
+~
+193 0 100 C
+6 0 0 0d0+0 0d0+0
+1 0
+8 8 0
+10 13 10 20 13 16 15
+-20 -20 -10 10 -10
+50 3 0 0 135817925 135817924 1
+0 0 1085 0 0 32 512 2
+#9001
+Cheetah~
+a quick cheetah~
+A black spotted cheetah surveys his surroundings.
+~
+The tannish yellow cheetah yawns and stretches.  Its black spots move
+over its rippling muscles and its claws extent then retract.  The pale
+blue eyes scan watching for prey.
+~
+131105 0 -100 C
+9 0 0 0d0+0 0d0+0
+0 0
+5 8 1
+15 13 10 25 12 13 13
+-20 0 -2 2 -10
+29 3 0 0 6645091 6645090 3
+0 0 328893 2097152 0 256 3 2
+#9002
+Lioness~
+a protective lioness~
+A lioness hides among the grass and keeps a watch.
+~
+The tawny lioness rests her feline head on her paws.  Her bright golden
+eyes miss little movement.  The lioness scoots forward a little to stay
+in the shade offered by the grass.  Her tail twitches.
+~
+35 0 300 C
+8 0 0 0d0+0 0d0+0
+0 0
+6 8 2
+15 20 13 17 13 13 13
+0 0 0 0 0
+74 3 0 0 1644195945 1644195945 2
+0 0 263349 0 0 1024 3 2
+#9003
+Lion~
+a large lion~
+A lion roars out his diffiance.
+~
+The tawny lion throws back his head and shakes his mighty mane.  A
+reverberating roar echoes from his tooth filled maw.  His golden eyes
+slowly close as he lowers himself to his haunches again.
+~
+69 0 501 C
+8 0 0 0d0+0 0d0+0
+0 0
+5 8 1
+20 10 13 15 15 13 20
+0 0 0 0 0
+74 3 0 0 1644195945 1644195945 0
+0 0 327853 32 0 0 3 2
+#9004
+Cub~
+a playful lion cub~
+A small tawny lion cub is playing.
+~
+A small pall of tawny yellow fur lies curled up.  With a fericious mew
+it jumps from its pretended sleep to catch a grasshopper.  Its greenish
+eyes dance merrily as it chases after the insect.
+~
+131205 0 251 C
+5 0 0 0d0+0 0d0+0
+0 0
+4 8 1
+10 13 13 13 13 13 13
+0 0 0 0 0
+74 3 0 0 1644195945 1644195945 0
+0 0 165 0 0 0 1 2
+#9005
+Pride~
+a pride of lions~
+A pride of lions is hunting.
+~
+With a blur a lioness charges in at one side, then another attacks from
+behind.  A large lion lets out a roar of challenge that draws attention
+so the lionesses cant pounce once more.
+~
+131109 0 400 C
+10 0 0 0d0+0 0d0+0
+0 0
+7 8 0
+20 13 10 20 13 13 13
+0 0 0 0 0
+74 3 0 0 1644195945 1644195945 0
+0 0 327853 0 6144 0 2051 524290
+#9006
+Zebra~
+a striped zebra~
+A striped zebra attempts to blend with the tall grasses.
+~
+The black and white stripes move with the wind as the zebra casually
+browses on the grass.  Its ears constantly swivel and its tail beats
+at flies on its back.
+~
+65 0 50 C
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+14 13 13 17 13 13 13
+0 0 0 0 0
+86 3 0 0 1919251567 1919251566 0
+0 0 1597 0 0 0 32 2
+#9007
+colt~
+a zebra colt~
+A zebra colt walks on unsteady legs.
+~
+A black and white striped colt gets unsteadily to his feet.  His coat
+is matted and dusty.  It walks unsteadily then bursts into a graceful
+run before slowing back to an unsteady walk.
+~
+393217 0 600 C
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+10 13 13 10 13 13 18
+0 0 0 0 0
+86 3 0 0 1919251567 1919251566 0
+0 0 1573 0 0 0 32 2
+#9008
+Herd~
+a stampeding herd of zebras~
+A zebra herd runs across the savannah.
+~
+The stripes of black and white form a mind straining pattern as they
+run amongst each other.  A few stop to graze but their stillness just
+adds to the confusion.
+~
+193 0 10 C
+8 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+14 10 14 22 13 13 13
+0 0 0 0 0
+86 3 0 0 1919251567 1919251566 0
+0 0 1589 0 6144 0 416 10
+#9009
+Termite~
+a white termite~
+A termite industriously carries stuff to its mound.
+~
+A termite looks like a white ant.  It scurries among the pale green grass.
+It stops at one blade and with two quick snaps of its mandibles severs the
+tall blade.  It picks up an end of the blade and drags it back towards its
+mound.
+~
+5 0 -250 C
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+14 13 13 13 19 13 13
+0 0 0 0 0
+20 3 0 0 256 135816076 0
+0 0 36 0 0 0 8 2048
+#9010
+Queen termite~
+a queen termite~
+A bloaded queen termite commands her followers.
+~
+This white termite is huge.  It easily dwarfs the other termites.  It 
+waves its antena and other termites run this way and that.  A steady 
+stream of eggs are carried away.
+~
+3 0 -400 C
+6 0 0 0d0+0 0d0+0
+0 0
+5 8 2
+13 13 13 12 22 22 13
+0 0 0 0 0
+20 3 0 0 256 256 0
+0 0 52 0 0 0 8 2049
+#9011
+Crocodile~
+a green croc~
+An algea covered rock moves revealing itself as a crocodile.
+~
+Barely moving the green crocodile looks like a rock in the fast flowing
+river.  A careless gazelle wanders into the water.  With a splash the
+crocodile is draggin the helpless animal under.  The water roils and 
+then the crocodile is floating unmoving again.
+~
+35 0 -501 C
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+21 8 13 18 13 8 13
+0 0 0 0 0
+79 3 0 0 1728079219 1728079219 0
+0 0 196796 16 0 0 2049 2
+#9012
+Hatchling~
+a hatchling~
+A hatchling breaks from its shell.
+~
+A leathery shell tears open and a small green head emerges.  The  tiny
+mouth opens and its sharp baby teeth tear the shell the rest of
+the way open.  Still slimy from its egg it rests in the sun to dry off.
+~
+131073 0 -251 C
+7 0 0 0d0+0 0d0+0
+0 0
+4 8 1
+9 13 13 18 13 13 13
+0 0 0 0 0
+79 3 0 0 1728079219 1728079219 0
+0 0 196645 0 0 0 1 2
+#9013
+Water current~
+a water current~
+A playful current pushes and pulls.
+~
+A water currents plays with some sea weed.  A vague shape can be seen
+as it moves and tugs.  It appears vaguely humanoid but made of crystal
+clean water.
+~
+35 0 0 C
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 25 13 13 13 13 13
+0 0 0 0 0
+84 6 0 0 589328239 589328238 0
+0 0 0 0 10240 4 262144 10
+#9014
+Wind dust devil~
+a dust devil~
+A dust devil throws up plumes of blinding grating dust.
+~
+The wind begins to howl and throw up the sand.  Suddenly a small whirl
+wind starts dancing around throwing up sand to blind and misdirect.
+The faint image of a tree can be seen in the center of the small wind.
+~
+7 0 0 C
+8 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 25 13 13 13
+0 0 0 0 0
+84 2 0 0 589328239 589328238 0
+0 0 0 0 10240 2097152 2097152 2
+#9015
+Earth Spirit~
+a boulder~
+A boulder rests solidly on the ground.
+~
+A solid granite boulder is wedged tightly in the corner.  Its grey surface
+is very smooth and near the top two bits of quartz gleam.  
+~
+3 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 25 13 13
+0 0 0 0 0
+84 1 0 0 589328239 589328238 0
+0 0 0 0 10240 128 1082130432 10244
+#9016
+Wood Spirit~
+a tree limb~
+A branch swings slowly in the breeze.
+~
+A large branch sweeps lower than the rest from the giant tree.  It 
+smooth brown bark splits into three about a mans length from the trunk.
+Three large knots mar the middle branches surface.  One of the knots 
+winks at you.
+~
+3 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+25 13 13 13 13 13 13
+0 0 0 0 0
+84 7 0 0 589328239 589328238 0
+0 0 0 0 10240 1 768 33
+#9017
+Aardvark~
+an aardvark~
+An aardvark claws at a termite mound.
+~
+An aardvark uses its long sticky tongue to lap up the termites it has
+freed from the mound.  Its short tan and grey fur shifts over its 
+massive body and pointed head and attacking termites are thrown off.
+~
+3 0 250 C
+7 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+23 13 13 5 19 13 13
+0 0 0 0 0
+27 3 0 0 1728084337 1728084336 0
+0 0 265789 8192 0 0 8388610 10240
+#9018
+Crow~
+a black crow~
+A black crow caws and pearches in a near by bush.
+~
+A large black crow looks for shiny objects with its beady black eye.
+The stench of decay seems to hang about the large bird.  It emits three
+harsh caws then clows its beak with a snap.
+~
+197 24 -750 C
+4 0 0 0d0+0 0d0+0
+10 0
+8 8 0
+10 21 21 23 7 13 13
+0 0 0 0 0
+78 2 0 0 1702065007 1702065007 0
+0 0 33829 0 0 2048 1 2
+#0
+
+
+#OBJECTS
+#9000
+horn spiral pipe~
+a gazelle horn~
+Some god dropped a newly created Horn here.~
+~
+30 262144 16385
+10 0 0 0
+3 25 2
+E
+horn ~
+This rich brown horn is straight but has spirals coming up from the 
+base.  Two holes have been carved into this hole.  One small near the
+tip and a large hole on one side near the base that looks like a bowl
+of a pipe.
+~
+A
+54 1
+#9001
+boots cheetah ~
+cheetah hide boots~
+A cunningly crafted set of boots made from a cheetah hide.~
+~
+9 262144 65 21
+5 5 0 0
+5 15 1
+E
+boots hide~
+These finaly made boots are very soft and relatively thin.  They are made
+of a fine yellow and black spotted hide.  
+~
+A
+14 20
+A
+47 -10
+#9002
+heart ~
+a bloody heart~
+A heart has been cut from a lioness.~
+~
+26 0 1
+5 -1 -1 -1 0 5
+1 31 3
+E
+heart~
+This large heart has pieces of yellow fur on it.  Judging from its size
+it looks to be from a lioness.
+~
+#9003
+mane~
+a lion's mane~
+A lion's mane has been turned into a collar.~
+~
+9 262144 5
+5 5 0 0
+10 200 20
+E
+mane ~
+Someone has carefully removed the hide around the neck of a lion and 
+turned it into a collar.  The tawny yellow hair hangs down long to lay 
+across the shoulders and protect the neck.
+~
+A
+1 1
+A
+3 -1
+A
+27 32
+#9004
+pelt yellow ~
+a yellow pelt~
+A very soft yellow pelt.~
+~
+8 262144 1025 1
+0 0 0 0
+4 500 50
+E
+pelt~
+This soft fur pelt is a sandy yellow.  The hair is very smooth.  The
+pelt is only about a foot wide so it probably came from a lion cub.
+~
+#9005
+cloak zebra~
+a zebra hide cloak~
+A black and white striped cloak blends with the surroundings.~
+~
+9 262144 1025 133
+3 3 0 0
+10 67 7
+E
+cloak zebra~
+This cloak is sewn together from many hides.  The pattern of the stripes
+mislead the eye and makes it blend in with the background. 
+~
+A
+36 10
+#9006
+hide zebra~
+a zebra hide~
+A hide of a zebra has been finely tanned.~
+~
+8 262144 2049 1
+0 0 0 0
+4 500 50
+E
+hide ~
+This hide is colored white with black stripes.  The grain and fur is 
+very soft and supple.  
+~
+#9007
+claws aardvark yellowish~
+yellowish aardvark claws~
+A set of aardvark claws have been worked into a spiked leather glove.~
+~
+5 262144 8193 7
+0 0 0 5
+3 95 10
+E
+claws aardvark~
+Eight long slightly curving claws are set into a strap of leather.
+When in place the yellowish claws extend past the clenched fist.   This
+allows the user to slash and claw.
+~
+#9008
+honey white ~
+a dollop of white honey~
+A small amount of white honey is bound inside a wax coating.~
+~
+26 262144 1
+10 -1 -1 -1 15 0
+1 65 60
+#9009
+bag purse crocodile~
+a crocodile hand bag~
+Someone had turned a crocodile into a hand bag.~
+~
+15 262144 2049 8
+50 0 0 -1
+3 92 10
+E
+hand bag ~
+This belt pouch was made with great care.  The stiches are even and small
+but strong and hold the bumpy leather firm.  The green hide ripples in
+the light.  
+~
+#9010
+belt crocodile green~
+a green leather belt~
+A finely crafted crocodile leather belt is coiled up.~
+~
+8 262144 2049 3
+0 0 0 0
+1 350 35
+#9011
+sap repelant~
+some sticky sap~
+Some pugnent sap oozes from broken grass stems.~
+~
+60 262176 1
+5 3 2 3 -1 -1
+1 0 0
+E
+sap grass~
+Long pale grass stems give off a pugnent odor as colorless sap oozes
+from a break in the stems.  A fly buzzes close then zooms away and no 
+other insect approaches.
+~
+#9012
+book diary brown~
+an old diary~
+An old book lays here forgotten.~
+~
+35 0 1
+0 0 0 0
+5 25 50
+E
+book diary~
+An old leather bound book is covered with grass stains. Some old print
+on the cover has the name Pious Phryer.  The title is Soothing the 
+Savannah.
+<look pg1 to read firth entry>
+~
+E
+pg1~
+4th of Frostnigh,
+I have finished my journey tonight.  Tommorow I will enter the savannah
+and convert the savages to the glory of the true gods.  As the sun is
+setting my eyes travel over the vast expanse of grasslands and I realize
+what a job I have before me but I have faith and will triumph.
+<look pg2 next entry>
+~
+E
+pg2~
+5th of Frostnight,
+I have set out across the grasslands calling for its people to come out.
+I have yet to find any of them.  The sun is very hot and the relentless
+wind only stirs up the sand.
+<look pg3 next entry>
+~
+E
+pg3~
+10th of Frostnight,
+I have run out of water and food and still had not seen the people of
+this land.  In desperation I called on my god to kill a zebra.  My 
+prayer was answered and a bolt of lightning struck the zebra.  Then to
+my surprise before the zebra had hit the ground, two small brown men
+appeared out of nowhere prepared the meat and hide and disappeared again.
+I searched but could not find them or any tracks left by them.
+<look pg4 next entry>
+~
+E
+pg4~
+15th of Frostnigh,
+I have finally talked to the natives but they rebuked me.  They showed
+me the spirits of the land and wind.  The showed me the life giving 
+river and the shade giving trees.  I begin to wonder what truely rules
+this land.  They say tommorow they will take me to the waterhole and
+let me begin the journey of life following the trails of spirit to the
+southwest.  We shall see.
+<The diary ends here>
+~
+#9013
+water pool hole~
+a water hole~
+The water laps at the shore of the water hole.~
+~
+25 0 0
+0 0 0 0
+5000 0 0
+#0
+
+
+#ROOMS
+#9000
+The Savannah~
+The terrain is a gently rolling grasslands.  The grass is short and pale green.
+The grass is sparse here, growing in small clumps.  The ground inbetween is
+filled with loose sand that the wind shifts slowly and endlessly.  To
+the east rises one of the rare trees of the savannah, a small aid to 
+navigating in the vast stretch of land.
+~
+0 0 2
+D0
+~
+~
+0 -1 9075
+D1
+~
+~
+0 -1 9001
+D2
+~
+~
+0 -1 9012
+D3
+~
+~
+0 -1 9007
+D4
+~
+~
+0 -1 9010
+S
+#9001
+The Solitary Tree~
+This old wind gnarled tree stands on the border between the rolling hills 
+and the flowing grasses of the savannah.  The bark is an aged and twisted
+tan, that is not very different from the sand where it grows.  The leaves
+are a pale thin green that rustle in the wind.
+~
+0 0 2
+D0
+~
+~
+0 -1 9011
+D1
+~
+~
+0 -1 9002
+D2
+~
+~
+0 -1 9013
+D3
+~
+~
+0 -1 9000
+D4
+~
+~
+0 -1 9010
+S
+#9002
+The Savannah~
+To the west a lone tree rises over the small rolling hillocks.  The tall grass
+waves and ripples as the wind passes over it.  Here and there is the flicker 
+of small birds as they hunt insects among the grass.  All around is constant
+movement yet the rythems of it are very soothing.  The heat saps the strength
+and encourages lastitude.
+~
+0 0 2
+D0
+~
+~
+0 -1 9077
+D1
+~
+~
+0 -1 9003
+D2
+~
+~
+0 -1 9014
+D3
+~
+~
+0 -1 9001
+D4
+~
+~
+0 -1 9021
+S
+#9003
+The Savannah~
+As far as the eye can see, the savannah extends.  Here and there you catch the
+movement of animals both near and far.  The waving grass is strong and pale
+green, with a sharp edge, and stands about three feet tall.  The pugnent 
+smell of a strange sap rises from a bed of broken grass.
+~
+0 0 2
+D0
+~
+~
+0 -1 9078
+D1
+~
+~
+0 -1 9004
+D2
+~
+~
+0 -1 9015
+D3
+~
+~
+0 -1 9002
+D4
+~
+~
+0 -1 9021
+E
+bed~
+It looks like something bedded down for the night here.  The has a few
+hoof prints in it and looks to have been formed by something the size 
+of a small horse.  The broken grass oozes a pale green sap.
+~
+E
+grass~
+This grass is strong yet supple.  From the broken pieces in the bed you
+notice a pale green sap leaking.  The sap is very pungent and slightly 
+replant.  The drown of insects is much less near the bed.
+~
+S
+#9004
+The Savannah~
+The sun bakes down on the hazy savannah.  The grass sways in the smallest
+breeze bringing an uncomfortable itch if it rubs against you.  Everything
+at a distance is distorted by the rising waves of heat.  Mirages abound
+including a strange one of a tree to the east with an inviting shadow 
+under its wide branches.
+~
+0 0 2
+D0
+~
+~
+0 -1 9079
+D1
+~
+~
+0 -1 9005
+D2
+~
+~
+0 -1 9016
+D3
+~
+~
+0 -1 9003
+D4
+~
+~
+0 -1 9020
+S
+#9005
+The Savannah~
+The wind is hot and dry, the air filled with heat and lethary.  Even 
+the insects seem to have quieted to a dull humm.  A lone tree droops
+in the heat to the east.  The grass sways slightly as if fanning the
+air to cool it.  The faint scent of dirt, dry grass, and manure wafts
+gently on the breeze. 
+~
+0 0 2
+D0
+~
+~
+0 -1 9080
+D1
+~
+~
+0 -1 9006
+D2
+~
+~
+0 -1 9017
+D3
+~
+~
+0 -1 9004
+D4
+~
+~
+0 -1 9020
+S
+#9006
+The Tall Tree~
+This lone tree stretches high over the savanah.  Its bark a rough and twisted 
+tan.  The roots seem to meld with the earth rather than grow from it.  High
+above large branches sway in the breeze and the thin pale green leaves rattle.
+The sweeping branches provide a welcome bit of shade from the hot savannah sun.
+~
+0 0 2
+D0
+~
+~
+0 -1 9081
+D1
+~
+~
+0 -1 9007
+D2
+~
+~
+0 -1 9018
+D3
+~
+~
+0 -1 9005
+D4
+~
+~
+65536 -1 9008
+S
+#9007
+The Savannah~
+From here the savannah looks flat.  An even table of pale green that
+stretches from one horizon to the next with only a single tree to the
+west to give relief from the unending plainness.  An occasional ripple
+like a pebble tossed in a pond runs across the surface of the grass.
+~
+0 0 2
+D0
+~
+~
+0 -1 9082
+D1
+~
+~
+0 -1 9000
+D2
+~
+~
+0 -1 9019
+D3
+~
+~
+0 -1 9006
+D4
+~
+~
+0 -1 9009
+S
+#9008
+Upper Branches of the Tree~
+The view from this high branch is hardly blocked by the thin trembling leaves.
+In all directions is the waving grass of the savannah.  In the distance to the
+east can be seen another tree rising above the grass.  To the south west can
+be seen the water hole and the many animals that mill near it.  Looking closer
+at the tree you can see large claw marks on the branch and trunk, as if 
+something else often uses this spot to observe the vast savannah.
+~
+0 4 3
+D4
+~
+~
+0 -1 9009
+D5
+~
+~
+65536 -1 9006
+S
+#9009
+Wide Open Sky~
+The wind buffets and swirls.  First pulling and then pushing, causing
+the clouds to flee across the sky.  A tall strong tree resists the wind
+and stands straight.  Small flocks of birds stay low to the ground 
+not daring the cyclonic winds.  Far below a herd of gazelle sniff the
+wind, being very wary while they graze.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9083
+D1
+~
+~
+0 -1 9010
+D2
+~
+~
+0 -1 9039
+D3
+~
+~
+0 -1 9020
+D5
+~
+~
+0 -1 9008
+S
+#9010
+Wide Open Sky~
+From high above the savannah seems to go on forever.  The wind buffets and
+pulls, as if urging a path first here then there.  Far below you notice
+one of the few trees that grace the savannah, a deeper green amidst the
+ocean of pale green grass.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9084
+D1
+~
+~
+0 -1 9021
+D2
+~
+~
+0 -1 9030
+D3
+~
+~
+0 -1 9009
+D5
+~
+~
+0 -1 9001
+S
+#9011
+The Winding Trail~
+The poor dirt trail wanders slowly between the gently rolling hills.  At the
+top of a small knoll you can see the vast rolling grasslands of the savannah
+far to the south.  To the north, the sight of the trail entering a small
+corpse of trees is the only thing breaking the monotany of the landscape.
+~
+0 4 4
+D2
+~
+~
+0 -1 9001
+S
+#9012
+The Savannah~
+The thinly grass covered dunes drop off sharply to a rapidly flowing
+river.  The wind stirs up a bit of loose sand that swirls for a moment
+then falls down to the noisy water below.  The ravine blocks all travel
+to the south.  To the east appears to be a lowering of the ravine wall
+so that the river can be reached.
+~
+0 0 2
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 9013
+D3
+~
+~
+0 -1 9019
+D4
+~
+~
+0 -1 9010
+S
+#9013
+The Savannah~
+The hills of the savannah roll gently past.  To the north is a gnarled 
+tree that privodes a bit of shade in heat of the day.  Across the south
+stretches a wide river.  The river is quickly hidden by rising ravine 
+walls to the west while the river becomes very wild and dangerous to 
+the east.  This looks like the one smooth spot to cross the river.
+Until one of the "rocks" in the river suddenly walks onto dry land.
+Long, grey-green, and very reptilian, it is a crocodile.  This serene
+bit of water might not be such a good place to cross after all.
+~
+0 0 2
+D0
+~
+~
+0 -1 9001
+D1
+~
+~
+0 -1 9014
+D2
+~
+~
+0 -1 9023
+D3
+~
+~
+0 -1 9012
+D4
+~
+~
+0 -1 9010
+S
+#9014
+The Savannah~
+The long grass waves back and forth in the wind.  Although you can hear 
+movement and feel the distand thrump of hooves' most movement is covered
+by the tall grass and small hillocks.  The air carries the scent of dust
+and dry grass.  The buzz of insects and the quiet chirps of bird add 
+their music to that of the wind.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9002
+D1
+~
+~
+0 -1 9015
+D2
+~
+~
+0 -1 9024
+D3
+~
+~
+0 -1 9013
+D4
+~
+~
+0 -1 9021
+S
+#9015
+The Savannah~
+The tall grasses rises from the sandy ground.  Many hoof prints can be 
+seen criss-crossing this area.  Hearing the faint rumble of hoof prints
+and the chirp of little birds.  A distant herd of zebra blends very well
+with the tall grass.  The faint smell of waste and drying grass rises
+from the trampled ground.
+~
+0 0 2
+D0
+~
+~
+0 -1 9003
+D1
+~
+~
+0 -1 9016
+D2
+~
+~
+0 -1 9025
+D3
+~
+~
+0 -1 9014
+D4
+~
+~
+0 -1 9021
+S
+#9016
+The Savannah~
+The rolling savannah dips into a steep valley.  Both ends of the valley 
+are blocked by large piles of brush and growing bushes.  The grass looks
+very well cropped as if this area was used as a make shift corral.  Tiny
+brown birds chirp and fliter across the valley before taking shelter in
+the bushes.
+~
+0 0 2
+D0
+~
+~
+0 -1 9004
+D1
+~
+~
+0 -1 9017
+D2
+~
+~
+0 -1 9026
+D3
+~
+~
+0 -1 9015
+D4
+~
+~
+0 -1 9020
+S
+#9017
+The Savannah~
+A faint trail heading north west toward a lone tree and south towards 
+the water hole shows faint but regular use by both animal and man.  The
+grass is trodden or cropped short and emits a very pungent smell.  The 
+sun shines down with a fierce light bleeding the color from the land.
+~
+0 0 2
+D0
+~
+~
+0 -1 9005
+D1
+~
+~
+0 -1 9018
+D2
+~
+~
+0 -1 9027
+D3
+~
+~
+0 -1 9016
+D4
+~
+~
+0 -1 9020
+S
+#9018
+The Savannah~
+The rolling hills and pale grass extent in all directions, the one land
+mark is a tall tree breaking the horizon to the north.  In the distance
+a pair of gazelle graze, one always watching for trouble.  The cloven hoof
+leaves pairs of holes, some already filled with seeds and softly shifting
+sand.
+~
+0 0 2
+D0
+~
+~
+0 -1 9006
+D1
+~
+~
+0 -1 9019
+D2
+~
+~
+0 -1 9028
+D3
+~
+~
+0 -1 9017
+D4
+~
+~
+0 -1 9009
+S
+#9019
+The Savannah~
+The wind picks up swirling sand round and round blocking vision to only
+a couple meters.  The whirling sand abraids and gets into everything.
+The few clumbs of grass are lashed about, but seem resistant to this 
+onslaught.  The light has become a meer halo of light loosing all shape.
+~
+0 0 2
+D0
+~
+~
+0 -1 9007
+D1
+~
+~
+0 -1 9012
+D2
+~
+~
+0 -1 9029
+D3
+~
+~
+0 -1 9018
+D4
+~
+~
+0 -1 9009
+S
+#9020
+Wide Open Sky~
+The air is hot, and slightly hazy.  Waves of heat rise from the ground
+far below.  The wind blows restlessly but only stirs the heat around.
+A valley far below seems bracketed at both ends by piles of brush, as
+if to keep something confined.  
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9073
+D1
+~
+~
+0 -1 9009
+D2
+~
+~
+0 -1 9040
+D3
+~
+~
+0 -1 9021
+D5
+~
+~
+0 -1 9016
+S
+#9021
+Wide Open Sky~
+The vast greeness below you is marred by a cloud of dust.  The wind 
+quickly blows the cloud away to reveal a herd of zebra rushing in a
+wild run of blacks and whites.  The animals seems to calm and they
+almost dissapear in the tall waving grasses.  
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9074
+D1
+~
+~
+0 -1 9020
+D2
+~
+~
+0 -1 9041
+D3
+~
+~
+0 -1 9010
+D5
+~
+~
+0 -1 9014
+S
+#9022
+Rapid River~
+The river rages between confinig canyon walls.  All is a roar as water
+splashes and dashes against sharp black rocks.  The water is thrown up
+in a white froth.  High above is the openness of the sky.  To the east
+it appears the river broadens and calms down.
+~
+0 4 7
+D1
+~
+~
+0 -1 9023
+D3
+~
+~
+0 -1 9797
+D4
+~
+~
+0 -1 9030
+S
+#9023
+Crocodile Aile~
+The river widens here and slows to a sluggish crawl.  The north and south
+banks of the river have lowered until it is an easy step into the water.
+The water is a muddy grey-brown.  The air holds the faintest tang of 
+decay.  There are a few algae covered rocks poking up here and there.
+Vague shapes can be seen moving below the water's surface.
+~
+0 0 6
+D0
+~
+~
+0 -1 9013
+D2
+~
+~
+0 -1 9032
+D3
+~
+~
+0 -1 9022
+D4
+~
+~
+0 -1 9030
+D8
+~
+~
+0 -1 9033
+S
+#9024
+The Savannah~
+The river charges recklessly between the sandy banks, far below.  The
+canyon rim is covered to the edge with hanging greenery making each step
+dangerous.  The tall grass all seems tilted towards the water, as if 
+straining to reach it.  The river washes into a small pond to the south
+east.
+~
+0 0 2
+D0
+~
+~
+0 -1 9014
+D1
+~
+~
+0 -1 9025
+D4
+~
+~
+0 -1 9041
+S
+#9025
+Near The Water Hole~
+The reed and bushes grow heavily along the bank of the small pond. The
+sounds of insects and frogs buzz, the quiet rattlings as small animals
+move among the brush to get a drink.  The smell of water and mud and 
+faintly of mold and must.  The smooth clean water reflects the light.
+~
+0 0 2
+D0
+~
+~
+0 -1 9015
+D1
+~
+~
+0 -1 9026
+D2
+~
+~
+0 -1 9034
+D3
+~
+~
+0 -1 9024
+D4
+~
+~
+0 -1 9041
+S
+#9026
+Near The Water Hole~
+The ground is slightly marshy here.  Reeds and large bushes grow from
+small tullocks.  Muddy, squishy ground fills the area between.  Small
+birds hop among the bushes hunting the humming insects.  Occasional
+flashes of clean water are glimpsed through the foliage.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9016
+D1
+~
+~
+0 -1 9027
+D2
+~
+~
+0 -1 9034
+D3
+~
+~
+0 -1 9025
+D4
+~
+~
+0 -1 9040
+S
+#9027
+A Muddy Bank~
+The ground is very muddy with only very short grasses and a few reeds
+on the edge of the water.  In the mud you can see many tracks of animals
+that come to drink.  It is very quiet and motionless.  The wind has 
+stopped and the insects quieted.  Everything seems poised and waiting.
+~
+0 0 2
+D0
+~
+~
+0 -1 9017
+D1
+~
+~
+0 -1 9028
+D2
+~
+~
+0 -1 9036
+D3
+~
+~
+0 -1 9026
+D4
+~
+~
+0 -1 9040
+D9
+~
+~
+0 -1 9035
+S
+#9028
+The Savannah~
+The grass waves fitfully in the blowing wind.  The sky stretches farther
+the the ground but the ground doesn't seem to end.  The wind teases and
+caresses.  The distant clouds cast patch work shadows across the ground.
+In the distance animals can be seen grazing in large herds near the water
+hole to the west.
+~
+0 0 2
+D0
+~
+~
+0 -1 9018
+D1
+~
+~
+0 -1 9029
+D2
+~
+~
+0 -1 9037
+D3
+~
+~
+0 -1 9027
+D4
+~
+~
+0 -1 9039
+S
+#9029
+The Savannah~
+The rolling hills are split by a large scar.  A ravine cuts across the 
+savannah to the east.  The wind whistles through the ravine with a ghostly
+howl.  Bits of sand slowly cascade down into the darkness.  A caw of a 
+crow echos out of the darkness as it flies up from the ravine.
+~
+0 0 2
+D0
+~
+~
+0 -1 9018
+D2
+~
+~
+0 -1 9038
+D3
+~
+~
+0 -1 9028
+D4
+~
+~
+0 -1 9039
+S
+#9030
+Wide Open Sky~
+Two lines twine across the green expanse of grassland.  One is dark but
+has the shimmer of water in it.  The banks recede revealing a short 
+stretch of wide smooth water.  The other is the beginning of the ravine.
+Nestled between the two is a small comfortable valley.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9010
+D1
+~
+~
+0 -1 9041
+D2
+~
+~
+0 -1 9052
+D3
+~
+~
+0 -1 9039
+D5
+~
+~
+0 -1 9023
+S
+#9031
+A Ravine~
+The path works its way slowly down the ravine wall.  At times the
+opposite wall is close enough to touch, and at others it pulls away
+for many meters.  A single strip of sunlight falls on the train.  Bits
+of dust dance in the air and coat everything.  On the other wall are
+some large nests with beady eyed crows peaking out.
+~
+0 4 5
+D2
+~
+~
+0 -1 9042
+D3
+~
+~
+0 -1 9038
+S
+#9032
+Crocodile Clutch~
+The stench of decay is strong here.  Rotting circles of algae and water
+weeds dot this small valley.  A haunch of zebra rots near a pile of
+broken shells.  This bit of land is boardered by a ravine to the south
+and west and the river to the north and east.  The river to the north
+looks like the easiest way to leave.
+~
+0 0 2
+D0
+~
+~
+0 -1 9023
+D4
+~
+~
+0 -1 9030
+E
+circles~
+Looking closer you see that the circles are actually nests filled with
+large leathery eggs.
+~
+E
+shells~
+These shells are very leathery, and looking closely you notice the
+tracks of baby crocodiles in the sand.
+~
+S
+#9033
+Rapid River~
+The river descends in a mad dash between the sandy hills on both sides.
+Mud that had settled out is replaced as the water scoures the walls of
+the river bank.  Some black rocks valantly resist the efforts causing
+rapids and small water falls.  Luckily this looks like a short section.
+The river seems smoother to the northwest and appears to open into a 
+pond to the east.
+~
+0 0 7
+D1
+~
+~
+0 -1 9034
+D4
+~
+~
+0 -1 9041
+D7
+~
+~
+0 -1 9023
+S
+#9034
+The Water Hole~
+The flowing river rushes into the sluggish pond droping a load a sand
+and debree.  The brown swirling into the blue.  The shores are concealed
+behind high banks of reeds.  Water waters and other insects float on
+or near the water surface, afraid of the fish below and the birds above.
+~
+0 0 6
+D0
+~
+~
+0 -1 9025
+D1
+~
+~
+0 -1 9046
+D2
+~
+~
+0 -1 9045
+D3
+~
+~
+0 -1 9033
+D4
+~
+~
+0 -1 9041
+S
+#9035
+The Water Hole~
+The water is as smooth as glass.  It reflection like a mirror.  Not an
+insects humms or a bird chirps.  The only sound is the faint bubbling
+of water entering and leaving the watering hole.  The wind is still as
+if waiting.  The water clears and you see the roots of the reeds and
+fish hanging motionless in the water.
+~
+0 0 6
+D2
+~
+~
+0 -1 9046
+D3
+~
+~
+0 -1 9034
+D4
+~
+~
+0 -1 9040
+D5
+~
+~
+0 -1 9086
+D6
+~
+~
+0 -1 9027
+D9
+~
+~
+0 -1 9045
+E
+reflection~
+It is almost a perfect, clear reflection of the landscape.  Two things
+are out of place.  One, a huge tree is seen growing from across the
+pond, and the other is that no animal life is reflected.
+~
+S
+#9036
+Near The Water Hole~
+The water to the west looks cool and refreshing.  The wind blows it hot 
+breathe and stirs the water weeds that line the bank.  The tall pale grass
+switches back and forth restlessly, creating a quiet brushing sound.  
+Here and there a insect tries to get the energy to buzz but quiets into
+exaustion after a pitiful humm.
+~
+0 0 2
+D0
+~
+~
+0 -1 9027
+D1
+~
+~
+0 -1 9037
+D2
+~
+~
+0 -1 9047
+D3
+~
+~
+0 -1 9046
+D4
+~
+~
+0 -1 9040
+S
+#9037
+The Savannah~
+The rolling hills seem to have hit their peak here.  This ridge is taller
+than all the surrounding hills.  Faintly to the west can be seen the rich
+greenery around the water hole.  To the east a tear in the earth can be
+seen.  The grass is short and blows fitfully on this exposed hill.
+~
+0 0 2
+D0
+~
+~
+0 -1 9028
+D1
+~
+~
+0 -1 9038
+D2
+~
+~
+0 -1 9048
+D3
+~
+~
+0 -1 9036
+D4
+~
+~
+0 -1 9039
+S
+#9038
+The Savannah~
+The ravine opens up a bit and the is a small winding path that works
+its way treacherously down the wall to the east.  The air blows hard
+as it picks up dust as if trying to fill in the ravine.  The grass is
+short and straggly as if it rarely gets a chance to grow straight.
+~
+0 0 2
+D0
+~
+~
+0 -1 9029
+D1
+~
+~
+0 -1 9031
+D2
+~
+~
+0 -1 9049
+D3
+~
+~
+0 -1 9037
+D4
+~
+~
+0 -1 9039
+S
+#9039
+Wide Open Sky~
+The sea of green rolls up and down as if afflicted by the winds that
+buffet up here.  Then the ground is scarred by a rip in the ground.
+From this dark ravine a crow flies, cawing as it searches for food.
+The air is cool, and carries the smell of hot sand.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9009
+D1
+~
+~
+0 -1 9030
+D2
+~
+~
+0 -1 9061
+D3
+~
+~
+0 -1 9040
+D5
+~
+~
+0 -1 9038
+S
+#9040
+Wide Open Sky~
+The savannah laps at the shore of a small blue pond.  This water hole
+provides the life giving water for the animals and plants.  The air
+is very still here.  A naked bank far below provides the easiest acess
+to the water.  There seems to be a deep channel heading from the bank
+to the south west.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9020
+D1
+~
+~
+0 -1 9039
+D2
+~
+~
+0 -1 9050
+D3
+~
+~
+0 -1 9041
+D5
+~
+~
+0 -1 9027
+S
+#9041
+Wide Open Sky~
+The river spills down and into the still waters of the pond.  A spiral
+is formed of the muddy brown water pouring into the still blue.
+A zebra pushes its way through the brush to drink at the waters surface.
+With a start, the zebra has disappeared into the tall waving grass.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9021
+D1
+~
+~
+0 -1 9040
+D2
+~
+~
+0 -1 9051
+D3
+~
+~
+0 -1 9030
+D5
+~
+~
+0 -1 9034
+S
+#9042
+A Ravine~
+The ground is unstable with loose rock that has fallen from the rock
+overhangs.  These collapses have opened up the ravine so more light 
+can get down, as well as more heat.  The rock walls radiate heat making
+it dificult to keep anything in contact with it.  A faint breeze blows
+down, but all it does is stir the air without giving any relief.
+~
+0 0 5
+D0
+~
+~
+0 -1 9031
+D1
+~
+~
+0 -1 9043
+D2
+~
+~
+0 -1 9053
+D4
+~
+~
+0 -1 9052
+S
+#9043
+A Ravine~
+The ravine twists back and forth through hard stone and soft limestone.
+A band of light shines through the cracked earth above onto the wall.
+A few blades of hardy grass try to grow in the poor lighting and 
+even poorer soil.  A breeze carries hot air as it keens through the
+ravine.
+~
+0 0 5
+D1
+~
+~
+0 -1 9044
+D3
+~
+~
+0 -1 9042
+S
+#9044
+A Ravine~
+The ravine soars high over head.  The tall walls close together to create
+a small shelter at the end of the ravine.  Loose dirt and gravel tumbles
+down accompanied by the whining wind.  Some pale sunlight highlights the
+dust drifting down but even that light is weak.  
+~
+0 1025 5
+D3
+~
+~
+0 -1 9043
+S
+#9045
+The Water Hole~
+The river begins again as a slow trickle leaving the main body of the
+watering hole.  Weeds and debree try to hold the precious water in but
+it tumbles over and through the makeshift dam.  The reeds lean together
+as if hidding the loss of the water from the pond.  But the trickle of
+water laughs merrily as if to defy the attempt to hide it.
+~
+0 0 6
+D0
+~
+~
+0 -1 9034
+D1
+~
+~
+0 -1 9046
+D2
+~
+~
+0 -1 9056
+D4
+~
+~
+0 -1 9051
+S
+#9046
+The Water Hole~
+The water ripples faintly as water pours in and out of the pond.  The reeds
+and water side bushes sway with the breeze.  Brightly colored birds dart 
+across the surface grabbing fish or insects.  The clouds move restlessly
+across the sky and the mirroring water.  
+~
+0 0 6
+D0
+~
+~
+0 -1 9034
+D1
+~
+~
+0 -1 9047
+D3
+~
+~
+0 -1 9045
+D4
+~
+~
+0 -1 9050
+S
+#9047
+Near The Water Hole~
+The brush and grass grow high near the fresh water.  The water makes a
+faint gurgling to the west but it can not be seen from here.  The grass
+rustles but it is not moving with the rythem of the wind.  A flicker of
+tawny yellow is seen among the grass.  The small birds that were 
+fluttering among the branches have gone still and quiet.
+~
+0 0 2
+D0
+~
+~
+0 -1 9036
+D1
+~
+~
+0 -1 9048
+D2
+~
+~
+0 -1 9058
+D3
+~
+~
+0 -1 9046
+D4
+~
+~
+0 -1 9050
+S
+#9048
+The Savannah~
+The wind is abrassive, scouring the color from the sky, and the land.
+The ground a sandy tan, with pale green grass stems waving gently.  
+The clouds can hardly be told from the sky in general.  Even a herd
+of gazelles seen at a distance seem bleached and colorless.
+~
+0 0 2
+D0
+~
+~
+0 -1 9037
+D1
+~
+~
+0 -1 9049
+D2
+~
+~
+0 -1 9059
+D3
+~
+~
+0 -1 9047
+D4
+~
+~
+0 -1 9061
+S
+#9049
+The Savannah~
+The pale grass waves fitfully and almost covers the existance of the 
+ravine to the east.  Tiny marmets have pock marked the ground with
+holes making this portion very dangerous for hoofed animals.  One pokes
+his head out and chitters before diving back below the ground.
+~
+0 0 2
+D0
+~
+~
+0 -1 9038
+D2
+~
+~
+0 -1 9060
+D3
+~
+~
+0 -1 9048
+D4
+~
+~
+0 -1 9061
+S
+#9050
+Wide Open Sky~
+The grass is a deeper green near the water hole.  A rich valley of grass
+is surrounded by the river on one side and the water hole on the other.
+A pride of lions prowls the water edge looking for unwary pray.  A pair
+of lionesses guard the entrance to the green valley.  
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9040
+D1
+~
+~
+0 -1 9061
+D2
+~
+~
+0 -1 9073
+D3
+~
+~
+0 -1 9051
+D5
+~
+~
+0 -1 9046
+S
+#9051
+Wide Open Sky~
+The winds tugs and plays.  The light shines brightly and for an instance
+the image of a leaf tied to each breeze appears.  Then the image is gone
+replaced by the sight of the water hole and the river draining out and 
+down into the savannah, almost hidden amidst the tall grass.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9041
+D1
+~
+~
+0 -1 9050
+D2
+~
+~
+0 -1 9074
+D3
+~
+~
+0 -1 9052
+D5
+~
+~
+0 -1 9056
+S
+#9052
+Wide Open Sky~
+The tan ground below is fractured like chipped ice.  The cracks seem to
+radiate out from a spot below.  The narrow cracks open into a large divot
+like a huge hammer hit the spot.  The ground between the rocks is scorched
+and dead rock with no signs of grass growing upon it.  The wind brings up
+a hot stench of decay.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9030
+D1
+~
+~
+0 -1 9051
+D2
+~
+~
+0 -1 9084
+D3
+~
+~
+0 -1 9061
+D5
+~
+~
+0 -1 9042
+S
+#9053
+A Ravine~
+The walls tower high above blocking out most of the light yet the heat
+still settles down here, turning each rock into a cooking surface.  A
+lizard flips its tongue at you before hiding behind a rock.  The bones
+of animals are scattered across the floor the cavern.  Crows perch on 
+the rocks waiting for the next to die.
+~
+0 0 5
+D0
+~
+~
+0 -1 9042
+D1
+~
+~
+0 -1 9054
+S
+#9054
+A Ravine~
+The ravine comes to an end in a loose pile of shifting dust and shree.
+High above can be seen a thin thread of sky.  Bit of sand filter down
+giving everything a gritty feel.  The heat increases even as you look
+around and a hazy of heat rises from the rocks.  For a moment it looks
+like the east wall and the pile of shree form a skull staring at you.
+~
+0 0 5
+D1
+~
+shree~
+258 -1 9064
+D3
+~
+~
+0 -1 9053
+E
+shree~
+The shree is very loose and easy to dig into.
+~
+S
+#9055
+The Tree Of Lore~
+This large tree is straight and strong.  Its branches arch high into the
+sky.  The bark is fairly smooth with only the smallest of wrinkles upon
+its surface.  The tree is many feet around.  You feel a closeness to
+both the spiritual above, and the concrete below.  The tree arches between
+the two realms.
+~
+0 0 2
+D4
+~
+~
+65536 -1 9063
+D5
+~
+~
+258 -1 9064
+D6
+~
+~
+0 -1 9087
+S
+#9056
+Rapid River~
+The water gently runs out of the water hole and along the valley floor.
+The banks quickly rise to form a canyon walls that guide the river as it 
+flows to the southwest.  The river begins to pick up speed and strenght.
+The roar of a waterfall grows from a small rumble to a reverberation that
+seems to shake the air.
+~
+0 0 7
+D0
+~
+~
+0 -1 9045
+D4
+~
+~
+0 -1 9051
+D9
+~
+~
+0 -1 9067
+S
+#9057
+The Savannah~
+This small valley is encircled on two sides by the river and water hole.
+The grass is very lush and seems a deeper shade of green than the rest.
+A brush has been partially uprooted to the north forming a small cave.
+The gurgling of the stream and the soft sighing of the wind caressing
+the grasses.
+~
+0 0 2
+D0
+~
+~
+131072 -1 9062
+D1
+~
+~
+0 -1 9058
+D2
+~
+~
+0 -1 9069
+D4
+~
+~
+0 -1 9050
+S
+#9058
+The Savannah~
+The grasses wave in the hot savannah sun.  Here and there on the horizon
+can be seen specks that must be herds of animals.  Little pale green birds
+dart through the air, swooping upon insects.  The wind brings the faint
+rumble of the herds and the sound of water to the north.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9047
+D1
+~
+~
+0 -1 9059
+D2
+~
+~
+0 -1 9070
+D3
+~
+~
+0 -1 9057
+D4
+~
+~
+0 -1 9050
+S
+#9059
+The Savannah~
+The tall grasses wave in the breeze.  Yet some seem to be moving counter
+to the breeze.  The slight stench of decay mixes with the smell of grass
+and earth.  Some small brown birds seem to follow the movement.  Through
+a gap formed by the wind a tawny yellow lioness is glimpsed prowling.
+~
+0 0 2
+D0
+~
+~
+0 -1 9048
+D1
+~
+~
+0 -1 9060
+D2
+~
+~
+0 -1 9071
+D3
+~
+~
+0 -1 9058
+D4
+~
+~
+0 -1 9061
+S
+#9060
+The Savannah~
+The grass shivers as a gust of wind rushes across the savannah.  The
+hill seems to shake and bits of dust rise up to further this impression.
+Then the wind is past and the ground settles.  Tiny birds creep up 
+the long grass, twitter to each other, then fly off to the south east.
+~
+0 0 2
+D0
+~
+~
+0 -1 9049
+D2
+~
+~
+0 -1 9072
+D3
+~
+~
+0 -1 9059
+D4
+~
+~
+0 -1 9061
+S
+#9061
+Wide Open Sky~
+The wavy ground shows an heavily broken expanse of pale green.  To the
+north east the dry and cracked ground of the ravine, to the east a
+desolate ridge of black rock.  To the north is the clear blue water hole.
+But here, there is nothing but grass and blowing sand.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9039
+D1
+~
+~
+0 -1 9052
+D2
+~
+~
+0 -1 9083
+D3
+~
+~
+0 -1 9050
+D5
+~
+~
+0 -1 9059
+S
+#9062
+Lion's Den~
+This small cave was formed when a large tree was blown over years ago.  The
+old roots that support the earthen roof, have almost petrified in the hot dry
+air.  Long grasses lay haphazardly about the floor providing a soft clean
+floor.  Yellow fluff and the bones of animals fill the corners of the den.
+~
+0 9 0
+D2
+~
+~
+262144 -1 9057
+E
+root~
+The roots make a surpsingly solid roof.  It must have been some storm that
+blew over this tree.
+~
+E
+bones~
+After a bit of study you realize that this well chewed bones are mostly of
+gazelle and zebra.  But far in the back you do notice one cracked skull of 
+a humanoid.  Near the skull lays the torn cover of a book that reads "The
+Adventurer's Guide."
+~
+S
+#9063
+The Branches of the Sky~
+The branches are many and thick because they brace up the sky.  The tiny
+twigs are the ruffling breeze, while the main branches are the scouring
+gales.  The spirits of the savannah come here to play and wait for a chance
+to enter the cycle again.  The mystic sun slowly winds its way among the 
+branches listening to the tales of the spirits.  The moon peeks from behind
+the trunk.
+~
+0 0 2
+D4
+~
+~
+0 -1 9051
+D5
+~
+~
+65536 -1 9055
+S
+#9064
+The Roots Of The Earth~
+The weight of the earth settles around you.  Ponderous and powerful the
+deep beat of the earth's heart can be heard.  With each beat another 
+spirit renters the cycle of life.  The earth walls have a sense of life
+and stability, and the ceiling far above is the large roots of the tree
+of lore.
+~
+0 9 13
+D3
+~
+~
+258 -1 9054
+D4
+~
+~
+258 -1 9055
+S
+#9065
+Black Rock Ridge~
+A small ridge of stone rises above the savannah to the northeast. Up
+against the north into the ridge a ravine slices the land open like a
+wound.  The rushing river surges to the east far below the ridge.  Very
+little grass grows up here.  Mostly the ground is covered with small 
+chunks of black granite.  A gentle valley descends from the ridge to
+the south.
+~
+0 0 2
+D1
+~
+~
+33554432 -1 9066
+D2
+~
+~
+0 -1 9075
+D3
+~
+~
+0 -1 9072
+D4
+~
+~
+0 -1 9084
+E
+granite~
+Although you have probably never seen it before this is black granite.
+It was formed when a force for good was battling on the plains and got
+pushed back to this small defensive ridge.  They held it for a long time
+before the other side called down a evil fire storm that was so hot it
+sucked the color from the rock.
+~
+S
+#9066
+Rapid River~
+The mudy river surges around the gentle bend in the river, depositing dirt
+on the inner southeast bank, while pounding and eroding the cliffs to the
+north and west.  The rushing sound of the water, the humm of insects, and
+the faint sound of the waterfall set the scene for this endless building up
+and tearing down.
+~
+0 0 6
+D1
+~
+~
+0 -1 9067
+D2
+~
+~
+0 -1 9076
+D4
+~
+~
+0 -1 9084
+D8
+~
+~
+0 -1 9077
+S
+#9067
+Rapid River~
+The water comes boiling out of the channel to the north and drops with
+a continuous roar into the sluggish river below.  White spray fills the
+air with cool water droplets.  The light reflects off the falls making
+countless rainbows that fade into the brown muddy river.  A gentle valley
+to the south offers easy egress from the water.
+~
+0 0 6
+D2
+~
+~
+0 -1 9077
+D3
+~
+~
+0 -1 9066
+D4
+~
+~
+0 -1 9074
+D6
+~
+~
+0 -1 9056
+S
+#9068
+The Savannah~
+The roar of the water as it crashes down to the west.  A mist hangs in 
+the air offering a cool respite from the scorching sun.  Bushes hang
+pecariously over the edge, reaching for the mist.  The wind whirls the
+mist and the light sends rainbows floating down the falls.
+~
+0 0 2
+D1
+~
+~
+0 -1 9069
+D2
+~
+~
+0 -1 9078
+D4
+~
+~
+0 -1 9074
+S
+#9069
+The Savannah~
+The river swishes between rocks as it winds to the north west.  The grass
+hugs the edge of the bank, sucking up moisture.  A steady stream of
+white ants travels to and from the river to a couple of tall mounds to
+the east.  A flash of tawny, and a lioness is back in cover, once again
+prowling a valley to the north.
+~
+0 0 2
+D0
+~
+~
+0 -1 9057
+D1
+~
+~
+0 -1 9070
+D2
+~
+~
+0 -1 9079
+D3
+~
+~
+0 -1 9068
+D4
+~
+~
+0 -1 9073
+S
+#9070
+A Termite Mound~
+A series of six foot high mounds of dirt form  circle a patch of bare
+ground.  The mounds are honeycombed with small exits and you see white
+ants moving around busily.  Some are moving dirt, others are cutting 
+blades of long grass.  You notice that some of the mounds have large
+claw marks in them.
+~
+0 0 2
+D0
+~
+~
+0 -1 9058
+D1
+~
+~
+0 -1 9071
+D2
+~
+~
+0 -1 9080
+D3
+~
+~
+0 -1 9069
+D4
+~
+~
+0 -1 9073
+D5
+~
+~
+258 -1 9088
+S
+#9071
+The Savannah~
+The grass has begun to retake the land here.  Some is still patchy, but
+the rest is tall patches of wickedly waving grass.  Rising above the 
+grass are a couple of mounds of earth to the west.  Small white ants 
+trundle through the grass picking up bits of this or that.  
+~
+0 0 2
+D0
+~
+~
+0 -1 9059
+D1
+~
+~
+0 -1 9072
+D2
+~
+~
+0 -1 9081
+D3
+~
+~
+0 -1 9070
+D4
+~
+~
+0 -1 9083
+S
+#9072
+The Savannah~
+The sand here is scorched black and the grass is sickly and thin.  To
+the west rises a ridge of tall black granite.  The scent of old smoke
+and ozone hang heavily in the air.  No animals or birds, not even an
+insect can be heard.  The wind moans in sorrow over the destruction
+of the land.
+~
+0 0 2
+D0
+~
+~
+0 -1 9060
+D1
+~
+~
+0 -1 9065
+D2
+~
+~
+0 -1 9082
+D3
+~
+~
+0 -1 9071
+D4
+~
+~
+0 -1 9083
+S
+#9073
+Wide Open Sky~
+The relatively smooth grass hillsides are interupted by a scattering
+of large earthen mounds.  These piles of earth are small from up here
+but you see a large aardvark tearing into one of them.  The wind brings
+the faint sound of the waterfall to the west to your ears.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9050
+D1
+~
+~
+0 -1 9083
+D2
+~
+~
+0 -1 9020
+D3
+~
+~
+0 -1 9074
+D5
+~
+~
+0 -1 9070
+S
+#9074
+Wide Open Sky~
+With a roar that can been heard up here, river plumets down a hundred 
+feet in a water fall.  The breeze brings the moistness of the mist thrown
+up by the falling water.  The air is cool and refreshing, carrying the 
+clean scent of water and growing plants.  The river widens and calms
+as it heads downstream to the west.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9051
+D1
+~
+~
+0 -1 9073
+D2
+~
+~
+0 -1 9021
+D3
+~
+~
+0 -1 9084
+D5
+~
+~
+0 -1 9067
+S
+#9075
+The River Crossing~
+The hillocks and dunes of the savannah gentle out into a long slopping
+river valley.  The river runs from north to south with a calm gurgle.
+The buzz of flies and the slight odor of decay hangs on the air.  The
+ground is a trampled field of slick mud and flattened grass.
+~
+0 4 1
+D0
+~
+~
+0 -1 9065
+D1
+~
+~
+0 -1 9076
+D2
+~
+~
+0 -1 9000
+D3
+~
+~
+0 -1 9082
+D4
+~
+~
+0 -1 9084
+S
+#9076
+Rapid River~
+The river is wide but fast flowing.  There are few rocks so the river
+flows on with a peaceful gurgling.  The riverbed is soft and seems to
+be sliding along with the rest of the water.  There is a gentle valley
+that cradles the river at this point, making it an excellent place to
+cross from west to east.  The faint sounds of rapids can be heard to 
+the south.
+~
+0 0 6
+D0
+~
+~
+0 -1 9066
+D1
+~
+~
+0 -1 9077
+D2
+~
+~
+0 -1 9085
+D3
+~
+~
+0 -1 9075
+D4
+~
+~
+0 -1 9084
+S
+#9077
+The River Crossing~
+The valley curves in a soft crecent, allowing easy access to the river
+to the north and west.  The sparse grass has been nibbled short or 
+trampled.  Many hoof prints lead both from and into the water all along
+the shore. insects seem to swarm above the mud with an anoying buzz.
+~
+0 4 2
+D0
+~
+~
+0 -1 9067
+D1
+~
+~
+0 -1 9078
+D2
+~
+~
+0 -1 9002
+D3
+~
+~
+0 -1 9076
+D4
+~
+~
+0 -1 9074
+D7
+~
+~
+0 -1 9066
+S
+#9078
+The Savannah~
+The keen edged scratches as it waves in the effort of catching any stray
+droplets of water carried by the wind.  The earch and grass give off a 
+rich pungent smell.  Over the next hill you can hear the rushing of the
+river and the roaring of the falls.  A zebra herd goes thundering over
+the hill to the draw of the water.
+~
+0 4 2
+D0
+~
+~
+0 -1 9068
+D1
+~
+~
+0 -1 9079
+D2
+~
+~
+0 -1 9003
+D3
+~
+~
+0 -1 9077
+D4
+~
+~
+0 -1 9074
+S
+#9079
+The Savannah~
+The lush grasses of the north become spotty and pale.  The ground gets
+sandier and the wind hotter.  Small dust devils play amongest the 
+struggling grass.  The sent of hot earth bakes up from the ground.  
+The steady anonying buzz of insects is the only sound.
+~
+0 4 2
+D0
+~
+~
+0 -1 9069
+D1
+~
+~
+0 -1 9080
+D2
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9078
+D4
+~
+~
+0 -1 9073
+S
+#9080
+The Savannah~
+The tall grass swings listlessly in the breeze.  A small bird chirps
+as it flys about, searching the ground for the termites that are
+indicated by the mounds to the north.  To the south east rises a tall
+tree that probably houses the birds nest, formed from these very grasses.
+~
+0 4 2
+D0
+~
+~
+0 -1 9070
+D1
+~
+~
+0 -1 9081
+D2
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9079
+D4
+~
+~
+0 -1 9073
+S
+#9081
+The Savannah~
+The gently rolling savannah with its shabby coat of pale grass and its
+itchy hide of blowing sand stretches and shakes in the wind.  A tall 
+tree scans the plains to the south and an old wound is visible to the
+north east.  The wind pants and tugs and plays and grows quiet.
+~
+0 4 2
+D0
+~
+~
+0 -1 9071
+D1
+~
+~
+0 -1 9082
+D2
+~
+~
+0 -1 9006
+D3
+~
+~
+0 -1 9080
+D4
+~
+~
+0 -1 9083
+S
+#9082
+The Savannah~
+A peninsula of tall waving green grass extentds from the south.  To the
+east the land slopes down into a muddy river valley.  From the north
+comes a patchy black ground with few growing weeds.  From the west comes
+the gently rolling hills.  And from the sky comes a keening wind that 
+plays with each land then hurries on.
+~
+0 4 2
+D0
+~
+~
+0 -1 9072
+D1
+~
+~
+0 -1 9075
+D2
+~
+~
+0 -1 9007
+D3
+~
+~
+0 -1 9081
+D4
+~
+~
+0 -1 9083
+S
+#9083
+Wide Open Sky~
+A large circle of land is black and lifeless.  It seems to circle out 
+from the black ridge to the east.  Birds suddenly veer to avoid going 
+over the barren ground.  Even the wind seems listless over it.  The 
+light seems duller, but the grass on the edge thou patchy looks very
+verdant green from up here.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9061
+D1
+~
+~
+0 -1 9084
+D2
+~
+~
+0 -1 9009
+D3
+~
+~
+0 -1 9073
+D5
+~
+~
+0 -1 9082
+S
+#9084
+Wide Open Sky~
+A large ridge of black stone sticks out over the river.  The river makes
+its way down a wide shallow valley.  The water seems smooth but swiftly
+moving.  The wind carries the smell of carbon and heat.  Below is a spot
+where herds of animals seem to be struggling across the river.
+~
+0 16777216 9
+D0
+~
+~
+0 -1 9052
+D1
+~
+~
+0 -1 9074
+D2
+~
+~
+0 -1 9010
+D3
+~
+~
+0 -1 9083
+D5
+~
+~
+0 -1 9076
+S
+#9085
+Rapid River~
+The river has narrowed a littled and picked up speed.  The only 
+rippling was from scattered rocks guarding the shores.  The water has
+finally cleared but the river bottom is lost in darkness.  The wind
+gently stirs the water creating small wavelets that are highlighted by
+the light.
+~
+0 0 7
+D0
+~
+~
+0 -1 9076
+S
+#9086
+Under The Cleansing Water~
+The cool water surrounds you and flows around with a silky touch.  The
+roots of bushes and reeds stand pale and exposed along the muddy bottom
+of the hole.  The thin skin that is the water surface ripples gently
+distorting everything outside the water.  Shafts of sunlight highlight
+dancing motes hanging in the water.
+~
+0 0 8
+D4
+~
+~
+0 -1 9035
+D9
+~
+~
+0 -1 9087
+S
+#9087
+The Water of Spirituality~
+The water has become murky, as a stream of cold water and earth flow
+into the pond.  The reeds and weeds bend and flow in circles.  Enticing
+flashes of color and light come from all around.  The water grows more
+chilly, numbing.  Faintly a drumming can be heard, like the heart beat
+of the world, deep and slow.
+~
+0 0 8
+D4
+~
+~
+0 -1 9045
+D6
+~
+~
+0 -1 9086
+D9
+~
+~
+0 -1 9055
+S
+#9088
+A Termite Mound~
+This small cave is honey combed with entrances.  A constant stream of
+termites work at make this room bigger, carry in food, nurse young, and
+care for the queen.  The walls are slick but as hard as stone.  The rich
+scent of life, termite spiddle, and earth hangs heavily in the air.
+~
+0 9 13
+D4
+~
+~
+258 -1 9070
+S
+#0
+
+
+#RESETS
+M 0 9001 1 9008
+G 1 9001 1
+M 0 9000 2 9018
+G 1 9000 1
+M 0 9002 2 9057
+G 1 9002 1
+M 0 9004 2 9062
+G 1 9004 1
+M 0 9005 1 9059
+M 0 9003 1 9069
+G 1 9003 1
+M 0 9007 1 9016
+G 1 9006 1
+M 0 9008 1 9077
+G 1 9005 1
+M 0 9006 1 9015
+M 0 9006 3 9025
+M 0 9017 1 9070
+G 1 9007 1
+M 0 9009 3 9070
+M 0 9009 4 9069
+M 0 9009 5 9071
+M 0 9009 6 9088
+M 0 9010 1 9088
+G 1 9008 1
+M 0 9011 3 9023
+G 1 9009 1
+M 0 9012 5 9032
+G 1 9010 1
+O 0 9011 1 9003
+M 0 9015 1 9064
+M 0 9016 1 9055
+M 0 9013 1 9087
+M 0 9014 1 9019
+O 0 9012 1 9011
+O 0 9013 1 9034
+O 0 9013 1 9045
+O 0 9013 1 9046
+M 0 9018 1 9031
+M 0 9018 2 9059
+M 0 9018 5 9061
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  9001 spec_fido
+M  9003 spec_fido
+M  9005 spec_fido
+M  9018 spec_thief
+S
+
+
+#$

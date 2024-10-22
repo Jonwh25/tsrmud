@@ -1,0 +1,951 @@
+#AREA   Shadow Temple~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51200000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#5400
+The Altar to the Gods.~
+You stand before the altar to the gods. The top of the altar is made of
+a transparent glass. Inside the glass you see what appears to be a dark
+storm. Black rainclouds and shadows dance within the glass in an endless
+dance. The altars legs are made of pure gold. This altar must have been
+built by the gods themselves. The room that holds the altar is also a 
+marvel to behold. Unlike the rest of this room as you look upwards you
+do not see a roof. Instead, you behold a glorious sight; a mass of light
+and darkness swirling in many directions. It is as if the gods themselves
+are part of this room. It might be that that swirling mass is a portal
+to the heavens. The rest of this room is decorated in many ancient 
+tapestries depicting wars and legends. The northern tapestry is a bit 
+strange though. A towering drow mage holding his hands up high grins at
+you as if he is almost lifelike. The tapestry seems to be moving very
+slightly, as if something about it is out of place.
+~
+0 4 0
+D0
+~
+tapestry~
+33 0 5402
+D2
+~
+~
+0 0 5401
+S
+#5401
+The steps to the altar.~
+As you stand on the steps before the altar, you see two thirty feet tall
+statues on either side of you. The statue to the west is an elven ranger.
+as you look upon him you notice the entricate workmanship. The face seems
+to be almost lifelike. The elf is posed in a battle stance. His bow
+is in hand and he is pulling back on the string with an arrow readied to
+let loose. He wears a long cloak that is pulled up over his body. The
+statue to the east is much more different. This statue is of a human woman.
+Then you notice that she isn't a human, but a vampire! The statue has her
+arms folded and she is wearing a grin on her delicate face. You wonder
+what importance these statues have here. They stand freely on both sides 
+towering over the rest of this temple. The stairs that you stand on are made
+from fine polished black marble. The room is very quiet.
+~
+0 0 0
+D0
+~
+~
+0 0 5400
+D1
+~
+vampire~
+33 0 5420
+D2
+~
+~
+0 0 5403
+D3
+~
+elf~
+33 0 5421
+S
+#5402
+~
+~
+0 0 0
+D2
+~
+~
+33 0 5400
+S
+#5403
+The Center Aisle.~
+Standing on the lush carpet of the center aisle you notice the two
+thirty feet tall statues to the north towering over the rest of the
+temples room. From this aisle you see the front row of benches to both
+your west and to your east. It is from these benches that many adventurers
+come to pray to the gods of the Shadow Realms.
+~
+0 0 0
+D0
+~
+~
+0 0 5401
+D1
+~
+~
+0 0 5406
+D2
+~
+~
+0 0 5404
+D3
+~
+~
+0 0 5407
+S
+#5404
+The Center Aisle.~
+Standing on the lush carpet of the center aisle you can see the two
+thiry feet statues towering over the temples room. From your position
+You notice that the statues seem to glow faintly. To your west and east
+are rows of benches lined up so that adventurers can come and pray to
+the gods of the Shadow Realms.
+~
+0 0 0
+D0
+~
+~
+0 0 5403
+D1
+~
+~
+0 0 5409
+D2
+~
+~
+33 0 5405
+D3
+~
+~
+0 0 5408
+S
+#5405
+The Temple greeting room.~
+This room is very lavishly decorated. The walls are made of solid walnut
+and the floors are carpeted a plush red. There is a small plant on both 
+sides of the double doorway to the north. Beyond the southern set of 
+double doors you hear the sounds of the city. To your west and east are
+the private hallways for the priests of the temple.
+~
+0 0 0
+D0
+~
+double~
+33 0 5404
+D1
+~
+~
+0 0 5410
+D3
+~
+~
+0 0 5415
+S
+#5406
+The first row of benches.~
+You are in the first row of benches where you can pray to the gods. 
+Standing in front of you is an enormous statue of a woman. As you look
+closely at the woman you notice that she isn't human at all but instead
+is a vampire! She towers over you thirty feet high. To your east you 
+see brightly decorated windows reflecting brilliant rays of multicolored
+light. You faintly hear the sounds of the city and there is a feeling 
+of power humming through the room.
+~
+0 0 0
+D3
+~
+~
+0 0 5403
+S
+#5407
+First row of benches.~
+You are in the row of benches where you can pray to the gods. Standing
+in front of you is an enormous statue of an elf. It is a very lifelike
+statue and you have to look up to see its face for the statue towers
+over thirty feet high. To your west you see brightly decorated windows
+reflecting brilliant rays of multicolored light. You faintly hear the
+sounds of the city. There is a feeling of power humming through the room.
+~
+0 0 0
+D1
+~
+~
+0 0 5403
+S
+#5408
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5404
+S
+#5409
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5404
+S
+#5410
+Darkened Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 5411
+D3
+~
+~
+0 0 5405
+S
+#5411
+Darkened Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5412
+D3
+~
+~
+0 0 5410
+S
+#5412
+Darkened Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5413
+D2
+~
+~
+0 0 5411
+S
+#5413
+Darkened Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5414
+D2
+~
+~
+0 0 5412
+S
+#5414
+The stairwell to the Mausoleum.~
+~
+0 0 0
+D2
+~
+~
+0 0 5413
+S
+#5415
+The priests hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 5405
+D3
+~
+~
+0 0 5416
+S
+#5416
+The priests hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5417
+D1
+~
+~
+0 0 5415
+S
+#5417
+The priests hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5418
+D2
+~
+~
+0 0 5416
+S
+#5418
+The priests hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 5419
+D2
+~
+~
+0 0 5417
+S
+#5419
+The stairwell to the priests offices.~
+~
+0 0 0
+D2
+~
+~
+0 0 5418
+D4
+~
+~
+0 0 5422
+S
+#5420
+~
+~
+0 0 0
+D3
+~
+~
+33 0 5401
+S
+#5421
+~
+~
+0 0 0
+D1
+~
+~
+33 0 5401
+S
+#5422
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5423
+D2
+~
+~
+0 0 5442
+D3
+~
+~
+0 0 5454
+D5
+~
+~
+0 0 5419
+S
+#5423
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5424
+D3
+~
+~
+0 0 5422
+S
+#5424
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5425
+D3
+~
+~
+0 0 5423
+S
+#5425
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5439
+D1
+~
+~
+0 0 5426
+D2
+~
+~
+0 0 5424
+S
+#5426
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5431
+D1
+~
+~
+0 0 5427
+D3
+~
+~
+0 0 5425
+S
+#5427
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5428
+D3
+~
+~
+0 0 5426
+S
+#5428
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5429
+D3
+~
+~
+0 0 5427
+S
+#5429
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5428
+D1
+~
+~
+0 0 5430
+S
+#5430
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5429
+S
+#5431
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5435
+D1
+~
+~
+0 0 5432
+D2
+~
+~
+0 0 5426
+S
+#5432
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5433
+D3
+~
+~
+0 0 5431
+S
+#5433
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5434
+D2
+~
+~
+0 0 5432
+D3
+~
+~
+0 0 5435
+S
+#5434
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5438
+D3
+~
+~
+0 0 5433
+S
+#5435
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5437
+D1
+~
+~
+0 0 5433
+D2
+~
+~
+0 0 5431
+D3
+~
+~
+0 0 5436
+S
+#5436
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5435
+S
+#5437
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5435
+S
+#5438
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5434
+S
+#5439
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5425
+D3
+~
+~
+0 0 5440
+S
+#5440
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5439
+D2
+~
+~
+0 0 5441
+S
+#5441
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5440
+S
+#5442
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5422
+D2
+~
+~
+0 0 5443
+S
+#5443
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5442
+D1
+~
+~
+0 0 5444
+D2
+~
+~
+0 0 5451
+S
+#5444
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5445
+D1
+~
+~
+0 0 5446
+D3
+~
+~
+0 0 5443
+S
+#5445
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5444
+S
+#5446
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5447
+D2
+~
+~
+0 0 5448
+D3
+~
+~
+0 0 5444
+S
+#5447
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5446
+S
+#5448
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5446
+D2
+~
+~
+0 0 5449
+S
+#5449
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5448
+D1
+~
+~
+0 0 5450
+S
+#5450
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5449
+S
+#5451
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5443
+D1
+~
+~
+0 0 5452
+S
+#5452
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5451
+S
+#5454
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5422
+D3
+~
+~
+0 0 5455
+S
+#5455
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5454
+D2
+~
+~
+0 0 5456
+S
+#5456
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5455
+D1
+~
+~
+0 0 5457
+D2
+~
+~
+0 0 5458
+S
+#5457
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5456
+S
+#5458
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5456
+D2
+~
+~
+0 0 5459
+S
+#5459
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5458
+D1
+~
+~
+0 0 5460
+D2
+~
+~
+0 0 5462
+S
+#5460
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5461
+D3
+~
+~
+0 0 5459
+S
+#5461
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5460
+S
+#5462
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5459
+D1
+~
+~
+0 0 5463
+S
+#5463
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5464
+D3
+~
+~
+0 0 5462
+S
+#5464
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5465
+D3
+~
+~
+0 0 5463
+S
+#5465
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5464
+S
+#0
+
+
+#RESETS
+D 0 5400 0 0
+D 0 5401 1 0
+D 0 5401 3 0
+D 0 5402 2 0
+D 0 5404 2 0
+D 0 5405 0 0
+D 0 5420 3 0
+D 0 5421 1 0
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

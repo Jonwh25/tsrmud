@@ -1,0 +1,14 @@
+#CORPSE
+Count        3
+Name         corpse Elghinn~
+ShortDescr   the corpse of Elghinn~
+Description  The corpse of Elghinn is lying here.~
+Vnum         11
+Room         6011
+ExtraFlags   4194304
+Timer        -1
+Values       0 0 5 0 0 0
+End
+
+#END
+

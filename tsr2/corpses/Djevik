@@ -1,0 +1,13 @@
+#CORPSE
+Name         corpse Djevik~
+ShortDescr   the corpse of Djevik~
+Description  The corpse of Djevik is buzzing with flies.~
+Vnum         11
+Room         1624
+ExtraFlags   4194304
+Timer        -1
+Values       0 0 4 0 0 0
+End
+
+#END
+

@@ -1,0 +1,1767 @@
+#AREA   In the Wilderness~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG You feel a light breeze.~
+
+#FLAGS
+0
+
+#ECONOMY 0 43361384
+
+#MOBILES
+#12000
+cute rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+65 0 0 C
+1 20 6 1d4+1 1d4+0
+0 50
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+76 3 0 0 1819042147 1819042146 1
+0 0 1709 0 0 0 32 2
+#12001
+The Druid Trainer~
+The Druid Trainer~
+The Druid Trainer stand here, waiting to assist you.
+~
+~
+1027 4194344 0 C
+50 0 0 1d1+30000 100d10+1000
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 5 0 0 1 1 4
+0 0 2047 0 3156992 0 0 0
+#12002
+The Ranger Trainer~
+The Ranger Trainer~
+The Ranger Trainer is here, chopping some wood.
+~
+~
+1027 4194344 0 C
+50 0 0 1d1+30000 100d10+1000
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 5 0 0 1 1 4
+0 0 2047 0 3156992 0 0 0
+#12003
+a small deer~
+a deer~
+A deer stares back at you.
+~
+The deer looks angered at your intrusion.  He butts his head against you, 
+albeit ineffectively.
+~
+193 0 0 S
+6 0 0 2d7+71 1d7+1
+0 0
+8 8 1
+#12004
+Belin the Shopkeeper~
+Belin the Shopkeeper~
+Belin rests here, waiting for your order.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 2 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+cough
+blush $n
+say Welcome, $n.  Anything I can get for you?
+cough
+~
+|
+#12005
+the navigator~
+the navigator~
+A man is here sighting his sextant on the sun.
+~
+The navigator is dressed in silken clothing. He was a prize from one
+of One-eye's raids, and has served his lord well. He hopes one day
+that he can make a break for it on a raid.
+~
+65 0 200 S
+24 2 0 5d10+500 2d10+6
+2400 0
+8 8 1
+#12006
+Drager~
+the boater~
+A boater stand here, checking his boat.
+~
+Shifty has once again ticked off his lord Mizzenmast, who in turn has
+shackled him here in the storage area to impress upon him the importance
+of fealty. Shifty is weak from hunger, and his soiled finery speaks for
+his recent fall from grace.
+~
+65 0 -500 S
+40 5 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#12007
+Bahlk undead ~
+Bahlk the Broken~
+Bahlk the Broken, Captain of the Necromancers
+~
+~
+3 0 -1000 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+67 3 0 0 1 1 0
+0 0 0 0 1048576 32 1107300352 259
+#0
+
+
+#OBJECTS
+#12000
+A small shovel~
+A shovel~
+A small shovel is lying here.~
+~
+59 0 16385
+0 1 5 7
+8 30 3
+E
+shovel~
+It is a large metal shovel with a solid wooden handle.
+~
+#12001
+The Golden Ankh Medallion~
+The Golden Ankh Medallion~
+A very impressive ankh medallion has been left here.~
+~
+9 0 5
+8 8 8 7
+10 3400 340
+A
+2 1
+A
+1 1
+A
+25 -2
+A
+13 10
+#12002
+Spine of the World~
+The Spine of the World~
+The Spine of the World lies here.~
+~
+12 0 0
+100 1000 9362 50
+1000 1000 100
+#12003
+Vortex~
+A blue vortex~
+A blue vortex shimmers here.~
+~
+33 1 0
+5100 0 0 0
+1 0 0
+#12004
+wild flowers~
+wild flowers~
+A bunch of pretty wild flowers is here.~
+~
+13 1024 16401
+0 0 0 0
+1 10 1
+E
+wild flowers~
+These wild flowers are really pretty.
+Just like the flowers you would wear in your hair.~
+#12005
+pebbles~
+A small patch of pebbles~
+A small patch of bright pebbles lies here, scatterd.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#12006
+dry rations~
+some dry rations~
+Some dry rations lie here.~
+~
+19 8192 1
+15 20 0 0
+20 24 2
+#12007
+water barrel~
+the barrel~
+A water barrel has been left here.~
+~
+17 8192 1
+50 50 0 0
+65 60 6
+#12008
+a small boat~
+a small boat~
+A small boat lies here.~
+~
+22 8194 1
+0 0 0 0
+120 25 2
+#12009
+slime~
+slime~
+Some nasty green slime is here.~
+~
+26 0 1
+10 33 17 4
+1 0 0
+#12010
+dagger ruby padan~
+A ruby hilted dagger~
+A short, beautiful ruby hilted dagger lies here.~
+~
+5 2 8193
+0 1 50 11
+1 100000 10000
+#12011
+chamber scroll~
+A chamber scroll~
+A small rotting scroll lies here.~
+~
+2 0 16385
+0 0 0 0
+1 0 0
+> wear_prog 100~
+mpechoat $n You feel youself drown in a blue vortex as..
+mpforce $n sleep
+mptransfer $n 13417
+~
+|
+#12012
+Shadowblade~
+Shadowblade~
+Evil black steel rises from the ground~
+~
+5 0 8193
+100 3 25 3
+1 0 0
+#0
+
+
+#ROOMS
+#12000
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 9772
+D3
+~
+~
+0 0 12001
+S
+#12001
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12000
+D3
+~
+~
+0 0 12002
+S
+#12002
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 12003
+S
+#12003
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 12004
+S
+#12004
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12005
+S
+#12005
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 9773
+S
+#12006
+Mountain Path~
+You have entered the Rang'Shan Mountains.  To the west of you are huge and
+rugged mountains.  The sheer height of them frightens you.  To the east lies a
+large Abyss, called the Spine of the World.  It looks to be path through the
+range, to another destination off the east, but you cannot tell for sure.  The
+path to the north looks well traveled and makes a nice stright line through
+these trecherous mountains.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12007
+D1
+~
+~
+0 -1 12018
+D2
+~
+~
+0 -1 3500
+S
+#12007
+Mountain Path~
+The path here continues north and south.  Mountains cover the east and west
+with horrific height.  The sides of the mountains are jagged and black.  A
+distant and rare howl can be heard in what seems to be all directions.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12008
+D2
+~
+~
+0 -1 12006
+S
+#12008
+Mountain Path~
+The path here continues to the north and south.  There looks to be no end to
+this range.  The mountains here seem to be at more of an impossible height than
+previously.  The jagged black walls surround you to the east and west of this
+worn path.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12009
+D2
+~
+~
+0 -1 12007
+S
+#12009
+Mountain Path~
+The Rang'Shan Mountains tower above you on the east and west.  More frequent
+howls can be heard.  They seem much closer too than before.  The worn path
+continues to the north and south.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12010
+D2
+~
+~
+0 -1 12008
+S
+#12010
+Mountain Path~
+There is a bit on incline here.  The path continues to the north and south,
+like usual.  The high range of mountains called the Rang'Shan tower above you
+on the east and west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12019
+D2
+~
+~
+0 -1 12009
+S
+#12011
+Mountain Path~
+~
+0 1073741828 5
+S
+#12012
+Mountain Path~
+~
+0 1073741828 5
+S
+#12013
+Mountain Path~
+The path here continues to the north and south.  There looks to be no end to
+this range.  The mountains here seem to be at more of an impossible height than
+previously.  The jagged black walls surround you to the east and to the west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12030
+D2
+~
+~
+0 -1 12014
+S
+#12014
+Mountain Path~
+The path here continues to the north and south.  Mountains cover the east and
+west with horrific height.  The sides to the mountains are jagged and black. 
+A distant and rare howl can be heard in what seems to be all directions.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12013
+D2
+~
+~
+0 -1 12015
+S
+#12015
+Mountain Path~
+You stand in the center of a worn path that leads north and south.  To the east
+and west stand the Rang'Shan Mountains.  The very presence of them makes you
+shiver in terror.  The black, jagged walls of the Rang'Shan run coursly down
+to the ground, but seems to elevate forever.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12014
+D2
+~
+~
+0 -1 12016
+S
+#12016
+Mountain Path~
+Mountains corner you here.  Looking in either direction gives you much fear,
+for this range looks to never end.  North and south are the only directions
+that this path leads with the mountains on your east and west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12015
+D2
+~
+~
+0 -1 12017
+S
+#12017
+Mountain Path~
+The Rang'Shan Mountains are quite frightening at this spot.  To the east lies
+ huge pit.  The pit looks to lead into the very depths of the Underworld.
+Your choices as far as the path goes are to the north and to the west.  West
+of here lies the entrance to a large town of sorts, it seems.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12016
+D1
+~
+~
+0 -1 9669
+D3
+~
+~
+0 -1 12018
+S
+#12018
+Spine of the World~
+Amazing.  You swear that these are the pits of the Underworld themselves.
+Below you the ground radiates with a blood red tint.  You can see why they call
+this the spine of the world.  At the bottom of the pit, the form of a spine
+is shaped from the natural chaos of the Realms.  It truly is a wicked sight.
+You wonder if anything could possibly live below.
+~
+0 1073741824 9
+D1
+~
+~
+0 -1 12017
+D3
+~
+~
+0 -1 12006
+D5
+~
+~
+0 -1 12037
+S
+#12019
+Mountain Pass~
+The path seems to be narrowing here.  The incline has risen much and you are
+growing very tired.  The mountains never seem to end.  The path, which has
+gone on for miles, it seems, continues indefinately to the north and south.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12020
+D2
+~
+~
+0 -1 12010
+S
+#12020
+Mountain Pass~
+The worn path continues yet to the north and south to what seems to be no end.
+These mountains may not have been the best idea to walk through.  The Rang'Shan
+Mountains rise to impossible heights to your east and west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12021
+D2
+~
+~
+0 -1 12019
+S
+#12021
+Mountain Pass~
+The path continues north and south.  The mountains are still blocking most
+of the sky with their height on your east and west.  Looking to the north
+the path disappears off the east quite a ways.  To the south, the path
+continues forever.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12022
+D2
+~
+~
+0 -1 12020
+S
+#12022
+Mountian Pass~
+The Rang'Shan Mountains continue to surround you.  The only comfort you now
+have is knowing that they will always be there.  There is a worn path that
+leads south and a path to the northeast.
+~
+0 1073741824 5
+D2
+~
+~
+0 -1 12021
+D6
+~
+~
+0 -1 12023
+S
+#12023
+Mountain Pass~
+The path changes directions a bit.  There may be hope yet in getting through
+here.  The mountains though, are still no hope, breaking through the sky
+with unspeakable height.  The path continues to the east and to the southwest.
+~
+0 1073741824 5
+D1
+~
+~
+0 -1 12024
+D9
+~
+~
+0 -1 12022
+S
+#12024
+Mountain Pass~
+The path here staggles a little.  The path still continues to the west and to
+the southeast despite its little direction flaw.  The mountains, still tower
+above you from all around.
+~
+0 1073741824 5
+D3
+~
+~
+0 -1 12023
+D4
+~
+~
+128 -1 12035
+D8
+~
+~
+0 -1 12025
+S
+#12025
+Mountain Pass~
+The Rang'Shan Mountains continue to surround you.  The only comfort you now
+have is knowing that they will always be there.  There is a worn path that
+leds south and a path to the northwest.
+~
+0 1073741824 5
+D2
+~
+~
+0 -1 12026
+D7
+~
+~
+0 -1 12024
+S
+#12026
+Mountain Pass~
+The path continues north and south.  The mountains are still blocking most of
+the sky with their height on your east and west.  Looking to the north the path
+disappears off to the west quite a ways.  To the south, the path continues
+forever.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12025
+D2
+~
+~
+0 -1 12027
+S
+#12027
+Mountain Pass~
+The worn path continues yet to the north and south to what seems to be no end.
+These mountains may not have been the best idea to walk through.  The Rang'Shan
+Mountains rise to impossible heights to your east and west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12026
+D2
+~
+~
+0 -1 12028
+S
+#12028
+Mountain Pass~
+The path seems to be narrowing here.  There is a slight decline and you are
+picking up the pace.  The mountains seem to never end, however.  The path,
+which has gone on for miles, it seems, continues indefinately to the north and
+south.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12027
+D2
+~
+~
+0 -1 12029
+S
+#12029
+Mountain Path~
+There is a bit of a decline here.  The path continues to the north and south,
+like usual.  The high range of mountains called the Rang'Shan tower above you
+on the east and west.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12028
+D2
+~
+~
+0 -1 12030
+S
+#12030
+Mountain Path~
+The Rang'Shan Mountains tower above you on the east and west.  More frequent
+howls can be heard.  The seem much closer too that before.  The worn path
+continues to the north and south.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 12029
+D2
+~
+~
+0 -1 12013
+S
+#12031
+On a Path~
+You stand on a little worn path on the east side of Darkhaven.  The path
+continues north from here or to the west to Darkhaven.  Around you the air
+seems to be crackling from some sort of a presence.  Its rather odd, actually.
+You think that you see a blue vortex in the far north, but its probably just
+your eyes.
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 12032
+D3
+~
+~
+0 -1 21112
+S
+#12032
+On a path~
+A path lies here.  Its rather strange actually.  The air seems to be bursting
+with magic.  No grass, or any signs of life grow here.  The only way you can
+tell your on a path is by the way the dirt looks worn here.  The 'path' 
+continues north and south.  To the north, you think you see a blue vortex of
+sorts.  Couldn't be though, right?
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 12033
+D2
+~
+~
+0 -1 12031
+S
+#12033
+On a path near The Vortex~
+This must be it.  The source of magic and the crackling of the air.  You can
+see a swirly blue vortex off to the east.  The path continues that way into the
+Vortex and to the south.
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 12034
+D2
+~
+~
+0 -1 12032
+S
+#12034
+The Vortex~
+You stand in a large blue swirl.  You are one step from entering is writhing
+mass.  The air about you is dancing and crackling.  Its a wonderful feeling.
+The blue mass, is in fact, the only thing you can see.  To the west the path
+goes back.  If you stand here much longer your bound to..
+~
+0 1077936128 2 5 9216 0
+D3
+~
+~
+0 -1 12033
+S
+#12035
+Climb in the Rang'Shan Mountains~
+There is a very steep climb up ahead of you and down from you.  You managed to
+hit a nice litle spot wher you can rest.  You look down to see the path below.
+It looks very small but straight.  Up from here you can see a trecherous climb.
+Its too bad that you cannot see what you are climbing to, however.
+~
+0 1073741824 1
+D4
+~
+~
+128 -1 12036
+D5
+~
+~
+0 -1 12024
+S
+#12036
+Climb in the Rang'Shan Mountains~
+You have found yourself a nice little ledge.  Below you can see a very tiny
+path through the mountains.  You can see how the path goes through on both
+sides and how a bends into a nice little curve.  You look a bit too far over
+and a couple of rocks slip off the side.  *sigh*  You look up to the climb
+above you and it looks super dangerous.  Down looks just as impossible to
+treverse.
+~
+0 1073741824 1
+D4
+~
+~
+128 -1 9216
+D5
+~
+~
+0 -1 12035
+S
+#12037
+In the Spine~
+You are in the bottom of the Pit.  Around you, you can see the shapes and
+materials that make up the 'spine'.  Its truely amazing how nature could
+create something like this.  Everything in your vision is a tint of red from
+the aura of evil coming from this place.  In one spot of the spine, it looks
+almost like you could squeeze down in to it.
+~
+0 1073741828 9
+D4
+~
+~
+0 -1 12018
+D5
+~
+~
+0 -1 9800
+S
+#12038
+Forest Path~
+You are standing in the center of a little dirt path through the center of
+and amazing forest.  The Shadows Forest, in fact.  None can surpass the Shadows
+Forest in beauty and size.  The trees, you hear, are the largest of any in
+the Realms.  Looking around you can see small little creatures running about
+and poking looks at you.  Nothing looks to be out of place here.  Nothing man-
+made.  Just nature and you.  The path continues to the north through this
+beutiful wood and south to the City of Shadows.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12039
+D2
+~
+~
+0 -1 8752
+S
+#12039
+Forest Path~
+You are walking on a small dirt path in the Shadows Forest.  The path lies
+north and south.  Around you are the wonders of nature life.  Small flowers and
+shrubbery populate the area with a grand sight.  Colors of any and all colors
+fill the area.  Trees tower above, blotting out the sun at times.  All around
+you the sounds of nature fill the air, making you feel at one with this
+supreme forest.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12040
+D2
+~
+~
+0 -1 12038
+S
+#12040
+Forest Path~
+A small woodchuck crosses your path.  Little small creatures scurry from your
+footsteps and hide into the safety of the huge trees.  Small bushes line the
+path that you walk on.  The path itself and the bushes head north and south
+through this wonderful wood.  You take in a small breath of the wonderfully
+clean fresh air.  *sniff*  How wonderful.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12047
+D2
+~
+~
+0 -1 12039
+S
+#12041
+Shadow Forest~
+You are standing in a nice little circle of grass in the Shadow Forest.  The
+forest seems to go on forever in all directions.  And what more could you want?
+This is by far the most wonderful place in the Realms!  Thousands of animals
+call this place, and for good reason.  Nature has certainly been kind to this
+area of the world.  The famous Shadow Trees tower above you, blotting out the
+sun.  What a view.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12045
+D1
+~
+~
+0 -1 12048
+D2
+~
+~
+0 -1 12045
+D3
+~
+~
+0 -1 12046
+S
+#12042
+Shadow Forest~
+The forest looks much the same here.  Beautiful.  Pure nature bliss.  You swear
+that Ao forged this land himself.  Nothing could be more possibly wonderful
+than this place.  You seem to be lost in this place of chaos.  No other forest
+compares to the wonders and sights that this one holds.  Paths lie in all
+directions.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 12066
+D1
+~
+~
+0 -1 12043
+D2
+~
+~
+0 -1 12046
+D3
+~
+~
+0 -1 12041
+S
+#12043
+Shadow Forest~
+What a beautiful place.  It just gets better and better.  The gigantic Shadow
+Trees loom up above you, looking almost as they are bending from their immense
+height.  Some near by wildlife scurries by, scared by your wondering footsteps.
+Local plants are of the prettiest you have seen yet.  Wild colors make such
+wonderful contrasts in the Shadow Forest.  There is truely no better place in
+the entire world.  Thank Ao that the forest leads in all directions.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12048
+D1
+~
+~
+0 -1 12044
+D2
+~
+~
+0 -1 12047
+D3
+~
+~
+0 -1 12042
+S
+#12044
+Shadow Forest~
+What a view!  You stand on a large rock that over looks this area of the woods.
+Wherever that may be.  Off in the distant east you can see the black tops of
+the Rang'Shan Mountains.  Around you are the wonderful trees and sights of this
+place.  The air is even of the sweetest essence.  You would kiss the ground if
+you didn't have more sense than you do.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12041
+D1
+~
+~
+0 -1 12046
+D2
+~
+~
+0 -1 12048
+D3
+~
+~
+0 -1 12045
+S
+#12045
+Shadow Forest~
+You now understand why this is the favored forest of the Immortals.  This place
+has it all and more.  Keen wildlife, lucious plants, green grass, fresh air,
+and a million other great things.  The trees alone are reason enough to love
+this place.  Their gigantic heights are known on every continent in the
+Realms.  Thankfully, paths lie in all directions from this spot.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12041
+D1
+~
+~
+0 -1 12048
+D2
+~
+~
+0 -1 12042
+D3
+~
+~
+0 -1 12046
+S
+#12046
+Shadow Forest~
+You stand in the center of the Shadow Forest.  Or what seems to be anyways.
+This place is so big, you can't really tell.  Giant Trees surround your vision
+as wild flowers perk up your sight.  Small animals hide in the local shrubbery.
+The air smells sweet, and the ground looks of a fresh green.  What a better
+place can you be spending your time?  Paths go in all directions and lead to
+more of this great wood.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12044
+D1
+~
+~
+0 -1 12046
+D2
+~
+~
+0 -1 12041
+D3
+~
+~
+0 -1 12045
+S
+#12047
+Shadow Forest~
+You are at an intersection in this huge forest.  To the north you see more of
+this beautiful forest, to the south.. well, all directions you see the same
+thing.  The trees all around you, sway under a light breeze.  Small little
+animal jump about and scamper on the ground, searching for food and playing
+with members of its own race.  Flowers surround you in a haze of wild colors.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 12043
+D1
+~
+~
+0 -1 12048
+D2
+~
+~
+0 -1 12040
+D3
+~
+~
+0 -1 12046
+S
+#12048
+Shadow Forest~
+You are standing in a nice little circle of grass in the Shadow Forest.  The
+forest seems to go on forever in all directions.  And what more could you want?
+This is the most beautiful place in the Realms!  Thousands of animals call this
+place home and for good reason.  Nature certainly has been kind to this area
+of the world.  The famous Shadow Trees tower above you blotting out the sun
+at times.  What a great time to be alive.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12044
+D1
+~
+~
+0 -1 12045
+D2
+~
+~
+0 -1 12044
+D3
+~
+~
+0 -1 12047
+S
+#12049
+On a path~
+You are now on a small path, right outside the northern gate of
+Darkhaven.  The small path that you are on leads to the north and to the south
+back to the town of Darkhaven.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1601
+D2
+~
+~
+0 -1 21099
+S
+#12050
+Ranger Guild~
+You now stand in the center of a large wooden cabin.  The home place for the
+Ranger to practice his skills and spells.  The whole cabin, including the
+floors and walls are kept tidy and simple.  The true ways of a woodsman.
+The only colors present in the cabin are those of earth colors such as green
+and brown.  Books are kept on a large bookcase off to the far east wall.
+A small chair and table have been set up for reading and resting in the far
+right wall.  A small message has been scribed into the wall in front of you.
+It reads 'Nothing is ever easy.' -Richard Rahl.  True words to live by, indeed.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 6001
+> entry_prog 100~
+if class($n) == ranger
+mpecho The creatures of the forest come out to greet you welcome.
+else
+mpecho The creatures of the forest push you out of their home.
+mptrans $n 6001
+endif
+~
+|
+S
+#12051
+Druid Guild~
+This is a beautiful clearing.  The clearing itself is in the shape of a perfect
+circle.  Its rather amazing, really.  A large circle clearing with lush, green
+grass grows in the center of the clearing with local plant life growing just
+outside of it.  The trees, flowers, and plant life mix perfectly here to
+create a 'natural' feel.  The center of the ring is where the Druid, a nature
+lover' is to practice his skills, and his nature spells.  Ripe fruit and a 
+fresh spring are just a ways off from the circle to aid the Druid when here,
+practicing.
+~
+0 0 1
+D0
+~
+~
+0 -1 6001
+> entry_prog 100~
+if class($n) == druid
+mpecho Welcome back $n.
+else
+mpecho Sorry $n, but you are not allowed there.
+mptrans $n 6001
+endif
+~
+|
+S
+#12052
+South of Palladorian Harbor~
+You have just ended your walk on the wood.  You see to your north the hustle
+and bustle of the Palladorian Harbor.  To the east lies a small path, lined
+with small pebbles of all colors.  The smell of ocean air fills your lungs
+as you ponder which direction to take.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12053
+D1
+~
+~
+0 -1 12054
+S
+#12053
+Palladorian Harbor~
+You stand on the docks of a bustling harbor.  The grand look and feel of this
+place overwhelms you.  Ships and other sailing equipment and tools are
+scattered all about.  People hustle about, minding their own business.  A
+large wooden lodge has been built to accomodate weary sailors on their trips
+and those about to leave on a trip.  A large wooden walkway has been
+constructed and exits north and south from here.  The Palladorian Harbor Shop
+is east of here.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12055
+D1
+~
+~
+0 -1 12079
+D2
+~
+~
+0 -1 12052
+D3
+~
+~
+0 -1 10118
+S
+#12054
+Pebbled Path~
+You now stand on a pebbled path that leads east and west.  The small
+bright pebbles certainly are a sight.  In the far south you can see the
+great mountain range of the Anikin Mountains.  They are a dull gray with
+a splotch of white on top.  They run southeast as far as your eyes will allow.
+The path to the east beckons for your attention.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 500
+D3
+~
+~
+0 -1 12052
+S
+#12055
+North of Palladorian Harbor~
+You stand on the outskirts of the Palladorian Harbor.  The wooden plank ends
+here and continues south.  A lush green walkway is to your north leading to
+a gigantic mound of earth.  The wooden plank walkway leads back to the south
+to enter the Palladorian Harbor.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12056
+D2
+~
+~
+0 -1 12053
+S
+#12056
+Earth Rise~
+You stand before a large mound that shoots upward in a near vertical stance.
+The mound is green with grass and looks to rise above the clouds overhead.
+When you put your foot up against the rise, you notice that it hold it, like
+it were zero gravity.  Instictively you put the other foot up, and to your
+suprise you notice that you can walk up this near vertical mound.  Other than
+the exit up, there is a path to the south that leads to the harbor and to the
+east which leads to the Plains of the North.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 12057
+D2
+~
+~
+0 -1 12055
+D4
+~
+~
+0 -1 12058
+S
+#12057
+Near the Plains of the North~
+You now stand before a large open grassland.  The sweet smell of grass and
+nature fills the air.  Tiny little insects cross over your feet probably on
+the search for food.  You feel more wind than before, as you can feel it
+picking up quickly.  You see a bunch of pretty flowers off the the east.  West
+you notice a large mound of earth towering above all else.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 316
+D3
+~
+~
+0 -1 12056
+S
+#12058
+On the Rise~
+You are now 1000 feet above ground.  You do not tire from this rather odd
+journey.  It would seem that the sheer angle of it would make you sick, but
+it feels rather calming to be walking on the Rise.  You can see the Rise
+continue up and the ground to the down.
+~
+0 1073741828 1
+D4
+~
+~
+0 -1 12059
+D5
+~
+~
+0 -1 12056
+S
+#12059
+On the Rise~
+You now stand horizontally 2000 feet above the ground.  You take a peek over 
+the land around you.  It all looks rather odd, especially since your side-ways.
+Maybe at the top you can get a better view.. if there is a top.  The green
+grass of the Earth rise continues to go up and down.
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 12060
+D5
+~
+~
+0 -1 12058
+S
+#12060
+Top of the Rise~
+You now stand at the top of the Earth Rise.  Thankfully you can see now things
+the way they really are.  Looking at everything with your body the way it was
+was getting rather anoying.  You look over the land you are now on.  A huge
+mountain range spans the entire continent, or so you think, in a broken circle.
+You have heard of these mountains and think the name refered to them was the
+Anikin Mountains.  Inside the broken circle of this range you can see the
+main city of this land:  Thenia.  Much more than that, you cannot discern.
+Although, you do notice the Plains of the North and a lush land to your
+immediate east.  The Earth Rise drops down from here.
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 12059
+S
+#12061
+In a Cave~
+You are now crouching in a small, black cave.  The cave walls are lined with
+a green, slimy substance and the air reakes of death.  Small rocks which have
+fallen from the ceiling hinder your ability to walk.  You can enter a small
+opening up above you to some light, or continue in this cave to the north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12062
+D4
+~
+~
+0 -1 402
+S
+#12062
+Cave~
+More of this wonderful cave.  The air has taken a turn for the worse, and you 
+must cover your nose to block out the repugnant smell.  Green goo surrounds
+your path way, with larger rocks covering the ground.  The cave continues to
+the east and to the south.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 12063
+D2
+~
+~
+0 -1 12061
+S
+#12063
+Cave~
+The cave has gotten a slight smaller.  You now have to walk on your hands
+knees to get through.  Your knees and back are wet from the goo that covers 
+the walls.  Your hands and knees are also being torn up from the sharp, jagged
+rocks that have fallen from the ceiling on the ground.  More of this cave to
+the north and west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12064
+D3
+~
+~
+0 -1 12062
+S
+#12064
+Cave~
+You are now crawling on your belly.  Your whole body reakes of this horrible
+smell and is covered in slimy gack.  Your stomach is being ripped from the 
+rocks covering the ground as your back is being scrapped up from the uneven
+ceiling.  The cave opens up to the north and to the south.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 12065
+D2
+~
+~
+0 -1 12063
+S
+#12065
+Cave~
+You have entered a small opening in the cave.  The walls are lined with a
+disgusting green substance and the air is tinged with a singe of smell.  The
+cave continues to the north and south.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 715
+D2
+~
+~
+0 -1 12064
+S
+#12066
+Wide Circle Clearing~
+A warm breeze refreshes you.  You stand in the middle of a warn, circle 
+clearing.  To the north are the southern gates to Darkhaven while to the south
+is the wonderful Shadow Forest.  The path leading west of here, you notice,
+leads to a large temple to the south.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 21075
+D2
+~
+~
+0 -1 12042
+D3
+~
+~
+0 -1 20701
+S
+#12067
+Floating in a void~
+~
+0 1073741828 1
+S
+#12068
+Liar's Smile~
+You now stand on the infamous Liar's Smile.  This is the longest and most
+dangerous bridge in the Shadow Realms.  You have heard that at the end of this
+bridge lies Thenia.  Thenia officials put this bridge here allow oncomers in
+the city, but only those who would dare to traverse this gorge.  A huge hole
+in the Realms is here, with a bright red glow coming from the bottom of this
+abyss.  The bridge continues to the southeast and then back to the southwest
+off towards the end, making an appearant smile.
+~
+0 1073741824 11
+D0
+~
+~
+0 -1 8855
+D8
+~
+~
+0 -1 12069
+S
+#12069
+Liar's Smile~
+You stand in the center of this creaky wooden bridge.  Of course, there isnt
+any more room for you to move to the east or the west or you will fall into 
+the depths of the bright red.  No rails of any sort have been built on the
+bridge, so you had best be careful where you step.  The air from under you is
+heating your body, as if it were the depths of the Underdark itself.
+~
+0 1073741824 11
+D7
+~
+~
+0 -1 12068
+D8
+~
+~
+0 -1 12070
+S
+#12070
+Liar's Smile~
+You continue to walk on this 'bridge' or sorts.  Its looks much more like a
+death trap than a bridge, however.  You are being heated by the red radiance
+that is rising from below.  Looking down, all you see is a red aura surrounded
+in smokey air.  The Liar's Smile continues to the southeast and to the
+northwest.
+~
+0 1073741824 11
+D7
+~
+~
+0 -1 12069
+D8
+~
+~
+0 -1 12071
+S
+#12071
+Liar's Smile~
+You are standing on a bridge that will certainly lead to your death.  The red
+aura from below has gotten much brighter and threatens now to consume your
+body.  You attempt to walk a bit more quickly, but you still must move at a
+snail-like speed if you are traverse this bridge alive.  Southeast and 
+northwest are the directions you can travel.
+~
+0 1073741824 11
+D7
+~
+~
+0 -1 12070
+D8
+~
+~
+0 -1 12072
+S
+#12072
+Liar's Smile~
+The red has consumed you.  You are now almost completly blinded by it.  Your
+body begins to shake in the searing heat that is consuming you.  This trip was
+a bad idea, you begin to think.  You drop to your stomach to crawl for now
+because falling off this means certain death.  Feels like you can crawl to
+the southeast and to the northwest.
+~
+0 1073741824 11
+D7
+~
+~
+0 -1 12071
+D8
+~
+~
+0 -1 12073
+S
+#12073
+Liar's Smile~
+You can see a little better, as the red has backed off slightly.  The depth
+of the gorge doesn't look any more promising, however.  You just pray that the
+bridge will come to an end soon and either you will be dead and done with it
+or on the safety of the ground.  Oh, how you miss the ground.
+~
+0 1073741824 11
+D7
+~
+~
+0 -1 12072
+D9
+~
+~
+0 -1 12074
+S
+#12074
+Liar's Smile~
+The red has consumed you.  You are now almost completly blinded by it.  Your
+body begins to shake in the searing heat that is consuming you.  This trip was
+a bad idea, you begin to think.  You drop to your stomach to crawl for now
+because falling off this means certain death.  Feels like you can crawl to
+the southwest and to the northeast from here.
+~
+0 1073741824 11
+D6
+~
+~
+0 -1 12073
+D9
+~
+~
+0 -1 12075
+S
+#12075
+Liar's Smile~
+You are now standing on a bridge that will certainly lead to your death.  The 
+red aura from below has gotten much brighter and threatens now to consume your
+body.  You attempt to walk a bit more quickly, but you still must move at a 
+snail-like pace if you are to traverse this bridge alive.  Southwest and
+northeast are the directions you can go.
+~
+0 1073741824 11
+D6
+~
+~
+0 -1 12074
+D9
+~
+~
+0 -1 12076
+S
+#12076
+Liar's Smile~
+You continue to walk to this 'bridge' of sorts.  It looks much more like a
+death trap than a bridge, however.  You are being heated by the read radiance
+that is rising from below.  Looking down, all you see is a red aura surrounded
+in smokey air.  The Liar's Smile continues to the southwest and to the
+northeast.
+~
+0 1073741824 11
+D6
+~
+~
+0 -1 12075
+D9
+~
+~
+0 -1 12077
+S
+#12077
+Liar's Smile~
+You stand in the center of this creaky wooden bridge.  Of course, there isnt
+any more room for you to move to the east or west or you will fall into the
+depths of the bright red.  No rails of any sort have been built on the bridge,
+so you had best be careful where you step.  The air from under you is heating
+your body, as if it were the depths of the Underdark itself.
+~
+0 1073741824 11
+D6
+~
+~
+0 -1 12076
+D9
+~
+~
+0 -1 12078
+S
+#12078
+Liar's Smile~
+You now stand on the infamous Liar's Smile.  This is the longest and most
+terrified bridge in the Shadow Realms.  You have heard that at the end of this
+bridge lies Mirkwood.  Thenia officials put this bridge here to allow incomers
+in to the the 'Mirk' and to Thenia, but only those who would dare to traverse
+this gorge.  A huge abyss is here, with a bright red glow coming from the
+bottom of this gorge.  The bridge continues to the northeast and then back to
+the northwest towards the end, making an appearant smile.
+~
+0 1073741824 11
+D6
+~
+~
+0 -1 12077
+S
+#12079
+Palladorian Harbor Shop~
+You stand in the center of a fairly large shop.  The walls and everything else
+seem to made of wood.  You see a small counter with a very fat man standing
+behind it.  People scurry the shop in an attempt to get their good and get
+behind it.  People scurry in and out of the shop in an attempt to get their
+food and and supplies and get out.  Maybe you should do the same.
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 12053
+S
+#12080
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+M 1 9543 11 12016
+M 1 12001 1 12051
+M 1 12002 1 12050
+O 1 12000 1 12036
+O 1 12002 1 12018
+O 1 12002 1 12037
+O 1 12003 1 12034
+M 1 12003 2 12041
+M 1 12000 3 12043
+M 1 12003 3 12043
+M 1 12000 3 12045
+M 1 12003 3 12045
+M 1 12000 3 12046
+M 1 12000 3 12047
+M 1 12003 4 12047
+O 1 12004 1 12047
+M 1 12003 5 12048
+O 1 12005 1 12054
+M 1 12005 1 12055
+M 1 12006 1 12055
+M 1 12005 2 12053
+M 1 12004 1 12079
+G 1 12006 1
+G 1 12007 1
+G 1 12008 1
+M 1 12006 2 12052
+M 1 12005 3 12052
+M 1 12005 3 12052
+O 1 12009 1 12061
+O 1 12009 1 12062
+O 1 12009 1 12064
+O 1 12009 1 12065
+M 1 12007 1 12060
+S
+
+
+#SHOPS
+ 12004    0  0  0  0  0   100   0         0 23    ; Belin the Shopkeeper
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,2233 @@
+#AREA   Olympia~
+
+
+
+#AUTHOR Xentar~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 59678000
+
+#MOBILES
+#6401
+Zeus God~
+Zeus the Cloud-Gatherer~
+The mighty ruler of Olympus, Zeus, stands here...observing
+the activities of Mortals.
+~
+The Lord of the Sky, Zeus, whose power is greater than that of all the
+other Olympians, rests here...contemplating which mortal beauty he
+should woo next.
+~
+2818055 2622120 1000 S
+105 40 0 65d15+20000 8d6+48
+10000 0
+8 8 1
+#6402
+Hera Goddess Wife~
+Hera, the Queen of the Heavens~
+The jealous wife of the all-powerful Zeus, rests here...plotting
+revenge on mortal beauties who has capture her husband's
+affections.
+~
+As you gaze into her eyes, you know that there will never be any other
+creature as enchanting as she. When she smiles, the whole heavens light
+up with such a brillance that the rays of the sun pales in comparison.
+Yet beneath the loveliness, you sense that she has great powers...powers
+that can stir up the heavens.
+~
+720967 2622120 1000 S
+102 38 0 65d15+19000 8d6+46
+98000 0
+8 8 2
+#6403
+Pallas Athena Goddess~
+Pallas Athena~
+Pallas Athena is here, weaving a lovely tapestry.
+~
+Before you stands the most gentle creature your eyes has ever laid upon.
+Athena, the divine Goddess of Wisdom, rests here, weaving a lovely
+tapestry. It might appear that she is just a weak Goddess, but there is
+more to her than meets the eye. She is also a great Battle Goddess,
+fierce and ruthless in combat. It is said that her skills as a warrior
+surpasses the might God of War, Ares, himself. Only a fool would attack
+this enchanting Goddess.
+~
+720967 2622120 1000 S
+102 38 0 65d15+19500 8d6+48
+99000 0
+8 8 2
+#6404
+Phoebus Apollo God~
+Phoebus Apollo~
+The God of Light, Apollo, rests comfortably here...composing a divine
+tune.
+~
+The brilliance of this God is blinding. Light more radiant than the sun
+surrounds him in a aura, enhancing his divinity. The music flowing from
+his Lyre is so enchanting that you feel like dropping all your worries
+and spend eternity here...listening to his music...
+~
+720967 2622120 1000 S
+102 38 0 65d15+19500 8d6+48
+99000 0
+8 8 1
+#6405
+Artemis Goddess~
+Artemis~
+The Lady of Wild Things is here, protecting innocent wild life
+from the cruel arrows of inconsiderate hunters.
+~
+Before stands Apollo's twin sister. Although compassionate towards
+animals, she is a fierce and revengeful Goddess toward mortals...
+delivering swift and painless blows to those who has angered her.
+Besides her, you see a slender and yet powerful radiant bow...
+You now realize that she is not a Goddess to be trifle with!
+~
+720967 2622120 1000 S
+102 38 0 65d15+19500 8d6+48
+99000 0
+8 8 2
+#6406
+Aphrodite Goddess~
+Aphrodite~
+The Goddess of Love and Beauty is here, cheating on her husband!
+~
+A creature more beautiful than anything you have ever seen stands before
+you, capturing your soul with her radiant beauty. Without her, your life
+would be devoid of all joy and loveliness will cease to exist for you.
+You must have her!!
+~
+720967 2622120 1000 S
+100 36 0 65d15+19000 8d6+46
+98000 0
+8 8 2
+#6407
+Ares God~
+Ares~
+The spiteful God of War, Ares, is here, cheating on his brother's
+wife.
+~
+A most disdainful divinity stands before you. He is all drenched in blood,
+and his very presence makes you want to kill something. Although he is
+the God of War, Ares doesn't look very mighty to you. In fact, maybe
+it would be a good idea to rid Mortals of this dreadful God...but you
+know better...appearances can be most deceiving...
+~
+720967 2622120 1000 S
+102 38 0 65d15+19500 8d6+46
+99000 0
+8 8 1
+#6408
+Hermes God Messenger~
+Hermes~
+The messenger of Zeus, Hermes, flys swiftly by...
+~
+So swift is Hermes that when you try to look at him, you see nothing but
+a blur.
+~
+720967 2622120 1000 S
+102 38 0 65d15+19000 8d6+48
+98000 0
+8 8 1
+#6409
+Hephaestus God Smith~
+Hephaestus~
+The smith of Gods is here, creating a work of beauty.
+~
+Though hideously maimed and disfigured, you can sense that there is great
+beauty beneath the horrid surface of Hephaestus, the God of Fire. He looks
+at you and smiles, inviting you in to examine some of the pieces he is
+working on for the Olympians.
+~
+720967 2622120 1000 S
+102 38 0 65d15+19500 8d6+48
+99000 0
+8 8 1
+#6410
+Hestia Goddess~
+Hestia~
+Hestia, the Goddess of the Hearth, rests here...tending to the
+Flames of Olympus.
+~
+As you gaze into the face of this virgin Goddess, sweet gentleness enters
+your heart. All thoughts of warfare and destructions completely disappears.
+Thoughts of peace and compassion fills you with such a passion that you
+want nothing more than to spend eternity here...
+~
+720903 2622120 1000 S
+105 40 0 65d15+20000 8d6+50
+98000 0
+8 8 2
+#6411
+Spring Season~
+Spring~
+Spring is here...making flowers bloom.
+~
+A lovely Goddess surround by warmth and life greets you. Flowers of all
+kinds grace her seductive figure. A look from her would melt your heart,
+yet something tells you that she is more than what she seems.
+~
+655431 2621448 1000 S
+95 30 0 60d12+12500 8d6+38
+5000 0
+8 8 2
+#6412
+Summer Season~
+Summer~
+Summer is here...bringing out the sunshine.
+~
+Yikes! Summer is consumed by flames. Unbearable heat strikes you as you
+try to approach her. Touching her would surly burn you!
+~
+655431 2621448 1000 S
+95 30 0 60d12+12500 8d6+38
+5000 0
+8 8 2
+#6413
+Autumn Season~
+Autumn~
+Autumn is here...changing the colors of leaves.
+~
+A cool breeze gently caresses your body as you gaze into the lovely
+face of Autumn. Leaves in hues of red and gold grace the enchanting
+figure of this Season.
+~
+655431 2621448 1000 S
+95 30 0 60d12+12500 8d6+38
+5000 0
+8 8 2
+#6414
+Winter Season~
+Winter~
+Winter is here...bringing frost into the air.
+~
+Woah! A gaze from this pale faced Goddess, sends shivers down your spine.
+She looks at you menacingly and blows you a breath of pure frost. Better
+put on your winter clothing!
+~
+655431 2621448 1000 S
+95 30 0 60d12+12500 8d6+38
+5000 0
+8 8 2
+#6415
+Iris Goddess~
+Iris~
+The Goddess of Rainbows stands here, guarding the Gate of Clouds.
+~
+Never in your life have you seen a more beautiful Goddess. Colors abound
+surrounds her, enhancing her already enchanting beauty. Droplets of
+dew cling to her, forming a lovely gown of sheer iridescence.
+~
+721031 2621448 1000 S
+98 36 0 60d12+16500 8d6+44
+6000 0
+8 8 2
+#6416
+Nike Goddess~
+Nike~
+The Goddess of Victory is here, guarding over Athena.
+~
+The first thing you notice about this enchanting goddess is the pair
+of wings, in the purest white that grace the figure of this goddess.
+The wings folds nicely over her, forming a feathered cloak. She smiles
+and asks you to join in her observing the tapestry that Athena is
+weaving.
+~
+721031 2621448 1000 S
+100 48 0 60d12+18500 8d6+46
+6000 0
+8 8 2
+#6417
+Handmaid Gold~
+Handmaid of Gold~
+A Golden Handmaid is here, assisting the Smith of Olympians.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold. She seems very life like as she assists Hephaestus.
+~
+524359 0 1000 S
+90 24 0 60d12+12000 8d6+30
+4000 0
+8 8 2
+#6418
+Splendor~
+Splendor~
+Splendor, one of the Three Graces is here, dancing enchantingly to
+Apllo's Lyre.
+~
+Joy spreads through you as you gaze into the cheerful eyes of this
+graceful goddess. She smiles and beckons you to join her in a dance of
+joy.
+~
+721031 2621448 1000 S
+95 30 0 60d12+14500 8d6+38
+6000 0
+8 8 2
+#6419
+Mirth~
+Mirth~
+The sister of Splendor, Mirth is here, giving laugther to all.
+~
+Unbounded happiness fills you as you encounter this enchanting Grace.
+Life would be nothing but joy in her presence...wouldn't it be nice if
+you stayed a while...
+~
+721031 2621448 1000 S
+95 30 0 60d12+14500 8d6+38
+6000 0
+8 8 2
+#6420
+Thalia Grace~
+Thalia~
+Thalia, the Grace of Good Cheer, asks you to join her for a dance.
+~
+Troubles and worries disappear when Thalia smiles upon you. Life is so
+beautiful when she is around. Maybe it would be better to leave all
+the worries of life behind and join her in a dance.
+~
+721031 2621448 1000 S
+95 30 0 60d12+14500 8d6+38
+6000 0
+8 8 2
+#6421
+Deer~
+Deer~
+A Deer of the purest white is here, grazing peacefully.
+~
+The sheer brillance of her coat blinds you briefly. As you eyes recover,
+you see the most astounding creature right before your eyes. She looks
+at you with her large, brown eyes and seemd to smile.
+~
+131143 8192 1000 S
+85 24 0 55d12+9500 8d6+30
+1000 0
+8 8 2
+#6422
+Fawn~
+Fawn~
+A Fawn of the purest white is grazing peacefully here.
+~
+The sheer brillance of her coat blinds you briefly. As you eyes recover,
+you see the most astounding creature right before your eyes. She looks
+at you with her large, brown eyes and seemd to smile.
+~
+131143 8192 1000 S
+84 24 0 55d12+9500 8d6+30
+1000 0
+8 8 0
+#6423
+Owl~
+Owl~
+A snow-white featherd Owl is perched here, observing your actions.
+~
+You cannot quite pin point it, but you know that there is something
+special about this Owl...
+~
+131143 8192 1000 S
+85 24 0 55d12+9500 8d6+30
+1000 0
+8 8 1
+#6424
+Prometheus Titan~
+Prometheus~
+The helpful Titan, Prometheus, is chained here for disobeying Zeus's
+orders.
+~
+You gaze upon this great God and sorrow fills you. This was the God who
+gave Man fire and the ability to heal themselves. Without his contributions,
+Mankind would not have been able to survive through the ages. So great is
+your pity and sorrow that you decide to free him...and maybe suffer the
+wrath of Zeus...
+~
+655431 4 1000 S
+98 40 0 65d12+17750 8d6+42
+2000 0
+8 8 1
+#6425
+Guard Olympian~
+Olympian Guard~
+A Olympian guard is here, patrolling the City.
+~
+Trained to protect the Olympia from intruders, these guards will attack
+anyone who violates this magnificent city of the Greek Gods.
+~
+524359 268435456 1000 S
+90 28 0 45d11+5500 8d6+40
+6000 0
+8 8 1
+#0
+
+
+#OBJECTS
+#6401
+Shard Lightning~
+A Shard of Lightning~
+A transparent shard of pure electrical energy lies buzzing here.~
+~
+5 1 0
+0 22 6 6
+20 6000 600
+A
+18 8
+A
+19 10
+#6402
+Crown Light~
+Crown of Light~
+A divinely crafted crown of pure radiant light is here.~
+~
+9 1 0
+-18 -18 -18 -18
+10 5000 500
+A
+3 2
+A
+4 2
+A
+5 2
+A
+12 150
+A
+13 100
+A
+18 6
+A
+19 6
+A
+20 10
+A
+21 10
+A
+22 10
+A
+23 10
+A
+24 10
+A
+25 10
+#6403
+Gorgonic Breastplate~
+Gorgonic Breastplate~
+A radiant breastplate with an emblem of a hideous gorgon lies here.~
+~
+9 1 0
+-16 -17 -15 -18
+20 5000 500
+A
+1 2
+A
+13 200
+A
+18 8
+A
+19 8
+A
+22 20
+#6404
+Lyre Light~
+Lyre of Light~
+A lyre of pure iridescence lies here, calling your name.~
+~
+5 1 0
+0 10 11 0
+5 5000 500
+A
+18 8
+A
+19 8
+#6405
+Huntress~
+Huntress~
+A perfect weapon for hunting foes lies here.~
+~
+5 1 0
+0 10 11 11
+10 5000 500
+A
+18 4
+A
+19 6
+#6406
+Ring Love~
+Ring of Love~
+A exquistely crafted ring of sheer brillance lies here, seducing
+you.~
+~
+9 1 0
+-18 -18 -20 -20
+10 5000 500
+A
+9 -10
+A
+12 200
+A
+13 100
+A
+17 -10
+A
+24 10
+#6407
+Spear War~
+Spear of War~
+A spear of blood red lies before you, bathing the room with the
+forces of War.~
+~
+5 1 0
+0 10 11 0
+10 5000 500
+A
+1 2
+A
+18 4
+A
+19 6
+#6408
+Caduceus staff~
+Caduceus~
+A winged staff with two entwining snakes is hoovering here.~
+~
+9 2 0
+-18 -18 -18 -16
+10 5000 500
+A
+3 2
+A
+4 2
+A
+5 2
+A
+13 200
+A
+18 8
+A
+19 6
+#6409
+Forger~
+Forger~
+A H*U*G*E forging hammer lies here, waiting for a worthy wielder.~
+~
+5 1 0
+0 10 11 8
+20 5000 500
+A
+17 6
+A
+18 6
+A
+19 18
+#6410
+Shawl Vestal~
+The Shawl of Vestals~
+A white shawl lies here, waiting for a virgin soul.~
+~
+9 1 0
+-19 -19 -19 -18
+5 5000 500
+A
+5 4
+A
+12 100
+A
+13 100
+A
+18 10
+A
+19 6
+A
+20 10
+A
+21 10
+A
+22 10
+A
+23 10
+A
+24 20
+A
+25 20
+#6411
+Rainbow~
+Rainbow~
+A fragment of a Rainbow lies here.~
+~
+9 1 0
+-16 -16 -16 -16
+10 4000 400
+A
+2 4
+A
+13 100
+A
+17 8
+A
+18 4
+A
+19 4
+#6412
+Wings Nike~
+Wings of Nike~
+A feathery pair of white wings hovers victoriously above you.~
+~
+9 1 0
+-18 -18 -18 -18
+5 4000 400
+A
+5 4
+A
+14 100
+A
+18 6
+A
+19 6
+#6413
+Bracer Fire~
+Bracer of Fire~
+The bracer that binds Prometheus for eternity lies here.~
+~
+9 1 0
+-18 -16 -16 -18
+10 4000 400
+A
+3 2
+A
+4 2
+A
+12 40
+A
+13 80
+A
+18 6
+A
+19 6
+#0
+
+
+#ROOMS
+#6401
+A Mountain path~
+You are walking on a rugged mountain path. Tall evergreens and
+ancient oaks towers above you. You try to look ahead to see where
+this path leads you, but it seems go on for miles and miles. You
+look back from where you came and see nothing but the peaceful
+surroundings of mother nature.
+~
+0 0 3
+D0
+A mountain path.
+~
+~
+0 -1 6402
+S
+#6402
+A Mountain path~
+You are walking on a rugged mountain path. Tall evergreens and
+ancient oaks towers above you. You try to look ahead to see where
+this path leads you, but it seems go on for miles and miles. You
+look back from where you came and see nothing but the peaceful
+surroundings of mother nature.
+~
+0 0 5
+D0
+A mountain path.
+~
+~
+0 -1 6403
+D2
+Back to Realms.
+~
+~
+0 -1 6401
+S
+#6403
+A Mountain path~
+You are walking on a rugged mountain path. Tall evergreens and
+ancient oaks towers above you. You try to look ahead to see where
+this path leads you, but it seems go on for miles and miles. You
+look back from where you came and see nothing but the peaceful
+surroundings of mother nature.
+~
+0 0 5
+D0
+A mountain path.
+~
+~
+0 -1 6404
+D2
+Back to Realms.
+~
+~
+0 -1 6402
+S
+#6404
+A Mountain cliff~
+The mountain path that seems to go on for miles and miles suddenly
+disappears into the thin air. Before you is nothing but the open air.
+Your feet accidentally knocks into a small rock and it falls down the
+cliff. You look down, and jump in shock. Clouds flow effortlessly
+beneath you. The mountain path has taken you higher than the clouds!
+You look around, trying to pinpoint where you are. But all you see is
+glorious sun shine, fluffy clouds and clear, crisp air. You stop for
+a moment, absorbing the beauty of Nature and decide to turn back.
+As you turn your head, you caught a glimpse of a Rainbow Bridge!
+Impossible! Yet, there it is, a bridge in the hues of a rainbow shimmers
+in the air, leading somewhere...
+~
+0 0 9
+D0
+The Rainbow Bridge.
+~
+~
+0 -1 6405
+D2
+A Mountain path.
+~
+~
+0 -1 6403
+S
+#6405
+Rainbow Bridge~
+As impossible as it may be, you are standing on a Rainbow bridge.
+Even though it looks quite delicate and might buckle under the
+slightest of weight, the bridge stands firm and solid under your feet.
+Misty white clouds flow effortless aside you, gently brushing against
+you as you travel on the Rainbow bridge. You look ahead to see where
+the bridge is leading you, but the clouds hides the destination
+in mystery.
+~
+0 0 9
+D0
+A Mountain cliff.
+~
+~
+0 -1 6405
+D2
+The Rainbow Bridge.
+~
+~
+0 -1 6406
+S
+#6406
+The Rainbow Bridge~
+As impossible as it may be, you are standing on a Rainbow bridge.
+Even though it looks quite delicate and might buckle under the
+slightest of weight, the bridge stands firm and solid under your feet.
+Misty white clouds flow effortless aside you, gently brushing against
+you as you travel on the Rainbow bridge. You look ahead to see where
+the bridge is leading you, but the clouds hides the destination
+in mystery.
+~
+0 0 9
+D0
+The Rainbow Bridge.
+~
+~
+0 -1 6405
+D2
+The Rainbow Bridge.
+~
+~
+0 -1 6407
+S
+#6407
+The Rainbow Bridge~
+As impossible as it may be, you are standing on a Rainbow bridge.
+Even though it looks quite delicate and might buckle under the
+slightest of weight, the bridge stands firm and solid under your feet.
+Misty white clouds flow effortless aside you, gently brushing against
+you as you travel on the Rainbow bridge. You look ahead to see where
+the bridge is leading you, but the clouds hides the destination
+in mystery.
+~
+0 0 9
+D0
+The Rainbow Bridge.
+~
+~
+0 -1 6406
+D2
+The Rainbow Bridge.
+~
+~
+0 -1 6408
+S
+#6408
+The Rainbow Bridge~
+As impossible as it may be, you are standing on a Rainbow bridge.
+Even though it looks quite delicate and might buckle under the
+slightest of weight, the bridge stands firm and solid under your feet.
+Misty white clouds flow effortless aside you, gently brushing against
+you as you travel on the Rainbow bridge. You look ahead to see where
+the bridge is leading you, but the clouds hides the destination
+in mystery.
+~
+0 0 9
+D0
+The Rainbow Bridge.
+~
+~
+0 -1 6408
+D2
+The Rainbow Bridge.
+~
+~
+0 -1 6409
+S
+#6409
+The Rainbow Bridge~
+As impossible as it may be, you are standing on a Rainbow bridge.
+Even though it looks quite delicate and might buckle under the
+slightest of weight, the bridge stands firm and solid under your feet.
+Misty white clouds flow effortless aside you, gently brushing against
+you as you travel on the Rainbow bridge. You look ahead to see where
+the bridge is leading you, but the clouds hides the destination
+in mystery.
+~
+0 0 9
+D0
+The Rainbow Bridge.
+~
+~
+0 -1 6408
+D2
+Gate of Clouds.
+~
+~
+0 -1 6410
+S
+#6410
+Gate of Clouds~
+As the bridge crescents down, you see a great Gate of Clouds before
+you. The Gate, though clearly constructed of clouds, is stronger than
+any gate you have seen before. You look beyond the Gate and your jaws
+falls wide open in awe. In the distance, a city of solid, white marble
+glimmers faintly. The white glory of the sun shine diffuses upon the
+walls of this magnificent city, setting in ablaze like a sparkling
+gem. The city must be an abode of perfect blessedness. As you open the
+Gate of Clouds, a thought hit you. Who or what can possibly live in
+such a nirvana?...
+~
+0 0 2
+D0
+To the City.
+~
+~
+1 -1 6411
+D2
+The Rainbow Bridge.
+~
+~
+0 -1 6409
+S
+#6411
+Steps to the City of Olympia~
+After a brief walk from the Gate of Clouds, you stand on the base of
+the magnificent city. A series of white marble steps lies ahead of you.
+It snakes gracefully upwards, leading you to the shimmering city that
+beckons to you from above. To your side, you see two marble statues of
+winged horses, wings out stretched and hoofs in a prance, as if in a
+salute to you. As you rise your right foot to ascend the steps, you
+look up and realize that your journey is far from over...
+~
+0 0 5
+D0
+To the City.
+~
+~
+0 -1 6412
+D2
+To the Gate of Clouds.
+~
+~
+0 -1 6410
+S
+#6412
+On the Steps~
+PHEW! What a climb! You look behind you and realize how far you have
+traveled on these steps. The steps cascade like a waterfall down,
+turning and twisting over this steep rocky mountain. From here, the
+clouds have shrouded the base of these steps. All you see is a carpet
+of soft, fluffy whiteness, swirling slowly. And as you look ahead of you,
+you let out a groan. More marble steps awaits you, but there is a hint
+of joy within you as the blessed city grows larger with your every
+step.
+~
+0 0 5
+D0
+More Steps.
+~
+~
+0 -1 6413
+D2
+To the base.
+~
+~
+0 -1 6411
+S
+#6413
+On the Steps~
+PHEW! What a climb! You look behind you and realize how far you have
+traveled on these steps. The steps cascade like a waterfall down,
+turning and twisting over this steep rocky mountain. From here, the
+clouds have shrouded the base of these steps. All you see is a carpet
+of soft, fluffy whiteness, swirling slowly. And as you look ahead of you,
+you let out a groan. More marble steps awaits you, but there is a hint
+of joy within you as the blessed city grows larger with your every
+step.
+~
+0 0 5
+D0
+More Steps.
+~
+~
+0 -1 6414
+D2
+To the base.
+~
+~
+0 -1 6412
+S
+#6414
+On the Steps~
+PHEW! What a climb! You look behind you and realize how far you have
+traveled on these steps. The steps cascade like a waterfall down,
+turning and twisting over this steep rocky mountain. From here, the
+clouds have shrouded the base of these steps. All you see is a carpet
+of soft, fluffy whiteness, swirling slowly. And as you look ahead of you,
+you let out a groan. More marble steps awaits you, but there is a hint
+of joy within you as the blessed city grows larger with your every
+step.
+~
+0 0 5
+D0
+More Steps.
+~
+~
+0 -1 6415
+D2
+To the base.
+~
+~
+0 -1 6413
+S
+#6415
+Entrance to the City of Olympia~
+With every ounce of strength left in your body, you order your feet
+to rise and lower itself on the final step. The climb has tired your
+body, and it cries out for a moment of rest. Two marble white columns
+towers aside you, signifying the entrance of the City lies just behind
+them. You lean against one of the columns and slowly sink into a
+comfortable resting position. Although tired and weary from physical
+exertion, you still marvel at the sheer radiance of this City.
+You have traveled to many places and have seen many astounding sights,
+but nothing in your memory could have matched a fraction of the beauty
+that lies ahead of you.
+~
+0 0 1
+D0
+To the City.
+~
+~
+0 -1 6416
+D2
+Back to the Steps.
+~
+~
+0 -1 6414
+S
+#6416
+The City of Olympia~
+As you explore this enchanting city, your worries and sorrow leaves
+you. A deep sense of peacefulness enters your soul and you want nothing
+more than to stay in this City for all eternity. The beauties of the
+world you left behind, pales in comparison to Olympia. The palaces of
+Kings and Lords that you once held as incomparable, seem like old
+wooden sheds next to the glorious architectural buildings that soothes
+your vision. Towering columns of white marble crafted by artists of
+unparalleled skill line the paved silver roads, like eternal guardians.
+As you glance around, you are blinded by a brilliance unmatched even by
+the Sun. Slowly, your eyes adjusts to the blinding radiance and in
+the midst of all this light, you catch a glimpse of a architectural
+creation that puts its surrounding buildings to shame.
+~
+0 0 1
+D0
+To the Grand Palace.
+~
+~
+0 -1 6417
+D2
+To the Gates of Olympia.
+~
+~
+0 -1 6415
+S
+#6417
+The City of Olympia~
+As you edge towards the blinding light, a faint whisper of music
+catches your ears. The music swirls and dances, enrapturing you in its
+sweet divine melodies. It tugs gently at your soul, pulling you towards
+the light. You close your eyes and abandon yourself, letting the music be
+your guide.
+~
+0 0 1
+D0
+To the Grand Palace.
+~
+~
+0 -1 6418
+D2
+The City of Olympia.
+~
+~
+0 -1 6416
+S
+#6418
+The City of Olympia~
+As you edge towards the blinding light, a faint whisper of music
+catches your ears. The music swirls and dances, enrapturing you in its
+sweet divine melodies. It tugs gently at your soul, pulling you towards
+the light. You close your eyes and abandon yourself, letting the music be
+your guide.
+~
+0 0 1
+D0
+To the Grand Palace.
+~
+~
+0 -1 6419
+D2
+The City of Olympia.
+~
+~
+0 -1 6417
+S
+#6419
+The City of Olympia~
+As you edge towards the blinding light, a faint whisper of music
+catches your ears. The music swirls and dances, enrapturing you in its
+sweet divine melodies. It tugs gently at your soul, pulling you towards
+the light. You close your eyes and abandon yourself, letting the music be
+your guide.
+~
+0 0 1
+D0
+To the Grand Palace.
+~
+~
+0 -1 6420
+D2
+The City of Olympia.
+~
+~
+0 -1 6418
+S
+#6420
+Before the Grand Palace~
+Silence. The music that had ensnared your soul in its sweet melodies
+has suddenly stopped. You open your eyes and the sight that dominates
+your vision astounds you. You do not even know how to begin to describe
+the elegance of the structure that stands before you. Words holds no
+meaning before this. Blinding white light radiate from this architectural
+monument, enveloping the marble in a iridescent glow. Besides you, stands
+two marble figures of winged goddesses in flight. So life like are the
+statues that you could almost feel their breath sweetening the air. As
+you glance upward, the pediment of this structure catches your eye.
+Gods and Goddess of strength and beauty greets your eyes, each in a pose
+of descending height. In the center of the pediment, you see the mighty
+Cloud-Gather, Zeus, in all his divine glory. And to his sides, the other
+eleven Olympian Gods and Goddess portrayed in their own eminence. Slowly,
+you force your eyes away from the pediment and continue to marvel at
+the other intricate craftsmanship of the palace.
+~
+0 0 1
+D2
+To the City of Olympia.
+~
+~
+0 -1 6419
+D4
+Steps of the Grand Palace.
+~
+~
+0 -1 6421
+S
+#6421
+The Steps of the Grand Palace~
+You feets slowly edge up the silver steps of the Grand Palace, as you
+focus your concentration on the relieves that line the top of this
+architectural monument. Stories of the Olympian Gods and Goddess unfold
+before you, as your eyes travel with the intricate relieves that grace
+your vision. Then, the same enchanting melody that had enslaved you in
+its tunes once again dance seductively in the air. It calls to you,
+beckoning you to lose yourself in its siren song. Slowly it draws you
+up the steps, and through the golden doors that opened as you approached.
+~
+0 0 1
+D0
+Inside the Grand Palace.
+~
+~
+0 -1 6422
+D5
+Before the Grand Palace.
+~
+~
+0 -1 6420
+S
+#6422
+The Grand Hall~
+The music flutters through the air like a delicate butterfly looking
+for sweet nectar. It swirls and vibrates through the air, carrying you
+on its melodious sound. You float on its transparent wings, not caring
+where it leads you. So ensnared are you in its web that you never took
+notice of the beauty of the Grand Hall. Light is the ceiling and the
+tiles that composes the floor. Sheer light and mist tenderly caresses
+you. Columns of light circles this vast openness while heavenly scents
+of sweet blossoms perfumes the air. Yet, what is all of this compared
+to the heavenly sound of Apollo's Lyre...
+~
+0 8 0
+D0
+Somewhere.
+~
+~
+0 -1 6423
+D1
+Somewhere.
+~
+~
+0 -1 6432
+D3
+Somewhere.
+~
+~
+0 -1 6437
+S
+#6423
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6424
+D2
+The Grand Hall.
+~
+~
+0 -1 6422
+S
+#6424
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6425
+D2
+A Grand Hallway.
+~
+~
+0 -1 6423
+S
+#6425
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6426
+D2
+A Grand Hallway.
+~
+~
+0 -1 6424
+S
+#6426
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6427
+D2
+A Grand Hallway.
+~
+~
+0 -1 6425
+S
+#6427
+Hall of the Olympians~
+A great flame dance seductively before your eyes. Undulating and
+wavering, enchanting you with its fiery temptations. Twelve ivory
+white thrones circle the flame, glistening with the golden brilliance
+of the fire, while twelve great pillars of light surround the Hall,
+supporting the gleaming heaven. As you approach the flame, activities
+of mortals from all parts of the world play before your eyes, showing
+you the loves, crimes, sins and innocence of mortals. Clouds bursting
+with light cascades delicately around you, as you stand here, completely
+fascinated with the doings of mortals.
+~
+0 8 0
+D0
+Somewhere.
+~
+~
+0 -1 6428
+D1
+Somewhere.
+~
+~
+0 -1 6442
+D3
+Somewhere.
+~
+~
+0 -1 6447
+S
+#6428
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6429
+D2
+To the Hall of Olympians.
+~
+~
+0 -1 6427
+S
+#6429
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the luster of heavens beckoning to you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6430
+D2
+A Grand Hallway.
+~
+~
+0 -1 6428
+S
+#6430
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D0
+A Grand Hallway.
+~
+~
+0 -1 6431
+D2
+A Grand Hallway.
+~
+~
+0 -1 6429
+S
+#6431
+The Hall of Light~
+Titanic columns of light towers over you, as you step meekly into
+this most brilliant of Halls. Misty clouds tenderly caresses your every
+step. You shield your eyes from the blinding radiance of the light, but
+found that your efforts were futile. Golden lucent light fall like rain
+drops, bathing the entire hall with a lambent splendor. A crystalline
+pool of water graces the center of this hall. The heavens above seem
+to whirl gently above this luminous pool. As you gaze into its lucid
+depths, destinies of mortals unfold before your very eyes.
+~
+0 8 0
+D2
+A Grand Hallway.
+~
+~
+0 -1 6430
+S
+#6432
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6433
+D3
+A Grand Hall.
+~
+~
+0 -1 6422
+S
+#6433
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6434
+D3
+A Grand Hallway.
+~
+~
+0 -1 6432
+S
+#6434
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6435
+D3
+A Grand Hallway.
+~
+~
+0 -1 6433
+S
+#6435
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+The Hall of Oceans.
+~
+~
+0 -1 6436
+D3
+A Grand Hallway.
+~
+~
+0 -1 6433
+S
+#6436
+The Hall of Oceans~
+A cool sea breeze brushes against you as you step into this Hall. The
+smell of the salty seas lightly perfumes the air, while a faint soothing
+sound of oceanic waves dances in the air. Luscious marble sculptures of
+Sea Nymphs tower over you, supporting a large blue dome. As you marvel
+at the divine artistry of the dome, you realize that the dome is made
+entirely of water! It ripples with the kisses of the cool sea breeze, as
+a rain of radiant light casts hues of gold upon its blue surface. A pool
+of deep blue lies before your feet. Tiny marble sculptures of leaping
+dolphins and mermaids gracefully circles the pool. As you gaze into the
+depths of the pool, a white cascading stair case snakes down into its
+watery depths. What can possibly lies down there?!
+~
+0 8 0
+D3
+A Grand Hallway.
+~
+~
+0 -1 6435
+S
+#6437
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+The Grand Hall.
+~
+~
+0 -1 6422
+D3
+A Grand Hallway.
+~
+~
+0 -1 6438
+S
+#6438
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6437
+D3
+A Grand Hallway.
+~
+~
+0 -1 6439
+S
+#6439
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6438
+D3
+A Grand Hallway.
+~
+~
+0 -1 6440
+S
+#6440
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway.
+~
+~
+0 -1 6439
+D3
+The Hall of Erebus.
+~
+~
+0 -1 6441
+S
+#6441
+The Hall of Erebus~
+Although the light of the heavens sets the hall ablaze in a glow, a
+chilling sensation creeps slowly upon you. Like the rest of Olympia,
+artworks beyond compare fills this Hall...yet, something dark and
+sinister seems to undermine all the joys exquisite beauties that lies
+here. You cannot shake off this sense of morbidness, it seems to
+dominate your very soul, filling you with sadness and hopelessness.
+A pit of pure darkness lies in the center of this gloomy Hall. Horrid
+stone carvings of tormented souls and ghastly ghouls circles this
+hellish pit. A deep overwhelming urge to hurl yourself into this
+pit of sheer evil suddenly grabs hold you...But with every ounce of
+energy in your body, you fight it off. It would not be wise to stay
+in this corrupted Hall...
+~
+0 4 0
+S
+#6442
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6443
+D3
+The Hall of Olympians.
+~
+~
+0 -1 6427
+S
+#6443
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6444
+D3
+A Grand Hallway.
+~
+~
+0 -1 6442
+S
+#6444
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6445
+D3
+A Grand Hallway.
+~
+~
+0 -1 6443
+S
+#6445
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+The Grand Balcony. 
+~
+~
+0 -1 6446
+D3
+A Grand Hallway.
+~
+~
+0 -1 6444
+S
+#6446
+The Grand Balcony~
+A sea of misty whiteness greets you, as you step into this crescent
+balcony. Lofty arches of light hangs delicately above you, supported
+by titanic beams of sheer radiance. A gentle zephyr brushes tenderly
+across your skin, gingerly bathing you in a soothing warmth. As you
+glance into the far horizon, herds of winged horses of pure whiteness
+gracefully takes flight into the glowing air. Melodious chirps of
+song birds fills the air, while scents of heavenly blossoms perfumes
+the air. The setting sun sends splashes of golden reds and oranges
+across the sky, creating a cosmic work of art...
+~
+0 0 0
+D3
+A Grand Hallway.
+~
+~
+0 -1 6445
+S
+#6447
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+The Hall of Olympians.
+~
+~
+0 -1 6427
+D3
+A Grand Hallway. 
+~
+~
+0 -1 6448
+S
+#6448
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6447
+D3
+A Grand Hallway. 
+~
+~
+0 -1 6449
+S
+#6449
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6448
+D3
+A Grand Hallway. 
+~
+~
+0 -1 6450
+S
+#6450
+A Grand Hallway~
+White misty clouds delicately undulate across this seemingly endless
+hallway. Sparkling beams of light rains down on the white marble floor,
+illuminating the hallway with a soft warm glow. Lofty beams of light
+support grand arches that bow gracefully to your every step. You look
+to your sides and see nothing but the lusters of heavens beckoning to
+you.
+~
+0 8 0
+D1
+A Grand Hallway. 
+~
+~
+0 -1 6449
+D3
+The Garden of Gaea. 
+~
+~
+0 -1 6451
+S
+#6451
+The Garden of Gaea~
+Before your eyes lies a garden of pure impossibilities. Vegetations
+that has vanished under the careless mortals blossoms here. Exotic
+flowers from all over the world scents the air with their sweet
+perfumes. Water of the purest nature cascades gracefully down a
+exquisite marble sculpture of Gaea, bring life to the Garden. Tall oaks
+and pines towers above you, shading you from the brilliance of the
+sun. To the horizon, the peak of Olympus rises above a sea of clouds.
+A luscious forest of greens waver softly under a soft breeze, as if
+inviting you to play in its cool shades.
+~
+0 0 2
+D1
+A Grand Hallway.
+~
+~
+0 -1 6450
+D3
+The Garden of Gaea.
+~
+~
+0 -1 6452
+S
+#6452
+The Garden of Gaea~
+The Hanging Gardens of Babylon could not match a fraction of the
+beauties here. Orchids from afar bloom eternally here, forever
+granting its exotic beauties to the Olympians. A large apple tree
+bearing golden apples stand admist all this luscious vegetations.
+It towers even above the Grand Palace, reaching the heavens with its
+long, brownish limbs. As you near it, a faint voice calls out to you.
+The voice is full of warmth and love, like a mother's lullaby to her
+baby. It serenades you in its love, embracing you like a mother to
+her sweet new born. Boundless love and compassion fills you, soothing
+your less than peaceful soul. No one can give so much love, no one...
+except for Gaea, the Mother to all things, the Mother of the World...
+~
+0 1024 0
+D0
+The Garden of Gaea.
+~
+~
+0 -1 6468
+D1
+The Garden of Gaea.
+~
+~
+0 -1 6451
+D3
+The Garden of Gaea.
+~
+~
+0 -1 6453
+S
+#6453
+The Garden of Gaea~
+You are standing admist a garden of eternal beauty. No harsh winds,
+biting rain or death-bringing frost ever extends its horrendous here.
+Death has no place here. Life, Love and Hope fills every petal, every
+leave and every grain of soil. This is Paradise...
+~
+0 0 2
+D1
+The Garden of Gaea.
+~
+~
+0 -1 6452
+D3
+The Garden of Gaea.
+~
+~
+0 -1 6454
+S
+#6454
+The Garden of Gaea~
+You are standing admist a garden of eternal beauty. No harsh winds,
+biting rain or death-bringing frost ever extends its horrendous here.
+Death has no place here. Life, Love and Hope fills every petal, every
+leave and every grain of soil. This is Paradise...
+~
+0 0 2
+D1
+The Garden of Gaea.
+~
+~
+0 -1 6453
+D3
+The Sacred Oaks.
+~
+~
+0 -1 6455
+S
+#6455
+The Sacred Oaks~
+A forest of ancient oaks stand before you. Its leaves green and full
+of life, sways back and forth in the cool breeze. You gently put a
+finger on the bark of an ancient oak...And you could feel a strong 
+pulsating beat, like a pumping of heart, bring life filled nutrients
+to every limb and to every leave. You draw back your finger slowly,
+and listen. And surly, the rhythmic pulse of these ancient oaks fills
+the air...
+~
+0 0 3
+D0
+The Sacred Oaks.
+~
+~
+0 -1 6456
+D1
+The Garden of Gaea.
+~
+~
+0 -1 6454
+S
+#6456
+The Sacred Oaks~
+A forest of ancient oaks stand before you. Its leaves green and full
+of life, sways back and forth in the cool breeze. You gently put a
+finger on the bark of an ancient oak...And you could feel a strong 
+pulsating beat, like a pumping of heart, bring life filled nutrients
+to every limb and to every leave. You draw back your finger slowly,
+and listen. And surly, the rhythmic pulse of these ancient oaks fills
+the air...
+~
+0 0 3
+D0
+The Sacred Oaks.
+~
+~
+0 -1 6457
+D2
+The Sacred Oaks.
+~
+~
+0 -1 6455
+S
+#6457
+The Sacred Oaks~
+A forest of ancient oaks stand before you. Its leaves green and full
+of life, sways back and forth in the cool breeze. You gently put a
+finger on the bark of an ancient oak...And you could feel a strong 
+pulsating beat, like a pumping of heart, bring life filled nutrients
+to every limb and to every leave. You draw back your finger slowly,
+and listen. And surly, the rhythmic pulse of these ancient oaks fills
+the air...
+~
+0 0 3
+D0
+The Sacred Oaks.
+~
+~
+0 -1 6458
+D2
+The Sacred Oaks.
+~
+~
+0 -1 6456
+S
+#6458
+The Sacred Oaks~
+A forest of ancient oaks stand before you. Its leaves green and full
+of life, sways back and forth in the cool breeze. You gently put a
+finger on the bark of an ancient oak...And you could feel a strong 
+pulsating beat, like a pumping of heart, bring life filled nutrients
+to every limb and to every leave. You draw back your finger slowly,
+and listen. And surly, the rhythmic pulse of these ancient oaks fills
+the air...
+~
+0 0 3
+D0
+A Mountain Path.
+~
+~
+0 -1 6459
+D2
+The Sacred Oaks.
+~
+~
+0 -1 6457
+S
+#6459
+A Mountain Path~
+The pulsating rhythm of the Scared Oaks still beat faintly in your
+ears as you leave them behind. You look ahead to the peak of Olympus,
+determined to scale it. A mountain path snakes upwards, leading you
+to the snow capped peak of this holy mountain.
+~
+0 0 5
+D0
+A Mountain Path.
+~
+~
+0 -1 6460
+D2
+The Sacred Oaks.
+~
+~
+0 -1 6458
+S
+#6460
+A Mountain Path~
+The air grows thinner as you near the peak of Olympus. As you approach
+the apex, a thick blanket of snow begins to cover your travels, softening
+the impact of your feet upon the rugged rock filled path. A strong gust
+of a northerly wind sends shivers down your spine. Unlike the perfect
+warmth of the Garden of Gaea, frost dominates the air. You pull your
+cloak more securely around you, trying in vain to protect yourself from
+the frost. The snow, becoming thicker and thicker as you near the
+peak of Olympus, impedes your progress, determined to keep you from the
+top.
+~
+0 0 5
+D0
+A Mountain Path.
+~
+~
+0 -1 6461
+D2
+A Mountain Path.
+~
+~
+0 -1 6459
+S
+#6461
+A Mountain Path~
+The air grows thinner as you near the peak of Olympus. As you approach
+the apex, a thick blanket of snow begins to cover your travels, softening
+the impact of your feet upon the rugged rock filled path. A strong gust
+of a northerly wind sends shivers down your spine. Unlike the perfect
+warmth of the Garden of Gaea, frost dominates the air. You pull your
+cloak more securely around you, trying in vain to protect yourself from
+the frost. The snow, becoming thicker and thicker as you near the
+peak of Olympus, impedes your progress, determined to keep you from the
+top.
+~
+0 0 5
+D0
+A Mountain Path.
+~
+~
+0 -1 6462
+D2
+A Mountain Path.
+~
+~
+0 -1 6460
+S
+#6462
+A Mountain Path~
+The air grows thinner as you near the peak of Olympus. As you approach
+the apex, a thick blanket of snow begins to cover your travels, softening
+the impact of your feet upon the rugged rock filled path. A strong gust
+of a northerly wind sends shivers down your spine. Unlike the perfect
+warmth of the Garden of Gaea, frost dominates the air. You pull your
+cloak more securely around you, trying in vain to protect yourself from
+the frost. The snow, becoming thicker and thicker as you near the
+peak of Olympus, impedes your progress, determined to keep you from the
+top. Struggling to go on, you soon discover that the frost has numb most
+of your body...If you do not find some warmth soon, you will surly die
+from the deadly frost. Just as you were about to turn back, you spot a
+cave ahead. A warm glow tells you that there is fire there...As you
+near the mouth of the cave, deep banging sounds of metals can be heard
+coming from within the cave...
+~
+0 0 5
+D0
+A Mountain Cave.
+~
+~
+0 -1 6463
+D2
+A Mountain Path.
+~
+~
+0 -1 6461
+D4
+A Mountain Path.
+~
+~
+0 -1 6465
+S
+#6463
+A Mountain Cave~
+As you enter this cave, hordes of metallic objects of the most
+exquisite craftsmanship lies carelessly here, as if they were nothing
+more than a heap of trash. You pick up a sword near by, and carefully
+examine it. You test out some familiar battle moves and find that
+this sword is beyond compare. No weapon smith in your knowledge could
+produce such a fine piece of art. You swing it at a near by boulder
+to test its sharpness, and to no surprise, it cuts through the solid
+rock like knife to butter. Without any regard for art, you toss this
+sword aside, thinking that there must be things of more beauty and
+worth somewhere in this cave...
+~
+0 8 0
+D0
+Deeper into the Cave.
+~
+~
+0 -1 6464
+D2
+A Mountain Path.
+~
+~
+0 -1 6462
+S
+#6464
+The Workshop of Hephaestus~
+Your greed was right. Objects of more value and beauty fills this
+room. Anything you could have ever wanted is here. Weapons of all
+types lies scatter everywhere, while precious metals and jewels pile
+in abundance. A handful of things here would have made anyone a king
+of kings.
+~
+0 8 0
+D2
+A Mountain Cave.
+~
+~
+0 -1 6444
+S
+#6465
+A Mountain Path~
+Although the chilling frost has numb most of your body, your
+will and stubbornness drives you forward. Giving up the warmth of
+a sheltered cave, you bravely forged ahead. You pull your cloak more
+securely around you, trying in vain to protect yourself from the frost.
+The snow, becoming thicker and thicker as you near the peak of Olympus,
+impedes your progress, determined to keep you from the top.
+~
+0 0 5
+D0
+A Mountain Path.
+~
+~
+0 -1 6466
+D2
+A Mountain Path.
+~
+~
+0 -1 6462
+S
+#6466
+A Mountain Path~
+The air grows thinner as you near the peak of Olympus. As you approach
+the apex, a thick blanket of snow begins to cover your travels, softening
+the impact of your feet upon the rugged rock filled path. A strong gust
+of a northerly wind sends shivers down your spine. Unlike the perfect
+warmth of the Garden of Gaea, frost dominates the air. You pull your
+cloak more securely around you, trying in vain to protect yourself from
+the frost. The snow, becoming thicker and thicker as you near the
+peak of Olympus, impedes your progress, determined to keep you from the
+top.
+~
+0 0 5
+D0
+The Peak of Olympus.
+~
+~
+0 -1 6467
+D2
+A Mountain Path.
+~
+~
+0 -1 6465
+S
+#6467
+The Peak of Olympus~
+By sheer determination and will power, you have survived the deadly
+frost and scaled the peak of Olympus. Yet your sense of joy was
+quickly abandoned. Before you lies the Titan, Prometheus, chained here
+by Zeus for giving fire to mortals. Tiny bits of ice and frost cling
+to his hair and beard, while the jagged peak of Olympus pierces his skin.
+The snow around him, dyed by the blood of this Titan, is a deep bloody
+crimson. He looks at you, begging you to release him from his eternal
+suffering. Yet, what can a mere mortal do...
+~
+0 0 5
+D2
+A Mountain Path.
+~
+~
+0 -1 6466
+S
+#6468
+The Garden of Gaea~
+You are standing admist a garden of eternal beauty. No harsh winds,
+biting rain or death-bringing frost ever extends its horrendous here.
+Death has no place here. Life, Love and Hope fills every petal, every
+leave and every grain of soil. This is Paradise...
+~
+0 0 2
+D0
+The Garden of Gaea.
+~
+~
+0 -1 6469
+D2
+The Garden of Gaea.
+~
+~
+0 -1 6452
+S
+#6469
+The Garden of Gaea~
+You are standing admist a garden of eternal beauty. No harsh winds,
+biting rain or death-bringing frost ever extends its horrendous here.
+Death has no place here. Life, Love and Hope fills every petal, every
+leave and every grain of soil. This is Paradise...
+~
+0 0 2
+D0
+The Garden of Gaea.
+~
+~
+0 -1 6470
+D2
+The Garden of Gaea.
+~
+~
+0 -1 6468
+S
+#6470
+The Garden of Gaea~
+A weeping willow dips every so delicately into a luminous pond, as
+a gently zephyr blows. Roses in hues of the rainbow perfumes the air.
+Blooming blossoms circle this small clearing by the pond. A soft moss
+like bed of grass contrasts artistically with the colours of the roses
+and other blossoms. The willow hangs like a canopy over this delicate
+bed of grass, providing a comfortable shade.
+~
+0 0 2
+D2
+The Garden of Gaea.
+~
+~
+0 -1 6469
+S
+#0
+
+
+#RESETS
+M 1 6411 1 6405
+M 1 6412 1 6406
+M 1 6414 1 6408
+M 1 6413 1 6409
+M 1 6415 1 6410
+E 1 6411 1 5
+D 0 6410 0 0
+M 1 6425 20 6411
+M 1 6425 20 6411
+M 1 6425 20 6411
+M 1 6425 20 6411
+M 1 6425 20 6415
+M 1 6425 20 6415
+M 1 6408 1 6418
+E 1 6408 1 17
+M 1 6425 20 6420
+M 1 6425 20 6420
+M 1 6425 20 6421
+M 1 6425 20 6421
+M 1 6404 1 6422
+E 1 6404 1 16
+M 1 6418 1 6422
+M 1 6419 1 6422
+M 1 6420 1 6422
+M 1 6410 1 6427
+E 1 6410 1 17
+M 1 6425 20 6427
+M 1 6425 20 6427
+M 1 6401 1 6431
+E 1 6401 1 16
+M 1 6425 20 6431
+M 1 6425 20 6431
+M 1 6425 20 6445
+M 1 6425 20 6445
+M 1 6403 1 6446
+E 1 6403 1 5
+M 1 6416 1 6446
+E 1 6412 1 6
+M 1 6423 1 6446
+M 1 6425 20 6450
+M 1 6425 20 6450
+M 1 6402 1 6451
+E 1 6402 1 6
+M 1 6421 2 6455
+M 1 6422 2 6455
+M 1 6405 1 6456
+E 1 6405 1 16
+M 1 6421 2 6456
+M 1 6422 2 6456
+M 1 6409 1 6464
+E 1 6409 1 16
+M 1 6417 2 6464
+M 1 6417 2 6464
+M 1 6425 20 6466
+M 1 6425 20 6466
+M 1 6424 1 6467
+E 1 6413 1 15
+M 1 6406 1 6470
+E 1 6406 1 2
+M 1 6407 1 6470
+E 1 6407 1 16
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  6401 spec_breath_lightning
+M  6402 spec_breath_acid
+M  6403 spec_breath_any
+M  6404 spec_breath_fire
+M  6405 spec_breath_frost
+M  6406 spec_cast_cleric
+M  6407 spec_breath_fire
+M  6408 spec_breath_lightning
+M  6409 spec_cast_cleric
+M  6410 spec_cast_cleric
+M  6411 spec_cast_mage
+M  6412 spec_cast_mage
+M  6413 spec_cast_mage
+M  6414 spec_cast_mage
+M  6415 spec_cast_mage
+M  6416 spec_cast_cleric
+M  6417 spec_cast_mage
+M  6418 spec_cast_mage
+M  6419 spec_cast_mage
+M  6420 spec_cast_mage
+M  6424 spec_breath_fire
+S
+
+
+#$

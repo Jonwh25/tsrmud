@@ -1,0 +1,2321 @@
+#AREA   The Refuge~
+
+
+
+#AUTHOR Bryelle~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG You hear water dripping gently...~
+
+#FLAGS
+0
+
+#ECONOMY 0 29862260
+
+#MOBILES
+#5700
+Alexandre~
+Alexandre, The healer.~
+Alexandre, The Healer, awaits to heal you.
+~
+Before you stands a young human male with fiery green eyes that pierce
+through in the night. His long brown hair gently drops below his 
+shoulders as he stands proudly awaiting to heal your wounds.
+~
+67 168 0 C
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+23 25 25 20 21 13 13
+0 0 0 0 0
+0 1 0 0 671871 1 0
+0 0 0 0 0 0 0 0
+#5701
+Jezza~
+Jezza the Vampire~
+Jezza, the Vampiric Mage, is here.
+~
+Turning slowly towards you, her golden eyes shine brightly in the 
+light. This undead beauty smiles at your wryly revealing her sharp 
+teeth and the hints of blood in between them. Jezza's ivory skin glows 
+slightly as she looks at you intently. Pray you arent her next meal.
+~
+71 680 0 C
+49 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+25 25 25 25 25 25 25
+0 0 0 0 0
+5 0 0 0 1 0 0
+0 0 0 0 0 0 0 0
+#5702
+Luna~
+Luna, the receptionist.~
+Luna, the receptionist, awaits your choice of room.
+~
+Watching you carefully from behind thick glasses, this old half-troll
+patiently awaits for you to choose a room. Her thick fingers, only an
+indication of the rest of her body that is hidden behind the desk,
+twiddle impatiently on the black book in which she is writing in to.
+Giving a wide toothy smile, Luna shifts her position on her chair which
+squeaks loudly in the silence.
+~
+71 0 -800 C
+48 0 -50 0d0+0 0d0+0
+10000 0
+8 8 2
+19 20 13 13 13 13 13
+0 0 0 0 0
+8 5 0 0 64 64 0
+0 0 0 0 0 0 0 0
+#5703
+Kassandra~
+Kassandra~
+Kassandra awaits to help you with your practices.
+~
+Before you stands a strikingly beautiful woman with fine features.
+She moves elegantly towards you with ruby serpents hissing at the top of 
+her head looking at you as if you were their next meal. This woman
+is definitely not one to take for granted.
+~
+1095 680 0 C
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+20 23 22 23 23 13 24
+0 0 0 0 0
+89 3 0 0 81827 2 0
+0 0 0 0 0 0 0 0
+#5704
+Rymar the Teacher~
+Rymar the Teacher~
+Rymar awaits to teach you languages.
+~
+Looking at this man that clearly has no ears nor eyes visible upon
+his face, you wonder how it is that he will be able to teach you in
+the art of languages.
+~
+1048647 5243576 0 C
+49 0 0 0d0+0 0d0+0
+5000 0
+8 8 1
+22 22 22 22 22 13 22
+0 0 0 0 0
+89 3 0 0 671870 2 0
+0 0 0 0 0 0 0 0
+#5705
+Mitchel the Bartender~
+Mitchel the Bartender~
+Mitchel, the Bartender, awaits here to take your order.
+~
+Looking at what appears to be an old human male but upon closer 
+inspection you realize that this old bartender with darkened eyes and 
+grayish hair, is actually an old elf. Turning towards you, Mitchel's
+large gut rests itself upon the bar as he hands you the menu showing
+the specialties of the day.
+~
+67 168 0 C
+48 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+24 24 24 24 24 24 24
+0 0 0 0 0
+1 3 0 0 3 2 0
+0 0 0 0 0 0 0 0
+#5706
+Kryos~
+A Parrot~
+A beautifully colored Parrot sits here.
+~
+A beautifully colored Parrot sits here squaking for its owner.
+~
+67 0 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#5707
+Tawny~
+Tawny the petshop keeper~
+A little elven girl chasing after a loose vampire bat in here.
+~
+A little elven girl with golden hair and a sweet little smile. Although
+she seems quite young, the sparkle in her eyes make you believe 
+that she is wiser beyond her apparent years. She turns to you sweetly after
+finally catching up with the loose vampire bat she had been chasing
+and asks you for a choice of pets.
+~
+71 1573544 0 C
+48 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 5 0 0 3 2 0
+0 0 0 0 0 0 0 0
+#5708
+Vampire Bat~
+Vampire Bat~
+A Large Vampire Bat awaits here for its owner.
+~
+A large Bat stands here before you and opens its wings for your inpection.
+Its body length at over 8 feet long and an immense wing span. you are
+sure this would be an excellent companion for your travels
+~
+262145 5767680 0 C
+15 0 0 10d6+4 10d4+4
+0 0
+8 8 0
+15 14 15 17 16 13 14
+0 0 0 0 0
+23 4 0 0 1996514925 1996514924 0
+0 0 294913 0 257 2049 0 0
+#5709
+Monstrous Spider~
+A Monstrous Spider~
+A Monstrous Spider crawls around here.
+~
+~
+262145 1049088 0 C
+18 0 0 10d10+6 6d8+4
+0 0
+8 8 0
+17 18 18 18 18 16 15
+0 0 0 0 0
+63 7 0 0 1852795253 1852795252 0
+12 10 1037 2 256 1 0 0
+#5710
+WarHorse~
+a newly created WarHorse~
+Some god abandoned a newly created WarHorse here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#5711
+Coatl~
+a newly created Coatl~
+Some god abandoned a newly created Coatl here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#5712
+Guardian of the Keep~
+a newly created Guardian of the Keep~
+Some god abandoned a newly created Guardian of the Keep here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#5713
+Guardian of the Keep~
+a newly created Guardian of the Keep~
+Some god abandoned a newly created Guardian of the Keep here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#5733
+Key ~
+A demon imp~
+A demon imp hovers nearby...drooling constantly with a fiendish grin.
+~
+This demon is clearly something that you don't want to mess with...
+It appears to be very agile, and very strong.  
+~
+1073741827 40 -1000 S
+50 1 -300 5d10+31550 1d2+2
+10000 155000
+8 8 0
+#0
+
+
+#OBJECTS
+#5700
+Relaxation Key~
+Relaxation Key~
+A key to the room of relaxation has been dropped here~
+~
+18 8192 1
+0 0 0 0
+2 100 10
+E
+A key lays here.~
+A small bronze key belonging to La Luna Hotel.
+~
+#5701
+Privacy Key~
+Privacy Key~
+A key to the room of privacy has been dropped here~
+~
+18 8192 1
+0 0 0 0
+2 100 10
+E
+Silver Privacy Key~
+A silver key belonging to La Luna Hotel.
+~
+#5702
+Lust Key~
+Lust Key~
+A key to the room of lust has been dropped here~
+~
+18 8192 1
+0 0 0 0
+2 100 10
+E
+Metal Lust Key~
+A metal key belonging to La Luna Hotel.
+~
+#5703
+Honeymoon Key~
+Honeymoon Key.~
+A key to the Honeymoon room has been dropped here..~
+~
+18 8192 1
+0 0 0 0
+2 100 10
+E
+Gold Honeymoon Key.~
+A gold key belonging to La Luna Hotel.
+~
+#5706
+Water column~
+A Glowing Water Column~
+A column dripping water stands here before you.~
+~
+25 1 0
+0 0 0 0
+1 0 0
+#5707
+Red Satin Bed~
+A Red Satin Bed~
+A Red Satin Bed sits in the middle of this room invitingly.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+Satin bed~
+A beautiful red satin bed sits here in the center of the room
+looking very invitingly to you. The large heart-shaped pillows gives
+the indication that no sleep will ever be gotten on this bed.
+~
+#5708
+ChinaRose~
+A ChinaRose ---,-'-@~
+A ChinaRose ---,-'-@ lies here glowing brightly.~
+~
+1 1073741824 1
+0 0 0 0
+1 250 25
+E
+ChinaRose~
+Rebellion's ChinaRose glows brightly before you.
+~
+A
+13 3
+A
+19 2
+A
+2 -2
+A
+13 0
+A
+18 3
+#5709
+ChinaRose Light Banner Refuge~
+A ChinaRose @'-,->~
+A ChinaRose @'-,->~
+~
+1 8193 1
+0 0 500 0
+1 500 50
+#5711
+Bowl of Strawberries~
+Bowl of Strawberries~
+A delicious bowl of Strawberries awaits to be eaten.~
+~
+19 8192 1
+2 1 0 0
+1 50 5
+E
+Bowl Strawberries~
+A delicious bowl of freshly picked strawberries lies here.
+~
+#5716
+Brew of Mystics~
+Brew of the Mystics~
+A glowing brew sits here...~
+~
+10 8193 1
+25 89 221 88
+2 1500 150
+E
+Mystic Brew~
+A brew specially made by the mystics glows brightly.
+~
+#5717
+Bowl of Moss~
+Bowl of Moss~
+A bowl of "yummy" moss sits here.~
+~
+26 8192 1
+15 15 -1 -1
+1 500 50
+E
+Moss Bowl~
+A bowl of green, slimy moss looks real disgusting to the eyes.
+~
+#5719
+Limestone Shield~
+Rebellion's Limestone Shield~
+A shield made of limestone lies here awaiting its owner~
+~
+9 532481 512
+-10 -10 0 0
+15 15000 1500
+E
+Limestone Shield~
+A shield intricately made of pure limestone lays here.
+~
+#5721
+Fury Shield~
+Rebellion's Shield of Fury~
+A shield filled with fury sits here.~
+~
+9 8195 513
+0 0 0 0
+15 27000 2700
+E
+Fury Shield~
+A Silver shield belonging to the Rebellion, sits here eminating 
+waves of rage and fury.
+~
+A
+18 5
+A
+19 3
+A
+1 -2
+A
+17 -15
+A
+12 100
+A
+13 -50
+A
+14 -30
+A
+24 -10
+A
+29 256
+A
+27 2
+#5722
+Beer Barrel~
+A Large Beer Barrel~
+A barrel full of the finest beer sits here.~
+~
+17 8192 1
+10 10 1 0
+5 150 10
+E
+Beer Barrel~
+A barrel full of Rebellion's finest beer sits here.
+~
+#5723
+Blood Vial~
+Vial of Blood~
+A vial essential for vampires lies here waiting to be drank.~
+~
+27 8193 1
+5 5 0 0
+2 300 20
+E
+Blood Vial~
+A vial full of the lifeforce essential to vampires lies here awaiting
+to be drank by the undead.
+~
+#5724
+Hot Fudge~
+Hot Fudge~
+A bowl of delicious hot fudge sits here.~
+~
+19 8192 1
+6 6 0 0
+1 75 10
+E
+Hot Fudge~
+Dark and delicious hot fudge, just made at Mitchel's tavern.
+~
+#5725
+Wrath Shield~
+Rebellion's Shield of Wrath~
+A golden shield seeks to take its revenge.~
+~
+9 8193 513
+0 0 0 0
+15 40000 4000
+E
+Wrath Shield~
+A golden shield with a black rose and a white rose intertwined in front
+of an image of a powerful dragon, glows brightly eminating an aura
+of revenge.
+~
+E
+Wrath Shield~
+~
+A
+18 6
+A
+19 4
+A
+29 2
+A
+27 1
+A
+13 100
+A
+12 -75
+A
+5 -2
+A
+24 -20
+A
+23 -10
+A
+14 -50
+A
+9 -2
+A
+29 8
+A
+27 32
+A
+17 -20
+#5726
+Copper Coffer~
+Copper Coffer~
+A copper coffer held by the image of Bryelle.~
+~
+15 3 0
+10 1 0 0
+1 0 0
+E
+Copper Coffer~
+A shiny Copper Coffer help in the arms of the Goddess, Bryelle.
+~
+#5727
+Gold Coins~
+A Shiny Pile of Gold Coins~
+A Shiny Pile of Gold Coins.~
+~
+20 1 1
+5000 0 0 0
+3 0 0
+E
+Gold Coins~
+A Shiny Pile of Gold Coins.
+~
+#5728
+Coatl Feathers Refuge~
+Coatl Feathers~
+Some feathers of the Coatl lie here glowing~
+~
+9 8193 65536
+10 10 0 0
+1 2000 70
+E
+Coatl Feathers~
+A pair of glowing Coatl feathers belonging to the Rebellion lies here.
+~
+#5729
+Silken Gown~
+Silken Gown~
+An almost transparent silken gown lies here.~
+~
+9 1073741825 9
+150 150 0 0
+1 0 0
+A
+18 20
+A
+19 20
+A
+24 -100
+A
+23 -100
+A
+22 -100
+A
+21 -100
+A
+20 -100
+A
+28 1
+A
+28 2
+A
+28 256
+A
+28 4
+A
+28 8
+A
+28 16
+A
+28 32
+A
+28 64
+A
+28 128
+A
+28 256
+A
+28 1024
+A
+28 4096
+A
+28 8192
+A
+28 1048576
+A
+28 2097152
+A
+17 -100
+A
+18 80
+A
+19 80
+A
+17 -100
+#5730
+2nd Key~
+Commander's Ring~
+A Glowing ring belonging to Rebellion's Commander~
+~
+18 4225 3
+0 0 0 0
+1 0 0
+E
+key~
+A glowing key belonging to a commander in Rebellion.
+~
+A
+18 3
+A
+19 3
+#5731
+Robe of Rebellion~
+White Robe~
+A long flowing robe of the Rebellion~
+~
+9 1 1025
+0 0 0 0
+1 0 0
+#5732
+Rebellion Board~
+The Rebellion Board.~
+The Rebellion Board stands here.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#5733
+1st Key~
+A glowing Key~
+A glowing key belonging to the 2nd in command.~
+~
+18 1073746049 3
+1 0 0 0
+1 0 0
+E
+key~
+A glowing key belonging to a commander in Rebellion.
+~
+A
+18 3
+A
+19 3
+#5734
+Ring Rebellion~
+Ring of Rebellion~
+A shining silver and gold ring lays here.~
+~
+18 4355 3
+1 0 0 0
+1 0 0
+#5735
+Recall potion Rebellion~
+A Recall Potion~
+A potion of recall~
+~
+2 1073750017 16385
+30 42 -1 -1
+1 50 5
+#5736
+Storage Chest~
+A storage chest~
+A storage chest for storing weaponry.~
+~
+15 1 0
+10000 3 0 0
+1 0 0
+#5737
+Storage Chest Armor~
+A storage chest~
+A storage chest for storing armory.~
+~
+15 1 0
+10000 3 0 0
+1 0 0
+#5738
+Enchanted Sword Refuge~
+An Enchanted Sword~
+An Enchanted Sword lies here.~
+~
+5 8323 24577
+0 10 1 3
+5 5000 500
+#5739
+Glowing Dagger Refuge~
+A Glowing Dagger~
+A Glowing Dagger lies here~
+~
+5 8323 24577
+0 10 1 2
+5 5000 500
+#5740
+Breastplate Refuge~
+Golden BreastPlate~
+Golden BreastPlate of the Rebellion~
+~
+9 8579 8 12
+-10 -10 0 0
+1 10000 1000
+#5741
+Note Refuge~
+A note~
+A note for use in writting~
+~
+47 0 16385
+0 0 0 0
+1 200 20
+#5742
+Pen Refuge~
+A Silver Pen~
+A beautifully crafted silver pen.~
+~
+21 0 16385
+15 15 0 0
+1 300 30
+#0
+
+
+#ROOMS
+#5700
+The Grotto~
+The limestone structure of this large cliff that stands before you,
+is interrupted by a gentle rush of water coming out of its cave opening.
+Sneaking a slight look inside of the cave, you are able to catch a
+a glimmer of light coming from within, yet instincts warn you to be wary
+of what lies inside and the fear that you might never return.
+~
+0 1077158912 5
+D0
+Entrance into the cave.
+~
+~
+0 -1 5701
+S
+#5701
+Base Chamber~
+Looking around, you notice that the glimpses of light that reflect upon
+the walls and the massive floor-to-ceiling centre column, are coming from
+large rose-shaped torches that intricately line the walls of this chamber.
+Observing the water around the column dripping down slowly from the
+ceiling, you hear a mixture of echoing noises coming from around you.
+From here you see what seems to be a stone stairwell leading you upstairs
+to another part of the cave and four other rooms in cardinal directions.
+~
+0 1076929536 1
+D0
+Gate to the Assembly Hall.
+~
+gate~
+1 -1 5703
+D1
+Opening to the Library.
+~
+~
+0 -1 5704
+D2
+~
+~
+0 -1 5710
+D3
+Exit to War room.
+~
+~
+0 -1 5702
+D4
+~
+~
+0 -1 5724
+S
+#5702
+Room of Battle~
+Echos of weapons clanging against heavily suited armor ring through your
+ears as you enter this section of the cave. Knowing that within a family
+there will be many disputes and confrontations, the members of 
+the Rebellion built this area to help relieve the tensions within the clan.
+Weapons and armor of different shapes sizes line the stone walls, while
+the stench of sweat coming from the previous fighters, still fills the air.
+~
+0 1076928512 1
+D1
+~
+~
+0 -1 5701
+S
+#5703
+Assembly Hall~
+The pillarlike structures of stalactites and stalagmites that beautifully
+adorn this grand room, delicately reflect the light coming from bronze 
+torches that garnish the corners of this chamber. Between the clusters of
+structures, large metal tables and chairs have been placed around the room
+to provide a place for rest while the members of the Rebellion discuss
+current events that happen around the sectors.
+~
+0 1076929536 1
+D2
+Gates to base chamber.
+~
+gate~
+1 -1 5701
+S
+#5704
+Room of Knowledge~
+Out of nowhere, you hear a faint sound coming from stack of books
+in this room. "Knowledge is the TRUE POWER" a gentle voice says in your
+mind. This room, although small, shall reveal to the seeking heart
+the information they search for within the pages of Rebellion's JOURNAL
+of rules. Among with these journals, lay TOMES that tell how the Rebellion
+came to be.
+~
+0 1076929536 1
+D3
+~
+~
+0 -1 5701
+E
+journal~
+Rules of The `8Rebellion`6.
+ 
+1, Respect each other, you are part of a brotherhood. Any disputes
+   within the clan, must be settled immediately, either by fashion of
+   consentual battle or a dispute with Bryelle as a mediator.
+ 
+2. Hold your Brothers and Sisters of the clan above all else.
+   Any act commited against your fellow clan member must be avenged.
+   The more we stick together, the more powerful we shall become.
+ 
+3. Always uphold the balance of the chaos and goodness we have achieved.
+   Unlike beliefs, Chaos is neither good or evil. Chaos is corrupted
+   by those who are corrupt and evil. Chaos is the state of confusion
+   and disorder, in which we must use that state to overpower our enemies.
+ 
+4. Expect the unexpected. Do not trust those outside the clan. 
+   Those we are allied with we trust, yet always expect a change in the
+   tide. Only your brethren are truly those that you can trust to lay
+   their lives for you in battle. As should be within any brotherhood.
+ 
+...(read Journal2 to continue the Rules)...
+~
+E
+journal2~
+Rules of The `8Rebellion`6.
+ 
+5. Honor thy self and thy brethren. Any lack of respect within this clan
+   will not be tolerated. Acts such as this will cause the members of
+   the Rebellion to retaliate against you, and may end up as dismissal
+   from the sector.
+ 
+6. All opinions will be respected. Any ideas regarding plans for the
+   clan or the area itself shall be noted to Bryelle.
+ 
+7. Act with Honor in the fields, unless you have been wronged or a member
+   has been wronged. If an enemy who has assaulted you or your brethren
+   is being kept in safety by an ally, good aligned person, or another
+   clan member, at first ask them to release the enemy so you may deal
+   with them properly. If the person should not move, you must still
+   go after your enemy. Attack them both. For the person is betraying you
+   as well.
+ 
+8. Above all keep your faith in the Rebellion. Always speak highly of your 
+   clan and its members. Entrust that we shall always guide you to your
+   well-being. Help each other as much as possible so that others may
+   become as strong as well as you. In the bond we have, our strength
+   shall grow.
+~
+E
+tomes~
+"Her training was complete, and her path had been chosen.
+She returned to the world that she had been raised to conquer,
+and saw it with the eyes of a healer. She stood in defiance
+of everything that her father stood for, and would not rest
+until the world was purged of his presence, and all that he
+had wrought. She would use his own teachings against him, and
+ensure his demise. Lowering her head, she melted into the
+shadows, sweeping over the land. She looked down upon it and
+saw that were others that would follow, others that would turn
+from their conqueror. They would rally under her banner, and
+be forged into a new army. Thus did Bryelle begin her rebellion
+against Chaos, striking at Beowolf's forces to this very day..",
+a voice booms in your head as you open the tome that lays on 
+table in this small room, " and there was when her journey began...
+Bryelle wandered the land looking at all the destruction that Beowolf's
+army had brought upon this world and was saddened by such a sight.
+In each town that she visited, always following in her father's path
+of destruction, watching and waiting, she spoke with the people never
+revealing who or what she truly was. Bryelle listened to their anger
+and their pain, feeling their suffering as well. Finally when learning
+of their desire to rid the world of such an evil, Bryelle revealed
+herself to the people along with the knowledge of her army of Rebellion
+and thus she went on to each town gathering those who would stand
+by her side against a common foe."
+~
+S
+#5705
+Room Behind the Image~
+Pulling the image away from the wall you have discovered a secret
+room behind it. The room dark and dreary. makes you wonder what it 
+is here for...
+~
+0 1077421061 1
+D1
+~
+image~
+1035 -1 5735
+D5
+~
+floor~
+11 -1 5765
+E
+down floor~
+A Rock-Sollid floor glimmers here softly from the embedded jewels 
+that are within.
+~
+S
+#5706
+Bedroom~
+A deep purple radiance fills this room, the glow coming from within
+a single huge, sculpted amethyst dangling from the ceiling.  The
+dreamlike atmosphere it creates accentuates the other furnishings, all
+glittering with deep violet amethyst inlay.  A huge bed, covered with
+wine-colored satin dominates the center of the thickly carpeted room,
+directly beneath the magical crystal lamp.  The air is heady with the
+scent of violets from purple-stained platinum censers in the four
+corners.  You feel strangely relaxed and at peace here...
+~
+0 1076896768 1
+D3
+~
+door west~
+1 -1 5737
+S
+#5707
+PROTO~
+Puzzled by the sudden change of course in this tunnel, you fail to notice
+the louder echoing noises of your movements compared to that of the 
+previous tunnels. The light up ahead seems to urge you on.
+~
+0 1076929797 1 0 0 2
+S
+#5708
+PROTO~
+Just another damp tunnel in this underground city.
+~
+0 1076929797 1 0 0 2
+S
+#5709
+PROTO~
+Echoing sounds of the movements of your feet, that hit the small puddles 
+of water formed at the bottom of this tunnel, ring loudly in your ears as
+you try to move cautiously towards the faint light that is up ahead.
+~
+0 1076929797 1 0 0 2
+S
+#5710
+Tunnel Entrance~
+Only fragments of light, coming from the room north, illuminate
+this otherwise dark and dreary tunnel entrance. Feeling your way around,
+you can sense the dampness of the moss filled and water drenched walls.
+Besides the entrance you arrived from, all there is to this obscure and 
+desolate tunnel are the two entries to the northwest and northeast.
+ 
+~
+0 1076929537 1 0 0 2
+D0
+~
+~
+0 -1 5701
+S
+#5711
+PROTO~
+Bronze torches on the walls sit on the walls of this large area just
+before the tunnel, awaiting to be lit. The walls damp with the moisture
+that fills the air and fills in your lungs relentlessly. Up ahead
+a flicker of light catches your attention.
+~
+0 1076929797 1 0 0 2
+S
+#5712
+PROTO~
+The entrance to this tunnel closes in slightly around you, the stalactites
+hanging from the ceiling gently drape down and almost touch your head.
+Up ahead you can see a dim light.
+~
+0 1076929797 1 0 0 2
+S
+#5713
+PROTO~
+Puzzling... the cave seems to have narrowed even further and has changed
+direction. The light you had seen before has become brighter and seems 
+to come from just ahead.
+~
+0 1076929797 1 0 0 2
+S
+#5714
+A Room in Rebellion~
+This section of the mountain seems strangely carved out. Many of the
+stalagmites and stalagtites have been removed from this room, save for one
+large one in the corner of the room. The furnishings in this room are
+rather simple, nothing too lavish. A simple bed in the corner opposite the
+stalagmite that has not been slept in for ages. Tomes of battle tactics are
+strewn about on the floor and you see a rack of finely crafted weapons next
+to the bed. A lone chest is at the foot of the bed, keeping a modest
+wardrobe. In the floor, there is a single carving: "There is nothing
+truer than my blade save my word." To the North, you see a small hole
+carved out, leading to a more well-lit area.
+~
+0 1076896768 1
+D0
+~
+~
+0 -1 5715
+D4
+~
+door~
+1071 5730 5757
+S
+#5715
+The Study.~
+This room seems to be more of a study, bookshelves lining the walls, filled
+with the wisdom and knowledge passed down by his great mentor, Miirad the
+Sage. You see a marvelous desk, crafted out of the finest mithril, also a
+gift from his mentor. All on the desk are strewn papers, many discussing
+the upcoming stuggles and plans for the Rebellion. A single inviting chair
+sits in the middle of the room, a perfect place to rest from the wearies of
+the struggle. On the far wall is a fireplace which is almost always going.
+~
+0 1076896772 1
+D0
+~
+fireplace~
+11 -1 5765
+D2
+~
+~
+0 -1 5714
+E
+fireplace~
+A roaring fireplace warms up this quiet study.
+~
+S
+#5716
+PROTO~
+WATCH OUT!!
+The ledge on this looking point is very narrow and slippery, Taking
+chances is not an option. The long drop below you ends in a large
+cluster of stalagmites that can easily tear through the flesh of any
+being foolish enough to falter in their footing. Looking around, you notice 
+the light you saw in the tunnels coming from an opening on the other side
+of this ledge to the north. Maybe you can reach it...
+~
+0 1074832389 1 30 5717 0
+S
+#5717
+PROTO~
+Now you gone and done it!! Trying to reach for that opening on the 
+other side of the ledge, you have fallen over!!
+~
+0 1091838981 1
+S
+#5718
+PROTO~
+~
+0 1091838981 1
+S
+#5719
+PROTO~
+~
+0 1091838981 1
+S
+#5720
+PROTO~
+~
+0 1091838981 1
+S
+#5721
+PROTO~
+~
+0 1091838981 1
+S
+#5722
+PROTO~
+~
+0 1091838981 1
+S
+#5723
+PROTO~
+Great!! Falling at the speed you were going and hitting the cluster
+of stalagmites, you have managed to get one of the larger pillars  
+inbedded within your chest... Now you are dead!!
+~
+0 1075061766 1
+S
+#5724
+il' Centro~
+The cavern glows with an ethereal light from the solid gold torches
+that rise up from the floor to stand well above you. The centre column
+in the middle of this room shimmers slightly from the light that reflects
+from the dripping water flowing down from the lofty, stalactite-filled 
+ceiling. People walking around you look at you with the greatest
+of compassion and understanding, for you are now part of their family.
+The smooth floor below you gently echos your steps, while you examine
+the entryways in the area around you. In exaustion from your long climb
+the dripping water that falls down the column invites you to drink in
+its nautral refreshment. A large crossroads SIGN stand before you
+showing the way to your next destination.
+~
+0 1076929536 1
+D0
+~
+~
+0 -1 5738
+D1
+~
+~
+0 -1 5729
+D2
+~
+~
+0 -1 5730
+D3
+~
+~
+0 -1 5733
+D4
+~
+door up~
+3 -1 5749
+D5
+~
+~
+0 -1 5701
+E
+sign~
+A large crossroads sign reads:
+ 
+North to :
+             Jezza's Magic and Armor shop.
+             Tawny's Pet Emporium.
+             Mitchel's Bar and Lounge.
+ 
+South to :
+             Rebellion's Portals.
+ 
+ West to :
+             Rebellion's Donation Rooms.
+ 
+ East to :
+             Alexandre's Healing Springs.
+             Kassandra's Practice Hall.
+             Rymar's Language Training.
+             La Luna Hotel.
+~
+S
+#5725
+Healing Springs~
+Before you in a large opening on the floor is Alexandre's Springs.
+The cleric, Alexandre, is well known for healing many wounds and ailments
+a traveler may have with the power of the thermal springs that arise 
+in this area. Four bronze pedestals with torches flaming on top, surround
+the steaming and bubbling water coming from the springs that invite
+you to relax in its heated theraputic waters.
+~
+0 1076929536 1
+D0
+~
+~
+0 -1 5726
+D1
+~
+~
+0 -1 5727
+D2
+~
+~
+0 -1 5728
+D3
+~
+~
+0 -1 5729
+E
+sign~
+~
+S
+#5726
+Rymar's Language Training~
+The light in this area is very low and to the untrained eye it is very
+difficult to walk around without stumbling on the cave floor. In the very
+corner of your eye, you spot an older gentleman sitting patiently in the
+darkness. "Come closer my child, let me give you wisdom in the art 
+of languages needed to survive." says the ancient man with a low voice.
+In approaching him, you wonder how it was that the man knew of your
+entrance into the cave, for Rymar has no eyes in which to see with and
+no ears from which to hear from.
+~
+0 1076929541 1
+D2
+~
+~
+0 -1 5725
+D8
+~
+~
+0 -1 5727
+D9
+~
+~
+0 -1 5729
+S
+#5727
+La Luna Hotel.~
+A sweet, old woman sits behind a large, oak reception desk writing in the
+hotel's logs of it guests. The abode does not seem to be a very large
+one but the furnishings around this reception area tell you that they spared
+no expense in making this litte inn most comfortable and enjoyable
+as was possible. The woman, Luna, looks up at you and points at a plush
+burgundy chair sitting in the corner of the room, so you may sit
+comfortably while you decide which room you wish to spend the night in.
+Looking around, you see a sign hanging from above the reception desk.
+~
+0 1076929536 1
+D3
+~
+~
+0 -1 5725
+D4
+~
+~
+0 -1 5744
+D7
+~
+~
+0 -1 5726
+D9
+~
+~
+0 -1 5728
+E
+sign~
+The sign reads:
+
+Type 'List' to see the things available for sale.
+ 
+Type 'Buy <item name>' to purchase the item at listed price.
+ 
+Type 'Sell <item name>' to see if Luna will purchase item from you.
+~
+S
+#5728
+Kassandra's Practice Hall.~
+Sitting within a circle on the floor, a beautiful woman chants softly in
+the darkness. Her red flaming hair moves unnaturally in the air, yet there
+are no gusts of wind entering the area. Walking closer towards the circle
+in which she sits in, the light finally reflects upon her and you notice
+that what you thought was Kassandra's red hair are actually ruby serpents
+coming out from the top of her head. Slowly she lifts her eyes to face
+you and grins evilly. "What do you wish to practice this eve?" she says
+to you with a wicked tone as she stands up to meet your gaze face to face.
+~
+0 1076929537 1
+D0
+~
+~
+0 -1 5725
+D6
+~
+~
+0 -1 5727
+D7
+~
+~
+0 -1 5729
+S
+#5729
+Eastern Cavern Tunnel.~
+Rose-shaped torches hanging from this tunnel, illuminate the path just ahead.
+The walls of this passageway, moss-filled and damp with moisture,  reflects
+the golden-colored flame coming from the torches that are lined up
+on boths sides of this opening.
+~
+0 1076929793 1 0 0 2
+D1
+~
+~
+0 -1 5725
+D3
+~
+~
+0 -1 5724
+D6
+~
+~
+0 -1 5726
+D8
+~
+~
+0 -1 5728
+S
+#5730
+Tunnel to the Portals.~
+An Eerie glow surrounds your body as you step into this tunnel. The walls
+seem to be getting closer to you and bright flashes of light appear
+in minute intervals to the south.
+~
+0 1076929793 1 0 0 2
+D0
+~
+~
+0 -1 5724
+D2
+~
+~
+0 -1 5731
+D5
+~
+door~
+11 -1 5706
+S
+#5731
+Rebellion's Portals~
+Large openings on the walls glow brightly phasing in and out of exsistance.
+In this room, you can use the portals to head to different locations of 
+the land. A glowing SIGN on the far wall directs you to the appropriate
+portal that you wish to take..
+~
+0 1076929536 1
+D0
+~
+~
+0 -1 5730
+D1
+~
+~
+0 -1 400
+D2
+~
+~
+0 -1 9506
+D3
+~
+~
+0 -1 6008
+D8
+~
+~
+0 -1 8768
+D9
+~
+~
+0 -1 21000
+E
+sign~
+Portals that are set (may change).
+If you wish to suggest an area note to me with the name of the area
+that you wish to see a portal for, remember only 5 portals allowed
+so think hard of what you want. -Bryelle-
+ 
+West to Llangir
+SW to DarkHaven
+South to New Thalos
+SE to City of Shadows
+East to Malathar
+~
+S
+#5732
+EastRoad End.~
+Coming to the end of this road, you see that the road seems to stop
+at the end to an entrace of a quaint little cabin. You would open the
+door to search inside but some magical force keeps you from coming near it.
+Above you, the branches gently sway in the soft breeze that passes by
+and runs through your hair. This forest is truly quite a magical sight
+to behold.
+~
+0 1076929540 1
+D1
+~
+door west~
+1071 5733 5737
+D3
+~
+~
+0 -1 5756
+S
+#5733
+Tunnel to Donation Chambers.~
+Two rows of torches line the walls of this tunnel that leads to the 
+chambers in the city where its members may leave items for others
+to use.
+~
+0 1076929792 1 0 0 2
+D1
+~
+~
+0 -1 5724
+D7
+~
+~
+0 -1 5736
+D9
+~
+~
+0 -1 5734
+S
+#5734
+Donation Rooms~
+These chambers of the cave are used solely for helping your fellow
+brothers and sisters of the Rebellion strive. The DRAPERIES that line
+these walls tell the stories of how the clan came to be and how it
+got to be where it is. Leave all unwanted equipment or items here so
+that others may be able to use them in their battles.
+~
+0 1076913152 1
+D6
+~
+~
+0 -1 5733
+D7
+~
+~
+0 -1 5735
+E
+draperies drapery~
+Examining the walls you notice three draperies upon them. The first
+drapery shows of Bryelle's fleeing Beowolf's army and being aided by
+Variant in her escape through the Wildgate. The second drapery shows
+Bryelle's return through the Wildgate after being instructed in psionics
+and looking upon the land that she had left. Final drapery depicts
+the image of Bryelle gathering people to join her in battling the army
+of Beowolf after one of his rampages upon a small town.
+~
+S
+#5735
+Donation Rooms~
+This centre donation room, unlike the others, is lined with colorful
+limestone walls and two ivory colums that stand beside a drapery 
+that was made in the likeness of the Goddess of Rebellion, Bryelle.
+The image of her is so real, that it almost looks like she is inviting
+you to search the copper coffer she holds in her hands.
+~
+0 1076913152 1
+D3
+A beautiful painting of Bryelle stands before you.
+~
+image~
+1035 -1 5705
+D6
+~
+~
+0 -1 5736
+D8
+~
+~
+0 -1 5734
+E
+image drapery bryelle~
+Before you is a beautiful painting of the goddess Bryelle. Her dark
+brown eyes pierce through to your heart as it feels that she looks 
+directly at you. Her long brown curly hair gently falls around her 
+shoulders like a gentle cascade. In her hands she holds a copper coffer
+which looks all too real.
+~
+S
+#5736
+Donation Rooms~
+These chambers of the cave are used solely for helping your fellow
+brothers and sisters of the Rebellion strive. The DRAPERIES that line
+these walls tell the stories of how the clan came to be and how it
+got to be where it is. Leave all unwanted equipment or items here so
+that others may be able to use them in their battles.
+~
+0 1076913152 1
+D8
+~
+~
+0 -1 5733
+D9
+~
+~
+0 -1 5735
+E
+drapery draperies~
+Examining the walls you notice three draperies upon them. The first
+drapery shows of Bryelle's fleeing Beowolf's army and being aided by
+Variant in her escape through the Wildgate. The second drapery shows
+Bryelle's return through the Wildgate after being instructed in psionics
+and looking upon the land that she had left. Final drapery depicts
+the image of Bryelle gathering people to join her in battling the army
+of Beowolf after one of his rampages upon a small town.
+~
+S
+#5737
+Trophy Room~
+You find yourself in a dim room lit only by the flickering flames of
+brass oil lamps. In the wan glow, you notice that the wall and floors
+are covered with furs and hides of various strange, exotic creatures. 
+This must be a trophy room.  As your eyes further adjust to the dimness,
+you see that there are recesses built into the walls.  In each cubicle
+is a block of crystal containing a dark, asymmetrical mass....you
+realize with growing apprehension that these masses are hearts.  Human
+and humanoid hearts...dozens of them, each with a brass plaque bearing a
+name.  And one cubicle stands empty, the brass plaque gleaming blankly. 
+Whose heart is it for? To the east of here you see a large wooden door.
+~
+0 1076896768 1
+D0
+~
+displacer beast~
+11 -1 5765
+D1
+~
+door west~
+3 -1 5706
+D3
+~
+door west~
+1071 5733 5732
+E
+wall~
+Looking at the furthest wall you see many hides and furs of exotic
+creatures from all over these realms.
+~
+E
+furs hides~
+Closely examining the furs and hides on this wall, you realize that one
+of these hides resembles a large panther with suckered tentacles.
+This must be the skin of the dreaded displacer beast.
+~
+E
+displacer beast~
+The hide of this displacer beast is really one of the creatures that
+stands out the most.
+~
+S
+#5738
+Market Circle~
+The Market Circle of Rebellion is one of its biggest attractions.
+In this area you can acquire for a price, some of the best magical 
+potions and armor at Jezza's shop to the NorthWest. Buy a companion
+for your many travels to the NorthEast at Tawny's PetShop. You can visit
+the famous ruined altar and learn about it in the magical book written
+by Alexandre, the cleric, to the North. Further North, beyond the altar
+you can purchase food and drink specialties made at Mitchel's Tavern.
+~
+0 1076929536 1
+D0
+~
+~
+0 -1 5743
+D2
+~
+~
+0 -1 5724
+D6
+~
+~
+0 -1 5741
+D7
+~
+~
+0 -1 5739
+S
+#5739
+Jezza's Magic and Armor Shop~
+This small shop caters to the different potions and armor needed for
+your travels. Jezza, the vampiric mage, grins at you wryly and offers
+to help you in your selections of proper potions and their effects by
+pointing at the small sign that hangs above you.
+~
+0 1076929540 1
+D1
+~
+~
+0 -1 5743
+D6
+~
+~
+0 -1 5740
+D8
+~
+~
+0 -1 5738
+E
+sign~
+Potions available:
+ 
+Potion of the white rose: Sanctuary and Armor
+Potion of the Black Rose: Bless, Shield, and Stone Skin
+Potion of the shadows: Dragon Skin, Eldritch Sphere, and Kindred Strength
+Coatl potion: Pass Door, Fly
+ 
+Pills available:
+ 
+Cure Pill: Cure Blindness and Poison, remove curse
+Insight Pill: Detect: Hidden, invis, and Magic
+Magic Pill: Restore Mana
+ 
+Armor Available:
+ 
+ChinaRose
+~
+S
+#5740
+Mitchel's Lounge~
+Walking into this dark, smoke-filled room, eyes turn towards you
+for a moment as you enter this tavern. Sitting yourself upon a stool
+in front of the bar, a large man with darkened eyes and gray hair stares
+at you for a moment before handing you a menu of the specialties in this
+lounge. Leaving you for a moment to glance at the selections, Mitchel
+turns his back on you and starts to prepare the bar's most requested
+selection, Bat Guano.
+~
+0 1076929536 1
+D2
+~
+~
+0 -1 5743
+D8
+~
+~
+0 -1 5741
+D9
+~
+~
+0 -1 5739
+S
+#5741
+Tawny's Pet Shop~
+A little elven girl runs around the room trying to catch the large vampire
+bat that is flying loose. Finally seeing you standing there patiently,
+Tawny runs behind the desk that is centered within the cavern and smiles
+widely at you. Without any words, Tawny points at a piece of parchment
+that lays on her desk and awaits your choice of companion for your travels.
+~
+0 1076933632 1
+D3
+~
+~
+0 -1 5743
+D7
+~
+~
+0 -1 5740
+D9
+~
+~
+0 -1 5738
+S
+#5742
+Petstore Backroom~
+Just your luck... Dont know how you got in here.. But the petstore
+backroom is a sealed area where the pets are kept. Better scream your lungs
+out for a GOD.. cause there is NO WAY OUT!
+~
+0 1076896772 1
+S
+#5743
+The Ruined Altar.~
+Walking in the first thing you notice within this room, is that it was
+once fashioned in the form of a temple. The stone pedestals, that 
+adorned this room, were destroyed by what seems to be a great force
+or being. The hand-made statue that once stood proudly in the centre 
+of this room, has been smashed to pieces. As far as you can tell, it was
+fashioned in the likeness of Bryelle, Goddess of Rebellion. All that 
+stands now is a glowing BOOK that has been placed in the area where
+the sculpture previously was.
+~
+0 1076929540 1
+D0
+~
+~
+0 -1 5740
+D1
+~
+~
+0 -1 5741
+D2
+~
+~
+0 -1 5738
+D3
+~
+~
+0 -1 5739
+E
+book~
+Opening the pages of this book, you begin to read it contents and 
+are surprised that the words written start to ring in your ears as
+that of a gentle and wise male voice.
+ 
+"I write this to warn you of and give honor to the Goddess of Rebellion,
+Bryelle." The voice of Alexandre the cleric rings in your ears as you 
+continue to read on. "There came a time. when this glorious city was
+young and its people were overjoyed with gratitude towards Bryelle
+for making such a place, a place they can call their home. The people
+thought that making an Altar, a place to worship their Goddess, would please
+the eyes and show Bryelle their gratitude for what she had done for them."
+Alexandre's voice sighs heavily and continues, " Day and night they worked
+and slaved over making such a temple to honor their Goddess, their savior.
+One day when all of Rebellion gathered around to admire the altar and
+worship the statue of Bryelle that they had so intricately made, a surge
+of lightning came down upon the sculpture and tore it to bits. Instead
+stood Bryelle and she addressed her people." In your ears, the voice of
+Bryelle booms loudly and speaks sternly, "Do not make unto me these temples
+to worship of me, for I am not here to be humbled upon. I am but a 
+guidance to thee. Treat me as you will thy brother for that is what I am.
+For without its people, Rebellion is nothing , as am I nothing without you."
+The voice of Alexandre speaks once more before the book closes, " With 
+those words, Bryelle disappeared and as a reminder of her love for her people,
+her Brothers and Sisters, this altar stands here, ruined, forevermore..."
+~
+S
+#5744
+Hotel Hall,~
+This centre hall, adorned with pictures of beautiful landscapes
+around the world, leads to the four room of this quaint hotel.
+The north door leads to the relaxation room, where you can lay down and
+take you worries away from a long day. The second room to the west 
+is the privacy room. Just sit back and relax with no worries of anyone
+coming in to interrupt you. To the east is the room of lust, where lovers
+can come in and fullfil every fantasy that they desire. The finely 
+furnished suite to the south, provides every single necessity that a couple
+who have just bonded themselves in matrimony could ever need.
+If you wish for a room, speak to Luna, the receptionist, and she will 
+provide you with the appropriate key of your choice.
+~
+0 1076929537 1
+D0
+~
+door~
+1031 5700 5746
+D1
+~
+door~
+1025 5702 5747
+D2
+~
+door~
+1031 5703 5748
+D3
+~
+door~
+1031 5701 5745
+D5
+~
+~
+0 -1 5727
+S
+#5745
+Privacy Room~
+Expecting a small quaint room, you are surprised to see the grandeur
+of this suite. A large, black-leather sofa welcomes you to sit and enjoy
+the bronze-plated, wood-burning, fireplace that sits in the center
+of this room. French double-door windows, open to the view over the 
+center of the clan area, where you can enjoy the relaxing sounds of 
+the water flowing down the column in the cavern.
+~
+0 1076923392 1
+D1
+~
+door~
+1031 5701 5744
+S
+#5746
+Room of Relaxation~
+The lights are dim, soft music plays in the backround as you enter this
+room. A large feather matress sits on the floor covered by a green cotton
+comforter. Walking in, you hear the gentle crackling of the fireplace 
+that is in the far side of the room. Awaiting in the corner is a
+porcelain, bubble-filled tub awaiting you to enter its warmth.
+~
+0 1076921856 1
+D2
+~
+door~
+1031 5700 5744
+S
+#5747
+Room of Passion and Lust.~
+The scent of wild flowers fill your nostrils as you inspect the surroundings.
+Your toes tingle at the touch of the fluffy,black carpeting that covers
+the area of this suite. Upon a black marble dresser in the corner,
+you notice certain items that cater to the pleasures of the body.
+Within those items, a bottle of strawberry scented hot-oil, a couple
+of red and black feathers, a large bucket of ice, and a variety of
+fruits. The red satin bed that sits in the middle of this room looks
+very comfortable, but you doubt anyone that rents this particular
+room will be getting any sleep.
+~
+0 1076921856 1
+D3
+~
+door~
+1031 5702 5744
+E
+oil~
+A small bottle of Strawberry scented hot-oil sits here waiting to be used.
+~
+E
+ice~
+A silver bucket full of ice sits here.
+~
+E
+feathers~
+A pair of red and black feathers sit here waiting to tickle you.
+~
+E
+fruits~
+A large basket full of Bananas, Grapes, Strawberries, and Apples sits here
+awaiting to be eaten.
+~
+S
+#5748
+Honeymoon Suite~
+Walking inside you find yourself surprised at the furnishings of this 
+suite. Expecting a beautiful hotel suite with white, plush surroundings
+and a magnificent view, you are in awe that this room looks more like
+a cabin in the woods. A large wood-burning fireplace with a bear-skin
+rug placed in front of it, are some of the comfortable yet romantic
+views in this room. A bronze canopy bed with a bouquet of roses and a 
+bottle of champagne, awaits the newlywed couple.
+~
+0 1076889088 1
+D0
+~
+door~
+1031 5703 5744
+S
+#5749
+Above the Cliff.~
+Coming outside of the underground city, you have found a lush wooded area.
+At the horizon, you see the mountains gently graze the sky and the
+landscape of a tropical forest that surrounds the cliff for what seems
+to be an eternity. A soft breeze brushes by your hair and in the distance
+you hear the sounds of wild birds singing their melodious tune.
+Below you, the trail has been made out of wooden planks and divides
+in three directions.
+~
+0 1076929536 3
+D0
+~
+~
+0 -1 5750
+D5
+~
+door up~
+3 -1 5724
+D8
+~
+~
+0 -1 5755
+D9
+~
+~
+0 -1 5760
+S
+#5750
+The Northern Trail~
+Following the trail, this section of the woods is heavily abundant of 
+trees and wildlife. Above you the birds graze the sky in peaceful harmony and
+take asylum within the protection of the intertwining, heavy branches  
+of the plant life. Along the sides of the trail, red, wild strawberries
+invite you to feed upon them and taste their juices upon your lips.
+Looking further ahead, you can see a fork in the road.
+~
+0 1076929536 3
+D0
+~
+~
+0 -1 5751
+D2
+~
+~
+0 -1 5749
+S
+#5751
+Fork in the Road.~
+Within the trees you barely make out this turn in the road. The area
+surrounding you seems to be densening with the plant life and very little
+light is able to enter. Up ahead you can barely make out a structure in the 
+distance.
+~
+0 1076929536 3
+D2
+~
+~
+0 -1 5750
+D6
+~
+~
+0 -1 5754
+D7
+~
+~
+0 -1 5752
+S
+#5752
+Outside the Chapel.~
+Wild flowers grow abundantly around you and the air smells just a little
+sweeter as you slowly approach a tiny church chapel belonging to Rebellion.
+~
+0 1076929536 3
+D6
+~
+~
+0 -1 5753
+D8
+~
+~
+0 -1 5751
+S
+#5753
+The Chapel~
+This small chapel, looking more like a large stone gazebo, is decorated
+with the beautiful wild flowers of the area. At the floor of the chapel,
+luxuriant black and white roses grow to enhance the beauty of this scene.
+Placed here by the `8Rebellion`6, this church is intended for the people
+to celebrate the union of Holy Mudtrimony. Any members wishing to wed
+must speak with Bryelle, so that she may perform the ceremony.
+~
+0 1076929536 3
+D8
+~
+~
+0 -1 5754
+D9
+~
+~
+0 -1 5752
+S
+#5754
+Path to the Chapel.~
+This tiny path leading to the Rebellion chapel is adorned with many
+different colored of roses. The light coming from beyond the trees reflect
+off of the brilliant stone-filled trail that heads to the NorthWest.
+~
+0 1076929536 3
+D7
+~
+~
+0 -1 5753
+D9
+~
+~
+0 -1 5751
+S
+#5755
+SouthEastern Trail~
+Headed down this small wooden trail that is gently place within
+surmountable bushes and trees, you see ahead of you that this trail
+ends in a small forked, dirt road.
+~
+0 1076896768 1
+D7
+~
+~
+0 -1 5749
+D8
+~
+~
+0 -1 5756
+S
+#5756
+Forking in the Road,~
+Standing at this fork in the road within this forest you notice 
+a sign in the middle of the road that calls your attention. To the 
+NorthEast and to the East you see more of the forest. while to the
+SouthEast the dirt road seems to end at a cave entrance.
+~
+0 1076896768 1
+D1
+~
+~
+0 -1 5732
+D6
+~
+~
+0 -1 5757
+D7
+~
+~
+0 -1 5755
+D8
+~
+~
+0 -1 5759
+E
+sign~
+The sign in the middle of the road reads:
+ 
+The cave to the SouthEast is reserved for Rebellion members who have
+been with the sector for quite sometime and have earned the honor 
+of aquiring their own quarters within the area.
+ 
+Please speak with me to find out more about aquiring your own room.
+Bryelle
+~
+S
+#5757
+Forest End~
+You seemed to have come to an area of the forest that had been blocked
+off by an immense tree that has fallen to the ground. Large piles
+of the tree's leaves are scattered on the floor and the eerie noise
+of the crackling of your footsteps upon them makes you turn back.
+~
+0 1076896768 1
+D5
+~
+door~
+1071 5730 5714
+D9
+~
+~
+0 -1 5756
+E
+leaves~
+Sweeping the leaves of the fallen tree aside you notice what
+seems to be a trap door on the ground.
+~
+E
+trap door~
+A large wooden trap door has been placed here on the ground. 
+Leaning down to investigate it further, the door glows brightly
+preventing you from going any further.
+~
+S
+#5758
+Room of the Holy Wrath~
+You have just entered a stunning room,  the room is carved out of 
+quartz and reflects the light from the stalgmites on the ceiling.
+In the center of the room is a large bed veiled in a curtain of 
+deep midnight blue satin dappled in gold moons and stars.  A matching
+coverlet adorns the bed and pillows the colors of twilight rest
+against the wraught iron headboard.  A rosewood desk is against the
+south wall with a comfy chair to match the bedcurtains to sit upon. 
+A large clawfooted bathtub is in the southeastern corner of the room
+filled with steaming fragrant water.  In the southwestern corner is
+a perch for a bird.
+~
+0 1074791428 1
+S
+#5759
+Cave Entrance~
+The entrance to this large cave is heavily covered with vines and 
+from the surrounding area. Taking a peek inside you can see faint
+lights up ahead, but the entrance is too dark to be able to see 
+anything else.
+~
+0 1076896772 1
+D7
+~
+~
+0 -1 5756
+S
+#5760
+Wooden Path~
+Headed on this wooden path, the trees have opened up slightly to let 
+the light shine through their branches. The descending road through
+this area leads to a quain log cabin that lays on a grassy knoll up 
+ahead to the SouthWest.
+~
+0 1076929536 1
+D6
+~
+~
+0 -1 5749
+D9
+~
+~
+0 -1 5761
+S
+#5761
+Outside the Cabin~
+The wooden path ends here at the steps to this small cabin. Looking at 
+the small porch you see some wooden rocking chairs next to each other 
+and a swing hanging at the opposite end. Walking up the steps and 
+reaching the front door, you notice a black metal mailbox to the left
+full with mail that has not been picked up. 
+You look down and notice the welcome mat and decide to wipe your feet
+before knocking at the door.
+~
+0 1076929536 1
+D3
+~
+door~
+1071 5734 5764
+D5
+~
+down trapdoor ~
+11 -1 5758
+D6
+~
+~
+0 -1 5760
+E
+mat~
+-----------------------------------------
+|`1   /                             \   `6  |
+|`8 @                         @`6  |
+|            `3WELCOME`6             |
+|`8 @                         @`6  |
+|`1   \                             /   `6  |
+-----------------------------------------
+~
+E
+mailbox box~
+Looking at the black, metal mailbox you a gold B. on the front and
+a stack of mail sticking out from the top.
+~
+E
+mail ~
+Examining the letters in the mail box closely you see to whom they are
+addressed to:
+ 
+                                   To: Lady Bryelle 
+                                         At the Rebellion Residence
+~
+S
+#5762
+Rebellion Jail~
+What the hell you do now? You must have really pissed Bryelle off
+to be in this jail. Scream all you want.. you cant!! MUHAHAHAHA
+Just hope Bryelle lets you out of this jail soon.. if she remembers
+you are even here.
+~
+0 1076962309 1
+S
+#5763
+Rebellion's Jail~
+HMMMM... let see what you situation is here... you are hanging upside-down
+from the ceiling over a large cluster of stalagmites and it seems
+like the ropes that are holding you up are starting to break... Scream
+your lungs out.. MUHAHAHAHAHA you cant!!!! 
+~
+0 1076962309 1
+S
+#5764
+Inside the Cabin~
+Walking inside of the cabin belonging to Bryelle, nothing is as you 
+would expect it to be. A large bookshelf sits in the corner of this room
+heavily lined with what seems to be hundreds of books. Ranging from
+fiction to non-fiction, she has Biographies, Art books, music books,
+and what seems to be a series of books called the "Inner Mind and Soul."
+In front of the bookshelf a large bearskin rug is laid down before a
+comfortable lounging chair. Nearby a roaring fireplace burns warming
+the room, making it quite comfortable. Above the fireplace, collections 
+of rare items from the land, gently shimmer in the firelight beside the 
+champagne glasses that await to be filled with sweet tasting champagne.
+Something about this room and the surroundings makes you think that
+Bryelle is one to not be taken lightly nor judge.
+~
+0 1076895748 1
+D1
+~
+door~
+1071 5734 5761
+E
+series Mind Soul~
+Looking into one of the books in a series called: "The Inner Mind and Soul"
+you see within its pages a series of runes and chants. Maybe you shouldnt
+go looking into stuff you dont understand.
+~
+S
+#5765
+Secret tunnels below Rebellion~
+You have stumbled upon one of the many tunnels below the sect area
+of the Rebellion. Opening your eyes widely trying to focus on the 
+area around, you see that a dim light is just ahead.
+~
+0 1076896773 1
+D0
+~
+~
+0 -1 5766
+S
+#5766
+Central Tunnel~
+Entering this central area within the secret tunnels under the sect,
+you see in the dim light that the walls in this room seems to phase
+in and out of exsistance. Each time that the phasing walls appear
+you notice that the image in the walls seem quite familiar.
+~
+0 1076929536 1
+D0
+A wall phasing in and out of existance.
+~
+~
+0 -1 5743
+D1
+A wall phasing in and out of existance.
+~
+~
+0 -1 5725
+D2
+~
+~
+0 -1 5765
+D3
+A wall phasing in and out of exsistance.
+~
+~
+0 -1 5735
+D4
+A wall phasing in and out of exsistance.
+~
+~
+0 -1 5701
+D5
+A wall phasing in and out of exsistance.
+~
+~
+0 -1 5730
+S
+#5767
+5767~
+~
+0 1073741828 1
+S
+#5768
+5768~
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 5767
+S
+#5769
+Floating in a void~
+~
+0 1073741828 1
+S
+#5770
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+O 1 5707 1 5747
+D 0 5747 3 2
+O 1 5732 1 5703
+D 0 5703 2 0
+M 1 5703 1 5728
+E 1 5731 1 12
+M 1 5700 1 5725
+E 1 5731 1 12
+M 1 5702 1 5727
+E 1 5731 1 12
+G 1 5702 1
+G 1 5701 1
+G 1 5700 1
+G 1 5703 1
+M 1 5704 1 5726
+E 1 5731 1 12
+E 1 5709 1 0
+M 1 5706 1 5758
+M 1 5707 1 5741
+E 1 5731 1 12
+D 0 5761 3 2
+D 0 5737 0 1
+D 0 5737 1 1
+D 0 5737 3 2
+D 0 5715 0 1
+D 0 5705 1 1
+D 0 5705 5 1
+D 0 5749 5 1
+M 1 5708 1 5742
+M 1 5709 1 5742
+M 1 5705 1 5740
+G 1 5722 1
+G 1 5711 1
+G 1 5724 1
+E 1 5731 1 12
+O 1 5706 1 5724
+D 0 5724 4 1
+O 1 5736 1 5736
+O 1 5737 1 5734
+M 1 5701 1 5739
+G 1 5709 1
+G 1 5738 1
+G 1 5739 1
+G 1 5719 1
+G 1 21005 1
+G 1 5740 1
+G 1 5728 1
+G 1 5742 1
+G 1 5741 1
+O 1 5726 1 5735
+P 0 5727 1 0
+D 0 5735 3 1
+S
+
+
+#SHOPS
+ 5701    5  9 10 26  4    84  25         1 23    ; Jezza the Vampire
+ 5702    9  5 26 10  0   100  50         1 23    ; Luna, the receptionist.
+ 5704    9 26  5  0  0    85  50         1 23    ; Rymar the Teacher
+ 5705    5  9 10  4  0    84  50         1 23    ; Mitchel the Bartender
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  5700 spec_cast_adept
+M  5708 spec_cast_undead
+M  5709 spec_poison
+S
+
+
+#$

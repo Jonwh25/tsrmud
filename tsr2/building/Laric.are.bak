@@ -1,0 +1,462 @@
+#AREA   {PROTO} Laric's area in progress~
+
+
+
+#AUTHOR Laric~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#900
+The Trials Begin~
+This is the start of the trials. A long dark hallway
+stands before you. Strange sounds filter in from the north.
+The walls here are bare stone, carved with pulsing red
+runes. Prepare yourself for the Trials are unforgiving at best.
+You may enter the trials to the north, or return to the southeast
+ 
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 901
+D8
+~
+~
+0 -1 928
+S
+#901
+The 1st Trial~
+As you enter the first room, the door behind you slams
+shut. A tall figure stands before you wearing the armorments
+of a warrior. Red slits stare out at you from a blackend helmet.
+The walls here are the same blackend stone with red runes 
+writhing on them. Skeletons of the past challengers lie strewn
+about the floor. Death hangs in the air. The only way out now
+is through the dark warrior before you.
+~
+0 1076896004 1 0 0 2
+D0
+~
+~
+0 -1 902
+D2
+~
+~
+0 -1 900
+S
+#902
+The 2nd Trial~
+The first trial fades to a bad memory as you enter this
+room. Another warrior stands before you. Almost identical to
+the first. The only obvious difference is the silver band on
+the right arm. Sounds of combat drift in from the north, as the
+warrior steps forward. The runes here glow a brighter red as 
+you ready yourself. To continue you must defeat this warrior.
+~
+0 1076896004 1 0 0 2
+D0
+~
+~
+0 -1 903
+D2
+~
+~
+0 -1 901
+S
+#903
+The 3rd Trial~
+The third trial is upon you. A shadowy figure skulks in a 
+corner. Twin blades flash as you enter the room. Blackness is
+all around you. There are runes here also but they are dim.
+The floor is covered in dried blood and decaying bodys.
+The 4th trial awaits you to the north.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 904
+D2
+~
+~
+0 -1 902
+S
+#904
+The 4th Trial~
+You have entered the 4th trial. A man in dark robes stands
+before you. Power drips from his wizend frame. Waving his 
+arms mystical forces build around him. Far to the north a
+chuckling may be heard as the mage gathers the mighty powers.
+Stepping foward he waves you on. The door to the north awaits.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 905
+D2
+~
+~
+0 -1 905
+S
+#905
+The 5th Trial~
+You have made it half-way through the beginners trials. 
+A gaunt figure stands before you. Pale skin drawn tight to
+a face that seems ageless. Pale white lips curl back in a
+mockery of a smile, to reveal terrable fangs. The vampier
+daggers whisper a song of death as they are drawn out. The
+rooms only exit is north
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 906
+S
+#906
+The 6th Trial~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 907
+D2
+~
+~
+0 -1 905
+S
+#907
+The 7th Trial~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 908
+D2
+~
+~
+0 -1 906
+S
+#908
+The 8th Trial~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 909
+D2
+~
+~
+0 -1 907
+S
+#909
+The 9th Trial~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 910
+D2
+~
+~
+0 -1 908
+S
+#910
+The 10th Trial~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 911
+D2
+~
+~
+0 -1 909
+S
+#911
+Trial by Air~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 910
+S
+#912
+Trial by Fire~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 915
+D1
+~
+~
+0 -1 913
+D2
+~
+~
+0 -1 911
+D3
+~
+~
+0 -1 914
+S
+#913
+Floating in a void~
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 912
+S
+#914
+Floating in a void~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 912
+S
+#915
+Trial by Earth~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 916
+D2
+~
+~
+0 -1 912
+S
+#916
+Trial by Water~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 917
+D2
+~
+~
+0 -1 915
+S
+#917
+Trial by Cold~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 918
+D2
+~
+~
+0 -1 916
+S
+#918
+Trial by Lightning~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 919
+D2
+~
+~
+0 -1 917
+S
+#919
+Trial by Acid~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 920
+D2
+~
+~
+0 -1 918
+S
+#920
+Trial by Poison~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 921
+D2
+~
+~
+0 -1 919
+S
+#921
+Trial by Magic~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 922
+D2
+~
+~
+0 -1 920
+S
+#922
+Trial Of Life~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 923
+D2
+~
+~
+0 -1 921
+S
+#923
+Trial Of Death~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 924
+D2
+~
+~
+0 -1 922
+S
+#924
+Trial Of the Body~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 925
+D2
+~
+~
+0 -1 923
+S
+#925
+Trial Of the Mind~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 926
+D2
+~
+~
+0 -1 924
+S
+#926
+Trial Of the Soul~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 927
+D2
+~
+~
+0 -1 925
+S
+#927
+The Final Challenge~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 929
+D3
+~
+~
+0 -1 926
+S
+#928
+Floating in a void~
+~
+0 1073741828 1
+D7
+~
+~
+0 -1 900
+S
+#929
+The Rewards of Perseverance~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 927
+S
+#930
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

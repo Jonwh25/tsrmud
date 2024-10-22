@@ -1,0 +1,32 @@
+#CLAN
+Name         War & Chaos~
+Filename     chaos.cla~
+Motto        "Fools are those who do not seize the moment."~
+Description  A Neutral/Evil sect whose presence is known throughout the Realms.~
+Deity        Beowolf~
+Leader       Gath~
+NumberOne    Morgath~
+NumberTwo    ~
+PKills       25
+PDeaths      74
+MKills       31257
+MDeaths      488
+IllegalPK    0
+Score        0
+Type         0
+Class        0
+Favour       0
+Strikes      0
+Members      27
+Alignment    0
+Board        9320
+ClanObjOne   9300
+ClanObjTwo   9301
+ClanObjThree 9302
+Recall       9308
+Storeroom    9303
+GuardOne     9305
+GuardTwo     9303
+End
+
+#END

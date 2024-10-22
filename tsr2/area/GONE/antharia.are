@@ -1,0 +1,886 @@
+#AREA   Antharia~
+
+
+
+#AUTHOR Amadeus~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51709300
+
+#MOBILES
+#15300
+Antharian Peace Guard~
+an Antharian Peace Guard~
+An Antharian Peace guard is watching you here.
+~
+A tall Antharian is standing before you.  You have no doubt that this
+being can keep the peace...his presence is enough in itself.
+~
+65 0 800 S
+25 2 0 5d10+550 2d10+7
+2500 0
+8 8 1
+#15302
+Suretin~
+Suretin~
+Suretin, a healer-priest of Anthar, is here.
+~
+You see an older Antharian, not too old, just old enough to command
+your respect.  He is here healing people in the name of Anthar, the
+god of the Antharians.
+~
+67174401 0 1000 S
+35 3 0 10d10+1300 4d7+11
+3500 0
+8 8 1
+#15303
+Sucker fish~
+a sucker fish~
+A sucker fish is here keeping the streets clean.
+~
+These sucker fish have been trained and domesticated to roam the
+streets of Antharia and keep them clean.  They seem to like it and the
+Antharians seem to like it.  All in all, these fish are pretty
+content.
+~
+69 0 0 S
+10 0 0 2d7+121 2d4+2
+1000 0
+8 8 0
+#15309
+Antharian citizen~
+an Antharian citizen~
+An Antharian citizen is standing here.
+~
+All Antharians share a standard trait: curiosity.  Instead of being
+frightened of you, a foreigner, the Antharian will study you --
+looking at every detail.
+   This Antharian seems to be a simple citizen, going about on his
+daily schedule.
+~
+65 0 0 S
+15 1 0 3d9+208 2d6+3
+1500 0
+8 8 1
+#15310
+Antharian citizen~
+an Antharian citizen~
+An Antharian citizen is standing here.
+~
+All Antharians share a standard trait: curiosity.  Instead of
+being frightened of you, a foriegner, the Antharian will study you --
+looking at every detail.
+    This Antharian seems to be a simple citizen, going about with her
+daily schedule.
+~
+65 0 0 S
+16 1 0 3d9+233 2d6+4
+1600 0
+8 8 2
+#15314
+Antharian child~
+an Antharian child~
+An Antharian child is playing here.
+~
+Like children of any race, these Antharian children's sole interest
+right now in life is play.  PLAY PLAY PLAY!   They try to drag you
+into the fray to play with them.
+~
+65 0 0 S
+9 0 0 2d6+110 1d8+2
+900 0
+8 8 0
+#15315
+Antharian child~
+an Antharian child~
+An Antharian child is playing here.
+~
+Like children of any race, the sole interest in these children's
+mind right now is play.  PLAY PLAY PLAY!  They try to drag you into
+their games.
+~
+1 0 0 S
+9 0 0 2d6+110 1d8+2
+900 0
+8 8 0
+#15318
+Antharian Knight~
+an Antharian Knight~
+An Antharian knight is here.
+~
+These Antharians are impressive.  The only information that
+non-Antharians have of the knights are that they are very good, and
+very mysterious.   It is said that they are knighted in a very intense
+ceremony in the Temple of Anthar.
+~
+1 0 0 S
+42 2 0 25d10+2250 3d12+14
+4200 0
+8 8 1
+#15323
+High Guard~
+High Guard of Antharia~
+A High Guard of Antharia is here.
+~
+Having been promoted to High Guard, these guards are even more
+powerful and impressive than the Peace Guards.  These guards are here
+to make sure that law and order is maintained, and so it shall.
+~
+65 8 250 S
+32 2 0 10d10+1000 6d4+9
+3200 0
+8 8 1
+#15340
+Zaertses~
+Zaertses~
+Zaertses is here trying to sell you an old Antharian relic.
+~
+Zaertses spends most of his life trying to collect and restore old and
+powerful Antharian relics.  Of these, he will sell some, and keep the
+others for himself.  He also donates some relics to the Antharian
+councils, which are said to be displayed in a museum inside the
+Temple.
+~
+3 0 400 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15341
+Irghum~
+Irghum~
+Irghum is here fixing fine Antharian foods.
+~
+You see a smiling Antharian, whose sole purpose in life is to make and
+sell Antharian food.  He is highly respected, as producing good food
+in this underwater world is not easy.
+~
+3 0 500 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15344
+Ertuvia~
+Ertuvia~
+Ertuvia is here, a master of the Antharian weapons of war.
+~
+You see a tall, strong Antharian, with a presence that even seems
+heavy compared to the other Antharians.  In this society, weaponsmiths
+are artists of war, and he looks like he could paint a very clear
+portrait of death.
+~
+3 0 800 S
+32 2 0 10d10+1000 6d4+9
+3200 0
+8 8 1
+#15345
+Heaustf~
+Heaustf~
+Heaustf, the maker of fine Antharian armor, is here.
+~
+Here stands an Antharian who seems to know more than you could ever
+dream.  In Antharian society, the art of making fine armor has been
+passed from generation to generation.  The secret is well kept, and
+rightly so -- for their's is the best.
+~
+524291 0 500 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15348
+Cyrtpea~
+Cyrtpea~
+Cyrtpea, sorceress of Antharia, is here staring into your soul.
+~
+Cyrtpea is one of the few Antharians that still have any knowledge of
+Antharian magic.  Most of their magic was lost in the Great
+Transformation, and Cyrtpea and her colleages work hard to recover as
+much of this lost magic as possible.
+~
+131075 8192 400 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 2
+#15360
+Human Representative~
+a human representative~
+A human representative is standing here.
+~
+A young human is here looking at you.  She is the representative
+from the human race here in Antharia.
+~
+3 0 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 2
+#15361
+Druidic Representative~
+a druidic representative~
+A representative from the druids is standing here.
+~
+A young druid is here looking at you.   He is the representative
+from the druids here in Antharia.
+~
+3 0 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15362
+Kender Representative~
+a kender representative~
+A kender representative is standing here.
+~
+A young Kender is standing here looking at you.  She is the
+representative from the Kender race here in Antharia.
+~
+262147 0 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 2
+#15363
+Antharian Representative~
+an antharian representative~
+An atharian beaurocrat is standing here.
+~
+A young Antharian is standing here looking for you.  He is the
+representative from the Antharian government here to answer questions
+from visitors.
+~
+3 0 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15364
+Elven Representative~
+an elven representative~
+An elven representative is standing here.
+~
+A young elf is here looking at you.  She is the representative from
+the elven race here in Antharia.
+~
+3 98832 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 2
+#15365
+Dwarven Representative~
+a dwarven representative~
+A dwarven representative is standing here.
+~
+A young Dwarf is here looking at you.  He is the representative
+from the Dwarven race here in Antharia.
+~
+3 512 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#15370
+illithid Representative~
+an illithid representative~
+An illithid representative is standing here.
+~
+A young Illithid is standing here looking at you.  She is the
+representative from the Illithid race here in Antharia.
+~
+3 0 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 2
+#15371
+avian Representative~
+an avian representative~
+An avian representative is standing here.
+~
+A young avian is standing here looking at you.  She is the
+representative from the avian race here in Antharia.
+~
+3 524288 0 S
+40 4 0 15d10+1850 4d8+13
+4000 0
+8 8 1
+#0
+
+
+#OBJECTS
+#15300
+mother pearl~
+mother of pearl~
+A Mother of Pearl is shining here.~
+~
+9 64 1
+5 4 3 3
+10 400 40
+A
+5 3
+A
+17 -20
+#15301
+green gem~
+a green gem~
+A green gem is here.~
+~
+9 256 1
+4 5 4 3
+40 600 60
+A
+2 1
+A
+1 1
+#15302
+sea shell armor~
+a sea turtle shell~
+A shell from a sea turtle works as a nice piece of armor.~
+~
+9 2 1
+13 13 12 13
+190 600 60
+A
+19 1
+A
+17 -20
+A
+18 1
+#15303
+giant clamshell~
+a giant clamshell~
+This is a giant clamshell used to store things.~
+~
+15 1 1
+40 0 0 20
+80 25 2
+#15304
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+9 1 1
+7 8 8 6
+50 400 40
+A
+17 -5
+#15305
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+9 1 1
+11 12 12 11
+40 500 50
+A
+17 -10
+#15306
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+9 1 1
+13 14 13 12
+40 600 60
+A
+20 -2
+A
+17 -20
+A
+12 10
+#15309
+Antharian plate mail~
+Antharian plate mail~
+A fine piece of Antharian plate mail is here.~
+~
+9 1024 1
+13 14 13 13
+240 1200 120
+A
+2 1
+A
+19 2
+#15310
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 256 1
+8 7 7 6
+10 250 25
+A
+14 150
+#15311
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 256 1
+11 12 11 11
+10 300 30
+A
+2 2
+A
+14 200
+#15312
+synthetic fin~
+a apir of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 256 1
+13 13 12 11
+10 400 40
+A
+2 2
+A
+14 250
+#15313
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 1 1
+8 7 7 7
+70 150 15
+A
+12 20
+#15314
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 1 1
+11 12 11 11
+70 250 25
+A
+12 30
+#15315
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 1 1
+13 13 12 13
+70 350 35
+A
+12 40
+A
+24 -5
+#15316
+Trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 256 1
+0 9 3 11
+140 500 50
+A
+13 20
+#15317
+trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 256 1
+0 9 4 11
+150 600 60
+A
+19 1
+A
+13 30
+A
+18 1
+#15318
+trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 256 1
+0 9 5 11
+160 700 70
+A
+13 40
+A
+18 2
+#15319
+Seafood platter~
+a seafood platter~
+A big plate of Seafood is here.~
+~
+19 0 1
+6 6 0 0
+10 6 0
+#15320
+Caviar~
+a dish of caviar~
+A small dish of Caviar is here.~
+~
+19 0 1
+5 5 0 0
+10 6 0
+#15321
+Special~
+today's special~
+This is the special of the day....NOT to be missed.~
+~
+19 0 1
+10 10 0 0
+10 7 0
+#15322
+Sushi~
+some sushi~
+This is sushi.~
+~
+19 0 1
+3 3 0 0
+10 6 0
+#15330
+Antharian robe~
+an Antharian robe~
+This is an Antharian robe, woven by hand.~
+~
+9 0 1
+6 5 5 6
+30 400 40
+A
+2 1
+A
+1 -1
+A
+19 1
+#15331
+Antharian belt~
+an Antharian belt~
+An Antharian belt, just your size, is here.~
+~
+9 0 1
+6 5 5 5
+30 400 40
+A
+24 -4
+A
+3 1
+#15332
+Antharian trousers~
+Antharian trousers~
+A pair of simple Antharian trousers are here.~
+~
+9 0 1
+3 3 2 3
+20 100 10
+A
+5 1
+A
+17 -5
+#15333
+Piece Metal~
+a round piece of metal~
+A round piece of some unknown metal is here.~
+~
+3 32 1
+60 7 7 7
+70 100 10
+#15334
+Crystal potion~
+a crystal potion~
+A liquid substance in a crystal container is here.~
+~
+10 64 1
+20 81 -1 -1
+10 120 12
+#15335
+crystal scroll~
+a crystal scroll~
+An amazing scroll of crystal is here.~
+~
+2 1 1
+13 24 -1 -1
+50 3000 300
+#15336
+glowing seashell~
+a glowing seashell~
+A glowing seashell is here.~
+~
+2 1 1
+5 44 19 -1
+50 200 20
+#15337
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 64 1
+8 7 7 7
+20 700 70
+A
+18 1
+A
+4 1
+#15338
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 64 1
+11 12 11 10
+20 800 80
+A
+18 2
+A
+4 1
+#15339
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 64 1
+13 12 11 11
+20 900 90
+A
+18 3
+A
+4 2
+#15340
+net~
+a net~
+A glowing net is here.~
+~
+4 1 1
+30 10 10 10
+80 700 70
+A
+22 5
+#15341
+net~
+a net~
+A glowing net is here.~
+~
+4 1 1
+32 10 10 10
+80 700 70
+A
+22 5
+#15342
+net~
+a net~
+A glowing net is here.~
+~
+4 1 1
+25 10 10 10
+80 700 70
+A
+22 5
+#0
+
+
+#ROOMS
+#15360
+Human Guild~
+You are standing in the small, bare building of the human guild.
+The representative from the human race is standing here willing to
+help any of her fellow humans here in Antharia.
+   The exit door to the south leads back to guild street.
+~
+0 0 11
+D2
+Guild street.
+~
+~
+0 -1 15351
+S
+#15361
+Druid's Guild~
+You are standing in the small, bare building of the Druidic guild.
+The representative from the Druids is standing here willing to help
+any of his fellow druids here in Antharia.
+   The exit directly to the south leads to Guild street.
+~
+0 0 11
+D2
+Guild street.
+~
+~
+0 -1 15353
+S
+#15362
+Kender Guild~
+You are standing in the small, bare building that houses the
+Kender guild.  The representative from the Kender is standing here
+willing to help any of her fellow Kender in Antharia.
+    The exit directly to the south leads to Guild street.
+~
+0 0 1
+D2
+Guild street.
+~
+~
+0 -1 15354
+S
+#15363
+Antharian Guild~
+You are standing in the building that houses the Antharian guild.
+This building is a little less bare than the other guilds, being
+financed directly by the Antharian government.  The Antharian
+representative is here helping his fellow Antharians in dealing with
+the other races, and with dealing with YOU.  This Antharian is
+important in the diplomatic relationship between Antharia and the
+other races of the world.
+   The exit directly to the north leads back to guild street.
+~
+0 0 11
+D0
+Guild street.
+~
+~
+0 -1 15354
+S
+#15364
+Elven Guild~
+You are standing in the small, bare building that houses the Elven
+guild.  The representative from the Elves is standing here willing to
+help any of her fellow elves here in Antharia.
+    The exit directly to the north leads back to Guild street.
+~
+0 0 11
+D0
+Guild street.
+~
+~
+0 -1 15353
+S
+#15365
+Dwarven Guild~
+You are standing in the small, bare building of the Dwarven guild.
+The representative from the Dwarves is standing here willing to help
+any of his fellow Dwarves here in Antharia.
+   The exit directly to the north leads to Guild street.
+~
+0 0 1
+D0
+Guild street.
+~
+~
+0 -1 15352
+S
+#15366
+Forgotten Room~
+This room is full of cobwebs and dust..as no one has been here in
+such a long time.   You have obviously stumbled upon a part of
+Antharian history, as the room still looks like it did 2000 yrs ago.
+~
+0 4 0
+S
+#15370
+Illithid Guild~
+You are standing in the small, bare building that houses the
+Illithid guild.  The representative from the Illithid is standing here
+willing to help any of her fellow Illithids in Antharia.
+    The exit directly to the north leads to Guild street.
+~
+0 0 1
+D0
+Guild street.
+~
+~
+0 -1 15351
+S
+#15371
+Avian Guild~
+You are standing in the small, bare building that houses the
+Avian guild.  The representative from the Avian is standing here
+willing to help any of her fellow Avian in Antharia.
+    The exit directly to the south leads to Guild street.
+~
+0 0 1
+D2
+Guild street.
+~
+~
+0 -1 15352
+S
+#0
+
+
+#RESETS
+M 1 15360 1 15360
+M 1 15323 8 15360
+E 1 15305 1 2
+E 1 15338 1 14
+E 1 15311 1 7
+E 1 15314 1 6
+E 1 15317 1 16
+E 1 15341 1 17
+M 1 15310 4 15360
+E 1 15331 1 13
+M 1 15361 1 15361
+M 1 15323 8 15361
+E 1 15305 1 2
+E 1 15338 1 14
+E 1 15311 1 7
+E 1 15314 1 6
+E 1 15317 1 16
+E 1 15341 1 17
+M 1 15362 1 15362
+M 1 15363 1 15363
+M 1 15300 10 15363
+E 1 15304 1 1
+E 1 15337 1 14
+E 1 15310 1 7
+E 1 15313 1 6
+E 1 15316 1 16
+M 1 15364 1 15364
+M 1 15303 8 15364
+M 1 15365 1 15365
+M 1 15300 10 15365
+E 1 15304 1 1
+E 1 15337 1 14
+E 1 15310 1 7
+E 1 15313 1 6
+E 1 15316 1 16
+E 1 15340 1 17
+M 1 15300 10 15365
+E 1 15304 1 1
+E 1 15337 1 14
+E 1 15310 1 7
+E 1 15313 1 6
+E 1 15316 1 16
+E 1 15340 1 17
+M 1 15323 8 15365
+E 1 15305 1 2
+E 1 15338 1 14
+E 1 15311 1 7
+E 1 15314 1 6
+E 1 15317 1 16
+E 1 15341 1 17
+O 1 15333 1 15366
+M 1 15370 1 15370
+M 1 15371 1 15371
+M 1 15309 4 15371
+M 1 15303 8 15371
+G 1 15301 1
+M 1 15314 5 15371
+S
+
+
+#SHOPS
+ 15340    0  0  0  0  0   125  75         4 20    ; Zaertses
+ 15341    0  0  0  0  0   125  75         4 20    ; Irghum
+ 15345    0  0  0  0  0   125  75         4 20    ; Heaustf
+ 15348    0  0  0  0  0   125  75         4 20    ; Cyrtpea
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  15302 spec_cast_cleric
+M  15314 spec_thief
+M  15348 spec_cast_mage
+M  15361 spec_cast_cleric
+M  15362 spec_thief
+M  15364 spec_cast_mage
+S
+
+
+#$

@@ -1,0 +1,626 @@
+#AREA   Trial by Combat~
+
+
+
+#AUTHOR Laric~
+
+#RANGES
+0 0 0 0
+$
+
+#RESETMSG Strange sounds hum in the air.......~
+
+#FLAGS
+0 5
+
+#ECONOMY 0 31250000
+
+#MOBILES
+#999
+The Pool of Flux~
+The Pool of Flux~
+A large pool is here murmuring soothing words in many voices
+~
+~
+2051 0 0 C
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+85 1 0 0 544437089 544437089 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#900
+testersword~
+a newly created testersword~
+Some god dropped a newly created testersword here.~
+~
+5 0 8193
+0 0 0 0
+1 0 0
+#998
+A small font in the wall~
+A wall mounted Font~
+A small basin in the wall is filled with cool water.~
+~
+25 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#900
+The Trials Begin~
+This is the start of the trials. A long dark hallway
+stands before you. Strange sounds filter in from the north.
+The walls here are bare stone, carved with pulsing red
+runes. Prepare yourself for the Trials are unforgiving at best.
+You may enter the trials to the north, or return to the southeast
+ 
+~
+0 4 1
+D0
+~
+~
+0 -1 901
+D8
+~
+~
+0 -1 928
+S
+#901
+The 1st Trial~
+As you enter the first room, the door behind you slams
+shut. A tall figure stands before you wearing the armorments
+of a warrior. Red slits stare out at you from a blackend helmet.
+The walls here are the same blackend stone with red runes 
+writhing on them. Skeletons of the past challengers lie strewn
+about the floor. Death hangs in the air. The only way out now
+is through the dark warrior before you.
+~
+0 3154180 1 0 0 2
+D0
+~
+~
+0 -1 902
+D2
+~
+~
+0 -1 900
+S
+#902
+The 2nd Trial~
+The first trial fades to a bad memory as you enter this
+room. Another warrior stands before you. Almost identical to
+the first. The only obvious difference is the silver band on
+the right arm. Sounds of combat drift in from the north, as the
+warrior steps forward. The runes here glow a brighter red as 
+you ready yourself. To continue you must defeat this warrior.
+~
+0 3154180 1 0 0 2
+D0
+~
+~
+0 -1 903
+D2
+~
+~
+0 -1 901
+S
+#903
+The 3rd Trial~
+The third trial is upon you. A shadowy figure skulks in a 
+corner. Twin blades flash as you enter the room. Blackness is
+all around you. There are runes here also but they are dim.
+The floor is covered in dried blood and decaying bodys.
+The 4th trial awaits you to the north.
+~
+0 4 1
+D0
+~
+~
+0 -1 904
+D2
+~
+~
+0 -1 902
+S
+#904
+The 4th Trial~
+You have entered the 4th trial. A man in dark robes stands
+before you. Power drips from his wizend frame. Waving his 
+arms mystical forces build around him. Far to the north a
+chuckling may be heard as the mage gathers the mighty powers.
+Stepping foward he waves you on. The door to the north awaits.
+~
+0 4 1
+D0
+~
+~
+0 -1 905
+D2
+~
+~
+0 -1 905
+S
+#905
+The 5th Trial~
+You have made it half-way through the beginners trials. 
+A gaunt figure stands before you. Pale skin drawn tight to
+a face that seems ageless. Pale white lips curl back in a
+mockery of a smile, to reveal terrable fangs. The vampier
+daggers whisper a song of death as they are drawn out. The
+rooms only exit is north
+~
+0 4 1
+D0
+~
+~
+0 -1 906
+S
+#906
+The 6th Trial~
+This is the sixth trial. A man wearing the robes of a Cleric
+is here. Glowing with divine power. The room is brightly lit by
+glowing white balls. The floor and walls are white with red 
+runes carved into them. The air crackles with a unworldly 
+pressense. The hall continues to the north.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 907
+D2
+~
+~
+0 -1 905
+S
+#907
+The 7th Trial~
+This room is different then the others. It is a woodland setting.
+Bright sun shines down on you from a pale blue sky. Birds and 
+crickets chirp in the air around you. Large grey trunked trees
+surround you. A man emerges from the tree line, shrouded in mystical
+flames. He strides toward you with a stern look on his face. His
+brown robes flowing in the light breeze, he draws twin scimtars.
+~
+0 4 1
+D0
+~
+~
+0 -1 908
+D2
+~
+~
+0 -1 906
+S
+#908
+The 8th Trial~
+This trial takes place in a study. The room is odd, there are books
+and scrolls lining the dark walls, but also there is a training area
+for combat. A man stands here practicing slashes and parrys on a
+magicly animated target. In one hand he holds a long sword while the
+other glows with a magical aura. He turns as you enter, and smiles.
+~
+0 4 1
+D0
+~
+~
+0 -1 909
+D2
+~
+~
+0 -1 907
+S
+#909
+The 9th Trial~
+This room is also a woodland setting. A cabin stands before you.
+In the yard of the cabin a man stands chopping wood. Tall and
+muscular he splits the wood with one stroke. Clothes of green and
+brown blend him perfectly to the forest around him. A deer carcass
+is hanging in a nearby tree the skin drying on a frame. The man
+looks up, puts down the wood axe and draws a mighty two handed sword
+from a sheath lying next to him.
+~
+0 4 1
+D0
+~
+~
+0 -1 910
+D2
+~
+~
+0 -1 908
+S
+#910
+The 10th Trial~
+This is the final begginers trial. A tall gate stands before you
+leading to the advanced trials. There is a creature standing guard 
+over the gate. A monsterous creature with scaly skin and blazing red eyes.
+It snarls as you enter. This demon is here to sway those who would
+continue from going on. To get to the Advanced trials this creature
+must fall.
+~
+0 4 1
+D0
+~
+~
+0 -1 911
+D2
+~
+~
+0 -1 909
+S
+#911
+Trial by Air~
+~
+0 4 1
+D0
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 910
+S
+#912
+Trial by Fire~
+~
+0 4 1
+D0
+~
+~
+0 -1 915
+D1
+~
+~
+0 -1 913
+D2
+~
+~
+0 -1 911
+D3
+~
+~
+0 -1 914
+S
+#913
+Floating in a void~
+~
+0 4 1
+D3
+~
+~
+0 -1 912
+S
+#914
+Floating in a void~
+~
+0 4 1
+D1
+~
+~
+0 -1 912
+S
+#915
+Trial by Earth~
+~
+0 4 1
+D0
+~
+~
+0 -1 916
+D2
+~
+~
+0 -1 912
+S
+#916
+Trial by Water~
+~
+0 4 1
+D0
+~
+~
+0 -1 917
+D2
+~
+~
+0 -1 915
+S
+#917
+Trial by Cold~
+~
+0 4 1
+D0
+~
+~
+0 -1 918
+D2
+~
+~
+0 -1 916
+S
+#918
+Trial by Lightning~
+~
+0 4 1
+D0
+~
+~
+0 -1 919
+D2
+~
+~
+0 -1 917
+S
+#919
+Trial by Acid~
+~
+0 0 1
+D0
+~
+~
+0 -1 920
+D2
+~
+~
+0 -1 918
+S
+#920
+Trial by Poison~
+~
+0 4 1
+D0
+~
+~
+0 -1 921
+D2
+~
+~
+0 -1 919
+S
+#921
+Trial by Magic~
+~
+0 4 1
+D0
+~
+~
+0 -1 922
+D2
+~
+~
+0 -1 920
+S
+#922
+Trial Of Life~
+~
+0 4 1
+D0
+~
+~
+0 -1 923
+D2
+~
+~
+0 -1 921
+S
+#923
+Trial Of Death~
+~
+0 4 1
+D0
+~
+~
+0 -1 924
+D2
+~
+~
+0 -1 922
+S
+#924
+Trial Of the Body~
+~
+0 4 1
+D0
+~
+~
+0 -1 925
+D2
+~
+~
+0 -1 923
+S
+#925
+Trial Of the Mind~
+~
+0 4 1
+D0
+~
+~
+0 -1 926
+D2
+~
+~
+0 -1 924
+S
+#926
+Trial Of the Soul~
+~
+0 4 1
+D1
+~
+~
+0 -1 927
+D2
+~
+~
+0 -1 925
+S
+#927
+The Final Challenge~
+~
+0 4 1
+D0
+~
+~
+0 -1 929
+D3
+~
+~
+0 -1 926
+S
+#928
+Floating in a void~
+~
+0 4 1
+D7
+~
+~
+0 -1 900
+S
+#929
+The Rewards of Perseverance~
+~
+0 4 1
+D2
+~
+~
+0 -1 927
+S
+#930
+Floating in a void~
+~
+0 4 1
+S
+#995
+Floating in a void~
+You are floating in a void. A man stands here ready to train you
+~
+0 3146752 1
+D0
+~
+~
+0 -1 999
+S
+#996
+Flux's Donation~
+This larg room has been set aside for donations to the sect.
+Here you may leave items for your fellow sect members in need.
+Walls of grey stone glisten slightly. The White tiled floor
+is spotless. A large statue of Laric stands in the back of the
+room, with a wry smile on its face. The sounds of murmuring may
+be heard from the east.
+~
+0 3163136 1
+D1
+~
+~
+0 -1 999
+S
+#997
+Flux's Portals~
+Many portals fill this room. Some fade in and out while others
+are very stable. Sounds drift in from each of them causing the 
+room to have the sound and feel of a Bazzar. Exits lead in all
+directions. Some may leave others mat lead back to where you 
+stand. Hopfuly you will choose the right one.
+~
+0 3146752 1
+D0
+~
+~
+0 -1 8768
+D1
+~
+~
+0 -1 21001
+D2
+~
+~
+0 -1 999
+D3
+~
+~
+0 -1 8807
+D7
+~
+~
+0 -1 5256
+S
+#998
+The Shop~
+This small shop is run by a retired Bard. Jingo was once the
+Hafling Bardic master. All manner of things may be bought here.
+Junk and valued items lie strewn about the room in an unorganized
+heap.
+~
+0 3146752 1
+D3
+~
+~
+0 -1 999
+S
+#999
+The Pool of Flux~
+A large pool fills the room. Glowing white shot with many
+hues. Ever moving ever changing, images fill the pool. 
+Past, present, and future mix and swirl. Voices of those long
+gone echo through the room. The walls are made of a scintilating
+rainbow colored substance that emits a pleasant sound.
+The floor has many nooks and platforms, seemingly to rest on
+Warmth and comfort radiate throughout the room.
+~
+0 3146752 1
+D0
+~
+~
+0 -1 997
+D1
+~
+~
+0 -1 998
+D2
+~
+~
+0 -1 995
+D3
+~
+~
+0 -1 996
+S
+#0
+
+
+#RESETS
+O 1 900 1 900
+M 1 999 1 999
+O 1 998 1 999
+O 1 20 1 999
+M 1 998 1 998
+M 1 998 1 995
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  999 spec_cast_adept
+S
+
+
+#$

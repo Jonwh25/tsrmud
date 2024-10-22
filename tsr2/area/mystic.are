@@ -1,0 +1,2150 @@
+#AREA   Mystic Landscapes~
+
+
+
+#AUTHOR Silvermist~
+
+#RANGES
+20 45 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51204419
+
+#MOBILES
+#1800
+kuan yin goddess~
+Kuan Yin, Goddess of Divine Mercy~
+The goddess Kuan Yin is a vision of compassion whose mercy knows no bounds.
+~
+Kuan Yin is a slender goddess with jet black eyes and ebony hair that
+is ruffled slightly by the breeze.  She is dressed in plum and raspberry
+coloured raiments. She holds a creamy fragrant lotus blossom in one hand
+and blesses you with gentle supplications. She looks like a very kind
+goddess.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1801
+asase yaa goddess~
+Asase Yaa, Goddess of Fertility~
+The tall proud Goddess Asase Yaa graciously accepts all supplications.
+~
+This incarnation of the Great Mother archetype blesses the tilled fields,
+fertility, pregnancy and childbirth.  Her form has been revered for
+thousands of years.  The Goddess loves her children and welcomes them
+again at the end of their lives since she is also the Goddess of Funerals.
+Asase Yaa was never worshipped in buildings, but in open fields during
+sacred rituals.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1802
+old woman harvest ~
+Old Woman of the Harvest~
+An old woman of the harvest sweeps the cobwebs from the skies.
+~
+This is Baba Yar in her first incarnation when she was first worshipped.
+You see a tall older female goddess who appears to be fashioned
+entirely of straw and wheat.  An earthy warm aura emanates from her
+body.  Her long flowing straw hair is capped with a crown of silvery
+wheat sheafs. She blesses the portals of entering and exiting life.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 524291
+#1803
+baba yaga hag~
+Baba Yaga, evil hag of the Thrice Tenth Kingdom~
+Baba Yaga of the Thrice Tenth Kingdom cackles as she stirs her cauldron.
+~
+Having dabbled too closely in black magic, this goddess hag now emanates
+an aura of pure evil and malevolence.  She pauses to pick a few shreds of
+her latest victim's flesh out of her crooked teeth.  She has become well
+skilled at brewing trouble over the years.
+~
+67 40 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 524291
+#1804
+demeter goddess~
+Demeter, Goddess of the Earth~
+This grieving goddess has laid frozen waste to the earth.
+~
+A tall majestic looking goddess wraps her thin azure cloak more closely
+about her body as she brushes some snowflakes off her wheat colored hair.
+Once beautiful to gaze upon, her features have been ravaged by sorrow and
+grief.  Demeter, having lost her daughter, cares little if anyone else
+lives or dies.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 1 240 524291
+#1805
+gwion bach small boy~
+Gwion Bach~
+This small boy is gathering firewood for a magical cauldron.
+~
+Gwion Bach appears to be a small boy but this is deceptively simply since
+this is one of Taliesin's lesser forms.  His eyes are a glowing hazel and
+he brushes strands of dampened black hair from his forehead.  Though a
+sturdy lad, collecting all that firework is rather hard work.
+~
+67 40 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1806
+magician taliesin god~
+Taliesin, Magician of the Spoken Word~
+The fair handsome god continues playing his lute as you approach.
+~
+Having assumed many forms, Taliesin can speak in the languages of many
+tongues including that of bird and beasts, of things far and near and
+also of the future. He is able to enthrall people with his wondrous tales.
+This handsome young man wears a jade green wreath of leaves topping off
+his shoulder length golden blonde hair. He is dressed in soft beige suede
+boots, forest green breeches and an almond colored loose shirt.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 2 240 515
+#1807
+quetzalcoatl god serpent~
+Quetzalcoatl the Plumed Serpent God~
+Quetzalcoatl raises his arms skyward in drawing energy from the skies.
+~
+Legend states that he was the child of the Sun and a virgin goddess.
+He was so filled with the love of all living things that he would
+not pick a flower or harm an animal.  He ruled an empire of creativity
+and kindness which greatly angered the crafty Lord of Death. Quetzalcoatl
+symbolizes the union of matter and spirt, instinct and transcendence.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 1 65776 1027
+#1808
+tezcatlipoca lord death~
+Tezcatlipoca the Crafty Lord of Death~
+This crafty Lord of Death has a smile so cruel it chills the air.
+~
+Tezcatlipoca is tall of stature and very handsome or he would be if it
+were not for the hard glittering look in his eyes.  Crafty beyond words,
+he seems to have a talent for finding and using a person's vanity to
+manipulate them as he did to Quezaltcoal by showing him a mirror which
+made Quezaltcoal terrified of the signs of aging which he saw in that
+mirror.
+~
+67 552 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 1 33008 19
+#1809
+coyote wily trickster god~
+Coyote the Wily Trickster~
+A large powerful silvery coyote is cavorting about leaping into the air.
+~
+This trickster-hero was much beloved in his native lands.  Though he varied
+from kind to cruel and form naive to wily he has a vulnerablilty about
+him which appealed to his followers.  Usually oversexed, indulging as he
+pleased in food, drink and women it was said that he brought the world into
+being.  They identified with the imperfections of this world which must
+have been made by an imperfect creator, whose tricks often backfired.
+~
+67 552 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1810
+moon goddess~
+Goddess of the Moon~
+A beautiful goddess uses the lunar sphere to frame her visions.
+~
+Even the lovely Goddess of the Moon with all sorts of wonderful celestial
+things to gaze at can get bored at times.  She cannot help but smile at
+Coyote whose obvious enjoyment of this dancing is plain for all to see.
+If he gets too boastful, she dances him over the cliffs where he doesn't
+even notice the ground is no longer under his feet.
+~
+67 552 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1811
+beast claws shadowy~
+Beast of Shadowy Cave~
+Hot claws rake your legs the minute this fearsome Beast sees you.
+~
+A large snarling beast draws fearsome lips over bloodstained fangs.
+Hot sizzling claws extend from his enormous powerful paws.  The beast
+doesn't smell particularly good and you are beginning to wish you had never
+disturbed it.
+~
+99 552 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 242 3
+#1812
+anubis god~
+Anubis, God of the Egyptian Underworld~
+A golden sphere outlines the black jackal-head of the ankh bearing Anubis.
+~
+Anubis is the messenger god between the living and the dead.  With his
+keen sense of smell, he is able to negotiate the tortuous labrinyth linking
+the two areas.  He guides the soul to judgment and oversees the weighing
+of the mortal heart. He is patiently waiting for the next soul that needs
+guiding.
+~
+67 680 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1813
+monster eater dead~
+Eater of the Dead~
+The Eater of the unjust Dead slavers as he awaits his next corpse.
+~
+A large slavering hyena like monster lurks patiently in the background
+knowing full well that Anubis has been charged to hand over the corpses
+of the unjust dead.  Strange high-pitched chortlings mixed with eerie
+howls rumble from his throat.
+~
+67 680 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1814
+mystic shaman~
+mystic shaman~
+The mystic shaman waves his feathered staff in your direction.
+~
+The shaman is of some ancient race you do not recognize.  While not tall
+in stature, he is powerfully built with a wolfskin cloak slung over his
+broad shoulders.  Round one ankle is a leather band with small brass
+bells and irregularly shaped lumps of turquoise.
+~
+67 680 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1815
+salmon girl~
+salmon girl~
+The salmon girl wonders what you look like without any clothes on.
+~
+The salmon girl really is salmon colored from her curly hair to her little
+toes.  Her eyes are a strange shade of pale blue and she seems almost like
+a mermaid without a tail.  The scales on her skin glimmer in the darkness
+of the pit.  She seems only too ready to frolic and play.
+~
+67 552 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1816
+persephone goddess spring~
+Persephone, Goddess of Spring~
+Persephone trails a garland of strung flowers.
+~
+This slender goddess with long flowing honey colored hair and blue eyes
+is the daughter of Demeter and wife of Hades.  Ivory colored robes are
+draped around her waist covering but not concealing her shapely legs.
+She floats above ground in a graceful fashion preparing for her return
+to the overworld.
+~
+67 680 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 9 0 0 0 240 3
+#1817
+hades god underworld~
+Hades, God of the Underworld~
+Hades scowls as the daylight filters in outlining the Underworld pit.
+~
+This darkly handsome god wears a cloak of midnight blue about his shoulders.
+Powerful beyond the grasp of mortals, he is yet powerless to keep Persephone
+with him all year much to his distress.  He gazes at her with much longing
+and wistfulness.
+~
+131171 35652224 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 167 0 0 0 192 3
+#1818
+diarmuid man~
+Diarmuid~
+Diarmuid pauses to scan the horizons for any sign of Finn.
+~
+During the wedding ceremony, Grainne had given all the others a sleeping
+potion in their wine except for Osiris, son of Finn and for Diarmuid.
+She laid a curse or geas on Diarmuid when he refused to comply and the
+couples famous flight began.  They became lovers and were able to elude
+Finn for seven long years.  This tall pensive man has medium length brown
+hair, blue eyes and a strong jaw.
+~
+131139 4194472 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 239 0 0 0 0 0
+#1819
+grainne lass~
+Grainne~
+The redheaded lass Grainne wears russet robes and carries a golden goblet.
+~
+This young beautiful woman was the daughter of the King of all Ireland,
+Cormac mac Airt. The aged chief of the Fianna, Finn mac Cumail, had
+requested her hand in marriage.  Grainne is noted for her independence
+and her bold flouting of conventions.  She wished to have the young
+handsome Diarmuid as her husband rather than the old Finn mac Cumail.
+~
+131137 168 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 175 0 16 0 0 0
+#1820
+kama-duh cosmic cow~
+Kama-duh the Cosmic Cow~
+The sacred cosmic cow is swimming in the great river.
+~
+Kama-duh is no ordinary cow but rather is known as the cow whose milking
+yields whatever you wish.  Due to that mystic ability, the cow has become
+sacred to Saraswati who watches over her. This cow is tired of swimming
+and wants to be grazing on some nice green grass on some nice solid land.
+~
+131139 -2147483488 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 45 0 0 0 69 3
+#1821
+saraswati patroness goddess~
+Saraswati, Patroness of all that is Beautiful~
+Saraswati turns her head to serenely gaze at you.
+~
+This goddess is patroness of song, poetry and enlightenment. Her features
+are both lovely and serene.  Her earthly shape caresses the watery
+surface of the great river that was named after her yet she remains
+magically dry. Her beautiful ivory features are framed by very long flowing
+deep purple hair which is parted down the center. She is dressed in silky
+lavendar robes. She is surrounded by a mystic aura of transcendental wisdom.
+~
+67 6291624 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 175 0 0 0 192 3
+#1822
+brahma god~
+Brahma, Great God of Creation~
+The four-headed god Brahma snaps his fingers as you approach.
+~
+In the beginning of the world, Brahma assigned eight mighty elephants to
+support the four quarters of the world. Brahma's four heads correspond to
+the four directions of the world and he also has two sets of arms, one on
+either side. He is clad in baggy tangerine colored pants with a vest of
+melon gold and headgear to match. His magical pearl amulets are set with
+large blood red pigeon rubies.
+~
+131139 71303336 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 239 1048576 1 0 201 3
+#1823
+brynhild valkyrie maiden~
+Brynhild, Shield-Maiden to the gods~
+A beautiful maiden clad in bynie or mail shirt arises as you approach.
+~
+This tall maiden has winged feather plumes on her head offsetting her
+russet colored hair.  She wields a long polearm whose fearsome spear
+glows magically.  A dark silvery mail shirt is worn over her burnt sienna
+colored skirts. A regal dark purple cloak is fastened about her shoulders.
+She will marry no man who knows fear.
+~
+67 168 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 175 0 0 0 240 3
+#1824
+sigurd hero dragonslayer~
+Sigurd, Hero and Dragonslayer~
+The Hero Sigurd brandishes his fiery dragonslayer-sword Gram.
+~
+Sigurd was the son of the great king Sigmund the Volsung and his wife
+Hjordis. After his father's death, he brought his father's broken sword
+to Regin the Dwarf to reforge.  It was then called Gram and its blade
+gleamed like fire.  Sigurd went on to defeat the dragon Fafnir taking
+the dragon's bane as well as Fafnir's Helm of Terror.  Sigurd is heavily
+muscled with longish golden hair and looks every inch the hero he is.
+~
+131137 50332296 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 175 0 0 0 240 3
+#1825
+airwalker air walker~
+AirWalker~
+The Windwalker swirls by blending into the breeze.
+~
+The tall mystic figure is a translucent aquamarine color with swirls of
+silvery tinges.  He traverses the paths quietly as if searching for
+something or as if he was carrying messages back and forth.
+~
+193 70779528 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 752 7
+#1826
+forest walker forestwalker~
+ForestWalker~
+The Forestwalker silently emerges from behind some greenery.
+~
+The short but sturdy mystical being is dressed in garments of various
+shades of green which appear to be made from leaves. He travels the paths
+quietly as if searching for something or as if he was carrying messages
+back and forth.
+~
+67 168 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 239 0 0 0 2097904 7
+#1827
+earthwalker earth walker~
+Earthwalker~
+The Earthwalker leaves no footprints behind her as she travels.
+~
+A tall mystical earthy-toned being wears a brown cape which flickers
+magically with flames.  She travels the path stoically and silently as if
+searching for something or as if she was carrying messages back and forth.
+~
+193 271057064 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 47 0 0 0 624 7
+#0
+
+
+#OBJECTS
+#1800
+lotus blossom bracelet~
+lotus blossom bracelet~
+An intricately etched silvery bracelet has a lotus blossom embossed on it.~
+~
+9 1 4097
+18 11 9 0
+1 2400 240
+A
+19 2
+A
+24 -2
+#1801
+thornbird leaf pill~
+thornbird leaf~
+A green leaf-shaped cookie sits here.~
+~
+26 1 1
+40 -1 -1 -1
+1 4000 400
+#1802
+piece cobwebs sleeves~
+a piece of cobwebs~
+These magical cobwebs have been woven into a pair of sleeves.~
+~
+9 1 257
+7 7 7 7
+3 2800 280
+A
+5 -1
+A
+12 10
+A
+19 2
+A
+24 -2
+#1803
+chicken bone~
+chicken bone~
+This massive chicken-bone shaped polearm is extremely large.~
+~
+5 1 8193
+0 4 9 0
+25 3200 320
+A
+18 2
+A
+19 2
+#1804
+frozen tears~
+frozen tears~
+A glowing blue-white staff fashioned of frozen tears lies nearby.~
+~
+4 2 16385
+40 10 10 8
+10 3700 370
+#1805
+mystic breeches legends~
+mystic breeches of legends~
+A softly draped pair of forest green breeches made from magical cloth~
+~
+9 2 33
+9 9 9 8
+5 3000 300
+A
+3 2
+A
+19 3
+#1806
+turquoise mask~
+turquoise mask~
+A silk turquoise mask with irridescent colors lies nearby.~
+~
+9 1 131073
+9 9 9 9
+2 2000 200
+#1807
+garment quetzal feathers~
+garment of quetzal feathers~
+This well crafted garment bedazzles your eyes with brillant colors.~
+~
+9 1 1025
+9 8 8 0
+5 3100 310
+A
+4 3
+A
+24 -2
+#1808
+coyote paws~
+coyote paws~
+A silver furry pair of gauntlets are sitting here.~
+~
+9 2 129
+10 11 10 0
+5 2500 250
+A
+1 3
+A
+18 2
+A
+19 2
+#1809
+moonbeams key~
+moonbeams~
+A magical drift of moonbeams coalesces into a key.~
+~
+18 1 1
+0 0 0 0
+1 0 0
+#1810
+hot claws~
+hot claws~
+A fiery colored flail with hot sizzling claws sits here.~
+~
+5 1 8193
+0 5 7 0
+10 4500 450
+A
+19 3
+#1811
+beaten gold ankh necklace~
+beaten gold ankh necklace~
+A massive necklace has had hieroglyphics inscribed in the gold.~
+~
+9 1 5
+8 8 8 7
+10 3400 340
+A
+19 3
+A
+24 -1
+A
+18 3
+#1812
+blaze undead eater~
+blaze of the undead eater~
+This torch glows with an unholy blood-reddish flame.~
+~
+1 8193 1
+0 0 999 0
+8 250 25
+A
+2 2
+A
+13 35
+#1813
+turquoise lump~
+a lump of turquoise~
+This lump of turquoise must have fallen off the shaman's anklet.~
+~
+9 1 65
+6 5 5 6
+1 875 87
+A
+3 1
+A
+4 1
+A
+5 1
+#1814
+pomegranate potion~
+pomegranate potion~
+A melon-colored pomegranate potion has been sealed in minature glass flask.~
+~
+10 1 1
+45 28 3 -1
+1 2945 294
+#1815
+cloak underworld~
+Cloak of the Underworld~
+A voluminous dark cloak with reddish glints lies in a heap.~
+~
+9 2 1025
+10 9 10 9
+5 2375 237
+A
+5 2
+A
+19 3
+#1816
+boots silence~
+boots of silence~
+These soft suede boots were hand crafted and glow with a magical aura.~
+~
+9 1073741825 65
+8 7 9 0
+10 2692 269
+A
+14 60
+A
+19 2
+A
+18 5
+#1817
+golden goblet ring~
+golden goblet ring~
+This unusual ring has a miniature golden goblet embossed on it.~
+~
+9 1 3
+9 9 8 2
+1 2810 281
+A
+4 2
+A
+5 2
+#1818
+mystic cowhide belt~
+mystic cowhide belt~
+This handsome looking belt is a blend of cream and tan.~
+~
+61 1 2049
+11 10 11 9
+2 3220 322
+A
+1 3
+A
+13 15
+#1819
+mystic amethyst chain~
+mystic amethyst chain~
+This bracelet has been formed from shimmering amethyst links.~
+~
+9 1073741825 0
+8 8 8 0
+1 3450 345
+A
+12 40
+A
+19 2
+#1820
+mystic pearl shield~
+mystic pearl shield~
+There is a magical pearl colored sheen glazed on the metal on this shield.~
+~
+9 1 513
+12 13 12 13
+15 3600 360
+A
+2 3
+A
+14 50
+A
+18 2
+#1821
+bynie shirt~
+bynie shirt~
+You see a finely draped magical shirt made of metal overlapping plates.~
+~
+9 2 9
+15 14 14 13
+20 3750 375
+A
+3 2
+A
+19 2
+#1822
+valkyrian spear~
+valkyrian spear~
+This darkly glowing spear has an Angel of Death embossed on it.~
+~
+5 2 8193
+0 5 13 0
+30 4200 420
+A
+18 4
+A
+19 4
+#1823
+fafnir helm terror~
+Fafnir's Helm of Terror~
+This large ornate black and gold helm radiates a magical aura.~
+~
+9 2 17
+13 12 13 12
+15 3900 390
+#1824
+gram dragonbane sword~
+Gram the Dragonbane Sword~
+A mighty sword with a blood-red handle is stuck in the ground nearby.~
+~
+5 2 8193
+0 5 13 0
+30 4800 480
+A
+3 2
+A
+18 2
+A
+19 2
+#1825
+mystic chest moonbeams~
+mystic chest of moonbeams~
+A mystic chest of moonbeams~
+~
+15 1 1
+199 1 0 0
+1 0 0
+#1826
+pile of gold~
+pile of gold~
+A pile of gold coins~
+~
+20 0 1
+15000 0 0 0
+1 0 0
+#1827
+barrel cactus~
+barrel cactus~
+A green barrel cactus filled with water grows here.~
+~
+25 1 0
+999 999 0 0
+500 0 0
+#1828
+blue pebble key~
+blue pebble~
+A curiously shaped blue pebble lies here.~
+~
+18 1 1
+0 0 0 0
+1 0 0
+#1829
+firewood sticks raft~
+fsmall raft of firewood sticks~
+This pile of firewood sticks has been fashioned into a small raft.~
+~
+22 1 1
+0 0 0 0
+30 0 0
+#1830
+clam shell knife~
+clamshell knife~
+Coyote's sharp clamshell knife~
+~
+5 2 8193
+0 4 10 0
+3 4400 440
+A
+18 1
+A
+19 2
+#1831
+shiny pile gold~
+shiny pile of gold~
+A shiny pile of gold coins~
+~
+20 0 1
+5000 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#1800
+Entrance to Mystic Landscape~
+A medium sized pond sparkles under the the dancing sunbeams that swirl
+towards it.  Everything around it seems to be mysteriously more alive from
+the blue-green buzzing of the dragonfly to the verdant green of a water
+lily pad topped with a creamy fragrant blossom.  You can also hear ancient
+tales told by the shaman in this very spot.  A small sign is quietly posted 
+by the side of the lake.
+~
+0 0 2
+D0
+You see a Magic World to your north.
+~
+~
+0 -1 1801
+E
+sign~
+Being magical this world is likely to expand at a future date in tribute
+to the sense of wonder which is our common bind.  Some of you may know me
+as Silver, some as Misty, some as Amethyst or Silvermist.  Enjoy your quest
+through this area.   @-> Silver <-@
+~
+S
+#1801
+The Magic World~
+Everything around here seems to be mysteriously more alive from the
+blue-green buzzing of the dragonfly to the verdant green of a water lily
+pad topped with a creamy fragrant blossom.  You can also hear ancient tales
+told by the shaman in this very spot. A path which wends about takes an odd
+U-shaped detour around a smooth gray boulder favored by the "little" people.
+~
+0 0 2
+D0
+You see an enchanted landscape to your north.
+~
+~
+0 -1 1802
+D2
+You see the entrance to mystic landscapes to your south.
+~
+~
+0 -1 1800
+S
+#1802
+The Enchanted Landscape~
+Enchantment is everywhere around you.  The magic of elfin songs echo here
+during twilight.  A little Hobbit snoozes against the bark of a Ancient
+Willow that is rumored to gobble up wee folk.  The roots from magical
+trees almost seem to rise from the earth to trip your very feet. At night
+you can spy the fey lights of the marsh creatures.  Everything seems to
+breath a secret magic.  A small neat sign has been set in the ground.
+~
+0 0 2
+D0
+You see a path bedecked by multi-jewel colored flowers to the north.
+~
+~
+0 -1 1803
+D1
+You see a path of dancing to your east.
+~
+~
+0 -1 1826
+D2
+You see a lovely blue pond to the south.
+~
+~
+0 -1 1801
+D3
+You see a forested path of legends to your west.
+~
+~
+0 -1 1810
+E
+sign~
+Let magic guide your steps!
+North to Great Mother Earth Archetypes...
+West to Masculine & Feminine Mystic Figures...
+East to Mythological Dance of the Genders...
+~
+S
+#1803
+Path of Mother Earth~
+Mother earth figures have been revered for thousands of years in many
+cultures.  This verdant path weaves in and out of various magical
+landscapes.  Multi-colored jewel like flowers set in large earthern
+pots have been set to the side of the path.  Here magical visions abound
+with magical myths.
+~
+0 0 2
+D0
+You see more of the path to the north.
+~
+~
+0 -1 1804
+D2
+You see an enchanted landscape to the south.
+~
+~
+0 -1 1802
+S
+#1804
+Path of Mother Earth~
+Mother earth figures have been revered for thousands of years in many
+cultures.  This verdant path weaves in and out of various magical
+landscapes.  Multi-colored jewel like flowers set in large earthern
+pots have been set to the side of the path.  Here magical visions abound
+with magical myths.
+~
+0 0 2
+D0
+You see more of the path to the north.
+~
+~
+0 -1 1808
+D1
+You sense a vast warmth coming from the fields to the east.
+~
+~
+0 -1 1805
+D2
+You see more of the path to the south.
+~
+~
+0 -1 1803
+D3
+You see the Old Woman of the Harvest to your west.
+~
+~
+0 -1 1806
+D4
+The fragrant scent of lotus and peach blossoms wafts downwards.
+~
+~
+0 -1 1825
+S
+#1805
+Ashanti of Western Plains~
+A red glowing sun outlines the silouhette of a large thornbird tree set to
+the side of several steeply sloping sand dunes.  A small flock of goats are
+traveling through this area. The green of the fields contrasts with the
+bleached appearance of the dunes. Here in the fields prayers were offered
+up to Asase Yaa, the Great Goddess of Fertility and the Source of Life,
+who was much revered by the Ashanti tribes.
+~
+0 0 2
+D3
+You see a path bedecked by multi-jewel colored flowers to the west.
+~
+~
+0 -1 1804
+S
+#1806
+Old Woman of the Harvest~
+Rippling fields of golden grain sweep the horizon as far as your eyes
+can see.  Warm sunshine dances about the wheat kernels gilding them to
+a silvery perfection.  A peasant family seems to be sharing a simple
+lunch at mid-day.  Prior to eating they invoke a blessing from Baba.
+~
+0 0 2
+D1
+You see the path of Mother Earth to your east.
+~
+~
+0 -1 1804
+D3
+You see a fearsome hut on chicken bone legs to the west.
+~
+~
+0 -1 1807
+S
+#1807
+The Chicken Hut~
+A fearsome looking hut which stands on chicken bone legs is surrounded by
+a fence topped with what look like human skulls.  Flames flicker about
+and under Ceredwin's Cauldron as some evil looking brew bubbles in the
+pot.  Dark shadows dance from the pointed shafts of the fence. You shudder
+at the trail of blood leading to the front door. The hut has been known
+to gallop about whirling this way and that way so that the victims can
+never escape. Eerie cackling noises just about chill your blood.
+~
+0 0 1
+D1
+You see a field of grain to the east.
+~
+~
+0 -1 1806
+S
+#1808
+Path of Mother Earth~
+Mother earth figures have been revered for hundreds of years in many
+cultures.  This verdant path weaves in and out of various magical
+landscapes.  Multi-colored jewel like flowers set in large earthern
+pots have been set to the side of the path.  Here magical visions abound
+with magical myths.
+~
+0 0 2
+D1
+You see a vast barren frozen wilderness to the east.
+~
+~
+0 -1 1809
+D2
+You see more of the path to the south.
+~
+~
+0 -1 1804
+S
+#1809
+Demeter's Sorrow~
+A seemingly eternal winter landscape meets your eye in this area and yet
+it has a haunting sorrowful air which outweighs its pristine lovliness.
+In the fields you can see the vegetables frozen on the vine alongside
+iced over withered stalks of grains and flanked by trees whose chilled
+barren fruits bespeak famine and hardship for those who live here. The
+cold wind carries heart-rending sobs to your ears.  You can barely make
+out the distant figure of the great goddess Demeter as she mourns the loss
+of her daughter Persephone.
+~
+0 1 1
+D3
+You see a path with jeweled flowers to your west.
+~
+~
+0 -1 1808
+S
+#1810
+Forested Path of Legends~
+This earth covering this path glows with a magical light.  Shimmering
+footprints of various mythical heros and heroines still remain imprinted.
+The shrubbery is touched with a freshing dew and you think glimpse
+a lordly stag grazing behind a cluster of white-birch trees. Alongside
+the path you notice various twigs, fallen branches and logs which would
+make good firewood.
+~
+0 0 1
+D1
+You see an enchanted landscape to your east.
+~
+~
+0 -1 1802
+D3
+You see a forested path to your west.
+~
+~
+0 -1 1811
+S
+#1811
+Forested Path of Legends~
+This earth covering this path glows with a magical light.  Shimmering
+footprints of various mythical heros and heroines still remain imprinted.
+The shrubbery is touched with a fresh dew and you think glimpse
+a lordly stag grazing behind a cluster of white-birch trees. Alongside
+the path you notice various twigs, fallen branches and logs which would
+make good firewood.
+~
+0 0 1
+D0
+You see a pyramid like structure to your north.
+~
+~
+0 -1 1813
+D1
+You see a forested path to the east.
+~
+~
+0 -1 1810
+D2
+You hear melodious lute music to your south.
+~
+~
+0 -1 1812
+D3
+You see more of the forested path to the west.
+~
+~
+0 -1 1815
+S
+#1812
+Tales of Wonder~
+It was here the great queen and sorceress named Ceridwen had a son,
+Morfran, who turned out to be ill-favored and slow.  She brewed a special
+cauldron for him with great wisdom inside. This brew was accidentially
+swallowed by Gwion Bach who then turned into Taliesin who became
+Ceridwen's son also.  The words of his wondrous tale begin to lead your
+thoughts into a dream world and the music from his lute is both intriguing
+as well as alluring.
+~
+0 0 2
+D0
+You see a forested path to the north.
+~
+~
+0 -1 1811
+S
+#1813
+The Plumed Serpent~
+The air seems more temperate here and lovely waxy white tropical flowers
+with thin crimson stripes bloom in mass profusion on the nearby vines which
+tumble about the lush green grass.  A curious pyramid rises from the ground
+continuing upwards for about 40 meters.  The apex of the pyramid supports
+a square tiered artifact and someone has gone to alot of trouble to layer
+bands of turquoise which alternate with the golden sandstone. A radiant
+diffused beam of shimmering golden-white light dances about the artifact.
+Large tropical birds of emerald green and cobalt blue are perched on some
+of the vines. Near the front base you notice some steps going down.
+~
+0 0 2
+D2
+You see the Path of Legends to your south.
+~
+~
+0 -1 1811
+D5
+You see some steps leading down.
+~
+~
+0 -1 1814
+S
+#1814
+Inside the Turquoise and Golden Pyramid~
+The shimmering beam of light is still visible but seems dimmer here.
+Tezcatlipoca is pleased with himself for having been able to tempt and
+upset Quetzelcoatl.  As ever, the forces of evil wish to be victorious.
+A magical mirror, gilded with a scalloped design and topped with a gargoyle
+type stone beast, is suspended in mid-air.  Scattered queztel feathers
+blaze in an iridescent glory on the floor.
+~
+0 1 0
+D4
+You notice some steps leading up.
+~
+~
+0 -1 1813
+S
+#1815
+Forested Path of Legends~
+The magical path continues leading onward through a pleasant forested area.
+Here the light seems to be dimming into the enchanting blue hour of twilight.
+Soft merry sounds of laughter can be heard from behind some clumps of
+tropical bushes and you wonder what little folk might be darting about.
+You are nearing the abode of the wily trickster god Coyote. He has two
+entrances west and south - which one will you take?
+~
+0 0 2
+D0
+You see the Path to the Dead to your north.
+~
+~
+0 -1 1824
+D1
+You see the forested path of legends to your east.
+~
+~
+0 -1 1811
+D2
+You see whirling mischief going on to your south.
+~
+~
+0 -1 1816
+D3
+You see some whirling mischief going on to the west.
+~
+~
+0 -1 1819
+S
+#1816
+Dances With the Salmon Girls~
+You howl with frustration as you step very precisely right into the covered
+over pit Coyote has set up to cause mischief.  Wow, you seem to be
+surrounded by all these salmon girls who giggle at your discomfort even as
+they stare coyly at you. On second glance, not so good, they all seem to
+be pregnant. Coyote has apparently been a busy god. You scan about for a way
+to get out of here. You also promise yourself that someone is going to pay
+for this inconvenience!
+~
+0 1 0
+D2
+You see an unusual looking tree to the south.
+~
+~
+0 -1 1817
+S
+#1817
+The Bewitched Tree~
+This tree might be as beautiful as it is big, but you wouldn't know since
+you seem to be stuck inside it minus the salmon colored girls.  A sign
+hanging inside the tree informs you that this tree has been bewitched,
+bothered, and bewildered by the Old Trickster, Coyote, himself. This tree
+seems to be proud of the fact that it hid Coyote from getting punished for
+making all the salmon girls pregnant.  Wow, it sure doesn't look like your
+lucky day!  Opps, you almost trip on some of the gnarly roots down by your
+feet.
+~
+0 1 0
+D3
+You see a gnarled wooden locked door leading to a tree root branch.
+~
+gnarled wooden door~
+39 1828 1818
+S
+#1818
+Along the Tree Root~
+Well even though it is a nice clean hollowed out tree root it still smells
+alot like fungus.  Squeezing thru here isn't exactly all that much fun.
+Still you hear sounds of dancing and music and laughter getting alot closer.
+You wonder what that chest is doing lying here on the ground but you even
+more curious about the wee hidey hole thru which moonlight is streaming.
+A dancing coyote seems to be having a merry old time from what you can see.
+There seems to be absolutely no way to get to him thru the wee hidey hole.
+~
+0 1 0
+D1
+You see a gnarled wooden door to your east.
+~
+gnarled wooden door~
+39 1828 1817
+D5
+You spy another hidey hole in the dirt floor.
+~
+hidey hole~
+3 -1 1836
+S
+#1819
+Dances with the Moon~
+This area is bathed in a luminescent pearly white light from the moon
+goddess herself.  Coyote, that wily charming Trickster has enticed her
+down to dance with him.  You are touched by the haunting lovliness of
+her beautiful luminous face which is nestled within the round moon sphere
+and gilded with a silvery moon crescent to the right.  You notice some
+irregularly shaped cliffs to the left of this area.  A very large grinning
+silvery colored coyote is prancing about dancing with the moon goddess.
+Also to the west you notice the Esselas River between the cliffs.  There is
+another forest of sorts that you can see off in the distance as well.
+~
+0 0 2
+D1
+You see more of the forested path to the east.
+~
+~
+0 -1 1815
+D3
+~
+~
+0 -1 22000
+D5
+You see a path leading down the cliffs.
+~
+~
+0 -1 1820
+S
+#1820
+Pathway down Moonlit Cliffs~
+An narrow path, almost hidden by a shadow, leads down the cliffs.  A light
+breeze ruffles your hair as you climb down. You notice some small blue
+pebbles scattered about.  You wonder what is at the bottom.
+~
+0 0 2
+D4
+You see a coyote dancing with the moon goddess as you look up.
+~
+~
+0 -1 1819
+D5
+You see a pathway down the cliffs as you look down.
+
+~
+~
+0 -1 1821
+S
+#1821
+Pathway down Moonlit Cliffs~
+An narrow path, almost hidden by a shadow, leads down the cliffs.  A light
+breeze ruffles your hair as you climb down. You notice some small blue
+pebbles scattered about.  Something brushes against your legs causing you
+to peer about suspiciously.
+~
+0 0 2
+D2
+You notice a shadowy cave to the south.
+~
+~
+0 -1 1822
+D4
+You see a pathway leading up the cliffs.
+~
+~
+0 -1 1820
+D5
+You see the canyon at the bottom of the cliffs.
+~
+~
+0 -1 1823
+S
+#1822
+Shadowy Alcove~
+As you enter this cave all sounds of music seem to magically vanish.
+Piles of bones litter the floor randomly tossed here and there. The floor
+is slippery with fresh blood and the smell is not appealing at all. A low
+pitched guttural sound is the only warning you get before hot claws start
+to rake your legs.
+~
+0 1 0
+D0
+You see a path in the cliffs.
+~
+~
+0 -1 1821
+S
+#1823
+Canyon at Bottom of Cliffs~
+It seems warmer down here than up on top of the cliffs. Small nocturnal
+animals scurry across the canyon floor. Shimmering sparkles of moon
+goddess laughter waft towards the ground. You can't see anything else of
+much interest and now that you are down here you have a strong desire to
+quickly climb back up.
+~
+0 0 2
+D4
+You see a path leading up the cliffs.
+~
+~
+0 -1 1821
+S
+#1824
+The Path to the Dead~
+The great god Anubis waits here to guide souls to judgment along this path.
+He oversees the weighing of the mortal heart so that only the corpses of
+the unjust are given to the Eater of the Dead. Strange alien hieroglyphics
+coalesce, dissolve and reform again in the swirling dark blue mists. It
+is said that this very path leads to the great god Osiris who sits upon
+the throne of Judgment. A pair of golden scales are carefully stacked
+close to Anubis and he waves a green palm frond in one hand.
+~
+0 0 2
+D2
+You see the path of legend to your south.
+~
+~
+0 -1 1815
+S
+#1825
+Lotus in Hand~
+Peach trees bloom in pastel profusion in this peaceful area with jade green
+hill-cliffs in the background.  Two snowy-white hares cavort around a small
+turqoise meditation pond topped with emerald green lily pads and light pink
+blossoms.  A flock of pure white geese fly overhead soaring through the
+azure skies. A pale thin sugar-white crescent moon has risen over the
+horizon.  Kuan Yin often comes here to listen to the weeping world and
+offer enlightment to those who listen.
+~
+0 0 2
+D5
+You see the path of mother earth.
+~
+~
+0 -1 1804
+S
+#1826
+Dancing Path of Genders~
+Magical pale green snow-roses as well as golden and delft striped crocus
+bloom right up through patches of snow alongside the path.  Small pools of
+hot springs bubble up through the ground. The path is one of pearly white
+pebbles edged with jet black smooth rounded stones.  Evergreen needles
+brush up against bare tree branches. Soft grey doves bill and coo amongst
+the tree tops side by side with fierce looking falcons.  The path beckons
+you onward.
+~
+0 0 2
+D1
+You see the alien dancing path to your east.
+~
+~
+0 -1 1837
+D3
+You see an enchanted landscape to your west.
+~
+~
+0 -1 1802
+S
+#1827
+Dancing Path of Genders~
+Jewel colored hummingbirds sip magical nectar from the snow-roses
+while big striped velvety bees so the same from the crocus. Bleeding
+heart blossoms of alabaster white, baby pink and crimson red drip
+heavily off of arched green branches.  Here the snow is lightly frosted
+in lace-like patterns over the greenery.  Tiny golden arrows are scattered
+over the landscape. The path is one of pearly white pebbles edged with jet
+black smooth rounded stones. Soft grey doves bill and coo amongst the tree
+tops.  The path beckons you onward.
+~
+0 0 2
+D0
+You see Erebus to your north.
+~
+~
+0 -1 1828
+D1
+You see dancing path of genders to your east.
+~
+~
+0 -1 1831
+D2
+You see a pair of lovers to your south.
+~
+~
+0 -1 1829
+D3
+You see the alien dance of genders to your west.
+~
+~
+0 -1 1847
+S
+#1828
+Erebus the Underworld Abode~
+This is the outermost reach of the Underworld ruled by Hades and his lovely
+wife Persephone.  Having eaten some seeds from a pomegranate fruit,
+Persephone must split her time between between her mother's sunny fields in
+Spring and Summer and her husband's shadowy realms in Fall and Winter.
+They are cradled in a sort of blue-grey pit whose walls are set with many
+outcropping smooth shale rocks.  Persephone is even now preparing to take
+flight to the sunny fields.
+~
+0 0 2
+D2
+You see a dancing path of genders to your south.
+~
+~
+0 -1 1827
+S
+#1829
+Outside the Lovers Cave~
+The sky here is a deeper blue with shrouded white masses of clouds obscuring
+the sun.  On a rise to one side is a clump of white birch tree. You notice
+a pair of lovers strolling cautiously as they get some fresh air. Legend
+has it that they are eluding the vengeful old King of the army known as
+the Fiana.  The man wears a leaf green shirt and has an earthern brown cloak
+draped round his shoulders secured by a round silver brooch inlaid with
+onyx and gold.  The lass wears a wreath of white flowers and has gently
+laid one hand on his back.  Even as you spot a cave opening to the west,
+you hear the chilling sound of a hound baying.
+~
+0 0 2
+D0
+You see a dancing path of the genders to your north.
+~
+~
+0 -1 1827
+D3
+You see a Lovers cave to your west.
+~
+~
+0 -1 1830
+S
+#1830
+Lovers Cave~
+Though the cave is darkened you feel a magical sense of safety here.
+You see neat piles of clothing and a bed of sorts made from evergreen
+branches that are covered with a comforter. Even the baying sounds of the
+hounds seems dimmer though you shiver slightly with the foreboding
+that Diarmuid will die protecting his lover, Grainne, from the aged King
+of the Fiana, Finn.  Legend has it that Finn was eventually deserted by his
+army for continuing to hunt down the lovers. After Dairmuid's death, Grainne
+lives on for a time but eventually perishes of grief and is buried by him.
+~
+0 1 0
+D1
+You see a wooded area outside of the cave to your east.
+~
+~
+0 -1 1829
+S
+#1831
+Dancing Path of Genders~
+Magical pale green snow-roses as well as golden and delft striped crocus
+bloom right up through patches of snow alongside the path.  Small pools of
+hot springs bubble up through the ground. Tiny golden arrows are scattered
+over the landscape. The path is one of pearly white pebbles edged with jet
+black smooth rounded stones. Soft grey doves bill and coo amongst the tree
+tops.  The path beckons you onward.
+~
+0 0 2
+D0
+You see the slopes of Mount Abu to the north.
+~
+~
+0 -1 1832
+D3
+You see the dancing path of genders to your west.
+~
+~
+0 -1 1827
+D4
+You see cliffs of Hindarfell as you look up.
+~
+~
+0 -1 1834
+S
+#1832
+The Slopes of Mount Abu~
+A great fissure in the earth has opened up near the slopes of Mount Abu.
+Into it fell the Cosmic Cow, Kama-duh, whose milking yields whatever you
+wish.  Saraswati, as a great river, has flowed into the crevasse, floating
+the cow to the surface and thus saving her. The blue-green waters of the
+river are gilded over with silvery ripples.
+~
+0 0 6
+D0
+You see a lovely and dignified couple to the north.
+~
+~
+0 -1 1833
+D2
+You see the dancing path of genders to the south.
+~
+~
+0 -1 1831
+S
+#1833
+The Great River~
+Saraswati and Brahma, a most dignified and lovely couple, are meditating
+here. Above the silvery gilded blue-green waters of the river, Brahma
+lithely reposes on an enormous yet very graceful white swan who magically
+hovers in that one spot. The gracious goddess is lightly reclining upon
+the fluid surface as if it was a satin lounging couch. Golden ribbons
+are woven through her flowing deep purple hair. A few fragrant ivory
+lotus blossoms break the surface of the river.
+~
+0 0 6
+D2
+You see the slopes of Mount Abu to the south.
+~
+~
+0 -1 1832
+S
+#1834
+Cliffs by Hindarfell~
+Looking up the purpled cliffs near Hindarfell you see a great light as if
+a fire had blazed.  The cliffs are silhouetted by a full moon and studded
+with night-darkened evergreen trees. You notice footprints in the path
+leading further up the cliff.
+~
+0 1 4
+D4
+You see a flame-bright bier further up the cliff.
+~
+~
+0 -1 1835
+D5
+You see the dancing path of the genders.
+~
+~
+0 -1 1831
+S
+#1835
+The Valkyrian Bier~
+It is on this cliff that the Hero Sigurd spied a beautiful young woman who
+was asleep and fell in love with her immediately. Wakened by his presence,
+Brynhild arose full of wonder and foretold his arrival even describing
+the bane or heart he was holding after having vanquished the cruel and
+fearsome dragon Fafnir.  This very bane had set her free from Odin's
+Thorn of Sleep given her as a punishment for her actions which had
+displeased and caused him to vanquish her from his Valkyrian maidens.
+~
+0 1 4
+D5
+You see a path leading down the cliff.
+~
+~
+0 -1 1834
+S
+#1836
+Coyote's Hidden Treasure Room~
+It is semi-dark down here and rather quiet in this long tunnel like place.
+The packed earth walls seem secure and the air has an earthy fragrance to
+it.  Most of the footprints you see are coyote paws.  The wily one must
+chortle to himself when he hides his treasure here.  You notice that the
+bottom slopes downwards with a mound of dirt at the far end.
+~
+0 1 0
+D3
+It is so dark you can't see very much beyond here.
+~
+mound dirt~
+3 -1 1822
+D4
+You spy another hidey hole in the ceiling.
+~
+hidey hole~
+1 -1 1818
+S
+#1837
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. A shimmering cave-mirage is off to one side. You hear doves
+cooing in the background.
+~
+0 0 2
+D0
+You see falcons to the north.
+~
+~
+0 -1 1845
+D1
+You see snow crocuses to the east.
+~
+~
+0 -1 1844
+D2
+You see tiny golden arrows to the south.
+~
+~
+0 -1 1838
+D3
+You see the beginning of the dance of the genders path to your west.
+~
+~
+0 -1 1826
+S
+#1838
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. The heat from some of the bubbling hot springs is melting
+some of the snow.
+~
+0 0 2
+D0
+You see a shimmering cave-mirage to the north.
+~
+~
+0 -1 1837
+D1
+You see fragrant bleeding hearts to the east.
+~
+~
+0 -1 1839
+D2
+You see hot springs.
+~
+~
+0 -1 1838
+D3
+You see hot springs.
+~
+~
+0 -1 1838
+S
+#1839
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. Fragrant bleeding hearts blossoms of alabaster white, baby
+pink and crimson red drip heavily off of arched green blossoms.
+~
+0 0 2
+D0
+You see crushed white pebbles.
+~
+~
+0 -1 1844
+D1
+You see hummingbirds sipping magical nectar.
+~
+~
+0 -1 1840
+D2
+You see bleeding hearts.
+~
+~
+0 -1 1839
+D3
+You see bubbling hot springs.
+~
+~
+0 -1 1838
+S
+#1840
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  Jewel colored hummingbirds sip magical nectar from the snow
+roses. Black smooth rounded stones edge the path.
+~
+0 0 2
+D0
+You hear doves cooing.
+~
+~
+0 -1 1845
+D2
+You see jewel colored hummingbirds.
+~
+~
+0 -1 1840
+D3
+You see fragrant bleeding hearts.
+~
+~
+0 -1 1839
+S
+#1841
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  Big striped velvety bees are buzzing amongst the flowers
+while birds roost up in the evergreens.
+~
+0 0 2
+D0
+You see lace-like patterns of snow over the greenery.
+~
+~
+0 -1 1842
+D2
+You see big striped velvety bees.
+~
+~
+0 -1 1841
+D3
+You see big striped velvety bees.
+~
+~
+0 -1 1841
+S
+#1842
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. Lace-like patterns of snow are sifted over the mounds of
+greenery.  A mirage-like effect of many females talking to each other is
+off to the distance.
+~
+0 0 2
+D0
+You see a mirage-like effect of many females talking to each other.
+~
+~
+0 -1 1842
+D1
+You see a mirage-like effect of many females talking to each other.
+~
+~
+0 -1 1842
+D2
+You see some big velvety striped bees to the south.
+~
+~
+0 -1 1841
+D3
+You hear doves cooing.
+~
+~
+0 -1 1843
+S
+#1843
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. Doves are placidly cooing in the treetops while the nearby
+falcons seem to have a glazed look in their heavy lidded eyes.
+~
+0 0 2
+D0
+You see a mirage of a caveman's club on the ground.
+~
+~
+0 -1 1847
+D1
+You see a mirage-like effect of many females talking to each other.
+~
+~
+0 -1 1842
+D2
+You see jet black smooth rounded stones along the path.
+~
+~
+0 -1 1840
+D3
+You see pearly white pebbles forming a path.
+~
+~
+0 -1 1844
+S
+#1844
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  The path is one of pearly white pebbles edged with jet black
+smooth rounded stones. You see a mirage of a couple exchanging a tender
+kiss off in the distance.
+~
+0 0 2
+D0
+You see tiny golden arrows scattered amidst bleeding hearts.
+~
+~
+0 -1 1846
+D1
+You see some bored looking falcons.
+~
+~
+0 -1 1843
+D2
+You see various colors of fragrant bleeding hearts.
+~
+~
+0 -1 1839
+D3
+You see a shimmering cave-mirage.
+~
+~
+0 -1 1837
+S
+#1845
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  Off to one side are sets of dancing footprints.
+~
+0 0 2
+D1
+You see tiny golden arrows scattered amidst bleeding hearts.
+~
+~
+0 -1 1846
+D2
+You hear doves cooing close to a shimmering cave-mirage.
+~
+~
+0 -1 1837
+D3
+You see dancing footprints.
+~
+~
+0 -1 1845
+S
+#1846
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  Tiny golden arrows are scattered amidst fragrant bleeding
+hearts. A mirage of a couple embracing is off to the distance.
+~
+0 0 2
+D0
+You see bubbling hot springs.
+~
+~
+0 -1 1848
+D1
+You see a mirage of a caveman's club.
+~
+~
+0 -1 1847
+D2
+You see a mirage of a couple exchanging a tender kiss.
+~
+~
+0 -1 1844
+D3
+You see dancing footprints.
+~
+~
+0 -1 1845
+S
+#1847
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. You see a mirage of a caveman's club off the the distance.
+Sounds of male and female voices drift in but you can't tell exactly which
+direction they are coming from. The path beckons onward.
+~
+0 0 2
+D0
+You see lavendar and yellow crocuses.
+~
+~
+0 -1 1849
+D1
+You see the path of Dancing Genders.
+~
+~
+0 -1 1827
+D2
+You see doves cooing.
+~
+~
+0 -1 1843
+D3
+You see a mirage of a couple embracing.
+~
+~
+0 -1 1846
+S
+#1848
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself. Bubbling hot springs seem to co-exist right next to frosty
+snow patches so long as neither one crosses the alien shores.
+~
+0 0 2
+D0
+You see hot bubbling springs.
+~
+~
+0 -1 1848
+D1
+You see lavendar and yellow crocuses.
+~
+~
+0 -1 1849
+D2
+You see a mirage of a couple embracing.
+~
+~
+0 -1 1846
+D3
+You see frosty snow patches.
+~
+~
+0 -1 1848
+S
+#1849
+Alien Dance of Genders~
+Wow, looks like the pathmakers couldn't make up their minds. The pathway
+curves here to the right and there to left and even seems to fold back
+upon itself.  Lavendar and yellow crocus bloom amidst the soft white of
+the winter roses.
+~
+0 0 2
+D1
+You see winter roses.
+~
+~
+0 -1 1849
+D2
+You see the mirage of a caveman's club.
+~
+~
+0 -1 1847
+D3
+You see bubbling hot springs and frosty snow patches.
+~
+~
+0 -1 1848
+S
+#0
+
+
+#RESETS
+M 1 1814 3 1804
+E 1 1813 1 17
+M 1 1801 1 1805
+G 1 1801 1
+M 1 1802 1 1806
+E 1 1802 1 10
+M 1 1803 1 1807
+E 1 1803 1 16
+M 1 1804 1 1809
+E 1 1804 1 17
+O 1 1829 1 1810
+M 1 1805 1 1811
+M 1 1806 1 1812
+E 1 1805 1 7
+M 1 1807 1 1813
+E 1 1806 1 6
+M 1 1808 1 1814
+E 1 1807 1 5
+M 1 1815 3 1816
+M 1 1815 3 1816
+M 1 1815 3 1816
+M 1 1827 1 1816
+M 1 1814 3 1817
+E 1 1813 1 17
+M 1 1814 3 1817
+D 0 1817 3 2
+O 1 1825 1 1818
+P 0 1826 1 0
+D 0 1818 1 2
+D 0 1818 5 1
+M 1 1809 1 1819
+E 1 1808 1 9
+E 1 1830 1 16
+M 1 1810 1 1819
+E 1 1809 1 17
+O 1 1828 1 1820
+M 1 1811 1 1822
+E 1 1810 1 16
+O 1 1827 1 1823
+M 1 1812 1 1824
+E 1 1811 1 4
+M 1 1813 1 1824
+E 1 1812 1 0
+M 1 1800 1 1825
+E 1 1800 1 14
+M 1 1825 1 1826
+M 1 1816 1 1828
+E 1 1814 1 17
+M 1 1817 1 1828
+E 1 1815 1 12
+M 1 1818 1 1829
+E 1 1816 1 8
+M 1 1819 1 1829
+E 1 1817 1 2
+M 1 1820 1 1832
+E 1 1818 1 13
+M 1 1821 1 1833
+E 1 1819 1 15
+M 1 1822 1 1833
+E 1 1820 1 11
+M 1 1823 1 1835
+E 1 1821 1 5
+E 1 1822 1 16
+M 1 1824 1 1835
+E 1 1823 1 6
+E 1 1824 1 16
+O 1 1831 1 1836
+D 0 1836 3 1
+D 0 1836 4 0
+M 1 1826 1 1838
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  1800 spec_cast_cleric
+M  1803 spec_breath_gas
+M  1804 spec_breath_frost
+M  1809 spec_thief
+M  1810 spec_cast_mage
+M  1812 spec_cast_mage
+M  1813 spec_cast_undead
+M  1814 spec_breath_gas
+M  1816 spec_breath_frost
+S
+
+
+#$

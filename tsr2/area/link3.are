@@ -1,0 +1,894 @@
+#AREA   Depths of the Sea~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG You feel a light breeze.~
+
+#FLAGS
+0
+
+#ECONOMY 0 51173000
+
+#MOBILES
+#10100
+the sea dragon~
+the sea dragon~
+A huge, plump dragon swims for your leg!
+~
+The mako shark, when you come down to it, makes a fine meal. Please feel
+free to sample its lovingly prepared body parts after the combat. No,
+you should drink white wine with Mako.
+~
+33 0 0 S
+30 3 0 6d12+853 4d6+8
+3000 0
+8 8 0
+#10101
+~
+Princess Smallbody~
+A woman dressed in rags and smelling of sewage claims royal lineage.
+~
+Princess Smallbody is in sad sad shape. Her father wrote her off as
+damaged goods when this band of pirates captured her, and so her ransom
+was never paid. One-eye in his anger cast the princess in this prison
+until her manner changed.
+~
+1073741891 0 500 S
+20 0 0 3d9+333 2d8+5
+2000 0
+8 8 2
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#10100
+Beach of D'Hara~
+You stand on the small beach of D'Hara.  Looking out over to your east you
+see the odd landscaping and shape of the Bay of D'Hara.  To the north you see
+a rather desolate land develop.  Back to the west you see a small intersection
+in what looks to be two different forests.  The surrounding light gives you
+enough to make out the small pebbles that you are standing on as you think
+about which way to go.
+~
+0 0 0
+D0
+~
+~
+0 -1 5063
+D1
+~
+~
+0 -1 10112
+D3
+~
+~
+0 -1 22037
+S
+#10101
+Dock of Pandora~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6110
+D3
+~
+~
+0 -1 10102
+S
+#10102
+Sea of Swords~
+The entire surface of the water is covered in kelp vines.  The green of
+the vines match the green of the water.  You move some of the garbage
+out of the way to uncover what looks to be a couryard in the underground
+city.  You see a very large turtle swiming below the surface.  Looks to
+weigh about a ton atleast.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10109
+D1
+~
+~
+0 -1 10101
+D2
+~
+~
+0 -1 10107
+D3
+~
+~
+0 -1 10103
+S
+#10103
+Sea of Swords~
+The green of the water is about to make you sick.  The only thing that
+is able to keep your mind focus is the sight that you see below.  The
+city under the water looked to be magnificent at its time of glory.
+The green waters of the Sea of Swords flow in all directions and surround
+the city below.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10108
+D1
+~
+~
+0 -1 10102
+D2
+~
+~
+0 -1 10104
+D3
+~
+~
+0 -1 10107
+S
+#10104
+Sea of Swords~
+The green waters of the Sea of Swords is at full here.  Its green is almost 
+to a glow, its so strong.  Below you, you can see the underwater ruins of
+a a city long ago.  A large pillar is just feet from the surface of the 
+green water.  To the west the Sea continues towards land and all other
+directions this water continues.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10103
+D1
+~
+~
+0 -1 10107
+D2
+~
+~
+0 -1 10105
+D3
+~
+~
+0 -1 10110
+S
+#10105
+Sea of Swords~
+A small house is below your feet.  Rubbage from a lost city of long ago
+has been drowned under the waters of the Sea of Swords.  The green water
+makes the house look to be green as well.  A couple of small rocks break
+from the base of the house and float to the top.  the Sea continues in all
+directions.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10108
+D1
+~
+~
+0 -1 10106
+D2
+~
+~
+0 -1 10108
+D3
+~
+~
+0 -1 10107
+S
+#10106
+Sea of Swords~
+Small vines and several small rock pieces are afloat here.  The murky
+waters of this sea seem to embrace the very touch of the underwater
+city.  You see what seems to be a street under the green water of the
+Sea of Swords.  Thankfully, most of the corpses died were eaten by the
+underwater villans below.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10107
+D1
+~
+~
+0 -1 10105
+D2
+~
+~
+0 -1 10109
+D3
+~
+~
+0 -1 10105
+S
+#10107
+Sea of Swords~
+You come by a large shark hovering below the water.  The sight of the
+very sight of the beast gives you the chills.  The cold, green water
+is blinding him to your presence you think.  And thankfully so.  Those
+sharks are the main consumer of the corpses below.  You would hate to
+add to his body count.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10102
+D1
+~
+~
+0 -1 10109
+D2
+~
+~
+0 -1 10106
+D3
+~
+~
+0 -1 10103
+S
+#10108
+Sea of Swords~
+Small bricks and vine float to the surface from the courtyard below.  The
+green water of the Sea of Swords is much clearer here and you can see the
+ruin very well from here.  It sure would be neat to go under the water
+to check out all the rubble from the long lost city.  The Sea heads all 
+directions from here.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10106
+D1
+~
+~
+0 -1 10109
+D2
+~
+~
+0 -1 10103
+D3
+~
+~
+0 -1 10109
+D5
+~
+~
+2056 -1 14100
+S
+#10109
+Sea of Swords~
+You are in a bunch of green kelp vine.  You cant even see the water, really.
+You the wonders of the Sea of Swords goes on forever it seems.  The 
+underground city must have been rather large you think.  Everywhere you
+go it seems to be around.  The Sea continues in all directions from here.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10106
+D1
+~
+~
+0 -1 10105
+D2
+~
+~
+0 -1 10102
+D3
+~
+~
+0 -1 10108
+S
+#10110
+Sea of Swords~
+You are now closing in on the Bay of D'Hara to the west.  The waste of the 
+sea is now to your east and out of sight.  The green, murky water of the
+Sea of Swords lightens up a bit and makes way for the bay.
+~
+0 1073741824 7
+D1
+~
+~
+0 -1 10104
+D3
+~
+~
+0 -1 10112
+S
+#10111
+Bay of D'Hara~
+You are at the southern most tip of the bay.  Land surrounds you on both sides
+now.  On your east lies the man made landscape of this bay and to the west
+is a dark forest.  The only discernable exit from here is back to the north
+where the bay opens to the Sea of Swords.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10112
+S
+#10112
+Bay of D'Hara~
+You are now on the edge of the Bay of D'Hara.  The green water of the Sea has
+lightened slightly and gives way to the beach to the west.  The odd shape of
+the bay has you looking more than once.  It seem to go north and south from 
+here with a man made landscape that blocks all but 9 feet of water from the
+sea from entering this small bay.  You wonder why.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10113
+D1
+~
+~
+0 -1 10110
+D2
+~
+~
+0 -1 10111
+D3
+~
+~
+0 -1 10100
+S
+#10113
+Bay of D'Hara~
+You are now at the northern most tip of the Bay of D'Hara.  The unusual shape
+of the bay has you taking a double take.  The unnatural land to the east is
+disturbing.  You wonder why it is there.  To the west you take notice to a 
+large land filled with sand.  Looks to be a beach, maybe.  Back south looks
+to be the only way you can go from here.
+~
+0 1073741824 7
+D2
+~
+~
+0 -1 10112
+S
+#10114
+Dock of the Dragonreach~
+You stand safely on the Dock of the Dragonreach.  Looking abroad you see an
+endless blue sea.  You can smell its rather discernable salty taint.  You
+know from friends that these waters are inhibited by dragons that arent too
+kind to travers.  You trust that they were right.  You can go west from here
+into the forest of the Holy Grove or you can dive into the sea to the east.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10115
+D3
+~
+~
+0 -1 270
+S
+#10115
+Dragonreach Sea~
+You see the Dock of the Dragonreach Sea to your immediate west.  You think to
+yourself that it might be a rather good time to get to land before you are
+consumed by any of the inhibiting dragons that live under these waters.  The
+endless blue void continues in all different directions.  All look the same,
+except for that wonderful piece of land to the west.
+~
+0 1073741828 7
+D0
+~
+~
+0 -1 10123
+D1
+~
+~
+0 -1 10121
+D2
+~
+~
+0 -1 10116
+D3
+~
+~
+0 -1 10114
+S
+#10116
+Dragonreach Sea~
+You continue your way in the dark blue reaches of the Dragonreach Sea.  The
+salty smell of the blue waters continue in all directions.  You hope to find 
+the quikest and safest route to the other side.  You really dont want to be
+in these waters any longer than you have to be.  Looking about, you notice
+that you can go all directions.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10115
+D1
+~
+~
+0 -1 10117
+D2
+~
+~
+0 -1 10120
+D3
+~
+~
+0 -1 10121
+S
+#10117
+Dragonreach Sea~
+You cannot tell where you are in this blasted sea.  The sights of its blue
+waters are making you sick from the travel through it.  In all directions this
+sea continues, you notice with a silent grumble.  You just pray you dont run
+into any  water dragons.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10121
+D1
+~
+~
+0 -1 10118
+D2
+~
+~
+0 -1 10119
+D3
+~
+~
+0 -1 10116
+S
+#10118
+Dragonreach Sea~
+You are on the Dragonreach Sea.  To the east is the Palladorian Harbor.  Land
+sure does look good.  West looks like an endless sea waiting to consume you.
+The sea looks much like any other, with a dark blue skin of water.  The light
+in the area gives off a perfect reflection as you travel by.  Looks like east
+and west are your only options.
+~
+0 1073741824 7
+D1
+~
+~
+0 -1 12053
+D3
+~
+~
+0 -1 10117
+S
+#10119
+Dragonreach Sea~
+You are feeling pretty good right here.  You dont have the slightest clue
+why, but you feel this journey will be a short and easy one.  You confidently
+look in all directions and see much, much more of this blue water.  The cool
+salty smell of the water drives you onward.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10117
+D1
+~
+~
+0 -1 10120
+D2
+~
+~
+0 -1 10122
+D3
+~
+~
+0 -1 10120
+S
+#10120
+Dragonreach Sea~
+Water.  Water.  Water.  Its the only thing you can think of.  You are 
+surrounded in it.  A giant blue void.  You cant see anything but the 
+endlessness of this place.  Maybe taking this journey wasnt the brightest of
+ideas after all.  You feel a small wake brush past that wasnt made by you.
+Edgy, you look quickly for the next direction to take.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10116
+D1
+~
+~
+0 -1 10119
+D2
+~
+~
+0 -1 10123
+D3
+~
+~
+0 -1 10123
+S
+#10121
+Dragonreach Sea~
+You are engulfed in an endless sea of blue.  This journey could not have been
+more trecherous on you.  Constant food troubles and water troubles area a
+problem.  The salty smell of the water mocks you and seems to laugh at your
+grumbling stomach and your dry mouth.  Hopefull you can stay clear of any
+sea dragons thats might be about.  That would certainly end this journey
+quickly. The Dragonreach Sea reaches in all directions.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10122
+D1
+~
+~
+0 -1 10120
+D2
+~
+~
+0 -1 10115
+D3
+~
+~
+0 -1 10123
+S
+#10122
+Dragonreach Sea~
+More and more blue.  When it it all end.. oh wait.  You see a rather large
+wake coming towards you.  You quickly look down into the blue void and notice
+a large black shadow under the water coming in your direction.  Thankfully
+is passes right by you and dives further into the water, out of sight.  You
+had better pick a direction and take off before the dragon decides to come
+back for you.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10119
+D1
+~
+~
+0 -1 10123
+D2
+~
+~
+0 -1 10122
+D3
+~
+~
+0 -1 10117
+S
+#10123
+Dragonreach Sea~
+Large wakes are being formed here.  And you know they arent from you.  Under
+the water you can see several large black shadows moving about.  There it is.
+A large red dragon surfaces for a second revealing its massive red body and
+its gleaming red scales.  You QUICKLY look for another direction to take before
+you are eaten by these dragons.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10120
+D1
+~
+~
+0 -1 10122
+D2
+~
+~
+0 -1 10115
+D3
+~
+~
+0 -1 10122
+S
+#10124
+Sea of Mists~
+You are relieved!  You can see a small opening of light to the south!  Just
+what you have been waiting for.  The fog of the Sea of Mists lets up a
+little here and it rises to allow fresh sunlight in your eyes.  The
+Mriswith Bay looks like heaven from here.  To the south is the Bay and to 
+the north is back into the nightmare.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10127
+D2
+~
+~
+0 -1 22005
+S
+#10125
+Sea of Mists~
+You are lost in a sea of gray.  You curse yourself for taking this insane
+adventure.  The clear waters and the wild lands surrounding the Mriswith
+Bay sound more than lovely at this point.  From here all direction continue 
+the Sea, you think.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10132
+D1
+~
+~
+0 -1 10126
+D2
+~
+~
+0 -1 10128
+D3
+~
+~
+0 -1 10130
+S
+#10126
+Sea of Mists~
+You are in the Sea of Mists.  Much more than that you cannot tell.
+You know where you are and you know where you want to go, but its
+next to impossible to get there.  How can you steer when you cant tell
+which direction is which?  The gray of the sea consumes you.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10131
+D1
+~
+~
+0 -1 10127
+D2
+~
+~
+0 -1 10131
+D3
+~
+~
+0 -1 10125
+S
+#10127
+Sea of Mists~
+You are in the Sea of Mists.  Much more than that you cannot tell.
+You know where you are and where you want to go, but all the directions
+look the same.  Getting out of here is gonna be impossible, you think.
+The gray of the Sea is consuming you, smirking at your misfortunes.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10131
+D1
+~
+~
+0 -1 10128
+D2
+~
+~
+0 -1 10124
+D3
+~
+~
+0 -1 10126
+S
+#10128
+Sea of Mists~
+More and more of the same.  You cannot tell much more than nothing.
+The endless gray of the sea is driving you nuts.  You wish to Ao that
+you had not gotten yourself into this.  You clank into a boat floating
+on the Sea.  You wonder where the captain is.  He must have gotten lost
+and jumped off for an end to this insanity.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10129
+D1
+~
+~
+0 -1 10125
+D2
+~
+~
+0 -1 10129
+D3
+~
+~
+0 -1 10127
+S
+#10129
+Sea of Mists~
+You are lost.  Lost in the gray of the Sea of Mists.  You have been traveling
+for what seems to be hours.  You cannot tell for sure.  You cant even tell
+what direction you are heading in, much less anything else.  How you are to
+get out of here you dont know.  The Mriswith Bay would be a sight for sore
+eyes right now.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10128
+D1
+~
+~
+0 -1 10132
+D2
+~
+~
+0 -1 10128
+D3
+~
+~
+0 -1 10130
+S
+#10130
+Sea of Mists~
+You are being consumed by the grayness of the Sea of Mists.  The overcast
+sky, the fog, and the reflecting water make up the worst possible combination
+here.  You think it would be a helluva lot easier to teleport to where you
+were TRYING to get to.  This way seems to be a complete lose.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10125
+D1
+~
+~
+0 -1 10129
+D2
+~
+~
+0 -1 10127
+D3
+~
+~
+0 -1 10131
+S
+#10131
+Sea of Mists~
+Whats a good way to say that your lost?  If there is a more eloquent way
+to put it, you would.. but thats exactly what you are.  You cant see more 
+than two feet in front of you.  All directions look the same.  Gray.
+Mists?  This place is more like the Sea of Fog.  The combination of all
+this makes it near to impossible to where you are.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10133
+D1
+~
+~
+0 -1 10130
+D2
+~
+~
+0 -1 10126
+D3
+~
+~
+0 -1 10132
+S
+#10132
+Sea of Mists~
+You have floated somewhere near to where you were.  You cannot tell 
+much more than that.  The gray of this area is driving you insane.  How
+are you gonna get out of here.  No longer are you driven to get to
+where you were as much as you are to get out of here.  The sea 
+continues in all directions.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10125
+D1
+~
+~
+0 -1 10131
+D2
+~
+~
+0 -1 10125
+D3
+~
+~
+0 -1 10129
+S
+#10133
+Sea of Mists~
+You are now in the Sea of Mists.  Although, you dont have a clue as to where
+you are.  The combination of the overcast, fog and reflection of the water
+you cant see a thing.  Youd be suprised if you could see two feet in front
+of you.  You think that you can go in all directions from here.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 10134
+D2
+~
+~
+0 -1 10131
+S
+#10134
+Outside the City of Shadows~
+You can see the large iron gates of the City of Shadows to the far north.  You
+stand now on amall dock leading to the depths of the Sea of Mist.  The water
+to the south is.. well.. you cant really see it.  The fog and overcast make it
+difficult to discern what is what.  North takes you to the City and south
+takes you to the Sea of Mist.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 8640
+D2
+~
+~
+0 -1 10133
+S
+#0
+
+
+#RESETS
+M 1 10100 3 10119
+M 1 10100 3 10119
+M 1 10100 3 10123
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  10100 spec_fido
+S
+
+
+#$

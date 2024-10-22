@@ -1,0 +1,989 @@
+#AREA   {PROTO} Lightone's area in progress~
+
+
+
+#AUTHOR Lightone~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#6900
+Entrance to a palace~
+As you walk up to the palace you see a door like you havn't seen before. 
+It's oken wood cracked and worn with age seems to have a golden glow
+to it. As you look at the door you see two flaming doorknobs. Higher
+you see an emerald door knocker, so large, that you assume it's purpose
+was to call the gods. You wonder how somthing so magnificent could have
+fallen...
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 6901
+S
+#6901
+A large hallway~
+As you walk in the door suddenly closes behind you in a great slam!
+You see many pillars that strech fiffty feet into the air, they seem
+to move, and come more alive as you look apon them.  You notice that
+they are stories of the past, of warriors that did hero-like battles
+but they arn't good stories, but stories of chaos and destruction.
+Your concentration is broken by the sound of a nearby stream to the north
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6902
+D2
+~
+~
+0 -1 6900
+S
+#6902
+River Styx~
+As you walk down the hallway you stand before a river, and it's beach
+is not made of sand, rock, but ashes or warriors that have tried to pass.
+You walk closer, and you notice that there is a hammer attached to a gong
+As you hit the hammer apon the gong you don't hear a sound, but moments
+later mist starts to gather around your feet, and in the shadows a figure
+appers from the blackness, and she stops by your feet holding out her
+hand looking for a single gold coin for passage across the river.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6903
+D2
+~
+~
+0 -1 6901
+S
+#6903
+Before a red door~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6904
+D2
+~
+~
+0 -1 6902
+S
+#6904
+Halls of Darkness~
+As you open the door and walking everything comes to a sudden halt.
+All eyes are on you as the dancing stops, and the fire suddenly goes out
+The crowd of... demonites splits as a single armored demon comes forth
+In the background you here many languages, but one you make out saying
+"Go home! we no want you here", and it so happens it came from the armored
+demon in front of you. As you look around you notice a door to the north
+and the hallway extends both east and west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6920
+D1
+~
+~
+0 -1 6905
+D2
+~
+~
+0 -1 6903
+D3
+~
+~
+0 -1 6919
+S
+#6905
+Halls of Darkness~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6906
+D3
+~
+~
+0 -1 6904
+S
+#6906
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6907
+D2
+~
+~
+0 -1 6925
+D3
+~
+~
+0 -1 6905
+S
+#6907
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6908
+D2
+~
+~
+0 -1 6906
+S
+#6908
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6909
+D2
+~
+~
+0 -1 6907
+D3
+~
+~
+0 -1 6921
+S
+#6909
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6910
+D2
+~
+~
+0 -1 6908
+S
+#6910
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6934
+D2
+~
+~
+0 -1 6909
+D3
+~
+~
+0 -1 6911
+S
+#6911
+Halls of Darkness~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6910
+D3
+~
+~
+0 -1 6912
+S
+#6912
+Halls of Darkness~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6911
+D2
+~
+~
+0 -1 6922
+D3
+~
+~
+0 -1 6913
+S
+#6913
+Halls of Darkness~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6912
+D3
+~
+~
+0 -1 6914
+S
+#6914
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6933
+D1
+~
+~
+0 -1 6913
+D2
+~
+~
+0 -1 6915
+S
+#6915
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6914
+D2
+~
+~
+0 -1 6916
+S
+#6916
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6915
+D1
+~
+~
+0 -1 6923
+D2
+~
+~
+0 -1 6917
+S
+#6917
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6916
+D2
+~
+~
+0 -1 6918
+S
+#6918
+Halls of Darkness~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6917
+D1
+~
+~
+0 -1 6919
+D2
+~
+~
+0 -1 6928
+S
+#6919
+Halls of Darkness~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6904
+D3
+~
+~
+0 -1 6918
+S
+#6920
+Emerald room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6924
+D2
+~
+~
+0 -1 6904
+D6
+~
+~
+0 -1 6921
+D7
+~
+~
+0 -1 6923
+S
+#6921
+Ruby room~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6908
+D3
+~
+~
+0 -1 6924
+D7
+~
+~
+0 -1 6922
+D9
+~
+~
+0 -1 6920
+S
+#6922
+Golden room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6912
+D2
+~
+~
+0 -1 6924
+D8
+~
+~
+0 -1 6921
+D9
+~
+~
+0 -1 6923
+S
+#6923
+Onyx room~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6924
+D3
+~
+~
+0 -1 6916
+D6
+~
+~
+0 -1 6922
+D8
+~
+~
+0 -1 6920
+S
+#6924
+Throne room~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6922
+D1
+~
+~
+0 -1 6921
+D2
+~
+~
+0 -1 6920
+D3
+~
+~
+0 -1 6923
+D5
+~
+~
+0 -1 6936
+S
+#6925
+Servants quaters~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6906
+D1
+~
+~
+0 -1 6926
+S
+#6926
+Servants quaters~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6927
+D3
+~
+~
+0 -1 6925
+S
+#6927
+Servants quaters~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 6926
+S
+#6928
+Devils hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6918
+D3
+~
+~
+0 -1 6929
+S
+#6929
+Devils hall~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6928
+D2
+~
+~
+0 -1 6930
+S
+#6930
+Devils cafe~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6929
+D1
+~
+~
+0 -1 6931
+S
+#6931
+Devils cafe~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 6930
+S
+#6932
+Storage~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6933
+S
+#6933
+Kitchen~
+As you walk in the smell of a home cooked meal becomes stronger, and
+around the room hangs pots and pans, and on the stove there is a pot
+Inside you can see somthing moving, you think "tonights dinner?" beside
+the counter you see a fat cook, and he seems to be preparing a dinner
+or some sort, and his helpers running around wildly getting him what he
+needs.  To the west you see a wooden door.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 6914
+D3
+~
+~
+0 -1 6932
+S
+#6934
+Treasure room~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6935
+D2
+~
+~
+0 -1 6910
+S
+#6935
+Treasure room~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 6934
+S
+#6936
+Fire Steps~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 6937
+D4
+~
+~
+0 -1 6924
+D5
+~
+~
+0 -1 6964
+S
+#6937
+Moist caverns~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6936
+D1
+~
+~
+0 -1 6938
+D2
+~
+~
+0 -1 6947
+D3
+~
+~
+0 -1 6943
+S
+#6938
+Moist caverns~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6939
+D3
+~
+~
+0 -1 6937
+S
+#6939
+Moist caverns~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6940
+D3
+~
+~
+0 -1 6938
+S
+#6940
+Moist caverns~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6941
+D2
+~
+~
+0 -1 6939
+S
+#6941
+Moist caverns~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6942
+D3
+~
+~
+0 -1 6940
+S
+#6942
+Moist caverns~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 6941
+D3
+~
+~
+0 -1 6941
+S
+#6943
+Moist caverns~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 6937
+D3
+~
+~
+0 -1 6944
+S
+#6944
+Moist caverns~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 6945
+D1
+~
+~
+0 -1 6943
+S
+#6945
+Moist caverns~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 6944
+D3
+~
+~
+0 -1 6946
+S
+#6946
+Moist caverns~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 6945
+S
+#6947
+A dark intersection~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 6937
+D8
+~
+~
+0 -1 6958
+D9
+~
+~
+0 -1 6948
+S
+#6948
+Halls of portraits~
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 6949
+D6
+~
+~
+0 -1 6947
+S
+#6949
+Halls of portraits~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 6948
+D2
+~
+~
+0 -1 6950
+S
+#6950
+Halls of portraits~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 6949
+D2
+~
+~
+0 -1 6951
+S
+#6951
+Halls of portaits~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 6950
+D1
+~
+~
+0 -1 6952
+S
+#6952
+Halls of portraits~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 6953
+D3
+~
+~
+0 -1 6951
+S
+#6953
+Halls of portraits~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6954
+D2
+~
+~
+0 -1 6959
+D3
+~
+~
+0 -1 6962
+S
+#6954
+Halls of portraits~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6955
+D3
+~
+~
+0 -1 6953
+S
+#6955
+Halls of portraits~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6956
+D3
+~
+~
+0 -1 6954
+S
+#6956
+Halls of portraits~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6957
+D2
+~
+~
+0 -1 6955
+S
+#6957
+Halls of portraits~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 6956
+D3
+~
+~
+0 -1 6958
+S
+#6958
+Halls of portraits~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6957
+D7
+~
+~
+0 -1 6947
+S
+#6959
+Halls of portraits~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6953
+D2
+~
+~
+0 -1 6960
+S
+#6960
+Down a dark path~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 6959
+D1
+~
+~
+0 -1 6961
+S
+#6961
+The red cave~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 6962
+D3
+~
+~
+0 -1 6960
+S
+#6962
+The red cave~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 6963
+D3
+~
+~
+0 -1 6961
+S
+#6963
+Before a cliff~
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 6962
+S
+#6964
+The grand halls of Hell~
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 6936
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

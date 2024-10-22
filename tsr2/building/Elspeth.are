@@ -1,0 +1,2452 @@
+#AREA   {PROTO} Tupper's area in progress~
+
+
+
+#AUTHOR Tupper~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#4800
+O'Ryan King of Thieves~
+O'Ryan King of thieves~
+O'ryan A handsome swashbuckling man ready for anything
+~
+O'Ryan is a tall man.  There is a wildness about him, his face
+shadowed by a few stray hairs let loose from the black
+ribboned ponytail that hangs down his back.  Tawny haired
+and hazel eyed is it any wonder he is called the Golden King
+of Thieves, much beloved of the fair Eleuth.  He looks at you
+menacingly and jumps to attention, ready for a fight.
+~
+1073741825 131072 -500 C
+30 0 100 0d0+0 0d0+0
+150 0
+5 8 1
+14 13 22 14 14 16 10
+-10 0 10 5 10
+0 2 0 0 1 1 4
+35 35 131 0 0 0 1120 524291
+#4801
+Eleuth~
+Eleuth~
+Eleuth Goddess of the Moon
+~
+Before you is the fair Goddess Eleuth, red hair flowing down
+her back , blue eyes flashing anger.  She wears robes the
+color of the twillight sky that shimmers as she moves. 
+Goddess of the Moon, she manifests herself in human form
+to spend time watchin over her ladies and be with her lover
+the swashbuckling O'Ryan.
+~
+1073741825 0 0 C
+40 0 0 0d0+0 0d0+0
+150 0
+6 8 2
+20 13 17 17 14 19 13
+12 1 12 7 2
+90 25 0 0 1735289205 1735289204 0
+0 0 131 0 0 0 8388784 1
+#4802
+Young girl~
+A vibrant young girl~
+A very pretty young girl
+~
+A pretty young girl, barefoot and robed in the white roes of purity.  She is content in what she is doing~
+1073741825 0 -200 C
+10 0 200 0d0+0 0d0+0
+1 0
+8 8 2
+10 13 12 8 13 20 21
+18 22 9 20 18
+0 8 0 0 1 1 0
+12 8 552 0 0 0 48 4098
+#4803
+Amazon woman~
+Beautiful Amazon woman~
+A beautiful woman in red robes
+~
+A beatiful woman dressed in the red robes of the trie of Eleuth.  A small tattoo of a crescent moon on her cheek marks her face.~
+1073741825 0 -300 C
+10 0 100 0d0+0 0d0+0
+10 0
+8 8 2
+12 13 14 10 15 20 23
+20 24 11 22 20
+0 8 0 0 1 1 0
+12 10 1544 0 0 0 1072 4102
+#4804
+Amazon warrior~
+Amazon~
+A sturdy Amazon warrior
+~
+~
+1073741825 0 -300 C
+20 0 0 0d0+0 0d0+0
+10 0
+8 8 2
+16 13 7 11 20 20 16
+20 24 15 20 15
+0 8 0 0 1 1 0
+14 8 7 0 0 0 1024 1
+#4805
+high priestess~
+High Priestess~
+Amazon High Priestess
+~
+A tall woman in long lack flowing robes stares at you grinning evilly. Even though you can see she is old her eauty does not escape notice~
+1073741825 0 -300 C
+25 0 200 0d0+0 0d0+0
+100 0
+8 8 2
+18 13 18 10 17 18 18
+20 24 11 22 22
+0 1 0 0 1 1 0
+16 14 64 0 0 0 16512 7
+#4806
+Amazon Captain~
+Amazon Captain~
+A tall Amazon Captain
+~
+The Captain of the Amazons looks your way.  She boldly strides around the village watching out for thieves and brigands~
+1073741825 0 -300 C
+23 0 0 0d0+0 0d0+0
+150 0
+8 8 2
+17 13 8 12 21 21 17
+19 23 4 19 17
+0 3 0 0 1 1 0
+15 13 7 0 0 0 1792 2051
+#4807
+Baker~
+Baker~
+A short fat baker
+~
+~
+1073741825 0 -300 C
+15 0 100 0d0+0 0d0+0
+20 0
+8 8 2
+12 13 14 14 12 17 16
+20 24 11 22 20
+0 8 0 0 1 1 0
+12 10 1024 0 0 0 0 0
+#4808
+lara~
+Lara~
+Petshop Keeper
+~
+A tall woman in a long apron stands here.  A small monkey is on her shoulder as she waits for you to choose a pet.~
+1073741825 0 -300 C
+15 0 100 0d0+0 0d0+0
+20 0
+8 8 2
+13 13 14 14 12 17 16
+19 23 7 16 18
+0 8 0 0 1 1 0
+12 10 7 0 0 0 176 4102
+#4809
+wolf~
+wolf~
+Wild grey wolf
+~
+A large wolf is chained to a post in the ground.  His eyes are wild and glazed as he chews worriedly on a large unrecognizale one~
+1073741825 0 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+17 13 8 6 19 18 5
+17 20 0 3 1
+69 8 0 0 1634492961 1634492960 0
+10 12 327680 0 0 0 259 524290
+#4813
+Epona~
+horse~
+The Epona horse
+~
+A beautiful lack horse rears up on its hind legs.  He is surrounded by a silvery glow.  Powerfully built he smazes you with is grace.~
+1073741825 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+5 13 12 14 16 5 18
+0 0 0 0 0
+86 10 0 0 1919251567 1919251566 0
+20 21 65537 0 0 0 161 8192
+#4814
+rabbit~
+Rabbit~
+A little fuzzy Rabbit
+~
+A fuzzy little rabbit nibling on some vegetation looks up at you~
+1073741825 0 100 C
+20 0 0 0d0+0 0d0+0
+10 0
+8 8 0
+19 13 7 13 21 13 15
+19 23 4 19 17
+87 8 0 0 1867251759 1867251758 0
+17 15 1025 0 0 0 1 2
+#4815
+Lady of the Firepit~
+a newly created fat~
+Some god abandoned a newly created fat here.
+~
+~
+1073741825 0 -300 C
+20 0 0 0d0+0 0d0+0
+15 0
+8 8 2
+12 13 16 15 18 10 7
+17 12 2 5 7
+0 8 0 0 0 0 0
+0 0 1536 0 0 0 1024 6146
+#0
+
+
+#OBJECTS
+#4800
+Tuppers Pixie Dagger~
+Tuppers Pixie Dagger~
+Desc This tiny dagger is the size of a dart unless you are a pixie.  Solid silver it sings a magic song that Tupper uses to create her magic lands.~
+~
+5 1073741952 8193
+0 0 0 3
+1 200 20
+E
+pixie dagger~
+This tiny dagger is more the size of a dart, unless you are a pixie.
+Tiny diamond chips ornament the cross shaped hilt.  the blade
+is etched in runes and as you wave it in the air it hums musically,
+creating a song.  The blade and hilt are solid silver and glows
+with a light of its own.  Perhaps this might be small enough to
+pick a lock to unlock the secrets of the moon.
+~
+#4801
+pixie dagger~
+a newly created pixie dagger~
+Some god dropped a newly created pixie dagger here.~
+~
+13 1073741824 1
+0 0 0 0
+1 0 0
+#4802
+sirians loincloth~
+leopardskin loincloth~
+A handsomly made loincloth made of rare white leopardskin~
+~
+9 1073741824 9
+0 0 0 0
+1 0 0
+E
+sirians loincloth~
+The Loincloth of sirian is a lovely little piece made specially for  him 
+by his little love... Tupper the pixie.  May he always wear it with pride.
+~
+A
+13 5
+A
+12 20
+A
+13 100
+#4803
+O'Ryans Thieves Dagger~
+O'Ryans Thieves Dagger~
+A fine looking dagger covered in jewels~
+~
+9 1073766528 8193
+0 0 0 0
+10 500 50
+E
+thieves dagger~
+This finely crafted dagger is gold in color.  Rubbies and emeralds
+adorn the hilt.  This was specially made for O'Ryan King of Thieves
+by his lover Eleuth, to keep him safe, and to reak havoke upon all
+those who stand in her way.  The dagger is weighty and carries a
+lethal blow.  The edge is honed toa fine point and is excellant for 
+backstabbing.
+~
+E
+thieves dagger~
+~
+E
+thieves dagger~
+~
+E
+thieves dagger~
+This finely crafted dagger is gold in color.  Rubbies and Emeralds
+adorn the hilt.  This was specially made for O'Ryan King of Thieves
+by his lover Eleuth, to keep him safe, and to reak havoke upon all
+those who stand in her way.  The dagger is weighty and carries a
+lethal blow.  The edge is honed to a fine point and is excellant for
+backstabbing
+~
+E
+thieves dagger~
+This finely crafted dagger is gold in color.  rubbies and emeralds
+adorn the hilt.  This was specially made for O'Ryan King of Thieves
+by his lover Eleuth, to keep him safe, and to reak havoke upon all
+those who stand in her way.  The dagger is weighty and carries a
+lethal blow.  The edge is honed to a fine point and is excellant for
+backstabbing.
+~
+#4804
+Brown Cape~
+Fine Brown Cape~
+A long and flowing brown cape of fine satin~
+~
+13 1073758208 9 4
+0 0 0 0
+4 25 2
+E
+brown~
+~
+E
+cape brown~
+A beautiful dark brown satin cape, glows slightly golden.  A
+faint pattern of fall colored leaves is seen upon it.  It has a
+high collar to keep the wind off of your neck.
+~
+A
+2 3
+A
+32 3
+A
+5 -2
+A
+4 -1
+#4805
+eye patch~
+Eye Patch~
+Black eye patch~
+~
+13 1073741824 131073
+0 0 0 0
+1 10 1
+A
+41 -1
+A
+42 -1
+A
+4 2
+A
+1 2
+A
+13 100
+#4806
+shirt~
+Shirt~
+White linen shirt~
+~
+9 1073741824 9 2
+0 0 0 0
+1 5 0
+E
+shirt~
+This is a fine linen shirt.  There  is a deep V in the front
+where it laces closed.  The cuffs are covered in colorful
+emboidered moons and stars.
+~
+A
+1 1
+A
+2 -1
+A
+18 5
+A
+13 20
+#4807
+boots~
+Black Boots~
+Black leather boots polished to a high sheen~
+~
+9 1073741824 65
+0 0 0 0
+3 50 5
+E
+boots~
+These black leather boots are of fine quality.  One look and
+you know the finest craftsman made these.  Obviously for 
+riding, they are kept in immaculate condition and are polished
+to a mirror shine.
+~
+A
+14 100
+A
+47 10
+A
+36 10
+A
+2 2
+A
+5 -3
+#4808
+pants~
+Black Pants~
+Black woolen pants from the fine tailors of Darkhaven~
+~
+13 1073741824 33 2
+0 0 0 0
+2 10 1
+E
+pants black~
+These black pants are made of the finest wool money can buy.
+Woven and tailored in far off Darkhaven, it is a mystery how they
+came to be here.
+~
+A
+13 20
+A
+1 -2
+#4809
+moonbeam ~
+Moonbeam~
+Some god dropped a newly created moonbeam here.~
+~
+13 1074270208 8192
+0 0 0 0
+10 0 0
+E
+moonbeam light~
+A long sliver of silver light escapes a solid silver hilt.  The hilt
+is engraved with crscent and full moons in a single line down
+the grip.  a large round diamond rests on the end of the  hilt.
+This is the moonbeam sword of the Goddess Eleuth.
+~
+A
+1 10
+A
+5 5
+#4810
+Conch shell~
+a large conch shell ~
+a large conch shell~
+~
+15 1073741824 9
+0 0 0 0
+2 0 0
+E
+shell~
+~
+E
+shell ~
+The conch shell is hollow and has a clasp on the side.  
+It is polished by the sea and has 2 straps hanging from 
+the side.  It looks as though it may be a backpack.
+~
+E
+shell conch~
+The conch shell is hollow and has a clasp on the side.
+Pink and white it glows with an opalescent sheen, 
+polished by the sea.  Upon closer inspection you see
+two straps tucked underneath.  This appears to be some
+kind of a pack.
+~
+A
+19 2
+A
+18 2
+A
+14 -50
+#0
+
+
+#ROOMS
+#4800
+Forgotten Trail~
+You have stumbled across a long forgotten trail.  It looks
+more like a deer trail then an actual path, all over grown
+with moss and scrub.  Up ahead to the north, the trail appears
+scent of wild rose, and the water ahead looks so inviting.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4801
+E
+<trail>~
+~
+S
+#4801
+Beach~
+A lovely cove is nestled here, surrounded far, far to the east
+and west by high solid cliffs of stone, and is protected from the
+mists of the lake to the north.  The  lake of the Amergin is of
+unsurpassed beauty, as the sandy shores melt into the rolling
+emerald waves.  Behind you, gentle fir and stately pine, dance 
+in the breeze.  To the  northwest you can see a dilapitated dock.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4802
+D2
+~
+~
+0 -1 4800
+D3
+~
+~
+0 -1 4803
+S
+#4802
+Cliff~
+The beach ends abruptly here.  A great stone cliff blocks the path.
+wild roses grow at it's base, the petals pink and delicate, the scent
+intoxicating, the thorns long and piercing.  The mists are thick, to the
+north, and what looks to be an island slips in and out of view, far, far,
+to the north.
+ 
+ 
+~
+0 1073741824 2
+D3
+~
+~
+0 -1 4801
+S
+#4803
+Beach~
+The beach stretches out to the east and west.  Nearby to the
+east is a stone cliff.  To the north is an  old dilapitated dock.
+When you look to the north you see a boat pulling up to the 
+dock through the mists.  A small square sail billows in the 
+breeze, and a cloaked figure steers the boat towards the dock.
+ 
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4805
+D1
+~
+~
+0 -1 4801
+D3
+~
+~
+0 -1 4804
+S
+#4804
+Cliff~
+A large cliff looms up before you, smooth and unclimable, easily
+blocking your path.  Ancient symbols are engraved upon this rock, 
+guilded in silver and reflecting the suns rays.  To the northeast is a 
+dock, grey with age, where the boat is landing.  To the east a lovely
+beach stretches out.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4803
+E
+symbols~
+This area designed by Tupper the Pixie
+~
+S
+#4805
+Dock~
+A small ancient dock creaks loudly under your weight, as though
+groaning in pain.  A beautiful boat is in front of you to the north.
+As you get closer the cloaked figure beckons you to board.  Up 
+close to the boat you can make out the  head of a dragon on the bow.
+To the south is the beach and futher south the woods.
+ 
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4806
+D2
+~
+~
+0 -1 4803
+S
+#4806
+Boat~
+The sail fills with air from the breeze blowing up from the lake,
+and the boat moves gently away from the dock.  As you look around
+the small boat you spy a seat and sit down, as you head towards the
+mist.  The smell of ancient wood and the calm waters, lull you
+into a restful state.  The air is crisp and clean, and fragrant.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4807
+S
+#4807
+Mist~
+Before the boat is a great fog, thick and soupy.  The cloaked
+figure removes her hood and stands before the mist, wearing a
+serene and pleasant expression.  She raises her hands and
+recites some ancient words.  With a clap of thunder, the mist
+separates and the boat sails through the gap.  Once through the
+gap the mists close in again.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4808
+S
+#4808
+Island~
+An island has appeared to the north.  It is covered in oak, and
+willow, rowan and holly.  Evergreen are seen even further north.
+The boat seems to be heading north for the beach straight ahead.
+As you look at the boatwoman you realize she is fully cloaked again...
+and silent.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4809
+S
+#4809
+Landing~
+The boat lands on the beach, and the boat woman points her
+boney finger at the woods, indicating that you should leave the
+boat now.  Birds sing in the trees and flit from branch to branch to
+the north.  Rich exotic smells and sounds entice  you.  The soft
+sand stretches out to the east and west ahead.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4810
+S
+#4810
+Disembark~
+The boat that brought you here from the south is vanished.
+North of you the trees sway in the wind and the birds sing out
+to you.  All of this, is very inviting and beats sitting on the 
+beach hoping for rescue, or  the return of the boatwoman.
+ 
+ 
+~
+0 1073741828 2
+D0
+~
+~
+0 -1 4811
+S
+#4811
+Beach~
+A sandy beach stretches out to the east and west.  Large moonsail
+shells and driftwood are scattered along the shoreline.  Just to the
+south emerald waters glisten in the sunlight.  To the north a grove of
+willow stand her, lacy branches providing cover from the sun.
+ 
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4818
+D1
+~
+~
+0 -1 4815
+D3
+~
+~
+0 -1 4812
+S
+#4812
+Beach~
+The beach here is beautiful and pristine, the subtle breeze caressing 
+your cheek as it blows by.  South of here is the Amergin and further to
+the south the mists that veil this island from the rest of the world.  Large
+rock and driftwood are carefully placed as by the hand of a goddess. 
+The beach spreads out to the east and west.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4811
+D3
+~
+~
+0 -1 4813
+S
+#4813
+Shore~
+The shoreline gently curves to the north and east in a gradual arch.
+Waves lap the beach turning the sand from brown to gold, as the tide
+goes in and out.  Seagulls and tern dot the sky, and a pelican, perched
+upon a piece of driftwood, greedily swallows a fish, whole.  Nearby to
+the north a rocky crag appears.
+ 
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4814
+D1
+~
+~
+0 -1 4812
+S
+#4814
+Beach End~
+The beach ends abruptly here.  A dense stand of pine and its unyielding
+needles block your way through the woods to the east.  A large rocky
+crag, to steep and dangerous to climb blocks the path northward.  A 
+breeze from the northwest blows faint whisps of smoke in your face, and
+just a hint of fresh roasting meat mingles with it.
+ 
+ 
+~
+0 1073741824 2
+D2
+~
+~
+0 -1 4813
+S
+#4815
+Beach~
+The beach here is beautiful and pristine, the subtle breeze caressing
+your cheek as it blows by.  South of here is the Amergin and further to
+the south the mists that veil this island from the rest of the world.  Large
+rock and driftwood are carefuly placed as if by the hand of a goddess.
+The beach streads out to the east and west.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4816
+D3
+~
+~
+0 -1 4811
+S
+#4816
+Bend in the Trail~
+The woods come all the way down to the lake here, with a  narrow trail 
+leading north and west.  The woods are dotted with young pine, oak and
+cedar, reaching for the sky on slender trunks.  The smell is rich and earthy
+and the chirping of birds that dwell within the trees can be heard for
+miles.  A robin perched on a branch of one of the smaller cedar, guards 
+his nest.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4817
+D3
+~
+~
+0 -1 4815
+S
+#4817
+End of Trail~
+The woods that surround the trail here are dark and gloomy.  Strange
+little creatures peep their heads out of the bushes, their red eyes glowing
+in the shadows.  The smell is strong of rotting wood, dank and damp, 
+almost moldy.  Toadstool grow on the rotting wood.  The trees are tall 
+blocking out all the suns rays.  To the south, the woods are brighter and 
+you can see the water beyond the beach.
+ 
+ 
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4816
+S
+#4818
+Willow Grove~
+The willow grove provides a canopy overhead.  Their long lacey branches
+block the sun and create a cool haven below.  The dappled light dances
+magically around the shadows.  Gnarled roots jut out here and there,
+creating a hazardous meandering trail.  Beware you don't trip as you walk
+past.  The trail winds through here to the north and south.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4819
+D2
+~
+~
+0 -1 4811
+S
+#4819
+Mossy Grove~
+The trail through the willow grove leads south and west past a small
+babbling brook to the north.  The willow trees are thinner here than to 
+the south.  More sunlight peeks through here creating pockets of light
+in the shadows where tiny bright flowers peek out from inbetween the
+roots of the trees.  A small rabit looks up at you then runs off in the other
+direction.
+ 
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4818
+D3
+~
+~
+0 -1 4820
+S
+#4820
+Bog~
+Moss covered evergreen dot the curve in the path here.  Their
+growth is stunted and not a one is over five feet tall. The ground
+is boggy, damp and musty.  The moss yellow with age, but still 
+springy underfoot carpets the path.  To the north is more swampy
+bog to the east and a grove of willows lacey branches sway in
+the breeze.
+ 
+ 
+~
+0 1073741824 11
+D0
+~
+~
+0 -1 4821
+D1
+~
+~
+0 -1 4819
+S
+#4821
+Bog~
+The ground is a spongey, a hint of bog is here.  A few small pine trees
+are nestled between some lofty giant evergreen.  To the north the
+trail seems drier.  To the south is a small bog, mossy and verdant.
+Its earthy smell slightly acidic from all the pine that grow in the area.
+ 
+ 
+~
+0 1073741824 11
+D0
+~
+~
+0 -1 4822
+D2
+~
+~
+0 -1 4820
+S
+#4822
+Trail~
+This appears to be a well beaten trail.  The faint sound of voices
+come from the west.  Footprints seen in the dusty trail lead west 
+and south.  The scent of roasting meat and fresh baked bread drift
+past you.  Long grass, slightly yellow in the sun grows on either 
+side of the path for as far as the eye can see.
+ 
+ 
+~
+0 1073741824 2
+D2
+~
+~
+0 -1 4821
+D3
+~
+~
+0 -1 4823
+S
+#4823
+Path~
+The path meanders through a small meadow.  To the far north you 
+can see beautiful black horses, surrounded by a glowing silvery
+aura, wandering aimlessly, grazing on the long grass.  From the south
+you hear a small brook babbling away.  West of her lies a village, smoke
+rising from what appears to be the center of the town.  East is a well
+beaten trail.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4822
+D3
+~
+~
+0 -1 4824
+S
+#4824
+Village Entrance~
+The path west opens up into a small busy village, women are
+everywhere, working and resting.  Not a man is in sight.  To the
+north and south are the daub and wattle houses, covered in a 
+dense roofing of thatch, that surround the main area of town.  To
+the east is a well beaten trail through the long grass.  To the west
+you can make out a firepit, a thin trail of smoke rises to the sky.
+ 
+ 
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4823
+D3
+~
+~
+0 -1 4825
+S
+#4825
+Center of the Village~
+This is the center of the village of the Daughters of Eleuth,
+Goddess of the Moon.  A firepit covered with a grate, roasts
+fish and small fowl.  Many young girls walk past in white robes,
+their feet bare.  A few women are scattered about, their robes
+red, sandals on their feet.  The village is a busy thriving 
+comunity, and without males.  A path goes around the firepit and 
+huts surround the center.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4826
+D1
+~
+~
+0 -1 4824
+D2
+~
+~
+0 -1 4830
+S
+#4826
+Amazon Village~
+The path here is well worn and dusty, filled with foot and sandal prints.
+The path continues in all directions.  The smell of freshly baked bread
+drifts past you from the hut east of you, and you can see the heat rising
+from its roof.  The trail continues north out of town.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4831
+D1
+~
+~
+0 -1 4835
+D2
+~
+~
+0 -1 4825
+D3
+~
+~
+0 -1 4827
+S
+#4827
+Village Path~
+The path here leads off in all directions.  The path continues to the
+east.  To the north is a door that leads to the bathhouse.  To the west
+is an immaculate hut.  A tall lean older woman dressed in beautiful
+black robes stands at it s entrance grinning evilly.  To the south the 
+trail continues.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4841
+D1
+~
+~
+0 -1 4826
+D2
+~
+~
+0 -1 4828
+D3
+~
+~
+0 -1 4840
+S
+#4828
+Village Path~
+The path leads off to the north and south.  A firepit is to the east,
+where game, fish and fowl are roasting over the embers.  Young
+ladies in their white robes are entering the room to the west, a look
+of anticipation and excitement on their faces.  Grunts, thuds and groans
+are heard coming from this direction, as is the clash of steel on steel.
+ 
+
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4829
+D3
+~
+~
+0 -1 4839
+S
+#4829
+Village Path~
+To the north and east the path continues.  Strange bubbling
+noises and odd smells come from the west...smells of bitter
+herbs and of sulphur.  Bright coloured lights flash and
+flicker through the drawn curtains of the window of the hut
+west.  The huts door is closed and a sign hangs upon it.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4828
+D1
+~
+~
+0 -1 4830
+D3
+~
+~
+0 -1 4838
+S
+#4830
+Path~
+The path turns west and north here.  South can be heard the 
+giggiling of girls and the laughter of women.  The door south is
+open.  East is the door leading to a small store.  Some of the women are
+sitting here weaving mats from fine long grass from the meadow, or 
+making baskets from strips of cedar bark.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4825
+D1
+~
+~
+0 -1 4836
+D2
+~
+~
+0 -1 4837
+D3
+~
+~
+0 -1 4829
+S
+#4831
+Trail~
+The trail goes in two directions.  North heads off further down the
+trail towards the meadow, and south leads back to the hustle and
+bustle of the village.  A basket of sponges lays half hazardly beside
+the bathouse wall to dry in the sun.
+ 
+ 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4832
+D1
+~
+~
+0 -1 4836
+D2
+~
+~
+0 -1 4826
+S
+#4832
+Trail~
+The trail is dusty here, footprints leading off to the south and east.
+The entrance to the Village of the Daughters of Eleuth, Goddess of 
+the Moon is to the south.  To the east is a trail into the heart of the
+meadow that lies outside the village.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4833
+D2
+~
+~
+0 -1 4831
+S
+#4833
+Meadow Trail~
+Dense, long, fragrant grass, faintly yellow in the sun, waves about in 
+the breeze, on either side of the trail.  South the rich verdent meadow
+continues, where a magnificent black stallion rears up, glaring at you.
+As the stallion makes his way through the meadow towards you, his
+aura glows silver.  The trail meanders east and west.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4834
+D3
+~
+~
+0 -1 4832
+S
+#4834
+Trail~
+The trail goes east and west throught the grass.  Short grass
+grows on the path.  It smells clean and fresh as the young
+grass is crushed underfoot.  A small rabbit nibbles on the
+grass, but when it sees you it scampers off into the thicker,
+longer, grass of the meadow to hide.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4848
+D3
+~
+~
+0 -1 4833
+S
+#4835
+Bakery~
+A large clay oven takes up most of the room in this hut.  The other
+part of the room is covered in shelves filled with loaves of bread.
+The room is sweltering, but it smells heavenly in here as a woman
+in a red robe removes plump, round loaves of freshly baked bread
+from the oven, with a large flat wooden paddle.
+ 
+ 
+~
+0 1073741824 0
+D3
+~
+~
+0 -1 4826
+S
+#4836
+General Store~
+The store walls are covered in shelves.  Many items here are
+made by the skilled hands of the Daughters of Eleuth.  Imported
+fabrics of many colors, and strange exotic looking items line the
+shelves as well.  Behind the counter stands a large woman in red
+robes, taking inventory.  Occasionally some of the se items my be
+purchased by those who don not dwell upon the island.
+ 
+ 
+~
+0 1073741824 0
+D3
+~
+~
+0 -1 4830
+S
+#4837
+Barracks~
+A large communal sleeping area stretches out before you.  Grass
+mats, used for sleeping on are neatly rolled up and kept by the
+door.  About two dozen are stacked here.  A clay fireplace in the
+center of the room keeps the hut warm.  A few young girls sit in
+the corner playing a game with some tiny bones.  There is an
+entranceway to the north.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+~
+0 -1 4830
+S
+#4838
+Alchemist~
+Jars and bottles line the shelves of this room filled with bright
+colored liquids and powders.  There is a long table here, covered
+in a strange assortment of filled beakers, vials and jars.  A small
+stove is in the corner, where a small gnarled ancient old hag
+dressed all in black, is preparing more potions.  The room is thick
+with the strong sharp smells of ancient herbs.  A door is to the east.
+ 
+ 
+~
+0 1073741832 0
+D1
+~
+~
+0 -1 4829
+S
+#4839
+Training Hut~
+Young girls and women are busy training in here.  Some with sword,
+some with bow and some at hand to hand combat.  Some women are
+doing rigourous exercise.  The smell of sweat is thick and musky.
+There is alot of noise in the room with all the women working so hard,
+and the clash of steel on steel.  There is an exit to the east.
+ 
+ 
+~
+0 1073741832 0
+D1
+~
+~
+0 -1 4828
+S
+#4840
+High Priestess Hut~
+This is the hut of the High Priestess.  A simple bed is in one corner,
+covered with a rich brocade coverlet.  A small clay stove, with a kettle
+boiling away atop the stove, is in the corner.  In the center of the room
+are a table and two chairs made of willow.  The room is fairly simple and
+elegant, an understatement of wealth.  At the foot of the bed is a large 
+oaken chest, banded in iron.  The door is to the east.
+ 
+ 
+~
+0 1073741836 0
+D1
+~
+~
+0 -1 4827
+S
+#4841
+Bathhouse~
+A large wooden tub is here full of fresh, sweet scented water.  The 
+scent of wildflowers and herbs is strong here.  The bath is inviting
+as hot steam rises up curling around the room.  Towels hang from
+pegs on the walls around the tub.  By the south wall, hot water
+trickles out of a small rocky outcropping.  This is the source of the 
+baths magical healing waters.  The doorway is to the south.
+ 
+ 
+~
+0 1073741824 0
+D2
+~
+~
+0 -1 4827
+S
+#4842
+Dock~
+A small ancient dock creaks loudly under your weight, as though
+groaning in pain.  A beautiful boat is in front of you to the south.
+As you get closer, the cloaked figure beckons you to board.  Up 
+close to the boat you can make out the head of a dragon on the 
+bow.  The beach is to the north.
+ 
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4867
+D2
+~
+~
+0 -1 4843
+S
+#4843
+Beach~
+The sail fills with air from the breeze blowing up from the lake,
+and the boat moves gently away from the dock.  As you look around
+the small boat you spy a seat and sit down as you head towards 
+the mist.   The smell of ancient wood and the calm waters, lull you
+into a restful state.
+ 
+~
+0 1073741824 2
+D2
+~
+~
+0 -1 4844
+S
+#4844
+Mist~
+Before the boat is a great fog, thick and soupy.  The cloaked
+figure removes her hood and stands before the mist, wearing a 
+serene and pleasant expression.  She raises her hands and
+recites some ancient words.  With a clap of thunder the mist
+separates and the boat sails through the gap.  Once through the
+gap the mists close in again.
+ 
+ 
+~
+0 1073741824 2
+D2
+~
+~
+0 -1 4845
+S
+#4845
+Beach Ahead~
+Before you is the beach you left so long ago.  Stately pine
+dot its shores.  You can see the dock and the cliffs that
+protect both sides of the cove, and the forest beyond the
+beach to the south.  As you look at the boatwoman you
+realize she is fully cloaked again.
+ 
+ 
+~
+0 1073741824 0
+D2
+~
+~
+0 -1 4846
+S
+#4846
+Landing~
+The boat lands on the beach, and the boat woman points her
+boney finger at the woods, indicating that you should leave the
+boat now.  Birds sing in the trees and flit from branch to branch
+to the osuth.  Rich exotic smells and sounds entice you.  The
+soft sand stretches out to the east and west ahead.
+ 
+ 
+~
+0 1073741824 0
+D2
+~
+~
+0 -1 4847
+S
+#4847
+Disembark~
+The boat that brought you here from the north is vanished.
+South of you is a large stone cliff and the beach, and the 
+forest further north.  You appear to have landed on the same
+beach you departed from so long ago.
+ 
+ 
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4802
+S
+#4848
+Stable~
+Brushes and pitchforks are scattered throughout the stable.
+The smell, strong but not unpleasant, of horse is here.  A
+large mound of hay is in one of the stalls.  There are two 
+open doors, one east, one west, which allow access.  To
+the north is a locked door, just behind the pile of hay.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+door~
+3 15 4879
+D1
+~
+~
+0 -1 4849
+D3
+~
+~
+0 -1 4834
+S
+#4849
+Barren Trail~
+It is rocky and barren here, as the dust swirls about in the wind.
+Rocks and stones are scattered about the trail.  A boulder to the
+south stands out from the rest of the rocks, for the size and the 
+ancient symbols upon it, mark the boulder.  West of you is a 
+stable.  to your east is a hill with what appears to be a cave in 
+the side.
+ 
+ 
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 4850
+D2
+~
+boulder~
+3 -1 4878
+D3
+~
+~
+0 -1 4848
+E
+symbols~
+A temple lies beyond this boulder.  Push it for access
+~
+S
+#4850
+Cave~
+Before you stands a great hill, thirty feet high, spreading out to 
+the north and east.  The cave entrance is large and to the north.
+The hill is a solid chunk of granite, which over the years has had
+a carpet of grass grow upon its exterior.  To the east is a barren
+trail.
+ 
+ 
+~
+0 1073741824 4
+D0
+~
+~
+0 -1 4851
+D3
+~
+~
+0 -1 4849
+S
+#4851
+Cave Entrance~
+The entrance to the cave is dark.  The way out is signalled by
+the light to the south.  A strange smell assails you nostrils,
+and you can hear chanting from deep inside the cave.  A small
+brown bat, the size of a small coin, flys past you as if trying
+to escape something.  The cave continues to the north and 
+south.
+ 
+ 
+~
+0 1073741832 13
+D0
+~
+~
+0 -1 4852
+D2
+~
+~
+0 -1 4850
+S
+#4852
+Cave~
+The chanting is getting louder here.  You can make out the words of an
+ancient song.  The smell of meat roasting is sweet, thick and pungeant,
+almost unpleasant.  The smell comes from the east, as well as some
+whisps of smoke.  South is the dark cave, but a red glow seems to come
+from the east.
+ 
+ 
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4853
+D2
+~
+~
+0 -1 4851
+S
+#4853
+Trail~
+A great orange glow works its way up the walls of the cave from the
+firepit below.  Shadows dance within that glow.  The heat from the
+fire is intense.  Sparks rise to join the shadows.  The smell of the 
+sweet meat assaults your nostrils, for it is no longer pleasant at all.
+Below, some figures move about tending the large beast on the spit.
+The cave leads west or down along a narrow trail to the pit below.
+ 
+ 
+~
+0 1073741832 13
+D3
+~
+~
+0 -1 4852
+D5
+~
+~
+0 -1 4854
+S
+#4854
+Ledge~
+The ledge here is narrow and treacherous, leading both up and
+down.  Below you see two very large women tending the fire, and
+the large beast on the spit.  The heat is unbearable, as is the sickly
+sweet smell of the roasting meat.  The fire crackles and sputters,
+as fat drips down upon the coals.
+ 
+ 
+~
+0 1073741824 13
+D4
+~
+~
+0 -1 4853
+D5
+~
+~
+0 -1 4855
+S
+#4855
+Cannibals~
+Two large women glare at you, their eyes red in the firelight, each 
+woman wielding a large knife.  They look at you as though you might
+be their next feast.  A large human male is being roasted over the
+flames.  The smell of the seared flesh and the heat of the fire are
+enough to make one weak in the knees.  The cave goes on to the east 
+or up the trail towards the cave entrance.
+ 
+ 
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4856
+D4
+~
+~
+0 -1 4854
+S
+#4856
+Cave~
+A red glow from the firepit to the east lights the way through the
+cave here.  It is smoky and hard to breath, the air thick and noxious.
+The trail is narrow here and the walls of the cave seem to get
+narrower.  By carefully examining the room you see a trail leading
+up.
+ 
+ 
+~
+0 1073741832 13
+D3
+~
+~
+0 -1 4855
+D4
+~
+~
+0 -1 4857
+S
+#4857
+Cave~
+The cave goes down towards a red glowing part of the tunnel,
+or south.  There is much noise coming from the south, a bachanel
+pehaps or a party... as the voices seem to reach a fevered pitch.
+It is dark here and hard to make anything out.
+ 
+~
+0 1073741832 13
+D2
+~
+~
+0 -1 4858
+D5
+~
+~
+0 -1 4856
+S
+#4858
+Noisy Cave~
+The noise from the south is very loud.  Screams and shouts can
+be heard as well as wild pipe music, as deep resonant drums
+keep the beat.  It is brighter here as some light enters from the 
+south, and you can make out some ancient symbols... and some
+pictures etched upon the cave wall.  a man and woman together,
+aman being hunted, a man being roasted, and of a child being born.
+The cave travels north and south.
+ 
+ 
+~
+0 1073741832 13
+D0
+~
+~
+0 -1 4857
+D2
+~
+~
+0 -1 4859
+S
+#4859
+Feast Ceremony~
+A large table laden with what is obviously sliced roast human, as there
+is the head on the plate as well as, fresh fruit and vegetables.  the women
+are gathered in the western part of this large cavern, singing and dancing
+praying and chanting.  A frenzied look is in their eyes but they are
+oblivious to all but the ritual of the human sacrifice.  A tunnel is to the
+north and there is an exit down.
+ 
+ 
+~
+0 1073741832 13
+D0
+~
+~
+0 -1 4858
+D5
+~
+~
+0 -1 4860
+S
+#4860
+Garbage Pile~
+The air is fresh here.  Far to the north you can see some light
+filtering in.  The walls are smooth, the shadows clinging 
+tightly to them like a lover.  A large pile of bones, picked
+clean as if by vultures, are stacked up in a heap.  The cave
+continues west.
+ 
+ 
+~
+0 1073741832 13
+D3
+~
+~
+0 -1 4861
+S
+#4861
+Cave~
+The cave although veiled in shadow, shows light upahead.  Bats  
+hang tight to the cieling and there are thick piles of bat guanna,
+on the cave floor.  The tunnel is wide and there  must be thousands
+of tiny bats up there.  The cave goes east and west.
+ 
+ 
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4860
+D3
+~
+~
+0 -1 4862
+S
+#4862
+Cave~
+The cave walls close in around you.  A narrow winding trail leads
+around stalagtites and stalagmites that almost meet each other
+making this path difficult to walk.  Light creeps into this part of 
+the cave from the west.  The cave also continues to the north
+where the high pitched sound of bats can be heard.
+ 
+
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4861
+D3
+~
+~
+0 -1 4864
+S
+#4863
+Man in the Shadows~
+The cave is fairly dark here, the light coming from the south does
+little but create shadows.  Something moves about in the shadows.
+Then a low wimpering fills the cave.  A man sits cowering in the 
+shadows.  He is dirty and smelly and in desperate need of a bath.
+when he steps out of the shadows his eyes have nothing but pure
+unadulterated fear in them.  The cave continues to the south.
+ 
+ 
+~
+0 1073741832 13
+D2
+~
+~
+0 -1 4864
+S
+#4864
+Cave Juncture~
+The light here is resplendent compared to the dark gloom of the cave
+north and east.  The air is fresh and clean here at the caves mouth.
+To the north there seems to be something lurking in the shadows. East
+is a narrow trail through the stalagmites and stalagtites that dwell
+there.  South, leading out into the sunlight is a wooded trial.
+ 
+ 
+~
+0 1073741832 13
+D0
+~
+~
+0 -1 4863
+D1
+~
+~
+0 -1 4862
+D2
+~
+~
+0 -1 4865
+S
+#4865
+Trail~
+A cave entrance is just north of here.  South, is a trail that heads
+down towards the beach.  A crane, perched upon a high branch in
+a towering cedar, takes flight, spreading her magnificent wings and
+soaring out of view.  The trail meanders through light scrub and
+bush, south through the rocky path towards the beach.
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4864
+D2
+~
+~
+0 -1 4866
+S
+#4866
+Beach Trail~
+To the north is a wooded trail heading towards a large cave.
+South is a gravelly beach stretching eastward to the treeline.
+In the distance a boat appears through the mist, heading
+towards the dock.
+ 
+ 
+~
+0 1073741824 4
+D0
+~
+~
+0 -1 4865
+D2
+~
+~
+0 -1 4867
+S
+#4867
+Beach~
+The forest, thick and dense, lies to your west.  South of here a
+boat is just docking.  It seems to be the one that brought you
+here.  A small square white sail billows in the breeze, a
+cloaked figure is aboard.  The beach is quite gravelly and
+continues to the east.
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4866
+D1
+~
+~
+0 -1 4868
+D2
+~
+~
+0 -1 4842
+S
+#4868
+Beach~
+The beach slopes gently upwards creating an embankment
+over the lakes edge to the east.  Small pebbles cover the 
+beach, sparkling like jewels as the tide recedes.  The trail
+continues west to the beach.
+ 
+ 
+~
+0 1073741824 4
+D3
+~
+~
+0 -1 4867
+D4
+~
+~
+0 -1 4869
+S
+#4869
+Embankment~
+The embankment slopes gently up towards the top of a cliff.
+To the south you can see the dense fog that surrounds the
+islnad.  Long ribbon grass flanks the north and further north
+is the dense forest.  Short grass covers the ground here.
+ 
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 4870
+D5
+~
+~
+0 -1 4868
+S
+#4870
+Cliff Top~
+You are standing at the top of a cliff overlooking the lake,
+Far to the south is the mist that separates the island from the
+rest of the world.  The view from here is spectacular, tern dot
+the sky.  You can hear the sond of the waves lapping at the 
+rocks below.  A large boulder is here, it looks like you could
+just roll it over the edge of the cliff.  The trail leads west.
+ 
+~
+0 1090519040 4
+D3
+~
+~
+0 -1 4869
+D5
+~
+boulder~
+3 -1 4873
+S
+#4871
+Armoury~
+This room is filled with swords, shields and armour, gently laid to
+rest.  Some are gold, some are silver, some are iron.  No rust is on
+these items and they appear to be well cared for.  The room itself is
+partitioned off from the rest of the temple, beautiful ornate silk screens
+a small gap is in the screens south.
+ 
+ 
+~
+0 1073741832 1
+D2
+~
+~
+0 -1 4872
+S
+#4872
+Temple room~
+Ancient symbols cover the southern wall.  Beneath them is a large
+pile of bones, picked clean and bleached white in the sun.  A 
+picture is painted on the wall, showing a great battle scene.  The
+warriors are women, the victims, a handful of men who just  happened
+to be being slaughtered.  North is a gap in a silk screened wall.
+ 
+ 
+~
+0 1073741832 1
+D0
+~
+~
+0 -1 4871
+D3
+~
+~
+0 -1 4877
+S
+#4873
+Oubliette~
+You have just fallen down an oubliette...a place of forgetting.
+The smell here is of rotting flesh and is most vile.  The only
+direction is down deeper into the oubliette.
+ 
+ 
+~
+0 1073741832 13
+D5
+~
+~
+0 -1 4874
+S
+#4874
+Oubliette~
+The smell is stronger here and below you can make out
+rats looting corpses of their goodies, pretty trinkets and 
+silver.  And the most prized...pieces of rottng flesh....
+The only exit is down.
+ 
+ 
+~
+0 1073741832 13
+D5
+~
+~
+0 -1 4875
+S
+#4875
+Bottom of Oubliette~
+The oubliette ends here.  The bottom is littered with a half
+dozen corpses, still containing some bits and pieces of their
+treasures.  This handfull of men seem to have met a foul end
+indeed.
+ 
+ 
+~
+0 1074864136 13
+D0
+~
+door~
+7 15 4876
+S
+#4876
+Forest~
+A dense forest is here.  Thick lush branches of fir brush your
+face as you pass.  This trail has obviously not been used
+in many years, as it is difficult to make your way  through
+the trail.
+ 
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 4894
+S
+#4877
+Temple~
+You are in the southern end of an ornate temple room.  Several
+women are gathered here praying and chanting.  The Daughters 
+of Eleuth take good care of this temple, fore it is spotless.  Fresh
+flowers are on the altar here as well as an athame, a wand, a 
+goblet, and a staff.  Incense fills the room with it's exotic perfume,
+as its smoke curls around the nooks and cranies.  East is a battle
+scene, along with a pile of bones, north is  the entrance to the 
+temple.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+~
+0 -1 4878
+D1
+~
+~
+0 -1 4872
+S
+#4878
+Temple Entrance~
+A large arched doorway etched in ancient symbols inlaid
+with gold, marks the entranceway to the temple of the
+Daughters of Eleuth, Goddess of the Moon.  The foyer is
+small and leads south to the alter.  A silk screen 
+partition blocks the way to the east.  The screen is
+embroidered with rich woodland scenes.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4849
+D2
+~
+~
+0 -1 4877
+S
+#4879
+Cathedral of Alder~
+Alder surround the path outside the side door of the stables
+creating a cathedral overhead.  Up ahead the trail turns west.
+Alder surround the path outside the side door of the stables.
+Overhead the alders branches meet and colide forming a 
+cathedral overhead.  Dappled light peeks through the 
+branches, and when the wind whispers through here, the
+light dances along the ground.  Up ahead the trail turns west.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4880
+D2
+~
+door~
+3 15 4848
+S
+#4880
+Trail~
+The trail meanders west and south here.  The trail through the 
+alder is cool and shady.  To the northwest a regal kingfisher,
+his blue crown displayed for all to see, hunts for trout in the 
+creek that trickles through this part of the forest.  You see the
+kingfisher dive and bring up his prey in one fell swoop,
+then he ducks back into the forest that is his home.
+ 
+ 
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4879
+D3
+~
+~
+0 -1 4881
+S
+#4881
+Willow Tree~
+A large willow tree stands here, its circumference as large as a 
+house.  It is gnarled and bent, it's branches weeping in the wind.
+Occasionally you hear the creek of ancient limbs as the tree shifts
+in the wind.  To the west is a stairway carved into the tree itself,
+that circles up around the trunk.  East is tail towards the alder.
+ 
+ 
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4880
+D4
+~
+~
+0 -1 4882
+S
+#4882
+Landing~
+At the top to the stairs is a large oak door, a symbol of a crescent
+moon etched into the upper portion of the door.  The stairs wind
+down the trunk of the tree in a circular fashion, ending at the edge
+of a trail leading to the east.  Dappled light sneaks in through the 
+trees many hanging branches.  The door is to the east.
+ 
+ 
+~
+0 1073741824 3
+D3
+~
+door~
+3 -1 4883
+D5
+~
+~
+0 -1 4881
+S
+#4883
+Hallway~
+The hallway is covered in pictures of the moon in all its twenty
+eight phases, from waxing to wanning, and its return to waxing
+again.  They seem to have all been painted by the same artist.
+An oaken door is to the south.  Sconces, holding round white 
+candles, light the way through the hall.  The flames flicker on
+their wicks, casting odd shadows in the doorway.
+ 
+ 
+~
+0 1073741832 0
+D1
+~
+door~
+3 -1 4882
+D2
+~
+door~
+3 -1 4889
+D3
+~
+~
+0 -1 4884
+S
+#4884
+Hallway~
+The hallway is covered in a variety of pictures of the constellations.
+Even a picture of Cassiopia is here.  Light is provided by big round
+white candles in sconces of bronze that amplify and direct the light
+into the hallway.  Two doors are here, north and south.
+ 
+ 
+~
+0 1073741824 0
+D0
+~
+door~
+3 -1 4888
+D1
+~
+~
+0 -1 4883
+D2
+~
+door~
+3 -1 4890
+D3
+~
+~
+0 -1 4885
+S
+#4885
+Portrait~
+The hallway turns north and east.  One picture graces the northern wall,
+covering a good portion of it.  It is a portrait of the beautiful goddess 
+of the Moon, Eleuth resplendent in her flowing red hair, and her consort
+the handsome tawny haired O'Ryan, King of Thieves, who stole her heart.
+The pair are  hunting atop a matched set of black stallions, with a silvery 
+aura.  Behind them are the pine and cedar that are scattered all over the 
+island.  There is a door to the west.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+~
+0 -1 4886
+D1
+~
+~
+0 -1 4884
+D3
+~
+door~
+3 -1 4892
+S
+#4886
+Window~
+Two large windows grace the end of this hallway.  One looks out to
+the west one to the north.  To the east is a doorway.  The hallway
+continues south.  As you look out the window you realize this is where
+the moon rises....
+ 
+ 
+~
+0 1073741824 0
+D1
+~
+door~
+3 -1 4887
+D2
+~
+~
+0 -1 4885
+S
+#4887
+Wolf Den~
+The room is dark but by peering carefully about you can see a large
+wolf.  He is chained to the floor by heavy link chain.  He is snarling
+and vicious.  The room smells dank and musky, and wolfish.  There
+is a door to the east, and another door to the north.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+door~
+3 15 4893
+D3
+~
+door~
+3 -1 4886
+S
+#4888
+Eleuths Chamber~
+You have entered a stunning room of hollowed out polished willow.
+In the center of the room is a large bed veiled in a curtain of deep
+midnight blue satin dappled in gold moons and stars.  A matching
+coverlet adorns the bed, and pillows, the colour of the twilight sky
+rest against the wraught iron headboard.  A rosewood desk is against
+the south wall, and a comfy chair to match the bedcurtains is here to 
+sit  upon.  A large clawfooted bathtub is in the southeastern corner of 
+the room filled with fragrant steaming water.  In the southwestern corner
+is a perch for a bird.  A large arched oak door is to the north.  
+A large iron candle stick holder provides light to the room.  The
+Goddess Eleuth sits at her desk writing on a scroll, and her
+consort O'Ryan stretches his long rugged body out on the large
+bed.
+ 
+ 
+~
+0 1073741832 0
+D2
+~
+door~
+3 -1 4884
+S
+#4889
+Library~
+Mahogany shelves line the room, filled with leather bound books and 
+fine scrolls.  A comfy overstuffed chair covered in deep rich red velvet
+is in the corner, an oil lamp hangs overhead... all the better to read
+with.  On the floor some scrolls are scattered about, and atop the pile
+of books beside the chair.  A lone book awaits a reader on the table 
+beside the chair.  A door is to the north.
+ 
+
+~
+0 1073741832 0
+D0
+~
+door~
+3 -1 4883
+S
+#4890
+Pet Store~
+Strange smells and exotic sounds fill this room.  Lara is here tending the
+animals.  She awaits your request.  Cages line the walls and ceilings.
+A variety of small night creatures abound here, each one in its own cage.
+A door is to your north.
+ 
+ 
+~
+0 1073741832 0
+D0
+~
+door~
+3 -1 4884
+D3
+~
+door~
+3 -1 4891
+S
+#4891
+Storeroom~
+This is the storeroom of the petshop.  Many exotic night creatures fill 
+it's shelves. The most popular being the bat, the wolf, and the owl.
+ 
+ 
+~
+0 1073741832 0
+D1
+~
+door~
+3 -1 4890
+S
+#4892
+Treasure Room~
+A large chest fills the center of this room.  Made of oak and polished to
+a high sheen.  The walls are sparse, unadorned willow, light in color,
+but rich in beauty.  The floor is covered in a rich exotic rug of many 
+colors, obviously imported from a far off land.  A door leads back to
+the hallway through the eastern entranceway.
+ 
+ 
+~
+0 1073741832 0
+D1
+~
+door~
+3 -1 4885
+S
+#4893
+Forest~
+The forest is dark and dank.  Rich earthy smells greet your nostrils.
+The trees here block out the sun with their long thick branches.
+Ferns fill the nooks and cranys with their long lacey tenrdrils 
+spiraling outwards.  The trail meanders off to the south.  An 
+old owl sits atop a cedar branch and winks at you before he goes
+back to sleep.
+ 
+ 
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4894
+S
+#4894
+Forest~
+The forest trail leads off to the north, south, east and west.  The low
+lying shalelle surrounds the trail.  Up above evergreen provide the 
+shade needed for the shalelle to grow.  Blue berries grow on the 
+bushes and all though bitter are filling, and non poisonous.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4893
+D1
+~
+~
+0 -1 4895
+D2
+~
+~
+0 -1 4876
+S
+#4895
+Forest~
+Gloomy forest surrounds the trail that meanders around,
+the corner.  It turns gradually north and west.  The half 
+eaten carcass of a doe is here.  A bald eagle is scavenging
+around for some of the juicier pieces.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4898
+D3
+~
+~
+0 -1 4896
+S
+#4896
+Forest~
+A little light peeks through the branches above you.  The scent
+of pine is strong here and you make out a large grove to the 
+north.  The breeze blows the pines scent south, smelling clean
+and fresh. Some mushrooms grow near here for picking.
+ 
+ 
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4895
+D3
+~
+~
+0 -1 4897
+S
+#4897
+Forest~
+The trail here turns north and east.  South, the land forms a small grassy
+mound.  A rabbit bounds out of the small entrance way, running past you.
+That seems to be the entrance to a large rabbit warren.  There is more sun
+here and as you look around you realize there are many rabbits hiding in
+the foliage around you, as you can see their eyes in the bushes.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4899
+D1
+~
+~
+0 -1 4896
+S
+#4898
+Forest~
+A creak meanders south, just west of here, you can hear its
+babling.  A kingfisher hunts for trout in the creek, his bright
+coloring and long elegant beak are magnificent and noble, as he 
+scoops a wriggling fish out of the water and carries him off.
+ 
+ 
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4899
+D2
+~
+~
+0 -1 4895
+S
+#4899
+Forest~
+The forest here is dense and lush.  Moss covers the gound of
+the path.  Through the undergrowth you can see a beach...
+to the north... You can barely make out a boat in the mist.
+The trail turns south and west here.
+ 
+ 
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4867
+D2
+~
+~
+0 -1 4897
+D3
+~
+~
+0 -1 4898
+S
+#0
+
+
+#RESETS
+O 1 4810 1 4802
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

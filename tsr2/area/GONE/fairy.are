@@ -1,0 +1,73 @@
+#AREA   The Fairy Swamp~
+
+
+
+#AUTHOR Talon~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51200000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#6200
+A clearing before the swamp~
+All around you the chirp of swamp crickets and frogs drones to
+an almost deafening tone.  The soft, short grass of this clearing 
+is slowly giving way to the north.  There you can see that the 
+ground around the base of all the trees is wet.  There is the slight
+pungent scent of a swamp coming from the north.
+~
+0 0 2
+D0
+A small swamp stretches amongst the trees before you.
+~
+~
+0 0 6201
+S
+#6201
+Just inside the swamp~
+You wade through ankle deep water which stinks slightly of rotting 
+vegetation.  Above you trees stretch their canopy over you blocking
+out the sun.  Only an eery green glow from the leaves can penetrate
+the dense canopy.  The swamp stretches out around you, but to the 
+north you can see a slight trail
+~
+0 8 3
+D2
+~
+~
+0 0 6200
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,59 @@
+#AREA   {PROTO} Rhylus's area in progress~
+
+
+
+#AUTHOR Rhylus~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#14300
+felcar's head~
+Felcar's head on a pike.~
+A gored head, stuck on a large bloody pike sits here, gathering flies.~
+~
+13 4097 0
+0 0 0 0
+10000 0 0
+E
+pike~
+A large gleaming pike with a rotting head sits here.  Walking slowly
+around it, you recognize it as the head once belonging to Felcar.
+Gore drips from the severed neck, and drips along the shaft of the
+weapon.
+~
+#0
+
+
+#ROOMS
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

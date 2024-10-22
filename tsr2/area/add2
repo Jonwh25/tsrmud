@@ -1,5 +1,6 @@
-# tsrmud
-
+-1 GREETING~
+[2J
+[1;1H
 Welcome to ...
                                       /|
                                      |\|
@@ -29,16 +30,11 @@ Welcome to ...
             |    /'`\     ;  Staefeldt, Katja Nyboe,  _-           _/
            /    /    |    )  Tom Madsen, Michael    /;;;''  ,;;: -
           |    /     / | /   Seifert and Sebastian |;;'   ,''
-          /   /     |  \\|   Hammer.               |   ,;(
+          /   /     |  \\|   Hammer.               |   ,;(    
         _/  /'       \  \_)  Based on MERC 2.1 .---__\_    \,--._______
        ( )|'         ( -_|   by Hatchet      (;;'  ;;;---/' `;;|  `;;;\
         ) `\_         |-_;;--__ Furey and Kahn------__/'    /'_______/
         `----'       (   ` --_ ---;;------------      ;;;'_/'
                      `--------'--------....___;;;____---
 
-Brave Adventurer, Who are you? 
-
-
-TSR MUD was an old ROM based multi-user dungeon that was run in the late 90's.
-
-TSR1 - 1997
+Brave Adventurer, Who are you? ~

@@ -1,0 +1,2214 @@
+#AREA   {PROTO} Malphaydes's area in progress~
+
+
+
+#AUTHOR Malphaydes~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#13600
+A Dwarven Miner~
+A dwarven miner~
+A dwarven miner is here grumbling about his work
+~
+~
+1073742021 0 0 C
+35 0 -15 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 1 0 0 0 112 524290
+#13601
+Green Baby Dragon~
+A green baby dragon~
+A green baby dragon sits here hungrily awating its dinner.
+~
+A small green baby lies here hungrily awaiting the return of its mother,
+so that is can be fed. The little dragon starts to get excited and begins
+to wag its tail as it spots a familiar shape in the air.
+~
+1073741825 0 500 C
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 10 13 10 13 13 13
+0 10 10 10 10
+31 4 0 0 1879074163 1879074162 2
+0 0 360449 0 0 0 5 2
+#13602
+A goblin~
+The Goblin King~
+The King of the Goblins rests here.
+~
+You look upon the proud Goblin King. He looks a little too proud. You wonder
+what he is up to.
+~
+1073742017 4194856 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1765 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#13600
+sparkling fountain~
+a fountain~
+A large fountain is here gurgling out an endless stream of water.~
+~
+25 1073741888 0
+100000 100000 0 0
+1 0 0
+#13601
+A dragon's nest~
+A Dragon's Nest.~
+A large dragon's nest lies here.~
+~
+12 1073741824 0
+50 0 0 0
+1 0 0
+#13602
+giant boulder~
+A boulder~
+A large boulder is buried half way into the ground.~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#13603
+A bonfire~
+~
+The remains of a large bonfire are smoldering here.~
+~
+34 1073741824 0
+0 0 0 0
+1 0 0
+#13604
+ancient oak tree.~
+a withered old oak tree~
+An ancient oak stands here with its branches blowing in the wind.~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#13605
+Gate key~
+a newly created Gate key~
+Some god dropped a newly created Gate key here.~
+~
+18 1073741824 1
+0 0 0 0
+1 0 0
+#13606
+anvil~
+a newly created anvil~
+A huge iron anvil is here~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#13607
+book tea~
+An Old Book~
+An old leather bound book lies on the ground~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+E
+book ~
+This ancient book is covered in dwarven runes. On the inside cover is
+an inscription which reads: Property of Forash the Tea-leave Reader. 
+The pages of this antique volume contain the secrets to the mysteries
+of the art of divination through the art of tea-leave reading. It's 
+owner Forash has lived on this mountain practicing this forgotten art
+for ages.
+~
+E
+leather~
+~
+#13608
+Fireplace~
+A fireplace~
+A large stone fireplace is built into the west wall~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+E
+fireplace~
+The stones that make up this large fire place are slabs of obsidian 
+that have been smoothed so that no edges remain. 
+~
+#13609
+Ruby Throne~
+A Ruby Throne~
+A large ruby throne glows in the light~
+~
+12 1073741825 0
+0 0 0 0
+1 0 0
+E
+ruby throne~
+This throne has an eerie red glow when an sort of light passes through
+it, especially when sunlight hits it at the right angle. When the sun 
+hits it in that special way the throne glows blood red.
+~
+E
+'throne' 'ruby'~
+There is a big man here
+~
+#13610
+cell key~
+a ruby key~
+A ruby key.~
+~
+18 1073741824 1
+0 0 0 0
+10 0 0
+#13611
+Tower Key~
+a ruby key~
+A ruby key.~
+~
+18 1073741824 1
+0 0 0 0
+10 0 0
+#13612
+HAtch key~
+a ruby key~
+A ruby key.~
+~
+18 1073741824 1
+0 0 0 0
+10 0 0
+#13613
+Ore Smelter~
+An Ore Smelter~
+An ore smelter chugs away loudly~
+~
+12 1073741825 0
+0 0 0 0
+155 0 0
+E
+smelter~
+This giant machine does not look like it is in very good shape. In fact
+it looks like it is in need of constant repair. Assorterd tools lay 
+scatterd about its base.
+~
+#13614
+Lantern pile~
+A pile of lanterns~
+A pile of lanterns is scattered about the floor~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#13615
+green portal~
+A Green Portal~
+A shimmering green pool ripples against the wall~
+~
+46 1073741827 0
+0 0 0 0
+1 0 0
+#13616
+Tapestry~
+A Tapestry~
+An old tapestry hangs in the air genlty flowing in the wind~
+~
+12 1073741824 0
+0 0 0 0
+1 0 0
+#13617
+bed of Roses~
+A bed of roses~
+A lovely bed of roses are planted here~
+~
+12 1074003968 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#13600
+Malphaydes Toy Room~
+This room is filled with a numerous amount of strange toys. It is easy
+to tell that the master of this room has lost his mind from the eccentric
+decor that abounds. Teddy bears with nasty pointed blood-soaked teeth 
+fill the shelves, as do demented-looking rag dolls who wield their
+various missing appendages as weapons. Obviously the work of a madman.
+~
+0 1073741828 1
+E
+Doll~
+There is a note pinned to the doll that reads:
+Made by Malphaydes the insane
+~
+S
+#13601
+A Rocky Clearing~
+Emerging from the forest the light is much brighter here. There is 
+nothing to block the increase in the brightness of the light, save
+the boulders that lie strewn about. These giant rocks are imbedded
+deep into the ground. It is most likely that they have fallen from
+the peaks of The Dragon's Teeth that loom off in the west.
+~
+0 1073741824 2
+D1
+~
+~
+0 -1 13623
+D3
+~
+~
+0 -1 13602
+E
+boulder~
+~
+S
+#13602
+Bottom of the Mountain~
+The path starts its acsent into the mountains on a very steep incline.
+The small hills that were abundant a second ago are now replaced with
+sheer faces of rock climbing upward towards the sky. The green of the 
+grass covered hilltops has been replaced with a deep earthy tan color.
+~
+0 1073741824 5
+D1
+~
+~
+0 -1 13601
+D3
+~
+~
+0 -1 13603
+S
+#13603
+Halfway up the Mountain~
+The path has now become no more than a mere ledge twisting southwest
+around the side of the mountain. It looks as though someone may have fallen
+from here by the amazing amount of scuff marks on the edge of the trail.
+Looking downward a pile of bloodstained rocks lay at the base of the cliff,
+as an example of what happens to those who do not watch their step.
+~
+0 1073741824 5
+D1
+~
+~
+0 -1 13602
+D9
+~
+~
+0 -1 13604
+S
+#13604
+The Plateau~
+The ground has finally leveled back off, and now stretches out west as
+far as the eye can see. The peaks known only as the Dragon's Teeth race
+skyward to the north and the south. It is now evident why these peaks 
+bear that name. They are so twistedly gnarled and jagged that they 
+resemble actual dragon's teeth.
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 13607
+D2
+~
+~
+0 -1 13608
+D3
+~
+~
+0 -1 13605
+D6
+~
+~
+0 -1 13603
+S
+#13605
+The Gates of Dalakduum~
+The stone gates of the dwarven stronghold Dalakduum lie here. The gates are
+carverd from two massive slabs of granite. Each of which is three feet thick
+These mighty gates are here to help protect the stronghold from invaders. 
+It is hard to imagine how anyone could pass through these stone gates if
+they were unwelcome here.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13606
+D1
+~
+~
+0 -1 13604
+D2
+~
+~
+0 -1 13609
+D3
+~
+gate~
+1 13605 13617
+S
+#13606
+A Mountain Stream~
+Water rushes from the side of the mountain. It trickles and slowly forms
+a small stream. This is obviously one of many mountain springs that the 
+dwarves of Dalakduum use for their water supply. The water is as clear
+and sparkling as the gems that are harvested from the mines in the depths
+of the mountains below.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13607
+D2
+~
+~
+0 -1 13605
+S
+#13607
+Base of the Tooth~
+Looking upwards there is no conceivable way that this peak can be climbed
+it is just too jagged to be traversed, but after staring blankly at the
+base of this misshapen stone a set of handholds and footholds begin to emerge
+from the mangled formation of rock. It is now easy to see how to climb the 
+peak.
+~
+0 1073741824 5
+D2
+~
+~
+0 -1 13604
+D3
+~
+~
+0 -1 13606
+D4
+~
+~
+0 -1 13611
+S
+#13608
+Base of the Tooth~
+After closer inspection this tooth is not near as rough and twisted as
+it's sibling to the north. This peak has a very well developed marked 
+path leading up the side of the spire. Traveling along this path will 
+not be nearly as hard as climbing the rough face of the other one.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 13604
+D3
+~
+~
+0 -1 13609
+D4
+~
+~
+0 -1 13612
+S
+#13609
+A Mighty Oak~
+A lone Oak tree stands here blowing in the tremendous wind the blow
+in the mountains.  The branches sway back and forth bending to extremes
+as the gusts of wind try to snap them. At the base of the trunk the roots
+penetrate deep into the hard rocky earth below. This tree seems to thrive
+here in these harsh conditions, just like the dwarves who planted it.
+~
+0 1073741824 2
+D0
+~
+~
+0 -1 13605
+D1
+~
+~
+0 -1 13608
+S
+#13610
+Top of The Teeth~
+At this altitude the air is very thin, and it is very hard to breathe.
+The mist from the clouds in the sky make the air very moist and humid.
+There is very little here at the top of this peak, except for a very large 
+nest made of wood and stone. High shrilled cries can be heard emanating
+from the nest.
+~
+0 1073741824 5
+D5
+~
+~
+0 -1 13611
+E
+Nest~
+Inside the nest there three small dragon hatchlings hungrily awaiting 
+some food. One thing seems to be missing though, Where is the mother??
+They are known to be very protective of their young.
+~
+S
+#13611
+Up the Teeth~
+Climbing the tooth is harder than expected, even with the handhold and
+footholds that are present. From this height there is an excellet view of
+the realms. Back to the east lies the magnificent City of Shadows, and to
+the north lie the dark woods of the Haon Dor forest.
+~
+0 1073741824 5
+D4
+~
+~
+0 -1 13610
+D5
+~
+~
+0 -1 13607
+S
+#13612
+Trail up the Tooth~
+It is uncanny how natural this path looks. It almost looks as if it were
+part of the mountain peak itself, but that is impossible it is just to 
+smooth and oerfect to be a naturally occuring trail. From the amount of
+dwarven craftsmanship that has gone into this path, there must be something
+truly spectacular at the top.
+~
+0 1073741824 5
+D4
+~
+~
+0 -1 13613
+D5
+~
+~
+0 -1 13608
+S
+#13613
+A Stange Campsite~
+There is a white tent pitched here with a campfire blazing a few feet 
+in front of it. There is a large book covered in Dwarven Runes lying on 
+the ground beside the campfire. There is also large cauldron resting upon 
+the fire. The smell of dwarven pipe tobacco, and the odor of some strange
+brew fills the air.
+~
+0 1073741824 5
+D5
+~
+~
+0 -1 13612
+S
+#13614
+The Battlements~
+At this corner of the battlements part of the wall is missing. A siege
+was most certainly attempted at this location, because the wall is 
+cracked and slowly crumbling. The aged stone is not in very good condition.
+Erosion has also taken its toll upon this mighty defensive structure. If
+this wall is not fixed soon it will collapse.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13615
+E
+sign~
+~
+S
+#13615
+On the Battlements~
+The whole plateau can be seen from up here. It all seems much more serene
+from this height. The small stream that begins down on the plateau can 
+now be seen snaking its way down the mountainside as a large river. More 
+streams feed into the main one to steadily increase its size. It is a 
+truly breathtaking sight.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13614
+D5
+~
+~
+0 -1 13616
+S
+#13616
+A Guard Room~
+Weapons and keys of all shapes and sizes abound here. There is a rack of 
+crossbows lying on the west wall, each one of them loaded and ready to
+go. There is also a small table here where the guards like to relax,
+smoke and gamble. One of the guards has carelessly left his lit pipe
+here burning away and wasting his precious tobacco.
+~
+0 1073741824 1
+D2
+~
+'stone door~
+3 -1 13617
+D4
+~
+~
+0 -1 13615
+S
+#13617
+Inside the Stone Gate~
+The heavy odor of dwarven pipe tobacco floats in from the north and 
+south accompanied by a thick smoke. The cloud of smoke twists and 
+contorts itself into many unique designs as it reaches out from one 
+end of the room to the other. As the cloud of smoke slowly dissipates
+a new one rolls in from the north.
+~
+0 1073741824 1
+D0
+~
+'stone door~
+3 -1 13616
+D1
+~
+'stone gate~
+1 -1 13605
+D2
+~
+'stone door~
+3 -1 13618
+D3
+~
+~
+0 -1 13626
+E
+smoke ~
+A misty cloud of smoke streches, spins, and changes shape like a 
+living breathing piece of art.
+~
+S
+#13618
+A guard room~
+The echoed sound of footfall upon the stone floor makes the room seem much
+larger than it actually is. The smooth blue stone floor tiles stretch out
+from wall to wall like an endless sea. The floor is polished so well that it
+shines as if it had an internal source of light. The pale blue hue of the 
+room makes it seem full of tranquility and peace just like the ocean in its
+natural state.
+~
+0 1073741824 1
+D0
+~
+'stone door~
+3 -1 13617
+D4
+~
+~
+0 -1 13619
+S
+#13619
+The Roof of the Guard House~
+The top of this guard house has been turned into a surveillance
+area. Two large spyglasses are mounted to the wall. One of them
+is pointed towards the world below on the outside of the stronghold, 
+and the other one is pointed towards the entrance to Dalakduum's mine.
+The mine is watched very closely, because occasionally an orc will escape
+from the mountains' depths where they dwell.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13620
+D5
+~
+~
+0 -1 13618
+S
+#13620
+A Store Room~
+An overpowering musty smell dominates this room. This place is only ventured
+into by the dwarven guards when they are absolutely out of something and 
+it can be found no other place. It has been said that this room is haunted.
+Many of the guards go home to thier families and tell them of the ghastly
+shade that they have seen wandering amongst the boxes of stored food. 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13619
+S
+#13621
+A Dark forest~
+No light penetrates the thick forest ceiling in these woods, it is 
+literally pitch black.  All that can be seen are vague outlines of gnarled
+twisted shapes which are probably trees, but one of the shapes moved, did
+it not? High pitched snickering can be heard coming from the surrounding
+darkness. The leaves shift and crackle under something's feet, what could
+it be?.
+~
+0 1073741825 3
+D3
+~
+~
+0 -1 13623
+S
+#13622
+A smoldering fire.~
+The remains of a fire lie here half extinguished. These coals put an eerie
+glow in this intense darkness. This fire puts off a large amount of light
+considering the intensity of the darkness here. Trees can actually be made
+out here as well as the grass on the forest floor. Once again the world 
+seems full of life in this sanctuary from the otherwise pitch black 
+conditions.  
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 13623
+S
+#13623
+Darkness~
+In this spot of this extremely dense forest, darkness seems to be more of
+an entity than just the absence of light. Here darkness has a texture and 
+a life of its very own. It is as if the darkness itself is alive. It seems
+that an entity of this kind is most certainly not natural. It must have been
+created and placed here for a specific purpose. The only semblance of light 
+is an eerie red glow to the north.
+~
+0 1073741825 3
+D0
+~
+~
+0 -1 13622
+D1
+~
+~
+0 -1 13621
+D3
+~
+~
+0 -1 13601
+E
+men~
+~
+S
+#13624
+A Quiet Corner~
+Amongst the noisy atmosphere of this tavern it is nice to find a quiet
+spot. All of the booths are empty here except for one, which is a surprise
+considering how busy this place is. The area seems to be reserved for those 
+patrons who simply want to drink their ale and smoke thier pipe in peace.
+The solitary booth that is occupied holds a lonely dwarf smoking his pipe,
+and quietly looking on at the crowd.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13625
+D3
+~
+~
+0 -1 13627
+S
+#13625
+The Bar~
+Here stands the bar where legend has it, that Rhylus Luckbringer himself
+was known to throw back a few glasses of ale. The bar is made from a most
+exquisite piece of oak, and the finish makes it shine like a star in the 
+sky. The gold inlay depicts a battle between a group of dwarves and a 
+dragon. On the back wall near where the ale is kept a rack of mugs hangs 
+on the wall. Each of the mugs has a name inscribed on it.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13624
+D3
+~
+~
+0 -1 13628
+E
+mugs~
+These mugs are for the regulars who come here often enough
+to earn the honor of becoming part of the happy hour club.
+~
+S
+#13626
+The Streets of Dalakduum~
+The wealth of this stonghold is now apparent by the lavish conditions 
+of its many buildings and streets. The buildings are either made from
+granite or oak, and they are kept in pristine condition. The frames of
+the windows are inlayed with either gold or silver. The roads are made 
+from polished stones that are so expertly put together that it is nearly
+impossible to find where one stone ends and a new one begins. 
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13617
+D3
+~
+~
+0 -1 13629
+S
+#13627
+The Band~
+A dwarven band stands here playing requests for the customers. As the 
+band begins to play, a chorus of drunks joins in, and the room comes alive
+with music and song. The band somberly beats and blows out their tune on 
+their drums and flutes as they tap their feet to the beat. The drunks 
+stagger around and bellow out their off-key war hymns at the top of their
+lungs.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13624
+D2
+~
+~
+0 -1 13628
+S
+#13628
+Galakor's Tavern~
+This place seems to be a popular place for the inhabitants of Dalakduum
+to relax after a long day of work in the mines. or at the forge. The place
+is packed wall to wall with customers. A sign on the wall boasts the best 
+ale in all the realms. To the north the off-key singing of drunken dwarves
+can be heard.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13627
+D1
+~
+~
+0 -1 13625
+D2
+~
+door~
+1 -1 13629
+S
+#13629
+Midtown Dalakduum~
+The loud noise of drunken dwarves singing warhymns rolls in from the 
+north. The sign on the door reads 'Galakor's House of Ale.' Obviously a 
+favorite hangout of the locals. The strong aroma of tobacco drifts in from
+the south. Large twists of tobacco hang in the window. The sign on the 
+window reads 'Balor's Pipes.' The heart of the city lies to the west.
+~
+0 1073741824 1
+D0
+~
+Door~
+1 -1 13628
+D1
+~
+~
+0 -1 13626
+D2
+~
+~
+0 -1 13630
+D3
+~
+~
+0 -1 13631
+S
+#13630
+Balor's Pipes~
+This smell in this shop is very overpowering. Large twists of dwarven 
+tobacco hang in the window. Each twist is appropriately labeled as to
+it's taste and aroma, as well as the price.  On the far wall by the 
+counter is a large rack full of pipes for sale. The pipes encompass a
+whole cornucopia of sizes, prices, and styles.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13629
+D1
+~
+~
+0 -1 13680
+S
+#13631
+A Large Fountain~
+The street widens to make room for the gigantic fountain that is here.
+Water shoots a good five feet into the air before it begins its return 
+to the ground. The fountain pool is made out of solid stone and is roughly
+a half a foot deep. The fountain itself is made from a gigantic diamond.
+The diamond is cut to perfection and tunnels have been very delicately 
+carved into the facets of the gem so that the water will flow through it.
+It is a breathtaking site when the sun hits the fountain, it sparkles and
+shines as bright as the sun. To the north lies a beautiful flower garden.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13687
+D1
+~
+~
+0 -1 13629
+D2
+~
+~
+0 -1 13632
+D3
+~
+~
+0 -1 13638
+S
+#13632
+The Gem Cutter~
+A large pile of uncut gems lies in a box in the back corner of the shop.
+In the glass case near the counter an example of the master gemcutter's 
+skill is displayed. This large sapphire has been carefully sculpted and 
+cut into the shape of a griffin. There are also other gems in the case
+that have been cut in the more traditional way. 
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13631
+S
+#13633
+The Luckbringer Weaponsmith~
+A wide variety of dwarven arms are set up for display at this shop. For
+the most part these items would be considered run of the mill weapons,
+except for one fact. That fact is that they were made in the Luckbringer 
+forge. This forge's products are know for their durability and for their
+excellent craftsmanship. People come from far and wide just to place an
+order here.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13634
+D3
+~
+~
+0 -1 13640
+S
+#13634
+The Anvils~
+Three huge anvils stand here awaiting to be worked on. These anvils must 
+weigh at least three hundred pounds a piece. They are placed very near
+the hearth so that the blacksmith will have easy access to the bed of
+coals. There are also large tubs full of water here placed next to the
+anvils on the side opposite of the hearth. This is the ideal setup for
+hammering metal. The smith has to make very few movements except for
+pounding and shaping the steel he is working on.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13633
+D3
+~
+~
+0 -1 13641
+S
+#13635
+The Forbidden Tower~
+This tower is a place that all dwarves fear and avoid at all costs. It
+houses those of their race that choose to practice magic. Those dwarves
+who dare commit such an act know the consequences of their actions. Those
+few who have chosen that path become outcasts, and end up finding a safe
+haven here. This place is closely guarded by only those of the most solemn
+mind, because this exile is a punishment and the inhabintants of the tower 
+cannot be allowed to escape and pollute the rest of the society with their
+treachery.
+~
+0 1073741824 1
+D0
+~
+Gate~
+3 13611 13654
+D2
+~
+~
+0 -1 13636
+S
+#13636
+Before the Mine~
+The mine lies to the west. The path worsens even more in that direction.
+Very few traces of the road are left. The road has become no more than a
+very rough and rocky trail towards the entrance to the mine shaft. The 
+decay of the road is due to the miners dragging their mining picks on the
+ground behind them. The road also continues to the north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13635
+D2
+~
+~
+0 -1 13637
+D3
+~
+~
+0 -1 13642
+S
+#13637
+The Alley~
+This path has seen much wear and tear from the fall of many feet. The
+road is cracked and broken. Good sized chunks are missing from it in 
+several places. The only thing that makes the road look decent is the 
+lovely flower bed planted along the sides. Some caring person has taken 
+the time to plant an extensive variety of flowers. The flowers are
+untouched. The people who travel this road obviously like and respect
+the attempt someone has made at brightening their day.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13636
+D2
+~
+~
+0 -1 13638
+E
+flowers~
+A large patch of flowers have been planted on both sides of this 
+heavily trodden path. They smell dreamy and fresh. 
+~
+E
+flowesr~
+~
+S
+#13638
+Downtown Dalakduum~
+The main road is crossed by an alley that goes north. The alley that leads
+to the north seems very well traveled, and a very tall tower dominates 
+the landscape in that direction. The sound of a smith's hammer pounding
+red-hot metal is audilbe from the Luckbringer forge to the south. Further 
+on in the west lies a large home, it is noticeably larger than the others
+in the city. Someone of importance must reside there.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13637
+D1
+~
+~
+0 -1 13631
+D2
+~
+~
+0 -1 13639
+D3
+~
+~
+0 -1 13643
+S
+#13639
+Entrance to the Luckbringer Forge~
+This building is a place of myth and legend. The weapons and armor made
+at this forge are known throughout the realms as some very well crafted
+goods. The building has multiple chimneys, indicating a large bed of coals.
+The building was orginally smaller, but when it was rebuilt many years ago
+the size of the hearth was made larger so that the smiths would have more
+room to work so that all of them would not be huddled around the same bed of
+coals fighting over who gets to use the anvil first.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13638
+D2
+~
+~
+0 -1 13640
+S
+#13640
+The Luckbringer Forge~
+This is the forge that Rhylus Luckbringer accidently destoyed when 
+attempting to make his first sword. It was rebuilt soon thereafter as 
+an honor to him. The loud clanging of steel against steel accompanied by
+a dwarvish work song can be heard all around. To the west is a dwarven male
+selling shields and suits of armor. To the east is a young dwarven female
+selling a wide variety of arms. From the south the glow of the mighty hearth
+casts a fiery orangish-red glow this way.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13639
+D1
+~
+~
+0 -1 13633
+D2
+~
+~
+0 -1 13641
+D3
+~
+~
+0 -1 13644
+S
+#13641
+The Hearth~
+Flaming hot coals line the bed of this enormous hearth. A half-finished
+sword is being tempered to increase its strength. The coals crackle and 
+hiss around the cold blade. A large cloud of smoke rises up from the icy
+blade while it heats up again so that the steel becomes malleable once
+more. Stray sparks from the coals fly around within the hearth as if they
+were playing a game of tag. One of the sparks shoots out of the safety of
+the bed of coals, and falls to the floor where it extinguishes itself.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13640
+D1
+~
+~
+0 -1 13634
+D3
+~
+~
+0 -1 13645
+S
+#13642
+Entrance to the Mine~
+A large cavern opens up and descends deep into the heart of the mountain.
+The ladder down to the mine shaft is lit only by a few lanterns, and 
+torches. This mine is the source of all of Daladuum's enormous amount of 
+wealth. It is also a place of great danger, because many things lurk in the
+lower levels of the mine. There is a small sign posted by the entrance to the
+mine.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13636
+D5
+~
+~
+0 -1 13660
+E
+sign~
+BEWARE those who would enter the mines. This is not a place for the 
+weak, the miners are well trained to deal with the creatures that they
+may encouter. ENTER AT YOUR OWN RISK!!!
+~
+S
+#13643
+Along the Road~
+The doors to the jail lie to the north. The doors are made from heavy 
+iron, and they seem to be very thick. A large brass door knocker hangs
+on the door underneath a peep hole. The curious thing about this door is 
+that there is no way of opening it from the outside. There is no handle on
+the door, as a matter a fact there does not even seem to be hinges for the
+door to open on. The doors seem more a part of the wall than a set of doors.
+~
+0 1073741824 1
+D0
+~
+door~
+3 -1 13659
+D1
+~
+~
+0 -1 13638
+D3
+~
+~
+0 -1 13646
+S
+#13644
+The Luckbringer Armorer~
+Large shiny suits of dwarven plate mail fill the shelves. The suits'
+luster brightens the entire room. The reflection from the hearth off
+of the many polished suits of armor creates a dancing glow about the room
+These pieces of armor are so well made that there is no visible way that 
+the separate plates can be seen to be held together to from a suit. Truly
+the dwarven blacksmiths that work here have mastered their craft.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13640
+D2
+~
+~
+0 -1 13645
+S
+#13645
+The Ore Mound~
+This is where the miners drop off the forge's daily supply of raw ore.
+There are four different piles here, each one for a specific ore. There is
+one for gold, silver, bronze, and steel. It is from here that the blacksmiths
+select the hunk of ore that they will turn into a magnificent piece of 
+crafstmanship.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13644
+D1
+~
+~
+0 -1 13641
+S
+#13646
+A Residential Area~
+This point on the road begins the residential section of Dalakduum. 
+Houses spread out to the reaches of the horizon. Immediately to the west
+is a very large dwelling. The sign out front says that it is the home of
+Thoralan Dorlak the ruler of this great stronghold for many years now. 
+This red stone house is very ancient. It is one of the oldest buildings 
+in the city. 
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13643
+D3
+~
+~
+0 -1 13648
+S
+#13647
+The Dorlak Kitchen~
+An iron pot of stew sits upon a stove here quietly simmering. It smells
+like some sort of animal broth. The size of the stove is enormous. It is
+at least four feet wide and deep. The sink is filled with warm water for
+washing the towering pile of dirty dishes that rest upon the counter. 
+The remains of a boar lie on the cutting board waiting to be put in the
+oven and cooked.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13648
+D3
+~
+~
+0 -1 13649
+S
+#13648
+Inside the Dorlak home~
+For being the home of a ruler this place is pretty plain. This entrance 
+is decorated in a very rustic way. Trophy heads from victorious hunts 
+hang upon the wall. A woven rug covers the length of the entire floor.
+The rug is made from the softest cotton threads known in the realms. It
+feels like walking through a grass that is as light as air. The smell of
+stew floats in from the kitchen to the north, and a crackling fire can 
+be heard to the west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13647
+D1
+~
+~
+0 -1 13646
+D3
+~
+~
+0 -1 13650
+S
+#13649
+The Bottom of a Stairway~
+This stair leads up to Thoralan's personal chamber. The stairs are
+constructed from raw obsidian. Each step has been polished and sanded,
+so that all the rough edges are gone. Such an exquisite job has been 
+done that it appears as the bumps and rough edges of the stairs were
+worn away naturally over a long period of time. At the bottom of the 
+banister there is a bust of Thoralan carved into it.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13647
+D2
+~
+~
+0 -1 13650
+D4
+~
+~
+0 -1 13651
+S
+#13650
+Before the Fireplace~
+Flames leap out from the fireplace as if they were trying to escape from
+it. The large trophy head of a dragon hangs above the mantle as a constant
+reminder of how good a hunter Thoralan Dorlak really is. A very comfortable 
+looking chair sits near the fire. A large pile of wood logs are stacked up 
+against the south wall.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 13649
+D1
+~
+~
+0 -1 13648
+S
+#13651
+Top of the Stairs~
+Here are the chambers of Thoralan Dorlak. To the north is his personal 
+bedroom. To the west is his audience chamber where he conducts his daily
+duties. This level of this ancient building is much larger than the 
+ground floor. This floor seems to be more fitting for that of a ruler.
+It is here that all of Dalakduum's rulers have lived for the last three
+hundred fifty years.
+~
+0 1073741824 1
+D0
+~
+door~
+3 -1 13655
+D3
+~
+~
+0 -1 13670
+D5
+~
+~
+0 -1 13649
+S
+#13652
+The Dwarven Cell~
+A pair of small cots hang from the northern wall. An oaken table and a
+score of chairs are scattered about the floor. These conditions seem 
+quite lavish considering the function of this room. It hardly seems like
+a jail cell at all. A small stone pipe rests on top of one of the cots
+undisturbed. 
+~
+0 1073741824 1
+D3
+~
+cell~
+3 13610 13657
+S
+#13653
+The Jailkeeper's Office~
+A large desk made from petrified wood dominates the room. Along the far 
+back wall are shelves filled with the records of all those who have been
+imprisoned here. A few books on Dalakduum's laws, statutes, and punishments
+for breaking such things lie unread here on the desk. A keyring made from
+solid marble hangs on a spike on the east wall.
+~
+0 1073741824 1
+D3
+~
+door~
+3 -1 13659
+E
+keyring~
+The keys to the cells of the jail hang here on a spike 
+safely out of the reach of the prisoners.
+~
+E
+books~
+These books are as new and unread as the day they were printed.
+Whomever they belong to has a lot of reading to catch up on.
+~
+S
+#13654
+The Welcome Hall~
+When a dwarf gets banished here to the Forbidden Tower this is the place
+where the tower's elders meet and welcome the newcomer into their home.
+The floor is covered with plush red carpets, and on the walls hang many 
+beautiful paintings. Suddenly out of nowhere a large stone spiral
+stairway appears.
+~
+0 1073741824 0
+D2
+~
+gate~
+3 13611 13635
+D4
+~
+~
+0 -1 13677
+S
+#13655
+Thoralan's Bedroom~
+In these private chambers are the only place that Thoralan can relax.
+Away from all his duties and responsibilites he can just be a dwarf,
+he can be himself. In the corner a fishing pole rests unused for some
+time now. It was from a simpler time, when as a boy his father used to 
+taking him fishing at one of the underground lakes inside the mountains.
+It is here that Thoralan comes in his times of leisure to escape his 
+reality and delude into the happy memories of his childhood.
+~
+0 1073741824 1
+D2
+~
+door~
+3 -1 13651
+E
+fishing pole~
+This is Thoralan's most prized possesion. It reminds him of his dear
+long gone father Boralir. In his spare time Thoralan's father would
+take his son fishing.
+~
+S
+#13656
+Thoralan's Treausre Vault~
+There seem to be no exits from this room heaped full of riches unheard
+of. Most of the items found in this room are either gifts from foriegn
+dignitaries, or treasures from wars that happened in days long since
+gone by. This room holds all things dear to the current leader of
+Dalakduum, and one thing from each previous ruler to remind the current
+one of how to rule his people well just as his predecessors have done. If
+nothing else the rulers of Dalakduum are know to be fair and just to all
+of their people.
+~
+0 1073741824 1
+D2
+~
+wall~
+2097163 -1 13670
+S
+#13657
+The Cells~
+To the east and west are the impenetrable cell doors of the jail. To 
+the east everything seems quiet and in order, but from the west is a 
+different story. Hideous pain filled screams thunder in from the west.
+A foul rotten stench is also floating in from that direction. A small sign
+hangs on the wall.
+~
+0 1073741824 1
+D1
+~
+cell~
+3 13610 13652
+D2
+~
+~
+0 -1 13659
+D3
+~
+cell~
+3 13610 13658
+E
+sign~
+A small sign reads:
+Dwarven Prisoners ---------->
+<------------ Other Prisoners
+~
+S
+#13658
+The Orcish Cell~
+The damp air is filld with a nausaeting odor. This cell is poorly lit. 
+only a solitary torch burns dimly in the back corner of the room. This
+cell is devoid of furnishings of any sort. Only a small pile of hay lines
+the floor. A loud inhuman scream is coming from the back corner. On the 
+nearest wall a half-starved orc lies chained to wall. From the continuing
+screams he is not alone. The shouting grows louder with each passing 
+moment.
+~
+0 1073741824 1
+D1
+~
+cell~
+3 13610 13657
+S
+#13659
+Inside the Jail~
+This jailhouse is very small considering the size of the surrounding
+city. It smells very fresh and everything looks clean. To the east is 
+the jailkeeper's office, and to the north lie the jail cells that house
+the prisoners. It is almost eerie how clean this place is kept. The ceiling,
+walls, and the floors all shine from the excessive amount of polish that
+was used on them.
+~
+0 1073741824 1
+D0
+~
+cell~
+1 -1 13657
+D1
+~
+door~
+3 -1 13653
+D2
+~
+door~
+3 -1 13643
+S
+#13660
+Bottom of the Shaft~
+The air down in the mine is very heavy, cool, and humid. The air is so
+heavy that a mist can be tasted from the air itself. The dampness of 
+the air makes the torches glow with an aura that enhances the brightness
+of their light. The flames of the torches burn so low that in actuality
+the flames' aura gives off more light than the flame.
+~
+0 1073741824 13
+D2
+~
+~
+0 -1 13661
+D4
+~
+~
+0 -1 13642
+S
+#13661
+The Beginning of the Mines~
+The cavern tunnel widens to about five feet wide here. This is the 
+first part of the cavern that the dwarves began mining many years ago.
+That would explain the extreme wideness of this tunnel. Scrapes from 
+mining pick adorn the mine walls. The mining stopped in this shaft just 
+after the dwarves found a richer deposit of minerals and stone. The 
+light grows stronger to the west as does the sound of dwarven grumbling.
+~
+0 1073741824 13
+D0
+~
+~
+0 -1 13660
+D3
+~
+~
+0 -1 13662
+S
+#13662
+A Brighter Shaft~
+The light is as bright as day here, because of the stock pile of lanterns
+This is where the miners get their light source for the long day of work
+that lies ahead. A large drum full of lantern oil sits next to the luminous
+pile of lanterns. There are actually two seperate piles of lanterns. One of
+them is for the those dwarves who are going to work, and the other pile is
+where those dwarves who are coming off a shift drop off their empty lanterns
+so that they can be refilled with oil for the next shift.
+~
+0 1073741824 13
+D1
+~
+~
+0 -1 13661
+D3
+~
+~
+0 -1 13664
+S
+#13663
+The Miner's Lounge~
+A very heavy cloud of smoke hangs over this room. This is where the miners,
+and the cavern guards come on their breaks to relax. A favorite activity of
+the miners is to smoke their pipes. There are a number of chairs huddled 
+around a small table. On the table is a large pot of dragon's root tea. The
+walls are covered with maps that show which part of the caverns have been 
+mined ad which tunnels have yet to be mined. To the north is the door to
+the foreman's office.
+~
+0 1073741824 0
+D0
+~
+door~
+3 -1 13689
+D2
+~
+~
+0 -1 13664
+S
+#13664
+The Mining Cavern~
+This is where the majoriy of the actual mining goes on. Busy dwarves
+hack away at the stone walls of the cavern in an attempt to extract 
+the untold riches that lie buried deep inside the solid stone. The 
+lound clanging of the mining picks is in time with the beat of the 
+miners work song. A large wheelbarrow full of ore is resting here 
+waiting to be taken to the ore smelter for processing. To the north is
+the is the miners lounge.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13663
+D1
+~
+~
+0 -1 13662
+D2
+~
+~
+0 -1 13665
+D3
+~
+~
+0 -1 13666
+S
+#13665
+The Gem Miners~
+All shapes and sizes of gems protrude from the sides of the cavern wall.
+the wall sparkles from the light given off by the miners lanterns. The 
+gem miners that work here do not use mining picks. They have to use much
+more delicate means to extract these precious stones from their rocky beds.
+The loud sound of mining picks is replaced by the soft tapping of chisels.
+This sort of mining takes longer than mining ore, and it is much more taxing
+on both the body as well as the mind.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13664
+D3
+~
+~
+0 -1 13667
+S
+#13666
+The Lift~
+A shaft leading directly to the surface has been built into the northern
+wall. There is a large piece of stone with a large piece a rope fastened
+to it so that it can be hauled up to the surface. This lift is how the 
+minerals and gems are taken above ground. A large crank is built into the
+wall next to the lift. The crank handle is worn smooth from a good amout
+of turning.
+~
+0 1073741825 13
+D1
+~
+~
+0 -1 13664
+D2
+~
+~
+0 -1 13667
+D3
+~
+~
+0 -1 13669
+S
+#13667
+The Ore Smelter~
+A large stone and metal furnace fills up this part of the cavern. The 
+temperature is noticeably warmer here. This huge ore smelter is how 
+the dwarven miners extract the pure mineral from the ore. The smelter 
+gives off the light of a thousand lanterns. This contraption melts away 
+the rock part of the ore so that only the mineral remains. Once the mineral
+has been extracted and cooled it is taken to the lift where it is hoisted 
+up to the surface.
+~
+0 1073741824 13
+D0
+~
+~
+0 -1 13666
+D1
+~
+~
+0 -1 13665
+S
+#13668
+A Guard Outpost~
+A makeshift shack has been put up, and in a hurry. A small fire burns
+out in front of it. A deadly selection of axes lie with their heads in
+the fire. Whomever the belong to is ready for some serious confrontations.
+A large map is unrolled next to the fire. On the map is what seems like 
+the plans for some sort of military operation. A bunch of red Xs have 
+been marked in several spots on the map. A dwarven mine guard lies half 
+asleep next to the fire, apperently his comrades left him to hold down 
+the fort.
+~
+0 1073741824 13
+D2
+~
+~
+0 -1 13669
+D3
+~
+~
+0 -1 13671
+S
+#13669
+A Dangerous Intersection~
+There is harldy any light here. It seems from all the materials lying
+around that this is to be the next cavern tunnel to be mined. The 
+skeleton of a shaft has been assembled. Other than the tools and 
+construction materials scattered on the cavern floor this place seems 
+to be abandoned. A solitary torch glows very dimmly as it's last ember
+begins to die.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13668
+D1
+~
+~
+0 -1 13666
+D3
+~
+~
+0 -1 13672
+S
+#13670
+Thoralan's Throne Room~
+The low vaulted ceiling in this room creates the illusion that it 
+reaches up to the sky. Thoralan's throne dominates the room. It is made
+from the biggest purest ruby known to dwarvenkind. This room is where 
+Thoralan entertains his guests and friends. One chandelier hangs from the
+ceiling illuminating this chamber. When the light from the chandelier 
+passes through the translucent ruby throne, it glows a dark red.
+~
+0 1073741824 0
+D0
+~
+Throne~
+2097163 -1 13656
+D1
+~
+~
+0 -1 13651
+S
+#13671
+A Warning~
+A large hatch seals the passage to the lower levels that exist beneath 
+the mountain. The light is very bright once again so that there can be 
+no mistake concerning this hatch, it is clearly not to be opened. A 
+garrison of dwarven mine guards has been stationed here to guard this
+opening. It is from here that the orcs which live in the mountain escape
+to the upper levels of the mine and cause mayhem.
+~
+0 1073741824 13
+D1
+~
+~
+0 -1 13668
+D2
+~
+~
+0 -1 13672
+D5
+~
+Hatch~
+1 13612 13674
+S
+#13672
+The Bloodstained Wall~
+The cavern wall has been bathed in what appears to be blood. A vile and
+atroucious act must have taken place here. From the all the marks in the
+dirt a struggle must have occured. Perhaps the stories of dwarves being
+massacred and adbucted by orcs are true. That would certainly explain the
+stepped-up security in the mines. An inhuman howl echoes of in the distance.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13671
+D1
+~
+~
+0 -1 13669
+S
+#13673
+An Orchish Camp~
+A large campfire roars here sorrounded by a group of blood-hungry orcs.
+The trophies from their vitcims dead bodies litter the campsite. One of 
+the orcs beats out a rythym on the disembodied head of a dead miner. The
+fire reaks of the stench of death. Upon closer inspection this fire serves
+two purpose. It serves as a way for the orcs to cook their dead, and it 
+also serves as a way for them despose of the remains of their prisoners
+when they no longer have a use for them.
+~
+0 1073741825 13
+D2
+~
+~
+0 -1 13674
+D3
+~
+~
+0 -1 13675
+E
+fire~
+This fire is filled with the bones from several 
+creatures. It been the funeral pyre for many of 
+the orcs unfortunate victims.
+~
+S
+#13674
+A Pit~
+At the bottom of this pit there is no light the only thing that is 
+visible are the five pairs of glowing red eyes staring in this direction
+from the north. The rank odor of this place is overpowering, only one thing
+could smell this bad, Orcs! The light shining down from the mineshaft is so
+bright that it hurts to look at it.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13673
+D3
+~
+~
+0 -1 13676
+D4
+~
+hatch~
+1 13611 13671
+S
+#13675
+The Pen~
+This is where the orcs keep their dwarven prisoners. At least fifteen 
+wounded dwarven miners lay bleeding in this pen. These prisoners moan
+in agony as they await their grizzly end. The pen is a cage about ten 
+feet deep. The orcs do not even bother to lock the pen. There is no way 
+that these battered dwarves could escape, because they have harldy enough
+blood left in their viens to make their heart pump let alone escape.
+~
+0 1073741825 13
+D1
+~
+~
+0 -1 13673
+D2
+~
+~
+0 -1 13676
+S
+#13676
+The Pigpoles~
+Here up on pigpoles are the decaying corpses of four slain dwarves. 
+Three of these mutilated dwarves were miners, but the other one bears 
+the uniform of a mine guard. The mine guard and one of the miners were
+killed just recently, because blood still drips from their open wounds 
+to the cold cavern floor. Wait a minute, one of the miners is still 
+twitching. These slaughtered dwarves stand as an example of what happens
+to those who trespass in the orcs' territory.
+~
+0 1073741825 13
+D0
+~
+~
+0 -1 13675
+D1
+~
+~
+0 -1 13674
+S
+#13677
+Up the Stairs.~
+The long trek to the top of this mysterious tower begins at the bottom
+of these large stairs. The plush red carpet continues up this mighty 
+spiraling case of stairs. When an initiate climbs these stairs for the
+first time they are accompanied by an elder member of the outcast dwarves.
+It is at this time that the newly exiled dwarves are told a brief history 
+of the forbidden tower and the dwarven mages that have lived here throughout
+the ages.
+~
+0 1073741824 0
+D4
+~
+~
+0 -1 13678
+S
+#13678
+A Laborious Climb~
+At this point the stairs become very steep. The is the first of many
+tests that await the initiates in their new life here in the forbidden
+tower. The stairs suddenly change into a sheer face of rock, and now
+completely untraverseable by ordinary means. This test is merely one of
+wits and base magical skills. This test helps to determine whether or
+not the initiate was rightly exiled here. If the dwarf fails the test
+and does not make it to the next level of the stair they will be returned
+to the outside world so that they can have their normal life back.
+~
+0 1073750016 0
+D4
+~
+~
+64 -1 13679
+S
+#13679
+Past the Test~
+The stairway once again returns to normal. The top of the stairs can be 
+seen from here only a short climb away. At this height the Forbidden Tower
+has risen a good three hundred feet into the skies above Dalakduum. The 
+city itself cannot be seen because of the amount of cloud cover that 
+sorrounds the tower, but the bustle of the busy dwarves can be heard from
+below.
+~
+0 1073741824 0
+D4
+~
+~
+0 -1 13681
+S
+#13680
+The Smoking Lounge~
+The room is filled with small cots where the shop's customers may relax,
+and smoke their pipe is they so desire. There is a table in center of the
+lounge filled with samples of the newest kinds of tobacco for sale. This
+rooms smells like freshly cut tobacco. On the south wall is a painting of
+the Dragon's Teeth mountain chain. 
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 13630
+S
+#13681
+Top of the Stairs ~
+Finally those blasted stairs have ended. At least those stairs were there
+a minute ago weren't they. Now there is a lovely rug in the spot the stairs
+were previously. This room is cozily decorated with a large fireplace in 
+the corner. It is keeping the room at quite a comfortable temperature. 
+There is something very peculiar about this raging fire, and that is there
+is no fuel of any sort beneath it. The flames also burn a bright violet that
+casts an enchanting shade of lavender upon the room while it dances about 
+the walls.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13683
+D1
+~
+~
+0 -1 13682
+S
+#13682
+The Library~
+This is the library of the mages of the Forbidden tower. The bookcases
+reach up to the ceiling. On each wall there are two of these giant 
+bookcases. The volumes contained upon the shelves are filled with spell
+after spell. These mages that live here spend many an hour here studying,
+and researching spells. There are also several plush leather reading 
+chairs here for the comfort of those who choose to spend their time here.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13684
+D3
+~
+~
+0 -1 13681
+S
+#13683
+A Lounge~
+Several couches lie here ready to be occupied. This is where the mages of 
+the Forbidden Tower come when they are not studying and need to relax. There
+is a wide variety of teas and herbal drinks available for refreshment. The
+couches are made from solid quartz, and the cushions are made from dragons
+scales and they are stuffed with feathers from a griffin. They look very
+comfortable.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13685
+D1
+~
+~
+0 -1 13684
+D2
+~
+~
+0 -1 13681
+S
+#13684
+A Shrine to the Dead~
+This room seems to float here apart from the foundation of the others.
+The floor sways back and forth with the movements of the air currents. A
+large tapestry floats next to the east wall. It depicts the tragic death of
+a young unidentified dwarf. Globes of electricity hover in the shape of a 
+triangle near the center of the room. The globes illuminate the room with an
+intense light that is second in brightness only to the sun. An extremely
+old and large book sits on a pedastal in the corner of the room.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13686
+D2
+~
+~
+0 -1 13682
+D3
+~
+~
+0 -1 13683
+E
+tapestry~
+This wall hanging tells the story of how the forbidden tower came into
+being. It tells the story of the banishment of Kalinor Drakner one of the
+few magic users in Dalakduum. At the time fo his banishment he was but a 
+boy. He would sneak away to the store room on top of the guard house to
+practice his spells. After a few years of this Kalinor was getting pretty
+good at it, but he was careless. One day he forgot to see if anyone else
+was in the store room. There was a stock boy working quietly in the corner
+when something went wrong. Kalinor accidentally spoke the wrong word, and 
+out of no where A vortex of lightening appeared. The lightening scorched 
+the room and killed the poor stock boy the minute it hit him. The room 
+smelled of seared flesh. In a panic Kalinor bolted for his home, but it was
+already to late guards were already rushing to the store room in answer to 
+the gut wrenching screams that had preiviously filled the air. The guards
+seized Kalinor and put him in the jail. From that moment on he was an outcast,
+as all dwarven magic users are. No one felt safe, so the people of Dalakduum
+built this tower to house Kalinor and all those like him for all time.
+~
+S
+#13685
+An Emerald Portal~
+Unknown to the rest of the city, those exiled can leave the tower at
+anytime. It is through this portal that the mages do all their travelling.
+From here the mages can leave their place of exile and travel incognito 
+amongst those who imprisoned them here. The portal ripples like a pool of
+water after a pebble has been cast into the center of it. The unearthly
+green glow of the portal makes it almost appear as it is part of the 
+limestone wall.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 13686
+D2
+~
+~
+0 -1 13683
+D10
+Portal green
+~
+portal green~
+133120 -1 13635
+S
+#13686
+The Archmage's Chamber~
+It is here that the eldest Archmage conducts lessons and practice sessions
+for his pupils. The room is filled with magical amulets to help the students
+focus and hone their magical skills. In the far corner are a pair of 
+practice dummies heavily abused by overuse. The one on the right is burnt
+and singed from lightening bolts and fireballs. The one on the left is 
+almost frozen solid from the repeated chill touches and ice blasts.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 13684
+D3
+~
+~
+0 -1 13685
+S
+#13687
+Kyra's Flower Garden~
+There is a lovely flower garden here that is planted in neat, straight
+rows.  The many different kinds of flowers make a rainbow with their
+varied colors.  With so many types of flowers, their aromas could be
+overpowering, but not here.  Kyra has taken care to make sure that all
+of the flowers compliment each other.  Over on the east side of the
+garden is an important looking area of red roses.  Rumor has it that
+Kyra put those roses in her garden in tribute to her true love.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 13631
+E
+roses~
+These roses are of the deepest red imaginable.  They exude an
+intoxicating aroma of pure love.  They are certainly worthy of being
+a tribute to a lover.
+~
+S
+#13688
+Floating in a void~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 13666
+S
+#13689
+The Foreman's Office~
+The foreman's desk lies in shambles in the center of the room. Piles and
+piles of orders for minerals are stacked up to the ceiling. A work schedule
+is posted on the wall for both the miners and the mine guards. A large
+map of the known mountain caverns is hanging of the west wall. Large red 
+dots denote the places where dwarves have disappeared from. A big mug of
+warm ale from the tavern sits upon the foreman's desk untouched.
+~
+0 1073741828 0
+D2
+~
+~
+33 -1 13663
+S
+#13690
+Floating in a void~
+~
+0 1073741828 1
+S
+#13691
+Floating in a void~
+~
+0 1073741828 1
+S
+#13692
+Floating in a void~
+~
+0 1073741828 1
+S
+#13693
+Floating in a void~
+~
+0 1073741828 1
+S
+#13694
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 13699
+S
+#13695
+Floating in a void~
+~
+0 1073741828 1
+S
+#13696
+Floating in a void~
+~
+0 1073741828 1
+S
+#13697
+Floating in a void~
+~
+0 1073741828 1
+S
+#13698
+Floating in a void~
+~
+0 1073741828 1
+S
+#13699
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+D 0 13605 3 0
+D 0 13616 2 1
+D 0 13617 0 1
+D 0 13617 1 0
+D 0 13617 2 1
+D 0 13618 0 1
+D 0 13628 2 0
+D 0 13629 0 0
+D 0 13635 0 1
+D 0 13643 0 1
+D 0 13651 0 1
+D 0 13652 1 1
+D 0 13652 3 1
+D 0 13653 3 1
+D 0 13654 2 1
+D 0 13655 2 1
+D 0 13656 2 1
+D 0 13657 1 1
+D 0 13657 3 1
+D 0 13658 1 1
+D 0 13659 0 0
+D 0 13659 1 1
+D 0 13659 2 1
+D 0 13663 0 1
+D 0 13671 5 1
+D 0 13674 4 1
+O 1 13604 1 13609
+O 1 13609 1 13670
+D 0 13670 0 1
+O 1 13608 1 13650
+O 1 13613 1 13667
+O 1 13615 1 13685
+O 1 13603 1 13622
+O 1 13602 1 13601
+O 1 13601 1 13610
+O 1 13607 1 13613
+O 1 13600 1 13631
+O 1 13606 1 13634
+O 1 13614 1 13662
+O 1 13617 1 13687
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

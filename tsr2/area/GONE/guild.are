@@ -1,0 +1,2150 @@
+#AREA   The Builders Guild~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 141209000
+
+#MOBILES
+#400
+master psi~
+The Psi Master Mind.~
+The psi Master Mind is here meditating.
+~
+~
+268437059 0 1000 S
+100 40 0 12d562+2730 5d20+50
+0 0
+8 8 0
+#401
+master scout~
+the Master Scout~
+A Scout Master is here waiting to help you advance.
+~
+~
+402654723 98960 -1000 S
+151 90 0 13d1166+5190 6d25+75
+1000 0
+8 8 1
+#402
+master monk~
+the master monk~
+A master monk is here in deep meditation awaiting you.
+~
+~
+270534211 128 1000 S
+151 50 0 13d1166+5190 6d25+75
+0 0
+8 8 1
+#404
+master ranger~
+the master ranger~
+The Master Ranger is here hunting.
+~
+~
+404751939 98960 1000 S
+150 50 0 13d1166+5190 6d25+75
+0 0
+8 8 2
+#410
+slayer doom guard~
+Slayer the Doom guard~
+Slayer the Doom guard is here protecting the north.
+~
+Slayer, the Doom Guard towers over you at a height of almost nine feet. 
+He turns his glowing red eyes upon you and curls his lip in disdain.  A
+growl rumbles deep in his throat for several seconds before he booms out
+'NONE SHALL PASS.  ' Turning his head to one side, he mumbles, almost
+inaudibly, 'Especially that slacker Cerebus...  '
+~
+268435523 0 0 S
+50 20 0 9d61+1500 5d6+40
+0 0
+8 8 1
+#430
+Uno Warlord master~
+Uno the Warlord of the ages~
+Uno the Warlord of the ages leans calmly against a large barrel.
+~
+This huge beast of a man smells of dung.  His armor is tarnished and
+spotted with cacked blood.  His eyes, though, tell a different story.  His
+gaze tells you at once that he demands respect, and if that is not enough,
+the huge bastard sword strapped to his side should be.  His full beard
+reaches down nearly to his waist.
+~
+1539 0 -1000 S
+150 0 0 13d1166+5190 6d25+75
+0 0
+8 8 1
+#431
+tall robed figure master~
+A Tall robed figure~
+A Tall robed figure is seated and reading calmly.
+~
+The thick wool hood completely hides the wearers face.  His shoulders are
+wide yet boney even under the thick wool.  His hands are folded in his lap
+and the book he is reading hovers just slightly above the surface of the
+table.  His ankles, below the table, are crossed and one soft leather boot
+is lying on its side next to a bare foot.  The foot draws your attention as
+it is covered with intricate black tatoos.
+~
+134219267 0 -1000 S
+150 0 0 13d1166+5190 0d0+0
+0 0
+8 8 1
+#432
+high defiler drak master~
+High Defiler Drak~
+High Defiler Drak floats just above the surface of the pool.
+~
+This unholy priest-like figure is garbed in dark grey robes that hang
+down below the tips of his feet wich are inches above the surface of the
+pool.  His hood is thrown back to reveal his long locks of dark black hair. 
+His eyes are an unatural light blue, almost white, hue.  He stares at you
+with evil intentions in his heart.
+~
+1027 0 -1000 S
+150 0 0 13d1166+26550 0d0+0
+0 0
+8 8 0
+#433
+fat man disgusting master~
+Lord, High Seat of the Ring~
+Lord, as he is known, lounges here comfortably.
+~
+Quite possibly the largest man you have ever seen, rips into another
+chicken leg.  His eyes raise to catch your as you enter and he dismisses you
+without another thought.  The robe drapped over his girth is stained with
+food and his hair is long and matted.  His hands are trim, " and appear
+very nimble as he makes a quick motion with his wrist and the chicken bone
+vanishes from his hand without a trace.
+~
+134219267 0 -1000 S
+150 0 0 13d1166+2590 0d0+0
+0 0
+8 8 1
+#434
+Easia master mind~
+Master Easia~
+Master Easia of the temple Easia, stands alone in the shadows.
+~
+Maste Easia is heavily cloaked in canvas.  The giant hood rests loosly on
+his shoulders.  His arms are crossed at his chest and his grin is anything
+but peacefull.  His feet are bare but also floating nearly two inches off of
+the ground.
+~
+134219267 0 0 S
+150 0 0 13d1166+2590 0d0+0
+0 0
+8 8 1
+#435
+Arrom master dark hand~
+Arrom, High Hand of the Dark~
+Arrom, High Hand of the Dark, leans comfortably against the table.
+~
+The high-cut, black leather vest he is wearing hangs casually about his
+neck and shoulders.  Two gleaming sivler knife hilts can be seen on either
+side of his vest.  From his belt hang two more beautifull silver daggers. 
+His quick smile and easy going manner put you at ease.
+~
+134219267 0 0 S
+150 0 0 13d1166+2590 0d0+0
+0 0
+8 8 1
+#436
+grand paladin monk guildmaster~
+The Grand Paladin~
+The Grand Paladin stands here, his hands folded meekly.
+~
+~
+136840707 0 1000 S
+150 0 0 1d100+10000 1d100+100
+0 0
+8 8 1
+#437
+ardor prime magus guildmaster~
+Ardor, the Prime Magus~
+Ardor, the Prime Magus is here, regarding you solemnly.
+~
+~
+136447491 0 1000 S
+150 100 0 1d100+10000 1d100+100
+0 0
+8 8 1
+#438
+brother solan guildmaster~
+Brother Solan~
+Brother Solan, the First Speaker is here, giving you his blessing.
+~
+~
+136513027 0 1000 S
+150 100 0 1d100+1000 1d100+100
+0 0
+8 8 1
+#439
+blair red menace guildmaster~
+Blair~
+Blair, the Red Menace lounges here, looking on with amusement.
+~
+~
+136578563 0 1000 S
+150 100 0 1d100+10000 1d100+100
+0 0
+8 8 2
+#440
+steck mentalist guildmaster~
+Steck~
+Steck, the Mentalist is here, meditating quietly on the ground.
+~
+~
+136316419 0 1000 S
+150 100 0 1d100+1000 1d100+100
+0 0
+8 8 1
+#441
+miyamoto musashi guildmaster~
+Miyamoto Musashi~
+Miyamoto Musashi is here, instructing his students in the Way of the Water.
+~
+~
+136316419 0 1000 S
+150 100 0 1d100+10000 1d100+10000
+0 0
+8 8 1
+#451
+Sam~
+Sam the bartender.~
+Sam the bartender from "Cheers" is here.
+~
+~
+1 0 0 S
+160 100 0 13d1111+5000 6d25+100
+10000000 0
+8 8 0
+#457
+2~
+2 the Robot is here.~
+2 the Robot is here
+~
+~
+1 256 0 S
+160 0 0 1d1+100 1d1+100
+0 0
+8 8 0
+#472
+Star jag beast~
+Star the midnight-black jag~
+A large powerful midnight-black jaguar named Star gazes at you.
+~
+You are stopped at the doorway by a large powerful midnight-black jaguar
+with silver eyes and whiskers.  "It's alright, Star," Silver murmurs petting
+her and smiling as the beast purrs.  Silver's beloved companion has thrice
+crossed o'er the grim thresholds of death to be united with her mistress.
+~
+323 262144 0 S
+125 0 0 12d877+3885 6d21+62
+0 0
+8 8 2
+#489
+little girl~
+a small helpless girl~
+A small helpless girl is in the corner sobbing.
+~
+You look upon the most helpless looking girl that you have ever seen. 
+She is covered entirely in blood and is sobbing.  You then notice that she
+looks to be about eighteen years old.  She has long blonde hair and deep
+blue eyes.  She wears a small diamond ring which you recognize as an
+engagement ring.  She stands about 5'2" and is just as cute as can be.
+~
+1 0 1000 S
+160 100 0 14d2000+6000 6d30+100
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#400
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#410
+dragon tooth sword~
+the Dragon Tooth Sword~
+The Dragon Tooth Sword is gleaming in the air here.~
+~
+5 1 0
+0 100 1 0
+1 1000000 100000
+A
+18 10
+A
+3 -2
+#411
+Wings gods~
+the Wings of the Gods~
+The Wings of the Gods shimmer with intense light here.~
+~
+9 2 0
+100 100 100 100
+4 100000000 10000000
+A
+17 50
+A
+4 -2
+A
+14 100
+A
+13 50
+A
+1 4
+#412
+amulet shadows~
+amulet of Shadows~
+A special amulet lies hidden in the shadows.~
+~
+9 2 0
+100 100 100 100
+4 100000000 10000000
+A
+5 -5
+A
+17 -10
+A
+19 10
+#413
+shield darkness~
+the Shield of Darkness~
+Something rests on the ground here.~
+~
+12 1 0
+0 0 0 0
+3 100000000 10000000
+A
+12 -20
+A
+3 2
+#414
+guantlets~
+the Golden Guantlets~
+A pair of Golden Gauntlets shine on the ground.~
+~
+12 1 0
+0 0 0 0
+4 2147483647 214748364
+A
+3 -6
+A
+12 -100
+A
+1 2
+A
+13 100
+A
+18 10
+#415
+Painting immortals~
+a Painting of the Immortals.~
+A Painting of the Immortals is here.~
+~
+13 8192 1
+0 0 0 0
+1 0 0
+#416
+The Holy Grail~
+the Holy Grail.~
+The Holy Grail is floating in the air here.~
+~
+13 8192 1
+0 0 0 0
+1 0 0
+#417
+Queen diamond necklace~
+the Queens Diamond Necklace~
+The Queens Diamond Necklace sparkles here on the floor.~
+~
+13 8192 1
+0 0 0 0
+1 0 0
+#418
+Ao staff~
+ao's Staff~
+Ao's Staff rests on the ground.~
+~
+13 8192 1
+0 0 0 0
+1 0 0
+#419
+tome balance~
+the Tome of Balance~
+The Tome of Balance is sitting here covered in dust.~
+~
+13 32 1
+0 0 0 0
+1 0 0
+#420
+rose flower~
+a beautiful rose.~
+A beautiful rose is setting on the ground in front of you.~
+~
+13 256 1
+0 0 0 0
+1 1 0
+#421
+armani suit~
+black silk Armani suit~
+Pile of Silk~
+~
+9 0 1
+10 10 10 10
+0 -100 -10
+A
+8 1
+A
+8 2
+#422
+armani tie~
+black silk Armani tie~
+Pile of Silk.~
+~
+9 0 1
+10 10 10 10
+1 -100 -10
+#423
+leather shoes~
+pair of black Bass leather shoes~
+Fancy pair of shoes.~
+~
+9 0 1
+10 10 10 10
+0 -100 -10
+#424
+yellow fluffy dog~
+a big fluffy, yellow dog~
+Fluffy Yellow Dog.~
+~
+13 0 1
+0 0 0 0
+0 -100 -10
+A
+20 500
+#425
+potion water~
+a potion of water~
+A watery potion is here.~
+~
+10 1 1
+40 -1 -1 -1
+1 40 4
+#426
+kith-kanan's spirit~
+kith-kanan's spirit~
+Trapped Spirit of Kith-Kanan.~
+~
+1 0 1
+0 0 -1 0
+0 -100 -10
+#427
+none~
+none~
+None~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#430
+scotch flask~
+a flask of scotch~
+A flask of Scotch lies here~
+~
+17 0 1
+5 5 8 0
+5 0 0
+#450
+couch~
+black couch~
+Black leather couch is here~
+~
+12 64 1
+5 100000000 -99 800
+10000 10000000 1000000
+#452
+Whiskey Sour~
+whiskey sour~
+A glass with a wierd drink in it~
+~
+17 0 1
+1000 1000 5 0
+0 100 10
+#453
+Rum and Coke~
+rum and coke~
+A glass with a strange liquid is here~
+~
+17 0 1
+2000 2000 15 0
+0 5000 500
+#454
+Molson Triple X~
+molson triple X~
+A can of Molson Triple X~
+~
+17 0 1
+1000 1000 1 0
+0 1000 100
+#455
+Labatt Genuine Draft~
+labatt genuine draft~
+A bottle of beer is here~
+~
+17 0 1
+1000 1000 1 0
+0 1000 100
+#456
+couch~
+a couch~
+A comfy couch sits in the corner~
+~
+12 1 0
+2 200 1168 200
+1000 0 0
+#457
+"stretch" rubber chicken~
+rubber chicken ~
+Rubber chicken named "stretch" is here.~
+~
+5 64 0
+0 1 200 0
+1 1000 100
+A
+17 -100
+A
+18 100
+A
+19 100
+#459
+club shocking~
+shocking club~
+A shocking club~
+~
+5 2 1
+0 4 28 0
+0 100 10
+A
+18 10
+A
+19 10
+#460
+library key~
+the key to Belana's Library~
+The key to Belana's Library lies here.~
+~
+12 0 1
+0 0 0 0
+0 0 0
+#463
+key ter~
+a key~
+This key is for Terram's Area, please give it back ;)~
+~
+18 128 1
+0 0 0 0
+0 0 0
+#464
+potion~
+a potion of encouragement~
+Potion of Encouragement~
+~
+10 0 1
+80 -1 -1 -1
+0 10000 1000
+#465
+bottle champagne~
+a bottle of chilled champagne~
+A bottle of champage is here, chilling nicely.~
+~
+17 0 1
+100 100 2 0
+50 0 0
+#466
+roses flowers dozen~
+a dozen roses~
+A dozen roses lie here, with a note attached.~
+~
+8 0 1
+0 0 0 0
+10 100 10
+E
+note~
+For you, my lady.
+       Your humble admirer.
+~
+#467
+box chocolates heart~
+a heart-shaped box of chocolates~
+A box of dark chocolates, shaped like a heart and trimmed with lace.~
+~
+19 0 1
+100 0 0 0
+10 1000 100
+#468
+bed massive~
+an invitingly comfortable bed~
+A comfortable bed draped with purple satin and mauve silk.~
+~
+12 64 0
+2 10000000 128 100
+10000 100000 10000
+#469
+couch white~
+a white couch~
+A white canvas couch is here, sitting before the fire.~
+~
+12 0 0
+2 10000000 16 100
+1000 1000 100
+#472
+key silvermist~
+key for Silvermist's room~
+A silvery key of misty substance is here.~
+~
+18 1 1
+0 0 0 0
+0 0 0
+#489
+engagement ring~
+a small diamond engagement ring~
+A small diamond ring is sparkling on the floor.~
+~
+12 1 0
+0 0 0 0
+1 100000 10000
+E
+ring~
+A small diamond engagement ring is the most precious thing to this
+girl. As you look upon it you notice that the ring looks something
+like a ring Beowolf would give to his fiance...
+~
+#490
+Valients vorpal sword~
+valients vorpal sword of death~
+A vorpal sword made for Valient is here.~
+~
+5 1 0
+0 80 1 0
+7 500 50
+#491
+ruby hilted dagger~
+a ruby hilted dagger~
+A ruby hilted dagger is humming on the ground.~
+~
+5 2 0
+0 70 1 0
+1 5000 500
+#0
+
+
+#ROOMS
+#400
+The Hall of practice~
+You stand in a grand hallway. This hallway is a temporary one until
+The new City of Shadows is complete. Please bear with us while we expand.
+~
+0 0 3
+D0
+~
+~
+0 0 401
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 404
+S
+#401
+Rangers Entrance.~
+You stand inside the entrance to the Rangers guild. Many flowers and trees
+surround you as you stand here. The howling of many wolves can be heard
+from the north. It is there that you see a magical door.
+~
+0 0 3
+D0
+~
+~
+0 0 405
+D2
+~
+~
+0 0 400
+S
+#402
+Scout's Entrance ~
+You stand in the doorway to the most ancient of guilds. Many storys have been
+told about the scouts and many don't live after telling them.
+You see a broken floorboard and wonder what is down below.
+~
+0 0 0
+D0
+~
+~
+0 0 400
+D5
+~
+~
+0 0 406
+S
+#403
+Monk Entrance Hall.~
+You stand in the entrance to the ancient temple of the monks.
+this is a very holy place to all monks. The smell of incense hangs in the air.
+~
+0 0 0
+D1
+~
+~
+0 0 407
+D3
+~
+~
+0 0 400
+S
+#404
+Entrance to the Mind.~
+You stand in a place of wonder. Your mind feels strong here and you feel
+at home. You feel yourself being drawn upwards and you know that it is
+because your master is there.
+~
+0 0 1
+D1
+~
+~
+0 0 400
+D4
+~
+~
+0 0 408
+S
+#405
+Rangers Room of practice.~
+As you stand in this room you notice that many animals surround you and wolves
+walk up to you. You smell all the wonderful smells of spring and cheer as
+you feel at peace.
+~
+0 1024 0
+D2
+~
+~
+0 0 400
+S
+#406
+Training room.~
+You stand in an ancient room. It looks as if a dragon has once been here.
+Then you realize that a dragon was here at one time. You peer around you
+and notice that everything is very quiet and very still...
+~
+0 0 0
+D4
+~
+~
+0 0 402
+S
+#407
+Monks Temple and practice room.~
+You stand in an ancient room full of devoted monks. They all stand around 
+you waiting to help teach you the ways of defense and the ways of knowledge
+The room smells of incense.
+~
+0 262144 0
+D3
+~
+~
+0 0 403
+S
+#408
+Mind's heaven.~
+You float in an endless void. Your mind boggles as you see things that you
+never dreamed you would see. You grasp for logic and realize that there
+is no logic in a room so amazing.
+~
+0 0 1
+D5
+~
+~
+0 0 404
+S
+#410
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 1
+D0
+~
+~
+0 0 411
+S
+#411
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 412
+D2
+~
+~
+0 0 410
+S
+#412
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 413
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 13501
+S
+#413
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 1
+D0
+~
+~
+0 0 414
+D1
+~
+~
+0 0 16000
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 15300
+D5
+~
+~
+0 0 14900
+S
+#414
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 415
+D2
+~
+~
+0 0 413
+D3
+~
+~
+0 0 17171
+S
+#415
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 416
+D1
+~
+~
+0 0 18100
+D2
+~
+~
+0 0 414
+D4
+~
+~
+0 0 20701
+S
+#416
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 417
+D1
+~
+~
+0 0 29201
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 29020
+S
+#417
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 418
+D2
+~
+~
+0 0 416
+D3
+~
+~
+0 0 11801
+S
+#418
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 419
+D1
+~
+~
+0 0 1800
+D2
+~
+~
+0 0 417
+D3
+~
+~
+0 0 301
+S
+#419
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 3400
+D2
+~
+~
+0 0 418
+S
+#420
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D0
+~
+~
+0 0 421
+D2
+~
+~
+0 0 419
+S
+#421
+The Hall of Portals~
+You are standing in a errie glowing room of magical doorways.  These
+portals are rumored to be created by the god Ao in his pity for the mortals
+of the shadow realms.  It is said he was fed up with all the havoic that the
+gods were doing and made these portals for everyone to use for a temporary
+basis
+~
+0 0 0
+D2
+~
+~
+0 0 420
+S
+#423
+The Hall of Rebirth~
+The famed Hall of Rebirth stretches out before you, containing the guilds
+of the great adventurers of the realms.  The great imposing stone structure
+stands against the sky in solemn power.  Within, the greatest sages and
+teachers of the realms instruct their seekers in the ways of the world.
+~
+0 1024 1
+D0
+~
+~
+0 0 424
+S
+#424
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runes.  The hallway stretches away
+from you to the north, and through the entrance to the south.
+~
+0 1024 1
+D0
+~
+~
+0 0 425
+D1
+~
+~
+3 0 436
+D2
+~
+~
+0 0 423
+D3
+~
+~
+3 0 430
+E
+runes~
+W  A  R  R  I  O  R
+~
+S
+#425
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runic.  The hallway stretches away
+from you to the north and south.
+~
+0 1024 0
+D0
+~
+~
+0 0 426
+D1
+~
+~
+3 0 437
+D2
+~
+~
+0 0 424
+D3
+~
+~
+3 0 431
+E
+runes~
+M  A  G  I
+ 
+ 
+~
+S
+#426
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runic.  The hallway stretches away
+from you to the north and south.
+~
+0 1024 1
+D0
+~
+~
+0 0 427
+D1
+~
+~
+3 0 438
+D2
+~
+~
+0 0 425
+D3
+~
+~
+3 0 432
+E
+runes~
+P  R  I  E  S  T
+ 
+ 
+ 
+~
+S
+#427
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runic.  The hallway stretches away
+from you to the north and south.
+~
+0 1024 1
+D0
+~
+~
+0 0 428
+D1
+~
+~
+3 0 439
+D2
+~
+~
+0 0 426
+D3
+~
+~
+3 0 433
+E
+runes~
+R  O  G  U  E
+ 
+ 
+~
+S
+#428
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runic.  The hallway stretches away
+from you to the north and south.
+~
+0 1024 0
+D0
+~
+~
+0 0 429
+D1
+~
+~
+3 0 440
+D2
+~
+~
+0 0 427
+D3
+~
+~
+3 0 434
+E
+runes~
+P  S  I  O  N  I  C  I  S  T
+ 
+ 
+~
+S
+#429
+Guild Hall~
+The hallway is made of plain stone, periodically broken by large oaken
+portals in the east and west walls.  Overhead, stone arches project into the
+passageway showing the immensity of the building.  A word is carved into the
+facing portion of the archway in common runic.  The hallway stretches away
+from you to the south.
+~
+0 1024 1
+D1
+~
+~
+3 0 441
+D2
+~
+~
+0 0 428
+D3
+~
+~
+3 0 435
+E
+runes~
+M  O  N  K
+ 
+ 
+~
+S
+#430
+The War Room~
+The darkness is broken by a solitary candle burning in the center of a
+large oak table.  Maps and scrolls are stacked here and there, while others
+simply lie on the floor.  The walls are adorned with various weapons of
+destruction and hand painted maps of the surrounding lands.  On the back
+wall hang many banners bearing the standards of kingdoms long since
+destroyed.  The history surrounding you seems to permiate the air.  You can
+smell The leather and bronze that was once warn by great Warlords of the
+past.
+~
+0 1024 1
+D1
+~
+~
+3 0 424
+S
+#431
+The Seventh Chamber of High Sorcery~
+The walls are lined with books.  From floor to ceiling, front to back,
+and side to side nothing can be seen but books.  Nearly thirty feet above
+your head looms the ceiling of this chamber.  Not so much a ceiling really,
+rather a black palapable cloud.  Brilliant flashes of blue and gold light
+escape the cloud every now and again to cast long shadows on the granite
+floor below.  The shadows cast, however, are of ungodly creations hovering
+somewhere between the cloud and the floor.  The forms themselves are not
+visible to your eyes.  A single table stretches the length of the room, or
+would stretch the length of the room if it were not broken almost half
+way down its length.  Shards from the breaking can be seen lying on the
+floor and even sunken deeply into the spines of a few books to either side.
+~
+0 1024 0
+D1
+~
+~
+3 0 425
+S
+#432
+The Dark Temple~
+Two rows of pews split this chapel in half.  Near the front, a large
+circle is cut out of the floor.  It is filled with water.  As you walk
+nearer to it you notice that there are various bits of trash scattered on
+the very surface of the water as if it were frozen.  Closer investigation
+tells you that the surface of the water is as hard as stone.  There is a
+Huge stone alter behind the pool of solid water.  An inscription is carved
+there in an acient priest's script.
+~
+0 1024 7
+D1
+~
+~
+3 0 426
+E
+script~
+From this day forth, The water, once holy, here is cursed.  No longer
+shall it bless the children of this realm.  Only Ao's touch alonee can
+restore this water to its former state.  The follwers of this temple are
+also thusly cursed.  There touch will no longer be the touch of truth and
+good, but the touch of evil itself.  
+~
+S
+#433
+The Hall of the Ring~
+A monsterous round wooden table takes up more than its share of this
+wreck of a room.  Standing in the center of the table is a statue adorned in
+all gold chains and rings.  There is a large brown fur spread over the
+surface of the table.  The walls are completely covered with paintings and
+tapestries all gaudy in appearance.  A huge grotesquely fat man is seated at
+the table eating a whole chicken with his fingers.  The smell drifts toward
+you.
+~
+0 1024 0
+D1
+~
+~
+3 0 427
+S
+#434
+The Brotherhood of Easia Temple~
+Plain stone walls enclose a plain stone floor.  The center of the room is
+dominated by a large glass tube standing nearly six feet in height.  A dark
+oozing light surges within the glass, pressing at its surface as if trying
+to escape.  A dozen or so young Psionocists are kneeling here and there
+staring into the mass.
+~
+0 1024 0
+D1
+~
+~
+3 0 428
+S
+#435
+Meeting Room of the Dark Hand~
+As you enter the room you nitice a few men siting around a table.  Many
+others  wander here and there carrying notes and parchments.  The
+carriers however are bare chested men with bold black tattoos of various
+animals on there backs.  One man is led in through the same door you
+entered.  He is blindfolded and his arms are tied behind his back.  When his
+blindfold is removed his eyes go wide with terror and a moment later he
+collapses, dead.
+~
+0 1024 1
+D1
+~
+~
+3 0 429
+S
+#436
+Chapel of the Sword~
+This ancient chapel is dedicated to the devotion of the holy knights of
+the realm.  The silent pews are scattered with several warriors praying for
+guidance in their challenges, attempting to purify their heart and soul.  At
+the head of the chapel is the venerable nameless monk who wears his armor
+beneath his robes of office, his grey eyes glinting at you in approval.
+~
+0 8 0
+D3
+~
+~
+3 0 424
+S
+#437
+Ley Line Junction~
+You stand in the midst of a circle of towering stones.  All around you,
+you can feel the presence of an immense magical energy that suffuses the
+stones, and flows through you.  All around are men in dark red robes, with
+the flowing hoods pulled down low over their faces.  As one, they chant
+quietly, absorbing the power of the junction of ley lines.  Ardor, the Prime
+Magus stands before you, his hood down around his shoulders so that you may
+look into his serene eyes.  To the west, unsupported is a freestanding door,
+that apparently leads nowhere.
+~
+0 1024 0
+D3
+~
+~
+3 0 425
+S
+#438
+Abbey~
+A humble abbey surrounds you.  It's rough stone construction speaks
+volumes as to the devotion of the monks that file past you in silence, going
+about their daily chores.  They seem at peace with the world, themselves,
+and their god.  It is a truly enviable state.  The monk's First Speaker,
+Brother Solan walks up to you, and gives you his blessing.  To the west lies
+the exit from this house of god.
+~
+0 8 0
+D3
+~
+~
+3 0 426
+S
+#439
+Chapterhouse of the Ebon Blade~
+This richly appointed room is the Chapterhouse of the Ebon Blade, the
+most successful guild of thieves in Shaikari.  Led by Blair, the so called
+Red Menace, the Ebon Blade have liberated the opulent and the complacent of
+their corrupt wealth, and provided order in a corrupt society by working
+outside its hypocritical rules.  She lounges on a couch nearby, a coy smile
+playing about her red lips.  Her slim figure draws your attention, but her
+eyes hold it fast.  The exit from this questionable establisment is to the
+west.
+~
+0 8 0
+D3
+~
+~
+3 0 427
+S
+#440
+Chamber of Contemplation~
+This grey room is featureless, without furniture or decoration of any
+sort.  On the floor in a circle sit a dozen meditating men and women
+crosslegged, eyes closed in concentration.  At the center of the circle is
+Steck, the Mentalist, directing the inner exploration that his seekers
+desire.  He opens his eyes serenely at your approach, and nods slightly in
+your direction.  The only exit from the room is to the west.
+~
+0 8 0
+D3
+~
+~
+3 0 428
+S
+#441
+Dojo of the Twin Swords~
+This is the respected dojo of the legendary Kensai, or "Sword Saint,"
+Miyamoto Musashi.  He instructs his stundents in the way of the samurai,
+using bamboo sticks instead of swords.  As a result, his students come away
+with bruises rather than missing limbs.  The prospective bushi do not seem
+comforted by this fact as they take turns assaulting Musashi.  He smiles at
+their successes, and chastises their failures, never seeming to run out of
+energy.  A sliding paper door leads from the room to the west.
+~
+0 8 0
+D3
+~
+~
+3 0 429
+S
+#442
+~
+~
+0 4 0
+S
+#450
+The Cavern of Echos~
+You walk into a small cavern, the walls dripping with moisture and lichen
+growing near the ceiling. Small doors lead here and there.
+~
+0 0 0
+D2
+~
+~
+0 0 466
+D5
+~
+~
+0 0 3876
+S
+#451
+Nicademus' Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 471
+S
+#452
+.~
+~
+0 2048 0
+D1
+~
+~
+0 0 1
+D2
+~
+~
+0 0 469
+S
+#453
+.~
+~
+0 4 0
+D0
+~
+~
+0 0 470
+S
+#454
+Talon's Room~
+As you peer into this hugh, eligantly decorated room, you notice that it
+has pictures of landscapes, maps of all sorts, and many straight-edges with
+penciles, pens, and paints laying on the floor.  Talon is sitting in a huge
+overstuffed chair thinking quitely to himself about his new area.  He has a
+strange look on his face.....
+~
+0 4 0
+D0
+~
+~
+0 0 467
+D3
+~
+~
+0 0 6200
+S
+#455
+Tills' Asylum~
+This room is in total chaos.  There are two tables turned upside down one
+somehow stuck to the wall and one smahed to bits in the far left coner. 
+Bits of torn and shredded paper cover the purple shag carpet that covers the
+floor of the room.  On one wall hangs a dart board with penicls and pens
+stuck in it.  The wall oppiste of that is covered in crayon scribbles, that
+dont seem to even make sence.  Hanging on the south wall are various mining
+picks, hammers saws and kichen utensils.  But the strangest thing of all is
+on the ceiling a large fish bowl with a gold fish swimming around in it
+ovouisly defing the laws of all gravity.  This must be home of someone who
+needs some serious therpy!!!!!!!!  :>
+~
+0 0 0
+D0
+~
+~
+0 0 465
+D2
+~
+~
+0 0 27000
+S
+#456
+Ninth Circle of Hell~
+This was intended to be a productive room, but now it's just an empty
+room.  A silent testament to the slackers of the world.  Let it be a lesson
+to you.  Don't fuck the dog.
+~
+0 0 0
+D2
+When you turn to leave you notice that there is a sign on the door that
+reads: You really suck.  Variant.  
+~
+~
+3 0 465
+D5
+As you look across the floor you notice a small latch that leads down. 
+There appears to be a small lock on the latch.  You wonder what could be
+down there.  
+~
+~
+1 0 1
+S
+#457
+Raffs Emporium~
+Images on the sidewalk speak of dreams descent. Washed away by
+storms to grave to cynical to describe. Dirty canvases to call 
+my own. Protest limericks carved by the old pay phone. 
+Broken stained glass windows' the fragments ramble on. Tales of broken 
+souls, an eternity's been won as critics scorn the work and thoughts
+of a mortal man.
+~
+0 8 0
+D0
+~
+~
+3 0 1499
+D3
+~
+~
+0 0 472
+S
+#458
+Northern Building Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 473
+D2
+~
+~
+0 0 468
+S
+#459
+~
+~
+0 0 0
+D3
+~
+~
+0 0 471
+S
+#460
+Belana's Library~
+The wooden floor squeaks as you enter.  Piles of book papers and just
+plain junk clutter the huge desk directly in front of you.  Bookshelves line
+all four walls from floor to ceiling and two dusty, wingbacked chairs sit in
+one corner surrounded by more clutter of books and piles of papers.  On one
+corner of the desk sits a lovely framed photograph of Belana and her friend
+Allanon.  Amongst such seeming chaos lurks a semblence of order that only
+Belana can understand.
+~
+0 0 0
+D2
+~
+~
+3 0 470
+S
+#461
+Skippy's Home~
+~
+0 4 0
+D0
+~
+~
+0 0 466
+S
+#462
+Builders Bar and Tavern~
+You have entered the bar/tavern of the builders, its a small but humble
+place with a friendly bartender it reminds you of "Cheers". You here
+laughter and talking as all the builders chat about the area design's
+you feel at home and walk up to the bar.
+~
+0 4 0
+D0
+~
+~
+0 0 468
+S
+#463
+Terram's Hangout~
+A blast of bright colored light temporarily blinds you as you stoop to
+enter.  The light is refracted from a large cluster of crystal in the
+ceiling.  This room reminds you of a cave.  A nice comfortable temperature
+and no hard lines can be seen, just gentle curves.  The walls are all stone
+as well as a small work table in the corner.
+~
+0 8192 0
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 13111
+D3
+~
+~
+39 463 4550
+D4
+~
+~
+39 463 8100
+D5
+~
+~
+6 463 2566
+S
+#464
+Aqmola's Cubicle of Creation~
+this is where aqmola works 
+ 
+for know that is all you need to know
+ 
+I will get  around to this later but i have work to do for now...
+ 
+The Arch of Creation is to the east ...
+and DOWN is a chute into some unkown part of THe Shadow Realms
+~
+0 0 0
+D1
+This Arch is the entrance into a world being created.  You are advised to
+wear your hardhat beyond this doorway...  
+~
+arch~
+0 0 2600
+D5
+Do you want to slide buns first into some part of The Shadow Realms? 
+Take this chute then...  
+~
+chute~
+0 0 2632
+S
+#465
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 4 0
+D0
+~
+~
+3 0 456
+D1
+~
+~
+0 0 466
+D2
+~
+~
+0 0 455
+D3
+~
+~
+3 0 489
+S
+#466
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 4 0
+D0
+~
+~
+0 0 450
+D1
+~
+~
+0 0 467
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 465
+S
+#467
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 4 0
+D1
+~
+~
+0 0 468
+D2
+~
+~
+0 0 454
+D3
+~
+~
+0 0 466
+S
+#468
+The Center of the Universe.~
+You stand in the center of the universe. Light and Darkness swirls around
+you in an endless dance. The very fabric of time itself shifts here in
+an eternal struggle. Brilliant colors of light assult your eyes and
+you feel overpowered by everything here.
+~
+0 4 0
+D0
+~
+~
+0 0 458
+D1
+~
+~
+0 0 469
+D2
+~
+~
+0 0 462
+D3
+~
+~
+0 0 467
+S
+#469
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 8 0
+D0
+~
+~
+0 0 452
+D1
+~
+~
+0 0 470
+D2
+~
+~
+0 0 463
+D3
+~
+~
+0 0 468
+S
+#470
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 4 0
+D0
+~
+~
+3 0 460
+D1
+~
+~
+0 0 471
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 469
+S
+#471
+Wandering the Builders Hall.~
+As you stand in this magnificent hallway you notice that amount of
+craftsmanship it must have taken to make such a wonderful hallway. 
+From the doorways to your north and south you hear the sounds of 
+hammers banging and spells being cast. Something very powerful is
+happening behind those closed doors. This is a very magical place
+where the whole world is being built.
+~
+0 8192 0
+D0
+~
+~
+0 0 451
+D1
+~
+~
+0 0 459
+D3
+~
+~
+0 0 470
+S
+#472
+SilverMist's Room~
+A fresh breeze of salt air emanates from the terrace which overlooks the
+ocean. At sunrise the molten sun-disc brushes the sea-green waves with
+silver and gold of unsuppassed beauty. Mauve, white, grey and beige fluted
+seashells lay scattered on the beach as if placed by some master artist.
+~
+0 8 0
+D1
+~
+~
+0 0 457
+D5
+~
+~
+39 472 4200
+S
+#473
+Northern building hall~
+~
+0 0 0
+D0
+~
+~
+0 0 476
+D1
+~
+~
+0 0 475
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 474
+S
+#474
+Nevyns building room.~
+This is a room entirely made out of stone.  The desk and the chair are
+stone, even the papers and books upon the desk are made out of pure stone. 
+You think it must be hard to work here, since that chair looks awfully hard.
+It's is quite comfortable in here although you think it should be colder in
+a room out of stone.
+~
+0 512 0
+D0
+~
+~
+0 0 5800
+D1
+~
+~
+0 0 473
+S
+#475
+Tombfyre's Building Room~
+A blast of heated air hits you as you enter the room, accompanied by a
+rather peculiar smell.  Vials and beakers are bubbling merrily from various
+parts of the room, with bunsen burners keeping them hot and lending a smell
+of gas to the room.  Little sea creatures stare at you pitifully from
+various cages around the room, a partially dissected fish is sitting on one
+of the table with pins and labels sticking out of various parts of it.  A
+hole in the floor seems to be filled with water, in reality it is a
+passageway out in to the ocean where another of Tombfyre's experiments is
+taking place.
+~
+0 0 12
+D3
+~
+~
+0 0 473
+D5
+~
+~
+0 0 901
+S
+#476
+~
+~
+0 0 0
+D2
+~
+~
+0 0 473
+D3
+~
+~
+0 0 477
+S
+#477
+Kadath's Room *** STAY OUT ***~
+This room is made of shining white stone.  A huge pentagram is etched
+into the floor.  The walls and floor are splattered with blood and you think
+you can recognize the remains of someone's arm.  Small piles of flesh
+smolder in the corners of the room, sending a terrible stench through your
+nostrils.  You think it might be a good idea to leave NOW.
+~
+0 0 0
+D1
+~
+~
+0 0 476
+S
+#489
+Beowolf's Chamber of Meditation.~
+You stand in a wonderous room.  HUGE torches line the walls and outline
+the most evil looking throne you have ever seen.  As you look upon the
+throne you notice that it is made from the skulls of many races in the
+realms.  All the skulls look at you in a silent death scream.  The ceiling
+is another wonderful piece of artwork.  You see scenes of dragons flying in
+battle with knights dressed in white.  The walls seem to be bleeding!  Then
+you notice a small little girl cowering in the corner of the room.  She is
+covered in blood and is crying.  It is then you notice the chains around her
+wrists and ankles.
+~
+0 8 0
+D0
+~
+~
+3 0 490
+D1
+~
+~
+3 0 465
+E
+plaque~
+You see a LARGE GOLD plaque set into the wall of the magnificent room. 
+The Plaque reads as follows: I dedicate my soul and heart to TSR MUD.  I
+will do everything in my power to make it the best That it can be. 
+-Beowolf.  
+~
+S
+#490
+An Evil Room.~
+An upside-down head swings creakily before you.  A tattered young boy
+hangs from a meat hook cruelly pierced through his spine, his dead eyes and
+mouth are open, and his intestines are hanging out of his body dripping with
+blood.  The room is filled with children of all ages hanging from the cruel
+cold iron.  A cat sways back and forth over a nest of creepy 9 legged
+spiders, its limbs hanging limply down and matted with blood.  Another young
+boy is still alive, stuggling in vain, his wrists have huge gashes and his
+blood creates a red ocean of beauty, his screams are pure music.  Naked and
+wide-eyed a little 13 year old girl is huddled cowering in a corner holding
+her dirty dolly with passion.  A spider crawls over her beaten, crap-smeared
+faced getting stuck in the white goop, which appears in splotches on her
+body.  You feel a good feeling burning like an orgasm into your chest from
+the ravishing beauty.  This is the closest you've ever come to the essence
+of life.  You ask what love is?  This is love...
+~
+0 0 10
+D2
+~
+~
+3 0 489
+S
+#491
+Nemesis' Room of Pleasure~
+Awash with shades of blue and purple, this room is faintly lit by candles
+that have scattered about the room.  In one corner is a sunken bath just big
+enough for two to fit snugly.  The bath is a short distance from a massive
+four poster bed that is draped with a mauve canopy that shrouds the bed from
+the rest of the world.  In the opposite corner of the room is a short
+stairwell down to a comfortable white couch.  The sofa faces a gently
+crackling fire, that gives the entire room warmth, enough to make you shed
+your outer clothing.  A silver container of ice stands near the bed, gently
+chilling champagne for two.
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+M 1 404 1 405
+M 1 401 1 406
+M 1 402 1 407
+M 1 400 1 408
+M 1 410 1 418
+D 0 424 1 1
+D 0 424 3 1
+D 0 425 1 1
+D 0 425 3 1
+D 0 426 1 1
+D 0 426 3 1
+D 0 427 1 1
+D 0 427 3 1
+D 0 428 1 1
+D 0 428 3 1
+D 0 429 1 1
+D 0 429 3 1
+M 1 430 1 430
+D 0 430 1 1
+M 1 431 1 431
+D 0 431 1 1
+M 1 432 1 432
+D 0 432 1 1
+M 1 433 1 433
+D 0 433 1 1
+M 1 434 1 434
+D 0 434 1 1
+M 1 435 1 435
+D 0 435 1 1
+M 1 436 1 436
+D 0 436 3 1
+M 1 437 1 437
+D 0 437 3 1
+M 1 438 1 438
+D 0 438 3 1
+M 1 439 1 439
+D 0 439 3 1
+M 1 440 1 440
+D 0 440 3 1
+M 1 441 1 441
+D 0 441 3 1
+O 1 456 1 456
+D 0 456 2 1
+D 0 456 5 0
+O 1 450 1 457
+D 0 457 0 1
+D 0 460 2 1
+M 1 451 1 462
+E 1 457 1 16
+G 1 452 1
+G 1 453 1
+G 1 454 1
+G 1 455 1
+O 1 463 1 463
+D 0 463 3 2
+D 0 463 4 2
+D 0 465 0 1
+D 0 465 3 1
+D 0 470 0 1
+M 1 472 1 472
+M 1 457 1 472
+E 1 421 1 12
+E 1 422 1 3
+E 1 423 1 8
+E 1 424 1 18
+E 1 426 1 19
+O 1 472 1 472
+D 0 472 5 2
+M 1 489 1 489
+E 1 489 1 2
+D 0 489 0 1
+D 0 489 1 1
+D 0 490 2 1
+O 1 465 1 491
+O 1 466 1 491
+O 1 467 1 491
+O 1 468 1 491
+O 1 469 1 491
+S
+
+
+#SHOPS
+ 451    0 17  0  0  0   105 100         1 24    ; Sam the bartender.
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

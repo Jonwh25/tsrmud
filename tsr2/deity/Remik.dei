@@ -1,0 +1,41 @@
+#DEITY
+Filename		Remik.dei~
+Name		Remik~
+Description	~
+Alignment		0
+Worshippers	13
+Flee		-10
+Flee_npcrace	-10
+Flee_npcfoe	-10
+Kill		50
+Kill_npcrace	50
+Kill_npcfoe	50
+Kill_magic	10
+Sac		10
+Bury_corpse	5
+Aid_spell		25
+Aid		40
+Steal		50
+Backstab		10
+Die		-40
+Die_npcrace	-40
+Die_npcfoe	-40
+Spell_aid		10
+Dig_corpse	10
+Scorpse		900
+Savatar		1000
+Sdeityobj		500
+Srecall		300
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		0
+Deityobj		822
+Affected		0
+Npcrace		0
+Npcfoe		0
+Suscept		0
+End
+
+#END

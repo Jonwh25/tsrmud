@@ -1,0 +1,1738 @@
+#AREA   Apex~
+
+
+
+#AUTHOR Variant~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG The sands of time slip slowly through your fingers...~
+
+#FLAGS
+0
+
+#ECONOMY 0 51161000
+
+#MOBILES
+#4334
+shopkeeper hooded figure caffery~
+Caffery~
+A hooded figure is here, brewing and selling potions.
+~
+~
+67 37748736 0 C
+50 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 1058816 0 872415232 526407
+#4336
+healer perrin~
+Perrin~
+Perrin, the healer is here, bowing to you in honor.
+~
+~
+67 4194432 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 1056768 0 1243611152 536903
+#4339
+thorn shopkeeper~
+Thorn~
+Thorn, the Bladesmith is here forging weapons of war.
+~
+~
+67 4194304 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 22 0 0 1 1 0
+0 0 2047 0 1056768 0 1008 524291
+#4349
+cyrill banker apex~
+Cyrill~
+Cyrill the Changer is here, glaring at you suspiciously.
+~
+~
+67 4194304 0 C
+50 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 1056768 0 16 524291
+#4350
+Amad shopkeeper~
+Amad~
+Amad the Provisioner is here, grinning and twirling his moustache.
+~
+~
+67 4194304 0 C
+50 0 0 0d0+0 0d0+0
+5000 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 1056768 0 240 524291
+#0
+
+
+#OBJECTS
+#4300
+sword blood bloodsword apex~
+a Bloodsword~
+A sword with a dark blade which shines with the fires of heaven.~
+~
+5 8256 8193
+100 5 3 3
+10 15000 10000
+#4301
+sword sharpness apex~
+sword of sharpness~
+A darkmetal sword with a brightly gleaming edge.~
+~
+5 8256 8193
+100 10 3 1
+10 30000 20000
+A
+2 2
+A
+19 7
+A
+18 5
+#4302
+sword murasame apex~
+the Murasame~
+A thin bladed sword of white metal that radiates holy energy.~
+~
+5 8256 8193
+100 13 3 3
+20 70000 30000
+A
+13 0
+#4303
+D'ni Dni slicer star apex~
+the D'ni Slicer~
+A tri bladed star lies here, with sharp blades extended.~
+~
+5 8256 8193
+100 17 3 6
+15 100000 40000
+A
+2 2
+A
+12 100
+#4310
+Wildgate gate~
+the Wildgate~
+The swirling vortex known as the Wildgate is here, whispering silently.~
+~
+12 64 0
+0 0 0 4300
+1 0 0
+E
+wildgate~
+The whirling storm is obviously not a natural phenomena.  You have heard
+rumors and legends, and feel certain that this must be the fabled Wildgate,
+the catalyst of the second and third Dark Age of Shaikari. The gate is said
+to exist on all planes simultaneously, and to those who know it's secrets
+allows passage to untold wonders and also great peril.  It was through the
+gate that Dymeir unleashed his hordes upon the universe, and through the
+gate that he fled when he escaped his imprisonment in the Abyss. Variant
+now keeps watch over the gate, as it is rumored that he is a part of it.
+Since being destroyed in it's depths, some say that a fragment of his
+soul remains within, linking him forever to the heart of the universe. 
+While this explains his mastery of the portal, no one has ever proven this. 
+
+~
+#4312
+wedding band silver~
+a silver wedding band~
+A simple wedding band, crafted of the most precious mithril.~
+~
+9 524288 0
+100 100 100 100
+10 9 0
+#4315
+tally ho paper~
+a Tally Ho newspaper~
+A freshly printed newspaper bearing the title "Tally Ho" in red
+letters.~
+~
+13 0 1
+0 0 0 0
+5 10 1
+E
+tally ho newspaper paper~
+~
+#4322
+water flask~
+a water flask~
+A flask filled with cold water.~
+~
+17 524288 1
+150 150 0 0
+20 200 20
+#4323
+canvas backpack~
+a canvas backpack~
+A rugged canvas backpack, with tarnished brass fastenings.~
+~
+15 270336 9
+100000 1 0 0
+50 500 50
+#4324
+glowstone lantern~
+a glowstone lantern~
+A green glowing stone contained within a brass lantern.~
+~
+1 524288 1
+0 0 -1 0
+20 1000 100
+#4327
+chest~
+a chest of coins~
+A large chest used for donating coins is here.~
+~
+15 16384 0
+1000000 0 0 1000000
+16960 0 0
+#4328
+gold silver coins~
+some coins~
+A pile of coins is here.~
+~
+20 0 1
+1000 39 0 0
+100 1000 100
+#4329
+silverleaf potion apex~
+a silverleaf potion~
+A potion made from the silverleaf plant, known for its curative
+abilities.~
+~
+10 64 16385
+30 43 14 35
+10 2500 250
+#4330
+storage box~
+a storage box~
+A storage box for donations is here.~
+~
+15 16384 0
+1000000 0 0 10000
+1 0 0
+#4331
+bright red potion apex~
+a bright red potion~
+A small crystal vial filled with a bright red liquid~
+~
+10 2105408 16385
+20 28 -1 -1
+1 500 50
+#4332
+potion obscurement apex~
+a potion of obscurement~
+A cloudy grey potion made from the ink of an octopus.~
+~
+10 8256 16385
+30 29 -1 -1
+1 500 50
+#4333
+fury potion apex~
+a potion of fury~
+A dark blue potion which churns constantly as if being stirred.~
+~
+10 8256 16385
+30 39 3 205
+1 1000 100
+#4334
+potion speed apex~
+a potion of speed~
+A dark orange potion that continuously bubbles.~
+~
+10 8256 16385
+30 205 -1 -1
+1 500 250
+#4335
+potion water breathing apex~
+a potion of water breathing~
+A clear potion that looks suspiciously like water.~
+~
+10 8256 16385
+30 236 -1 -1
+1 500 100
+#4336
+potion rejuvenation~
+a potion of rejuventaion~
+A bright blue potion in a silver vial.~
+~
+10 64 16385
+30 84 84 84
+1 1500 200
+#4337
+potion shroud apex~
+a shroud potion~
+A milky white potion that seems quite thick is here.~
+~
+10 8256 16385
+30 36 3 1
+1 1500 200
+#4338
+potion flame apex~
+a potion of flame~
+A tightly capped bottle of flaming liquid, which burns despite the lack
+of air.~
+~
+10 64 0
+60 201 -1 -1
+10 1000 100
+#4339
+potion blood relm apex~
+the Blood of Relm~
+A solid silver vial filled with a dark coppery liquid.~
+~
+10 8256 16385
+30 19 20 44
+1 1500 85
+#4340
+potion caustic apex~
+a caustic potion~
+An acidic potion in a thick glass bottle bubbles fitfully here.~
+~
+10 64 0
+30 70 -1 -1
+10 1500 150
+#4341
+potion greater apex~
+a potion of greater healing~
+A deep azure potion in a silver and glass vial, embossed with the seal
+of Caffery.~
+~
+10 64 0
+151 -1 -1 -1
+10 20000 2000
+#4342
+potion buoyancy apex~
+a potion of buoyancy~
+A light pink potion that coats the top of the vial, leaving the bottom
+half empty.~
+~
+10 8256 16385
+30 56 -1 -1
+1 500 50
+#4343
+potion nullification apex~
+a nullification potion~
+A jet black syrupy potion, that seems to coat the inside of the vial.~
+~
+10 8256 0
+151 -1 -1 -1
+1 890 89
+#4344
+phased apex potion~
+a phased potion~
+A potion that only seems to be there when you look at it from the corner
+of your eye.~
+~
+10 8256 16385
+30 210 212 66
+1 1500 110
+#4345
+breath solon apex~
+the Breath of Solon~
+A frosted crystal vial filled with a cold blue liquid.~
+~
+10 64 0
+135 202 -1 -1
+10 2000 200
+#4350
+iron rations~
+iron rations~
+A portion of iron rations wrapped in brown paper.~
+~
+19 524288 1
+20 0 0 0
+10 20 2
+#4351
+hard tack~
+hard tack~
+A portion of hard tack, a tasteless and largely inedible substance.~
+~
+19 524288 1
+40 0 0 0
+10 55 5
+#0
+
+
+#ROOMS
+#4300
+Focus Chamber~
+A wide circular room surrounds you, its white walls standing out in the
+dim light. At the center of the room is what appears to be a whirling
+storm, raging silently before you.  It's faint blue glow gives the room an
+eerie tinge, its faint whisperings multiplying with every reverberation
+from the stone walls.  Heavy doors of dark wood lead from the room
+to the north allowing you to flee this place of dark majesty.
+~
+0 4 0
+D0
+~
+~
+0 0 4301
+E
+gate~
+The whirling storm is obviously not a natural phenomena.  You have heard
+rumors and legends, and feel certain that this must be the fabled Wildgate,
+the catalyst of the second and third Dark Age of Shaikari.  The gate is 
+said to exist on all planes simultaneously, and to those who know it's
+secrets allows passage to untold wonders and also great peril.  It was through 
+the gate that Dymeir unleashed his hordes upon the universe, and through the 
+gate that he fled when he escaped his imprisonment in the Abyss. 
+Variant now keeps watch over the gate, as it is rumored that he is a part of 
+it. Since being destroyed in it's depths, some say that a fragment of his
+soul remains within, linking him forever to the heart of the universe. 
+While this explains his mastery of the portal, no one has ever proven this. 
+
+~
+S
+#4301
+Darkened Hallway~
+As you leave the room that contains the Wildgate, the massive wooden
+doors swing closed behind you of their own volition.  The mithril seal
+glows with magical energy, melting and fusing the door shut.  The dark stone
+walls are illuminated briefly by the unnatural glow, revealing the age of
+the hallway.  The glow fades rapidly though, leaving you in relative
+darkness. The hallway, apparently circular, curves away to the west and east.
+~
+0 8192 0
+D1
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4302
+S
+#4302
+Darkened Hallway~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman.  The hallway curves to the south and to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 4304
+D2
+~
+~
+0 0 4305
+S
+#4303
+Darkened Hallway~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman.  The hallway curves to the south and to the west.
+~
+0 8 0
+D2
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4304
+S
+#4304
+Darkened Hallway~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman. The dim circular corridor curves away to the west and 
+east.
+~
+0 8 0
+D1
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4302
+S
+#4305
+Darkened Hallway~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman. The hallway curves to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 0 4302
+D2
+~
+~
+0 0 4306
+S
+#4306
+~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman.  The hallway curves to the north and east.
+~
+0 8 0
+D0
+~
+~
+0 0 4305
+D1
+~
+~
+0 0 4307
+S
+#4307
+The Doorway~
+The circular corridor loops around on itself here, ending before a
+massive double door to the south.  Carved deep into the hardwood door is
+a trilateral pattern looking marginally like a snowflake.  The pattern
+is split evenly by the division between the doors, and is inlaid with
+mithril which is bright at its center, growing progressively darker as it
+moves towards the nine points of the pattern.  The entire sigil is encompassed 
+by a large circle that glows faintly in the dim light of the passage. The 
+hallway moves away from the portal to the west and east, curving out of sight.
+~
+0 8 0
+D1
+~
+~
+0 0 4308
+D2
+~
+doors~
+3 0 4310
+D3
+~
+~
+0 0 4306
+S
+#4308
+~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman.  The hallway curves away to the north and west.
+~
+0 8 0
+D0
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4307
+S
+#4309
+~
+This dark stone hallway appears to be several centuries old, and yet
+there is no sign of dust or decay in any of the stones' joints.  The
+seams are tight, despite the massive size of the blocks, indicating the work
+of a master craftsman.  The hallway curves away to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 4303
+D2
+~
+~
+0 0 4308
+S
+#4310
+Atop the Focus Tower~
+You find yourself standing on a windswept platform at the highest
+point in the City of Apex.  You can see the buildings and districts spread
+out below you like a canvas, stretching towards the horizon in all
+directions. From this point you can see the massive bridges suspended above 
+the city, arcing over the towering walls of the Inner City, and connecting to 
+the Shard Towers to the southwest and southeast.  In the distant horizon to 
+the south, you can see the shores of the Sea of Caliban, and the graceful
+ships that cut across its vast depths.  Looking down at the city, several
+hundred feet below, you realize that it shall be a long descent.  Fortunately, 
+a path winds its way around the Focus Tower to the west, sloping downward 
+gently.  To the north lies the doorway into the focus chamber wherein the 
+construction of the city forces the Wildgate into stability.  Inside the 
+chamber lies this plane's entrance to the realms beyond.
+~
+0 1024 1
+D0
+~
+doors~
+3 0 4307
+S
+#4311
+Base of the Compass Tower~
+In the center of a barren plain is the massive Compass Tower, stretching
+several hundred yards above your head.  In the distance to the north you
+can make out the faint curve of the Sea of Caliban several miles away, and
+to the north foothills ring the Black Mountains.  `3Notably,`` you see that
+an immense wall has been erected to the south and west, and appears to be
+under construction.  It carves a jagged arc across the scenery to the south,
+it's watchtowers jutting towards the sky.  This new addition makes you wonder 
+if there shall soon be someone to bar from entry to the City of Apex.  The 
+oak double doors to the north provide access to the tower's contents.
+~
+0 0 0
+D0
+~
+~
+3 0 4312
+S
+#4312
+Entry Hall~
+The immensity of the Compass Tower's entry hall overwhelms you.  The
+beige stones of the walls seem lit from an unknown source, leaving the
+high ceiling in relative darkness.  In the center of the chamber lies a
+wide monument, bearing a sword and shield.  On the facing edge of the
+monument is a small silver plaque.  Tall marble archways provide access 
+to vast corridors running to the west and east, and oaken double doors 
+mark the exit to the south. To the north, behind the pedestal is a small
+alcove.
+~
+0 8 0
+D0
+~
+~
+0 0 4331
+D1
+~
+~
+0 0 4329
+D2
+~
+~
+3 0 4311
+D3
+~
+~
+0 0 4313
+E
+sword~
+An ancient silver blade that has an eerie glowing aura.  Apparently
+made of mithril, the blade is inscribed with runes of power from a
+forgotten tongue.  Legend has it, that this was the so-called 'Soul Sword' 
+of an ancient warrior of the Vali tribe.  It stood as the symbol of their
+strength for many years.  Now, it is on display for all to see, a monument 
+to their sacrifice.
+~
+E
+shield~
+A round golden shield, once used by a member of the Vali tribe in
+combat with the Chaon Empire on the shores of the Wildgate.  Legend has it
+that this shield blocked a blow that would have cleaved Variant's head from
+his body, preventing his entry to the Wildgate.  The bearer of the shield
+died as a result of his valiant action, protecting his leader in that
+final battle.  The name of the warrior was lost, but his memory lives on.
+~
+E
+plaque~
+This monument commemorates the bold sacrifice of the Vali tribe in
+their final battle with the Chaon Empire.  Their valor and courage shall 
+ring on in these halls forever providing an example to us all.  They shall 
+be truly missed.
+~
+S
+#4313
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the west and passes through
+a marble archway to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 4312
+D3
+~
+~
+0 0 4314
+S
+#4314
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the east, and ends in a
+marble archway to the west.
+~
+0 8 0
+D1
+~
+~
+0 0 4313
+D3
+~
+~
+0 0 4315
+S
+#4315
+Meeting Hall~
+This nine sided room is sunken in the middle in a series of wide
+platforms, bearing tables and chairs.  In the center of the room is a
+large open area, where a speaker may address those that gather.  Three wide
+aisles seperate the room into thirds, and align with archways to the northwest 
+and east.  On a table near the archways is a shelf full of papers.
+~
+0 8 0
+D0
+~
+~
+0 0 4316
+D1
+~
+~
+0 0 4314
+S
+#4316
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the northwest, and ends in
+a marble archway to the southeast.
+~
+0 8 0
+D2
+~
+~
+0 0 4315
+D3
+~
+~
+0 0 4317
+S
+#4317
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the southeast, and ends in
+a marble archway to the northwest.
+~
+0 8 0
+D0
+~
+~
+0 0 4318
+D1
+~
+~
+0 0 4316
+S
+#4318
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the southeast and to the northeast.
+~
+0 8 0
+D1
+~
+~
+0 0 4319
+D2
+~
+~
+0 0 4317
+D4
+~
+~
+0 0 4351
+D5
+~
+~
+0 0 4330
+S
+#4319
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the northeast, and ends in
+a marble archway to the southwest.
+~
+0 8 0
+D0
+~
+~
+0 0 4320
+D3
+~
+~
+0 0 4318
+S
+#4320
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the southwest, and ends in
+a marble archway to the northeast.
+~
+0 8 0
+D1
+~
+~
+0 0 4321
+D2
+~
+~
+0 0 4319
+S
+#4321
+Sealed Doorway~
+At this junction of hallways you find a massive archway in the north
+wall, within which are double metal doors, apparently made of silver.
+Lightly engraved with sigils, the etchings seem to make the door sparkle
+as each hand crafted rune catches the light.  The doors bear a seal, a
+large mithril disk, bearing the seal of Variant such that no one may open 
+it. To the south is a long hallway leading to the healer.
+~
+0 8 0
+D1
+~
+~
+0 0 4322
+D2
+~
+~
+0 0 4335
+D3
+~
+~
+0 0 4320
+S
+#4322
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the southeast, and ends in
+a marble archway to the northwest.
+~
+0 8 0
+D2
+~
+~
+0 0 4323
+D3
+~
+~
+0 0 4321
+S
+#4323
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the northwest, and ends in
+a
+marble archway to the southeast.
+~
+0 0 0
+D0
+~
+~
+0 0 4322
+D1
+~
+~
+0 0 4324
+S
+#4324
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the southwest and northwest.
+~
+0 8 0
+D2
+~
+~
+0 0 4325
+D3
+~
+~
+0 0 4323
+D4
+~
+~
+0 0 4364
+D5
+~
+~
+0 0 4342
+S
+#4325
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the southwest, and ends in
+a marble archway to the northeast.
+~
+0 8 0
+D0
+~
+~
+0 0 4324
+D3
+~
+~
+0 0 4326
+S
+#4326
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the northeast, and ends in
+a marble archway to the southwest.
+~
+0 8 0
+D1
+~
+~
+0 0 4325
+D2
+~
+~
+0 0 4327
+S
+#4327
+Donation Room~
+At this junction of hallways is the Donation Room, where the members
+of the sect leave their excess trasures to their brethren who have been
+less fortunate.  Through their generosity the others can regain their lost
+dignity and vanquish those that stand in their way.  The hallways from
+this room lead away to the west and northeast.
+~
+0 8 0
+D0
+~
+~
+0 0 4326
+D3
+~
+~
+0 0 4328
+S
+#4328
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the west, and ends in a
+marble archway to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 4327
+D3
+~
+~
+0 0 4329
+S
+#4329
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway continues to the east, and ends in a
+marble archway to the west.
+~
+0 8 0
+D1
+~
+~
+0 0 4328
+D3
+~
+~
+0 0 4312
+S
+#4330
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the northeast and the southeast.
+~
+0 8 0
+D0
+~
+~
+0 0 4332
+D2
+~
+~
+0 0 4348
+D4
+~
+~
+0 0 4318
+S
+#4331
+Alcove~
+This small alcove has a large mirror set in the north wall.  As you
+watch it, it ripples slightly as if made of water.  It seems as if you could
+pass though it if you pressed hard enough on the glass.  The entry hall is
+behind you to the south.
+~
+0 8 0
+D0
+~
+~
+0 -1 8768
+D2
+~
+~
+0 0 4312
+S
+#4332
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning torches.
+It is slightly chilly in the hallway, below the ground as you are, and
+the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off 
+a warm glow. The hallway continues to the northeast and southwest.
+~
+0 8 0
+D1
+~
+~
+0 0 4333
+D2
+~
+~
+0 0 4330
+S
+#4333
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning torches.
+It is slightly chilly in the hallway, below the ground as you are, and
+the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the southwest, and to the east.  To 
+the north is a oaken doorway.
+~
+0 8 0
+D0
+~
+~
+0 0 4334
+D1
+~
+~
+0 0 4337
+D3
+~
+~
+0 0 4332
+S
+#4334
+Apothecary~
+This room is dominated by an immense cauldron filled with a dark
+smoking liquid.  It gives off the smell of earth and roots, and burns your
+nostrils slightly.  A hooded figure mixes the brew with a long steel staff,
+occasionally adding some herbs from a pouch on a nearby table.  The
+walls are lined with shelves of bottles and flasks, of various shapes and
+sizes, filled with all manner of liquids.  Several you recognise, others... 
+You don't.  In one, you'd swear you saw something swimming.  No facet of
+the arcane is ignored here.  The door from the Apothecary is to the south.
+~
+0 8 0
+D2
+~
+~
+0 0 4333
+S
+#4335
+Luminous Hallway~
+The white walls of the triangular hallway almost seem to glow with an
+interior light, as if the stone itself were luminous.  Certainly there
+is enough light in the corridor to see clearly, just enough to cause a
+warm comfortable glow.  The hallway leads to the north and to the south.
+~
+0 8 0
+D0
+~
+~
+0 0 4321
+D2
+~
+~
+0 0 4336
+S
+#4336
+Healing Springs~
+In one corner of the room is a large spring that bubbles up from below.
+It drips down the rocks and collects in a round pool on the floor. Nearby,
+a healer uses the water to cure those that seek him of their wounds and
+disease.  A hallway leads from this room to the north.
+~
+0 8 0
+D0
+~
+~
+0 0 4335
+S
+#4337
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning
+torches. It is slightly chilly in the hallway, below the ground as you are, 
+and the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the west, and to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 4338
+D3
+~
+~
+0 0 4333
+S
+#4338
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning
+torches. It is slightly chilly in the hallway, below the ground as you are, 
+and the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the west, and to the southeast.  To the 
+north is an oaken doorway, beyond which you hear the clanging of a forge.
+~
+0 8 0
+D0
+~
+~
+0 0 4339
+D1
+~
+~
+0 0 4341
+D3
+~
+~
+0 0 4337
+S
+#4339
+Forge~
+This room is lit only by the intense glow of the forge fire.  The
+muscular bladesmith pumps the bellows of the forge, heating the metal
+until it glows red.  He then pulls the metal out of the coals with tongs and
+then hammers the metal flat, then folds it over on itself, and hammers it
+flat again.  When the metal loses its heat, he thrusts it back in the fire
+and pumps the bellows again.  This process is repeated scores of times for
+each blade produced.  The smith wipes the sweat from his brow with the back
+of his hand, and nods at you with a half smile.  The exit from the room is
+to the south.
+~
+0 8 0
+D2
+~
+~
+0 0 4338
+S
+#4340
+Chapel of Joining~
+This large chapel is dim, lit only by the streaming sunlight through
+the massive stained glass windows in the walls.  Above the altar at the
+front of the chapel is a large circular opening bearing no window.  It 
+merely frames the sky, looking out on the vast azure expanses.  Pews of 
+rosewood flank a wide aisle that runs down the center of the chapel.  
+White flowers and greenery lie in bunches on the edges of the stone steps.  
+It is beautiful.
+~
+0 4 0
+S
+#4341
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning torches.
+It is slightly chilly in the hallway, below the ground as you are, and
+the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off 
+a warm glow. The hallway continues to the northwest and the southeast.
+~
+0 8 0
+D2
+~
+~
+0 0 4342
+D3
+~
+~
+0 0 4338
+S
+#4342
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the southwest and northwest.
+~
+0 8 0
+D0
+~
+~
+0 0 4341
+D2
+~
+~
+0 0 4343
+D4
+~
+~
+0 0 4324
+S
+#4343
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning
+torches. It is slightly chilly in the hallway, below the ground as you are, 
+and the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the northeast and southwest.
+~
+0 8 0
+D0
+~
+~
+0 0 4342
+D3
+~
+~
+0 0 4344
+S
+#4344
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning
+torches. It is slightly chilly in the hallway, below the ground as you are, 
+and the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the northeast and west.
+~
+0 8 0
+D1
+~
+~
+0 0 4343
+D2
+~
+~
+0 0 4350
+D3
+~
+~
+0 0 4345
+S
+#4345
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning
+torches. It is slightly chilly in the hallway, below the ground as you are,
+and the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the west and east.  To the north, there 
+is a small alcove, apparently containing a mirror.
+~
+0 8 0
+D0
+~
+~
+0 0 4346
+D1
+~
+~
+0 0 4344
+D3
+~
+~
+0 0 4347
+S
+#4346
+Alcove~
+This small alcove has a large mirror set in the north wall.  As you watch it, 
+it ripples slightly as if made of water.  It seems as if you could
+pass though it if you pressed hard enough on the glass.  The alcove connects
+to a hallway behind you to the south.
+~
+0 8 0
+D0
+~
+~
+0 -1 8768
+D2
+~
+~
+0 0 4345
+S
+#4347
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning torches.
+It is slightly chilly in the hallway, below the ground as you are, and
+the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off 
+a warm glow. The hallway continues to the northwest and to the east.  To 
+the south is a oaken door with iron reinforced bars bolted to it.
+~
+0 8 0
+D1
+~
+~
+0 0 4345
+D2
+~
+~
+0 0 4349
+D3
+~
+~
+0 0 4348
+S
+#4348
+Stone Hallway~
+The plain stone of this corridor is lit at intervals by burning torches. It 
+is slightly chilly in the hallway, below the ground as you are, and
+the stones of the hallway are cold to the touch.  The hallway passes
+through archways at intervals, from which hang oil lamps which give off a 
+warm glow. The hallway continues to the northwest and the southeast.
+~
+0 8 0
+D0
+~
+~
+0 0 4330
+D1
+~
+~
+0 0 4347
+S
+#4349
+Cyrill's Vault~
+This room main feature is a large mahogany table piled with the currency of 
+various realms.  Gold, silver, platinum, and even steel in some cases are
+stacked and piled around an old man who sits behind the table, carefully
+measuring each currency on a scale and comparing the results to his scrolls.
+At the rear of the room is a large iron strongbox, chained with mithril
+links.  The changer seems to take his work seriously.
+~
+0 8 0
+D0
+~
+~
+0 0 4347
+S
+#4350
+Provisions Shop~
+This room's walls are covered with coils of rope, lengths of chain, dried
+meats and other such provisions for adventure.  Bins of pitons and caltrops,
+barrels of ale and pure water, all things necessary for an extended voyage,
+or merely a trek through the woods.  The provisioner is here, to supply you
+with equipment and supplies.  If he doesn't have it, you probably don't need
+it.  The exit is to the north.
+~
+0 8 0
+D0
+~
+~
+0 0 4344
+S
+#4351
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 0 4352
+D5
+~
+~
+0 0 4318
+S
+#4352
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the north and south past
+triangular windows which provide a marvellous view.  To the south is the
+granite stair, and to the east is an oaken door.
+~
+0 8 0
+D0
+~
+~
+0 0 4354
+D1
+~
+~
+3 0 4353
+D2
+~
+~
+0 0 4351
+E
+door~
+On the door carved in small runes, is the name of Erekose.
+~
+S
+#4353
+Erekose's Chamber~
+You see a large circular room with white walls and furnishings.
+Tapestries cover the walls, depicting scenes of ancient battles and
+strange lands the likes of which you've never seen.  Banners with elven 
+script hang from the ceiling, bearing messages of prosperity and victory.  
+In the center of the room is a fire burning in a large golden brazier, filling 
+the chamber with the aroma of incense.  In one corner is a well stocked wine 
+rack, such that the champion can escape the terrible dreams that haunt him.  
+An oaken door to the west provides access to the rest of the tower.
+~
+0 8 0
+D3
+~
+~
+3 0 4352
+S
+#4354
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the south and east past
+triangular windows which provide a marvellous view.
+~
+0 8 0
+D1
+~
+~
+0 0 4355
+D2
+~
+~
+0 0 4352
+S
+#4355
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the west and east, past
+triangular windows which provide a marvellous view.  A simple oaken door 
+leads to the south.
+~
+0 8 0
+D1
+~
+~
+0 0 4357
+D2
+~
+~
+3 0 4356
+D3
+~
+~
+0 0 4354
+E
+door~
+On the door carved in small runes is the name of Stunty.
+~
+S
+#4356
+Stunty's Lair~
+You find yourself in an open crypt which seems out of place compared
+to the other rooms in the tower.  In the faint light which seeps under
+the door, you can see several empty coffins, their lids cast aside.  With
+a fleeting moment of fear, you wonder what happened to their previous
+occupants.  At the far wall, you see one coffin that seems to stand out
+from the rest.  Rich, polished mahogany with tarnished silver fittings.  It
+is most luxurious, for a corpse.  A wooden door to the north allows you to
+flee this place of dread.
+~
+0 1 0
+D0
+~
+~
+3 0 4355
+S
+#4357
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the west and east, past
+triangular windows which provide a marvellous view.  A simple oaken door 
+leads to the south.
+~
+0 8 0
+D1
+~
+~
+0 0 4359
+D2
+~
+~
+3 0 4358
+D3
+~
+~
+0 0 4355
+E
+door~
+On the door, carved in small runes, is the name of Gwaine.
+~
+S
+#4358
+Gwaine's Quarters~
+The quarters of Gwaine are humble, quiet and clean.  Nearby is a
+bookcase full of scrolls and tomes next to a large desk, covered in various
+papers and parchments.  In one corner is a small shrine for meditation, 
+bearing the silver implements of worship.  On the other side of the room is 
+a workbench and tools suitable for carving.  The bench is strewn with various 
+wooden parts and gears of some unknown project.  At the rear of the room are a 
+simple bed and footlocker bearing the few posessions of the priest. Above the 
+bed is a painting of a small seaport town, and near the door is a delicately 
+carved replica of the great clipper ships that traverse the gulf of the Sea 
+of Caliban.  The oaken door to the north provides access to the rest of the 
+tower.
+~
+0 512 0
+D0
+~
+~
+3 0 4357
+S
+#4359
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the west and east, past
+triangular windows which provide a marvellous view.  A simple oaken door 
+leads to the south.
+~
+0 8 0
+D1
+~
+~
+0 0 4361
+D2
+~
+~
+3 0 4360
+D3
+~
+~
+0 0 4357
+E
+door~
+On the door, carved in small runes, is the name of Angus.
+~
+S
+#4360
+Angus' Quarters~
+A quiet place, this room is very humble, and provides Angus with the
+simple pleasures in life.  A small, soft bed sits on one side of the
+room, and a small table can be found in the centre.  Various weapons are
+mounted on the walls, and you notice that each of these is in excellent
+condition. A large bookshelf lines one wall, and contains many tattered 
+and torn tomes. A very nice place indeed.  On one wall near a lit candle 
+is a large portrait of a beautiful red-haired maiden in a kilt.  Her flowing 
+tresses catch the light of the setting sun, setting off the green in her eyes.
+An oaken door leads from the room to the north.
+~
+0 8 0
+D0
+~
+~
+3 0 4359
+S
+#4361
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the west and south, past
+triangular windows which provide a marvellous view.
+~
+0 8 0
+D2
+~
+~
+0 0 4362
+D3
+~
+~
+0 0 4359
+S
+#4362
+Adobe Hallway~
+This faintly lit hallway appears to be fabricated from a substance
+somewhere between dried mud and sandstone, creating a light brown shade
+that is most appealing and warming to the senses.  With walls that slope
+slightly towards the floor, the hallway extends to the north and south, past
+triangular windows which provide a marvellous view.  To the south is
+the granite stair.  A simple oaken door leads to the west.
+~
+0 8 0
+D0
+~
+~
+0 0 4361
+D2
+~
+~
+0 0 4364
+D3
+~
+~
+3 0 4363
+E
+door~
+On the door, carved in small runes, is the name of Iliandro.
+~
+S
+#4363
+Iliandro's Quarters~
+This is a wide chamber with a finely woven rug upon the floor.  Above
+your head a chandelier lights the room with a warm glow, illuminating
+the great tapestries that cover the walls, depicting scenes of honorable
+nobles in battle.  Next to a set table lies a feather bed, with an ornate
+chest lying at it's foot.  Above the fireplace in the north wall is a coat
+of arms, across which hangs a two handed sword.  An oaken door near the
+bookshelf on the east wall provides access to the rest of the tower.
+~
+0 8 0
+D1
+~
+~
+3 0 4362
+S
+#4364
+Granite Stair~
+The hallway opens out into a large room here, dominated by a immense
+circular granite stair leading up into the Compass Tower, and down into
+the ground.  The stairs are easily twelve feet wide, and two feet deep, lit
+by burning torches in sconces on the walls.  The hallway leads away from
+the stair to the north and south.
+~
+0 8 0
+D0
+~
+~
+0 0 4362
+D5
+~
+~
+0 0 4324
+S
+#0
+
+
+#RESETS
+D 1 4307 2 1
+D 1 4310 0 1
+D 1 4311 0 1
+D 1 4312 2 1
+D 1 4352 1 1
+D 1 4353 3 1
+D 1 4355 2 1
+D 1 4356 0 1
+D 1 4357 2 1
+D 1 4358 0 1
+D 1 4359 2 1
+D 1 4360 0 1
+D 1 4362 3 1
+D 1 4363 1 1
+O 1 4310 0 4300
+O 1 4327 0 4327
+P 1 4328 0 4327
+O 1 4330 0 4327
+P 1 4329 0 4330
+P 1 4329 0 4330
+M 1 4336 1 4336
+M 1 4339 1 4339
+G 1 4303 0
+G 1 4302 0
+G 1 4301 0
+G 1 4300 0
+M 1 4349 1 4349
+M 1 4350 1 4350
+G 1 4322 0
+G 1 4323 0
+G 1 4324 0
+M 1 4334 1 4334
+G 1 4331 1
+G 1 21005 1
+S
+
+
+#SHOPS
+ 4334   10  0  0  0  0   105 100         0 24    ; Caffery
+ 4339    5  0  0  0  0    95   5         1 24    ; Thorn
+ 4350    0  0  0  0  0   105 100         0 25    ; Amad
+0
+
+
+#REPAIRS
+ 4339    5  9  0          10   1         0 23    ; Thorn
+0
+
+
+#SPECIALS
+S
+
+
+#$

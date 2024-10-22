@@ -1,0 +1,41 @@
+#DEITY
+Filename		Krast.dei~
+Name		Krast~
+Description	~
+Alignment		350
+Worshippers	5
+Flee		-25
+Flee_npcrace	0
+Flee_npcfoe	0
+Kill		0
+Kill_npcrace	0
+Kill_npcfoe	0
+Kill_magic	0
+Sac		100
+Bury_corpse	-50
+Aid_spell		30
+Aid		50
+Steal		-25
+Backstab		0
+Die		0
+Die_npcrace	0
+Die_npcfoe	0
+Spell_aid		0
+Dig_corpse	0
+Scorpse		0
+Savatar		0
+Sdeityobj		0
+Srecall		100
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		0
+Deityobj		21015
+Affected		0
+Npcrace		0
+Npcfoe		0
+Suscept		0
+End
+
+#END

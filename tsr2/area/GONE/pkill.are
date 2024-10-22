@@ -1,0 +1,327 @@
+#AREA   The Arena of Death~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51200000
+
+#MOBILES
+#5901
+slayer guard~
+Slayer the elite Guardian.~
+Slayer the elite guardian of the Arena of Death stands here.
+~
+You look upon the guardian of the pkill arena...Arena of Death. He
+wears a long green tunic and has long black hair. Then you notice
+the fangs in his mouth and...no...it can't be...He is a Drow Vampire!
+You would be safest to keep away from him!
+~
+3 0 0 S
+60 9 0 50d10+9500 10d6+29
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#5901
+fountain blood~
+fountain of blood.~
+The Fountain of Blood spurts blood into the air.~
+~
+12 0 0
+0 0 0 0
+10000 100 10
+#5902
+sign~
+sign~
+A Large sign hangs on the gate.~
+~
+12 0 0
+0 0 0 0
+1000 1 0
+E
+sign~
+This Arena and the immediate area is intended for pkilling. This area
+has been written by Beowolf.
+~
+#0
+
+
+#ROOMS
+#5901
+Entrance to the Arena~
+Welcome brave soul to "a pkillers dream...the Arena of Death!"
+Inside these gates are fountains of blood and rivers of dreams...a place
+where any thief, mage, warrior, and yes...even cleric feel at home. It is
+a place where you can engage in the combat of pkilling. A place unlike
+you have ever been...Beware brave soul...for here you can meet your
+maker and loose everything that you have worked so hard for...or it can
+be a place where you will find honor and glory, a place where you gain
+new equipment and more power. Ye have been Warned and good luck in your
+journey.
+~
+0 8 0
+D0
+Old Blood Ave.
+~
+~
+0 -1 5902
+D5
+You see the second level of The Arena.
+~
+~
+0 -1 5906
+S
+#5902
+Old Blood Avenue.~
+Ye stand on a worn and dirty pathway covered with blood and rusted
+metal. The ground is packed and looks heavily used. Ye gasp in shock as 
+ye see a wretched sight! A dozen skulls of various races are stacked neatly
+in a pile on the side of the road. The rusted metal on the ground is actually
+broken off bits of various weapons. The dirt on the groud has a slight squish
+to is as if the ground has absorbed too much blood. Your blood could be
+next...
+~
+0 8 0
+D0
+Farrets last cry.
+~
+~
+0 -1 5905
+D1
+Highlanders Duel.
+~
+~
+0 -1 5903
+D2
+Entrance to Arena.
+~
+~
+0 -1 5901
+D3
+Galley of Skulls
+~
+~
+0 -1 5904
+S
+#5903
+Highlanders Duel.~
+Suddenly your eyes are struck by bright intense light...as your eyes 
+adjust you see the most amazing sight that you have ever seen. Below you
+is the peaceful calm of mountains and rivers. You stand on top of a large
+green mountain pasture. A place where Scottish Highlanders duel to the death.
+This is a place of high honor and a place where even young lads come to see
+how fighting is to be done. You see small bloodstains on the ground. Your
+blood could be next, or you could be hailed as winner... either way you
+do honor here.
+~
+0 8 0
+D3
+Old Blood Ave.
+~
+~
+0 -1 5902
+S
+#5904
+Galley of Skulls~
+Welcome matey! You stand in what appears to be a pirate ship. It is
+here that many pirates learn the skill of the kill. It is where any decent
+thief kills his first victom. There is nothing quite as invigerating as
+the sound of the ocean crashing up against the side of the boat. Even more
+invigerating is the sound of metal against metal as the sound of the ocean
+soothes the heart. Good luck in your fight.
+~
+0 8 0
+D1
+Old Blood Ave.
+~
+~
+0 -1 5902
+S
+#5905
+Farret's Last Cry.~
+You stand in a large open arena. Large pillars stand upright like 
+silent guardians of death. Huge grandstands stand unoccupied and seem 
+ghostlike. The air smells of death. The air is cold as it blows a chill
+breeze by your face. Dust swirls on the ground and ghostly voices seem to
+fill your ears. Then you hear a silent cry... the cry of death and look
+over and see a ghost of a young elf falling in a death cry. Another ghost
+stands over him in silent victory...He looks at you and cackles gleefully.
+He raises his hand and says, " Victory is mine at last! Farret is gone...
+The greatest of pkillers in all the realms has at last fallen!" Then a
+ghostly lightning bolt arcs through the air and strikes the ghost in the
+chest and suddenly everything vanishes...the air is quiet again. You are
+left alone in the wind awaiting combat...Victory could be yours!
+~
+0 8 0
+D2
+Old Blood Ave.
+~
+~
+0 -1 5902
+S
+#5906
+Fountain of Blood.~
+You stand in a quiet town square. Everything seems to be normal until
+you see the huge demonic fountain before you. Faces of demons grining evilly
+and unholy scenes of death cover this magical fountain. Then you notice that
+it isn't water the fountain is spurting from its maw...it is Blood! The blood
+of the people who are sacrificed here in the square of death. Demonic voices
+fill your head..."sacrifice the weak to us...give this ground blood...The
+kill rewards" You hear praises of power and the promises new equipment fill 
+your mind. You could have power if you were to make a sacrifice here. The 
+choice is yours to make.
+~
+0 8 0
+D0
+Alter to Immortals.
+~
+~
+0 -1 5907
+D1
+Dragons Den.
+~
+~
+0 -1 5908
+D2
+Arena of Death.
+~
+~
+0 -1 5909
+D3
+Swamp of Lost Souls.
+~
+~
+0 -1 5910
+D4
+Entrance to Arena of Death.
+~
+~
+0 -1 5901
+S
+#5907
+Alter to Immortals.~
+You stand in a large room of gold and concrete pillers. The pillers
+rise before you like a giant rises before a child. You are in a state of 
+awe at how huge this place is. In the center of the room is a large open 
+area. Inside this area is a large gold alter. Swords are floating silently
+in the air on opposide sides of the alter. Then you hear a voice... " Brave
+soul who has entered this chamber...come forward and hear us." You feel 
+yourself being pulled forward and nod. "You stand in a place of high honor
+today. Place upon our alter a sacrifice and you shall be rewarded. You
+will be able to keep all the possessions of the mortal that you slay. Come
+forward and take victory for us. Spill blood and feel power."
+~
+0 8 0
+D2
+Fountain of Blood.
+~
+~
+0 -1 5906
+S
+#5908
+Dragons Den.~
+Heat rises from the floor of this immense cavern. You feel sweat 
+beading upon your brow and notice a HUGE black dragon sleeping silently
+before you. Then as soon as you notice the dragon one of its yellow evil
+eyes opens and stares at you. You feel a wave of panic come over you as it
+seems to penetrate to your soul. Then the dragon smiles, wicked teeth as 
+sharp as anything you can imagine shining in the light. The dragon then
+speaks, "Brave adventurer, fear me not. I will not slay you. You will slay
+someone though and give me his corpse for I am hungry. I care not who wins,
+for all I want is blood."
+~
+0 8 0
+D3
+Fountain of Blood.
+~
+~
+0 -1 5906
+S
+#5909
+Swamp of Lost Souls.~
+You stand in a marshy swamp. Bats fly over you like a silent wave
+of death. The air is hungry as is the swamp at your feet. The wind blows a
+cold breeze that seems to penetrate to your very soul. The howling of wolves
+can be heard as well as ancient battle cries. Then you see two ghostly forms
+of two armored knights fighting each other...Ah, the glory of battle. They 
+turn and regard you with curiousity. Then in unison they speak. "Brave soul 
+who has entered the swamp, hear us. Pkilling is something of great honor and
+the swamp is a place that tests the skills of the players true abilities. 
+Show us how you kill." The breeze picks up momentum and You suddenly hear 
+thousends of souls crying for battle. This is your chance to show them that 
+you too are worthy of honor.
+~
+0 8 0
+D1
+Fountain of Blood.
+~
+~
+0 -1 5906
+S
+#5910
+Arena of Death.~
+Welcome brave one to the Arena of Death. Unlike any of the previous
+rooms that you have entered this one is different. It is loud and imposing.
+You see millions of people gathered here throwing blood into a ring in the
+center of the arena. Blood covers the whole center of the room like icing
+on a cake. It is here people fight to the death, not knowing who they face
+or even if they will prevail. There is no honor here, only Death to those
+who fail and victory to the winner. Come test your skill if victory is what
+you seek, and if you fail...well, lets not think about that.
+~
+0 8 0
+D0
+Fountain of Blood.
+~
+~
+0 -1 5906
+S
+#5911
+The Losers Circle~
+You stand in a well lit room with green glowing torches lining the walls.
+Everywhere around you are the corpses of dead bodies and the stench of death
+and decay.  A huge skeletal circle surrounds you and grinning skulls greet
+you.  You have just lost your fight in the Arena of Death!
+~
+0 1028 0
+S
+#5912
+The Winners Circle~
+You stand in a very lavishly decorated room.  All around you are hundreds
+of Roses.  You see shinning swords and trophies all around you.  You then
+see that you are surrounded by many armed warriors and powerful mages.  That
+is when you notice they are all made of stone and are part of the Winners
+circle for the Arena of Death!
+~
+0 1028 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

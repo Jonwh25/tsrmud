@@ -1,0 +1,41 @@
+[ 1200] Remik: read
+[ 1200] Remik: Heh
+[ 1200] Remik: read 1
+[ 1202] Valen: list
+[  100] Dalmor: what about having scrolls and books in different languages and have a translate skill that could read it out loud in a language they choose or write it on another piece of paper. Just a thougt :)
+[ 8749] Tarl: to all
+[ 8749] Tarl: sub shopkeepers
+[ 8749] Tarl: show
+[ 8768] Kaitlin: It would be nice to have directions to the academy for pkillers and nonpkillers to the academy from the temple.  When you die and end up back at the temple as a newbie it is very frustrating to try to find your way back to the academy to finish trai
+[ 8714] Caliban: You've probably already noticed, but some of the stores, not only in City of Shadows, but in some of the other towns don't work quite yet...
+[ 8714] Dalmor: list
+[  109] Danzig: Introduce aliases..
+[10319] Dalmor: I think there should be a command to see what level you can use a skill(for example: slist curse) because I am a mage and sometimes I want to see what level I could use a skill instead of searching. :)
+[10355] Karinn: read
+[10002] Tearle: it would be cool if thieves and trackers could slit throats
+[10002] Tearle: it would also be cool that when someone is mortally hurt they could be lifted and carried to a healer.  after all you can carry a corpse so why not a near dead person.. of caurse you won't always make it.. but it would be a cool skill
+[12044] Dalmor: You should allow people to sac their own corpse or let other sac it when it is empty. I see alot of corpses around.
+[10002] Faloris: Uh...ventriloquate needs to be the same color as 'say'.
+[10010] Faloris: It NEEDS to tell you which direction you flee!
+[10319] Dalmor: I don't know if you did this...but when are already affected by a spell, I think that if you cast the spell again it goes to the max duration again.
+[14907] Tearle: there should be rooms you can rent in town... that wuod be cool
+[14928] Dalmor: I don't know if you have a spell or something for this...but I would like a spell called stone feet or something that could prevent the mob form fleeing...it is alot easier than running around
+[ 8714] Ethan: to Beowolf
+[ 8714] Ethan: subject osay
+[ 8714] Ethan: + Osay channel which is the same as say but adds (ooc) to the message automatically.
+[ 8714] Ethan: show
+[ 8714] Ethan: post
+[ 1210] Beowolf: osay channel from Ethan auto puts ooc:
+[10301] Vril: list
+[ 8768] Ethan: a whisper command that allows two characters in a room to communicate with eachother. The others just see them whispering, something that would be good for rp'ing
+[  100] Silverhand: list
+[ 4600] Yaren: wouldnt it be cooler if spells like blindness or energy drain could be cast on players as well as mobs?
+[ 8644] Lorenthi: you can't penalize someone for fleeing during battle for so much. i flee for 449 and when i do flee it's 1449? i only get near 100 xp for mobs. what the hell is that
+[21084] Lorenthi: can you put a link for haon's door or pixie village... it would help because i cannot find a good place yet to level for a level 5.
+[ 5764] Kaitlyn: Next time you do a pwipe please ask our opinions as players first out of respect
+[10376] Giogioni: I think that that backstab should not be limited by the weapon you carry.  Hitting someone in the back with an axe is just as effective as stabbing someone with a dagger.
+[21075] Garog: I dont think its the mobs i think its the warrior class thats the problem I can take mobs 10 lvls higher than me
+[10379] Ventris: Why not have an online history in the help pages?  I'm seeing alot of history information around.
+[10379] Ventris: Could someone make a textbased map of City of Shadows for newbies?  I'll start the map and give it to whoever.
+[10319] Ventris: Can you include the level of players in whois command?
+[ 8768] Yaren: another bug? are all the mobs in new thalos supposed to be charmed, they dont attack when theyre like this

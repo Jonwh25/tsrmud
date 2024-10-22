@@ -1,0 +1,52 @@
+#DEITY
+Filename		Bryelle.dei~
+Name		Bryelle~
+Description	Bryelle the Dark Seraph. Goddess of Rebellion and Freedom. Daughter
+of Beowolf, God of War & Chaos. Found by Beowolf when just a small
+child, she was disciplined in the ways of the Chaon for many years 
+until finally seeing how her father really was and left his side. Bryelle
+ran for a long time barely escaping the forces of Chaos, watching how
+they would murder all those who would aid her. Her anger became stronger
+each passing day before she stumbled upon a man who offered to help.
+Her training completed through the teachings of Variant, the Hand
+of Justice, Bryelle returned to the world she was raised to conquer,
+to liberate it instead, and inact her revenge upon the being she used
+to call father, the vile creature named Beowolf.
+~
+Alignment		0
+Worshippers	23
+Flee		25
+Flee_npcrace	-25
+Flee_npcfoe	-50
+Kill		50
+Kill_npcrace	25
+Kill_npcfoe	75
+Kill_magic	25
+Sac		50
+Bury_corpse	0
+Aid_spell		0
+Aid		25
+Steal		0
+Backstab		0
+Die		-50
+Die_npcrace	-100
+Die_npcfoe	-100
+Spell_aid		0
+Dig_corpse	0
+Scorpse		200
+Savatar		800
+Sdeityobj		100
+Srecall		100
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		5708
+Deityobj		21005
+Affected		0
+Npcrace		0
+Npcfoe		7
+Suscept		0
+End
+
+#END

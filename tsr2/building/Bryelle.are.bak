@@ -1,0 +1,1616 @@
+#AREA   {PROTO} Bryelle's area in progress~
+
+
+
+#AUTHOR Bryelle~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#14500
+Jezza2~
+Jezza the Vampire~
+Jezza, the Vampiric Mage, is here.
+~
+Turning slowly towards you, her golden eyes shine brightly in the 
+light. This undead beauty smiles at your wryly revealing her sharp 
+teeth and the hints of blood in between them. Jezza's ivory skin glows 
+slightly as she looks at you intently. Pray you arent her next meal.
+~
+1073741895 680 0 C
+49 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+25 25 25 25 25 25 25
+0 0 0 0 0
+5 0 0 0 1 0 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+if name($n) == Bryelle
+ say Greetings, My Queen!!
+ grovel $n
+  else
+   if sex($n) == 2
+    mpforce $n curtsey
+     else
+      mpforce $n bow
+   endif
+endif
+~
+|
+#14501
+Thorn Bushes~
+Thorn Bushes.~
+Some thorn bushes stand here before you.
+~
+~
+1073741891 8760 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+15 22 23 18 19 20 17
+0 0 0 0 0
+89 0 0 0 1869488187 1869488186 0
+0 0 0 2 0 1 262400 0
+> all_greet_prog 100~
+if isnpc($n) = yes
+mpforce $n sw 
+ else
+  if level($n) > 30
+  mpmload 14511
+  mpmload 14511
+  mpforce 3.thorn mpkill $n
+  mpforce 2.thorn mpkill $n
+  mpkill $n
+   else
+   if level($n) >= 25
+    mpmload 14511
+    mpmload 14511
+    mpmload 14511
+    mpforce 4.thorn mpkill $n
+    mpforce 2.thorn mpkill $n
+    mpforce 3.thorn mpkill $n
+    mpkill $n
+     else
+      if level($n) < 25
+      say Get out of here!! You arent worth my time!!
+      mptransfer $n 14501
+      endif
+    endif
+  endif
+endif
+~
+> act_prog p flees head over heels!~
+mptransfer $n
+mpforce 4.thorn mpkill $n
+mpforce 2.thorn mpkill $n
+mpforce 3.thorn mpkill $n
+mpkill $n
+~
+|
+#14502
+Grey Wolf~
+The grey wolf~
+A fierce grey wolf snarls angrily at you!!
+~
+~
+1073741889 552 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+21 13 13 16 19 15 14
+0 0 0 0 0
+69 3 0 0 1634492961 1634492960 0
+0 0 65545 2 0 1 3 0
+> act_prog p arrives from the east.~
+snarl $n
+mpechoat $n The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the west.~
+snarl $n
+mpechoat $n The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the north.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the south.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the north-east.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the north-west.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the south-east.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p arrives from the south-west.~
+snarl $n
+The Grey Wolf watches your movements very carefully.
+~
+> act_prog p leaves north.~
+north 
+mpkill $n
+growl $n
+~
+> act_prog p leaves north-east.~
+ne 
+mpkill $n
+growl $n
+~
+> act_prog p leaves north-west.~
+nw 
+mpkill $n
+growl $n
+~
+> act_prog p leaves south.~
+south
+mpkill $n
+growl $n
+~
+> act_prog p leaves south-west.~
+sw 
+mpkill $n
+growl $n
+~
+> act_prog p leaves south-east.~
+se
+mpkill $n
+growl $n
+~
+> act_prog p leaves east.~
+east
+mpkill $n
+growl $n
+~
+> act_prog p leaves west.~
+west
+mpkill $n
+growl $n
+~
+|
+#14503
+Haunted Tree~
+a haunted tree~
+A tree stands here looking quite ominous.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> all_greet_prog 100~
+mea $n The haunted tree looks down upon you and begins to speak.
+if sex($n) == 2
+ mea $n The haunted tree says 'My Lady. times are rough, as are these areas 
+ mea $n your hands are about to reach. Remember what you do unto others will 
+ mea $n be either Rewarded or come back Ten-fold.'
+  else 
+   mea $n The haunted tree says 'My Lord, times are rough, as are these
+   mea $n areas beyond this wall. Remember what you do unto others will be
+   mea $n either Rewarded or come back Ten-fold.'
+endif
+mea $n With those last words the haunted tree returns to its original state.
+~
+|
+#14504
+Maneating Plant~
+a newly created Maneating Plant~
+Some god abandoned a newly created Maneating Plant here.
+~
+~
+1073741891 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> all_greet_prog 100~
+say Think you can DESTROY ME?? THINK AGAIN!!!
+mpforce wolf mpkill $n
+mpkill $n
+~
+|
+#14505
+Hanging Vines~
+a newly created Hanging Vines~
+Some god abandoned a newly created Hanging Vines here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#14506
+Giant Serpent~
+a newly created Giant Serpent~
+Some god abandoned a newly created Giant Serpent here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#14507
+Giant Tree~
+A Giant Tree~
+A giant tree stands here gently grazing the sky with its branches.
+~
+~
+1073741895 568 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+19 17 16 14 20 15 16
+0 0 0 0 0
+89 3 0 0 1852400737 1852400737 0
+0 0 0 0 0 0 1052928 524288
+> all_greet_prog 100~
+if isnpc($n) = yes
+mpforce $n e
+ else
+  mpechoat $n The trees branches sway in the gentle wind that passes by.
+  mpechoat $n Its leaves gently tumble to the ground before you.
+  mpoload 14501
+  drop leaves
+endif
+~
+> act_prog p gets a bunch of leaves.~
+mpforce $n drop leaves
+mppurge leaves
+mpechoat $n Before you could take a closer look at them...
+mpechoat $n The leaves jump out of your hands and run off.
+mea $n You see that they left towards the northeast, east, southwest, and west.
+~
+|
+#14508
+Dying Traveler~
+a dying traveler~
+A dying old traveler lays here on the floor badly wounded.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#14509
+Ghostly Form~
+a newly created Ghostly Form~
+Some god abandoned a newly created Ghostly Form here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#14510
+weeping willow~
+a newly created weeping willow~
+Some god abandoned a newly created weeping willow here.
+~
+~
+1073741825 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#14511
+Greater Thorn Bushes~
+Thorn Bushes.~
+Some thorn bushes stand here before you.
+~
+~
+1073741891 8760 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+15 22 23 18 19 20 17
+0 0 0 0 0
+89 0 0 0 1918988131 1918988130 0
+0 0 0 2 0 1 262400 0
+#14512
+~
+Act Mob~
+An act Mob is here, but hopefully cant be seen by you.
+~
+~
+1075838979 66058 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> act_prog p arrives from the south-west.~
+mea $n A strong gust of wind blows the leaf to the northwest.
+~
+> act_prog p floats in from the south-west.~
+mea $n A strong gust of wind blows the leaf to the northwest.
+~
+> act_prog p flys in from the south-west.~
+mea $n A strong gust of wind blows the leaf to the northwest.
+~
+> act_prog p floats in from the south.~
+mea $n A strong gust of wind blows the leaf to the north.
+~
+> act_prog p arrives from the south.~
+mea $n A strong gust of wind blows the leaf to the north.
+~
+> act_prog p flys in from the south.~
+mea $n A strong gust of wind blows the leaf to the north.
+~
+> act_prog p arrives from the north-west.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p flys in from the north-west.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p floats in from the north-west.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p arrives from the north.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p flys in from the north.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p floats in from the north.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p arrives from the north-east.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p flys in from the north-east.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p floats in from the north-east.~
+mea $n A strong gust of wind blows the leaf to the northeast.
+~
+> act_prog p leaves northeast.~
+mpmload 14502
+mpforce wolf ne
+~
+> act_prog p flys northeast.~
+mpmload 14502
+mpforce wolf ne
+~
+> act_prog p floats northeast.~
+mpmload 14502
+mpforce wolf ne
+~
+|
+#14513
+~
+Act Mob~
+An Act Mob is here, but can not be seen by Pre-Auths.
+~
+~
+1075838979 66058 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> act_prog p arrives from the south-west.~
+mea $n A strong gust of wind blows the leaf to the souhtwest.
+~
+> act_prog p floats in from the south-west.~
+mea $n A strong gust of wind blows the leaf to the southwest.
+~
+> act_prog p flys in from the south-west.~
+mea $n A strong gust of wind blows the leaf to the southwest.
+~
+> act_prog p floats in from the east.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p arrives from the east.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p flys in from the east.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p arrives from the north-east.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p flys in from the north-east.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p floats in from the north-east.~
+mea $n A strong gust of wind blows the leaf to the east.
+~
+> act_prog p arrives from the north.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p flys in from the north.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p floats in from the north.~
+mea $n A strong gust of wind blows the leaf to the south.
+~
+> act_prog p arrives from the west.~
+mea $n A strong gust of wind blows the leaf to the southeast.
+~
+> act_prog p flys in from the west.~
+mea $n A strong gust of wind blows the leaf to the southeast.
+~
+> act_prog p floats in from the west.~
+mea $n A strong gust of wind blows the leaf to the southeast.
+~
+> act_prog p leaves southwest.~
+mpmload 14502
+mpforce wolf sw
+~
+> act_prog p flys southwest.~
+mpmload 14502
+mpforce wolf sw
+~
+> act_prog p floats southwest.~
+mpmload 14502
+mpforce wolf sw
+~
+|
+#14514
+~
+Act Mob~
+An Act Mob is here, but can not be seen by Pre-Auths.
+~
+~
+1075838979 66058 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> all_greet_prog 100~
+mea $n The rustling of leaves and a low moan frightingly ring in your ears.
+mpoload 14503
+~
+> act_prog p gets a pile of leaves.~
+mea $n Moving the leaves from their place you discover a hurt man underneath.
+mpmload 14508
+mpoload 14504
+mea $n The old man looks at you carefully and starts to speak softly.
+mpforce traveler say I.. am hurt.. need water.. fill cantene.. give to me...
+mea $n Before being able to finish the old man passes out on the floor.
+~
+> act_prog p gives a water cantene to a dying traveler.~
+mpforce traveler smile $n
+ mpforce traveler say Thank you my child!
+ mptransfer $n 14502
+endif
+~
+|
+#0
+
+
+#OBJECTS
+#14501
+bunch leaves leaf~
+a bunch of leaves~
+A small pile of leaves lays on the ground.~
+~
+8 0 1
+0 0 0 0
+1 0 0
+E
+leaf leaves~
+Before you a small pile consisting of four leaves lies on the floor
+awaiting to be picked up for closer examination.
+~
+#14502
+leaf leaves~
+a leaf~
+A solitary leaf lies here.~
+~
+8 1073741824 0
+0 0 0 0
+1 0 0
+#14503
+pile leaves~
+a pile of leaves~
+Some god dropped a newly created Haunted Trees here.~
+~
+13 1073741824 1
+0 0 0 0
+1 0 0
+#14504
+water cantene~
+a water cantene~
+A water cantene lay here on the floor before you.~
+~
+17 1073741824 1
+100 0 0 0
+1 0 0
+> act_prog p gives a water cantene to a dying traveler.~
+if objval1 == 0
+ mea $n The old man puts the cantene to his lips and finds its empty.
+ mea $n Looking at you with a hurt expression on his face, he suddenly vanishes
+ mppurge traveler
+  else
+   mea $n The old traveler brings the cantene up to his lips and smiles at you.
+~
+|
+#14505
+branch tree limb~
+a tree branch~
+A tree branch is here just out of your reach.~
+~
+36 1073741824 0
+8192 14523 14525 0
+1 0 0
+> act_prog p pulls a tree branch.~
+mea $n Pulling the branch closer to you...
+if dex($n) >= 20
+ mea $n You are able to continue on in your travels.
+ mptransfer $n 14524
+  else 
+   mea $n You fall off the branch and hit the ground below.
+   mpdamage $n 200
+   mptransfer $n 14525
+endif
+~
+> act_prog p pushes a tree branch.~
+if dex($n) >= 20
+ mea $n Pushing the tree branch away from you, you almost fall off
+ mea $n but are able to regain your balance.
+  else
+   mea $n Pushing the tree branch away from you, you fall off!!
+   mpdamage $n 150
+   mptransfer $n 14505
+endif
+~
+|
+#14550
+black cape of darkness~
+a Cape of Darkness~
+A dark cape lays here emitting a darkness of its own.~
+~
+9 388 1025
+100 100 0 0
+1 0 0
+A
+19 100
+A
+1 5
+A
+18 100
+A
+28 1
+A
+28 2
+A
+28 4
+A
+28 8
+A
+28 128
+A
+28 256
+A
+28 512
+A
+28 1024
+A
+28 2048
+A
+28 2097152
+A
+28 8192
+#14551
+the Blade of Souls~
+the Blade of Souls~
+A long dagger of black gold lays here.~
+~
+5 132 8193
+0 1 500 11
+1 0 0
+A
+31 5
+A
+35 50
+A
+50 50
+A
+53 50
+A
+46 50
+A
+40 50
+A
+48 50
+A
+49 50
+A
+30 -1
+A
+32 50
+A
+30 114
+A
+30 314
+A
+30 302
+A
+26 128
+A
+26 4
+A
+26 16
+A
+26 32
+A
+26 8192
+A
+26 4194304
+A
+26 -2147483648
+> wear_prog 100~
+~
+> wear_prog 100 mea $n You see a dark mist enshroud you.~
+You see a dark mist enshroud you.
+~
+|
+#0
+
+
+#ROOMS
+#14500
+The Bay~
+Staring out at the darkening sky as it slowly fills up with what seem
+an eternal sea of stars, you feel at peace as you sit down on the soft
+and warm sand that gently runs in between your toes.
+Next to you a soft and cozy blanket invites you to cuddle up in its 
+warmth and drink from the sweet tasting champagne that lays near by.
+~
+0 1073741828 1
+S
+#14501
+Small path~
+White polished stone echos off loudly your footsteps, as you walk upon
+this quite desolate path. The surroundings as you walk onwards seem
+to become gloomy and disdain. Trying to look onward, all you are 
+able to see is the darkness that this path leads you into.
+ 
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14502
+S
+#14502
+Small path~
+The woods closing in towards you makes you feel uncomfortable and quite
+claustrophobic. You are now relived to see that up ahead a small light
+flickers in the distance. Walking foward branches scrape at your legs making 
+you bleed slightly and open to any predators that can smell the light
+scent of your sweet smelling blood.
+ 
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14503
+D3
+~
+~
+0 -1 14501
+S
+#14503
+End of the path~
+Just below your feet the white stone path abruptly comes to 
+an end and all you see before you are large trees that block out
+any trace of life that may be beyond this now puzzling forrest.
+Traces of previous travelers lie before you on the ground, backpacks,
+discarded and worn swords, and the last wooden torch that flickers
+slightly in the gentle breeze before it goes out completely, leaving
+you in pure darkness.
+Feeling your way around, you find an opening through some
+bushes to the east of here.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14504
+D3
+~
+~
+0 -1 14502
+S
+#14504
+Darkened Path~
+Walking through the bushes, you stumble into this area. Large
+lush trees seem to loom over you seeming to want to entrap you within
+their limbs. An eerie feeling comes over you as you sense the
+bushes behind you rustle slightly as if a gentle wind were going through.
+Turning around to find the path you walked through, you notice the
+bushes are now in impeding your way back. Your only way out is foward.
+But which way???
+ 
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14516
+D1
+~
+~
+0 -1 14516
+D2
+~
+~
+0 -1 14516
+D6
+~
+~
+0 -1 14516
+D7
+~
+~
+0 -1 14516
+D8
+~
+~
+0 -1 14516
+D9
+~
+~
+0 -1 14516
+S
+#14505
+Darkened Path~
+The way through this part of the forest has become slightly narrower
+as you move forwards deeper in. Walking, you find the path a struggle
+to go through as you have to squeeze between the trees and barely
+make it through.
+~
+0 1073741828 1
+D8
+~
+~
+0 -1 14506
+S
+#14506
+Darkened Path~
+Trying to find your way through this forest, you keep sensing that
+things aroung you are not like you expected them to be . The bushes and
+trees that made your journey so difficult, have now moved away from
+the path, as if allowing the way through. The darkness around you 
+slightly lifted, you are able to see something on the path just ahead.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14507
+D7
+~
+~
+0 -1 14505
+S
+#14507
+Path through the woods.~
+The ground below you has become firmer than it was before.
+Just below you a white object lays on the floor mostly covered
+by dirt. The trail ahead seems to clear up into a large clearing of
+some sort.
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 14506
+D7
+~
+~
+0 -1 14508
+S
+#14508
+Forest Clearing~
+Walking in to this clearing within this large forest, you can feel
+the coolness of the night breeze as it penetrates through the wood
+and blows gently across you. Large stones lay in a circular pattern
+in the center of this clearing. It almost looks like this place was
+once used to hold meetings or some sort of ritualistic event.
+Being this the only clearing so far in this forest with soft grass that
+rises up from the ground to gently tickle your feet, disturbs you.
+Making you wonder what is it about this forest that makes it so 
+unusual, that it almost seems to change as you move along.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14509
+S
+#14509
+The round about path.~
+Walking out of the clearing, you stumble upon a little path that is heavily 
+lined with large, lush trees whose branches gently intertwine within
+each other. The path aheas seems long and weary to travel, but something
+urges you on to find out what is at the end. 
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14508
+D9
+~
+~
+0 -1 14510
+S
+#14510
+The round about path.~
+Walking along this path that seems endless and puzzling with each step,
+you try to peek in between the trees that surround you to see if
+up ahead there is some sort of stop or something of wonder. 
+Alas, all you are able to peek at is something slightly glittering 
+in the distance and the large splinters that have now imbedded themselves
+in your skin from nearing the abundancy of trees.
+The path foward seems to turn towards the southeast.
+~
+0 1073741828 1
+D6
+~
+~
+0 -1 14509
+D8
+~
+~
+0 -1 14511
+S
+#14511
+The round about path.~
+Walking onwards, it almost seems like you are walking in a large
+circle. The path before you still green and full of life, leads towards
+the glitter in the distace. From here you look back only to see a 
+slight hint of what you have already passed, large trees that surround
+the area and a creepy sense that stirs your very being to life.
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 14512
+D7
+~
+~
+0 -1 14510
+S
+#14512
+The round about path.~
+Wandering along this road, you realize it has suddenly come to an end.
+Thorn bushes line the end of this path stopping your foward progress
+towards the wall that so mysteriously lies at the end of the path.
+Trying to get a peek at the wall and what is beyond it, you stumble 
+fowards in to the thorn bushes and realize they are now on the attack.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 14513
+D9
+~
+~
+0 -1 14511
+S
+#14513
+Before The Wall~
+The trees here seems to have opened up widely to allow for the room of the 
+wall that stands there solidly just ahead. Looking behind you, you see 
+the remnants of the thorn bushes that lay burnt and torn on the floor.
+How could it have been possible for plants to attack you? And if so
+what is it that they may be hiding or what is beyond this wall?
+Maybe it is your time to turn back before you can go no further..
+Mysteriously, as if someone of something had sensed your very thoughts
+the way behind you closes up before your very eyes and now nothing
+lays there, just an empty space with no way through or around.
+The only way out now is foward.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14514
+S
+#14514
+Wall of stone~
+Here the path seems to have come to an abrupt halt. Before you a
+wall made solely from stone stands before you. The white wash, 
+polished stones glitter slightly in what little light that comes
+through the surrounding trees. Looking around, you find no way 
+around the wall, but there is a branch from a nearby tree that looms
+over the wall to the other side. Maybe you can reach it.
+~
+0 1073741824 1
+D4
+~
+~
+2176 -1 14515
+S
+#14515
+A large branch.~
+Looking down at the ground below you from the branch that crosses
+the wall, it seems such a long way to fall down and to break your
+neck for, so you choose to go ahead as quickly as possible. Finally
+being able to see beyond the wall, you can see the land that stands
+before you. Rich lustrous trees raise high from the ground seeming to barely
+graze the sky with their long supple branches. Just beyond the trees 
+that are before you, you can catch a glimpse of a large grassy field
+surrounded with what seems, from this distance, a large circle of
+different colored flowers. Beyond that you can almost clearly see a
+small pond that awaits your thirsting lips to touch its cool waters.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14523
+D5
+~
+~
+128 -1 14514
+S
+#14516
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14520
+D1
+~
+~
+0 -1 14518
+D3
+~
+~
+0 -1 14518
+D6
+~
+~
+0 -1 14517
+D7
+~
+~
+0 -1 14519
+D8
+~
+~
+0 -1 14504
+D9
+~
+~
+0 -1 14517
+S
+#14517
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14519
+D1
+~
+~
+0 -1 14518
+D2
+~
+~
+0 -1 14504
+D3
+~
+~
+0 -1 14516
+D6
+~
+~
+0 -1 14520
+D7
+~
+~
+0 -1 14518
+D8
+~
+~
+0 -1 14516
+S
+#14518
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14516
+D1
+~
+~
+0 -1 14519
+D2
+~
+~
+0 -1 14521
+D3
+~
+~
+0 -1 14504
+D6
+~
+~
+0 -1 14517
+D8
+~
+~
+0 -1 14520
+D9
+~
+~
+0 -1 14522
+S
+#14519
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14522
+D2
+~
+~
+0 -1 14517
+D3
+~
+~
+0 -1 14520
+D6
+~
+~
+0 -1 14504
+D7
+~
+~
+0 -1 14521
+D8
+~
+~
+0 -1 14516
+D9
+~
+~
+0 -1 14518
+S
+#14520
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14517
+D1
+~
+~
+0 -1 14519
+D2
+~
+~
+0 -1 14522
+D6
+~
+~
+0 -1 14518
+D7
+~
+~
+0 -1 14516
+D8
+~
+~
+0 -1 14521
+D9
+~
+~
+0 -1 14504
+S
+#14521
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14520
+D1
+~
+~
+0 -1 14504
+D2
+~
+~
+0 -1 14516
+D3
+~
+~
+0 -1 14518
+D6
+~
+~
+0 -1 14522
+D7
+~
+~
+0 -1 14519
+D9
+~
+~
+0 -1 14517
+S
+#14522
+A trail in the woods.~
+Walking in between the bushes that roughly scrape your legs as you 
+move fowards, you find yourself enveloped in the darkness of these woods.
+The ground below you feels soft and mushy, and the once distant sounds
+of wolves howling and other creatures crying out in the night, seems
+to have come closer. Turning in different directions, you get an awful
+feeling in your gut, that you might be lost.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14505
+D1
+~
+~
+0 -1 14516
+D2
+~
+~
+0 -1 14518
+D3
+~
+~
+0 -1 14520
+D7
+~
+~
+0 -1 14521
+D8
+~
+~
+0 -1 14517
+D9
+~
+~
+0 -1 14519
+S
+#14523
+On the edge of the branch.~
+Walking closer to the edge of the branch, you can see the distance that 
+is far below you and you choose, for your own health, not to try to 
+climb down. Looking straight ahead you can see another sturdy branch 
+almost in your reach. Maybe you can pull the branch over to you.
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 14515
+S
+#14524
+On the edge of the branch.~
+Walking closer to the edge of the branch, you can see the distance that
+is far below you and you choose, for your own health, not to try to
+climb down. Looking straight ahead you can see another sturdy branch
+almost in your reach. Maybe you can pull the branch over to you.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14527
+D3
+~
+~
+0 -1 14515
+S
+#14525
+On the ground~
+Standing next to the tree, you are able to look up and see how high
+the branches are from the ground. The area here if lush and full of
+the plants and trees that surround you. 
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14528
+D4
+~
+~
+0 -1 14527
+S
+#14526
+Grassy field.~
+Walking into this field full of tall grass and wild flowers, you feel
+a sense of peace overwhelm you as you look at your surroundings.
+The plush grass below you looks like a great place for you to sit
+and get some rest.
+~
+0 1073741828 1
+D9
+~
+~
+0 -1 14528
+S
+#14527
+A large tree.~
+Sitting on the branch close to the trunk of the tree, you are able to
+look down and examine your options more carefully. At least from this
+tree you are able to get more grip on the trunk to go down and not
+break your neck in the process or you can choose to go to the edge
+of the branch that extends itself out to the west.
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 14524
+D5
+~
+~
+0 -1 14525
+S
+#14528
+Path to the grassy fields~
+Walking onwards in between the large trees that graze the skies gently
+with their long, bountyfull branches, you look straight ahead and see
+in between the trees a beautiful grassy field filled with tons of flowers
+and the aromatic essences that fills the air.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14525
+D6
+~
+~
+0 -1 14526
+S
+#14529
+Floating in a void~
+67 chars across
+~
+0 1073741828 1
+S
+#14530
+Floating in a void~
+~
+0 1073741828 1
+S
+#14550
+Floating in a void~
+~
+0 1073741828 1
+S
+#14551
+Floating in a void~
+~
+0 1073741828 1
+S
+#14552
+Floating in a void~
+~
+0 1073741828 1
+S
+#14553
+Floating in a void~
+~
+0 1073741828 1
+S
+#14554
+Floating in a void~
+~
+0 1073741828 1
+S
+#14555
+Floating in a void~
+~
+0 1073741828 1
+S
+#14556
+Floating in a void~
+~
+0 1073741828 1
+S
+#14557
+Floating in a void~
+~
+0 1073741828 1
+S
+#14558
+Floating in a void~
+~
+0 1073741828 1
+S
+#14559
+Floating in a void~
+~
+0 1073741828 1
+S
+#14560
+Floating in a void~
+~
+0 1073741828 1
+S
+#14561
+Floating in a void~
+~
+0 1073741828 1
+S
+#14562
+Floating in a void~
+~
+0 1073741828 1
+S
+#14563
+Floating in a void~
+~
+0 1073741828 1
+S
+#14564
+Floating in a void~
+~
+0 1073741828 1
+S
+#14565
+Floating in a void~
+~
+0 1073741828 1
+S
+#14566
+Floating in a void~
+~
+0 1073741828 1
+S
+#14567
+Floating in a void~
+~
+0 1073741828 1
+S
+#14568
+Floating in a void~
+~
+0 1073741828 1
+S
+#14569
+Floating in a void~
+~
+0 1073741828 1
+S
+#14570
+Floating in a void~
+~
+0 1073741828 1
+S
+#14571
+Floating in a void~
+~
+0 1073741828 1
+S
+#14572
+Floating in a void~
+~
+0 1073741828 1
+S
+#14573
+Floating in a void~
+~
+0 1073741828 1
+S
+#14574
+Floating in a void~
+~
+0 1073741828 1
+S
+#14575
+Floating in a void~
+~
+0 1073741828 1
+S
+#14576
+Floating in a void~
+~
+0 1073741828 1
+S
+#14577
+Floating in a void~
+~
+0 1073741828 1
+S
+#14578
+Floating in a void~
+~
+0 1073741828 1
+S
+#14579
+Floating in a void~
+~
+0 1073741828 1
+S
+#14580
+Floating in a void~
+~
+0 1073741828 1
+S
+#14581
+Floating in a void~
+~
+0 1073741828 1
+S
+#14582
+Floating in a void~
+~
+0 1073741828 1
+S
+#14583
+Floating in a void~
+~
+0 1073741828 1
+S
+#14584
+Floating in a void~
+~
+0 1073741828 1
+S
+#14585
+Floating in a void~
+~
+0 1073741828 1
+S
+#14586
+Floating in a void~
+~
+0 1073741828 1
+S
+#14587
+Floating in a void~
+~
+0 1073741828 1
+S
+#14588
+Floating in a void~
+~
+0 1073741828 1
+S
+#14589
+Floating in a void~
+~
+0 1073741828 1
+S
+#14590
+Floating in a void~
+~
+0 1073741828 1
+S
+#14591
+Floating in a void~
+~
+0 1073741828 1
+S
+#14592
+Floating in a void~
+~
+0 1073741828 1
+S
+#14593
+Floating in a void~
+~
+0 1073741828 1
+S
+#14594
+Floating in a void~
+~
+0 1073741828 1
+S
+#14595
+Floating in a void~
+~
+0 1073741828 1
+S
+#14596
+Floating in a void~
+~
+0 1073741828 1
+S
+#14597
+Floating in a void~
+~
+0 1073741828 1
+S
+#14598
+Floating in a void~
+~
+0 1073741828 1
+S
+#14599
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+M 1 14507 1 14516
+M 1 14512 1 14517
+M 1 14513 1 14518
+M 1 14504 1 14522
+M 1 14501 1 14512
+M 1 14503 1 14514
+O 1 14505 1 14523
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

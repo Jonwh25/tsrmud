@@ -1,0 +1,13 @@
+#CORPSE
+Name         corpse Sreen~
+ShortDescr   the corpse of Sreen~
+Description  The corpse of Sreen is lying here.~
+Vnum         11
+Room         801
+ExtraFlags   4194304
+Timer        -1
+Values       0 0 5 1 0 0
+End
+
+#END
+

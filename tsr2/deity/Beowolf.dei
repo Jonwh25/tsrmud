@@ -1,0 +1,47 @@
+#DEITY
+Filename		Beowolf.dei~
+Name		Beowolf~
+Description	Beowolf is the God of War & Chaos. He was a magical creation of his
+fathers until his father betrayed him. Ao summoned Beowolf and his 
+father and Beowolf killed his father in front of Ao. Beowolf was
+made an immortal and seeks to rule the realms for himself. Beowolf
+is a very evil god and he promises his followers great rewards
+including kingdoms if they ever dominate the realms.
+~
+Alignment		0
+Worshippers	19
+Flee		-10
+Flee_npcrace	-10
+Flee_npcfoe	-10
+Kill		50
+Kill_npcrace	50
+Kill_npcfoe	50
+Kill_magic	10
+Sac		10
+Bury_corpse	5
+Aid_spell		25
+Aid		40
+Steal		10
+Backstab		10
+Die		-40
+Die_npcrace	-40
+Die_npcfoe	-40
+Spell_aid		10
+Dig_corpse	0
+Scorpse		900
+Savatar		1000
+Sdeityobj		500
+Srecall		300
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		0
+Deityobj		0
+Affected		0
+Npcrace		0
+Npcfoe		0
+Suscept		0
+End
+
+#END

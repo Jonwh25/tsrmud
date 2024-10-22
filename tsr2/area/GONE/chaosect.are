@@ -1,0 +1,1508 @@
+#AREA	Beowolf [ CHAOS ] The City of Chaos~
+
+
+#MOBILES
+#21000
+deven~
+Deven~
+Deven is here laughing at the monkeys.
+~
+You look upon a young boy. He may not look like a whole lot but he sure
+is respected by many. He thinks of his old girlfriend Selina and plays
+practical jokes on everyone. What an interesting shopkeeper.
+~
+2|64|2097152 0 -1000 S
+151 100 0 50d10+9500 8d6+28
+1000000 0
+8 8 1
+#21001
+Magica~
+Magica~
+Magica the Lady of the night is here waiting to help you train.
+~
+You look upon a beautiful woman. Everything about her makes you proud
+to be Chaos. She beams a bright smile upon you.
+~
+2|64|512|2097152|268435456 0 -1000 S
+60 -1 0 50d10+9500 8d6+28
+0 0
+8 8 2
+#21002
+Biff dragonslayer~
+Biff the Dragonslayer~
+Biff the Dragonslayer is here talking about old times.
+~
+Biff the mighty Dragonslayer sits here talking about his old days of
+slaying dragons.  His long black hair is tied behind his head in a thick
+pony-tail.  A HUGE sword is strapped to his back.  This is one man you would
+never want to face.  Biff is now retired and runs the bar you are in.
+~
+2|64|2097152 0 -1000 S
+151 5 0 13d1166+5190 6d25+75
+1000000 0
+8 8 1
+#21003
+Lord Deimos~
+Lord Deimos~
+Lord Deimos is here, waiting to help you practice.
+~
+You look upon a wise and great man. His knowledge is vast and amazing.
+He looks up only to his master, Beowolf.
+~
+2|64|1024|2097152 0 -1000 S
+60 -1 0 50d10+9500 8d6+28
+0 0
+8 8 1
+#21004
+Bane blacksmith~
+Bane~
+A HUGE beast of a blacksmith named Bane stands here.
+~
+A huge beast of a man stands proudly before you.  His muscles ripple
+across his body like a wave across the ocean.  His huge arms could crush
+anything if he was to squeeze them.  He has long black shaggy hair and a few
+earrings.  His eyes are the most beautiful thing about him, for they are
+sparking blue.
+~
+2|64 0 -1000 S
+160 200 0 18d2999+8000 20d20+100
+100000000 0
+8 8 1
+#21005
+Danica receptionsist~
+Danica~
+Danica the receptionist sits behind the counter waiting to heal you.
+~
+You look upon a very cute monk. She has large almond shaped eyes and 
+dark black hair. She is trained in the arts of healing and will heal
+you of your wounds.
+~
+2|134217728 0 -1000 S
+100 1 0 65d15+18000 10d10+30
+0 0
+8 8 1
+#21007
+Legathos~
+Legathos~
+Legathos is standing behind the counter.
+~
+You look upon the mighty Legathos, the greatest thief in all the realms.
+~
+2 268435456 -1000 S
+100 1 0 65d15+18000 10d8+30
+0 0
+8 8 1
+#21008
+pet peasant~
+a peasant~
+A peasant is here staring at you fondly.
+~
+You look upon a small child.  The child has BIG blue eyes and long blonde
+hair.
+~
+256|524288 0 -1000 S
+27 1 0 5d10+650 5d4+7
+0 0
+8 8 1
+#21009
+pet gnome~
+a small gnome~
+A small gnome is here looking at you with BIG eyes.
+~
+A short gnome is here looking up at you with big eyes.
+~
+256|524288 0 -1000 S
+15 1 0 3d9+208 2d6+3
+0 0
+8 8 1
+#21010
+pet Iguana~
+a cool looking Iguana~
+A cool looking Iguana is dancing before you.
+~
+This Iguana is the coolest damn Iguana you have ever seen.  Hell the damn
+thing is dancing...  Stop feeding it acid and maybe it will calm down!
+~
+256 0 -1000 S
+25 1 0 5d10+550 2d10+7
+0 0
+8 8 1
+#21011
+pet Ferret~
+the Ferret~
+A small ferret is here grining at you.
+~
+A small ferret is smirking at you as you look at it.
+~
+256 0 -1000 S
+20 1 0 3d9+333 2d8+5
+0 0
+8 8 1
+#21012
+pet monkey~
+the Chaos monkey~
+The monkey of Chaos is here playing with a sword.
+~
+You look upon one of the most curious monkeys you have ever seen!  It has
+a mohawk for christs sake!
+~
+256|131072|524288 0 -1000 S
+30 1 0 6d12+853 4d6+8
+0 0
+8 8 1
+#21013
+Lord Krycek~
+Lord Krycek~
+Before you stands the HUGE Lord Krycek.
+~
+Before you stands a huge man dressed in black armor.  A huge triangle
+with a crecent moon is engraved on his right arm.  He looks very strong and
+very willing to decapitate you if you do not belong here.
+~
+2|64|131072|268435456 128|2097152|268435456 1000 S
+150 90 0 13d1166+5290 6d25+80
+100 0
+8 8 1
+#0
+
+
+#OBJECTS
+#21000
+Firewater~
+Firewater~
+A bottle of Firewater is sitting on the ground.~
+~
+17 0 1
+100 3 7 0
+2 80 0
+#21001
+dragon breath tall~
+a tall glass of dragons breath~
+A tall glass of dragons breath is waiting here for you to drink it.~
+~
+17 0 1
+100 3 8 0
+2 80 0
+#21002
+Goblin Tea~
+a cup of Goblin Tea~
+A foamy cup of Goblin Tea is here.~
+~
+17 0 1
+50 50 11 0
+2 75 0
+#21003
+lemonaide~
+a glass of lemonaide~
+A glass of lemonaide is condensing on the floor.~
+~
+17 0 1
+50 50 6 0
+2 40 0
+#21004
+frosty beer~
+a tall frosty beer~
+A tall frosty beer is foaming on the ground.~
+~
+17 0 1
+50 50 1 0
+2 20 0
+#21005
+Elven wine~
+a glass of Elven wine~
+A small glass of fine elven wine awaits you.~
+~
+17 0 1
+50 50 2 0
+2 100 0
+#21006
+Molson X~
+Molson X~
+A bottle of Molsen X is here.~
+~
+17 1|512|8192 1
+50 5 3 0
+2 25 0
+#21007
+vial flying~
+a vial of flying~
+A vial of flying is here.~
+~
+10 1|512 1
+50 56 0 0
+1 500 0
+#21008
+vial protection~
+a vial of protection~
+A vial of protection is sitting here.~
+~
+10 1|512 1
+100 1 36 66
+1 1000 0
+#21009
+green vial~
+a vial of green liquid~
+A vial of green liquid is resting on the floor.~
+~
+10 1|512 1
+152 14 43 
+1 2500 0
+#21010
+vial quickness~
+a vial of quickness~
+A vial of quickness is bubbling on the ground.~
+~
+10 1|512 1
+70 0 3 67
+1 2500 0
+#21011
+vial necessity~
+a vial of necessity~
+A vial of necessity is lying on the ground.~
+~
+10 1|512 1
+50 12 80 81
+1 1000 0
+#21012
+The Chaos Aura~
+The Chaos Aura~
+Something shimmers with Chaos here.~
+~
+1 1|16 1
+0 0 100000000 0
+1 50 0
+#21013
+Armplates of the night~
+Armplates of the night~
+Something from the night is here.~
+~
+9 1|2|16|64 1|256
+20 20 20 20
+10 50000 0
+A
+19 50
+A
+18 50
+#21014
+Magic Sash~
+Magical Sash of Chaos~
+A magical sash is here.~
+~
+9 1|2|16|64 1|2048|131072
+20 20 20 20
+5 50000 0
+#21015
+Bracelet of immortality~
+Bracelet of immortality~
+A bracelet of immortality is here.~
+~
+9 1|2|16|64 1|4096
+20 20 20 20
+6 50000 0
+A
+19 20
+A
+18 20
+#21016
+A longsword named "Purger"~
+A longsword named "Purger"~
+A gods weapon is here.~
+~
+5 1|2|16|128|4096 1|8192
+0 1 400 0
+1 2000000 0
+A
+19 10
+A
+18 10
+#21017
+Chaos Kilt~
+Chaos Kilt~
+The Chaos kilt has been left here.~
+~
+9 1|2|16|64 1|32
+20 20 20 20
+10 100000 0
+A
+3 4
+#21018
+Sleek black boots.~
+Sleek black boots.~
+a pair of sleek boots are here.~
+~
+9 1|2|16|64 1|64
+20 20 20 20
+10 50000 0
+#21019
+Black leather gloves~
+Black leather gloves~
+A pair of black leather gloves are here.~
+~
+9 1|2|16|64 1|128
+20 20 20 20
+10 50000 0
+#21020
+Essence of Chaos~
+Essence of Chaos~
+The Essence of Beowolf is here.~
+~
+1 1|2|16 1
+0 0 1000000 0
+1 10000 0
+A
+19 20
+A
+18 20
+#21021
+Ring of Quests~
+Ring of Quests~
+The ring of quests is here.~
+~
+9 1|2|16|64 1|2
+20 20 20 20
+1 50000 0
+A
+13 500
+A
+12 200
+#21022
+Scepter of Chaos~
+Scepter of Chaos~
+the scepter of Chaos is here.~
+~
+9 1|2|16|128|4096 1|16384
+20 20 20 20
+1 50000 0
+#21023
+Black helm of Chaos~
+Black helm of Chaos~
+A evil helm is staring at you.~
+~
+9 1|2|16|64 1|16
+20 20 20 20
+40 50000 0
+A
+19 10
+A
+18 10
+A
+1 4
+#21024
+Golden Amulet~
+Golden Amulet~
+the Golden Amulet is here.~
+~
+9 1|2|16|64 1|4
+20 20 20 20
+20 50000 0
+A
+2 2
+#21025
+Immortal Police badge~
+Immortal Police badge~
+The Immortal police badge is here.~
+~
+9 1|2|16|64 1|8
+20 20 20 20
+5 100000 0
+A
+18 10
+#21026
+Grand Robe Chaos~
+The Grand High Robe of Chaos~
+The Robe of Beowolf is here.~
+~
+9 1|2|16|64|128|4096 1|1024
+20 20 20 20
+5 100000 0
+A
+5 5
+A
+4 5
+A
+3 6
+A
+2 5
+A
+1 5
+#21027
+golden suit armor~
+a Golden suit of Armor~
+A Golden Suit of Armor is in a heap on the ground.~
+~
+9 2|16|64 1|8
+99 99 99 99
+10 850000 0
+A
+13 100
+A
+14 100
+A
+5 -5
+#21028
+ring power~
+a ring of `1POWER``~
+A ring is humming on the ground here POWERFULLY.~
+~
+12 1|2|16|64 1|2
+0 0 0 0
+3 100000 0
+A
+18 5
+A
+19 15
+A
+13 -250
+#21029
+Eye newt~
+an eye of newt~
+An eye of newt is here looking at you.~
+~
+10 0 1
+150 28 28 28
+1 500 0
+#21030
+scroll of lore~
+a scroll of lore~
+A scroll of lore is wrapped carefully on the ground.~
+~
+2 0 1
+100 53 0 0
+1 100 0
+#21031
+Oreo cookie~
+Oreo cookie~
+An Oreo cookie has been left on the floor.~
+~
+26 0 1
+35 16 16 16
+15 750 0
+#21032
+vial chaos blood~
+a vial of Chaos blood~
+A vial of Chaos blood has been left here.~
+~
+10 1|1024 1
+60 0 39 0
+1 2250 0
+#21033
+vial scrying magic~
+a vial of scrying magic~
+A vial of scrying magic is lying on the ground.~
+~
+10 1 1
+80 19 44 20
+1 850 0
+#21034
+vial mind~
+a vial of the mind~
+A vial of the mind is sitting here.~
+~
+10 1 1
+151 0 0 0
+1 1100 0
+#21035
+vial cancel~
+a vial of cancelation.~
+A vial of cancelation is sitting on the floor.~
+~
+10 1 1
+151 0 0 0
+1 890 0
+#21036
+water fountain~
+The diamond fountain of Chaos~
+The diamond fountain of Chaos spurts refreshing water into the air.~
+~
+25 0 0
+0 0 0 0
+1000 1 0
+E
+fountain~
+Inscribed onto the fountain are strange ruins. They translate as follows :
+The path to Chaos will take you to great heights...follow your heart. The
+fountain is made of pure diamonds.
+~
+#21037
+complete healing vial~
+a vial of complete healing~
+A vial of complete healing is sitting on the ground.~
+~
+10 512 1
+107 0 0 0
+15 20000 0
+#21038
+Whopper~
+Whopper~
+A Whopper is here molding.~
+~
+19 0 1
+120 0 0 0
+1 100 0
+#21039
+Chicken Burrito~
+Chicken Burrito~
+A chicken burrito has been left here.~
+~
+19 0 1
+119 0 0 0
+1 100 0
+#21040
+statue chest~
+golden chest~
+A statue of Beowolf holding a great golden chest is here.~
+~
+15 1 0
+1000 1|4 0 0
+1000 1000 0
+#21041
+gold~
+a small heap of gold coins~
+A small heap of gold coins rests here.~
+~
+20 1 1
+10000 0 0 0
+1 10000 0
+#0
+
+
+#ROOMS
+#21000
+Entrance to Chaos City.~
+You stand at the golden gates to Chaos City. The gate is made of
+pure gold and you stand on the clouds. Sparkling lights fill the sky and
+diamonds line the road into the city. Attached to the gate is a large
+*BRAND NEW* plaque.
+~
+0 8192 1
+D0
+You see the City of Chaos.
+~
+~
+0 -1 21001
+E
+plaque~
+.      *----------------------------------*
+       |       WELCOME CLAN CHAOS!!       |
+       |       ====================       |
+       |                                  |
+       |    This is Chaos City. Call it   |
+       |    home, I do. Remember your     |
+       |    brothers and sisters and      |
+       |    donate what you can. Chaos    |
+       |    shall be good to you. If      |
+       |    you are new please buy a      |
+       |    aura of Chaos. One more       | 
+       |    thing, this clan area is      |
+       |    now no recall due to the      |
+       |    fact that pkillers could      |
+       |    gate here. You will find      |
+       |    the way out through the       |
+       |    room of portals. Thanks,      |       
+       |               -Beowolf           |
+       *----------------------------------*
+~
+S
+#21001
+Chaos City~
+You stand on a magnificent street. Transparent servants float all
+around you helping any and all clan members feel at home. Many colors 
+swirl in the sky, a reminder that Chaos is everywhere. You can never tell
+if it is day or night here, only that you feel very relaxed, and very
+content to be here.
+~
+0 8192 1
+D0
+You see the city.
+~
+~
+0 -1 21002
+D2
+You see the golden gate.
+~
+~
+0 -1 21000
+D3
+You see the park.
+~
+~
+0 -1 21003
+S
+#21002
+Chaos City.~
+This street is filled with laughing children of Clan Chaos. They
+all run around pretending to be great hero's just like you. They bow to
+you and smile. The sky is still swirling in a hypnotic pattern. A huge
+buiding is to the east. Hanging above the door is a sign. To your west
+is another building made of stout brick. A plaque is engraved on the 
+entrance.
+~
+0 8192 1
+D0
+You see Chaos City.
+~
+~
+0 -1 21004
+D1
+You see Mystical House.
+~
+~
+0 -1 21005
+D2
+You see Chaos City.
+~
+~
+0 -1 21001
+D3
+You see The Shining Gem.
+~
+~
+0 -1 21006
+E
+plaque~
+"Chaos Members!!! Come on in for a drink at The Shining Gem!"
+~
+E
+sign~
+"Welcome Chaos members! Try out Mystical House today. Chaos's best supplies." 
+~
+S
+#21003
+The Park.~
+The ground here suddenly changes to that of a lush, quiet forest.
+A gentle breeze blows and the sounds of birds singing their gloryous songs
+fill the air. You feel at peace and at home here. You smell the familiar 
+smell of the Ocean becoming stronger, but you realize that a beautiful 
+forest like this can't be next to the ocean, especially when there isn't
+any sand.
+~
+0 8192 1
+D1
+You see Chaos City.
+~
+~
+0 -1 21001
+D3
+You see the park.
+~
+~
+0 -1 21007
+S
+#21004
+Center of Chaos City.~
+You stand in a wonderful square. Doves fly everywhere above your
+head and strangly enough they are flying backwards! People stand all around
+you smiling and bowing to your great achievements. A giant circle is located 
+in the center of the road and a huge statue of the god of Chaos is here.
+~
+0 8192 1
+D0
+You see Chaos Ave.
+~
+~
+0 -1 21008
+D1
+You see Fate Rd.
+~
+~
+0 -1 21010
+D2
+You see Chaos Ave.
+~
+~
+0 -1 21002
+D3
+You see Fate Rd.
+~
+~
+0 -1 21009
+E
+statue~
+You see a huge statue of Beowolf. He stands resting on a mighty bastard
+sword.
+~
+S
+#21005
+Mystical Shop~
+You have entered a very special shop.  This shop is unlike any you have
+ever seen.  Potions float behind the polished oak counter.  Many Chaos
+monkeys roam the store, looking to cause trouble.  Blue and purple light
+shimmers on you from the ceiling.  Then you look out the window and see the
+Chaos banner flying proudly in the air.
+~
+0 8192 1
+D3
+You see Chaos City.
+~
+~
+0 -1 21002
+S
+#21006
+Shining Gem Bar.~
+Welcome to the cleanest and most friendly bar in all the heavens.  You
+have entered the Shining Gem bar.  This bar is home to the powerful Chaos
+clan.  So make yourself comfortable on a cushioned bar stool or take a seat
+in a booth.  All Chaos clan memebers are always our top priority.  So drink
+up and have fun!
+~
+0 8192 1
+D1
+You see Chaos city.
+~
+~
+0 -1 21002
+S
+#21007
+The Park.~
+The park is very beautiful. The breeze is cool and the smells of
+pine and spruce trees fill your nose. Lush green grass brushes up your
+legs and soothes you. You feel peaceful and content. The smell of the 
+Ocean is getting stronger and you hear the tempo of the rising and falling
+of the waves.
+~
+0 8192 1
+D1
+You see the park entrance.
+~
+~
+0 -1 21003
+D3
+You see the edge of the park.
+~
+~
+0 -1 21011
+S
+#21008
+Chaos Avenue.~
+You stand on Chaos Avenue, a very busy road used only for members
+of Clan Chaos. This road is very strange. The ground shimmers with each 
+step you take in a rainbow of colors. The sky is glowing and you begin
+to feel as a god would...
+~
+0 8192 1
+D0
+You see Chaos Ave.
+~
+~
+0 -1 21012
+D2
+You see Center of Chaos city.
+~
+~
+0 -1 21004
+S
+#21009
+Fate Road.~
+You stand on a golden walkway. Fog rolls along your ankles and 
+a sense of calmness fills you. The sky is calm but large glowing portals
+fill the air. Those must be Beowolf's Chaos portals. You hear children 
+playing and people working hard. You see a tall building to the west and 
+a large donation room to the north.
+~
+0 8192 1
+D0
+You see the donation room.
+~
+~
+0 -1 21013
+D1
+You see the Center of Chaos city.
+~
+~
+0 -1 21004
+D2
+The Aquired Taste Shop.
+~
+~
+0 -1 21037
+D3
+You see Chaos hotel.
+~
+~
+0 -1 21014
+S
+#21010
+Fate Road.~
+You stand on Fate Road. Fog rolls around your ankles and there
+are portals of Chaos in the sky. You see a large hall to the north and
+another large hall to the east. Many young children gather around the 
+windows looking in and some even gather around you as you approach. It 
+looks like you are admired.
+~
+0 8192 1
+D0
+You see the practice room.
+~
+~
+0 -1 21015
+D1
+You see the train room.
+~
+~
+0 -1 21016
+D3
+You see the center of Chaos city.
+~
+~
+0 -1 21004
+S
+#21011
+Park by the Ocean.~
+The forest here is amazing. It suddenly opens up to the west and
+there is a vast blue ocean. Back to your east you see the lush forest. This
+place is truly Chaos. Half the sky over the ocean is day while the other
+half is night. The ground is also simular as you walk on half sand and
+half forrest path.
+~
+0 8192 1
+D0
+You see the ocean path.
+~
+~
+0 -1 21017
+D1
+You see the park.
+~
+~
+0 -1 21007
+S
+#21012
+Chaos Avenue.~
+The road continues here but strangely enough it still changes colors
+when you walk on it. You become very aware of your surroundings here and 
+notice that the road is really diamonds! There are huge houses to your
+west and east. You hear what sounds like a party to the east.
+~
+0 8192 1
+D0
+You see Chaos Ave.
+~
+~
+0 -1 21018
+D1
+You see a huge party house.
+~
+~
+0 -1 21019
+D2
+You see Chaos Ave.
+~
+~
+0 -1 21008
+D3
+You see A glowing house.
+~
+~
+0 -1 21020
+S
+#21013
+Chaos Donation room.~
+You stand in a large open room. This is where you can help your
+fellow brothers and sisters. The room is decorated with pictures of
+the Chaos clan in battle with those who aren't Chaos. You feel compelled to
+help your fellow clan member and want to leave something behind...
+~
+0 8192 1
+D0
+Chaos donation.
+~
+~
+0 -1 21035
+D2
+You see Fate road.
+~
+~
+0 -1 21009
+S
+#21014
+Chaos Hotel.~
+Welcome to Chaos Hotel. You stand in a richly decorated room. The
+red carpet has been laid out for you and a beautiful hand crafted desk
+is waiting to help you here. To the south is the lobby and various 
+plants line the arched doorways. Be careful when you go into the lobby,
+there is a small step down. An odor is coming from the north. You
+look closer and see that is it a pet shop.
+~
+0 8192 1
+D0
+You see the Chaos pet Shop
+~
+~
+0 -1 21039
+D1
+You see Fate road.
+~
+~
+0 -1 21009
+D2
+You see the lobby.
+~
+~
+0 -1 21021
+S
+#21015
+Hall of Practice.~
+Behold the Chaos clan practice room! This room is filled with
+sparring members. They seek to improve their chances in battle and seek
+to promote their physical and mental combat prowess. You see children
+looking in the windows looking at you in a state of awe.
+~
+0 8192 1
+D2
+You see Fate road.
+~
+~
+0 -1 21010
+S
+#21016
+The Hall of Training.~
+You stand in an extravagant room. You see fellow members learning
+how to do fantastic feats here like cast deadly spells or even pick up
+how to dodge more attacks in combat. Children look in through windows in
+a state of awe.
+~
+0 8192 1
+D3
+You see Fate road.
+~
+~
+0 -1 21010
+S
+#21017
+Park by the ocean.~
+You walk along the half sand and half forrest path here wondering
+where this path leads. The gentle rise and fall of the waves is soothing
+and the sand is as white as snow. The water of the ocean sparkles in the
+strange light of the moon and the sun and you feel so peaceful.
+~
+0 8192 1
+D0
+You see the park.
+~
+~
+0 -1 21022
+D2
+You see the park.
+~
+~
+0 -1 21011
+S
+#21018
+Chaos Avenue.~
+The road is still shifting colors and the sky is filled with 
+Beowolf's portals of Chaos. You see large buildings to the east and
+west and feel tense here. Fog rolls around your ankles here and gargoyles
+smile at you from their places on the building tops.
+~
+0 8192 1
+D0
+You see the end of Chaos Ave.
+~
+~
+0 -1 21025
+D1
+You see a War building.
+~
+~
+0 -1 21024
+D2
+You see Chaos Ave.
+~
+~
+0 -1 21012
+D3
+You see a Huge Trophy room.
+~
+~
+0 -1 21023
+S
+#21019
+Party House.~
+This is a very lively place! Beer is flowing from a huge keg and
+a large wet bar is set up on the side of the room. Girls and guys dance
+all over the room. Dancing in ways you could only dream of. You see huge
+cages here for the good dancers and see a very cute girl doing a butt dance
+in front of an MTV camera. The name Boo Boo is shouted throughout the
+crowd as she dances more. You see an empty cage, perhaps you would like
+to dance...
+~
+0 8192 1
+D3
+You see Chaos Ave.
+~
+~
+0 -1 21012
+S
+#21020
+Room of Portals.~
+This room contains the portals of Chaos.  You feel mystified and in a
+state of shock.  The portals glow with pure Chaos.  They shift locations
+constantly, some form on top of others, and some wink off and on.  It is
+here you will find your destiny to becoming stronger.  Follow the path to
+your fate.  You can through the following portals : Down to the temple, West
+to another room of portals, Up to Olympia, North to Hell, and South to Rome.
+~
+0 8192 1
+D1
+You see Chaos Ave.
+~
+~
+0 -1 21012
+D2
+You see Rome.
+~
+~
+0 -1 2765
+D3
+You see another room of portals.
+~
+~
+0 -1 21038
+D4
+~
+~
+0 0 6401
+D5
+Portal to temple.
+~
+~
+0 -1 3001
+S
+#21021
+Lobby of Chaos.~
+You step down from the receptionary room and into the lavish
+lobby. A huge circular plum couch is here waiting for you to sit down.
+The carpet is pure white and the walls are covered in pictures of the
+Chaos Clan. You notice the big screen television and the V.C.R. You grin
+as you see a video of a Chaos Clan member killing the Terminator. The 
+hallway leading to the rooms is up the stairway.
+~
+0 8192 1
+D0
+You see the reception.
+~
+~
+0 -1 21014
+D4
+Hallway.
+~
+~
+0 -1 21030
+S
+#21022
+Park by the Ocean.~
+You walk along the half sand and half forrest path here wondering
+where the path leads. The gentle rise and fall of the waves is soothing and
+the sand is as white as snow. The water of the ocean sparkles in the strange
+light of the moon and the sun and you feel so peaceful.
+~
+0 8192 1
+D0
+You see the park.
+~
+~
+0 -1 21026
+D2
+You see the park.
+~
+~
+0 -1 21017
+S
+#21023
+Trophy Room.~
+You stand in a grand room. Various gold trophies line the shelves
+and animal head line the walls. On one side of the room is the head of
+Death, and one of Izangi. The room radiates a proud feeling and a sense
+of accomplishment.
+~
+0 8192 1
+D1
+You see Chaos Ave.
+~
+~
+0 -1 21018
+S
+#21024
+War Room.~
+You stand in the clan war room. Maps of various areas are plastered
+to the walls. This is where all of Chaos takes its place. When, or if Chaos
+ever goes to war, this room will be the planning room for all attacks. 
+Various Clan slogans line the walls and a huge round table rests in the 
+center of the room. Around the table are large plush chairs for each Chaos
+member. A huge golden throne sits at one end along with a smaller throne
+next to it.
+~
+0 8192 1
+D3
+You see Chaos Ave.
+~
+~
+0 -1 21018
+S
+#21025
+End of Chaos Avenue.~
+The road abruptly ends here and a huge wall of diamonds extends 
+straight into the sky, blocking further movement to the north. This 
+section of the City is very quiet and peaceful. You see a great white
+marble building to the west and a huge black marble building to the 
+east.
+~
+0 8192 1
+D1
+You see A holy place.
+~
+~
+0 -1 21028
+D2
+You see Choas Ave.
+~
+~
+0 -1 21018
+D3
+You see A library.
+~
+~
+0 -1 21027
+S
+#21026
+Park by the Ocean.~
+You walk along the half sand and half forrest path here wondering
+where this path leads. The gentle rise and fall of the waves is soothing, 
+and the sand is as white as snow. The water of the ocean sparkles in the
+strange light of the moon and the sun and you feel so peaceful. Then you
+notice that the path turns to the east.
+~
+0 8192 1
+D1
+You see a Magical glade.
+~
+~
+0 -1 21029
+D2
+You see the park.
+~
+~
+0 -1 21022
+S
+#21027
+Golden Library of Chaos.~
+You stand in the biggest library that you have ever seen. Books
+fill every corner of the room and tables fill the center of the floor.
+Children study here and look up at you as you enter. They smile at you
+and you know that they look up to you as a mentor. They come here every
+day just in the hopes of someday being able to join the famous Chaos
+clan. This place is where you study the various areas and learn more
+about Chaos. You see a set of stairs leading down to the Chaos area's
+Library.
+~
+0 8192 1
+D1
+You see end of Chaos Ave.
+~
+~
+0 -1 21025
+D5
+You see Chaos Library.
+~
+~
+0 -1 1
+S
+#21028
+Alter of Chaos.~
+You stand at the alter of Chaos. This is where you can pray to
+the gods and they will listen to you. You feel blessed and calm. Great
+pilliars rise from the floor to support the great arched ceiling. The
+room spins and glows as you begin to pray. The gods are listening...
+~
+0 8192 1
+D3
+You see the end of Chaos Ave.
+~
+~
+0 -1 21025
+S
+#21029
+Magical glade.~
+You behold a beautiful lush forrest glade. You stand in a clearing
+filled with roses and wildflowers. The trees are huge and block the path
+all around you. Birds sing crisp songs and doves fly overhead. Forrest
+animals sit all around you while licking paws and smiling. You then see
+what they are smiling at. Located in the center of the glade is a huge
+wedding alter. A sign hangs from the alter.
+~
+0 8192 1
+D3
+You see the park.
+~
+~
+0 -1 21026
+E
+sign~
+Welcome Clan Chaos. This glorious room was designed so that you could be
+wed here. I bless all of you and may you enjoy many happy mud years 
+together.
+             -Beowolf.
+~
+S
+#21030
+The Hotel Hallway.~
+You stand in a great hallway in the Chaos Hotel. There are various
+pictures of prestigeous clan members along the walls. A crystal chandelier
+is hanging on the ceiling and you walk on plush red carpet. Various pieces
+of fine wooden furniture line the walls. You see suites 1a to 4a in this 
+hall.
+~
+0 8192 1
+D0
+Suite 3a.
+~
+~
+1 1 21031
+D1
+Suite 1a.
+~
+~
+1 1 21032
+D3
+Suite 2a.
+~
+~
+1 1 21033
+D4
+Suite 4a.
+~
+~
+1 1 21034
+D5
+The lobby.
+~
+~
+0 -1 21021
+S
+#21031
+Room of Love.~
+You stand in the hotels most lavish room. A huge heart shaped bed
+is in the center of the room. A heart shaped bath tub is also in this huge
+room. The room is perfect for people in love. You notice there is even a 
+heart shaped sink! How this room is full of such love!
+~
+0 8192 1
+D2
+Hallway.
+~
+~
+1 1 21030
+S
+#21032
+Room of rest.~
+This room was designed for the weary traveler. A huge fluffy bed
+stands against the northern wall. A table and chair is on the south wall 
+next to the dresser. Also there is a T.V that includes free H.B.O and
+pay per view porn films.
+~
+0 8192 1
+D3
+Hallway.
+~
+~
+1 1 21030
+S
+#21033
+Room of passion.~
+You are in the room of passion. Hot steam rises and falls leaving 
+your body feeling clean and natural. You feel the urge to take off all 
+your clothing and relax. Large fluffy beds line room, inviting you and a
+parter over. Soft music fills the air and a vase of fresh roses are magically
+floating in the air next to a bed.
+~
+0 8192 1
+D1
+Hallway.
+~
+~
+1 1 21030
+S
+#21034
+Honeymoon Suite.~
+You stand in a lavishy decorated room. A huge bed floats here 
+inviting you over. A bottle of Champagne has been left here to congradulate
+you on your marriage. You see a hot steamy whirlpool by the west wall. A
+vase of fresh cut roses are next to the bed.
+~
+0 8192 1
+D5
+Hallway.
+~
+~
+1 1 21030
+S
+#21035
+Chaos Donation Room.~
+You stand in a room full of donated items. Various pieces of 
+equipment and various weapons should always be kept in this room. Your
+Brothers and Sisters will always go out of their way for you so remember
+the kindness and in return, donate something.
+                   a small sign is here.
+~
+0 8192 1
+D0
+donation room.
+~
+~
+0 -1 21036
+D2
+You see a donation room.
+~
+~
+0 -1 21013
+E
+sign~
+These two extra rooms have been added because of the dedication of this clan.
+You have pointed out what you want to see and this clan area will continue
+to grow and expand with your ideas. Always remember your brothers and sisters,
+when the clan speaks everyone should listen.
+                                   -Beowolf.
+~
+S
+#21036
+Chaos Donation Room.~
+Once again you enter a room filled with donated items. This room
+seems somehow different though. You look at the walls and see why. A huge
+black dragon is silently staring at you from inside its cave. You feel
+VERY COMPELLED to leave something here.
+~
+0 8192 1
+D2
+Chaos Donation.
+~
+~
+0 -1 21035
+S
+#21037
+The Red Anvil.~
+You walk into a hot room full of rising steam.  You see huge fires and
+big ovens full of lava red coal.  A huge red anvil rests in the center of
+the room where the blacksmith works to create all the wonderful things for
+his god Beowolf.  The floor is made from solid granite block and it smells
+like sulpher in this room.  There is a wooden doorway to your north.
+~
+0 8192 1
+D0
+The door leads back to Fate Road.
+~
+~
+0 -1 21009
+E
+note~
+This room made by Handful.
+~
+E
+counter~
+A single slab of Carrera marble. Must have been very expensive.
+~
+S
+#21038
+Room of Portals~
+This room contains the portals of Chaos. You feel mystified and in
+a state of shock. The portals glow with pure Chaos. They shift constantly,
+some forming on top of others, and some which wink on and off. It is here 
+that you will find your destiny to becoming stronger. Follow the path to
+your fate. You can go through the following portals : North to Crossroads,
+South to River, West to Gimpville, and Up to Dragon Dungeon.
+~
+0 8192 1
+D0
+You see the Cross roads.
+~
+~
+0 -1 5362
+D1
+You see the room of portals.
+~
+~
+0 -1 21020
+S
+#21039
+Chaos Pets and More!~
+You stand in a huge pet shop. Many interesting creatures can be 
+purchased for your pleasure here. Huge glass windows show you the wonders
+of the world below you. A large wooden counter is here and many wonderous
+pets and creatures await your bidding.
+~
+0 4096|8192 0
+D2
+You see the hotel.
+~
+~
+0 -1 21014
+S
+#21040
+Chaos pet shop back room.~
+Your pulse races as you look upon the most SEXUAL room in all of 
+Aesir! You can't belive you found your way in here! All of the pets from
+the Chaos clan are kept here but they are all naked and waiting for you
+if you want them, then again I guess Chewbacca and the Ewok are already
+naked, and who wants to have sex with Yoda! Sorry this room isn't Sexual
+at all :P
+~
+0 4|4096|8192 0
+S
+#0
+
+
+#RESETS
+D 1 21030 0 1
+D 1 21030 1 1
+D 1 21030 3 1
+D 1 21030 4 1
+D 1 21031 2 1
+D 1 21032 3 1
+D 1 21033 1 1
+D 1 21034 5 1
+O 1 21036 0 21004
+M 1 21000 1 21005
+G 1 21007 0
+G 1 21008 0
+G 1 21009 0
+G 1 21010 0
+G 1 21011 0
+G 1 21032 0
+G 1 21033 0
+G 1 21034 0
+G 1 21035 0
+G 1 21037 0
+G 1 21029 0
+G 1 21030 0
+M 1 21002 1 21006
+G 1 21000 0
+G 1 21001 0
+G 1 21002 0
+G 1 21003 0
+G 1 21004 0
+G 1 21005 0
+M 1 21013 1 21007
+M 1 21005 1 21014
+M 1 21003 1 21015
+M 1 21001 1 21016
+O 1 21040 0 21028
+P 1 21041 0 21040
+M 1 21004 1 21037
+G 1 21012 0
+G 1 21027 0
+G 1 21028 0
+M 1 21007 1 21039
+M 1 21008 1 21040
+M 1 21009 1 21040
+M 1 21010 1 21040
+M 1 21011 1 21040
+M 1 21012 1 21040
+S
+
+
+#SHOPS
+21000 10 0 0 0 0 100 100 0 24
+21004 5 9 0 0 0 100 100 0 24
+0
+
+
+#$

@@ -1,0 +1,30 @@
+#SYSTEM
+Highplayers    27
+Highplayertime Tue Apr  1 00:55:05 1997~
+Nameresolving  0
+Waitforauth    1
+Readallmail    54
+Readmailfree   51
+Writemailfree  51
+Takeothersmail 54
+Muse           54
+Think          56
+Build          51
+Log            65
+Protoflag      51
+Overridepriv   64
+Msetplayer     55
+Stunplrvsplr   65
+Stunregular    15
+Damplrvsplr    100
+Damplrvsmob    100
+Dammobvsplr    100
+Dammobvsmob    100
+Forcepc        0
+Guildoverseer  ~
+Guildadvisor   ~
+Saveflags      2557
+Savefreq       20
+End
+
+#END

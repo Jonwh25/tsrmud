@@ -1,0 +1,4 @@
+[*****] BOOT: ---------------------[ Boot Log ]--------------------
+[*****] BOOT: Load_resets: harmony.are (156) 'O': object 12793 doesn't exist.
+[*****] BOOT: Load_resets: trials.are (5) 'M': mobile 998 doesn't exist.
+[*****] BOOT: Load_resets: trials.are (6) 'M': mobile 998 doesn't exist.

@@ -1,0 +1,950 @@
+#AREA   Wilderness~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG You feel a light breeze.~
+
+#FLAGS
+0
+
+#ECONOMY 0 31234730
+
+#MOBILES
+#22000
+frog~
+small frog~
+A small frog is here croaking.
+~
+A small frog is here croaking.
+~
+1 0 200 S
+14 0 0 2d10+190 1d12+3
+1400 0
+8 8 0
+#22001
+water toad~
+water toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+1 0 -250 S
+14 0 0 2d10+190 1d12+3
+127 0
+8 8 0
+#22002
+water spider~
+water spider~
+A small water spider floats here.
+~
+~
+35 32768 -700 C
+1 20 3 1d12+8 1d4+0
+0 100
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+63 3 0 0 1852795253 1852795252 1
+0 0 1581 0 0 0 1 0
+#22003
+the moose~
+the moose~
+A large moose is here, drinking water.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little thingies from toy shops at all.
+~
+99 0 -50 C
+8 13 3 8d8+80 2d6+2
+0 2000
+4 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+76 3 0 0 1819042147 1819042146 1
+0 0 263853 0 0 0 2 2
+#0
+
+
+#OBJECTS
+#22000
+small pebbles~
+A small patch of pebbles~
+A small patch of bright pebbles lies here, scatterd.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#22000
+Before the Esselas River~
+You stand before a small river.  A river is almost too big a word for it, in
+fact.  It looks more like a shallow creek.  Nonetheless.  Light reflects off
+of its shallow, cool waters almost bliding you with its brilliance.  This 
+river of sorts can be traveled across by a small wooden bridge to the west.
+You see that the river itself is continued northeast and southwest of here.
+Back west is Mystical Landscapes.
+~
+0 4 1
+D1
+~
+~
+0 -1 1819
+D3
+~
+~
+0 -1 22001
+S
+#22001
+Bridge on the Esselas River~
+You are now standing on a small, wooden bridge on the Esselas River.  Looking
+down you can see little pebbles in the water.  Its that shallow.  However, it
+is rather extravegant looking despite its size.  You can hear the howling of
+a rather large creature off to the east.  To the northwest this little bridge
+continues.  However, it looks to be broken on the immediate path.
+~
+0 3154436 1
+D1
+~
+~
+0 -1 22000
+D7
+~
+~
+0 -1 22002
+S
+#22002
+Gap in the Bridge~
+You are now floating above the gap in the little bridge.  Below you is the
+Esselas river, in all its splender.  Green toads and frogs splash about in the
+water, hoping to and from the wet banks.  To the west, the bridge continues,
+thankfully, and to the southeast, the bridge also continues.
+~
+0 4 9
+D3
+~
+~
+0 -1 22003
+D8
+~
+~
+0 -1 22001
+S
+#22003
+Bridge on the Esselas River~
+You are on the end of a small, wooden bridge.  The shallow water of the 
+Esselas River flows gently underneath the creaks of the wood.  Small pebbles
+line the water along with various species of wildlife.  The bridge looks
+discontinued to the immediate east but is then picked up in the farther east.
+To the far west, you notice a large woods.  Looks rather unpleasant from here.
+~
+0 4 1
+D1
+~
+~
+0 -1 22002
+D3
+~
+~
+0 -1 22004
+S
+#22004
+Before the Forest~
+You now stand just outside of the Murkmire Forest.  It looks to be a rather
+evil place.  You think you even notice a red aura coming from it.  No matter.
+To the west this forest picks up and to the west a small bridge looks to be
+formed from wood, overlying the Esselas River.
+~
+0 0 1
+D1
+~
+~
+0 -1 22003
+D3
+~
+~
+0 -1 29020
+S
+#22005
+Mriswith Bay~
+You are now on the edge of the Mriswith Bay.  The bay is fairly small compared
+to other bays, but this continent isnt all that big, either.  To in all 
+directions you can see more of this bay, and to the north is the great, wide
+ocean.
+~
+0 4 7
+D0
+~
+~
+0 -1 10124
+D1
+~
+~
+0 -1 22006
+D2
+~
+~
+0 -1 22008
+D3
+~
+~
+0 -1 22007
+S
+#22006
+Mriswith Bay~
+You are almost on the banks of this wild land.  The banks of the land is rather
+muddy and looks to be rather untraveled.  Back to the west is the center of
+the Mriswith Bay where it opens up into the ocean.  The smell of salty water
+fills the air and your lungs.
+~
+0 4 7
+D3
+~
+~
+0 -1 22005
+S
+#22007
+Mriswith Bay~
+You are almost on the banks of this wild land.  The banks of the land look to
+be rather muddy and rather untraveled.  Back to the east is the center of the
+Mriswith Bay where it opens up into the ocean.  The smell of salty water fills
+the air and your lungs as you traverse along.
+~
+0 4 7
+D1
+~
+~
+0 -1 22005
+S
+#22008
+Mriswith Bay~
+You are now very close to land.  Your boat gently rocks in the little waves
+of the bay.  The air smells of salt.  No doubt from the water, you think.  To
+the east and west, the bay opens up, eventually leading out into the ocean.
+To the southwest is the Tivrek River the longest river of the land.  To the
+southeast is the Tarang River.  From maps you have seen, it is rather small,
+but not the smallest of the three main rivers of this continent.
+~
+0 4 7
+D0
+~
+~
+0 -1 22005
+D1
+~
+~
+0 -1 22010
+D3
+~
+~
+0 -1 22009
+D8
+~
+~
+0 -1 22012
+D9
+~
+~
+0 -1 22011
+S
+#22009
+Mriswith Bay~
+You are very close to the wilderness.  Just south of here you can see the
+Tarang River flow off.  Mud begins to seep all around you, as you become
+closer and closer to the land.  The only real place to dock would be to the
+east where the bay is open, but no place looks to be available for docking.
+~
+0 0 7
+D1
+~
+~
+0 -1 22008
+S
+#22010
+Mriswith Bay~
+You are very close to the wilderness.  Just south of here you can see the 
+Tivrek River flow off.  Mud begins to seep all around you, as you become 
+closer and closer to the land.  The only real place to dock would be to the
+west where the bay is open, but no place looks to be available for docking.
+~
+0 4 7
+D3
+~
+~
+0 -1 22008
+S
+#22011
+Tivrek River~
+You have begun a great adventure on the waters of the Tiverk River.  This is
+the main river of the this continent, nicknamed the 'Wild Land'.  The area
+surrounding you is quite contrastic.  Nature surrounds you on all sides with
+her green grass and fresh plant life, yes death is also appearant.  The sky
+is the same.  One half of it looks to be almost clear and bright, while the
+other half is a smokey black.  The river continues to the southwest and to the
+northeast into the Mriswith Bay.
+~
+0 4 7
+D6
+~
+~
+0 -1 22008
+D9
+~
+~
+0 -1 22026
+S
+#22012
+Tarang River~
+You are traveling on the Tarang River.  Its so beautiful.  Splashing over a
+rocky ledge, you wind your way across a very small little waterfall.  All
+around you are the wonders of this wild land.  Green plants and smooth, foggy
+water make up most of your vision.  Trees play hide and seek with the river,
+poking their limbs in and out of the way of you and your boat.  The river 
+continues to the southeast and to the northwest it opens up into the Mriswith
+Bay.
+~
+0 4 7
+D7
+~
+~
+0 -1 22008
+D8
+~
+~
+0 -1 22013
+S
+#22013
+Tarang River~
+Absolute ectasy!  This is wonderful!  You certainly have captured a picture
+perfect spot.  The river opens a little, as light is reflected off of the 
+cool waters of the river, making a spectacular sight.  Large trees and green
+plants block out much of the land to the east and west, but you are very
+content with the view as it is.  Small water spiders cross the path of your
+boat.  The river continues south and to the northwest.
+~
+0 4 7
+D2
+~
+~
+0 -1 22014
+D7
+~
+~
+0 -1 22012
+S
+#22014
+Tarang River~
+You continue your journey on the Tarang River.  Lush green plants and the such
+are all around.  As you pass, you see more and more wildlife.  Unexpectedly
+you see a young male moose standing in the middle of the river.  He sees you;
+twitches his big ears, but hold his ground.  You slowly approach and the moose
+turns and skittishly runs away.  He breaks the waterflow and trotting along and
+finally makes it up the muddy bank.
+~
+0 4 7
+D0
+~
+~
+0 -1 22013
+D2
+~
+~
+0 -1 22015
+S
+#22015
+Tarang River~
+This is such a great place.  Where better to get away from your thoughts?
+the river has closed a bit and continues through the wilderness.  The light
+reflecting off the water now makes a perfect mirror of the water.  You can see
+the entire world, twice!  Such a great place.  Must lead to good things, you
+think.  Tall trees and green plant life follow the river to the southeast and
+to the north.
+~
+0 0 7
+D0
+~
+~
+0 -1 22014
+D8
+~
+~
+0 -1 22016
+S
+#22016
+Tarang River~
+The jungle here is getting denser and denser.  The lush plant life of the area
+is also growing is super fury.  The warm air and thick humidity makes you 
+want to shed some clothing, though you think that would be rather
+inappropriate.  Thousand year old trees hang before you, getting in your way,
+but not hindering your ability to manuver.  The river continues to the east
+and to the northwest.
+~
+0 2097152 7
+D1
+~
+~
+0 -1 22017
+D7
+~
+~
+0 -1 22015
+S
+#22017
+Tarang River~
+You are now traveling along the this river that heads east and west, instead
+of north and south.  The humidity threatens to take over, but you are still
+consumed in beauty to let it get to you.  In front of you, several trees have
+fallen half-way on both sides of the river to make a criss cross.  The river
+continues to the east and west.
+~
+0 0 7
+D1
+~
+~
+0 -1 22018
+D3
+~
+~
+0 -1 22016
+S
+#22018
+Tarang River~
+You are continuing in this river.  It is getting worse and worse however in
+terms of navigation.  The jungle threatens to consume you wholly, as it has
+taken on a life of its own.  The humidity and heat is getting rather 
+unbearable as well.  The surrounding area is getting more and more savage
+and you begin to wish that you had stayed back to the west.  The river
+goes east and west from here, looking to end in the east.
+~
+0 0 7
+D1
+~
+~
+0 -1 22019
+D3
+~
+~
+0 -1 22017
+S
+#22019
+End of Tarang River~
+The river has stopped rather suddenly.  Mud ends the river.  A small path has
+been cut to reveal an opening to the north and the river continues to the west.
+All around you are the sights and sounds of a full blown jungle.  You are know
+knee deep in the lush grass that grows here.  Sweat rolls off your forehead
+rather fluently, as you decide where to go.
+~
+0 0 7
+D0
+~
+~
+0 -1 17171
+D3
+~
+~
+0 -1 22018
+S
+#22020
+Through the Trees~
+You are in the dense tropical trees of the Pirate Jungle.  Towering above
+you, you cannot make out any real sources of light but your own.  A small
+clearing to the south has been made to reveal a path of sorts.  You woder
+where it leads to.
+~
+0 0 3
+D2
+~
+~
+0 -1 22021
+S
+#22021
+Small Path~
+A small clearning has been made here with some sort of short sword or blade
+of some kind.  Grass has been swiped clean of its tops, as it now sits to be
+only three feet tall, as opposed to the grass around it.  Trees and sights
+fill your view as you can holy think about the intense heat of the area.  The
+path continues north and south.
+~
+0 0 3
+D0
+~
+~
+0 -1 22020
+D2
+~
+~
+0 -1 22022
+S
+#22022
+Chaotic Path~
+Things changed rather suddenly.  The forest/jungle that you were once in is
+now gone.  Before you spreads a plane of green grass.  However, no.  This can't
+be right.  Now the jungle is here.  You take another step.  Gone.  ??!!.  The
+only thing you can tell for sure right now is that you have no idea what the
+hell is going on.  East seems to be pulling your attention.  To the north you
+can only see what you see at the moment.
+~
+0 0 3
+D0
+~
+~
+0 -1 22021
+D1
+~
+~
+0 -1 22023
+S
+#22023
+Chaotic Path~
+This place is starting to get a bit wicked.  Things have taken yet another
+drastic change.  There has been a jungle here for as long as you have known.
+Your clothes were wet in sweat from it.  Now your clothes are frozen as you
+have entered a wasteland of snow.  You continue along the slopes and wind
+of this VERY odd place.
+~
+0 0 11
+D1
+~
+~
+0 -1 22024
+D3
+~
+~
+0 -1 22022
+S
+#22024
+Chaotic Path~
+Yet another change.  Maybe your just going insane, you think.  Certainly there
+is now way you can be traveling on nothing.  Black surrounds you.  You have
+not a great clue as to which way you are traveling, but you do feel a pull
+in your mind, leading you to the northeast.
+~
+0 0 11
+D3
+~
+~
+0 -1 22023
+D6
+~
+~
+0 -1 22025
+S
+#22025
+Chaotic Path~
+Wonderful!  You now stand upside down.  This is just great.  The only way to
+travel now is with your hands.  Certainly this will tire you.  The surrounding
+area has gone back to the original jungle area that got you here, somehow.
+You can see and feel little bugs on the ground as you smash them with your
+bear hands.  The path continues to the north and southwest, you think.
+~
+0 0 1
+D0
+~
+~
+0 -1 6640
+D9
+~
+~
+0 -1 22024
+S
+#22026
+Tivrek River~
+This a river shows quite a scenery of contrasts.  Not on either side of the
+river per se, but mixed within each other.  Death mocks the surrounding life
+with appearant pleasure.  Oak and Pine trees look to have been burned and
+half rotted amoung fresh living Oak and Pine.  The sky too, reflects this, as
+part is as bright as any day you have seen and another is as black as night.
+~
+0 0 7
+D2
+~
+~
+0 -1 22027
+D6
+~
+~
+0 -1 22011
+S
+#22027
+Tivrek River~
+You can see mountains in the far off background to the south.  They are
+met with a small forest in from of them.  The sky continues its appearant
+lack of mind and bewilders you with its black and white contrasts.  The river
+continues to the north and south as you begin to be entering a small forest.
+~
+0 0 7
+D0
+~
+~
+0 -1 22026
+D2
+~
+~
+0 -1 22028
+S
+#22028
+Tivrek River~
+You are now entering a small forest on your east and west side.  The forest and
+surrounding area seems to be taking on much more of a 'normal' look.  Birds of
+many kinds sing songs on the edge of the forest.  The river looks to be smooth
+and calming.  This is the first time you have really noticed it because of 
+everything else.  The fresh sounds of the river continue to the north and
+south.
+~
+0 0 7
+D0
+~
+~
+0 -1 22027
+D2
+~
+~
+0 -1 22029
+S
+#22029
+Tivrek River~
+You have entered deeper into the forest and river.  The color of the once 
+clear water has turned black from the lack of light.  There is now a cool
+draft all around you that you havent noticed before.  It screams with coolness
+and you wish you had more to wear.  You can walk off the bank to the west and
+travel in the forest or continue down the river to the south.
+~
+0 0 7
+D0
+~
+~
+0 -1 22028
+D2
+~
+~
+0 -1 22030
+D3
+~
+~
+0 -1 5263
+S
+#22030
+Tivrek River~
+You have just entered more of this forest.  The entire view is blocked by
+gigantic trees.  Those almost as tall as the Shadow Forest near the City of
+Shadows.  The now black river continues on towards the south and north in the
+cold air.
+~
+0 4 7
+D0
+~
+~
+0 -1 22029
+D2
+~
+~
+0 -1 22031
+S
+#22031
+Tivrek River~
+You are now in small clearing in the Dwarven Forest.  The pitch black water
+has gained its former clear tint as you continue.  You have entered upon a
+small anmount of foothills off the east.  They look rather bleak and lifeless
+despite all the vegetation around here.  To the south looks like another river
+Its rather hard to tell from here.  Its still rather dark.  But, it has warmed
+up slightly.
+~
+0 4 7
+D0
+~
+~
+0 -1 22030
+D2
+~
+~
+0 -1 22032
+S
+#22032
+Tivrek River~
+This part of the river looks much like that of a book.  The clearing water
+looks to sparkle in the light and it forms little waves in its gentle waters.
+The surrounding area has let up a bit on its forest, but it still exists.
+The Tivrek continues to the norht and to the south from here, darkening to the
+north and letting up even more to the south.
+~
+0 1073741828 7
+D0
+~
+~
+0 -1 22031
+D2
+~
+~
+0 -1 22033
+S
+#22033
+Tivrek River~
+The air here is much warmer than before, thankfully.  It was getting rather
+cold and disturbing.  The forest now looks to be more southern now, however,
+to the immediate south you see a large white chapel.  It looks to have seven
+pillars that reach for the heavens.  The Tivrek continues to the southeast from
+here.
+~
+0 4 7
+D0
+~
+~
+0 -1 22032
+D2
+~
+~
+0 -1 29061
+D8
+~
+~
+0 -1 22034
+S
+#22034
+Tivrek River~
+The Tivrek River crosses the Esselas River here.  To the south, you see a small
+wooden bridge on the Esselas that looks to be broken around the middle.  The
+Esselas looks to much, much smaller than the river that you travel on.  In 
+fact, it looks much more like a creek than a river.  The trees have gotten a
+little less dense here, but a forest still lingers to the east and a mystical
+place to the west.  The Tivrek continues to the southeast from here.
+~
+0 0 7
+D7
+~
+~
+0 -1 22033
+D8
+~
+~
+0 -1 22035
+S
+#22035
+Edge of the Continent~
+You have made it to the edge of the 'Wild Lands'.  This is a rather small
+continent as you can tell.  The waters from the southern ocean here look to
+be fresh and clear.  They travel to infinity and beyond in all directions
+except to the southeast.  There looks to be a small island there, that perhaps
+no one really knew about.  The waters off the ocean are soothing and make you
+tired from your journey.  The Tivrek goes back to the northwest or you can
+try to make it to the small island to the southeast.
+~
+0 0 7
+D7
+~
+~
+0 -1 22034
+D8
+~
+~
+0 -1 22036
+S
+#22036
+In the Ocean near an Island~
+You are now in the Infinite Ocean.  Near you to the southeast is an island
+of sorts.  It looks rather evil from this vantage point.  But who says its
+really like that?  In all directions as far as you can see the ocean travels
+except to the north and northwest where you can travel back to the 'Wild
+Lands.'
+~
+0 0 7
+D7
+~
+~
+0 -1 22035
+S
+#22037
+Intersection~
+You stand on a small path that leads into forests.  To the south, dark trees
+and howling can be heard, while to the west, shadowy mists block out much of
+the view of the rather large trees.  Back to the east, the Beach of D'Hara
+lies, waiting to be crossed.  To the north, a large, eerie mansion stands.
+Its mere presence is making you tremble.  A small whimper is echoed through
+out the area and beyond.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 4600
+D1
+~
+~
+0 -1 10100
+D2
+~
+~
+0 -1 22038
+D3
+~
+~
+0 -1 1306
+S
+#22038
+Dark Forest~
+You are almost completely surrounded in trees.  Not much else lives here, you 
+think.  Most of the grass that you see is dead.  Not much plant life other 
+than the trees grow either.  There is a path of dirt that heads to the north
+and south.  To the north look to be an intersection and to the south more
+of these trees.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 22037
+D2
+~
+~
+0 -1 22039
+S
+#22039
+Dark Forest~
+You are now completely surrounded in trees with the exception to the small
+man made path to the north and south.  Its dead silent here.  Not even the
+trees rustle to the light breeze.  The towering trees glare down at you
+in icy silence.  To the north and south this desolate forest continues.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 22038
+D2
+~
+~
+0 -1 22040
+S
+#22040
+Dark Forest~
+The path has made a direction change through the trees.  Now you can either
+head east or back to the north.  A small breeze covers your face and smells
+of death.  You choke a second on its deathly gauze and then recover.  This is
+a terrible place to be.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 22039
+D1
+~
+~
+0 -1 22041
+S
+#22041
+Dark Forest~
+To the east and west you see much more of the same.  Towering trees that
+consume you in their wrath.  The look to be figures of death.  The stale, 
+death wind that caresses your face is constantly leaving you a breath short.
+You had better be able to get out of here before you suffocate.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 22042
+D3
+~
+~
+0 -1 22040
+S
+#22042
+Dark Forest~
+You now stand at the end of the path.  Before you is the biggest tree you
+have ever seen.  A small area has been carved from it and looks to be 
+passable.  The smell of death is abundant here and you are nearly passed
+out from the lack of breath.  You can either enter the tree to the east or
+head back to the west.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 13400
+D3
+~
+~
+0 -1 22041
+S
+#22043
+To the Underworld~
+You have passed the small sign advising you NOT to come here.  You blow it off
+lightly until you notice what it is that you are standing in.  The entire
+world is black now.  You notice a small circle of light to the west, in which
+you came and below you is a low grumble of red.  There looks to be a pass
+into the depths of the Underworld.  They look to be the only ways in which you
+want to go.
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 4201
+S
+#22044
+To the Underworld~
+You are standing in a red taint.  You cannot see through the thick smaug of
+blood red.  You are very tight in this small pass.  You have to squeeze 
+yourself up and down slightly to get anywhere.  To the down you feel an
+ungodly breeze of scorching hot and frost cold.  You cant see anything up
+but you know its much safer than that terror that lies to the down.
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 601
+S
+#22045
+Path to Harmony~
+The woods here seem a bit lighter. There is the sound of 
+music in the air. There are some birds here, and wildlife.
+It seems the forest is ending. To the north you can
+see the Gates of Harmony, enterence to the Bardic
+School. That seems more inviting than the forest around you.
+~
+0 0 3
+D0
+~
+~
+0 -1 13701
+D2
+~
+~
+0 -1 5261
+S
+#0
+
+
+#RESETS
+O 1 22000 1 22001
+M 1 22000 1 22002
+M 1 22001 1 22002
+O 1 22000 1 22003
+M 1 22002 1 22013
+M 1 22003 1 22014
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  22000 spec_poison
+S
+
+
+#$

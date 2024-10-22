@@ -1,0 +1,1632 @@
+#AREA   The City of Stone~
+
+
+
+#AUTHOR Nevyn~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51198776
+
+#MOBILES
+#5800
+guardian stone warder~
+the Stone Warder~
+The Stone Warder examines you with an expressionless face
+~
+You are not sure whether this is a statue or a living being.  Its skin
+and clothes are stone-colored, and the only things moving are its
+expressionless eyes.  It seems unarmed, yet its pose reveals it is a trained
+killer that doesn't need a weapon.
+~
+67 270532608 0 S
+45 0 0 10d137+891 5d9+22
+612 0
+8 8 1
+#0
+
+
+#OBJECTS
+#5800
+boots stoneboots~
+a pair of stoneboots~
+A pair of heavy looking stone boots stands here~
+~
+9 0 1
+10 10 10 -5
+5 690 69
+A
+5 1
+A
+19 3
+A
+2 -4
+A
+1 3
+#5806
+stick y~
+an odd Y-shaped stick~
+An odd, y-shaped petrified stick lies here, seeming very misplaced.~
+~
+18 0 1
+0 0 0 0
+10 0 0
+#0
+
+
+#ROOMS
+#5800
+The entrance to the City of Stone~
+You find yourself standing before a city with enormous, grey houses. 
+Everything inside this impressive city seems to be made out of stone, and
+although thousands or people could easily have fitted in here, you see no
+signs of life.  The wind seems to have gotten stronger, and you almost hear
+it making a sad yet frightening tune as it blows through this depressing
+city.  You feel an urge to turn around and run as you never ran before, but
+if you manage to suppress it you can look north, to see if there is a way
+into this godforsaken place.
+~
+0 1 1
+D0
+From far away, these gates almost seem to be made out of metal, but when
+you look closer, you see that they are made out of stone, just like
+everything else here.  You notice that there is no visible lock mechanism. 
+What is the point of having a gate you cannot lock?  You ask yourself.  
+~
+stonegate~
+3 0 5801
+D2
+~
+~
+0 0 474
+S
+#5801
+Main street~
+As you go along this street you feel cold to the bones.  The wind is
+still singing among the houses, but the main reason for your chill is the
+emptiness of this place.  This street is huge, 10 abreast could easily have
+walked here if it wasn't for the fact that you cannot imagine this place
+ever lived.  Death seems inviting in comparison.
+~
+0 4 1
+D0
+~
+~
+0 0 5802
+D2
+~
+~
+3 0 5800
+S
+#5802
+Main street~
+You keep walking on Main street.  The windows in the houses seem to
+be watching you like big, soulless eyes.  So far you haven't seen anything
+else but stone, and you start noticing piles of rocks and rubble, as if the
+houses were bleeding stone.  West of you is an entrance to one of the
+stone buildings that seems to be pretty intact, but you wonder what is
+better, freezing out here or entering one of these dead (dying?)  buildings.
+~
+0 0 1
+D0
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5803
+S
+#5803
+Inside a building~
+You are safe from the wind in here, but the chill has become worse.  The
+wind is still howling outside.  Everywhere inside this room are shadows,
+shadows which seem alive, cringing away from your light.  On the floor you
+see a piece of paper, but as you look closer you see it's a piece of stone. 
+It seems to have some marks on it.  Stone Stairs with stone banisters lead
+upstairs to even darker premises, and the door behind you leads back out to
+Main street.
+~
+0 1 0
+D1
+~
+~
+0 0 5802
+D4
+~
+~
+0 0 5805
+E
+stone~
+You look at the piece of stone and discover that it indeed was a piece of
+paper once.  Most of the text on the paper is small and unreadable, but you
+manage to decipher the big text on the top of the paper to: "part o bway
+cave in 1 ured" Wonder what it says in whole?  
+~
+E
+paper~
+You look at the piece of stone and discover that it indeed was a piece of
+paper once.  Most of the text on the paper is small and unreadable, but you
+manage to decipher the big text on the top of the paper to: "part o bway
+cave in 1 ured" Wonder what it says in whole?  
+~
+S
+#5804
+Main street~
+More piles of rocks surround the houses as you continue going north on
+Main street.  The houses have occasional cracks and holes, looking like open
+wounds.  You wonder who built this city.  The houses seem to be made out of
+one single stone, but that couldn't be.  Or could it?  Most doorways you
+have seen so far are impossible to pass through, something you find just as
+good.  East of here, a street branches off from Main street, leading to
+somewhere unknown.
+~
+0 0 1
+D0
+~
+~
+0 0 5809
+D1
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5802
+S
+#5805
+~
+You climb the stairs and find yourself in almost total darkness.  The
+light from your lightsource ends abruptly a few feet from you as if it had
+hit a wall, although you are sure this room is bigger.  Something is wrong
+here, but you cannot put your finger on what.  Everytime you reach for the
+thought, it slips away.  The only exit out from this room is back down to
+where you came from.
+~
+0 1 0
+D5
+~
+~
+0 0 5803
+S
+#5806
+Street of stone~
+The buildings of this street seem more (wounded) collapsed than those on
+Main Street.  To your north you see a big, collapsed entrance to something. 
+It's impossible to pass through, but above it you see a big sign.  Wondering
+where it leads you look around, but the only odd thing you notice is a
+circle with some marks on it.  To the east you see a building that
+surrendered in the fight against (death) decay.
+~
+0 0 1
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5804
+D5
+The lid seems to be unopened for such long time that you wonder if you
+ever can open it.  Upon closer examination, after brushing some dust and
+rubble away, you discover two small holes placed in the center of the lid. 
+Probably for some sort of opening device.  Now, where is the key?  
+~
+lid~
+6 5806 5819
+E
+marks~
+You can't decide whether the marks are letters or numbers, but you see
+now that what you thought was a circle is really some sort of lid.  Wonder
+what hides beneath it?  
+~
+E
+circle~
+Looking closer at the circle you still can't make out what the marks are,
+but now you see that it's more than a circle.  It's a lid, covering an
+entrance to something.  
+~
+E
+sign~
+This is a huge sign, but unfortunately it only has the first two letters,
+SU, left on it.  You decide it's not worth to add to your troubles with the
+meaning of this sign.  Maybe the circle can give some more clues?  
+~
+S
+#5807
+A collapsed building~
+As you see this collapsed building a weird sentimentality gets to you. 
+You feel sorry for the building in a weird way, as if it was a living being
+that was lying here, struggling through its last hours in life.  The wind
+rages, and another stone falls down from the collapsed wall of this
+building.  As the stone falls, the wind seems to snicker, but you are sure
+it is only your imagination.  The collapsed building blocks the road
+westwards, but the pile seems pretty stable, and you think you might be
+able to climb it.
+~
+0 0 1
+D3
+~
+~
+0 0 5806
+D4
+~
+~
+0 0 5808
+S
+#5808
+On top of the pile of stone~
+The climb was pretty hard, but you finally made it to the top.  As you
+catch your breath, you freeze in terror.  For an instant the hole in the
+collapsed building looks like an open, infected wound on a giant body.  You
+blink, startled, and see that it was just a hallucination (was it?)  You
+examine your options and find that the pile is too steep on all sides except
+for the way from where you came.  You turn around to start making your way
+down, as a flicker of movement near the hole (wound) catches your eye.
+~
+0 0 1
+D5
+~
+~
+0 0 5807
+S
+#5809
+Main street~
+Main street continues north from here, and further up you see a bridge. 
+You begin to wish for something else than stone, and glance at the sky. 
+Horrified, you realize that even the clouds are stone-colored.  You see no
+motion among them although the wind surely must rage up there too.  With a
+shiver you decide to keep moving before you get too depressed.
+~
+0 0 1
+D0
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5804
+S
+#5810
+Main street~
+You are surprised to see two doorways, one to the east and one to the
+west, that are completely intact.  The building to the west seems huge, and
+you see no holes and (wounds) cracks in it.  Something about this place,
+something you still haven't been able to put your finger on, is disturbing
+you.  You look to the east and west, unable to determine whether you should
+enter one of the buildings or go for the bridge.
+~
+0 0 1
+D0
+~
+~
+0 0 5815
+D1
+~
+~
+0 0 5811
+D2
+~
+~
+0 0 5809
+D3
+~
+~
+0 0 5812
+S
+#5811
+Some kind of store~
+Once you enter through the doorway you immediately recognise this place
+as some kind of store.  Shelves of stone are everywhere, but although no one
+seems to have been here for ages there is no sign of cobwebs or dust.  This
+cursed place doesn't even smell!  Maybe it's best to return home, because
+your sanity seems to get dented and bent by all this.  The shelves are
+empty, the only signs of movement is the furious howls of the wind outside. 
+Making sure you've looked everywhere, you decide the only exit from here is
+the one through which you came.
+~
+0 0 0
+D3
+~
+~
+0 0 5810
+S
+#5812
+A huge entrance hall~
+Upon entering this room you are taken abash by the size of it.  You
+estimate the height to 30 or more feet, and you are sure it's at least 300
+feet across.  The only item in sight is a big desk to the right of the
+entryway.  The size of this room and the lack of objects allow a spooky echo
+to play with the sounds you make.  Because of the echo the wind sounds very
+distant and the rage now sounds melancholic.  To the west this huge room
+continues, to the east is the way out to Main Street.
+~
+0 0 0
+D1
+~
+~
+0 0 5810
+D3
+~
+~
+0 0 5813
+S
+#5813
+A podium of sorts~
+Three small steps lead up to the middle of this huge room, creating a
+podium of sorts.  The sound of your steps bounces between the walls and you
+notice even the echo sounds dull.  Once in a while the wind hits the
+entrance way with full force and the sound is turned into a grotesque
+soulless scream.  The whole room is stone grey, not a hint of color anywhere
+just like the rest of the city you have seen so far.  Even your clothes and
+equipment seem to be fading in color as if some vampiric being was feeding
+upon it.  On the walls hang huge decorations.  They could have been giant
+mats if it wasn't for the fact that they are made of stone.  To the west you
+see the end of the hall, the way to the east provides you with the option of
+stepping outside once again.
+~
+0 0 0
+D1
+~
+~
+0 0 5812
+D3
+~
+~
+0 0 5814
+S
+#5814
+Three vertical tunnels~
+The huge hall ends here, but three doorways in the west wall lead further
+into this (tomb) building.  You inspect each doorway and to your amazement
+you see that they are not rooms as you thought, but vertical tunnels.  In
+each tunnel a ladder, of stone of course, is attached to the wall.  You look
+up and down in all three tunnels seeing one open doorway further up in one
+of them.  Otherwise you see but darkness.  You think you can make it up the
+ladder to the single doorway, but you cannot be sure.  As if to point
+something out, the wind hits the doorway with stronger force than ever, as
+if it wanted to tear down the wall and get inside.
+~
+0 0 0
+D1
+~
+~
+0 0 5813
+D4
+~
+~
+0 0 5887
+S
+#5815
+Bridge at Main street~
+This bridge is one of the biggest you've seen.  You think that once water
+ran under it but now it's as dry as a desert.  Here, where there are no
+buildings to protect you, the wind rages against you as if wanting to push
+you off the bridge.  The tune that once was only sad now seems more furious
+than sad.  You wonder if the gigantic oval-shaped building past the bridge
+holds something not ment for you to see.  East you see a path that seems to
+lead down to under the bridge.
+~
+0 0 1
+D0
+~
+~
+0 0 5816
+D1
+~
+~
+0 0 5898
+D2
+~
+~
+0 0 5810
+S
+#5816
+the Stonebridge~
+The bridge continues heading towards that enormous building.  You look
+over the railing and see a very deep fall ending with stone you wouldn't want
+to experience.  The wind seems to be stronger the closer to the railing you
+get, wanting to push you over.  Looking back on the city, you shudder
+uncomfortably.  It seems dead, yet something seems to be stirring under the
+surface.  You feel that if you get out of here alive, you don't want to see
+another stone.
+~
+0 0 1
+D0
+~
+~
+0 0 5817
+D2
+~
+~
+0 0 5815
+S
+#5817
+the Stonebridge~
+As you come closer to the big stone building, you see it's even bigger
+than you thought.  The wind has now changed direction and is blowing right
+at you, pushing you back towards the city.  You think you almost can make
+out voices in the wind.  You cannot hear any words, and you are grateful for
+that, since you suspect you would go mad if you could.  Looking down you see
+occasional cracks in the stone, and they seem to increase northwards.  Maybe
+this is the time to turn around?
+~
+0 0 1
+D0
+~
+~
+0 0 5818
+D2
+~
+~
+0 0 5816
+S
+#5818
+Abrupt end of the Stonebridge~
+This close to the building the wind suddenly changes direction, pushing
+you forward instead of backward.  You realize just in time that a section in
+the bridge is gone, and manage to save yourself from a fall to your death by
+throwing yourself backwards.  The gigantic building ahead seems so close, if
+you only could get across this hole in the bridge, but with the wind raging
+it's too dangerous to try.  The building stands tall ahead of you, gates
+looking like a giant mouth.  For a while you think you can hear wicked
+laughter, but that must have been your imagination.  You face the fact that
+the only thing you can do at this point is head back to the city.
+~
+0 0 1
+D2
+~
+~
+0 0 5817
+S
+#5819
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5820
+D1
+~
+~
+0 0 5821
+D2
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5823
+D4
+~
+~
+6 0 5806
+S
+#5820
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5836
+D1
+~
+~
+0 0 5835
+D2
+~
+~
+0 0 5819
+S
+#5821
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5833
+D2
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5819
+S
+#5822
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5819
+D2
+~
+~
+0 0 5830
+S
+#5823
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5819
+D3
+~
+~
+0 0 5824
+S
+#5824
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5823
+D2
+~
+~
+0 0 5826
+D3
+~
+~
+0 0 5825
+S
+#5825
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5824
+S
+#5826
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5824
+D1
+~
+~
+0 0 5828
+D2
+~
+~
+0 0 5827
+S
+#5827
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5826
+S
+#5828
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5829
+D3
+~
+~
+0 0 5826
+S
+#5829
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5828
+D1
+~
+~
+0 0 5830
+S
+#5830
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5829
+S
+#5831
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5821
+D1
+~
+~
+0 0 5832
+S
+#5832
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5831
+S
+#5833
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5834
+D2
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5821
+S
+#5834
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5835
+S
+#5835
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5820
+S
+#5836
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5837
+D2
+~
+~
+0 0 5820
+S
+#5837
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5838
+D2
+~
+~
+0 0 5836
+S
+#5838
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5842
+D1
+~
+~
+0 0 5841
+D2
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5839
+S
+#5839
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5840
+D1
+~
+~
+0 0 5838
+S
+#5840
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5839
+D5
+~
+~
+0 0 5844
+S
+#5841
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5843
+D3
+~
+~
+0 0 5838
+S
+#5842
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5843
+D2
+~
+~
+0 0 5838
+S
+#5843
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5841
+D3
+~
+~
+0 0 5842
+S
+#5844
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5845
+D4
+~
+~
+0 0 5840
+S
+#5845
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5852
+D1
+~
+~
+0 0 5846
+D2
+~
+~
+0 0 5844
+S
+#5846
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5847
+D3
+~
+~
+0 0 5845
+S
+#5847
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5848
+D3
+~
+~
+0 0 5846
+S
+#5848
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5849
+D3
+~
+~
+0 0 5847
+S
+#5849
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5848
+D2
+~
+~
+0 0 5851
+D3
+~
+~
+0 0 5850
+S
+#5850
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5849
+S
+#5851
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5849
+S
+#5852
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5854
+D2
+~
+~
+0 0 5845
+D3
+~
+~
+0 0 5853
+S
+#5853
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5855
+D1
+~
+~
+0 0 5852
+S
+#5854
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5856
+D2
+~
+~
+0 0 5852
+D3
+~
+~
+0 0 5855
+S
+#5855
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5854
+D2
+~
+~
+0 0 5853
+S
+#5856
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5858
+D2
+~
+~
+0 0 5857
+D3
+~
+~
+0 0 5854
+S
+#5857
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5856
+D1
+~
+~
+0 0 5859
+S
+#5858
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5859
+D3
+~
+~
+0 0 5856
+S
+#5859
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5858
+D1
+~
+~
+0 0 5860
+D3
+~
+~
+0 0 5857
+S
+#5860
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5861
+D1
+~
+~
+0 0 5862
+D3
+~
+~
+0 0 5859
+S
+#5861
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5860
+S
+#5862
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5860
+S
+#5863
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5862
+D3
+~
+~
+0 0 5864
+S
+#5864
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5863
+D3
+~
+~
+0 0 5865
+S
+#5865
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5864
+D3
+~
+~
+0 0 5866
+S
+#5866
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5865
+D3
+~
+~
+0 0 5867
+S
+#5867
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5866
+D3
+~
+~
+0 0 5868
+S
+#5868
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5867
+D4
+~
+~
+0 0 5869
+S
+#5869
+~
+~
+0 0 0
+D4
+~
+~
+0 0 5870
+D5
+~
+~
+0 0 5868
+S
+#5870
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5871
+D5
+~
+~
+0 0 5869
+S
+#5871
+outside the great dome~
+~
+0 0 0
+D0
+~
+~
+0 0 5872
+D2
+~
+~
+0 0 5870
+S
+#5872
+inside the dome~
+~
+0 0 0
+D2
+~
+~
+0 0 5871
+S
+#5873
+Partly collapsed stair room~
+~
+0 0 0
+D1
+~
+~
+0 0 5874
+D5
+~
+~
+0 0 5897
+S
+#5874
+Hallway in resistance headquarters~
+~
+0 0 0
+D1
+~
+~
+0 0 5875
+D3
+~
+~
+0 0 5873
+S
+#5875
+Hallway in resistance headquarters, cages.~
+~
+0 0 0
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5878
+D2
+~
+~
+0 0 5877
+D3
+~
+~
+0 0 5874
+S
+#5876
+Cage of light~
+~
+0 0 0
+D2
+~
+~
+0 0 5875
+S
+#5877
+Cage of darkness~
+~
+0 0 0
+D0
+~
+~
+0 0 5875
+S
+#5878
+Inner resistance headquarters~
+~
+0 0 0
+D0
+~
+~
+0 0 5879
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5875
+S
+#5879
+Inner resistance headquarters~
+~
+0 0 0
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5878
+S
+#5880
+Chapel in resistance headquarters~
+~
+0 0 0
+D0
+~
+~
+0 0 5878
+S
+#5881
+Inner resistance headquarters~
+~
+0 0 0
+D1
+~
+~
+0 0 5883
+D2
+~
+~
+0 0 5882
+D3
+~
+~
+0 0 5879
+S
+#5882
+Resistance' weaponry~
+~
+0 0 0
+D0
+~
+~
+0 0 5881
+S
+#5883
+Inner resistance headquarters~
+~
+0 0 0
+D1
+~
+~
+0 0 5885
+D2
+~
+~
+0 0 5884
+D3
+~
+~
+0 0 5881
+S
+#5884
+Resistance' supply room~
+~
+0 0 0
+D0
+~
+~
+0 0 5883
+S
+#5885
+Heart of the resistance~
+~
+0 0 0
+D1
+~
+~
+0 0 5886
+D3
+~
+~
+0 0 5883
+S
+#5886
+Heart of the resistance~
+~
+0 0 0
+D3
+~
+~
+0 0 5885
+S
+#5887
+Vertical tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 5889
+D1
+~
+~
+0 0 5888
+D5
+~
+~
+0 0 5814
+S
+#5888
+Guard room at vertical tunnel~
+~
+0 0 0
+D0
+~
+~
+0 0 5890
+D3
+~
+~
+0 0 5887
+S
+#5889
+Hallway at vertical tunnel~
+~
+0 0 0
+D1
+~
+~
+0 0 5890
+D2
+~
+~
+0 0 5887
+S
+#5890
+Guarded hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 5891
+D2
+~
+~
+0 0 5888
+D3
+~
+~
+0 0 5889
+S
+#5891
+Hallway at destroyed offices~
+~
+0 0 0
+D0
+~
+~
+0 0 5894
+D1
+~
+~
+0 0 5893
+D2
+~
+~
+0 0 5892
+D3
+~
+~
+0 0 5890
+S
+#5892
+Destroyed office~
+~
+0 0 0
+D0
+~
+~
+0 0 5891
+D1
+~
+~
+0 0 5895
+S
+#5893
+Destroyed office~
+~
+0 0 0
+D2
+~
+~
+0 0 5895
+D3
+~
+~
+0 0 5891
+S
+#5894
+Hallway at cleaning closet~
+~
+0 0 0
+D0
+~
+~
+0 0 5897
+D1
+~
+~
+0 0 5896
+D2
+~
+~
+0 0 5891
+S
+#5895
+Another destroyed office~
+~
+0 0 0
+D0
+~
+~
+0 0 5893
+D3
+~
+~
+0 0 5892
+S
+#5896
+Cleaning closet~
+~
+0 0 0
+D3
+~
+~
+0 0 5894
+S
+#5897
+Partly collapsed stair room~
+~
+0 0 0
+D2
+~
+~
+0 0 5894
+D4
+~
+~
+0 0 5873
+S
+#5898
+Path beside the Stonebridge~
+You stand on a path beside the bridge.  You are shocked to see that it
+seems to be a path made by living things...  But it is made out of stone. 
+Who could have made this?  The stone in the path has crumbled in some
+places, making it very dangerous to climb.  Looking downwards you see that
+even the bottom where you assume the river once flowed is made out of stone.
+Could it be that someone or something built a place entirely out of stone? 
+You are not sure if you want to know the answer, and concentrate on deciding
+whether you can make it down this path or not.
+~
+0 0 1
+D3
+~
+~
+0 0 5815
+D5
+~
+~
+0 0 5899
+S
+#5899
+Under the Stonebridge~
+You climb the path, concentrating on not slipping.  The bottom seems
+awfully hard, and you wouldn't want to loose grip.  Suddenly, the wind that
+was roaming the streets starts blowing down here.  It increases in strength
+until you cannot fight it anymore.  You lose your grip and fall towards the
+bottom.  As you fall towards your death, you hear shrill, soulless voices,
+some roaring furiously, some laughing hysterically.
+~
+0 4 0
+S
+#0
+
+
+#RESETS
+M 1 5800 1 5800
+E 1 5800 1 8
+D 0 5800 0 1
+D 0 5801 2 1
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

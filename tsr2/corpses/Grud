@@ -1,0 +1,76 @@
+#CORPSE
+Name         corpse Grud~
+ShortDescr   the corpse of Grud~
+Description  The corpse of Grud is crawling with vermin.~
+Vnum         11
+Room         8779
+ExtraFlags   4194304
+Timer        11
+Values       0 0 2 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         10333
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14401
+Level        1
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14400
+Level        1
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14403
+Level        1
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14402
+Level        1
+Values       4 7 0 0 0 0
+End
+
+#OBJECT
+Nest         1
+Vnum         14404
+Level        1
+Values       12 1 6 11 0 0
+End
+
+#CORPSE
+Name         corpse Grud~
+ShortDescr   the corpse of Grud~
+Description  The corpse of Grud fills the air with a foul stench.~
+Vnum         11
+Room         8779
+ExtraFlags   4194304
+Timer        21
+Values       0 0 3 1 0 0
+End
+
+#CORPSE
+Name         corpse Grud~
+ShortDescr   the corpse of Grud~
+Description  The corpse of Grud is buzzing with flies.~
+Vnum         11
+Room         8779
+ExtraFlags   4194304
+Timer        30
+Values       0 0 4 0 0 0
+End
+
+#END
+

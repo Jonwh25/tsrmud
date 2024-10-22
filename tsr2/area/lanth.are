@@ -1,0 +1,950 @@
+#AREA   Port Lanth~
+
+
+
+#AUTHOR Echo~
+
+#RANGES
+10 50 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51228867
+
+#MOBILES
+#3876
+Jalinto~
+Jalinto the Barkeeper~
+Jalinto the Barkeeper is here scolding a wench.
+~
+This man seems to know his stuff when it comes to running businesses.
+His pub is the most prosperous shop in the port town. Many know of his
+girls all over the realms. For a paltry few, you too can enjoy the luxury
+of his wenches.
+~
+65 1081 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3877
+Lilandra~
+Lilandra~
+Lilandra is waiting to serve her master.
+~
+Lilandra seductively bats her eyelashes at you. She is striking, with
+long red hair, quite uncommon to these parts. It makes you wonder
+where her pimp got her from.
+ 
+Lilandra says "Thank you for choosing me. Now I can show you what real 
+fun is!"
+~
+65 1081 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3878
+Kirin~
+Kirin~
+Kirin, your green eyed minx is waiting your desires.
+~
+Kirin says 'Do you think that I am here to grant you your every whim?"
+Kirin shakes her head no, then lowers her eyes submissively and speaks.
+Kirin says 'You have bought me, but you will never own my soul!"
+She tosses her head and shakes her long black hair out. Her green eyes
+then meet yours. You see a sadness that is overpowering.
+~
+65 1081 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3879
+burly sailor~
+a burly sailor~
+A burly sailor hurries by with a crate on his shoulder.
+~
+This scruffy man in his sailor hat and red and white striped shirt looks
+as if he needs a good bath. His beard growth suggests he hasnt shaved in
+two weeks.
+~
+65 1081 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3880
+a wimpy sailor~
+a wimpy sailor~
+A small wimpy looking sailor slinks by you.
+~
+Very short and scrawny, this sailor looks as if he is taken along a voyage
+just to feed the sharks! He is clean cut with big blue eyes? Wait a minute,
+its a GIRL! There is no mistaking it! SHE has rounded hips and tiny hands,
+just like a woman. She must have left her family and tried to steal passage
+aboard a boat.
+~
+65 1081 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3881
+baker assistant~
+The Baker's Assistant~
+The Baker's Assistant is waiting for your order.
+~
+Young into the baking business, this assistant is learning the ropes to make
+bread, hopefully something edible! He sports one of those silly big chef's
+hats and flashes you a toothy grin.
+~
+65 1081 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3882
+fisherman~
+Fisherman~
+The fisherman is here holding a string of fresh fish.
+~
+His hands are weathered as if he has been out at sea a few years too
+many. His hair is greying and falling out. His skin is old and weatherd
+as well. You see knowledge in his deep blue eyes. Many years at sea has
+beaten and roughened this tough old fisherman.
+~
+65 1081 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3883
+Madam Larour~
+Madam Larour~
+Madam Larour, the gypsy, is waiting to tell your future.
+~
+This woman with her long dark hair and long finger nails makes you shudder.
+Her green eyes pierce into your soul as if searching for answers to who you
+truely are. Her long robes and large hoop earring is the traditional
+gypsy garb, but she only wears it for show. She looks older than she
+says, but her knowledge is well beyond her years.
+~
+65 1081 0 C
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#3895
+Sophy~
+Sophy~
+Sophy stands here filing her fingernails.
+~
+Her long blonde, waistlength hair flows out behind her.  Her dark red
+cape fits snugly over her shoulders.  Her attire beneath the cape leaves
+nothing to the imagination.  You notice that her appearance outwards is a
+normal strict elf attire, but a heat burns deep within her soul.
+~
+65 1081 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 699 0 0 0 1073754176 4163
+#0
+
+
+#OBJECTS
+#3876
+ale tankard~
+a small tankard of ale~
+A beat up metal tankard has been left here.~
+~
+17 0 1
+5 5 3 0
+1 10 1
+#3877
+shadow rum jigger~
+a jigger of shadow rum~
+A jigger of shadow rum is here.~
+~
+17 0 1
+1 1 5 0
+2 20 2
+#3878
+small wooden table~
+a small wooden table~
+A small wooden table is situated in a dark corner.~
+~
+12 0 0
+2 1000 8200 10
+1 0 0
+#3879
+parlor key~
+the parlor key~
+A small parlor key hangs by a ribbon on the hook on the wall.~
+~
+18 0 1
+0 0 0 0
+1 1 0
+#3880
+anise loaf~
+a loaf of anise bread~
+Fresh bread is always good, but never when left behind.~
+~
+19 0 1
+5 0 0 0
+2 50 5
+#3881
+lovage seed bread~
+a small loaf of lovage seed bread~
+Left to mold, a lovage seed loaf is resting here.~
+~
+19 0 0
+8 0 0 0
+2 75 7
+#3882
+sage oat cakes~
+a sage oat cake~
+A small round sage oat cake makes your taste buds water.~
+~
+19 0 1
+10 0 0 0
+5 100 10
+#3883
+crawdad~
+a dozen crawdads~
+A small handfull of crawdads look quite delicious!~
+~
+19 0 1
+12 0 0 0
+12 100 10
+#3884
+calamari~
+calamari~
+A few leftover pieces of calamari have been left here to dry.~
+~
+19 0 1
+5 0 0 0
+5 50 5
+#3885
+fish blood~
+a vial of fish blood~
+A small vial of red liquid has been misplaced.~
+~
+10 0 1
+40 39 -1 19
+10 500 50
+#3886
+bangles~
+a bunch of golden bangles~
+Madam Larour has left her beloved bangles here.~
+~
+9 0 1
+50 50 50 75
+3 20000 2000
+E
+bangle~
+These bangles came all the way from the underground makers.  They are
+specially crafted for a magic user, but any who find shall be completely
+rewarded with their luck.  
+~
+A
+3 4
+A
+18 10
+A
+19 10
+A
+13 -100
+A
+12 -50
+A
+4 2
+A
+1 -3
+A
+2 -2
+#0
+
+
+#ROOMS
+#3876
+A small path to the ocean.~
+Tired and hungry from your journey, the breeze from the ocean brings a
+smile to your face. Where there is water, there are people. Where there
+are people there is food and drink, and possibly a place to rest. As you
+walk farther, you can smell the mouth watering aroma of baking bread.
+You stop and count your money here, for who knows what this port town
+may have. Thiefs and bandits may reside there, eyeing you and your 
+hefty wallet. Soon the dirt path gives way to crushed ocean shells.
+Crunching as you walk, you see that the entire road before you, all the
+way to the wharf, is made of these shells. On this main road you feel
+safe, for if anyone were to attack you, you would hear them coming first.
+~
+0 0 1
+D3
+~
+~
+0 0 3877
+D4
+~
+~
+0 0 450
+S
+#3877
+Seashell Lane.~
+The shells below your feet are quite a change from what you are used to.
+You have to watch your feet so that you can keep your footing, atleast
+until you get used to it. It seems as if the port town is getting farther
+away, yet it is right in front of you! You hope that there is a nice
+inn where you can rest from your travels. A small sign to the right
+looks to have a type of map and letters on it. Back to the east is the
+road towards to interior, and to the west, the Seashell Lane continues.
+~
+0 0 1
+D1
+~
+~
+0 0 3876
+D3
+~
+~
+0 0 3878
+E
+sign~
+The sign reads:
+ 
+          |----------------------------------------|
+          | WELCOME TO OUR FINE PORT TOWN. WE HOPE |
+          | YOU ENJOY OUR HOSPITALITY, FOR FAR OUT |
+          | ON THE OCEAN, YOU WILL HAVE ONLY THE   |
+          | FISH TO KEEP YOU COMPANY.  - the CAPT. |
+          |                                        |
+          |                                        |
+          |________________________________________|
+                              ||
+                              ||
+                              ||
+                              ||
+                         \|/\||||/\|/
+~
+S
+#3878
+Seashell Lane.~
+Trodding along, you set a picture in your mind for the layout of this
+small port town. There seem to be numerous shops, for baking, for sea-
+food, and even for leather goods. The wharf has a dock and a cargo
+crane. A few stores face the water. Beyond the docks you see the great
+expanse of ocean, beckoning for you to join it on some journey that
+will take you far from dry land. All around, there are people of all
+ages bustling in and out of shops and around the wharf. Most of the men
+though are muscular seamen who could break you in two like a twig.
+The style of buildings is very simple, boxlike with bay windows. To
+the north you see a window with a few meats and a lot of fish hanging.
+The sign above the door says  "Fresh Catches". To the south, loaves of
+freshly baked bread decorate the large window. Not surprising, the sign
+says "Bakery".
+~
+0 0 1
+D0
+~
+~
+0 0 3879
+D1
+~
+~
+0 0 3877
+D2
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3881
+S
+#3879
+Fresh Catches!~
+This place reeks with smelly seafood and untanned animal hides. There
+is a rack of drying meat on the left and to the right there is a large
+bin full of ice to keep the oceanic delectables cold. A sign on the 
+counter reads out the prices of the day for fresh catches. On the
+far back wall, there is a fisherman's net hanging up, proudly showing
+that the proprietor of the store once sailed the seas himself. Holding
+your nose, you wish to stay as short of a time as possible in here.
+~
+0 8 1
+D2
+~
+~
+0 0 3878
+S
+#3880
+Port Bakery.~
+Breads, breads, and MORE breads! The man behind the counter, the baker's
+assistant, gives you a toothy grin as you walk around the fresh bread
+shopppe. There are breads of all different colors, shapes, and consistancies.
+Large round black bread loaves and small dinner rolls are just to name a 
+few. Your mouth waters as you scan the shoppe's wares. A basket marked
+"Day old Bread" sits next to the counter, but alas, it is empty. In the very
+back of the shoppe, you notice a man with a large white hat pounding and
+kneeding a large lump of dough.
+~
+0 8 0
+D0
+~
+~
+0 0 3878
+S
+#3881
+Seashell Lane.~
+Trodding along, you set a picture in your mind for the layout of this
+small port town. There seem to be numerous shops, for baking, for sea-
+food, and even for leather goods. The wharf has a dock and a cargo
+crane. A few stores face the water. Beyond the docks you see the great
+expanse of ocean, beckoning for you to join it on some journey that
+will take you far from dry land. All around, there are people of all
+ages bustling in and out of shops and around the wharf. Most of the men
+though are muscular seamen who could break you in two like a twig.
+The style of buildings is very simple, boxlike with bay windows.
+~
+0 0 1
+D1
+~
+~
+0 0 3878
+D3
+~
+~
+0 0 3882
+S
+#3882
+Seashell Lane.~
+Trodding along, you set a picture in your mind for the layout of this
+small port town. There seem to be numerous shops, for baking, for sea-
+food, and even for leather goods. The wharf has a dock and a cargo
+crane. A few stores face the water. Beyond the docks you see the great
+expanse of ocean, beckoning for you to join it on some journey that
+will take you far from dry land. All around, there are people of all
+ages bustling in and out of shops and around the wharf. Most of the men
+though are muscular seamen who could break you in two like a twig.
+The style of buildings is very simple, boxlike with bay windows.
+To the north, the window to the shop is cracked and the door is boarded
+up. The sign is barely legible "The Print Master". Perhaps you can 
+squeeze through the giant crack in the window. To the south, the small
+shop is a small tavern and inn. It looks as if there are a few rooms to
+be let and judging by the noise, you can get a good drink there too.
+~
+0 0 1
+D0
+~
+~
+0 0 3883
+D1
+~
+~
+0 0 3881
+D2
+~
+~
+0 0 3884
+D3
+~
+~
+0 0 3899
+S
+#3883
+The Wharf Warbler.~
+The squeeze through the crack in the door was a tight one, but you managed
+to get in none the less. It seems as if the Print Master was run out of
+town, for his presses look as if they were getting ready for another 
+edition of the Warbler. A type case rests on a table near the press, filled
+with different sizes and types of fonts. All over the walls are old sheets
+of the once run newspaper. A sign is posted on the wall in plain view for
+all to see. The counter is cluttered with bottles of ink and small paper with
+writing all over it. Large plumes are kept neatly in a small jar to the far
+end of the counter, as if ready to use at a moments notice. The dust all
+around the place gives you an idea as to how long this place has been shut
+down.
+~
+0 8 0
+D2
+~
+~
+0 0 3882
+E
+sign~
+This is to lit all no that this stor is closed for now and all tim.
+Tha man that werked here wuz evikted bekaze we have no ned for readin.
+ 
+          - tha sailor mayor
+~
+S
+#3884
+Jack o' Lantern Pub~
+You walk into the dark pub and see many scruffy men enjoying their ale
+and their women. The serving wenches keep the brew flowing and the men
+happy, after all, it's their job to keep the proprietor happy. Many sea
+fellows come in here to drink their pay away after a long voyage and 
+seek the comfort of a woman (abstinance isnt the best policy for a seaman).
+The barkeeper seems to be in deep conversation with one of his serving
+wenches, so you can take your time surveying the place. There is a small
+table and chair in a dark corner, and a door to the south blocks the
+entrance to the rooms for "rent".
+~
+0 8 0
+D0
+~
+~
+0 0 3882
+D2
+~
+~
+0 0 3895
+S
+#3885
+The Wench's Parlour.~
+This room has been modeled after a sultan's harem. Mostly done in pinks and
+purples, the woman here are quite extraordinary.
+~
+0 4 0
+S
+#3886
+The Mayor's Office.~
+What a MESS! The mayor of the town has been gone for over a few moons and
+his office is showing worse for wear. His once neat desk is now covered
+with old yellowing papers and cobwebs. The floor hasnt been swept in ages,
+and the furniture needs a good healthy dusting. His desk chair and the
+small couch, both once fine leather, are now cracked and split with
+weathering. The chart on the wall looks to be a map of the port as well
+as the surrounding areas, but with age, it too has yellowed making it 
+unreadable. A few booking numbers in a ledger are showing on the desk. They
+look to be the financials for the town. A small note has been scribbled into
+the book. Back to the south is the main road.
+~
+0 8 0
+D2
+~
+~
+0 0 3899
+E
+note~
+In scripted messy handwriting, the note reads:
+ 
+   "I have gone to see the overlord of the area to talk about the finances
+   owed to this port for the last few months. I am leaving this note to
+   any who finds it. If I have been gone more than a few months, please
+   do not fret, either I have died, or am being treated like royalty.
+   (Although I expect the latter.) I also wish to let you, my successor,
+   know that the people here in this town are corrupt and untrustworthy.
+   Do not fear, they are also not learned and cannot read. I must be off
+   now, for the overlord has arrived to take me to the meeting.
+   Good luck and pray to Ao for my speedy return. 
+                   - Mayor Hindlore "
+ 
+~
+S
+#3887
+"FOR RENT".~
+This store is completely empty and looks as if it has been refurbished.
+The walls are a cream color and clean, the counters have been refaced as
+well as the cabinets. The floor has been scrubbed and waxed, and the window
+cleaned. It looks as if it could have a working shop in at any moment.
+A small sign on the glass front window catches your eye. Back to the north
+is the main street.
+~
+0 0 0
+D0
+~
+~
+0 0 3899
+E
+sign~
+The sign reads:
+ 
+     "FOR RENT"
+ 
+~
+S
+#3888
+Seashell Lane, Dockside.~
+Trodding along, you set a picture in your mind for the layout of this
+small port town. There seem to be numerous shops, for baking, for sea-
+food, and even for leather goods. The wharf has a dock and a cargo
+crane. A few stores face the water. Beyond the docks you see the great
+expanse of ocean, beckoning for you to join it on some journey that
+will take you far from dry land. All around, there are people of all
+ages bustling in and out of shops and around the wharf. Most of the men
+though are muscular seamen who could break you in two like a twig.
+The style of buildings is very simple, boxlike with bay windows.
+A smaller wharfside trail leads to the north and south. Perhaps there
+you may be able to find other novelty interest items.
+~
+0 0 1
+D0
+~
+~
+0 0 3889
+D1
+~
+~
+0 0 3899
+D2
+~
+~
+0 0 3890
+D3
+~
+~
+0 0 3891
+S
+#3889
+The Northern Alley.~
+The strong rancid smell of rotting fish and seafare slams you in the face
+like a ton of bricks. Looking around, you see that the shop to the east
+is a bait and tackle shop. In the bay window hangs hooks and rods of 
+different calibre. Beyond that, you see bins full of different types of
+live bait and dead bait as well as artificial bait. On the walls are long
+fishing apparatuses, including nets and different types of poles. The
+sign above the door states "BARGAIN FISHING!", which is probably how the
+proprietor of the shop runs his business, and would also give you reason
+on why it smells so bad! Back to the south is the rest of the wharf and
+to the southwest is the pier.
+~
+0 0 1
+D1
+~
+~
+0 0 3893
+D2
+~
+~
+0 0 3888
+S
+#3890
+The Southern Alley.~
+The shell-lined alley ends here in front of a small shop. It looks like the
+shop of a gypsy woman, for there is a large crystal ball sitting on a table
+inside. Also, by looking through the window, you notice a small sculpture of
+a hand with its palm upwards. The shop looks deserted, but more than likely
+the gypsy is merely away from the shop. The sign above the store reads "Madam
+Larour, Palmist and Fortunes Extraordinaire". Many sea goers like to have 
+their luck fortold on the high seas. Many a sailor heeded their warnings 
+only to find out they were wrong, but many also found the old woman's tellings
+to prove true. As you look out to the sea, you picture what lies beyond.
+The rest of the small port is to the north, and you can see the pier to the
+northwest.
+~
+0 0 1
+D0
+~
+~
+0 0 3888
+D1
+~
+~
+0 0 3894
+S
+#3891
+Port Lanth.~
+The seashell pathway gives way to planks as you begin walking on the pier.
+The planks are large and very sturdy for they have to be able to hold large
+cargo crates. Boxes and barrels are stacked up all over the large pier as
+they await shipment or receiving. Many towns rely on the inflow and outflow
+of products for it brings more customers. The large fleet of ships usually
+dock at the farthest end of the pier so that they dont get caught in the
+numerous sand bars and shallow water resident in the wharf areas.
+~
+0 0 1
+D1
+~
+~
+0 0 3888
+D3
+~
+~
+0 0 3892
+S
+#3892
+Port Lanth.~
+You have reached the end of the pier. There are a few ship docking areas
+here with cabling and strong hemp ropes to help hold them in place.
+The planks are large and very sturdy for they have to be able to hold large
+cargo crates. Boxes and barrels are stacked up all over the large pier as
+they await shipment or receiving. Many towns rely on the inflow and outflow
+of products for it brings more customers. The large fleet of ships usually
+dock at the farthest end of the pier so that they dont get caught in the
+numerous sand bars and shallow water resident in the wharf areas. Looking
+around, you see many burly sailors, some with navigational equipment and
+some with docking lines, but most are loading or unloading cargo.
+~
+0 0 1
+D1
+~
+~
+0 0 3891
+S
+#3893
+Bargain Fishing Supply Company.~
+The many types of bait are charted on the large posters on the wall. There
+are some telling what is the best lure to use for what fish as well as the
+numerous lore of possibly fictitious sea animals. One one wall is a working
+trap for live bait, separated into small areas for each different types.
+On the opposite wall is the larger bins for the assorted different types of
+artificial lures. Standing in a rack are about ten different poles with reels
+of various pounds. Beside it, on a shelf, are boxes of fishing line, sinkers
+and bobbers. There is a bucket of dead fish on the side of the counter in
+front of you. As you peer in, the stench assails your senses and it takes
+all of your strength to keep from passing out. The counter is covered in
+fish entrails and scales. A sign on the cash register catches your eye.
+Back to the west is the waterfront.
+~
+0 8 0
+D3
+~
+~
+0 0 3889
+E
+sign~
+The small sign says:
+ 
+"GONE FISHING, BE BACK LATER!"
+ 
+~
+S
+#3894
+Madam Larour's Specialty Shoppe.~
+This room is quite extraordinary. It is made of blues and blacks and a few
+smidgings of silver sewn in the draperies. The room is very dark with the
+exception of the light shining in from the outside. A round table sits in
+the middle of the room with a book and a statue of an upturned palm on it.
+Madam Larour is well known for her fortune telling and weather reports.
+Many a sailor have entered her shop and left with the warnings of their
+deaths. One wall of the shoppe is lined with books on many different topics.
+One even reads "The Sects of the Shadow Realms". Madam Larour knows all for
+she is a seasoned traveller. Sometimes she is in her shoppe and other times
+she is out galavanting the world, learning and casting her runes for all's
+benefit.
+~
+0 8 0
+D3
+~
+~
+0 0 3890
+E
+book~
+The book reads "The Sects of the Shadow Realms".
+ 
+The Realms have found a certain peace within these formation of sects.
+True to their beliefs, and this much pleases Ao. There are many sects
+but it is up to the beholder to choose one worth following. This book
+can tell you only a little of what you should know, but perhaps it is
+not a book you should consult, but maybe the leader of the sect itself.
+ 
+Evil Sects             Neutral Sects               Good Sects
+ 
+Chaos                  Pride                       Retribution
+Strife                 Balance                   
+Oblivion
+ 
+ 
+Advice is so often asked for, but never often taken. Listen to what all
+have to say before your final selection. All have their benefits and all
+have their downfalls.
+~
+S
+#3895
+A small short hall.~
+A few hurricane lamps hang on the walls, illuminating the few doors to 
+several rooms. A small spiral staircase leads up in a secluded corner of
+the room. Doors lead off to the east, south, and up. Perhaps you should also
+take advantage of the generous offer the proprietor makes to all his
+customers, a warm body for the evening.
+~
+0 8 0
+D0
+~
+~
+0 0 3884
+D1
+~
+~
+7 3879 3897
+D2
+~
+~
+7 3879 3898
+D4
+~
+~
+7 3879 3896
+S
+#3896
+The sky parlour.~
+This broad airy room is the best in the establishment. It is also the
+largest. No doubt you paid a pretty penny for its use. The decor is done
+in a few dark colors of red and brown, but the rest is a light grey so
+as to brighten things up. A large skylight above your head lets the sun
+stream its warm rays down upon you. A large bed resides in one corner
+and next to it is a short dresser with a mirror attached to it. On top,
+you notice a few bath articles for both men and women. Looking in the other
+direction, you see a loveseat infront of a large fireplace. It looks very
+comfortable, and well worn. A few pictures adorn the walls, but nothing
+you recognize. There is a small armoire directly in front of you. A few
+things are stored in the drawer section, towels and linens more than likely.
+A few hurricane lamps have been placed strategically around the room for
+your evening viewing pleasure.
+~
+0 8 0
+D5
+~
+~
+7 3879 3895
+S
+#3897
+The Sultan's Harem.~
+Strewn about the room are large pillows of different shapes and colors.
+Some are violet, some are pink, a few are yellow, light green, and there
+are even a few silver and gold colored pillows. Sheer white gossamer drapes
+the room, giving it a veiled appearance. The smell of incense is strong in
+your head. Soft music plays about the room, making you feel at ease. The
+room is illuminated with various candles. A small trunk rests in one corner
+filled with blankets and sheer garments.
+~
+0 0 0
+D3
+~
+~
+7 3879 3895
+S
+#3898
+The Hunter's Room.~
+This room is done mostly in green. The walls have been painted like that of
+a dense jungle. There are large potted trees scattered around with small
+birds in them, just to give you the feel of being outside. The lamps are
+lit during the day, but at night, a small metal shield can be closed around
+them to give the illusion of moonlight. There is no true furniture here, just
+a large rock to the left of you and to the right is a large bed of pine
+needles covered with the soft broad leaves of the trees in the room. All
+in all, it makes for a different scenery rather than the large open ocean.
+This could be a place one would enjoy if they are up for an adventure!
+~
+0 8 0
+D0
+~
+~
+7 3879 3895
+S
+#3899
+Seashell Lane.~
+Trodding along, you set a picture in your mind for the layout of this
+small port town. There seem to be numerous shops, for baking, for sea-
+food, and even for leather goods. The wharf has a dock and a cargo
+crane. A few stores face the water. Beyond the docks you see the great
+expanse of ocean, beckoning for you to join it on some journey that
+will take you far from dry land. All around, there are people of all
+ages bustling in and out of shops and around the wharf. Most of the men
+though are muscular seamen who could break you in two like a twig.
+The style of buildings is very simple, boxlike with bay windows.
+~
+0 0 1
+D0
+~
+~
+0 0 3886
+D1
+~
+~
+0 0 3882
+D2
+~
+~
+0 0 3887
+D3
+~
+~
+0 0 3888
+S
+#0
+
+
+#RESETS
+M 1 3880 3 3876
+M 1 3882 1 3879
+G 1 3883 1
+G 1 3884 1
+G 1 3885 1
+M 1 3881 1 3880
+G 1 3876 1
+G 1 3877 1
+G 1 3880 1
+G 1 3881 1
+G 1 3882 1
+M 1 3879 3 3882
+M 1 3880 3 3883
+M 1 3876 1 3884
+M 1 3880 3 3884
+O 1 3878 1 3884
+M 1 3877 1 3885
+M 1 3878 1 3885
+M 1 3895 1 3885
+M 1 3879 3 3888
+M 1 3883 1 3891
+E 1 3886 1 14
+M 1 3879 3 3892
+O 1 3879 1 3895
+D 0 3895 1 2
+D 0 3895 2 2
+D 0 3895 4 2
+D 0 3896 5 2
+D 0 3897 3 2
+D 0 3898 0 2
+S
+
+
+#SHOPS
+ 3876    0  0  0  0  0   105 100        10 24    ; Jalinto the Barkeeper
+ 3881    0 19 17  0  0   100   0         1 23    ; The Baker's Assistant
+ 3882    0 19 10  0  0   100   0         1 23    ; Fisherman
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  3879 spec_thief
+S
+
+
+#$

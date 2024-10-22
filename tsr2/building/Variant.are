@@ -1,0 +1,77 @@
+#AREA   {PROTO} Variant's area in progress~
+
+
+
+#AUTHOR Variant~
+
+#RANGES
+0 0 0 0
+$
+
+#RESETMSG The gentle sea breeze blows through your hair.~
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#4400
+On the Dock~
+The sound of the waves gently lapping on the wooden docks is the only noise
+to be heard in this tranquil paradise. It is soothing to the heart, as you
+look out over the forested islands to the north. Beyond the forest can just
+barely be seen the tips of the tallest spires in Apex, reaching gently
+for the heavens. Around you are tall pines which reach out over the rocky
+shores, gently brushing the water. To the south, a wide path winds back
+into the forest, towards a cabin in the distance. A lazy trail of smoke
+spirals skyward from it's chimney. It is a peaceful setting, and calms
+your mind.
+~
+0 1073741824 1
+S
+#4401
+Wooded Path~
+Leading gently down to the water's edge is this barely worn path through
+the pine trees, leading up to a cabin to the south, the only sign
+of civilization visible for miles. Pine cones are strewn across the path
+from the great branches that reach out above you, almost blotting out the
+skies. The gentle breeze from the water causes the branches to sway
+slightly, causeing shifting patterns of light and shadow all around you.
+To the north, a wooden dock stretches away from the rocky coast, jutting
+over the calm waters of the inlet.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 4400
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

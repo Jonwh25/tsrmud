@@ -1,0 +1,4620 @@
+#AREA   The City of Shadows~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 2 467779188
+
+#MOBILES
+#8600
+Fistdamius~
+Fistdamius~
+Fistdamius is here quietly talking to himself.
+~
+~
+524355 270532736 500 S
+150 8 0 13d1166+5190 6d25+75
+10000 0
+8 8 1
+#8601
+Stout Guard~
+A Stout Guard.~
+A Stout Guard is here resting before he has to go on duty.
+~
+~
+268959811 98832 0 S
+45 20 0 10d137+891 5d9+22
+0 0
+8 8 1
+#8602
+Aurora~
+Aurora~
+Aurora is here ready to help you find a map.
+~
+~
+131139 512 0 S
+0 0 0 0d0+0 0d0+0
+100000 0
+8 8 2
+#8603
+guard west~
+The Guard of the West Gate~
+The Guard of the West Gate is standing here.
+~
+~
+268959811 0 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+#8604
+guard~
+A guard~
+A Guard is resting here.
+~
+~
+524355 268435456 0 S
+0 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+#8605
+guard ~
+The Northern Gate Guard~
+The Guard of the North Gate is eyeing you.
+~
+~
+268959811 268960256 0 S
+0 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+#8607
+stout guard~
+A stout guard~
+A stout guard is resting here.
+~
+~
+268959811 0 0 S
+0 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+#8608
+buff guard~
+A buff guard~
+A buff looking guard is sharpening his weapon here.
+~
+~
+268959811 268435456 0 S
+0 0 0 0d0+0 0d0+0
+50 0
+8 8 1
+#8609
+Yolanda shopkeeper~
+Yolanda~
+Yolanda is smiling as she prepares a pastry.
+~
+~
+131139 0 0 S
+0 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+#8610
+William Wallace~
+William Wallace~
+William Wallace is standing here making battle plans.
+~
+You look into the deep blue eyes of the greatest scottish hero of all
+time. His hair is long and he looks like the bravest warrior you have
+ever seen.
+~
+271056963 1000 0 S
+146 30 0 10d338+1840 5d30+50
+100000000 0
+8 8 1
+#8611
+Argyle shopkeeper~
+Argyle~
+Argyle is here standing behind a counter.
+~
+~
+131139 0 0 S
+0 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+#8612
+Lord Avery shopkeeper~
+Lord Avery~
+Lord Avery is here waiting to show you what he has to sell.
+~
+~
+262211 524358 800 S
+20 10 0 6d45+244 4d5+10
+10 0
+8 8 1
+#8613
+master guard ~
+The Guildguard~
+The Master of Minds is standing here.
+~
+~
+268435523 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8614
+Murron Wallace~
+Murron Wallace~
+Murron is here dreaming of her husband William.
+~
+~
+131139 0 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 2
+#8615
+mastermind warrior psionicist~
+Mastermind~
+Mastermind the psionicist warrior is here.
+~
+~
+69 512 0 S
+0 0 0 0d0+0 0d0+0
+400 0
+8 8 1
+#8616
+headmaster deacon~
+Headmaster Deacon~
+Headmaster Deacon is here waiting to help you learn.
+~
+~
+268437059 512 0 S
+0 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+#8617
+Ghelkun banker~
+Ghelkun the bank owner~
+Ghelkun is here counting out the money of the bank.
+~
+~
+536870979 0 0 S
+0 0 0 0d0+0 0d0+0
+1000000000 0
+8 8 1
+#8618
+bank guard~
+The bank guard~
+A Bank Guard is here watching you with interest.
+~
+~
+268959811 0 0 S
+0 0 0 0d0+0 0d0+0
+10 0
+8 8 0
+#8619
+bank guard~
+A fierce bankguard~
+A fierce looking bankguard is here watching you with beedy eyes.
+~
+~
+268959843 0 0 S
+0 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+#8626
+grizzly bear~
+A Grizzly Bear~
+A huge grizzly bear is resting here.
+~
+~
+4194407 16408 0 S
+0 0 0 0d0+0 0d0+0
+1 0
+8 8 1
+#8627
+black panther~
+The Black Panther~
+A sleek black panther is staring at you.
+~
+~
+268435559 33554592 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#8628
+cheetah~
+A Cheetah~
+A cheetah is pacing the room.
+~
+~
+272629863 0 0 S
+0 0 0 0d0+0 0d0+0
+1 0
+8 8 1
+#8636
+Khelban shopkeeper~
+Khelban~
+Khelban stands here polishing some armor.
+~
+~
+131139 0 0 S
+0 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+#8637
+phalantar shopkeeper~
+Phalantar~
+Phalantar is here grinding herbs.
+~
+~
+262211 512 0 S
+0 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+#8638
+mayor Talos~
+Talos the mayor of the city of shadows~
+Mayor Talos is standing here twiddling his fingers.
+~
+~
+268959809 0 100 S
+160 200 0 13d1166+6000 6d25+100
+500 0
+8 8 1
+#8642
+Sulmest shopkeeper~
+Sulmest~
+Sulmest is polishing a pair of black boots here.
+~
+~
+67 0 0 S
+0 0 0 0d0+0 0d0+0
+1000000 0
+8 8 1
+#8643
+Stephan guildmaster~
+Stephan the mad Irishman~
+Stephan the mad Irishman is waiting to help you.
+~
+~
+263747 98832 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+#8645
+war horse~
+A Warhorse~
+A stout Warhorse is here.
+~
+~
+257 197120 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 2
+#8647
+Disabba shopkeeper~
+Disabba~
+Disabba is here looking over some imported furs.
+~
+~
+268697667 98832 0 S
+0 0 0 0d0+0 0d0+0
+100000 0
+8 8 1
+#8651
+Urza shopkeeper~
+Urza~
+Urza is here cooking things that smell delicious.
+~
+~
+268435523 0 0 S
+0 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+#8653
+Isabella shopkeeper~
+Isabella~
+Isabella is staring dreamily out the window.
+~
+~
+268959811 0 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 2
+#8654
+Edward shopkeeper longshanks~
+Edward the Longshanks~
+Edward the Longshanks is here polishing a sword.
+~
+~
+268435523 0 0 S
+0 0 0 0d0+0 0d0+0
+1000000 0
+8 8 1
+#8655
+hamish guildmaster~
+Hamish~
+Hamish is here waiting to teach you.
+~
+~
+403179075 0 0 S
+0 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+#8660
+tolgar shopkeeper cousin~
+Tolgar~
+Deven's cousin Tolgar sits behind the counter waiting to sell you something.
+~
+~
+268566595 0 0 S
+0 0 0 0d0+0 0d0+0
+100000 0
+8 8 1
+#8665
+Puff dragon~
+Puff~
+Puff the magic dragon is here being annoying.
+~
+~
+270926023 524810 1000 S
+150 30 0 13d1166+5190 6d25+75
+1000 0
+8 8 2
+#8678
+zoo ticket master~
+the Ticket Master~
+The Ticket Master is standing behind the ticket booth.
+~
+~
+268959811 67108988 1000 S
+95 0 0 12d507+2515 5d19+48
+5000 0
+8 8 0
+#8722
+Moonstar shopkeeper~
+Moonstar~
+Moonstar is feeding the horses.
+~
+~
+268566595 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#8600
+fountain~
+fountain~
+A fountain is here.~
+~
+25 0 0
+-1 -1 0 0
+1 0 0
+#8601
+a chair~
+a chair~
+A Comfy chair is here.~
+~
+12 0 0
+1 1 16 110
+1 0 0
+#8602
+the doorway to hell~
+the door to hell~
+A doorway to hell.~
+~
+15 0 0
+3 0 0 10
+1 0 0
+#8604
+zoo ticket~
+a Zoo Ticket~
+A Zoo Ticket is lying on the ground.~
+~
+13 1048576 1
+0 0 0 0
+1 100 10
+#0
+
+
+#ROOMS
+#8600
+The Temple Gates.~
+The sky here seems brighter than anywhere else within the rest of this
+city.  A huge crystalline palace of soaring spires catches the rays of the
+sunlight in a dazzling display of a million multicolored reflections.  The
+mere sight of this temple to the gods is amazing.  No tales can ever do this
+temple justice; no paintings, no sculptures, can ever capture the magic of
+this crystalline temple to the gods.  Two crystal gates stand before you to
+the north.  Trader's Way is to your south bustling with many people.
+~
+0 1024 1
+D1
+~
+~
+0 0 8732
+D2
+~
+~
+0 0 8601
+D3
+~
+~
+0 0 8637
+S
+#8601
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 8600
+D1
+~
+~
+0 0 8733
+D2
+~
+~
+0 0 8602
+D3
+~
+~
+0 0 8720
+S
+#8602
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 8601
+D1
+~
+~
+0 0 8787
+D2
+~
+~
+0 0 8603
+D3
+~
+~
+0 0 8696
+S
+#8603
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 8602
+D2
+~
+~
+0 0 8604
+S
+#8604
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 8603
+D1
+~
+~
+0 0 8806
+D2
+~
+~
+0 0 8605
+D3
+~
+~
+0 0 8607
+S
+#8605
+Dock Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8604
+D1
+~
+~
+0 0 8762
+D3
+~
+~
+0 0 8606
+S
+#8606
+Southdock Guardhouse.~
+~
+0 0 0
+D1
+~
+~
+0 0 8605
+S
+#8607
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8604
+D3
+~
+~
+0 0 8608
+S
+#8608
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8607
+D2
+~
+~
+0 0 8609
+S
+#8609
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D0
+~
+~
+0 0 8608
+D3
+~
+~
+0 0 8610
+S
+#8610
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D0
+~
+~
+0 0 8611
+D1
+~
+~
+0 0 8609
+D3
+~
+~
+0 0 8612
+S
+#8611
+~
+~
+0 0 0
+D2
+~
+~
+0 0 8610
+S
+#8612
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8610
+D3
+~
+~
+0 0 8613
+S
+#8613
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D0
+~
+~
+0 0 8688
+D1
+~
+~
+0 0 8612
+D3
+~
+~
+0 0 8614
+S
+#8614
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8615
+S
+#8615
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D0
+~
+~
+0 0 8729
+D1
+~
+~
+0 0 8614
+D3
+~
+~
+0 0 8616
+S
+#8616
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8617
+S
+#8617
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8616
+D3
+~
+~
+0 0 8618
+S
+#8618
+SouthWall Road.~
+Rising High to your south is the massive south wall.  The scent of the
+Ocean tickles your nose here and soaring through the sky are seaguls.  The
+sound of the waves crashing against the rocks below ring in your ears.
+~
+0 0 0
+D1
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8619
+S
+#8619
+Corner of Westwall and SouthWall.~
+~
+0 0 0
+D0
+~
+~
+0 0 8620
+D1
+~
+~
+0 0 8618
+S
+#8620
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side.
+~
+0 0 0
+D0
+~
+~
+0 0 8621
+D1
+~
+~
+0 0 8687
+D2
+~
+~
+0 0 8619
+S
+#8621
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side.
+~
+0 0 0
+D0
+~
+~
+0 0 8622
+D2
+~
+~
+0 0 8620
+S
+#8622
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side.
+~
+0 0 0
+D1
+~
+~
+0 0 8623
+D2
+~
+~
+0 0 8621
+S
+#8623
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side.
+~
+0 0 0
+D0
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8622
+S
+#8624
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side.
+~
+0 0 0
+D0
+~
+~
+0 0 8626
+D1
+~
+~
+0 0 8625
+D2
+~
+~
+0 0 8623
+S
+#8625
+Aurora's Maps~
+~
+0 0 0
+D3
+~
+~
+0 0 8624
+S
+#8626
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  Running north and south of you is the famous Westwall street.  To
+your west is the West gate.
+~
+0 0 0
+D0
+~
+~
+0 0 8660
+D1
+~
+~
+0 0 8629
+D2
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8627
+S
+#8627
+The West Gate.~
+You are standing at the West gate of the city.  From here you can see the
+many wonders awaiting you outside the city.  The gate is spectacular and is
+made from pure gold.  There are Guard houses made from solid stone to the
+north and south of you while the High Road is to your east.
+~
+0 0 0
+D0
+~
+~
+0 0 8661
+D1
+~
+~
+0 0 8626
+D2
+~
+~
+0 0 8628
+S
+#8628
+The Guard House.~
+You are standing in a very large room of the guard house.  Weapons line
+the walls as well as many bunk beds.  The smell of the room is rather
+unpleasant due to all the men who work in here.  The lighting in the room is
+dim and the floorboards are very old and worn with age.  To the north you
+see the doorway to the outside.
+~
+0 4 0
+D0
+~
+~
+0 0 8627
+S
+#8629
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  To the north and south are buildings blocking your way while the
+street continues to the east and the west.
+~
+0 0 0
+D1
+~
+~
+0 0 8630
+D3
+~
+~
+0 0 8626
+S
+#8630
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  You see many people walking into the spectacular building to the
+north.  Then you understand why when you notice the "Bank" sign hanging from
+the wall.  To your south is a grand road dedicated to all the famous
+adventurers of the shadow realms.
+~
+0 0 0
+D0
+~
+~
+0 0 8674
+D1
+~
+~
+0 0 8631
+D2
+~
+~
+0 0 8678
+D3
+~
+~
+0 0 8629
+S
+#8631
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  To your north is a tall building blocking your way.  You see
+Dessra's Exotic Petshop to your south.
+~
+0 0 0
+D1
+~
+~
+0 0 8632
+D2
+~
+~
+0 0 8676
+D3
+~
+~
+0 0 8630
+S
+#8632
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  To the north of you is the famed street called Murron's Way.  To
+your south is Mat's Gambling Hall.
+~
+0 0 0
+D0
+~
+~
+0 0 8685
+D1
+~
+~
+0 0 8633
+D2
+~
+~
+0 0 8717
+D3
+~
+~
+0 0 8631
+S
+#8633
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  Huge buildings block the way north and south of you.
+~
+0 0 1
+D1
+~
+~
+0 0 8634
+D3
+~
+~
+0 0 8632
+S
+#8634
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  To the north and south of your stand tall and imposing buildings.
+~
+0 0 0
+D1
+~
+~
+0 0 8635
+D3
+~
+~
+0 0 8633
+S
+#8635
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  To the north you see a HUGE sign hanging over the entrance to City
+Hall.  To your south you see a dark and errie alley.
+~
+0 0 0
+D0
+~
+~
+0 0 8715
+D1
+~
+~
+0 0 8636
+D2
+~
+~
+0 0 8692
+D3
+~
+~
+0 0 8634
+S
+#8636
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you lies the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on thier
+backs.  Tall buildings tower to the north and south of you while you can
+freely go east or west on the main road.
+~
+0 0 0
+D1
+~
+~
+0 0 8637
+D3
+~
+~
+0 0 8635
+S
+#8637
+The High Road.~
+As you look at the street before you, you feel a cool, gentle breeze
+caress your skin.  All around you is the great city of Shadows.  Children
+play freely here while the adults trade and buy goods.  High in the sky
+above you fly white dragons carring armored knights and mages on their
+backs.  The street continues to the north, west, and south of you and you
+see the gates to the Temple of Shadows to your east.
+~
+0 0 0
+D0
+~
+~
+0 0 8854
+D1
+~
+~
+0 0 8600
+D2
+~
+~
+0 0 8720
+D3
+~
+~
+0 0 8636
+S
+#8638
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  A huge
+wall of elaborate design blocks your way to the south.  To the west and the
+east are the main streets.  To the north Trader's Way continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8639
+D1
+~
+~
+0 0 8816
+D3
+~
+~
+0 0 8854
+S
+#8639
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  A foul
+stench assults your nose on this part of the street.  Looking to your west
+you see why when you notice that its the zoo.  To your east is the zoo
+keepers home and to the north and south Trader's Way continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8640
+D1
+~
+~
+0 0 8825
+D2
+~
+~
+0 0 8638
+D3
+~
+~
+0 0 8697
+S
+#8640
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  Trader's
+Way continues to your north and south.  Large walls block the way west and
+east.
+~
+0 0 1
+D0
+~
+~
+0 0 8641
+D2
+~
+~
+0 0 8639
+S
+#8641
+Trader's Way.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  The
+street widens here to accomodate large wagons and more people.  You see the
+northern gates to the northand northwall road to your west and east.  To the
+south is Trader's Way.
+~
+0 0 0
+D0
+~
+~
+0 0 8642
+D1
+~
+~
+0 0 8844
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8644
+S
+#8642
+The Northern Gates.~
+You stand before the Northern Gates of the city of Shadows.  The gates
+are made from the most shiney gold you have ever seen.  The sky is unusually
+dark here as if its awaiting on something...  Or someone to tell it what to
+do.  To the east and west are the guard quarters for this part of the city. 
+To the south is Trader's Way while you may leave the city to the north.
+~
+0 0 0
+D1
+~
+~
+0 0 8778
+D2
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8643
+S
+#8643
+The Guard House.~
+~
+0 0 0
+D1
+~
+~
+0 0 8642
+S
+#8644
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  A large building is to your south.  The side of the guard house
+is to your north.  To the west is Northwall and to your east is Trader's
+Way.
+~
+0 0 0
+D1
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8645
+S
+#8645
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  A large building blocks your way west and south.  To your north
+and east runs Northwall.
+~
+0 0 0
+D0
+~
+~
+0 0 8646
+D1
+~
+~
+0 0 8644
+S
+#8646
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  To your east is the wall of the north gate house.  To your south
+and west is Northwall.
+~
+0 0 0
+D2
+~
+~
+0 0 8645
+D3
+~
+~
+0 0 8647
+S
+#8647
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  A large building is blocking your way south here.  To your east
+and west run Northwall.
+~
+0 0 0
+D1
+~
+~
+0 0 8646
+D3
+~
+~
+0 0 8648
+S
+#8648
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  The back of a large building is to your south.  Northwall
+continues to your east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 8647
+D3
+~
+~
+0 0 8649
+S
+#8649
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  The back of a building is to your south while Northwall
+continues to your east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 8648
+D3
+~
+~
+0 0 8650
+S
+#8650
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  To your south you see the back of a building.  Northwall
+continues to your east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 8649
+D3
+~
+~
+0 0 8651
+S
+#8651
+NorthWall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  Northwall street runs to the east and west of you while Minds
+Way is to your south.  You see many psionicists here in this part of the
+city.
+~
+0 0 0
+D1
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 8663
+D3
+~
+~
+0 0 8652
+S
+#8652
+Northwall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  The back of a building is to the south of you while Northwall
+continues to the west and east of you.
+~
+0 0 0
+D1
+~
+~
+0 0 8651
+D3
+~
+~
+0 0 8653
+S
+#8653
+Northwall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  A building blocks your way to your south while Northwall is to
+your east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 8652
+D3
+~
+~
+0 0 8654
+S
+#8654
+Northwall Street.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you.  Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.  The corner of Westwall and Northwall is to your west while the
+back of a building is to your south.  Northwall street continues to your
+east.
+~
+0 0 0
+D1
+~
+~
+0 0 8653
+D3
+~
+~
+0 0 8655
+S
+#8655
+Corner of Westwall and Northwall~
+Looming high above you to the west and the north is the corner of the
+wall of the city.  The faded red bricks of the road are scuffed here as if
+there have been a few skirmishes on this part of the road.  You can hear the
+sounds of strange creatures coming from beyond the walls.  Westwall is to
+your south while Northwall is to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 8654
+D2
+~
+~
+0 0 8656
+S
+#8656
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side. 
+To the east of you is a the back of a building.  Running north and south of
+you is Westwall street.
+~
+0 0 0
+D0
+~
+~
+0 0 8655
+D2
+~
+~
+0 0 8657
+S
+#8657
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side. 
+Westwall street continues to the north and south of you while a large sign
+hangs over the doorway to the east saying "Yolanda's Pastries."
+~
+0 0 0
+D0
+~
+~
+0 0 8656
+D1
+~
+~
+0 0 8662
+D2
+~
+~
+0 0 8658
+S
+#8658
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side. 
+The wall of the city is to your west.  To the south of you is the back of
+the Guard house.  To the east and north of you continues Westwall street.
+~
+0 0 0
+D0
+~
+~
+0 0 8657
+D1
+~
+~
+0 0 8659
+S
+#8659
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side. 
+The back of a building is to your east while Westwall street continues to
+your south and west.  There is also the side of a building to your north.
+~
+0 0 0
+D2
+~
+~
+0 0 8660
+D3
+~
+~
+0 0 8658
+S
+#8660
+Westwall Street.~
+Looming high to your west is the towering west wall.  You hear the
+distant sounds of the forrest beyond the wall.  The road is made of faded
+red bricks and it seems that this road has seen a lot of adventurers come
+through.  This section of town is a little more quiet than the east side. 
+The High walls of the Guard House is to your west while a building blocks
+your way east.  To the south of you is the High road and Westwall street
+continues north.
+~
+0 0 0
+D0
+~
+~
+0 0 8659
+D2
+~
+~
+0 0 8626
+S
+#8661
+The Guard House.~
+You are standing in a very large room of the guard house.  Weapons line
+the walls and so do many bunk beds.  The smell in this room is rather
+unpleasant due to all the unclean men who work here.  The lighting is rather
+poor in this room and the floorboards seem rather old.  To your south is the
+doorway to the outside.
+~
+0 0 0
+D2
+~
+~
+0 0 8627
+S
+#8662
+Yolanda's Pastries.~
+The smells of fine pastries assults your nose the moment you enter this
+shop.  Each pastry is hand made right before your very eyes.  Each pastry is
+then carefully placed for your scrutiney under a glass counter so that you
+can look for the right pastry that you want.  The pastries look so good!  A
+small group of children watch as Yolanda prepares a new batch of cookies. 
+The door is to your west.
+~
+0 0 0
+D3
+~
+~
+0 0 8657
+S
+#8663
+Minds Way.~
+Your mind soars as you stand on this road.  You can recall everything
+that you have ever experienced.  The road is made from clouds!  You look at
+your feet and gasp.  As you look up you notice that you are somehow floating
+in the clouds.  When you look north you see Northwall road.  To your east
+and west are large buildings seeming to float on the clouds.  To the south
+the road continues.
+~
+0 0 0
+D0
+~
+~
+0 0 8651
+D2
+~
+~
+0 0 8664
+S
+#8664
+Minds Way.~
+Your mind is soaring while you seem to float on this road.  You mind is
+assulted with calming memories and thoughts and you feel at peace and
+content with yourself.  The clouds around you continue to make a very nice
+road to your north, west, and east.  To the south the clouds form a very
+large wall.
+~
+0 0 0
+D0
+~
+~
+0 0 8663
+D1
+~
+~
+0 0 8665
+D3
+~
+~
+0 0 8667
+S
+#8665
+Minds Way.~
+Your mind is still soaring as you float on this road.  Many calm and
+soothing memories are filling your mind.  The clouds here seem to be alive
+and seem to happily support you.  Many people are gathered here meditating
+and reading books on psionicist powers.  To the north is a large building
+with a sign with the words, "The Third Eye", on it.  To your east and south
+is a dark wall of clouds while Minds Way is to your west.
+~
+0 0 0
+D0
+~
+~
+0 0 8666
+D3
+~
+~
+0 0 8664
+S
+#8666
+The Third Eye.~
+As you look upon this magnificent room you notice all the weapons and
+armor in the room.  Special pieces of equipment and weapons designed to
+enhance the psionicist powers of the mind have been placed on the walls and
+set out for the psionist.  A doorway leading to the clouds is to your south.
+~
+0 0 0
+D2
+~
+~
+0 0 8665
+S
+#8667
+Minds Way.~
+Your mind continues to soar on a special high as you walk on this street
+of clouds.  You feel at peace and feel very happy on this part of the
+street.  To your north you notice a very large building called "The Minds
+Eye."  To the south of you is the windows of the Temple of Psionicists.  To
+the west is the entrance to the temple.  To your east is Minds Way.
+~
+0 0 0
+D0
+~
+~
+0 0 8668
+D1
+~
+~
+0 0 8664
+D3
+~
+~
+0 0 8669
+S
+#8668
+The Minds Eye.~
+You see many potions lining the shelves on the walls of this shop.  There
+is a large kettle for brewing potions behind the large marble counter in
+front of you.  Many holograms of monsters and powerful psionicists are
+floating in the air to your west and east.  The door is to your south.
+~
+0 0 0
+D2
+~
+~
+0 0 8667
+S
+#8669
+The Augurer's Temple.~
+You stand in a very large entry way in this small augurer temple. Large
+tapistries adorn the walls of augurers doing battle with strange brain
+creatures.  You feel very relaxed in this room.  To your north is the
+reception room for the temple Inn.  To the south is the training and
+practice grounds.  To your east is the road called Minds way.
+~
+0 0 0
+D0
+~
+~
+0 0 8670
+D1
+~
+~
+0 0 8667
+D2
+~
+~
+0 0 8672
+S
+#8670
+Imagination Inn.~
+A large counter is floating in the air in front of you.  You see Murron
+calmly floating behind it.  All around you are holograms of your childhood. 
+You gasp and blush then realize that the images you see are meant only for
+you and that each person sees holograms of what they want to see.  To your
+west is a small room while to the south is the Entrance to the temple.
+~
+0 0 0
+D2
+~
+~
+0 0 8669
+D3
+~
+~
+0 0 8671
+S
+#8671
+A Cozy Room.~
+A large fluffy bed has been placed in this room.  A huge sofa lines the
+northern wall.  This is a very nice and cozy room in the Imagination Inn.  A
+small lamp is on a wooden nightstand next to the bed on the south wall.  A
+wooden doorway is to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 8670
+S
+#8672
+Augurer Guildhouse.~
+You stand in a large room designed for psionicists such as yourself to
+learn more about your special powers.  The room radiates with intense power.
+You can feel everything about this room within you.  Large books line a
+bookshelf to your south.  To the north is the temple entrance while to your
+south is the main room for practicing and training your psionicist powers.
+~
+0 0 0
+D0
+~
+~
+0 0 8669
+D1
+~
+~
+0 0 8673
+S
+#8673
+Augurer's Practice and Training Room.~
+You stand in an elaborate room.  The room is adorned with many special
+books and things that the master psionist needs to know as he grows more
+powerful.  Two huge torches burn an errie purple flame in this room.  To
+your west is the guildhouse.
+~
+0 0 0
+D3
+~
+~
+0 0 8672
+S
+#8674
+Shadow Bank~
+A large crystal chandiler is hanging quietly from the ceiling.  Plush
+blue carpet lines the floor.  There are many wooden desks filling this room.
+A large wooden counter is in front of you.  To the west is a large metal
+doorway.  To your south is the door to the city.
+~
+0 0 0
+D2
+~
+~
+0 0 8630
+D3
+~
+~
+0 0 8675
+S
+#8675
+Bank Vault~
+You are standing inside the bank vault.  All around you are safty deposit
+boxes.  A large safe is set into the southern wall.  The floor is carpeted
+with plush red carpet and the ceiling is made from thick metal.  The door to
+the east is a large thick metal door.  You hope that you don't get locked
+into this room for fear of suffication.
+~
+0 0 0
+D1
+~
+~
+0 0 8674
+S
+#8676
+Dessra's Exotic Pets.~
+~
+0 4096 0
+D0
+~
+~
+0 0 8631
+S
+#8677
+Dessra's Back Room.~
+~
+0 4 0
+S
+#8678
+Hero's Walk.~
+~
+0 0 0
+D0
+~
+~
+0 0 8630
+D2
+~
+~
+0 0 8679
+S
+#8679
+Hero's Walk.~
+~
+0 0 0
+D0
+~
+~
+0 0 8678
+D2
+~
+~
+0 0 8681
+D3
+~
+~
+0 0 8680
+S
+#8680
+Selchoun's Sundries Shop.~
+~
+0 0 0
+D1
+~
+~
+0 0 8679
+S
+#8681
+Entrance to the Hall of Hero's.~
+~
+0 0 0
+D0
+~
+~
+0 0 8679
+D1
+~
+~
+0 0 8682
+S
+#8682
+The Hall of Hero's.~
+~
+0 0 0
+D1
+~
+~
+0 0 8683
+D3
+~
+~
+0 0 8681
+S
+#8683
+The Hall of Hero's.~
+~
+0 0 0
+D0
+~
+~
+0 0 8684
+D3
+~
+~
+0 0 8682
+S
+#8684
+The Hall of Hero's.~
+~
+0 0 0
+D2
+~
+~
+0 0 8683
+S
+#8685
+Murron's Way.~
+A large stone road spreads out before you running a short ways north. 
+The stones are large and polished with the smoothness of a well traveled
+street.  A large sign creaks lightly in the breeze from a large shop to your
+east.  The sign says, "Phalantar's Herbs."  To your west you hear the sounds
+of a large armory.  You feel the heat of the shop.  A large wooden sign says
+that the shop to the east is "Khelban's Armory."
+~
+0 0 0
+D0
+~
+~
+0 0 8686
+D1
+~
+~
+0 0 8713
+D2
+~
+~
+0 0 8632
+D3
+~
+~
+0 0 8712
+S
+#8686
+Murron's Way.~
+The stone road comes to and end here as a wall of brick is to your north
+and to your east.  The air here is very calm and soothing and makes you
+comfortable.  To the west of you is one of the strangest shops you have ever
+seen.  A large silver plaque is laid into the brick wall to your west.  It
+states, "Xandos's Rare and Wondrous Treasures."  To your south Murron's Way
+continues.
+~
+0 0 1
+D2
+~
+~
+0 0 8685
+D3
+~
+~
+0 0 8704
+S
+#8687
+Kulzar's Alley.~
+~
+0 0 0
+D0
+~
+~
+0 0 8722
+D1
+~
+~
+0 0 8727
+D3
+~
+~
+0 0 8620
+S
+#8688
+The Street of Glances.~
+~
+0 0 0
+D0
+~
+~
+0 0 8689
+D1
+~
+~
+0 0 8731
+D2
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8730
+S
+#8689
+The Street of Glances.~
+~
+0 0 0
+D0
+~
+~
+0 0 8690
+D1
+~
+~
+0 0 8724
+D2
+~
+~
+0 0 8688
+S
+#8690
+The Street of Glances.~
+~
+0 0 0
+D0
+~
+~
+0 0 8691
+D2
+~
+~
+0 0 8689
+S
+#8691
+The Inn of the Dripping Dagger.~
+~
+0 0 0
+D1
+~
+~
+0 0 8718
+D2
+~
+~
+0 0 8690
+S
+#8692
+The Prowl.~
+~
+0 0 0
+D0
+~
+~
+0 0 8635
+D1
+~
+~
+0 0 8719
+D2
+~
+~
+0 0 8693
+S
+#8693
+The Prowl.~
+~
+0 0 0
+D0
+~
+~
+0 0 8692
+D1
+~
+~
+0 0 8694
+S
+#8694
+The Prowl.~
+~
+0 0 0
+D1
+~
+~
+0 0 8696
+D2
+~
+~
+0 0 8695
+D3
+~
+~
+0 0 8693
+S
+#8695
+The Prowl.~
+~
+0 0 0
+D0
+~
+~
+0 0 8694
+D1
+~
+~
+0 0 8726
+D3
+~
+~
+0 0 8725
+S
+#8696
+The Prowl.~
+~
+0 0 0
+D1
+~
+~
+0 0 8602
+D3
+~
+~
+0 0 8694
+S
+#8697
+Entrance to the Zoo.~
+You stand before a large iron gate taller than anything you have ever
+seen before.  You also see a large box office where you must purchase
+tickets to enter the zoo.  You hear the sounds of many animals coming from
+behind the gates to the west.  To your east is Trader's Way.
+~
+0 0 0
+D1
+~
+~
+0 0 8639
+D3
+~
+~
+0 0 8699
+S
+#8698
+The Hidden Room.~
+~
+0 4 0
+S
+#8699
+Zoo Road.~
+You stand on the main road of the zoo.  You hear many animals all around
+you and children rush about dragging their parents behind them.  Many
+vendors are set up along the sides of the road selling stuffed monkeys and
+various other stuffed animals and trinkets.  To your east is the entrance to
+the zoo while Zoo Road continues to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 8700
+D1
+~
+~
+0 0 8697
+S
+#8700
+Zoo Road.~
+You stand on the main road of the zoo.  You hear the sounds of the monkey
+habitat to your east.  Many children run past you in the hopes of seeing all
+of the animals.  A large wall blocks your way to the north while you smell
+and hear the monkeys to your east.  Zoo Road continues to the west and the
+south.
+~
+0 0 1
+D1
+~
+~
+0 0 8711
+D2
+~
+~
+0 0 8699
+D3
+~
+~
+0 0 8701
+S
+#8701
+Zoo Road.~
+You stand on the main road of the zoo.  The road here is littered with
+animal droppings from a VERY LARGE animal.  To your north you hear the
+chirps of thousands of birds and realize that that must be the bird house. 
+A large wall blocks your way to the south and zoo road continues to the west
+and east.
+~
+0 0 0
+D0
+~
+~
+0 0 8707
+D1
+~
+~
+0 0 8700
+D3
+~
+~
+0 0 8702
+S
+#8702
+Zoo Road.~
+The road here is made from smooth circular stones.  You hear the roars of
+many giant cats coming from your north.  A large building is to your south,
+apparently the Arctic Habitat from the amount of people shivering coming out
+of it.  Zoo Road continues to your west and east.
+~
+0 0 0
+D0
+~
+~
+0 0 8706
+D1
+~
+~
+0 0 8701
+D2
+~
+~
+0 0 8709
+D3
+~
+~
+0 0 8703
+S
+#8703
+Zoo Road.~
+The road is made from rough brick on this part of the road.  Also the
+road seems to end here.  A large building is to your north marked the Bear
+Habitat.  Another unremarkable building is to your south marked with a huge
+snake wrapped around a sign.  Zoo road continues to your east.
+~
+0 0 0
+D0
+~
+~
+0 0 8705
+D1
+~
+~
+0 0 8702
+D2
+~
+~
+0 0 8708
+S
+#8704
+Xandos's Rare and Wondrous Treasures.~
+~
+0 0 0
+D1
+~
+~
+0 0 8686
+S
+#8705
+Bear Habitat.~
+You stand in a lush forest.  Huge trees surround you.  The sounds of
+nature ring in your ears.  Bees and various other insects fly carelessly
+about you unaware of your presance.  It is then that you notice the bears
+that are looking at you from every direction execpt the south where you came
+from.
+~
+0 0 0
+D2
+~
+~
+0 0 8703
+S
+#8706
+The Great Cats Habitat.~
+You stand in what appears to be a tropical jungle.  Great heat assults
+your skin here.  Its as if the people who created this used some kind of
+powerful magic.  It seems that even the sun here is real and powerful
+waiting to burn your flesh.  The trees seem to hunger for your flesh as
+well.  Then you notice the eyes staring at you from behind the brush.
+~
+0 0 0
+D2
+~
+~
+0 0 8702
+S
+#8707
+The Bird House.~
+Large trees surround you in every direction but south through a large
+doorway.  You see birds of various shapes and sizes here flying from tree to
+tree.  Looking down you see large rocks covered in bird droppings.  The
+noises of the birds chirping assults your ears while the smell of dampness
+fills your nose.  The only exit is to your south.
+~
+0 0 0
+D2
+~
+~
+0 0 8701
+S
+#8708
+The House of Reptiles.~
+You enter a very strange room.  Various reptiles surround you.  Its very
+humid and you feel your skin drying out.  Thousands of tiny beady eyes are
+all around you.  Large double doors are to your south leading back to zoo
+road.
+~
+0 4 0
+D0
+~
+~
+0 0 8703
+S
+#8709
+The Arctic Habitat.~
+You enter a freezing cold atmosphere.  Ice forms on the walls and under
+your feet.  A huge iceburg towers in front of you.  It seems to go on
+forever.  You feel the icy cold winds biting your flesh.  Most remarkable
+about this habitat is the snow that is falling all around you.  A powerful
+mage must have created this habitat.
+~
+0 4 0
+D0
+~
+~
+0 0 8702
+S
+#8710
+Office of William Wallace~
+You stand in a very cluttered room.  A large metal desk sits against the
+northern wall.  The desk is cluttered with many papers and maps.  Its
+apparent that this is where you can go to get quests.  Large maps line the
+walls and as you notice the floor you see a huge map of the city etched into
+the floor.  The doorway to city hall is to your south.
+~
+0 8 0
+D2
+~
+~
+0 0 8715
+S
+#8711
+Monkey Habitat.~
+You stand in the monkey habitat.  Many large trees are surrounding you on
+all sides.  Looking up you see many different kinds of monkeys.  A few of
+the monkeys are grooming each other while some are in the middle of what
+appears to be a bananna fight!  There are several children here laughing at
+the monkeys.  The only way out is through a conceiled doorway to your west.
+~
+0 0 0
+D3
+~
+~
+0 0 8700
+S
+#8712
+Khelban's Armory.~
+You stand in a very hot room.  A large anvil sits in the back of the room
+next to a large forge.  Various other things in this room for making some of
+the best armor in the world are here.  The floor is made from solid stone. 
+To your east is the door out.
+~
+0 0 0
+D1
+~
+~
+0 0 8685
+S
+#8713
+Phalantar's Herbs.~
+As you stand in this room an assortment of strange smells fills your
+nose.  You then see a large section of shelves holding many herbs and
+special potions.  A large counter is also holding a variety of strange
+plants drying out to be made into new herbs.  The doorway out is to your
+west.
+~
+0 0 0
+D3
+~
+~
+0 0 8685
+S
+#8714
+The Mayor's Office.~
+A large gold desk is set against the western wall here.  Various papers
+and documents are scattered about it.  Various plaques and maps line the
+walls of this eliquant room.  A large crystal chandeller is hanging from the
+ceiling.  Its apparent that this room is reserved for the mayor of the city.
+A large leather couch is also in this room.  A large set of double doors
+lies to your east.
+~
+0 8 0
+D1
+~
+~
+0 0 8715
+S
+#8715
+City Hall~
+As you enter this room you notice the high arched ceiling.  The floor is
+smooth polished white marble and you notice that it must be waxed every
+night.  To the west is a large set of double doors marking the mayor's
+office.  A large doorway marked Adventurer's Quests is to your north while a
+plain wooden door is to your east marking the library.
+~
+0 8 0
+D0
+~
+~
+0 0 8710
+D1
+~
+~
+0 0 8716
+D2
+~
+~
+0 0 8635
+D3
+~
+~
+0 0 8714
+S
+#8716
+The Library of Law's and Regulations.~
+A large library of books sprawls out before you.  Rows and Rows of
+countless books lines the walls of this magnificent room.  Many maps and
+other various works of artwork line the walls.  A lot of innocent children
+and old people sit quietly reading or researching various subjects in this
+room.  It is here though that the mayor will meet with other law makers and
+make the laws.  An irremarkable doorway is to your west.
+~
+0 0 0
+D3
+~
+~
+0 0 8715
+S
+#8717
+Mat's Gambling Hall.~
+~
+0 4 0
+D0
+~
+~
+0 0 8632
+S
+#8718
+A Cozy Room.~
+~
+0 0 0
+D3
+~
+~
+0 0 8691
+S
+#8719
+Sulmest's Splendid Shoes & Boots.~
+~
+0 0 0
+D3
+~
+~
+0 0 8692
+S
+#8720
+The High Road.~
+This portion of the High Road is just as busy as the rest of the city. 
+Many people gather around you in the hopes of selling your something or
+telling you about their lives.  Some want to hear of your great adventures
+out in the realms.  You see the Stree continuing to the east and also to the
+north.  Buildings block the way west and south.
+~
+0 0 0
+D0
+~
+~
+0 0 8637
+D1
+~
+~
+0 0 8601
+S
+#8721
+Thieves Practice and Training Room.~
+~
+0 0 0
+D2
+~
+~
+0 0 8724
+S
+#8722
+Moonstar's Stables.~
+~
+0 4096 0
+D2
+~
+~
+0 0 8687
+S
+#8723
+Inside the Stable.~
+~
+0 4 0
+S
+#8724
+Thieves Guild.~
+~
+0 0 0
+D0
+~
+~
+0 0 8721
+D3
+~
+~
+0 0 8689
+S
+#8725
+The Maiden's Tears.~
+~
+0 0 0
+D1
+~
+~
+0 0 8695
+S
+#8726
+Alluring Nymph's Nightclub.~
+~
+0 0 0
+D3
+~
+~
+0 0 8695
+S
+#8727
+Horse Shop.~
+~
+0 0 0
+D3
+~
+~
+0 0 8687
+S
+#8728
+A Dungeon Cell.~
+~
+0 0 0
+D1
+~
+~
+0 0 8729
+S
+#8729
+The Guards Office.~
+~
+0 0 0
+D2
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8728
+S
+#8730
+Tricks of the Trade.~
+~
+0 0 0
+D1
+~
+~
+0 0 8688
+S
+#8731
+Disabba's Fine Imports.~
+~
+0 0 0
+D3
+~
+~
+0 0 8688
+S
+#8732
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  The High
+Road continues the the north, east and south of you while the astonishing
+gates to the Temple is to your west.
+~
+0 0 0
+D0
+~
+~
+0 0 8816
+D1
+~
+~
+0 0 8734
+D2
+~
+~
+0 0 8733
+D3
+~
+~
+0 0 8600
+S
+#8733
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 8732
+D3
+~
+~
+0 0 8601
+S
+#8734
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  You see a
+sign hanging over the doorway to your south indicating that it is "the Riven
+Shield Shop".  A large building blocks the way north.
+~
+0 0 0
+D1
+~
+~
+0 0 8735
+D2
+~
+~
+0 0 8779
+D3
+~
+~
+0 0 8732
+S
+#8735
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  To the
+north of you is a very nice park.  You can hear the sounds of birds and see
+many trees and squirrels gathering nuts.  To the south of you is a small
+building blocking your way.
+~
+0 0 0
+D0
+~
+~
+0 0 8818
+D1
+~
+~
+0 0 8736
+D3
+~
+~
+0 0 8734
+S
+#8736
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  There is
+a large building blocking you to the north while a sign saying, "Urza's Fine
+Food" is hanging over the door to the south.
+~
+0 0 0
+D1
+~
+~
+0 0 8738
+D2
+~
+~
+0 0 8781
+D3
+~
+~
+0 0 8735
+S
+#8737
+The Imaginary Room.~
+~
+0 4 0
+S
+#8738
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  A small
+building blocks your way south while the Blushing Mermaid Inn and Tavern is
+to your north.
+~
+0 0 0
+D0
+~
+~
+0 0 8820
+D1
+~
+~
+0 0 8739
+D3
+~
+~
+0 0 8736
+S
+#8739
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  Part of
+the Mermaid Inn and Tavern is to your north.  You can see many people
+through the window.  To the south of you is Sail Street.
+~
+0 0 0
+D1
+~
+~
+0 0 8740
+D2
+~
+~
+0 0 8783
+D3
+~
+~
+0 0 8738
+S
+#8740
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  A group
+of people have gathered to the south of you blocking your way while to the
+north is the infamous "Three Pearls Nightclub".
+~
+0 0 0
+D0
+~
+~
+0 0 8822
+D1
+~
+~
+0 0 8741
+D3
+~
+~
+0 0 8739
+S
+#8741
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  A small
+window from a building is to your north.  The curtains are drawn closed
+blocking your view inside.  An errie glow comes from the strange looking
+building to your south named "The Moon Sphere."
+~
+0 0 0
+D1
+~
+~
+0 0 8742
+D2
+~
+~
+0 0 8785
+D3
+~
+~
+0 0 8740
+S
+#8742
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  The back
+of a small home is to your south.  To the north you see another famous hot
+spot of the city, "Deven's Potions and Tricks Shop."
+~
+0 0 0
+D0
+~
+~
+0 0 8824
+D1
+~
+~
+0 0 8743
+D3
+~
+~
+0 0 8741
+S
+#8743
+The High Road.~
+This part of the city is extreemly busy.  People swarm all around you as
+they try to get to the many shops of the city.  Some people on the street
+try and lure you to buy worthless things and there are patrols of guards who
+watch this street.  You can barely move in this part of the city.  Running
+north and south is the famous Eastwall road.  To your west continues the
+High road and the Eastern Gates are to your east.
+~
+0 0 0
+D0
+~
+~
+0 0 8763
+D1
+~
+~
+0 0 8744
+D2
+~
+~
+0 0 8747
+D3
+~
+~
+0 0 8742
+S
+#8744
+The Eastern Gates.~
+A large crystal gateway is to the east of you leading to many wonderful
+and dangerous adventures outside of the city.  To your north and south are
+guard houses made from round stones.  A small breeze from the east tickles
+your nose.  To the west of you is the High road.
+~
+0 0 0
+D0
+~
+~
+0 0 8745
+D2
+~
+~
+0 0 8746
+D3
+~
+~
+0 0 8743
+S
+#8745
+The Guard House.~
+You are standing in a large room of the guard house.  Many bunk beds are
+lined against the walls here.  There are racks of neatly arranged weapons
+along the walls as well.  You notice how neat and tidy this whole room is. 
+Each bed has been made and the floor is so clean that you could eat off it. 
+The doorway is to the south of you.
+~
+0 0 0
+D2
+~
+~
+0 0 8744
+S
+#8746
+The Guard House.~
+You are standing in a large room of the guard house.  Many bunk beds are
+lined up against the walls here.  There are racks of neatly arranged weapons
+along the walls as well.  You notice how neat and tidy this whole room is. 
+Each bed has been made and the floor is so clean that you could eat off it. 
+A doorway is to your north.
+~
+0 4 0
+D0
+~
+~
+0 0 8744
+S
+#8747
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8743
+D2
+~
+~
+0 0 8748
+S
+#8748
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8747
+D1
+~
+~
+0 0 8749
+D3
+~
+~
+0 0 8795
+S
+#8749
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D2
+~
+~
+0 0 8750
+D3
+~
+~
+0 0 8748
+S
+#8750
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8749
+D2
+~
+~
+0 0 8751
+S
+#8751
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8750
+D2
+~
+~
+0 0 8752
+S
+#8752
+Corner of Eastwall and Dock Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8751
+D3
+~
+~
+0 0 8753
+S
+#8753
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8752
+D3
+~
+~
+0 0 8754
+S
+#8754
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8753
+D3
+~
+~
+0 0 8755
+S
+#8755
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8754
+D3
+~
+~
+0 0 8756
+S
+#8756
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8755
+D3
+~
+~
+0 0 8757
+S
+#8757
+Dock Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8811
+D1
+~
+~
+0 0 8756
+D3
+~
+~
+0 0 8758
+S
+#8758
+Dock Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8810
+D1
+~
+~
+0 0 8757
+D3
+~
+~
+0 0 8759
+S
+#8759
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8758
+D3
+~
+~
+0 0 8760
+S
+#8760
+Dock Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8808
+D1
+~
+~
+0 0 8759
+D3
+~
+~
+0 0 8761
+S
+#8761
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8760
+D3
+~
+~
+0 0 8762
+S
+#8762
+Dock Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8761
+D3
+~
+~
+0 0 8605
+S
+#8763
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8764
+D2
+~
+~
+0 0 8743
+S
+#8764
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8834
+D1
+~
+~
+0 0 8765
+D2
+~
+~
+0 0 8763
+S
+#8765
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8766
+D3
+~
+~
+0 0 8764
+S
+#8766
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8767
+D2
+~
+~
+0 0 8765
+S
+#8767
+Eastwall Road.~
+Standing like an unbreakable force to your east is the most amazing city
+wall in the whole city.  The wall is made from both magic and from solid
+grannite stone.  Each block in the wall must have taken at least 200 men to
+move and at the same time they glow and hum with a red aura.  It is said
+that the mages and barbarians made this wall to keep out the things that
+lurk beyond these walls.  This section of the city is very mysterious and
+strong.
+~
+0 0 0
+D0
+~
+~
+0 0 8768
+D2
+~
+~
+0 0 8766
+S
+#8768
+Corner of Eastwall and NorthWall Roads.~
+~
+0 0 0
+D2
+~
+~
+0 0 8767
+D3
+~
+~
+0 0 8769
+S
+#8769
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8768
+D3
+~
+~
+0 0 8770
+S
+#8770
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8769
+D3
+~
+~
+0 0 8771
+S
+#8771
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8770
+D3
+~
+~
+0 0 8772
+S
+#8772
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8771
+D2
+~
+~
+0 0 8850
+D3
+~
+~
+0 0 8773
+S
+#8773
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8772
+D2
+~
+~
+0 0 8849
+D3
+~
+~
+0 0 8774
+S
+#8774
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8773
+D3
+~
+~
+0 0 8775
+S
+#8775
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8774
+D2
+~
+~
+0 0 8847
+D3
+~
+~
+0 0 8776
+S
+#8776
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8775
+D3
+~
+~
+0 0 8777
+S
+#8777
+NorthWall Road.~
+A Tall marble wall stands gleaming to the north of you.  You hear the all
+too familiar sounds of the tropical jungle beyond these walls.  This part of
+the city is more humid than the rest due to the jungle being so close to
+you. Looking up you see a glowing blue aura surrounding this part of the
+city and you realize that it keeps the hot weather of the jungle out as much
+as it can.
+~
+0 0 0
+D1
+~
+~
+0 0 8776
+D2
+~
+~
+0 0 8845
+S
+#8778
+The Guard House.~
+~
+0 0 0
+D3
+~
+~
+0 0 8642
+S
+#8779
+The Riven Shield Shop.~
+~
+0 4 0
+D0
+~
+~
+0 0 8734
+S
+#8780
+Urza's Fine Food.~
+~
+0 0 0
+D2
+~
+~
+0 0 8789
+S
+#8781
+Urza's Fine Food~
+~
+0 4 0
+D0
+~
+~
+0 0 8736
+S
+#8782
+A Quiet Warehouse.~
+~
+0 0 0
+D2
+~
+~
+0 0 8791
+S
+#8783
+Sail Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8739
+D2
+~
+~
+0 0 8792
+S
+#8784
+The Moon Sphere.~
+~
+0 0 0
+D1
+~
+~
+0 0 8785
+S
+#8785
+The Moon Sphere.~
+~
+0 0 0
+D0
+~
+~
+0 0 8741
+D3
+~
+~
+0 0 8784
+S
+#8786
+The Jade Dancer.~
+~
+0 0 0
+D2
+~
+~
+0 0 8795
+S
+#8787
+Spiderweb Alley.~
+~
+0 0 0
+D2
+~
+~
+0 0 8796
+D3
+~
+~
+0 0 8602
+S
+#8788
+The Old Monster Shop.~
+~
+0 0 0
+D1
+~
+~
+0 0 8789
+S
+#8789
+Caravan Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8780
+D1
+~
+~
+0 0 8790
+D3
+~
+~
+0 0 8788
+S
+#8790
+Caravan Street.~
+~
+0 0 0
+D1
+~
+~
+0 0 8791
+D2
+~
+~
+0 0 8799
+D3
+~
+~
+0 0 8789
+S
+#8791
+Caravan Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8782
+D1
+~
+~
+0 0 8792
+D3
+~
+~
+0 0 8790
+S
+#8792
+Sail Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8783
+D2
+~
+~
+0 0 8801
+D3
+~
+~
+0 0 8791
+S
+#8793
+Jestra's Fresh Fish.~
+~
+0 0 0
+D1
+~
+~
+0 0 8794
+S
+#8794
+The Street of Whispers.~
+~
+0 0 0
+D1
+~
+~
+0 0 8795
+D3
+~
+~
+0 0 8793
+S
+#8795
+The Street of Whispers.~
+~
+0 0 0
+D0
+~
+~
+0 0 8786
+D1
+~
+~
+0 0 8748
+D3
+~
+~
+0 0 8794
+S
+#8796
+Spiderweb Alley.~
+~
+0 0 0
+D0
+~
+~
+0 0 8787
+D1
+~
+~
+0 0 8797
+S
+#8797
+The Old Xoblob Shop.~
+~
+0 0 0
+D3
+~
+~
+0 0 8796
+S
+#8798
+Serpentil Books and Folios.~
+~
+0 0 0
+D2
+~
+~
+0 0 8808
+S
+#8799
+Cassandra's Cozy Home.~
+~
+0 4 0
+D0
+~
+~
+0 0 8790
+S
+#8800
+Hamish's house.~
+~
+0 0 0
+D1
+~
+~
+0 0 8801
+S
+#8801
+Sail Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8792
+D2
+~
+~
+0 0 8811
+D3
+~
+~
+0 0 8800
+S
+#8802
+The Raging Lion Inn.~
+~
+0 0 0
+D1
+~
+~
+0 0 8803
+D2
+~
+~
+0 0 8812
+S
+#8803
+A Cozy Room.~
+~
+0 0 0
+D3
+~
+~
+0 0 8802
+S
+#8804
+Longshanks Weaponshop.~
+~
+0 0 0
+D2
+~
+~
+0 0 8814
+S
+#8805
+The Practice and Training Room.~
+~
+0 0 0
+D2
+~
+~
+0 0 8815
+S
+#8806
+Melinter's Court.~
+~
+0 0 0
+D1
+~
+~
+0 0 8807
+D3
+~
+~
+0 0 8604
+S
+#8807
+Arabel's Comfortable Home.~
+~
+0 0 0
+D3
+~
+~
+0 0 8806
+S
+#8808
+Candle Lane.~
+~
+0 0 0
+D0
+~
+~
+0 0 8798
+D1
+~
+~
+0 0 8809
+D2
+~
+~
+0 0 8760
+S
+#8809
+Elistra's Small Home.~
+~
+0 0 0
+D3
+~
+~
+0 0 8808
+S
+#8810
+A Warehouse.~
+~
+0 0 0
+D2
+~
+~
+0 0 8758
+S
+#8811
+Sail Street.~
+~
+0 0 0
+D0
+~
+~
+0 0 8801
+D1
+~
+~
+0 0 8812
+D2
+~
+~
+0 0 8757
+S
+#8812
+DragonSlayer Avenue.~
+~
+0 0 0
+D0
+~
+~
+0 0 8802
+D1
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 8811
+S
+#8813
+DragonSlayer Avenue.~
+~
+0 0 0
+D1
+~
+~
+0 0 8814
+D3
+~
+~
+0 0 8812
+S
+#8814
+DragonSlayer Avenue.~
+~
+0 0 0
+D0
+~
+~
+0 0 8804
+D1
+~
+~
+0 0 8815
+D3
+~
+~
+0 0 8813
+S
+#8815
+The Barbarian Guild.~
+~
+0 0 0
+D0
+~
+~
+0 0 8805
+D3
+~
+~
+0 0 8814
+S
+#8816
+The High Road.~
+~
+0 0 0
+D2
+~
+~
+0 0 8732
+D3
+~
+~
+0 0 8638
+S
+#8817
+A Worn Path.~
+~
+0 0 0
+D0
+~
+~
+0 0 8826
+D1
+~
+~
+0 0 8818
+S
+#8818
+Entrance to the Park.~
+~
+0 0 0
+D0
+~
+~
+0 0 8827
+D1
+~
+~
+0 0 8819
+D2
+~
+~
+0 0 8735
+D3
+~
+~
+0 0 8817
+S
+#8819
+A Worn Path.~
+~
+0 0 0
+D0
+~
+~
+0 0 8828
+D3
+~
+~
+0 0 8818
+S
+#8820
+The Blushing Mermaid Inn & Tavern.~
+~
+0 0 0
+D0
+~
+~
+0 0 8829
+D1
+~
+~
+0 0 8821
+D2
+~
+~
+0 0 8738
+S
+#8821
+A Pleasent Room.~
+~
+0 0 0
+D0
+~
+~
+0 0 8830
+D3
+~
+~
+0 0 8820
+S
+#8822
+Three Pearls Nightclub.~
+~
+0 0 0
+D1
+~
+~
+0 0 8823
+D2
+~
+~
+0 0 8740
+S
+#8823
+Three Pearls Nightclub.~
+~
+0 0 0
+D3
+~
+~
+0 0 8822
+S
+#8824
+Deven's Potions and Tricks Shop.~
+~
+0 0 0
+D2
+~
+~
+0 0 8742
+S
+#8825
+Rhyeal's Home.~
+~
+0 0 0
+D3
+~
+~
+0 0 8639
+S
+#8826
+A Worn Path.~
+~
+0 0 0
+D0
+~
+~
+0 0 8842
+D1
+~
+~
+0 0 8827
+D2
+~
+~
+0 0 8817
+S
+#8827
+A Worn Path.~
+~
+0 0 0
+D0
+~
+~
+0 0 8841
+D1
+~
+~
+0 0 8828
+D2
+~
+~
+0 0 8818
+D3
+~
+~
+0 0 8826
+S
+#8828
+A Worn Path.~
+~
+0 0 0
+D2
+~
+~
+0 0 8819
+D3
+~
+~
+0 0 8827
+S
+#8829
+The Dining Room.~
+~
+0 0 0
+D1
+~
+~
+0 0 8830
+D2
+~
+~
+0 0 8820
+S
+#8830
+The Kitchen.~
+~
+0 0 0
+D2
+~
+~
+0 0 8821
+D3
+~
+~
+0 0 8829
+S
+#8831
+Alazar's Summoning Room.~
+~
+0 0 0
+D0
+~
+~
+0 0 8837
+S
+#8832
+A Cozy Room.~
+~
+0 0 0
+D1
+~
+~
+0 0 8833
+S
+#8833
+Mystical Night Inn.~
+~
+0 0 0
+D0
+~
+~
+0 0 8835
+D3
+~
+~
+0 0 8832
+S
+#8834
+Warlock's Way.~
+~
+0 0 0
+D0
+~
+~
+0 0 8853
+D2
+~
+~
+0 0 8764
+D3
+~
+~
+0 0 8835
+S
+#8835
+Warlock's Way.~
+~
+0 0 0
+D0
+~
+~
+0 0 8852
+D1
+~
+~
+0 0 8834
+D2
+~
+~
+0 0 8833
+S
+#8836
+Alazar's Bed Chamber.~
+~
+0 0 0
+D3
+~
+~
+0 0 8837
+S
+#8837
+Alazar's Audience Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 8850
+D1
+~
+~
+0 0 8836
+D2
+~
+~
+0 0 8831
+D3
+~
+~
+0 0 8838
+S
+#8838
+Alazar's Library and Labratory.~
+~
+0 0 0
+D1
+~
+~
+0 0 8837
+S
+#8839
+The Cemetary.~
+~
+0 0 0
+D0
+~
+~
+0 0 8848
+S
+#8840
+Baeleron's Home.~
+~
+0 0 0
+D0
+~
+~
+0 0 8847
+S
+#8841
+A Small Pond.~
+~
+0 0 6
+D2
+~
+~
+0 0 8827
+D3
+~
+~
+0 0 8842
+S
+#8842
+A Worn Path.~
+~
+0 0 4
+D1
+~
+~
+0 0 8841
+D2
+~
+~
+0 0 8826
+D3
+~
+~
+0 0 8843
+S
+#8843
+The House of Good Spirits Tavern.~
+~
+0 8 0
+D0
+~
+~
+0 0 8844
+D1
+~
+~
+0 0 8842
+S
+#8844
+NorthWall Road.~
+~
+0 8 0
+D1
+~
+~
+0 0 8845
+D2
+~
+~
+0 0 8843
+D3
+~
+~
+0 0 8641
+S
+#8845
+NorthWall Road.~
+~
+0 0 0
+D0
+~
+~
+0 0 8777
+D3
+~
+~
+0 0 8844
+S
+#8846
+Kate's House.~
+~
+0 0 0
+D1
+~
+~
+0 0 8847
+S
+#8847
+Skull Alley.~
+~
+0 0 0
+D0
+~
+~
+0 0 8775
+D2
+~
+~
+0 0 8840
+D3
+~
+~
+0 0 8846
+S
+#8848
+The Cemetary.~
+~
+0 0 0
+D1
+~
+~
+0 0 8849
+D2
+~
+~
+0 0 8839
+S
+#8849
+Entrance to the Cemetary.~
+~
+0 0 0
+D0
+~
+~
+0 0 8773
+D3
+~
+~
+0 0 8848
+S
+#8850
+Entrance to Alazar's Tower.~
+~
+0 0 0
+D0
+~
+~
+0 0 8772
+D2
+~
+~
+0 0 8837
+S
+#8851
+The Practice and Training Room.~
+~
+0 0 0
+D1
+~
+~
+0 0 8852
+S
+#8852
+Mage Guild.~
+~
+0 0 0
+D2
+~
+~
+0 0 8835
+D3
+~
+~
+0 0 8851
+S
+#8853
+Mystical Shop of Magic.~
+~
+0 0 0
+D2
+~
+~
+0 0 8834
+S
+#8854
+The High Road.~
+As the street here curves around the high buildings you notice that it is
+also going around the main Temple of this magnificent city.  You see many
+people here staring up at the glorious temple.  You look up and gasp as you
+realize how high it really is.  The street contines to stare up mezmorized
+at this temple to the gods.  The street continues to the south and the east.
+~
+0 0 0
+D1
+~
+~
+0 0 8638
+D2
+~
+~
+0 0 8637
+S
+#0
+
+
+#RESETS
+M 1 8600 1 8600
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8601 8 8606
+M 1 8602 1 8625
+M 1 8603 4 8627
+M 1 8603 4 8627
+M 1 8603 4 8627
+M 1 8603 4 8627
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8604 8 8628
+M 1 8605 1 8642
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8607 8 8643
+M 1 8608 1 8661
+M 1 8609 1 8662
+M 1 8611 1 8666
+M 1 8612 1 8668
+M 1 8613 1 8669
+M 1 8614 1 8670
+M 1 8616 1 8673
+M 1 8618 1 8674
+M 1 8617 1 8674
+M 1 8619 2 8675
+M 1 8619 2 8675
+M 1 8615 1 8696
+M 1 8678 1 8697
+G 1 8604 1
+M 1 8626 6 8705
+M 1 8626 6 8705
+M 1 8626 6 8705
+M 1 8626 6 8705
+M 1 8626 6 8705
+M 1 8626 6 8705
+M 1 8627 6 8706
+M 1 8628 4 8706
+M 1 8627 6 8706
+M 1 8628 4 8706
+M 1 8627 6 8706
+M 1 8628 4 8706
+M 1 8627 6 8706
+M 1 8628 4 8706
+M 1 8627 6 8706
+M 1 8627 6 8706
+M 1 8610 1 8710
+M 1 8636 1 8712
+M 1 8637 1 8713
+M 1 8638 1 8714
+M 1 8642 1 8719
+M 1 8643 1 8721
+M 1 8645 1 8723
+M 1 8647 1 8731
+M 1 8651 1 8781
+M 1 8665 1 8831
+S
+
+
+#SHOPS
+ 8602   28  0  0  0  0   115 110         1 24    ; Aurora
+ 8609   19  0  0  0  0   150  10         1 24    ; Yolanda
+ 8611    0  0  0  0  0   115 110         1 24    ; Argyle
+ 8612    0  0  0  0  0   105 100         1 24    ; Lord Avery
+ 8614    0  0  0  0  0   105 100         1 24    ; Murron Wallace
+ 8636    9  0  0  0  0   125 120         1 24    ; Khelban
+ 8642   11  0  0  0  0   115 110         0 23    ; Sulmest
+ 8647    0  0  0  0  0   115 110         1 24    ; Disabba
+ 8651   19  0  0  0  0   105 100         1 24    ; Urza
+ 8654    5  0  0  0  0   205 200         1 24    ; Edward the Longshanks
+ 8660   10 26  2  3  0   105 100         1 24    ; Tolgar
+ 8678   13  0  0  0  0   105 100         1 24    ; the Ticket Master
+ 8722    0  0  0  0  0   115 110         1 24    ; Moonstar
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  8600 spec_executioner
+M  8601 spec_guard
+M  8602 spec_cast_mage
+M  8604 spec_guard
+M  8605 spec_guard
+M  8607 spec_guard
+M  8608 spec_guard
+M  8609 spec_cast_mage
+M  8611 spec_poison
+M  8612 spec_thief
+M  8613 spec_executioner
+M  8614 spec_breath_any
+M  8615 spec_breath_any
+M  8618 spec_guard
+M  8619 spec_executioner
+M  8636 spec_cast_mage
+M  8637 spec_poison
+M  8638 spec_mayor
+M  8643 spec_thief
+M  8647 spec_thief
+M  8660 spec_cast_mage
+M  8722 spec_poison
+S
+
+
+#$

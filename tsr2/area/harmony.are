@@ -1,0 +1,3007 @@
+#AREA   Harmony Lost~
+
+
+
+#AUTHOR Laric~
+
+#RANGES
+38 50 0 65
+$
+
+#RESETMSG Insane laughter ripples in the air...~
+
+#FLAGS
+0
+
+#ECONOMY 0 1679509
+
+#MOBILES
+#13700
+An Insane Bard~
+An Insane Bard~
+A wild eyed Bard stalks the area
+~
+A crazy eyed bard sneaks around looking for some one to kill.
+A wild eyed bard stalks the area looking for a fresh kill. Dressed in
+fine clothes and weilding a broken piece of wood he moves foward.
+~
+65633 98344 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 16 13 18 14 18 19
+0 0 0 0 0
+1 7 0 0 1 1 0
+0 0 1055 64 1 0 1090 1
+#13701
+School Guard~
+A School Guard~
+A grim face Guard stands here
+~
+A tall muscular man stands here at attention. A
+beutiful pike in his hands. The only thing that
+moves are his eyes. A tabard with the insignia
+of the school is draped across his frame,
+He seems to be struggling with somthing inside,
+Hopfuly it isnt the urge to kill you.
+~
+3 128 -1 C
+35 0 0 0d0+0 0d0+0
+500 0
+8 8 0
+19 13 13 13 16 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 1061 0 0 0 288 4099
+#13702
+Larissa~
+Larissa the Craftswoman~
+The Master Craftswoman Larissa Stands here
+~
+~
+3 335544448 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 64 0 0 402653184 6145
+#13703
+Lord of Dicord~
+The Lord of Discord~
+The evil lord of Discord is here and hes happy to see you
+~
+~
+131107 335552680 -1000 C
+46 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+25 13 13 19 13 13 13
+0 0 0 0 0
+90 7 0 0 1 1 0
+0 0 0 0 32 1048576 1375993856 6208
+#13704
+A Flesh Golem~
+The Flesh Golem~
+A mass of flesh wriths toward you
+~
+~
+131107 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 18 25 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 524339 2
+#13705
+A Horrable Rat~
+A Horrable Rat~
+A monster of a rat scavenges here
+~
+A large horrible rat scavenges here. Glowing red
+eyes peer at you from a mottled grey hide.
+It seems to be content with eating rotting
+flesh because it dosent make a move to attack.
+~
+3 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 128 128 0
+0 0 0 256 0 1 786433 0
+#13706
+A Bone Golem~
+A Bone Golem~
+A large pile of bones rattles towrd you
+~
+~
+131075 0 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+25 13 13 20 20 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 64 0 2097568 0
+#13707
+A Skin Golem~
+A Skin Golem~
+A creature of skin and blood shambles towrd you
+~
+~
+131111 8192 0 C
+39 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 64 0 0 524291 0
+#13708
+A Lesser Lady of Discord~
+The Lady Of Discord~
+An evil woman stands here looking at you
+~
+~
+131075 33554600 -1000 C
+43 0 0 0d0+0 0d0+0
+10000 0
+8 8 2
+16 18 20 15 18 13 13
+0 0 0 0 0
+90 1 0 0 3 2 0
+0 0 0 1 0 0 304087042 2113
+#13709
+The Darkness~
+The Darkness~
+The Darkness within attacks
+~
+~
+131107 128 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+20 13 13 18 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 0 0 33554435 0
+#13710
+A Rock Daemon~
+A Rock Daemon~
+A large Chunk of Rock is moving here
+~
+~
+131075 128 0 C
+38 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 1048576 0 0 176 0
+#13711
+The Lesser Lord~
+The Lesser Lord~
+The Lesser Lord of Discord stands here
+~
+~
+131107 268435584 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 18 13 13 13 13 13
+0 0 0 0 0
+90 4 0 0 1 1 0
+0 0 0 2 0 0 302252032 64
+#13712
+Guard of Blood and Bone~
+A Guard Of Blood and Bone~
+A creature made of Blood and Bone stands here
+~
+~
+131107 128 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 1048688 0 0 384 3
+#13713
+A Madman~
+A Madman~
+A small man shuffles about talking to himself
+~
+~
+131079 8320 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 1048576 0 0 1378091008 6208
+#13714
+Talendrop~
+Talendrop~
+The Pixie Bardic Master swoops at you
+~
+~
+131107 40 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+4 2 0 0 9 8 0
+0 0 0 0 0 0 515 0
+#13715
+Garthren~
+Garthren~
+The Gith Bardic master attacks
+~
+~
+131107 40 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+20 13 13 13 18 13 13
+0 0 0 0 0
+10 4 0 0 524289 524288 0
+0 0 0 0 0 0 4097 1
+#13716
+Laraina~
+Laraina~
+The human Bardic Master is here
+~
+~
+131075 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 2 0 0 1 1 0
+0 0 0 0 0 0 1073741856 524354
+#13717
+Jubal~
+Jubal~
+The Hafling Bardic Master waits for you
+~
+~
+131075 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+3 3 0 0 131073 131072 0
+0 0 0 0 0 0 524353 3
+#13718
+Rilana~
+Rilana~
+The Elven Bardic Master plays her harp
+~
+~
+131075 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 5 0 0 3 2 0
+0 0 0 0 0 0 268435520 1
+#13719
+Talbor~
+Talbor~
+The Dwarven Bardic Master beats a drum here
+~
+~
+131107 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+20 13 13 13 20 13 13
+0 0 0 0 0
+2 3 0 0 5 4 0
+0 0 0 0 0 0 288 524291
+#13720
+A large chest~
+a newly created A large chest~
+Some god abandoned a newly created A large chest here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#13721
+The fire of Hatred~
+The fire of Hatred~
+A flame made of pure hate drifts here consuming all
+~
+~
+131107 33554432 0 C
+49 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+22 5 5 17 20 13 13
+0 0 0 0 0
+89 3 0 0 1869488187 1869488186 0
+0 0 0 0 1 2 268439552 256
+#13723
+The Shadow Bard~
+The Shadow Bard~
+The Shadow Bard waits for a kill here
+~
+~
+131107 168 0 C
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+16 17 13 19 13 13 13
+0 0 0 0 0
+10 4 0 0 524289 524288 0
+0 0 0 1057280 0 8 6176 524291
+#13724
+A mall Ivory Desk~
+a newly created A mall Ivory Desk~
+Some god abandoned a newly created A mall Ivory Desk here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#13726
+The Master Trainer~
+The Master Trainer~
+The Schools Trainer is hear shouting at the Bards
+~
+~
+131075 67108992 0 C
+49 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+25 10 7 16 22 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 416 14339
+#13727
+Hellbender~
+Hellbender~
+A demon named Hellbender is rampaging here
+~
+~
+131075 33652904 0 C
+39 0 0 0d0+0 0d0+0
+15000 0
+8 8 0
+20 13 13 18 19 13 13
+0 0 0 0 0
+84 3 0 0 779249015 779249014 0
+0 0 0 1048576 1 2 528398 2
+#13730
+The greiving maiden~
+The Greiving Maiden~
+A maiden sits here staring at the corpse of her hero
+~
+~
+3 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 1 0 0 3 2 0
+0 0 0 0 0 0 32 3
+#13794
+Raccoon~
+A Giant Raccoon~
+An enormous Raccoon is here looking for mischief
+~
+~
+262403 32 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+87 3 0 0 1918967919 1918967918 0
+0 30 0 0 0 0 3 2
+> act_prog p drops a magic mushroom.~
+get mushroom
+follow $n
+mpforce $n group raccoon
+chuckle
+tickle $n
+~
+|
+#13795
+A bone titan~
+The Bone Titan~
+A gigantic statue carved of bone is here
+~
+~
+131139 4194472 0 C
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+23 10 5 13 24 13 13
+0 0 0 0 0
+85 3 0 0 1917190209 1917190209 0
+0 0 0 64 0 0 2401 6144
+#13796
+A Statue of a forggoten god stands here ~
+The forgotten God~
+A statue of a forgotten god is here casting spells
+~
+~
+2051 168 1000 C
+52 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+10 23 25 13 12 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 1057787 0 1510215975 71
+#0
+
+
+#OBJECTS
+#13700
+Sword of Life Stealing~
+A sword of life stealing~
+Some god dropped a newly created Sword of Life Stealing here.~
+Destruction~
+5 67109131 8193
+101 25 25 11 25 0
+1 0 0
+A
+1 5
+A
+1 10
+A
+3 10
+A
+4 10
+A
+2 10
+A
+12 1000
+A
+18 20
+A
+18 20
+A
+18 200
+A
+18 200
+A
+19 0
+A
+19 200
+A
+19 200
+A
+28 1048576
+A
+28 64
+A
+28 16
+A
+28 32
+A
+28 1
+A
+28 2
+A
+28 8
+A
+28 512
+A
+28 4
+A
+28 256
+A
+28 128
+A
+28 8192
+A
+17 -300
+A
+30 114
+A
+30 302
+A
+30 314
+A
+30 82
+A
+26 128
+A
+26 1048576
+#13701
+a Harpsicord Leg~
+A broken Harpsicord leg~
+Some god dropped a newly created a Harpsicord Leg here.~
+~
+5 0 8193
+0 0 0 8
+1 0 0
+A
+12 25
+A
+31 -2
+A
+19 3
+A
+18 3
+#13702
+a Fine Silk Doublet~
+A Fine Silk Doublet~
+A Fine Silk Doublet lies here gathering dust~
+~
+9 0 9 5
+7 7 0 0
+1 0 0
+A
+2 1
+A
+4 -1
+A
+36 5
+A
+33 -5
+A
+32 10
+#13703
+A Fopish Hat~
+A Fopish Hat~
+An outlandish hat sits here with a large feather in it~
+~
+9 0 17
+4 4 0 0
+1 0 0
+A
+25 3
+A
+3 -1
+A
+36 -5
+A
+18 2
+#13704
+Light of the Midnight Sun~
+The light of the midnight sun~
+A small pebble lies here absorbing light~
+~
+1 0 1
+0 0 0 0
+1 0 0
+A
+36 10
+A
+25 -2
+#13705
+A Golden Pike~
+A stunning Golden Pike~
+A Golden Pike glitters on the ground~
+~
+5 0 8193
+0 8 7 1
+1 2500 250
+A
+1 2
+A
+18 3
+A
+19 5
+A
+13 20
+A
+3 -2
+#13706
+Fiddle Bow~
+a newly created Fiddle Bow~
+Some god dropped a newly created Fiddle Bow here.~
+~
+5 0 8193
+0 6 11 8
+1 0 0
+A
+19 8
+A
+18 3
+A
+2 2
+A
+4 -3
+A
+12 40
+#13707
+grinder , The hammer~
+Grinder~
+A deadly hammer of bone is here~
+~
+5 0 8193
+0 10 8 8
+12 3000 300
+A
+19 6
+A
+12 -50
+A
+3 -4
+A
+1 3
+A
+27 16
+A
+66 4
+A
+2 -4
+#13708
+Bone Armor~
+Bone Armor~
+A pile of bones lies here~
+~
+9 0 9 5
+0 0 0 0
+100 3400 340
+A
+12 -50
+A
+13 25
+A
+27 64
+A
+3 -2
+#13709
+Scourge~
+A Scourge~
+A nasty whip with 9 lashes lies here~
+~
+5 2 8193
+0 0 0 8
+1 2500 250
+A
+19 10
+A
+18 -4
+A
+12 20
+A
+13 -10
+A
+4 1
+#13710
+A Skinning Dagger~
+A Skinning Dagger~
+A small sharp dagger rests here~
+~
+5 0 8193
+0 0 0 1
+5 2500 250
+#13711
+FleshHarrower~
+FleshHarrower~
+A sword with a nasty serrated blade lies here~
+~
+5 2 8193
+0 0 0 3
+6 0 0
+A
+18 3
+A
+19 3
+A
+27 1048576
+A
+1 -3
+A
+4 -2
+A
+66 5
+#13712
+A Madmans Glare~
+A Madmans Glare~
+A twisted mask lies here~
+~
+9 0 131073
+0 0 0 0
+4 1500 150
+A
+3 -3
+A
+1 2
+A
+18 1
+A
+19 2
+A
+13 45
+A
+12 -30
+#13713
+A Pixie Dagger~
+A Pixie dagger~
+A small sharp dagger lies here~
+~
+5 0 8193
+0 0 0 1
+5 0 0
+A
+2 2
+A
+4 -1
+A
+32 10
+A
+13 3
+A
+18 3
+#13714
+Astral Vengence~
+Astral Vengence~
+A long silver sword lies here~
+~
+5 1 8193
+0 0 0 3
+1 0 0
+A
+66 2
+A
+18 3
+A
+19 3
+A
+3 -2
+#13715
+A Fiddle~
+A Fiddle~
+A Fiddle lies here~
+~
+5 0 8193
+0 0 0 8
+1 0 0
+A
+18 2
+A
+19 3
+A
+12 20
+A
+13 -10
+#13716
+A small crossbow~
+A small crossbow~
+A tiny crossbow waits to be fired~
+~
+5 0 8193
+0 0 0 6
+1 0 0
+A
+18 3
+A
+19 1
+A
+27 256
+#13717
+An Elven Harp~
+An Elven Harp~
+A beutiful harp is lying here~
+~
+9 0 513
+0 0 0 0
+10 0 0
+A
+1 -2
+A
+17 -10
+A
+12 10
+A
+27 1048576
+#13718
+A Massive Hammer~
+A Massive Hammer~
+A gigantic hammer lies here~
+~
+5 0 8193
+0 0 0 8
+1 0 0
+A
+1 3
+A
+13 35
+A
+3 -2
+A
+19 5
+#13720
+A large chest~
+a newly created A large chest~
+A Large Chest is here~
+~
+15 0 0
+600 0 0 0
+1 0 0
+#13721
+Larics Desk~
+a newly created Larics Desk~
+Larics Desk is here~
+~
+44 0 0
+30000 7 5 150
+1 0 0
+#13722
+A monks robe~
+A monks robe~
+A frumpy looking robe lies here~
+~
+9 0 1025
+0 0 0 0
+1 0 0
+A
+1 -2
+A
+5 -2
+A
+4 3
+A
+12 75
+#13723
+A set of Brass Keys~
+A set of Brass Keys~
+A pile of brass keys lie here~
+~
+18 8192 1
+0 0 0 0
+1 0 0
+#13724
+An Ivory Desk~
+a newly created An Ivory Desk~
+A Small Ivory Desk sits here~
+~
+15 0 0
+50 1 0 10
+1 0 0
+#13725
+An aura of blazing shadows~
+An Aura of Blazing Shadows~
+A glowing mass of shadows is writhing here~
+~
+9 16973858 1025
+0 0 0 0
+10 12000 1200
+A
+27 512
+A
+36 25
+A
+1 -2
+A
+5 -1
+A
+13 -25
+A
+66 3
+#13726
+Painbringer~
+Painbringer~
+A sword with a clear hilt and a barbed blade lies here~
+~
+5 0 8193
+0 0 0 1
+1 0 0
+A
+18 1
+A
+19 6
+A
+1 1
+A
+13 -10
+#13727
+A cheery fire pit~
+a newly created A cheery fire pit~
+A cozy fire pit~
+~
+34 0 0
+0 0 0 0
+1 0 0
+#13728
+A shimmering pool~
+a newly created A shimmering pool~
+A shimmering pool of water is here~
+~
+25 0 0
+0 0 0 0
+1 0 0
+#13729
+The corpse of a noble Bard~
+The corpse of a noble bard~
+Here lies the corpse of a Bard died to save a fair maiden~
+~
+23 0 0
+0 0 0 0
+1 0 0
+#13730
+Heros Blood~
+Hero's Blood~
+A small red sphere lies here~
+~
+26 0 1
+49 111 89 17
+1 0 0
+#13731
+A School Tabard~
+A School Tabard~
+A handsom tabard lies here with the crest of the Bardic school on it~
+~
+9 0 9 64
+0 0 0 0
+1 0 0
+A
+3 2
+#13732
+Swashbuklers boots~
+A pair of Swashbuckler's Boots~
+Some thigh high boots lie here~
+~
+9 0 65
+0 0 0 0
+1 0 0
+#13733
+The Medallion of A Master~
+A Master's Medallion~
+A Bardic masters medallion of rank lies here~
+~
+9 0 5
+0 0 0 0
+1 0 0
+#13794
+Nasty2~
+a newly created Nasty2~
+Some god dropped a newly created Nasty2 here.~
+~
+44 0 0
+30000 13 64 5
+1 0 0
+#13795
+A fine leather sword belt~
+A fine leather sword belt~
+A fine sword belt lies here~
+~
+61 0 2049
+0 0 0 0
+1 0 0
+#13796
+Flux Prudence Scroll~
+A Scroll of Prudence~
+A Scroll of Prudence~
+~
+2 8320 16385
+64 42 42 -1
+1 0 0
+#13797
+A Fountain of purest gold sits here creating clear water~
+A Golden font~
+A Fountain of purest gold sits here creating clear water~
+~
+25 3 0
+0 0 0 0
+1 0 0
+#13798
+A mountain of mini-marshmallows~
+a newly created A mountain of mini-marshmallows~
+Some god dropped a newly created A mountain of mini-marshmallows here.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#13799
+a steming pot of coffee~
+A steaming pot of coffee~
+Some god dropped a newly created a steming pot of coffee here.~
+~
+15 0 1
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#13700
+Laric's Library~
+You enter a large dark room. Quiet laughter rings in you're ears. Rows apon
+rows of books line the dark paneled walls. In the center of the room stands an
+ornate desk, with a single candle to light the whole room. Shadows dance
+around the room, not seeming to darken anywhere you look. This is not
+the room you would expect from one such as Laric, it is warm and inviting
+It is a place of introspect and learning.
+~
+0 580 1
+D2
+~
+~
+0 -1 13796
+E
+desk~
+This is a beautifly carved desk made from a strange dark burled wood.
+Carvings cover the smooth wood, musical notes, books, and other more
+obscure images dance before you're eyes always changing always moving.
+~
+S
+#13701
+Gates of Harmony~
+You stand before the Grand Gates of Harmony. Standing over 30' tall these
+gates shine with a myriad of colours, all blending in perfect harmony. Beyond
+them is the famous school of Bards. A bastion of peace and unity for the world
+Musicians from all of the races come here to learn the skills that allow them
+to travel the world entertaining and teaching all they meet. Bards that leave
+here have learned many things; music, magic, and not a little thieving.
+The gates are before you and two small guard posts are to the east and west
+~
+0 0 0
+D0
+Gates
+~
+Gates~
+3 -1 13704
+D1
+~
+~
+0 -1 13703
+D2
+~
+~
+0 -1 22045
+E
+gates~
+Staring into the swirling colors you notice that they seem to be loosing thier
+famous harmony. Some of the colors are moving discordantly and causing
+the whole gate to look out of tune and almost aggressive. Hopfuly this is just
+a trick of the light and not a sign of trouble.
+~
+S
+#13702
+Recepton Room~
+l
+same as the ones in the guard room to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 13701
+S
+#13703
+Guard Room~
+This is a small guard room.  Suprisingly even this practical room is decorated
+in flamboyant colors. Tapestries and rugs of all sizes cover every inch of this
+room. The only furniture in the room is a small plain desk and a wooden chair
+Both seem out of place. There is an exit to the west.
+~
+0 0 0
+D3
+~
+~
+0 -1 13701
+E
+desk~
+The desk is of carved Ivory, on its underside are four pegs apon which hang
+four different sets of brass keys.
+~
+S
+#13704
+Bard School Foyer~
+This is the grandest foyer you have ever seen. The stone walls are carved with
+musical notes, harliquin masks, and all forms of musical instruments.
+from floor to the domed ceiling every inch is a piece of art. The tiles that
+make up the floor are semiprecious stones, lapis, onyx, opal, and many more,
+sparkle in the light that comes from the skylight in the gold leafed ceiling.
+A long crimson carpet streches north through an archway made of purest gold.
+There are no people around and it is very quiet. The only sound is some poorly
+played from the north. There is also a small doorway to the east, where
+the secnt of rotting food comes from.
+~
+0 0 0
+D0
+~
+~
+0 -1 13705
+D1
+~
+~
+0 -1 13793
+D2
+Gates of Harmony
+~
+Gates of Harmony~
+1 -1 13701
+S
+#13705
+Hall of Past Masters~
+This hall is dedicated to the past masters of the school. The dark walls are
+lined with shelves and curios, filled with memorabilia important to the
+history of the school. There are twenty seven statues lining the center isle.
+Each statue a representation of a Master. The statues glare across at each
+other with hatred in thier eyes. Each one emmiting a horrable music. Sound
+cascades around the room clashing and fighting to be the loudest. The statues
+are suddenly quiet. What could have caused them to be silent? Who knows.
+There is a sturdy Iron clad door to the north as well as two passages one to
+west and one to the Northeast.
+~
+0 0 0
+D0
+~
+~
+0 -1 13707
+D2
+~
+~
+0 -1 13704
+D3
+~
+~
+0 -1 13706
+D6
+~
+~
+0 -1 13710
+S
+#13706
+Small Sunny Hall~
+As you enter this hall, you notice that the west wall is one giant window.
+The floor is covered in green carpet and potted plants lend even more warmth
+of this cheery place. The large window allows you to view out to the
+courtyard, which has many plants and fountains. There is a room to the north
+and a small storage room to the south.
+~
+0 0 0
+D0
+~
+~
+0 -1 13713
+D1
+~
+~
+33 -1 13705
+D2
+~
+~
+0 -1 13708
+S
+#13707
+Masters Lounge~
+This is where the teachers come to relax. Deep carpet covers the floor.
+Large comfy chairs and couches are scattered throughout the room. Peaceful
+pictures sooth the mind. *yawn* What a pleasant place. There is a man
+sleeping on one of the couches, he seems to have been here a long time.
+There is a door to the west and a solid looking set of doors to the north.
+~
+0 0 1
+D0
+~
+~
+3 -1 13712
+D2
+~
+~
+0 -1 13705
+D3
+~
+~
+3 -1 13713
+S
+#13708
+Storage Closet~
+This is a small storage closet. There are gardening and cleaning supplies
+stacked to the ceiling. Shovels, and mops line the walls, buckets clank as
+you step in them. The smell of soap, bleach and fertilizer assalt you from all
+sides. This is not a pleasant place. The only exit is north.
+~
+0 0 0
+D0
+~
+~
+0 -1 13706
+D3
+~
+~
+2051 -1 13709
+S
+#13709
+A small landing~
+The stairs behind the secret door lead down to this small non-descript
+wooden landing. The sounds of swords clashing and people tumbling reach
+your ears from below. Sweat and blood are all you can smell in this closed
+area. Suddenly you hear a loud yelling from below as if someone was
+barking orders.
+~
+0 0 0
+D1
+~
+~
+35 -1 13708
+D5
+~
+~
+0 -1 13730
+S
+#13710
+Passage to the Theator~
+This long halway is carpeted in deepes red. The walls are of a bright golden
+color that seems to light the way. As you head further down the hall it starts
+to get dimmer and dimmer. Cracks appear in the walls and the carpet has
+dust and peices of plaster ground into it. There is a sign here.
+~
+0 0 0
+D0
+~
+~
+0 -1 13711
+D9
+~
+~
+0 -1 13705
+E
+sign~
+We apologize but the Theator is closed for renevations.
+thank you,
+The administration
+~
+S
+#13711
+Entrance to the Theater~
+The entrance to the theater is boarded up. The walls are crumbling and
+broken in many places. The paint has peeled and the roof is leaking. It is very
+unlike the school to allow such a wonderful piece of history to fall apart.
+The only exit is the way you came.
+~
+0 0 0
+D2
+~
+~
+0 -1 13710
+S
+#13712
+Masters Conference Room~
+This large room is where the masters hold their weekly meetings. A large
+oval table surrounded by chairs is in the center of the room. The carpet here
+is of a rich red color with golden patterns woven into it. The table is made
+of green marble inlaid with the symbol of the school in onyx. It hums as you
+enter the room emmiting a soft glow. There is a set of stairs that lead up
+into darkness the only other exit is the way you entered.
+~
+0 0 1
+D2
+~
+~
+3 -1 13707
+D4
+~
+~
+0 -1 13714
+E
+table~
+As you look at the beautiful workmanship of this table, you notice hair line
+cracks crazing the surface. The huming and glow seem to be wavering.
+~
+S
+#13713
+Mud Room~
+This is the Mud Room entrance from the Court Yard. There is a large woven
+rug on the floor, as well as many pairs of clogs to keep your feet clean if
+you decided to take a walk in the courtyard. There is a small glass pained
+door to your west as well as a Iron clad Oak door to the east.
+~
+0 0 0
+D1
+~
+~
+3 -1 13707
+D2
+~
+~
+0 -1 13706
+D3
+~
+~
+3 -1 13743
+S
+#13714
+Masters Quarters~
+This seems to be the hallway leading too the masters' private quaters. Doors
+line the walls on either side of you. Two bards stand at attention here,
+seeming not to notice you. You hear stange sounds coming from the south.
+~
+0 0 1
+D2
+~
+~
+0 -1 13715
+D5
+~
+~
+0 -1 13712
+S
+#13715
+Masters Quarters~
+The halway continues south here. There are two doorways here one to the
+East and one to the west. The west door has a fine grey mist comming from
+under it while the from the eastern one the sounds of a forest may be heard.
+Further down the hall you see more doors.
+~
+0 0 1
+D0
+~
+~
+0 -1 13714
+D1
+~
+~
+3 -1 13717
+D2
+~
+~
+0 -1 13718
+D3
+~
+~
+3 -1 13716
+S
+#13716
+Gith Masters Room~
+You feel a strange sensation as you enter this room. You float weightless in
+a swirling mass of grey mist. Shadows move with fluid grace across you're
+vision. This is a representation of the astral plane. Bizzarre furniture floats
+around randomly. A figure moves twords you, Gaunt features frozen in a
+mask of hate. This must be the Gith Bardic master, Garthren.
+~
+0 0 1
+D1
+~
+~
+3 -1 13715
+S
+#13717
+Pixie Masters Room~
+This is a wonderous place. Trees surround you filled with the songs of many
+birds.  The twilight sky tinged with orange as night chases the day
+screaming twords the horizon. The sound of trickling water and the whisper
+of a zepher tickle youre ears. A small form flits around the beauty of this
+place. Its a Pixie, holding a small blood covered knife. Screaming spitefull
+words the Pixie Bardic master Telendrop zooms at you with teeth barred.
+~
+0 0 1
+D3
+~
+~
+3 -1 13715
+S
+#13718
+Masters Quarters~
+The hall is much quieter here. The smell of good ale and warm bread come
+from all around. The rich carpet feels a bit softer under foot. As before there
+are two doors here one to the east and one to the west. Flickering light may
+be seen under both. From the east door the sound of a Fiddle rises happly
+into the air while the west door has the scent of pipe tobbaco eminating from
+it.
+~
+0 0 1
+D0
+~
+~
+0 -1 13715
+D1
+~
+~
+3 -1 13720
+D2
+~
+~
+0 -1 13721
+D3
+~
+~
+3 -1 13719
+S
+#13719
+Human Masters Room~
+This is a dimly lit room. The only light comes from a Large fireplace in the
+southern wall. A pitcher of ale rests on a small table in the corner next to a
+plain wooden cup. The floor is bare wood with rugs scattered around the
+room. Standing in the middle of the room is a tall woman playing a fiddle.
+She turns and you see her face is sad and drawn, her hiar hanging in a tangle
+This is the famous human Bardic master Laraina.
+~
+0 0 1
+D1
+~
+~
+3 -1 13718
+S
+#13720
+Halfling Masters Room~
+This is a small low ceilinged room. The walls and floor look to be earth. A
+warm glow permiates the room, soothing and calming. Cuppords and larders
+fill the room. Freshly  baked bread sits on the table, alongside a pitcher of
+water and a wedge of fine cheese. A large wingbacked chair sits in front of
+the roaring fire, with a small man sitting in. Smoke rings rise from the pipe
+the man is smoking, it is then you notice the small crossbow in the figures
+hand. The wicked dart gleams as Jubal slowly squeezes the trigger. *snickt*
+~
+0 0 1
+D3
+~
+~
+3 -1 13718
+S
+#13721
+Masters Quarters~
+This section of the halway is odd, the carpet is Green and Grey here. The
+sounds of a harp mingle with the slow beating of a large drum. The door to
+the west is made of fine Mahogany while the eastern door is made of Mithril.
+There is also a small door to the south at the end of the halway.
+~
+0 0 1
+D0
+~
+~
+0 -1 13718
+D1
+~
+~
+3 -1 13723
+D2
+~
+~
+1 -1 13724
+D3
+~
+~
+3 -1 13722
+S
+#13722
+Elvin Masters Room~
+The room of Rilana the Elvin master appears to be carved out of the heart of
+a large Ash tree. The smooth wooden walls look to have been made with
+magic for not one chip or mark from a tool marrs its perfect contour. Light
+breezes bring the earthy smell of a deep forest through the room. Oddly
+shaped furniture rests around the room, all carved from the same wood as
+the walls. Rilana is here sitting in a window box playing a mournful song on
+her harp.
+~
+0 0 1
+D1
+~
+~
+3 -1 13721
+S
+#13723
+Dwarven Masters Room~
+This appears to be a large cave. Granit walls streach high into the air.
+Gigantic brazers shed an almost blood colored light across the dark gray
+walls. A forge is in the back of the cave. The heat is intense, almost
+stifling. The air is thick with black smoke and the smell of charcoal and
+sweat. A husky dwarf is here beating on a large drum, while other dwarves
+labor to work the bellows. There is a sword in the forge being tempered.
+With a snarl the head dwarf turns and attacks screaming, The Dwarven master
+Talbor seems to be insane.
+~
+0 0 1
+D3
+~
+~
+3 -1 13721
+S
+#13724
+Attic Stairs~
+This small dark stairwell leads up to the attic. A musty smell reches your
+nose from above. Noises filter down from the attic, scratching, creaking, and
+there is very faint humming comming from somewhere. Suddenly a crazed
+Bard comes flying down tha stairs, eyes dead with fear. He rushes past and
+into the hallway to the north.
+~
+0 0 1
+D0
+~
+~
+1 -1 13721
+D4
+~
+~
+0 -1 13725
+S
+#13725
+Attic~
+This is the School attic. Dust and cobwebs cover everything here.
+It is dark and smells of mold and decay. Spiders and Rats scurry everywhere.
+Various items are stacked here; chests, costume racks, manaquins, and
+other assorted junk are thrown here to be forgotten in a sad decaying world
+of darkness and vermin. Items that once brought joy to those that beheld them
+now lie ruined and usless. The only exits are to the north or back the way
+you came.
+~
+0 0 1
+D0
+~
+~
+0 -1 13726
+D5
+~
+~
+0 -1 13724
+S
+#13726
+Center of the Attic~
+This is the center of the attic. The dark seems alive here. Shadows within
+the shadows drift about the room. Sparks of yellow and red light
+appear hear and there, resembling eyes in the dark. A pulsing beat may be
+heard from the east, out of time and throbbing in the air. All here seems
+surreal, manaquins leer at you,chests seem to move closer. Small skittering
+things scuttle across your feet. There are exits in all directions.
+~
+0 0 1
+D0
+~
+~
+0 -1 13729
+D1
+~
+~
+0 -1 13727
+D2
+~
+~
+0 -1 13725
+D3
+~
+~
+0 -1 13728
+S
+#13727
+Attic~
+This area feels very evil. There is a large Pentigram on the floor.
+It is pulsing with many colored lights, and is emmiting a low humming
+like a heartbeat. It starts to swirl around and around becoming a mesmerising
+swirl of colors. When it stops you are elswhere.
+~
+0 4194304 1 15 13774 0
+D3
+~
+~
+0 -1 13726
+S
+#13728
+Western Attic~
+This section of the attic seems normal. Harmless memrabeila is stacked neatly
+about the room. The light here seems brighter, the air a bit clearer.
+The only sound is that of mice in the rafters. It is almost pleasant.
+A large chest stands here in the corner waiting to be explored.
+The only exit is east.
+~
+0 0 1
+D1
+~
+~
+0 -1 13726
+S
+#13729
+Unstable Floor~
+This room is very wet. There is a hole in the roof that has
+weakend the floor. There is a closet on the north wall. As you start across
+the soggy timbers... The floor gives way.
+You have fallen to your death!
+~
+0 4 1
+S
+#13730
+Guard Post~
+This is a small room carved into the rock.
+Two guards stand here arguing about somthing
+unimportant. Thier instruments lying forgotten
+on the ground. They seem oblivious to the room
+around them. You may head further down or back up.
+~
+0 0 0
+D4
+~
+~
+0 -1 13709
+D5
+~
+~
+0 -1 13731
+S
+#13731
+Secret Training Grounds~
+As you descend the last few steps from the guard post, it becomes clear what
+they are guarding; A secret training grounds for Bards! Bards stand all
+around you, learning combat and thievery. Far to the west there are some
+bards dressed in dark colors practicing somthing other than the respected
+arts. There are two man shaped targets here with two Bards practicing
+strikes and parrys on them.
+~
+0 0 0
+D2
+~
+~
+0 -1 13738
+D3
+~
+~
+0 -1 13732
+D4
+~
+~
+0 -1 13730
+S
+#13732
+Secret Training Grounds~
+This area is filled with smoke and debries. Bards are making different types
+of explosives and smoke bombs. The smell of sulfur is thick in the air. The
+bare dirt floor is marred with pits and scortched earth. The Bards here are
+throwing explosives and flamables on each other and laughing as the victem
+runs screaming or rolls writhing on the floor in agony.
+~
+0 0 0
+D1
+~
+~
+0 -1 13731
+D2
+~
+~
+0 -1 13737
+D3
+~
+~
+0 -1 13733
+S
+#13733
+Secret Training Grounds~
+The room here is scattered with boulders, trees, and , mock ups of various
+building types. Obviously set up for training in stealth. THough there is no
+one in sight, the pourpous of this area leaves little doubt that there are eyes
+watching from behind somthing here. to the west you see dark clad figures
+doing somthing.
+~
+0 0 0
+D1
+~
+~
+0 -1 13732
+D2
+~
+~
+0 -1 13736
+D3
+~
+~
+0 -1 13734
+S
+#13734
+Shadowy Training Area~
+This area has an evil feel to it. The dark walls and floor are stained with
+blood. Figures move here never standing still, yet never truly seen. One
+sneaks up behind another dressed in regal cloths and slides a dagger in his
+back. These Bards are learning how to assassinate! Other shadows move to
+strike there targets, all dressed like the lords of the relms. One uses a Garro
+to strangle the life out of his mark while another simply breaks the neck of
+his with a fluid motin.  *scuff* there is someone behind you.
+~
+0 0 0
+D1
+~
+~
+0 -1 13733
+D2
+~
+~
+0 -1 13735
+S
+#13735
+Secret Training Grounds~
+This is obviously the testing arena for the area. Barbed wire fencing
+makes a large square in the middle of the room. Rows of bleachers surround
+that on three sides. In the middle set there is a platform with a throne on
+top. The room is empty except for a dying old Bard lying in the middle of the
+ring crying out for water.
+~
+0 0 0
+D0
+~
+~
+0 -1 13734
+D1
+~
+~
+0 -1 13736
+D2
+~
+~
+0 -1 13739
+S
+#13736
+Grand Melee'~
+There are many Bards packed into this section of the Training grounds.
+Standing in a loose circle around a podium, where a large man stands
+addressing the crowd. All around the sunken floor of this room lie the
+bodys of those slain in combat. As you enter the Room The man is shouting
+"Let there be War!!", and the bards explode into action. Combat is going on
+all around. There is no way to avoid being drawn into it.
+~
+0 0 0
+D0
+~
+~
+0 -1 13733
+D1
+~
+~
+0 -1 13737
+D3
+~
+~
+0 -1 13735
+S
+#13737
+Water hole~
+There is a large pool in the center of the room. Cool black water
+laps at the edges. Small blind fish may be seen swimming around in
+its Debths. A shed has been erected here at the edge. Inside are dried meats
+and other foodstuffs. This must be where the Bards rest after training.
+~
+0 0 0
+D0
+~
+~
+0 -1 13732
+D1
+~
+~
+0 -1 13738
+D2
+~
+~
+0 -1 13741
+D3
+~
+~
+0 -1 13736
+S
+#13738
+Secret Training Grounds~
+This section has been laid out to teach the art of pilfering. Dummys stand
+around the room, Dripping with what appears to be real jewlery. There is
+a mock up of a four story building here with a rope and harness attached
+to the top. There are three Bards at the top of the building trying to throw
+one another out of the window.
+~
+0 0 0
+D0
+~
+~
+0 -1 13731
+D2
+~
+~
+0 -1 13742
+D3
+~
+~
+0 -1 13737
+S
+#13739
+Secret Training Grounds~
+This area is filled with supplies. Weapons, armor, uniforms, and other
+various forms of equipment are stacked neatly here. Boxes and crates litter
+floor making it difficult to make your way north twords the only exit.
+~
+0 0 0
+D0
+~
+~
+0 -1 13735
+D1
+~
+~
+0 -1 13741
+S
+#13740
+Secret Training Grounds~
+~
+0 0 1
+D1
+~
+~
+0 -1 13741
+S
+#13741
+Secret Training Grounds~
+There are several Bards in this quiet section of the cave. They are
+making there way north twords the center of the grounds for some reason.
+This area seems mostly unused, few footprints mark the dirt floor. The
+wall here has several outcroppings, and you can smell pipe smoke in that area.
+The Bards must come here to play hooky from their lessons.
+~
+0 0 0
+D0
+~
+~
+0 -1 13737
+D1
+~
+~
+0 -1 13742
+D3
+~
+~
+0 -1 13739
+S
+#13742
+Secret Training Grounds~
+This area is empty. You can see the true nature of the cave here. The walls
+are smooth grey granit. Nothing marrs the perfectly smooth surface. The floor
+is loose dirt, that was probly brought in by the school. The who thing smaks
+of magic, the walls are too smooth to be a natural formation. The sounds of
+fighting and the crys of the wounded bring your attention back to the rest of
+the cave.
+~
+0 0 0
+D0
+~
+~
+0 -1 13738
+D3
+~
+~
+0 -1 13741
+S
+#13743
+Courtyard Entrence~
+This is a beautiful courtyard. Walls surround you on all sides. There is a
+white gravel path meandering through this area. Small gardens of blooming
+flowers, dot the ground as well as trees and twinkling fountains. There are
+exits in all directions.
+~
+0 0 1
+D0
+~
+~
+0 -1 13745
+D1
+~
+~
+0 -1 13713
+D2
+~
+~
+0 -1 13744
+D3
+~
+~
+0 -1 13747
+S
+#13744
+Empty Courtyard~
+This area is empty of any plantlife, statues or fountains. Places where they
+once stood are outlined on the flagstones, All that remains is a fine grey
+dust. The wind swirls little piles of it around the ground making strange
+shapes. There is a quiet sobbing comming from the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 13743
+D3
+~
+~
+0 -1 13748
+S
+#13745
+Further into the Courtyard~
+Here the gardens dont look as healthy. Dark sploches marr the small flowers.
+The trees are twisted and losing leaves. The fountain here is filled with algae
+and sludge. Somthing skitters in the small bushes surrounding you. Looking
+south the courtyard looks more hospitable.
+~
+0 0 1
+D2
+~
+~
+0 -1 13743
+D3
+~
+~
+0 -1 13746
+S
+#13746
+Blasted Courtyard~
+This section has been burrned out. Blackened twisted limbs spread out from
+burnned trees. The flagstones have melted together. Lumps of once molten rock
+mark where fountains once stood. Ash and soot make a thick carpet on the
+floor. The smell of brimstone is in the air. Strange clawed footprints mark
+the ground here, heading south. It might be a good idea to leave.
+~
+0 0 1
+D1
+~
+~
+0 -1 13745
+D2
+~
+~
+0 -1 13747
+S
+#13747
+Overgrown Statues~
+This section of the courtyard has many statues and carvings scatterd around.
+The area seems overgrown. Scraggly weeds srpout up from cracks in the path.
+Sickly ivy creeps up the once beautiful statues. It is very quiet. The path
+is split and heads in all directions. There is a sound coming from the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 13746
+D1
+~
+~
+0 -1 13743
+D2
+~
+~
+0 -1 13748
+D3
+~
+~
+0 -1 13749
+E
+statue~
+This statue Is alive! The face of the statue contourt into a mask of rage.
+Demonic flames flare around the statue as it moves twords you to attack.
+~
+S
+#13748
+The Bards Demise~
+This quiet section of the courtyard is occupied by a young beautiful elf
+and the dying form of a well dress Bard. Tears stream down the face of
+the elvin maiden as she cradles the burned and broken form of her charge.
+She is muttering one word over and over to herself as the man takes his last
+shuddering breath and fades away. The maiden takes no notice of those around
+her and continues holding the corpse close and rocking back an fourth.
+~
+0 0 1
+D0
+~
+~
+0 -1 13747
+D1
+~
+~
+0 -1 13744
+S
+#13749
+Repair Shop~
+This is the famous instrument repair shop of Larissa. If you are a Bard worth
+your salt you come here to fix and maintain instruments. The shop walls are
+lined with instruments for sale. The counter is dusty and seems unused for a
+long time. there is a door to the west behind the Counter where loud crashes
+and the sound of breaking wood and meatal may be heard
+~
+0 0 1
+D1
+~
+~
+0 -1 13747
+D3
+~
+~
+0 -1 13751
+S
+#13750
+Path to Harmony~
+~
+0 4 1
+D0
+~
+~
+0 -1 13701
+S
+#13751
+Repair Shop~
+This is the work area for the shop. Bards run around the room smashing
+anything in reach. Broken instruments litter the floor and a small fire has
+been lit in a corner. The sound is terrable in here off key notes bounce
+around the room clashing with the sound of cracking wood and twisting metal.
+The equipment and storeroom are to the south while a sign over the north door
+says Office.
+~
+0 0 1
+D0
+~
+~
+0 -1 13752
+D1
+~
+~
+0 -1 13749
+D2
+~
+~
+0 -1 13753
+S
+#13752
+Larissa's Office~
+This is the head repair woman's office. There is a large workbench along
+one wall, while a small desk sits in the south western corner of the room.
+Larrisa would come here to work on or make the instruments of the masters
+or royalty. Larissa sits at her work bench making an instrument of some kind.
+It is a conglomeration of many different types, some known some unknown.
+With a twisted snarl she turns holding this contraption like a weapon
+It is making an awful Racket. The sound of stringed and woodwind instruments
+twirl about making communication impossable, as well as challenging your
+ability to stay sane.
+~
+0 0 1
+D2
+~
+~
+0 -1 13751
+S
+#13753
+Repair Shop~
+This is the Storage room for the shop. Tools and peices of fine wood
+lie about the room or are haning on the walls. Saw dust covers the floor and
+a bin for shavings is in one corner. The room smells of oil and fresh cut
+wood. There are no footprints in the sawdust on the floor. This might
+be a place to rest.
+~
+0 0 1
+D0
+~
+~
+0 -1 13751
+S
+#13754
+The Court of Discord~
+You stand before a large keep made from bones. Skulls adorn the top most
+walls, while rib cages, leg bones and other unrecognizabe parts make up
+the body of the wall. There is a large gate standing before you. A large
+creature made of bones stands before you, blocking the path north.
+~
+0 0 1
+D0
+~
+~
+0 -1 13776
+D1
+~
+~
+0 -1 13755
+D2
+~
+~
+0 -1 13758
+D3
+~
+~
+0 -1 13756
+S
+#13755
+The Court of Discord~
+Large chunks of rock float here. A pale blue glow permiates the room.
+The horizon does not seem as black as before. One of the chunks
+seems to be moving on its own. Green eyes peer at you from behind
+a rocky brow. What this creature is.. who can say, but it is not a freindly
+one for sure.
+~
+0 0 1
+D2
+~
+~
+0 -1 13760
+D3
+~
+~
+0 -1 13754
+S
+#13756
+The Court of Discord~
+This area seems normal, very out of place for this realm of maddness.
+A tall statue of some unnamed god stands here emmiting a soft glow.
+Bards by the hundreds are throwing them selves onto the statue, trying it
+seems to destroy it. Each time a Bard strikes the statue, he bursts into
+flame. The flame then dances to an unheard tune through the ranks of
+the Bards setting more aflame. This cycle goes on forever it seems, each Bard
+that is killed is replaced by another two. Getting involved might not be
+a good idea.
+~
+0 0 1
+D1
+~
+~
+0 -1 13754
+D2
+~
+~
+0 -1 13761
+S
+#13757
+The Court of Discord~
+~
+0 0 1
+D0
+~
+~
+0 -1 13756
+D1
+~
+~
+0 -1 13758
+D2
+~
+~
+0 -1 13761
+D3
+~
+~
+0 -1 13775
+S
+#13758
+The Court of Discord~
+You stand before a small hut. Small and unassuming it stands in the middle
+of the room. Strange sounds come from inside of its thatched walls.
+There are no bards here, only floating body parts. Each part from a different
+creature. They are twitching and writhing in the air before you, drifting
+slowly twords the enterence to the hut to the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 13754
+D1
+~
+~
+0 -1 13759
+D2
+~
+~
+0 -1 13761
+D3
+~
+~
+0 -1 13775
+S
+#13759
+The Court of Discord~
+This seems to be the center of the realm. Although the term center is not
+applicable here. There is a vortex in the room swirling ever downward into
+nothingness. Made of all colors and none the vortex pulls on you
+drawing you closer. You are pulled in and thrown out at the same time.
+Leaving might be a good idea since the cycle is begining again.
+~
+0 0 1
+D1
+~
+~
+0 -1 13760
+D2
+~
+~
+0 -1 13762
+D3
+~
+~
+0 -1 13760
+S
+#13760
+The Court of Discord~
+No colors are visable now. A flat, monoton grey surrounds the area.  A womans
+laughter peals into the room from the east, causing the bards in the room to
+scurry in all directions, with looks of horror born of temporary sanity. The
+laughter is sultry and passionate, the laugh of a woman who revels in pain
+and suffering. There is a Black archway to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 13755
+D1
+~
+~
+0 -1 13777
+D2
+~
+~
+0 -1 13764
+D3
+~
+~
+0 -1 13759
+S
+#13761
+The Court of Discord~
+Light glares around you. Blazing white in your eyes. Nothing may be seen
+here except the floating, burnt remains of some creatures. Heat begins to
+built in the area. The light grows stronger. It is hard to tell which way
+to head, light surounds you on all sides.
+~
+0 0 1
+D0
+~
+~
+0 -1 13758
+D1
+~
+~
+0 -1 13762
+S
+#13762
+The Court of Discord~
+One step and you are in the heart of maddness. The world ceases to exist as
+you enter this place. The groud drops away into nothing but swirling colors.
+All around things form and reform in a black horizon. Bards drift here,
+either insane beyond thought or massacaring those who are too far gone to
+Defend themselves. Smells, sounds, touch, and taste all swirl together
+ripping through the body. You may travel in any direction.
+~
+0 0 1
+D0
+~
+~
+0 -1 13759
+D1
+~
+~
+0 -1 13763
+D2
+~
+~
+0 -1 13765
+D3
+~
+~
+0 -1 13761
+S
+#13763
+The Court of Discord~
+This area seems as any other here. a floor that isnt a floor made of swirling
+colors, offset by a sky and horizion of inky black. More bards wander here
+attacking every think in sight, or themselves. Eddies of color find there way
+into the sky mixing with the black, it seems to be this places version of
+dusk.
+~
+0 0 1
+D0
+~
+~
+0 -1 13760
+D1
+~
+~
+0 -1 13764
+D3
+~
+~
+0 -1 13762
+S
+#13764
+The Court of Discord~
+Total darkness fills this area. Flashes of blinding light appear now and
+then, searing the senses. The bards here are lethargic, floating unmoving in
+the void. The darkness murmurs to itself unintelligably.
+~
+0 0 1
+D0
+~
+~
+0 -1 13760
+D3
+~
+~
+0 -1 13763
+S
+#13765
+The Gates Of Discord~
+Standing here is a mockery of the Famous Gates of Harmony. Twisted
+and broken the gates stand ajar. Made of blackend steel, and carved with
+evil grotesque faces, and broken instruments the gates stand as a
+display of the wickedness of the master of this place. Heads adorn the spikes
+atop the gates. Babbling, and wailing, the animated heads peer down at you
+throwing curses and insults at you. You may continue north through the gates.
+~
+0 0 1
+D0
+~
+~
+0 -1 13762
+D2
+~
+~
+0 -1 13766
+S
+#13766
+The Entrnce to The Lords Relm~
+You stand before a chasm. Steep, jagged walls streak dowards into the
+earth. Flames of many hues shoot skyward, taking shape just before
+the lip. They form into the ragged shape of people arms reaching for
+the edge. These poor souls never quite make it though, always just before
+they make it they flutter back down into the waiting maw of the chasm.
+There is a bridge here, made of corpses in various stages of decay. Two
+figures stand at attention before the bridge, clad in many colored armor.
+The guards stand motionless, almost statues in the dark, but snap to life
+as you approach. Swords at the ready, they wait.
+~
+0 0 1
+D0
+~
+~
+0 -1 13765
+D1
+~
+~
+0 -1 13767
+D2
+~
+~
+0 -1 13768
+S
+#13767
+Calm in the Storm~
+This is a small room. Strange it is for this place, Calm reigns here.
+the sand floor and normal grey stone are a welcome sight in the midst of
+the chaos around it. A small fire pit stands before a statue of a forgotten
+God. The statue glows with a soft light keeping the maddness at bay.
+This would be a place to rest.
+~
+0 1049600 1
+D3
+~
+~
+0 -1 13766
+S
+#13768
+Maddening Mist~
+This room filled with a thick orange and green mist. Faces appear and
+dissapear before the eyes. Some peacful with faint smiles, others
+with haggerd gaunt features and snapping fangs. Whispers crawl through
+the air violating the mind, slowly, insidiously oozing past all defenses.
+The maddness is stronger here, almost sentient. The passage continues north.
+~
+0 0 1
+D0
+~
+~
+0 -1 13766
+D3
+~
+~
+0 -1 13769
+S
+#13769
+The Twisted Path~
+The tunnle here would be normal, except for the fact that the path
+spirals its way down the passage. Walking is treacherous, for the path moves
+underfoot. It is hard to tell when walking on floor, ceiling, or wall. Coins
+and other small objects that fall out of pockets float in the center of the
+passage, seemingly unable to decide which way is down. The passage continues
+east.
+~
+0 0 1
+D1
+~
+~
+0 -1 13768
+D2
+~
+~
+0 -1 13770
+S
+#13770
+The Madmans Reverie~
+The smooth grey walls of the passage reflect the sound of someone
+muttering to themselves. Over and over the voice echos through the room.
+A small man walks here the source of the muttering. Stories of death
+and the end of peace weave together with conversations of people long gone
+or possably that never were. Shuffling twords you with haunted eyes the man
+pushes past without noticing anything. Continuing east back into
+the maddening tunnle lost deep within his own mind.
+~
+0 0 1
+D0
+~
+~
+0 -1 13769
+D1
+~
+~
+0 -1 13771
+S
+#13771
+Further into Madness~
+It now appears that the passage is in constant flux between maddness and
+normal conditions. Here again maddess reigns. The rock jibber at you cursing
+and spitting. The floor rises and falls as if breathing. Ocher slime drips
+from the ceiling, the drops screaming as they fall to be eaten by the stones
+on the floor. There seems to be no end to the insanity of this place. The
+passage continues west.
+~
+0 0 1
+D1
+~
+~
+0 -1 13772
+D3
+~
+~
+0 -1 13770
+S
+#13772
+The Passage Turn~
+Rock and earth take the place of writhing flesh here. The passage turns
+sharply west. Empty screams echo off the dark walls. If not for the noise it
+would seem as any other underground passage. The dirt floor shows signs
+of recent travel by many feet.
+~
+0 0 1
+D0
+~
+~
+0 -1 13773
+D3
+~
+~
+0 -1 13771
+S
+#13773
+An Insane Passage~
+The walls and floor of this passage are twisted and malformed. Melting faces
+and hollow eyes stare at you for a moment before they reform into another
+shape. The floor feels soft like flesh and the ceiling glows pulsing red.
+A faint beating may be heard. Acrid mist swirls around your feet as the Passage
+continues south
+~
+0 0 1
+D1
+~
+~
+0 -1 13774
+D2
+~
+~
+0 -1 13772
+S
+#13774
+The Realms of Discord~
+The swirling has stopped you are somewhere else. Grey shadows tinged with
+mauve, green, and brown dance across the orange walls of this strange place.
+Ear thrashing sound cascades through the cavern, the sounds of untuned
+instruments and screams of agony. Figures dart around the room some
+seemingly attacking others. This is not a place any sane person would come
+too. Hopfuly the exit to the west will lead out of this vile place.
+~
+0 0 1
+D3
+~
+~
+0 -1 13773
+S
+#13775
+Lesser Lords Room~
+This hut is filled to it roof with animated body parts. The thatched walls
+bulging out with the weight of them. A man stands here in brown robes.
+He is rather frumpy looking and is whistling a merry tune. He waves his arms
+and several body parts mesh togerher to form a single creature. Still
+whistling he turns an almost benevlolent smile on you and points as the
+hideous creature attacks,
+~
+0 0 1
+D1
+~
+~
+0 -1 13759
+S
+#13776
+The Lords Chamber~
+This is a hall of bones, everything here is made of bones. The walls, floor,
+ceiling, and funiture made of all forms of skelitons. In the center
+of the room sits a large throne, also made of bones. Sitting atop it is a
+being, Obviously the Lord of These relms. Maddness radiates from his body
+rippling out into the void around him. Bone armor glistning with blood, and
+writhing as the bones it is made of rearange themselves, he stands.
+waving you on as he grabs Massive hammer from beside the throne. Laughing
+he raises his hammer and attacks.
+~
+0 0 1
+D2
+~
+~
+0 -1 13754
+S
+#13777
+Lesser Lady's room~
+This whole room is made of what appears to be the underside of skin.
+Blood trickles down the walls in small rivulets, past chunks of quivering
+flesh. Pools of fresh blood fill the room, with skinned corpses floating in
+them. A woman stands here dressed in pure white silk that has not a drop of
+blood on it. In one hand she holds a small curved knife, in the other a
+Cat O' Nine tails. She is laughing a deep satisfied laugh. As she looks at
+glint in her eye that sends shudders through you.
+~
+0 0 1
+D3
+~
+~
+0 -1 13760
+S
+#13778
+Hall of Study~
+This is the academic wing of the school. The hall heads north with doors on
+either side. Plain grey carpet lines the floor while the walls are of white
+stone. It is very quiet here, not a sound to be heard from anywhere. The dim
+light from the door back to the courtyard offers little help against the
+thick darkness ahead.
+~
+0 0 1
+D0
+~
+~
+0 -1 13780
+D2
+~
+~
+0 -1 13745
+S
+#13779
+Class Room~
+~
+0 0 1
+D1
+~
+~
+0 -1 13778
+S
+#13780
+Hall of Study~
+~
+0 0 1
+D0
+~
+~
+0 -1 13781
+D1
+~
+~
+0 -1 13791
+D2
+~
+~
+0 -1 13778
+D3
+~
+~
+0 -1 13787
+S
+#13781
+Hall of Study~
+~
+0 0 1
+D0
+~
+~
+0 -1 13782
+D1
+~
+~
+0 -1 13790
+D2
+~
+~
+0 -1 13780
+D3
+~
+~
+0 -1 13786
+S
+#13782
+Hall of Study~
+~
+0 0 1
+D0
+~
+~
+0 -1 13783
+D1
+~
+~
+0 -1 13789
+D2
+~
+~
+0 -1 13781
+D3
+~
+~
+0 -1 13785
+S
+#13783
+Hall of Study~
+~
+0 0 1
+D0
+~
+~
+0 -1 13792
+D1
+~
+~
+0 -1 13788
+D2
+~
+~
+0 -1 13782
+D3
+~
+~
+0 -1 13784
+S
+#13784
+Class Room~
+~
+0 0 1
+D1
+~
+~
+0 -1 13783
+S
+#13785
+Class Room~
+~
+0 0 1
+D1
+~
+~
+0 -1 13782
+S
+#13786
+Class Room~
+~
+0 0 1
+D1
+~
+~
+0 -1 13781
+S
+#13787
+Class Room~
+~
+0 0 1
+D1
+~
+~
+0 -1 13780
+S
+#13788
+Class Room~
+~
+0 0 1
+D3
+~
+~
+0 -1 13783
+S
+#13789
+Class Room~
+~
+0 0 1
+D3
+~
+~
+0 -1 13782
+S
+#13790
+Class Room~
+~
+0 0 1
+D3
+~
+~
+0 -1 13781
+S
+#13791
+Class Room~
+~
+0 0 1
+D3
+~
+~
+0 -1 13780
+S
+#13792
+Auditorium~
+~
+0 0 1
+D2
+~
+~
+0 -1 13783
+S
+#13793
+Mess Hall~
+This room is a mess. Food is splattered everywhere, flys buzz around
+the room and the stench is horrable. Several dead bodys lie here as well,
+partialy eaten. A sickly chomping sound may be heard from a large
+pile of rotten food. Little chittering things move here and there.
+The only exit is west
+~
+0 4 0
+D3
+~
+~
+0 -1 13704
+S
+#13794
+Path to Harmony~
+~
+0 4 1
+S
+#13795
+Path to Harmony~
+~
+0 0 1
+D0
+~
+~
+0 -1 13794
+D2
+~
+~
+0 -1 13798
+D3
+~
+~
+0 -1 13794
+S
+#13796
+Floating in a void~
+~
+0 0 1
+D0
+~
+~
+0 -1 13700
+S
+#13797
+Floating in a void~
+~
+0 4 1
+S
+#13798
+Path to Harmony~
+~
+0 0 1
+D0
+~
+~
+0 -1 13700
+S
+#13799
+Path to Harmony~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+D 0 13708 3 1
+D 0 13709 1 1
+D 0 13712 2 1
+M 1 13700 1 13701
+E 1 13704 1 0
+E 1 13703 1 6
+E 1 13702 1 5
+E 1 13701 1 16
+D 0 13701 0 1
+M 1 13700 2 13742
+E 1 13701 1 16
+E 1 13703 1 6
+E 1 13702 1 5
+E 1 13704 1 0
+M 1 13702 1 13752
+E 1 13706 1 16
+M 1 13708 1 13777
+E 1 13709 1 16
+E 1 13710 1 18
+M 1 13707 3 13777
+M 1 13707 3 13777
+M 1 13707 3 13777
+M 1 13710 1 13755
+M 1 13712 2 13766
+E 1 13711 1 16
+M 1 13712 2 13766
+E 1 13711 1 16
+M 1 13713 1 13770
+E 1 13712 1 20
+M 1 13700 13 13763
+M 1 13700 13 13762
+M 1 13700 13 13762
+M 1 13700 13 13762
+M 1 13709 1 13764
+M 1 13714 1 13717
+E 1 13713 1 16
+D 0 13717 3 1
+M 1 13715 1 13716
+E 1 13714 1 16
+D 0 13716 1 1
+D 0 13718 1 1
+D 0 13718 3 1
+M 1 13716 1 13719
+E 1 13715 1 16
+D 0 13719 1 1
+M 1 13717 1 13720
+E 1 13716 1 16
+D 0 13720 3 1
+M 1 13718 1 13722
+E 1 13717 1 11
+D 0 13722 1 1
+M 1 13719 1 13723
+E 1 13718 1 16
+D 0 13723 3 1
+D 0 13721 1 1
+D 0 13721 2 0
+D 0 13721 3 1
+D 0 13715 1 1
+D 0 13715 3 1
+D 0 13707 0 1
+D 0 13707 3 1
+D 0 13713 1 1
+D 0 13713 3 1
+M 1 13700 16 13732
+M 1 13700 16 13732
+M 1 13700 22 13738
+M 1 13700 22 13738
+M 1 13700 29 13735
+M 1 13700 32 13710
+M 1 13701 3 13730
+E 1 13705 1 16
+M 1 13701 3 13730
+E 1 13705 1 16
+M 1 13700 38 13731
+E 1 13701 1 16
+M 1 13700 38 13731
+E 1 13701 1 16
+M 1 13700 38 13731
+E 1 13701 1 16
+M 1 13703 1 13776
+E 1 13708 1 5
+E 1 13707 1 16
+M 1 13706 2 13776
+M 1 13706 2 13776
+M 1 13711 1 13775
+E 1 13722 1 12
+M 1 13704 3 13775
+M 1 13704 3 13775
+M 1 13704 3 13775
+M 1 13700 38 13733
+E 1 13702 1 5
+M 1 13700 38 13733
+E 1 13702 1 5
+M 1 13700 38 13733
+M 1 13700 38 13733
+M 1 13700 38 13733
+M 1 13700 38 13733
+M 1 13723 1 13733
+M 1 13700 38 13736
+M 1 13700 38 13736
+M 1 13700 38 13736
+M 1 13700 38 13736
+M 1 13700 38 13736
+M 1 13726 1 13736
+M 1 13700 41 13751
+M 1 13700 41 13751
+M 1 13700 41 13751
+D 0 13706 1 0
+M 1 13721 2 13761
+M 1 13700 41 13761
+M 1 13700 41 13761
+M 1 13700 41 13761
+M 1 13795 1 13759
+M 1 13700 43 13756
+M 1 13700 43 13756
+M 1 13700 43 13756
+M 1 13721 2 13756
+M 1 13796 1 13767
+O 1 13797 1 13767
+O 1 13727 1 13767
+M 1 13700 38 13737
+M 1 13700 38 13737
+O 1 13728 1 13737
+M 1 13730 1 13748
+G 1 13730 1
+O 1 13729 1 13748
+M 1 13701 5 13714
+E 1 13705 1 16
+E 1 13731 1 5
+M 1 13701 5 13714
+E 1 13705 1 16
+E 1 13731 1 5
+M 1 13700 41 13734
+M 1 13700 41 13734
+M 1 13700 41 13734
+M 1 13723 2 13734
+E 1 13725 1 12
+M 1 13727 1 13747
+E 1 13726 1 16
+E 1 13726 1 18
+M 1 13795 1 13754
+M 1 13700 43 13754
+M 1 13701 5 13703
+E 1 13705 1 16
+E 1 13731 1 5
+M 1 13700 43 13703
+E 1 13704 1 0
+E 1 13703 1 6
+E 1 13702 1 5
+E 1 13701 1 16
+O 1 13724 1 13703
+O 1 13721 1 13700
+D 0 13704 2 0
+O 1 13794 1 13724
+D 0 13724 0 0
+O 1 12793 1 4202
+M 1 13705 3 13793
+M 1 13705 3 13793
+M 1 13705 3 13793
+O 1 17 1 13793
+O 1 13721 1 13793
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  13700 spec_cast_mage
+M  13701 spec_cast_mage
+M  13702 spec_cast_cleric
+M  13703 spec_breath_fire
+M  13705 spec_fido
+M  13709 spec_cast_undead
+M  13711 spec_cast_mage
+M  13712 spec_cast_undead
+M  13713 spec_cast_mage
+M  13715 spec_cast_mage
+M  13716 spec_cast_mage
+M  13717 spec_thief
+M  13718 spec_cast_mage
+M  13719 spec_breath_fire
+M  13721 spec_cast_undead
+M  13723 spec_cast_undead
+M  13727 spec_breath_any
+M  13794 spec_thief
+M  13795 spec_executioner
+M  13796 spec_cast_adept
+S
+
+
+#$

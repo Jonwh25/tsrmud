@@ -1,0 +1,562 @@
+#AREA   {PROTO} Remik's area in progress~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#1000
+Port of Dhabsin~
+Entering the Port of Dhabsin, it is easily noticed that this port is
+home to a number crews.  To the slight northeast the port continues
+as it follows the creastline of the island.  In that direction are a
+number of ships, including one that stands out.  Its brilliantly bright
+colors include red, gold, yellow, and purple.  To the west, the port 
+continues.  Along that path are a number of ships as well.  However,
+none boast of such prestige as the vessle to the northeast.  In either
+direction you can continue, as well as to the southeast to what looks to
+be the port shop.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 1004
+D3
+~
+~
+0 -1 1002
+D6
+~
+~
+0 -1 1003
+S
+#1001
+Port of Dhabsin~
+A small path, following the creast of the ocean leads you here.  This 
+is the northern most tip of the port, as the walk ends abruptly at a
+ship of certain status.  Although it cannot be reached to inspect 
+because of the line of pirates that guard its entrace, they allow
+visitors to admire the beauty of the shit.  The high sailing flags of
+the ship wane slightly in the wind, as the bold colors of its decks
+shine in the light.  A large insignia on the side of the main deck is
+readily appearant, and brings much to wonder about the captain of the
+ship.  The insignia, in the form of a nonagon, has the cruelst look 
+about it.  From first a first glance it looks much like a skull inside
+a circle, but a more careful look brings more detail to the eye.  From
+the end of the walk, southwest is the only way it looks exitable.
+~
+0 1073741824 1
+D9
+~
+~
+0 -1 1000
+S
+#1002
+Port of Dhabsin~
+A small walkway from the main entrance of the port leads to here.  It 
+ends abruptly, meeting with sandy sandy soil.  The air smells of the 
+ocean, and the sight resembles much the same.  Vessles of many sizes
+have reached this dock and surely call it home.  Some even look to have
+been abandoned.  Back east seems to be the only real way to adventure
+while further west a wide beach makes its way next to the waters.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 1000
+S
+#1003
+Port of Dhabsin~
+A small path, following the creast of the ocean leads you here.  This 
+is the northern most tip of the port, as the walk ends abruptly at a 
+ship of certain status.  Although it cannot be reached to inspect  
+because of the line of pirates that guard its entrace, they allow   
+visitors to admire the beauty of the ship.  The high sailing flags of
+the ship wane slightly in the wind, as the bold colors of its decks  
+shine in the light.  A large insignia on the side of the main deck is 
+readily appearant, and brings much to wonder about the captain of the  
+ship.  The insignia, in the form of a nonagon, has the cruelst look  
+about it.  From a first glance it looks much like a skull inside
+a circle, but a more careful look brings more detail to the eye.  From 
+the end of the walk, southwest is the only way it looks exitable.    
+~
+0 1073741824 1
+D9
+~
+~
+0 -1 1000
+S
+#1004
+Path to Dhabsin~
+The entrance to the small village of Dhabsin begins here.  Much lore
+and history tells the average traveler strange things about this land.
+Not much is known, however.  The people of this village have sworn
+against all its accusations and testify that they have no knowledge of
+the tales.  A small dirt path with patches of grass lines the way into
+the main street of the village to the south.  Slightly south and just
+east is what looks to be the port shop, where travelers buy supplies
+and other such goods for travel.  To the north are the docks of Dhabsin,
+leading off the Island of Habus.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1000
+D2
+~
+~
+0 -1 1005
+S
+#1005
+Path to Dhabsin~
+A small dirt and grass path has been made to the entrance of this small
+inhabitancy.  Just off the east of the path is what looks to be the 
+port shop.  Travelers and villagers alike pass through the doors in
+every hour of the day.  This town is a town that never sleeps, so to 
+speak.  To the south of here, the path continues, heading off to the 
+west a bit farther down.  Still, to the north, the port of Dhabsin
+remains, awaiting travel by a number of people.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1004
+D2
+~
+~
+0 -1 1006
+S
+#1006
+Entrance to Dhabsin~
+Along the traveled path comes a sign.  The weathered wood of the sign
+shows the age of the village as well as the general upkeep.  The walk
+ends it path to the south and now faces west.  Small houses and huts
+populate the view to the south.  Off in the far south, it is possible
+to make the outline of something of importance in the village.  Perhaps
+a central hall or town meeting spot.  From here, the only exit possible
+without trespassing is west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1005
+D3
+~
+~
+0 -1 1007
+S
+#1007
+Road in Dhabsin~
+Passing several small town houses, the path leads here.  The village,
+as far as anyone can see, happens to be very small compared to some of
+the bigger towns on other other lands.  The path heading west makes a
+turn to the south, as more and more huts are passed.  The entire village
+can be seen from here, as this portion of the road is slightly elevated.
+To the southeast, a large group of houses are surrounding a spherical
+building.  However, from here, the only exit is south.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 1006
+D2
+~
+~
+0 -1 1008
+S
+#1008
+Road in Dhabsin~
+Passing a couple more small houses, the path makes a few turns while
+continuing south.  To the south, a very large tree can now be seen, as
+it takes up much of the view.  To the east, much of the scattered town
+can be see, as well as the majority of the large gathering of houses,
+surrounding the spherical shaped mass.  To the south you can continue on
+a direct path to the tree, or head east, towards the gathering.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1007
+D1
+~
+~
+0 -1 1010
+D2
+~
+~
+0 -1 1009
+S
+#1009
+At a Tree~
+Passing a single house to this point, it is readily appearant that
+this road leads to the tree ahead.  With each passing step, the tree
+grows larger and larger.  Once at the tree, it is noticeable that
+the inside has been hollowed out, and looks as if it can be entered.
+Glancing at the tree, it looks to be quite healthy, as its limbs feature
+hundreds of thousands of green leaves.  One limb, however looks to droop
+lower than the rest and has no leaves.  Inspecting further could bring
+more details to the light.  In the far east, the gathering of houses can
+be seen, as well as a large circle of nothing off to the far southeast.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1008
+E
+limb~
+The limb is much different from the rest of the tree.  The limb itself
+doesnt even look like a regular limb.  It looks to be mechanical, if
+that is, in fact, possible.  Inspecting upon the spot where the tree
+and limb meet on the trunk, it can be detected that this limb isnt
+a limb at all, but a switch.  By pushing or pulling on the limb, some
+sort of device may or may not be activated.  Use at your own discretion.
+~
+> act_prog pull limb~
+mpopenpassage 1019 1020 d
+mpechoat $n Click.
+~
+|
+S
+#1010
+Road in Dhabsin~
+Passing little more than one hut, travel along this road is of not
+much consequence.  Few things are taken into view other than the 
+obvious destination that this road leads to.  Its amazing that this
+town has no more than a single road and inhibits this many people.
+On top of that, its a port town, but much smaller than a normal port
+city.  Looking toward the south, a large circle has been burned out
+of the grass, but contains nothing.  Exit from here lead east and west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 1011
+D3
+~
+~
+0 -1 1008
+S
+#1011
+Road in Dhabsin~
+Entering upon the gathered houses, it can be seen now that this is
+some sort of village council place.  The noble houses of the village
+gather round in a square type formation around a spherical building.
+The building and square in general do not look to be active at the
+current time as no one can be seen entering or exiting anything.  Not
+even as much as sound can be heard.  Exits from here are to the south,
+just on the inside of the square; east, just on the inside of the
+square; and back west.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 1012
+D2
+~
+~
+0 -1 1013
+D3
+~
+~
+0 -1 1010
+S
+#1012
+Inside the Square~
+Houses, varying little in size, line the northern row of the square.
+They run in a straight line and hit a ninety degree angle, heading due
+south from there.  Just to the south from this point, all that is 
+noticeable is the spherical building.  While it boasts to be spherical,
+it isnt exactly that.  The base seems wider than the top, and the sides
+don not conform to the exact standards of a regular circle.  Its appearance
+and overall 'feel' do not look as if it is a very inviting structure.
+Exits from here head south, towards the entrance of the building; and
+west, towards the entrance of the square.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 1014
+D3
+~
+~
+0 -1 1011
+S
+#1013
+Inside the Square~
+Houses line just to the west and south of this spot.  A large spherical
+building is just east and looks rather uninviting.  No signs of life
+can be seen anywhere from here, as the air is dead with silence.  A small
+clearing in between two houses has been made, and forms a small, rather
+obscure path southeast.  And while noticing that, another path, much
+similar to the southeastern one, heads slightly southwest.  So, from here
+the choices to travel are numerous.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1011
+D1
+~
+~
+0 -1 1015
+D8
+~
+~
+0 -1 1016
+D9
+~
+~
+0 -1 1017
+S
+#1014
+Entrance to Building~
+Still, as detected before, no life can be seen entering or exiting 
+from this part of town.  To the immediate west lies the entrance to
+this spherical building.  The doors that lead into the building boast
+of purple colors and have a gasseous look about them.  Upon further
+detection, it can be noticed that a pull chain exists just off to the
+left of the door.  North and south are the only obvious exits from this
+spot.  However, west is a potential possibility.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1012
+D2
+~
+~
+0 -1 1015
+S
+#1015
+Inside the Square~
+Upon the south side of this square, houses are lined up.  These houses,
+much unlike the others found in town, these look exceptionally upkept.
+Peering into a house reveals that the houses are fully furnished and
+look to have been used very recently.  Perhaps this square isnt as dead
+as it once seemed.  From here a door on the eastern wall of the building
+can be seen to the north, as well as the western wall of the square to
+the west.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1014
+D3
+~
+~
+0 -1 1013
+S
+#1016
+Obscure Path~
+A light path, more than likely unintentional, has been made heading
+due southeast.  The path, which leads to what looks to be another 
+clearing, shows sign of little life, as the brown grass and silence
+make this very clear.  A small path from the southwest can also be
+seen, joining at the clearing where this path connects.  Exits from
+here are to the southeast and to the northwest.
+~
+0 1073741824 1
+D7
+~
+~
+0 -1 1013
+D8
+~
+~
+0 -1 1019
+S
+#1017
+Obscure Path~
+A small, obscure path of some sort has been created here.  As obscure
+as it may be, however, its destination can be seen clearly.  Just to
+the south a large circle clearing has been made.  The grass about this
+general area is on the edge of death, as most of the area has a brownish
+look to it.  A stench can also be detected upon nearing the circle, 
+giving a warning sign for visitors to keep out.  From here it is possible
+to continue south to the circle or north into the square of houses.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 1018
+D6
+~
+~
+0 -1 1013
+S
+#1018
+Circle of Death~
+Entering upon this circle, it is appearant that people are not wanted
+here.  Small, wooden stumps surround the circle with daggers stabbed
+into them.  A fresh many corpses lie in the center of the circle, rotting
+from time.  Writing on one of the stumps on the southern threshhold of
+the circle may reveal more details or perhaps a formal warning.  A light
+path has been created, whether intentional or not, to the east, heading
+into yet another clearing.  Exits from here are east or north.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 1017
+D1
+~
+~
+0 -1 1019
+E
+stump~
+Warning:  The Death Circle is off limits to visitors and townfolk alike.
+Only the nobles are to enter this place.  This is where the dead are 
+rested and left for the wild forces of nature to take care of.  This
+ancient tradition applies to natives and vistors alike.  To break this
+holy rite would anger the evil spirits of the highlands and the town
+will be punished.  Those attemting to interfere will be executed.
+ 
+-Bahlk, Head Priest of Dhabsin.
+~
+S
+#1019
+Circle of Nothing~
+Upon entering this circle of burnt grass, something strikes you as
+being wrong.  The way the earth looks, or the way that it seems.  
+Something certainly is out of place.  In the center of the circle, a
+very small hole lies.  Its dimensions are about one inch by an inch.
+West of here lies another circle, however, that circle is filled with
+corpses of former townies.  From here you can either head west into that
+circle, or you can head northwest on an obscure path to a group of
+houses.
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 1018
+D5
+~
+~
+2051 -1 1020
+D7
+~
+~
+0 -1 1016
+> rand_prog 100~
+if int ($n) == 17
+or int ($n) == 18
+or int ($n) == 16
+mpechoat $n The soil in the center of the clearing doesnt look quite right.
+mpechoat $n Almost as if its not real, or magical.
+endif
+~
+|
+S
+#1020
+Entrance to the Ghoul Temple~
+~
+0 1073741824 1
+D4
+~
+~
+2091 -1 1019
+S
+#1021
+Floating in a void~
+~
+0 1073741824 1
+S
+#1022
+Floating in a void~
+~
+0 1073741824 1
+S
+#1023
+Floating in a void~
+~
+0 1073741824 1
+S
+#1024
+Floating in a void~
+~
+0 1073741824 1
+S
+#1025
+Floating in a void~
+~
+0 1073741824 1
+S
+#1026
+Floating in a void~
+~
+0 1073741824 1
+S
+#1027
+Floating in a void~
+~
+0 1073741824 1
+S
+#1028
+Floating in a void~
+~
+0 1073741824 1
+S
+#1029
+Floating in a void~
+~
+0 1073741824 1
+S
+#1030
+Floating in a void~
+~
+0 1073741824 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

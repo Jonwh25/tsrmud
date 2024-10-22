@@ -1,0 +1,84 @@
+#AREA   The Jungle~
+
+
+
+#AUTHOR Till~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51200000
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#27001
+Crayon~
+a Giant Crayola Crayon~
+(no description)~
+~
+5 1 0
+0 0 0 0
+0 0 0
+#0
+
+
+#ROOMS
+#27000
+The Beach~
+The sound of the ocean waves crashing upon the sandy beach downs out all
+other sounds.  The sand is hot under your feet even with the protection of
+your foot wear.  All that can be seen is more beach to the north and south
+and a dark and forbidding jugle to the east.  Large repitlian footprints
+least eight feet across can been seen leading from the beach into the
+jungle.
+~
+0 4 10
+D0
+~
+~
+0 0 455
+D2
+~
+~
+0 0 27001
+S
+#27001
+The Beach~
+The sun overhead heats the sand beneath your feet, as the sound of the
+waves crashing upon the shore fills your ears with a deafing roar.  To the
+east large piles of driftwood gathered thrown there by the oceans force in
+storms.
+~
+0 0 7
+D0
+~
+~
+0 0 27000
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

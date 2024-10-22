@@ -1,0 +1,41 @@
+#DEITY
+Filename		Laric.dei~
+Name		Laric~
+Description	~
+Alignment		-300
+Worshippers	10
+Flee		10
+Flee_npcrace	30
+Flee_npcfoe	-50
+Kill		20
+Kill_npcrace	-100
+Kill_npcfoe	40
+Kill_magic	20
+Sac		80
+Bury_corpse	60
+Aid_spell		-20
+Aid		20
+Steal		50
+Backstab		30
+Die		-10
+Die_npcrace	20
+Die_npcfoe	20
+Spell_aid		0
+Dig_corpse	0
+Scorpse		1000
+Savatar		500
+Sdeityobj		100
+Srecall		120
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		13794
+Deityobj		13796
+Affected		0
+Npcrace		9
+Npcfoe		5
+Suscept		0
+End
+
+#END

@@ -1,0 +1,294 @@
+#AREA   Franorst Keep~
+
+
+
+#AUTHOR Sepha~
+
+#RANGES
+0 0 1 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 31250400
+
+#MOBILES
+#14200
+Dodo~
+Dodo~
+Dodo picks his nose, amazed at being alive again.
+~
+Dodo is short and squat, his tusks jutting up and almost holding the nostrils
+of his bulbous nose wide open. His yellow eyes are bloodshot, and his elbows
+are laden with warts and knobs. His skin, however, glows a nice, healthy green.
+Perhaps he bathed last month. That is a unique sign amongst goblins. Dodo holds
+the key to goblin nature: Hunger.
+~
+129 1081384 -500 C
+12 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+16 10 15 18 17 14 12
+0 0 0 0 0
+39 3 0 0 16384 1 0
+0 0 2097152 16 0 0 34 2
+#14201
+Squad Leader Brainless~
+Brainless~
+Brainless stares at his toes.
+~
+Brainless is big, for goblins, at almost three foot five inches tall. He has
+clawed toes, tusks that stretch past his earlobes and straight out, and horns
+that are shaved to nasty points. His blue eyes are lined with red, and his
+hair (the three tufts of it) are long and unkempt. His head is small, but 
+is quite sufficient to hold all of his brain cell (singular.)
+~
+129 1081344 0 C
+13 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+18 5 6 15 17 13 18
+0 0 0 0 0
+39 3 0 0 16384 1 0
+0 0 3145728 16 0 1048576 560 2
+#14202
+Kit Ha'taar~
+the Kit Ha'taar~
+A Kit Ha'taar of Franorst Keep smiles coldly at you.
+~
+The cold eyes of the Kit Ha'taar bear deep into your soul. It seems to have
+no gender to it, though it appears faintly elfin. Tall and lithe, with golden
+locks that hang over its grey eyes, it seems to move with a cat's regal grace
+through the shadows.
+~
+131073 40960 -1000 C
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+15 18 17 19 15 16 14
+0 0 0 0 0
+1 0 0 0 2 1 0
+0 0 0 0 3072 0 0 2050
+> greet_prog 100~
+if ispc($n)
+if isevil($n)
+mea $n The Kit Ha'taar whispers in your ear: "Care to make a deal?"
+endif
+if isneutral($n)
+mea $n The Kit Ha'taar watches you warily.
+endif
+if isgood($n)
+mea $n Something about the Kit Ha'taar prickles your spine.
+mea $n It puts its hand on your shoulder, and you feel pain!
+mpdamage $n 10
+endif
+endif
+~
+> speech_prog yes~
+mea $n Good. Then take this symbol.
+mea $n When the time is right, rally to the call.
+mea $n When the battle is won, we will reward you well.
+mea $n If the battle is lost, we shall share a place in hell.
+mpoload 14203 15
+give symbol $n
+~
+> speech_prog no~
+mea $n Then I fear I must see you as foe.
+mea $n Perhaps you shall change your mind next time.
+~
+|
+#14203
+Darkling Spy~
+a Darkling spy~
+A darkling spy flits through the shadows here.
+~
+The spy is unusual in that no sooner do you look at him, but you forget his
+appearance entirely.
+~
+131 98304 -1000 C
+14 0 0 0d0+0 0d0+0
+200 0
+8 8 1
+15 17 18 21 15 13 15
+0 0 0 0 0
+1 4 0 0 0 0 0
+0 0 0 1024 2048 0 1090 0
+#14299
+Franorst Goblin Scout~
+a goblin scout~
+A goblin with the emblem of Franorst Keep looks for food.
+~
+This goblin seems amazingly clean and crisp. His tiny leather outfit clings
+to his body, too useless for anyone larger than this runtish race, and too
+ugly for most of those smaller. His nose is twisted and malformed, and his eyes
+and teeth are a ripe orangy-yellow hue. He seems curious and intent on his 
+orders, except when food is concerned.
+~
+129 32768 -400 C
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+14 8 9 17 18 10 14
+0 0 0 0 0
+39 3 0 0 16384 16384 0
+0 0 0 512 0 16 32 0
+> rand_prog 5~
+grunt
+snort
+say Master gonna get you all.
+~
+|
+#0
+
+
+#OBJECTS
+#14202
+Goof~
+a newly created Symbol of Franorst~
+Some god dropped a newly created Symbol of Franorst here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#14203
+Symbol of Franorst~
+a symbol of Franorst~
+The symbol dangles from your fingertips.~
+~
+8 0 16385
+0 0 0 0
+2 1000 100
+E
+symbol~
+The symbol of Franorst Keep is argent on or. The emblem is a war mattock
+engulfed in shards of ice. It looks chilly and heavy, but is light and hot
+to the touch.
+~
+A
+17 -5
+A
+12 20
+A
+3 2
+A
+16 200
+A
+24 4
+> wear_prog 100~
+if ispc($n)
+mpforce $n evil
+mea $n You feel the power of evil through your veins, and know your Lord to be
+mea $n King Antorgyr of Franorst Keep.
+mprestore $n 40
+endif
+~
+|
+#14204
+Tim'buck~
+a Tim'buck~
+The long, thin dagger called a Tim'buck looks just right for backstabbing.~
+~
+5 4 8193
+0 6 5 0
+1 0 0
+A
+18 4
+A
+19 3
+A
+14 -50
+#14299
+Golden Crown~
+a newly created Golden Crown~
+Some god dropped a newly created Golden Crown here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#14200
+Franorst Keep, Goblin Barracks~
+This room is a pigstye. Actually, it's a goblin-stye.
+These scouts all await their deployment in whatever mission the Master has in
+store for the world. One may expect anything and everything from these unsavory
+beasts. Not bright, not strong, just annoying, they usually preclude something.
+~
+0 4 1
+S
+#14201
+Franorst Keep, Goblin Barracks, Squad Leaders~
+This room is only slightly more savory than the room occupied by the scouts,
+but the difference is slight, at best. the Squad Leaders prepare their skills:
+Eating, Writhing, and Disgust-matics. One squabbles with another, and seldom
+do they pay attention to the maps strewn on the table. They are not, as one
+might guess, the thinking portion of King Antorgyr's armies. In fact, they are
+not the thinking part of Mistress Quintona's ground troupes, either.
+~
+0 4 1
+S
+#14202
+Franorst Keep, Intelligence Office, Lounge~
+~
+0 1073741828 1
+S
+#14203
+Floating in a void~
+~
+0 1073741824 1
+S
+#14299
+Franorst Keep Dungeon~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14299 15 14200
+M 1 14200 1 14201
+M 1 14201 1 14201
+M 1 14203 3 14202
+E 1 14204 1 16
+M 1 14203 3 14202
+E 1 14204 1 16
+M 1 14203 3 14202
+E 1 14204 1 16
+M 1 14202 2 14202
+O 1 14203 1 14202
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  14202 spec_cast_mage
+M  14203 spec_thief
+S
+
+
+#$

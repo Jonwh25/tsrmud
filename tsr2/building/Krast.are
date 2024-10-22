@@ -1,0 +1,218 @@
+#AREA   {PROTO} Krast's area in progress~
+
+
+
+#AUTHOR Krast~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#14700
+Goblet~
+A great Brass Goblet with ivory inlay sits here.~
+A great Brass Goblet overflows with water from an underground spring.~
+~
+25 1073741824 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#14700
+Main Lobby~
+This, the main lobby of the Temple of Order, is beyond
+description. The white marble walls glow with a spectacular aura,
+provided by the many torches that line them. Timbers gathered
+from across the realms, of the finest mahogany, run the length
+of each wall at waist level. The dark wood smoothed to a mirror
+finish by the finest craftsmen.
+  In the center of the room, on a large pyramid of carved ivory,
+sits rests a brass goblet of immense proportions. Water flows gently
+over its rim and down the ivory. The sounds of the runoff echo as it 
+hits many feet below in the drains.
+  You cant help but sense a feeling of power and justice as you
+stand here. A feeling that there is one that sees good and evil
+in the heart, not in a name. A feeling of swift justice. Their 
+justice.
+~
+0 1076921344 1
+D0
+~
+~
+0 -1 14701
+D1
+~
+~
+0 -1 14703
+D2
+~
+~
+0 -1 14704
+D3
+~
+~
+0 -1 14702
+S
+#14701
+Halls of Order~
+The halls echo with each step you take. The dark mahagony floors
+reflect your image back at you in vivid splender. The cathedrial
+ceilings add to the grandoir of this fine temple, beams rising 30
+fett to the peak. Hanging from the very center is a ruby chandelier
+of a thousand gems. As light of the torches dances off each, you
+see the reflections off your armor, as the blood off Order.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14705
+D2
+~
+~
+0 -1 14700
+S
+#14702
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14700
+S
+#14703
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 14700
+S
+#14704
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14700
+S
+#14705
+Healing Chamber~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14701
+S
+#14706
+Floating in a void~
+~
+0 1073741828 1
+S
+#14707
+Floating in a void~
+~
+0 1073741828 1
+S
+#14708
+Floating in a void~
+~
+0 1073741828 1
+S
+#14709
+Floating in a void~
+~
+0 1073741828 1
+S
+#14710
+Floating in a void~
+~
+0 1073741828 1
+S
+#14711
+Floating in a void~
+~
+0 1073741828 1
+S
+#14712
+Floating in a void~
+~
+0 1073741828 1
+S
+#14713
+Floating in a void~
+~
+0 1073741828 1
+S
+#14714
+Floating in a void~
+~
+0 1073741828 1
+S
+#14715
+Floating in a void~
+~
+0 1073741828 1
+S
+#14716
+Floating in a void~
+~
+0 1073741828 1
+S
+#14717
+Floating in a void~
+~
+0 1073741828 1
+S
+#14718
+Floating in a void~
+~
+0 1073741828 1
+S
+#14719
+Floating in a void~
+~
+0 1073741828 1
+S
+#14720
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+O 1 14700 1 14700
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

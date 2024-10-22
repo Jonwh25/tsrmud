@@ -1,0 +1,604 @@
+#AREA   The Gates~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#14400
+choreboy I~
+Choreboy I~
+Choreboy I stands here, waiting to work.
+~
+~
+2097155 66058 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+mpapply $n
+~
+|
+#14401
+choreboy II~
+Equipment Mob~
+The Equipment Mob stands here, giving out items.
+~
+~
+3 40 0 C
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+say Greets, traveler.  I'm here to equip you.
+mpoload 14400 1
+mpoload 14401 1
+mpoload 14402 1
+mpoload 14403 1
+if class($n) == Mage
+or class($n) == Thief
+or class($n) == Vampire
+or class($n) == Augurer
+mpoload 14404 1
+give light $n
+give light $n
+give sack $n
+give armour $n
+give blade $n
+else
+if class($n) == Cleric
+or class($n) == Druid
+mpoload 14406 1
+give light $n
+give light $n
+give armour $n
+give mace $n
+give sack $n
+else
+if class($n) == Warrior
+or class($n) == Ranger
+mpoload 14407 1
+give light $n
+give light $n
+give sack $n
+give armour $n
+give broadsword $n
+~
+|
+#14402
+choreboy III~
+Choreboy III~
+Choreboy III stands here, entering people into the game.
+~
+~
+2097155 65578 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> all_greet_prog 100~
+mpapplyb $n
+~
+|
+#0
+
+
+#OBJECTS
+#14400
+ball of light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 65 1
+0 0 -1 0
+1 100 10
+#14401
+ring of light~
+a ring of light~
+A small circle of light lies here.~
+~
+9 64 3
+5 5 0 0
+2 0 0
+E
+ring light~
+This ring is a symbol of your chosen peaceful nature.  It will aid you
+until you reach level 10.  May it always find you in good health.
+~
+A
+13 5
+A
+2 1
+#14402
+breast plate armour~
+a thick plate of breast armour~
+A breast plate lies here, unused and forgotten.~
+~
+9 0 9
+4 7 0 0
+10 0 0
+A
+17 -3
+#14403
+burlap sack~
+a large burlap sack~
+A sack made from a brown burlap lies here.~
+~
+15 0 16385
+75 0 0 0
+1 0 0
+E
+sack burlap~
+To use this sack, type:  examine sack   OR   exam sack
+To get items from this sack, type:  get <item name> sack
+To put an item in this sack, type:  put <item name> sack
+ 
+You can also use get all or put all.  See help container for more information.
+~
+#14404
+menacing granitic blade~
+a menacing granitic blade~
+A blade of metallic stone protrudes from a leather-wrapped hilt.~
+~
+5 68 8193
+12 1 6 11
+2 0 0
+E
+menacing granitic blade~
+Of rough but usable quality, it should serve you well in your early years.
+~
+A
+18 2
+A
+19 1
+#14405
+an equipment chest~
+an equipment chest~
+An equipment chest rests against the wall.~
+~
+15 0 0
+1000 0 0 0
+1 0 0
+E
+chest~
+This chest is made from a thick carved oak, it is sturdy but not locked.
+You feel you must examine it closer to see what it might contain.
+~
+> exa_prog 100~
+if class ($n) == Mage  
+or class ($n) == Thief  
+or class ($n) == Vampire  
+or class ($n) == Augurer 
+mpoload 125 1      
+put 'menacing granitic blade' chest 
+mpforce $n get granitic chest  
+mpforce $n wield granitic 
+else  
+if class ($n) == Cleric      
+or class ($n) == Druid 
+mpoload 126 1   
+put 'adamantium mace' chest  
+mpforce $n get adamantium chest 
+mpforce $n wield mace  
+else 
+if class ($n) == Warrior 
+or class ($n) == Ranger 
+mpoload 127 1  
+put 'heavy broadsword broad sword' chest
+mpforce $n get broadsword chest 
+endif  
+endif  
+endif   
+~
+|
+#14406
+adamantuim mace~
+a gleaming adamantium mace~
+A mace of brightly gleaming metal hums with inner power.~
+~
+5 524610 8193
+12 0 0 7
+2 0 0
+E
+adamantium mace~
+Forged of a gleaming metal, this mace will serve you well in your early years.
+~
+A
+18 2
+A
+19 1
+#14407
+broadsword broad sword~
+a heavy, iron-forged broadsword~
+Light glints from the blade of a heavy, iron-forged broadsword.~
+~
+5 524352 8193
+12 0 0 3
+2 0 0
+E
+broadsword broad sword~
+Made of a heavy iron alloy, it will serve you well in your early years.
+~
+A
+18 2
+A
+19 1
+#0
+
+
+#ROOMS
+#14400
+Welcome to The Shadow Realms~
+Many greetings, youngling.  Welcome to The Shadow Realms.  You have entered
+the mud in the pre-auth area.  The purpose of this area is for you to become
+aquainted with TSR as a whole, and how to become familiar with the code.
+ 
+The code that TSR runs off of is called SMAUG.  Type 'help smaug' for more
+details.  A little information about TSR worth mentioning:  TSR is a role-play
+mud in a medevial setting.  Leveling and pkilling are also are part of the mud,
+but are an extention of the role-play.  TSR has been up and running for three
+years and was started and created by Beowolf, the admin.
+ 
+Before you go any further, please go up.  In the room above you will find all
+the items you need to be on your way.  In there, you will find a weapon, a 
+light, some armour, and a bag to carry items in.
+~
+0 0 1
+D0
+~
+~
+0 -1 14401
+D4
+~
+~
+0 -1 14409
+S
+#14401
+Immortals of TSR~
+The ones who make The Shadow Realms possible are the Immortals.  One of the
+most important rules here are that you respect the Immortals out of character.
+They spend countless hours on the mud, improving it, maintaining it, and making
+it the best that it can possibly be.  Please be curteous to them.  For a list
+of the Immortals here at TSR, type 'wizlist'.
+ 
+And so that you dont piss off anyone, make sure you read the rules.  Simply
+type 'help rules' for a list of the rules.
+ 
+From here you can head north, further into the pre-auth area; east to learn 
+about sects; or west to learn about the channels that you can use.
+~
+0 0 1
+D0
+~
+~
+0 -1 14402
+D1
+~
+~
+0 -1 14403
+D2
+~
+~
+0 -1 14400
+D3
+~
+~
+0 -1 14404
+S
+#14402
+Pkill or Non-pkill~
+In this room you will have to make one of the most important decisions you will
+have to make in the entire game.  Whether you want to be a pkiller or not.
+ 
+When you become a pkiller at this point, you are making yourself vulnerable to
+every pkiller in the game after you have played for 5 hours in real life time.
+This teaches, more or less, for the newbie pkillers to respect the pkillers
+much higher in levels, so they they dont get killed.
+ 
+You can choose not to be a pkiller right now, and change your mind at any point
+in the game by typing 'pkill' twice.   After you have chosen, you will be 
+transported to the next room.
+ 
+If you wish to be a pkiller now, type 'pkill' twice.  After you have become a
+pkiller, head north to begin your journey.  If you do not wish to be a pkiller,
+simply head north.
+~
+0 4 1
+D0
+~
+~
+0 -1 14405
+D2
+~
+~
+0 -1 14401
+> speech_prog p pkill~
+if level($n) == 1
+mpforce 0.$n config -nice 
+mpforce 0.$n config -flee
+mppkset $n yes 
+mptransfer 0.$n 14405
+mpat 14405 mpforce 0.$n look
+endif
+~
+> speech_prog p non-pkill~
+if level($n) == 1
+mppkset $n no 
+mptransfer 0.$n 14405
+mpat 14405 mpforce 0.$n look
+endif
+~
+|
+S
+#14403
+Sects and Orders~
+This is some brief information about the sects.  A sect is a group of followers
+who join together under the banner of an Immortal.  Those in the group, worship
+that Immortal and follow his/her beliefs.  Those  Immortals who choose to
+gather a following make either a sect or an order.  
+ 
+A sect is a group, described above, that can pkill, have a sect city, and have
+certain special supplications that they can recieve from their God.
+ 
+An order is a group, described above, that cannot pkill, do not have a sect
+city, but have certain special supplications that they can recieve from their
+God.  Orders are often peaceful, for obvious reasons.
+ 
+At level ten, you have the ability to see what sects are available, and the
+deities that run them.  Level ten is the first available level to join either
+a sect or an order.
+~
+0 4 1
+D3
+~
+~
+0 -1 14401
+S
+#14404
+Channels~
+This is a very important aspect of the mud.  Make sure that you know this
+information well.
+ 
+Listed below are the channels and a brief description of what they are used
+for:
+ 
+Auction:  This is used for auctioning items and bidding on them.
+Gossip:  This channel is the main channel used for in character talk.
+Grats:  Used by those who wish to congrat those who just leveled.
+Tells:  These are used to engage in private conversation with someone.
+Wartalk:  Use this channel when in combat, or making combatant threats.
+Music:  This channel is used to site lyrics from a song of your choice.
+OOC:  OOC means Out of Character.  This channel is used for OOC talk.
+Ask:  When asking a question.
+Answer:  When answering an asked question.
+Shout:  In character channel that is heard over the entire mud
+Yell:  In character channel that is heard in the entire area
+Newbie:  Used at level 1.  Can be seen only to newbies and Immortals.
+Say:  Use this when talking to someone in the same room.
+~
+0 4 1
+D1
+~
+~
+0 -1 14401
+S
+#14405
+Configuration~
+This room is here to teach you about the 'config' command.  The 'config' on
+smaug allows the player to choose what he wants his player's preferences to be.
+This command can be used throughout the entire game, so if you ever change your
+mind, you can change it at anytime.
+ 
+When you type 'config' alone, it brings up a screen with all the current
+configurations for your character.  To change one, simply use this format:
+config +-option.  Say, for instance, you wanted to change it so your character
+doesnt see long descriptions in the room cause you are running at 2400 and it
+takes too long to see em all.  You would type config +brief.  One of the most
+important ones, config +pager, is recommended for all to turn on.  This allows
+your screen to pause when more information passes down than one screen can 
+hold.
+ 
+If you are using zmud as your telnet client, head east to learn about the
+sounds here at TSR.  West of here is some of the more basic smaug commands
+that are essential for one to learn.  Or you can head north, to where you
+further your journey into The Shadow Realms.
+~
+0 4 1
+D0
+~
+~
+0 -1 14408
+D1
+~
+~
+0 -1 14406
+D2
+~
+~
+0 -1 14402
+D3
+~
+~
+0 -1 14407
+S
+#14406
+Sound on TSR~
+To hear sounds on TSR, you have to have one of the following clients:
+ 
+zMUD v4.60+ (This is the only client will full msp capabilities.)
+MUD Master (currently beta-testing msp)
+AmiMUD v2.10+ (Cannot play sound and music at the same time)
+ 
+Once you have one of these clients, go to this page on the web:
+http://www.tsr.org/htm/sounds.htm
+ 
+Once you are at this page, download sound packages A-E.  Once downloaded simply
+extract the files to c:\Zmud\Tsr\
+ 
+When done with that, startup Zmud.  Connect to the mud.  Click on the sounds
+button and select 'Echo MSP Triggers in the MSP tab.  If you want to hear
+TSR's own connect and disconnecting sounds, select the General tab and disable
+the connect and disconnect sounds.  Log off, and then log back on.
+ 
+This informtion can be found at http://www.tsr.org/htm/sounds.htm.  And if you
+have any problems, email Beowolf at beowolf@tsr.org.  Enjoy.
+~
+0 4 1
+D3
+~
+~
+0 -1 14405
+S
+#14407
+Practicing, Levels, and Death~
+After you level, you earn at least one practice session.  Skills and spells
+start off at 0%, or unlearned.  You can practice a skill or spell just once.
+After that, you must use the skill or spell to become more adept in it.
+There are guilds in the City of Shadows for every class.  To see where they 
+are located, type help 'eastside', 'westside', 'southside', and 'northside', 
+and 'pyramid'.  For more help, type 'help practice'.
+ 
+Type 'level' to see how much exp you have gained, and how much to the next
+level.  You gain experience for killing a mob, group killing a mob, by causing
+damage upon an opponent, or by casting a spell successfully.  You lose 
+experience by dying, fleeing or recalling out of combat, or being the target
+of an offensive spell.  For more help, type 'help level'.
+ 
+When you die, you are tranfered to the Altar of the Gods located in the City of
+Shadows.  If you are level 10 or below, your corpse goes into the morgue.  If
+you are above level 10, your corpse stays where it is.  Corpses last roughly
+15 min real time and all equipment and gold are retained in the corpse.  See
+'help death' for more information.
+~
+0 4 1
+D1
+~
+~
+0 -1 14405
+S
+#14408
+Role-play~
+The most important aspect of The Shadow Realms is role-play.  It is the center
+of the mud, and is encouraged if you are to play here.
+ 
+On the web, at http://www.escape.ca/-deviant, you will find the mythos to the
+mud.  On it will have the histories of gods, relics, a timeline, and misc bits
+of information.  It is not required that you know it all, but it is suggested.
+ 
+On TSR, there are several ways to role-play.  Two such items do not require
+you to speak, but to type.  You can set the description of your character by
+typing 'desc'  From there, you will be thrown into an editor where you can
+type out your charcters description.  Another such item is your biography.
+Simply type 'bio' and again, you will be thrown into an editor in which you
+can type your charcter's background.  Again, these are not required, but they
+are suggested.
+ 
+Make sure to keep all out of character talk on either the OOC channel or on
+the new osay channel, which is much like 'say' but out of character.
+~
+0 4 1
+D0
+~
+~
+0 -1 14410
+D2
+~
+~
+0 -1 14405
+S
+#14409
+Equipment~
+In the room with you now is a mobile.  Once you entered the room, it loaded
+and gave you some items.  These items are for you, and are required to journey
+through the rest of the pre-auth area.
+ 
+Right now the items are in your inventory.  Type 'inven' to see all items in
+your inventory.  To wear the items, either type 'wear all' or 'wear <item>'.
+To see what equipment you are wearing, type 'eq'.  This will give you a list
+of all the items that are on your body.
+ 
+From here, it is our wishes that you exit down and then north.  This will begin
+your journey into The Shadow Realms.
+~
+0 8 1
+D5
+~
+~
+0 -1 14400
+S
+#14410
+Waiting to Enter~
+In this room, you will be able to wait to be authed.  If your name was not
+admitted by the imms, you will be able to change it in here.
+ 
+To do this, type name <newname>.  This will change your name, and let the
+Immortals know that you changed your name and are waiting to be authorized.
+ 
+If for some reason there are no Immortals on, and you cannot be authorized,
+please, try to come back several hours later and try again.  We try to have
+Immortals on most of the day, but we cannot be here all the time.
+ 
+Once you have been authed, please exit north and you will be entered into the
+game.  Once entering the game you will level and be able to begin your journey.
+~
+0 4 1
+D0
+~
+~
+0 -1 14411
+D2
+~
+~
+0 -1 14408
+S
+#14411
+Entering the Game~
+If you have not yet been authorized, please, exit back into the southern room.
+Otherwise, congratulations, and enjoy the mud.
+~
+0 0 1
+D2
+~
+~
+0 -1 14410
+S
+#0
+
+
+#RESETS
+M 1 14400 1 14405
+M 1 14401 1 14409
+G 1 14404 1
+M 1 14402 1 14411
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

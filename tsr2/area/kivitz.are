@@ -1,0 +1,1435 @@
+#AREA   Kivitz~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+10 45 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 31250620
+
+#MOBILES
+#500
+An elven child~
+An elven child~
+An elven child is playing here.
+~
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+giggle
+hop
+~
+|
+#501
+A dwarven child~
+A dwarven child~
+A dwarven child is hoping around.
+~
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+2 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#502
+A human child~
+A human child~
+A human child is playing with sticks.
+~
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#503
+A female elf~
+A female elf~
+A female elf of Kivitz is looking about.
+~
+~
+1 0 0 C
+20 0 0 0d0+0 0d0+0
+10 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#504
+A male elf~
+A male elf~
+An elven male stands here, checking the wind.
+~
+~
+1 0 0 C
+30 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#505
+A dwarven male~
+A dwarven male~
+A dwarven male is here with his wife.
+~
+~
+3 0 0 C
+30 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#506
+A dwarven female~
+A dwarven female~
+A dwarven female is standing next to her husband.
+~
+~
+3 0 0 C
+24 0 0 0d0+0 0d0+0
+10 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#507
+A human male~
+A human male~
+A human male is standing here, stroaking his goatee.
+~
+Before you stands a human male.  He has light blue eyes and looks to be very
+strong from the day to day labor.  He is sporting a dark goatee, to match his
+dark hair.  He stands here, looking at nothing in paticular.
+~
+3 0 0 C
+35 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#508
+A human female~
+A human female~
+A human female stands here, looking for her child.
+~
+A petite human female stands here.  Her eyes glance all over, as she is in
+search for her child.  She has pretty blue eyes that enhance her red hair.
+~
+3 0 0 C
+24 0 0 0d0+0 0d0+0
+10 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+#509
+An elderly man~
+An elderly man~
+An elderly man is here, waving his arms in an arcane fasion.
+~
+A small elderly man stand before you.  He is dressed completely
+in white garb and raises his hands in an arcane fasion.
+~
+3 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 0 0
+#510
+An old man~
+An old man~
+An old man is standing here, ready to serve.
+~
+An old man fills the room behind a chair.  He has taken the time to come into
+the store and sell items to outsiders on his own free time.  He shakes
+everyones hand when they enter.
+~
+3 0 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+> all_greet_prog 100~
+shake %i
+smile
+say Greetings, and welcome to the store.
+~
+|
+#511
+A young man~
+A young man~
+A robust young man sits indian style here.
+~
+A robust young man sits here, enjoying his time away from the physical labor  
+to sell to the exciting outsiders.
+~
+3 0 0 C
+45 0 0 0d0+0 0d0+0
+10 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+1 3 0 0 1 1 0
+0 0 0 0 0 0 32 1
+> all_greet_prog 100~
+smile $i
+say Welcome.  Let me know if I can help.
+~
+|
+#512
+An old lady~
+An old lady~
+An old lady stands here, waiting your command.
+~
+A little old lady stands here, cleaning the shop
+~
+3 0 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#500
+A carrot~
+A carrot~
+An orange carrot awaits someone to eat it.~
+~
+19 8192 16385
+10 0 0 0
+1 10 1
+#501
+A beet~
+A beet~
+A blood red beet lies here.~
+~
+19 8192 16385
+10 0 0 0
+1 10 1
+#502
+An apple~
+A red apple~
+A huge red apple awaits your bite.~
+~
+19 8192 16385
+5 0 0 0
+1 5 0
+#503
+A herb box~
+a medical herb~
+When ingested, this herb renders the target extremely resistant to poison.
+~
+~
+26 0 1
+10 43 -1 -1
+1 400 40
+#504
+A herb box~
+A herb box~
+A herb box lies here.~
+~
+31 0 1
+100 1 0 0
+1 30 3
+#505
+Some green herbs~
+Some green herbs~
+Some green herbs are scatterd here.~
+~
+26 8192 1
+5 -1 43 33
+1 25 2
+#506
+Some grayish herbs~
+Some grayish herbs~
+Some grayish herbs are scattered here.~
+~
+26 8192 1
+5 -1 39 33
+1 25 2
+#507
+Some bluish herbs~
+Some bluish herbs~
+Some bluish herbs are scattered here.~
+~
+26 8192 1
+15 -1 -1 3
+1 25 2
+#508
+Some orangish herbs~
+Some orangish herbs~
+Some orangish herbs are scattered here.~
+~
+26 8192 1
+5 -1 -1 16
+1 25 2
+#509
+Lily flower~
+a large white lily~
+A large white flower grows along the earth.~
+~
+13 270336 16385
+0 0 0 0
+1 5 0
+A
+12 15
+#510
+A rose~
+A red rose~
+A beautiful red rose lies here.~
+None~
+13 270336 1
+25 0 0 0
+1 5 0
+#511
+Wildflowers~
+wild flowers~
+A bunch of pretty wild flowers is here.~
+~
+13 1024 16401
+0 0 0 0
+1 10 1
+E
+wild flowers~
+These wild flowers are really pretty.
+Just like the flowers you would wear in your hair.~
+#0
+
+
+#ROOMS
+#500
+End of Pebbled Path~
+A small path of bright, multicolored pebbles line the sight here.  To the north
+and south of the worn path, these little rocks brighten the view and make for
+the border of the path.  In the far east view, a large meadowland is visible
+which looks to contain the life and vitality of a village or city.  From here
+the exits head east to the entrance to a small village or west to a pebbled
+path.
+~
+0 0 1
+D1
+~
+~
+0 -1 501
+D3
+~
+~
+0 -1 12054
+S
+#501
+Entrance to Kivitz~
+This is the entrance to the port city of Kivitz.  While it lies to the east
+of the actual body of water, it is the closest city to the Western Sea.  For
+this reason many travelers pass through on there way in and out.  The area
+about smells of fresh grass and springtime flowers.  To the slight north and
+south of this entrance stands a white borderline fence that specifies the
+actual boundries of this grassland.  From here the logical exit would be to
+the east, entering the city.
+~
+0 0 1
+D1
+~
+~
+0 -1 503
+D3
+~
+~
+0 -1 500
+S
+#502
+Along the Fence~
+Preventing passage to the north from here is a small white fence that outlines
+the city and its capacity.  The fence looks very well built, and in perfect
+shape.  Perhaps the wood to make this was found in Malathar or in Thenia, for
+no wooded areas can be found in this area.  To the north of Kivitz is the
+Northern Plains while to the south are the Anikin Mountains.  From this spot
+along the fence, passage can be forgone to the south or east.
+~
+0 0 1
+D1
+~
+~
+0 -1 506
+D2
+~
+~
+0 -1 503
+S
+#503
+Upon the Meadow~
+A sight indeed this place is.  Never before have the races of people come 
+together like this.  About the plains are dozens of people, many of differing
+races, joining in games, work, and conversation.  Though the village is
+wonderful in many respects, it seems rather primitive compared to the bigger
+cities such as the City of Shadows or New Thalos.  About to the north is
+more grassland as is to the south.  East of here is just inside the confines
+of this meadow city as west delves further into the market and commonplace of
+the port city of Kivitz.
+~
+0 0 1
+D0
+~
+~
+0 -1 502
+D1
+~
+~
+0 -1 507
+D2
+~
+~
+0 -1 504
+D3
+~
+~
+0 -1 501
+S
+#504
+Along the Fence~
+A small white fence makes its way along here, heading to the northwest and
+southeast of this spot.  Filling the area along the wooden fence are a
+multitude of flowers and small shrubs.  The greens of the area blend into a
+perfect harmony of sprintime sights and smells.  North of here is an open
+patch of grass that allows passage to the marketplace of Kivitz, while to 
+the east of here you can travel to the southeastern section of the diverse
+Kivitzian society.
+~
+0 0 1
+D0
+~
+~
+0 -1 503
+D1
+~
+~
+0 -1 508
+S
+#505
+Along the Fence~
+Along the fence that encompasses the area, the smell of fresh air and fresh
+cut grass fills the air.  The sounds and sights of local society linger in
+the air and make the place seems all the more comfortable.  Along the fence
+grows several types of wild flowers while past the fence to the north small
+prairie animals can be spotted.  To the northeast of here is a large garden
+of fresh vegetables and sweet smelling herbs while to the southeast the hustle
+and bustle of the area marketplace can be heard.
+~
+0 0 1
+D1
+~
+~
+0 -1 512
+D2
+~
+~
+0 -1 506
+S
+#506
+In the Meadow~
+Stading in this spot gives a wide eyeshot of many different places and people.
+To the north and to the west of here is the white wooden fence that outlines
+the port city of Kivitz.  East of here, A large tent has been built that 
+contains the local shops of the area.  The tent, built of straw an hay, looks
+to range to the south quite a ways and may contain several shops.  To the
+east the entrance to the first of these shops emerges while to the south
+the grassland continues, into the bustle of people.
+~
+0 0 1
+D0
+~
+~
+0 -1 505
+D1
+~
+~
+0 -1 513
+D2
+~
+~
+0 -1 507
+D3
+~
+~
+0 -1 502
+S
+#507
+In the Meadow~
+More sights and sounds fill the surrounding area.  To the immediate east is
+the entrance to yet another shop.  The hay tent stretches even further to the
+north and south from here, allowing more shop space.  North of here, the 
+land looks similar, containing many people shopping and conversing as is the
+situation to the south.  West of here is more of this beutiful meadowland.
+~
+0 0 1
+D0
+~
+~
+0 -1 506
+D1
+~
+~
+0 -1 514
+D2
+~
+~
+0 -1 508
+D3
+~
+~
+0 -1 503
+S
+#508
+In the Meadow~
+Conversation is quite lively here.  A small group of three chat here as they
+scan the area.  They look up and nod slightly as they flash a wide smile.
+To the east of this group is the entrance to a shop, the southernmost of the
+tent, while more exist to the north.  South of here is the wooden white fence
+that protects this place while all other directions show the life and
+prosperity of this grassland.
+~
+0 0 1
+D0
+~
+~
+0 -1 507
+D1
+~
+~
+0 -1 515
+D2
+~
+~
+0 -1 509
+D3
+~
+~
+0 -1 504
+S
+#509
+Along the Fence~
+The small blades of grass direct attention to the south, looking admist the
+Anikin Mountains.  The snow caped mountains stand against the grasslands of
+this area and create a beautiful contrast.  Furry creatures can be seen poking
+their heads above surface level past the fence, plaing peek-a-boo with their
+companions.  North of this peace the marketplace can be seen while to the
+southeast, a wonderful garden can be spotted.
+~
+0 0 1
+D0
+~
+~
+0 -1 508
+D1
+~
+~
+0 -1 516
+S
+#510
+Nw Section of the Garden~
+This section of the garden is where the flowers are the major theme.  In the
+far south of the community there is another garden, much like this one, in that
+the same things are grown and in relative repeatative fasion.  Hundreds of 
+different flowers catch your attention as the entire area is lit from the
+spectrum of light that these flowers bring.  Not only are they beautiful, but
+have a sweet smell as well.
+~
+0 0 1
+D1
+~
+~
+0 -1 519
+D2
+~
+~
+0 -1 511
+S
+#511
+Sw Section of the Garden~
+A rainbow of colors can been seen from this point in the garden.  This is a
+section that is devoted only to flowers.  On the other end of town, there is
+another garden, similar in appearance to this one.  Hundreds of different
+flowers catch your attention as teh entire area is lit with varying colors
+of the spectrum.  Not only is your sight filled, but smell as well, as the 
+sweetness of the flowers fills your heart.
+~
+0 0 1
+D0
+~
+~
+0 -1 510
+D1
+~
+~
+0 -1 520
+D2
+~
+~
+0 -1 512
+S
+#512
+In the Meadow~
+A small meadow is here, just in between the northern garden and the shops to
+the south.  All around one can here the sights and sounds of the localers and
+their lively talk and games.  This place is one of the more lively and colorful
+when it comes to the community.  To the east you can see more grassland while 
+to the west you can see part of the white fence that encloses the area.
+~
+0 0 1
+D0
+~
+~
+0 -1 511
+D1
+~
+~
+0 -1 521
+D2
+~
+~
+0 -1 513
+D3
+~
+~
+0 -1 505
+S
+#513
+Flower Shop~
+Entering the hay tent, you notice take special notice to the intricate design
+that this tent was built upon.  It looks as though this shop may stand forever
+with all of the fortifications and strength.  Looking about the tent, you can
+see flowers of many kinds, sitting in vases, and hanging from the ceiling.
+The fresh smell of spring fills the air as you are encompassed by a swirling
+vortex of colors.  A little old lady stands behind a wooden chair and greets
+everyone when they enter.
+~
+0 0 1
+D0
+~
+~
+0 -1 512
+D2
+~
+~
+0 -1 514
+D3
+~
+~
+0 -1 506
+S
+#514
+Herb Shop~
+A small wall opens up to the north, revealing the flower shop that lies in
+that section of the tent.  To the south, there is another hole in the wall that
+will allow passage to the food shop.  In this tent, the smell of fresh herbs
+fill the air.  Never before have so many herbs been available in one shop.
+Because of the wonderful soil and dedication that the Kivitzians have for their
+gardens, all kinds of wild plants grow and flourish here.  A robust young man
+sits indian style on the the floor, grining widely that you have entered.
+~
+0 0 1
+D0
+~
+~
+0 -1 513
+D2
+~
+~
+0 -1 515
+D3
+~
+~
+0 -1 507
+S
+#515
+Kivitz Eatery~
+The smell of fresh, homegrown vegetables and stew fills the air.  Behind a 
+small wooden chair stands a elderly man shaking peoples hands.  The entire
+shop is filled with vegatables that are being prepared to be cooked or eaten
+raw.  The shops here are of a marvel.  These people volunteer their time away
+from the games and talk of the town to help sell items to travelers.  All food
+is free here in town and they sometimes have to sell items to gain things they
+need.  A rather productive economy to say the least.  To the south you can see
+an open patch of grass while to the north is the herb shop.
+~
+0 0 1
+D0
+~
+~
+0 -1 514
+D2
+~
+~
+0 -1 516
+D3
+~
+~
+0 -1 508
+S
+#516
+In the Meadow~
+Around the general area, many things take are taking place.  To the south,
+there are many a gardeners planting flowers, food, and herbs for the season.
+North of here, the large hay tent open and thriving with business from the
+diverse local population.  To the east and west, you can see more conversation
+and lively games from the localers and their children.  All about, the sights
+and sounds of a wonderful community fill the air.
+~
+0 0 1
+D0
+~
+~
+0 -1 515
+D1
+~
+~
+0 -1 525
+D2
+~
+~
+0 -1 517
+D3
+~
+~
+0 -1 509
+S
+#517
+Ne Section of the Garden~
+This is the section of the garden where many flowers are being grown.  To the
+north, in fact the northern end of Kivitz, there is another garden, said to
+be identical in replication.  Hundreds of different flowers catch your 
+attention as the entire area is lit from the spectrum of light that these
+flowers bring.  Not only are the beautiful, but have a sweet smell as well.
+~
+0 0 1
+D0
+~
+~
+0 -1 516
+D1
+~
+~
+0 -1 526
+D2
+~
+~
+0 -1 518
+S
+#518
+Sw Section of Garden~
+Passing by the southwestern part of the large garden, the smell of fresh herbs
+fills the air.  To the the immediate west, the fence makes its way around the
+garden, shifting its path to head in an eastern path around the southern part
+of the garden.  The deep, rich soil contained in the garden makes the herbs
+and other such items grow to an unbelievable size.  More of this garden and its
+specialty items can be found to the north and east.
+~
+0 0 1
+D0
+~
+~
+0 -1 517
+D1
+~
+~
+0 -1 527
+S
+#519
+Ne Section of the Garden~
+The overall sense of pride comes to mind when one mentions the gardens to
+the Kivitzians.  These gardens are their most prizes possesions, and provide
+work to all of the inhibitants to these parts.  Only the finest things are
+produces from these gardens.  Many of the items that are grown here can be
+found in the stores in the center of the village.  To the north, the fence
+that encompasses the town, swings by and crosses to the right and heads east.
+A nice walkway has been contructed that follows the boundries of the garden
+that follow south and west of here.
+~
+0 0 1
+D2
+~
+~
+0 -1 520
+D3
+~
+~
+0 -1 510
+S
+#520
+Se Section of the Garden~
+Small vegetables and herbs are grown in this peticular section of the garden.
+Smells of ripe food and flowers fill your nose as your swoon at the sight of
+it all.  To the north you see more of the same:  The finest vegetables and
+herbs in all the Realms growing in the most productive, topsoil found in 
+all the continents.  South of here, the grassland opens up as it inhibits a
+large portion of the population.
+~
+0 0 1
+D0
+~
+~
+0 -1 519
+D2
+~
+~
+0 -1 521
+D3
+~
+~
+0 -1 511
+S
+#521
+In the Meadow~
+Small children and young adults populate this area of town.  They are running
+around, enjoying their youth.  They pay close attention to the growing flowers
+in the area, and they make every attempt not to trample them needlessly.  To
+the south of here is a group of small children in a circle around an elderly
+man.  Exits from here lead in all directions with the Kivitz gardens north of
+here.
+~
+0 0 1
+D0
+~
+~
+0 -1 520
+D1
+~
+~
+0 -1 528
+D2
+~
+~
+0 -1 522
+D3
+~
+~
+0 -1 512
+S
+#522
+In the Center of Kivitz~
+A small group of kids are assembled here.  They are playing a game that seems
+to involve giving each other flowers.  An odd sort of game to outsiders, but
+a very important game here in town.  In the center of the children is a small,
+elderly man muttering words and waving his arms, blessing the city.  To the
+west you can see that back of the hay tent containing the local shops while
+in all other directions you see a hoard of people.
+~
+0 0 1
+D0
+~
+~
+0 -1 521
+D2
+~
+~
+0 -1 523
+S
+#523
+In the Center of Kivitz~
+A small clearing has been assembled here, as a group of several people sit
+around in a tight circle.  Some sort of meeting has been gathered calling
+for the leaders of Kivitz.  Around them, aligned perfectly, are a circle of
+flowers that decorate the area.  A wonderful place this town is, wonderful
+indeed.  To the north and south are more people while to the east is a small
+clearning of grassland.
+~
+0 0 1
+D0
+~
+~
+0 -1 522
+D2
+~
+~
+0 -1 524
+S
+#524
+In the Center of Kivitz~
+Fun and games are all about.  A small group of kids are gathered here and are
+playing some sort of game which involves the kicking of a stick.  They fill
+the air with laughter brightening the surrounding mobs of people.  To the east
+of here a small clearing of grassland makes way while to the north more people
+can be seen.  West of here you can see the backside of a large hay tent that
+spans to the north.  South of here you can see nothing but the conversation
+of several localers.
+~
+0 0 1
+D0
+~
+~
+0 -1 523
+D2
+~
+~
+0 -1 525
+S
+#525
+In the Meadow~
+In this specific spot, there are many things within view that are taking place.
+To the immediate south there are gardeners, planting away at the pride of
+Kivitz, the Kivitz garden.  Slightly to the north there are masses of people
+all lined up and ready to enter the slew of shops that line this side of the
+hay tent.  Directly to the east, there is a small pebble road which leads out
+of Kivitz and to another place.  Exits lead in all directions.
+~
+0 0 1
+D0
+~
+~
+0 -1 524
+D1
+~
+~
+0 -1 532
+D2
+~
+~
+0 -1 526
+D3
+~
+~
+0 -1 516
+S
+#526
+Ne Section of the Garden~
+This begins the beautiful Kivitz garden.  To the immediate south and west the
+garden continues as it blooms this season, as it does all seasons.  Small
+vegetables can bee seen here, as well as some fresh herbs ripe for the picking.
+To the south and west you can see more of the same:  The finest vegetables and
+herbs in the Realms growing the the most productive, black topsoil found in
+this area of the continent.  North of here, the grassland makes its self known
+and it opens as it opens up to the general populace.
+~
+0 0 1
+D0
+~
+~
+0 -1 525
+D2
+~
+~
+0 -1 527
+D3
+~
+~
+0 -1 517
+S
+#527
+Se Section of the Garden~
+The overall sense of pride comes to mind when one mentions the gardens to the
+Kivitzians.  These gardens are a sense of accomplishment and work to the
+locals.  Only the finest soil and products are kept in the garderns to obtain
+maximum quality on all merchandise sold.  Many of the items in this garden are
+sold in the stores that can be found in the center of the village.  To the
+south the fence makes a shift and heads north, along the boundries of the 
+garden itself.  A nice little walkway has been made to cultivate and preserve
+the gardens as such.  North and west the walkways continue.
+~
+0 0 1
+D0
+~
+~
+0 -1 526
+D3
+~
+~
+0 -1 518
+S
+#528
+Along the Fence~
+Along the journey of this fence, the smell of fresh cut grass as well as
+spring fills the air.  The sights and sounds of local society linger, making
+this place seem all the more comfortable.  Along the fence, a multitude of
+flowers and other greens can be spotted as well as several prairie animals.
+To the northeast is an opening in the fence that leads to the Northern Plains,
+while to the southwest is the bustle of the village.
+~
+0 4 1
+D3
+~
+~
+0 -1 521
+D6
+~
+~
+0 -1 316
+S
+#529
+In the Meadow~
+Standing here, in this spot, gives you a spectacular view on whats going on
+in the city.  To the north stands a small wooden fence that outlines the city
+and all of its localers.  West of here, a large tent made for the local shops
+has been constructed.  East of here, it is possible to jouney to the edge of
+town and see part of the fence.  South of here, more fun and games are being
+held by the village people.
+~
+0 4 1
+D0
+~
+~
+0 -1 528
+D1
+~
+~
+0 -1 533
+D2
+~
+~
+0 -1 530
+D3
+~
+~
+0 -1 522
+S
+#530
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 529
+D1
+~
+~
+0 -1 534
+D2
+~
+~
+0 -1 531
+D3
+~
+~
+0 -1 523
+S
+#531
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 530
+D1
+~
+~
+0 -1 535
+D2
+~
+~
+0 -1 532
+D3
+~
+~
+0 -1 524
+S
+#532
+On a Pebbled Road~
+There was a slight hole, much more like a passageway, through the fence that
+surrounds Kivitz.  Starting here is a pebbled road.  Small rocks of many colors
+have been gathered and spread along a path, making way for the next stop on
+the eastern continent:  The Skazoy.  Dotting in the far east are trees and
+other such objects that are not found in Kivitz.  From here you can exit north
+on to a clearing of grass, to the west where conversation is lively, or
+continue on the road to the southwest.
+~
+0 4 1
+D3
+~
+~
+0 -1 525
+D8
+~
+~
+0 -1 13800
+S
+#533
+Along the Fence~
+To the north of this general area the white fence that surrounds the village
+can be seen.  The fence, like much of the rest of Kivitz is in perfect shape
+and looks to have been built by the gods.  Where or how the people from this
+land got wood from is a wonder, but one could imagine it not too difficult
+with all the diversity in the area.  To the north of here the Northern Plains
+can be seen while to the south you can see the Anikin Mountains.  From here
+exits lead west and south.
+~
+0 4 1
+D2
+~
+~
+0 -1 534
+D3
+~
+~
+0 -1 529
+S
+#534
+Upon the Meadow~
+A very wonderful sight this place has become.  What a marvel it is to see this
+many races and groups of people survive and live together.  All about there 
+are many people from different races joining in game, festival and work.  And
+though the village seems rather primitive compared to the other, bigger cities,
+none have the sincerity and quality of life, Kivitzians have.  To the north
+and south of here the sea of green continues.  West of here enters more of the
+general area of Kivitz while to the east the end of the village can be seen.
+~
+0 4 1
+D0
+~
+~
+0 -1 533
+D1
+~
+~
+0 -1 536
+D2
+~
+~
+0 -1 535
+D3
+~
+~
+0 -1 530
+S
+#535
+Along the Fence~
+A small wooden fence makes its way from this spot, heading northeast and
+coming from the southwest.  Behind and in front of the fence, almost hugging
+it, is a patch of wild flowers and some other local greens.  A small, green
+grasshopper jumps along on top of the fence, making its way somewhere.  North
+of here is a large open area of grass and further north is the other side of
+the fence and to the west the large of the city opens up.
+~
+0 4 1
+D0
+~
+~
+0 -1 534
+D3
+~
+~
+0 -1 531
+S
+#536
+End of Kivitz~
+The end of Kivitz stands here.  The white wooden fence that surrounds the
+entire village meets here, coming from the southwest and northwest.  The grass
+is noteably dark green and seems to thrive in this area.  The blades of grass
+teeter back and forth in the slight wind making it look like a sea of green.
+The only exit from here is back west.
+~
+0 4 1
+D1
+~
+~
+0 -1 537
+D3
+~
+~
+0 -1 534
+S
+#537
+Floating in a void~
+~
+0 4 1
+S
+#538
+Floating in a void~
+~
+0 4 1
+S
+#539
+Floating in a void~
+~
+0 4 1
+S
+#540
+Floating in a void~
+~
+0 4 1
+S
+#541
+Floating in a void~
+~
+0 4 1
+S
+#542
+Floating in a void~
+~
+0 4 1
+S
+#543
+Floating in a void~
+~
+0 4 1
+S
+#544
+Floating in a void~
+~
+0 4 1
+S
+#545
+Floating in a void~
+~
+0 4 1
+S
+#546
+Floating in a void~
+~
+0 4 1
+S
+#547
+Floating in a void~
+~
+0 4 1
+S
+#548
+Floating in a void~
+~
+0 4 1
+S
+#549
+Floating in a void~
+~
+0 4 1
+S
+#550
+Floating in a void~
+~
+0 4 1
+S
+#551
+Floating in a void~
+~
+0 4 1
+S
+#552
+Floating in a void~
+~
+0 4 1
+S
+#553
+Floating in a void~
+~
+0 4 1
+S
+#554
+Floating in a void~
+~
+0 4 1
+S
+#555
+Floating in a void~
+~
+0 4 1
+S
+#556
+Floating in a void~
+~
+0 4 1
+S
+#557
+Floating in a void~
+~
+0 4 1
+S
+#558
+Floating in a void~
+~
+0 4 1
+S
+#559
+Floating in a void~
+~
+0 4 1
+S
+#560
+Floating in a void~
+~
+0 4 1
+S
+#561
+Floating in a void~
+~
+0 4 1
+S
+#562
+Floating in a void~
+~
+0 4 1
+S
+#563
+Floating in a void~
+~
+0 4 1
+S
+#564
+Floating in a void~
+~
+0 4 1
+S
+#565
+Floating in a void~
+~
+0 4 1
+S
+#566
+Floating in a void~
+~
+0 4 1
+S
+#567
+Floating in a void~
+~
+0 4 1
+S
+#568
+Floating in a void~
+~
+0 4 1
+S
+#569
+Floating in a void~
+~
+0 4 1
+S
+#570
+Floating in a void~
+~
+0 4 1
+S
+#571
+Floating in a void~
+~
+0 4 1
+S
+#572
+Floating in a void~
+~
+0 4 1
+S
+#573
+Floating in a void~
+~
+0 4 1
+S
+#574
+Floating in a void~
+~
+0 4 1
+S
+#575
+Floating in a void~
+~
+0 4 1
+S
+#576
+Floating in a void~
+~
+0 4 1
+S
+#577
+Floating in a void~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+M 1 500 1 503
+M 1 501 1 501
+M 1 503 1 508
+M 1 504 1 507
+M 1 505 1 506
+M 1 506 1 506
+M 1 507 1 505
+M 1 508 1 502
+M 1 507 2 521
+M 1 502 2 521
+M 1 501 1 521
+M 1 500 2 521
+M 1 509 1 522
+M 1 500 4 522
+M 1 501 3 522
+M 1 502 4 522
+M 1 501 3 523
+M 1 502 4 523
+M 1 503 2 523
+M 1 504 1 523
+M 1 505 2 523
+M 1 506 2 523
+M 1 507 3 523
+M 1 508 2 523
+M 1 510 1 515
+G 1 500 1
+G 1 501 1
+G 1 502 1
+M 1 511 1 514
+G 1 504 1
+G 1 508 1
+G 1 507 1
+G 1 506 1
+G 1 505 1
+M 1 512 1 513
+G 1 509 1
+G 1 510 1
+G 1 511 1
+S
+
+
+#SHOPS
+ 510    0  0  0  0  0   120  90         0 23    ; An old man
+ 511    0  0  0  0  0   120  90         0 23    ; A young man
+ 512    0  0  0  0  0   120  90         0 23    ; An old lady
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  509 spec_cast_adept
+S
+
+
+#$

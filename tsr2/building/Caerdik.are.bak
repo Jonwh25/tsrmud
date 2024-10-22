@@ -1,0 +1,1881 @@
+#AREA   {PROTO} Sirian's area in progress~
+
+
+
+#AUTHOR Sirian~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#4900
+Overgrown Path~
+This beaten path winds through the jungle-trees here, twisting in and out
+of the shadows created by the canopy overhead.  Vines and other strange
+plants hang down, obscuring vision, and a blanket of dew deadens sounds.
+The air is warm and humid, but comfortable, and the smells of things
+growing is pleasant.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4901
+S
+#4901
+Overgrown Path~
+The path here is of beaten dirt, liberally covered with fallen leaves and
+twigs from the surrounding jungle-trees.  Some of the smaller bushes and
+shrubs carry flowers or fruits, such as the sweet kirgafruit.  A damp
+warmth permeates everything here, making the area seem quiet and remote.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4902
+D3
+~
+~
+0 -1 4900
+S
+#4902
+Overgrown Path~
+Shadows line the path here, creating a cozy darkness under the trees'
+canopy.  The beaten dirt path runs between the trees and through the
+underbrush, creating a twisting path of sorts.  The air is thick and
+warm with moisture and carries the scent of growing plants.
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4901
+D6
+~
+~
+0 -1 4903
+S
+#4903
+Rock in Path~
+The path here widens into a small clearing, in the center of which stands
+a round boulder, 7 feet tall and almost 5 feet wide.  A layer of dust or
+ash covers the ground and the boulder, though many tracks criss-cross their
+way through the it.  The rock, however, seems untouched by man or animal.
+The path narrows and leads on to the east and the southwest.
+~
+0 1074790548 3
+D1
+~
+~
+0 -1 4904
+D9
+~
+~
+0 -1 4902
+E
+~
+The rock is of a lightly-pored black stone, very different from the
+surrounding pebbles and stones of gray rock.  Whatever put this rock here
+must have done it a VERY long time ago, judging by the thickness of the dust
+covering it.
+~
+E
+Dust Ash~
+The dust here is surprisingly thick, and seems to cover everything from
+the stone in the midle of the path to the broad leaves of the near-by
+foilage.  The dust is, upon getting a closer look, very fine and seems to
+have been settled here for quite some time.
+~
+E
+Rock Stone Boulder~
+The boulder here is just over 7 feet tall and 5 wide.  It sits in the center
+of this cleared space in the jungle.  No birds or animals sound in the brush
+here, and the rock seems to have an almost tangible aura of power.
+~
+S
+#4904
+Overgrown Path~
+Heavy vines and creeper plants snake their way down from the branches
+above, laden with green moss and mold.  Twisted trees and stunted brush
+line the edges of the dirt track, creating a winding trail through the
+jungle.  The underbrush rattles with the sounds of small animals, and
+birds call loudly in the distance.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4905
+D3
+~
+~
+0 -1 4903
+S
+#4905
+Bubbling Brook~
+A small, clear stream babbles by here peacefully, adding to the comforting
+sounds of small animals and birds in the brush and trees around you.  The
+path seems to pass over a shallow area in the stream, and crossing is easy.
+The water winds it's way to the south, where it cascades over a short drop
+to create a majestic sparkling waterfall.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4906
+D3
+~
+~
+0 -1 4904
+S
+#4906
+Sharp Turn in Path~
+Here the narrow path bends sharply to the north, cutting through the dense
+foilage and undergrowth and running around several of the larger trees.
+This area of the path, like most of the rest of it, seems to have been
+burned out of the surrounding jungle rather than beaten out.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4907
+D3
+~
+~
+0 -1 4905
+S
+#4907
+Overgrown Path~
+A dead, rotted log has fallen across the path at this point, creating a
+minor obstacle.  Insects as large as your hand skitter out from under
+the log at your approach.  Multicolored birds flap their way across the
+dark green of the canopy above.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4908
+D2
+~
+~
+0 -1 4906
+S
+#4908
+Large Clearing~
+A welcome respite from the claustrophobic confines of the surrounding
+jungle, this large clearing is open to the sky and well lit.  The dense
+trees form a barrier, making this place seem like a safe haven for a rest.
+Small creatures skitter about in the underbrush and birds flap along the
+canopy above.
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4907
+D3
+~
+~
+0 -1 4909
+D6
+~
+~
+0 -1 4910
+S
+#4909
+Thin Trail~
+The trail thins out here, creating a narrow passage through the thick
+confines of the surrounding jungle.  Many of the short trees that line
+this thin trail are heavy with ripening kirgafruit, and rotted fruit and
+leaves create a thick, sweet smell of decay.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4908
+D3
+~
+~
+0 -1 4911
+S
+#4910
+Split in the Overgrown Trail~
+Here the path splits, creating a three-way intersection. To the east,
+the trail seems to slope downward slightly and the trees grow together
+more densely.  To the north, a thin trail runs nearly straight, ending
+at the edge of a crystal-clear lake.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4971
+D1
+~
+~
+0 -1 4915
+D9
+~
+~
+0 -1 4908
+S
+#4911
+Thin Trail~
+This thin trail curves from the east to the northwest, creating a gentle
+bend.  Animals rustle the underbrush, creating a vibrant feeling of life
+in the jungle.  The air is warm and moist, almost to the point of being
+uncomfortably so.
+~
+0 1073741824 3
+D1
+~
+~
+0 -1 4909
+D7
+~
+~
+0 -1 4912
+S
+#4912
+Thin Trail~
+To the north along this trail, the jungle seems to become sparser and
+less shadowy.  Ancient depressions, shaped like short, broad human
+tracks, are sunk lightly in the hard, beaten dirt trail.  The air is
+particularly hot and humid in this section of the jungle, causing a
+few of the less hardy plants to brown and wilt.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4913
+D8
+~
+~
+0 -1 4911
+S
+#4913
+Thinning Trail~
+At this point, the jungle begins thinning out a little, becoming less
+dense.  In fact, patchy sunlight can now find it's way through the
+canopy overhead, providing a more cheerful atmosphere.  The heavy,
+sweet scent of jungle flowers permeates this area, making you drowsy.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4914
+D2
+~
+~
+0 -1 4912
+D3
+~
+~
+0 -1 4930
+S
+#4914
+Thinning Trail~
+The trail thins even more here, running to the north and the south.  At
+this point, few animals move about and no birds fly overhead.  This is
+probably because of the unnaturally warm nature of this area.  Hot
+updrafts waft upward, disturbing plants and tree leaves.
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4913
+D6
+~
+~
+0 -1 4917
+S
+#4915
+Overgrown Path~
+The path at this point is particularly overgrown with vies, heavy under-
+brush, and twisted, stunted trees.  The beaten dirt trail itself is hardly
+visible under the mass of foilage, and rounded stones are scattered randomly
+across the path.
+~
+0 1073741824 3
+D3
+~
+~
+0 -1 4910
+D6
+~
+~
+0 -1 4916
+S
+#4916
+End of Path~
+The path here peters out and is eaten up by the surrounding greenery.
+Nothing can be seen of it, and travel from here gets much more difficult.
+Dense underbrush surrounds you in almost every direction, though to the
+north it seems sparse enough to pass through.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4940
+D9
+~
+~
+0 -1 4915
+S
+#4917
+Thinned Trail~
+The trail at this point runs through a much sparser section of jungle,
+and the trees seem to be younger here than throughout the rest of the
+area.  Water drips in rivulets for the broad leaves of the trees here,
+enhancing the moist atmosphere.  Vines twine themselves around some of
+the upper branches of the trees, and moss hangs in the places that
+recieve sunlight through the sparse canpoy.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4918
+D9
+~
+~
+0 -1 4914
+S
+#4918
+Edge of a Ravine~
+The trees here end suddenly, mere feet away from the edge of a 200 foot drop.
+The edge of a deep ravine drops straight down, as if cut from the earth by a
+sword edge.  The obsidian cliff cuts shearly away to the west, while the
+jungle encroaches right up to the edge to the east.  Directly across from
+your vantage point is a towering volcano, stretching upwards for more than
+five thousand feet and dominating the surrounding vista.  Looking down into
+the ravine accomplishes nothing, as the shadow from the volcano obscures all
+in darkness.
+~
+0 1073741824 4
+D2
+~
+~
+0 -1 4917
+D3
+~
+~
+0 -1 4919
+S
+#4919
+Path Along a Ravine~
+The timber runs right up to the edge of a 200-foot drop here, ending at
+the cliff's top.  Dense jungle-trees obscure any vista otherwise visible
+here, and provide some protection against falling over the cliff-edge.
+Birds wing their way across the vivid blue of the sky, providing a
+stunning example of the jungle's diversity.
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 4918
+D3
+~
+~
+0 -1 4920
+S
+#4920
+Path Along a Ravine~
+This path runs along the edge of a shear cliff, providing a beautiful
+vista of the towering volcano.  No plant life seems to grow on the
+visible side of the volcano, leaving the interesting rock and ore
+patterns visible.  Thus, the volcano seems to be a dazzling array of
+colors and textures.  Dark, porous lava rock seem to make up the upper
+portion, while hard granite and other rock types provide the volcano's
+base.  Thin streamers of smoke reach into the air, emanating from the
+peak.
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 4919
+D7
+~
+~
+0 -1 4921
+S
+#4921
+Steep Trail Down a Ravine~
+This is the higher end of a downward-sloping trail that plunges into a
+dark ravine far below.  To the south and east, the ground rises slightly,
+overlooking the ravine from a height of 200 feet.  To the north, the path
+drops rapidly, making a steep, but climbable, trail down the cliff-face.
+~
+0 1073741824 4
+D0
+~
+~
+0 -1 4922
+D8
+~
+~
+0 -1 4920
+S
+#4922
+Steep Trail Down a Ravine~
+The path winds downwards into a shadowed cleft running between the
+towering volcano and the cliff across from it.  Stones slip and slide
+under your feet, cuasing you to slide a little on your way down the steep
+trail.
+~
+0 1073741824 4
+D2
+~
+~
+0 -1 4921
+D5
+~
+~
+0 -1 4923
+S
+#4923
+Bottom of Steep Trail~
+This is the bottom end of a steep mountain trail.  Stones, rocks, and
+boulders of various sizes line the road and are scattered across the
+path, making any ascent or descent dangerous.  Twisted trees, heavy with
+the frequent rainfalls common to this area, lean far out over the path,
+creating some shelter from the warm sun above.
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 4924
+D4
+~
+~
+0 -1 4922
+S
+#4924
+Path in the Volcano's Shadow~
+A long, thin ravine here runs between the cliff and the volcano, plunged
+into darkness by the overpowering presence of the volcano.  A chill wind
+blows almost continually through here, howling through the rocks and 
+crevices.
+~
+0 1073741824 4
+D1
+~
+~
+0 -1 4925
+D3
+~
+~
+0 -1 4923
+S
+#4925
+Path in the Volcano's Shadow~
+This narrow cleft runs between the base of the clif and the base of the
+volcano.  The volcano blankets this small ravine in shadow, making it
+dark and cold.  A cool dampness in the ground seems to seep through your
+boots, making you shiver.
+~
+0 1073741824 4
+D3
+~
+~
+0 -1 4924
+D6
+~
+~
+0 -1 4926
+S
+#4926
+Steep Trail to Peak~
+The ascent here is almost perpendicular, and for many hundreds of feet the
+only way up is to pull yourself up a handhold at a time.  Unlike the trees
+below, there is no sign of plant or animal life.  All is silent and the air
+has become thicker up here, for some reason.
+~
+0 1073741824 5
+D4
+~
+~
+0 -1 4927
+D9
+~
+~
+0 -1 4925
+S
+#4927
+Steep Trail to Peak~
+Warm, humid airs assault your nose as you make the hard climb.  Jagged lava
+and twisted magma outthrusts from your only handhold, and at times the
+climb twists around or over large boulders of a curious gray stone.  It
+seems odd that no life lives this high up, not even a simple shrub or
+stunted tree.
+~
+0 1073741824 5
+D4
+~
+~
+0 -1 4928
+D5
+~
+~
+0 -1 4926
+S
+#4928
+Nearing the Peak~
+The peak is no more than 200 feet above you, on a gently sloping path
+to the north.  Small chuncks of broken lava rock slide and skitter down
+the path behind you as you ascend this ardorous climb.  The smell of sulfur
+is stronger here, for some reason.
+~
+0 1073741824 5
+D0
+~
+~
+0 -1 4929
+D5
+~
+~
+0 -1 4927
+S
+#4929
+Volcano's Peak~
+The peak stands thousands of feet above the surrounding jungle.  From this
+height, one can see miles in every direction, almost all of which consists
+of jungle.  Tree's cover nearly all of the view, except for several large
+clearings.  The humid air and obscuring volcano-ash make it impossible to
+see much beyond the jungle's perimeter.  The porous lava rock on which you
+stand is convulted and jagged, as if it hasn't had the time to be worn down
+by wind and water, and the stench of sulfur emenating from the volacano's
+crater is noxious.  No greenery peeks forth from the blackish-red rocks that
+form the peak, and it is bare until near the base of the volcano.
+~
+0 1073741824 5
+D2
+~
+~
+0 -1 4928
+E
+Crater~
+The crater is no more than a hole about 3 feet across, with edges both
+jagged and sharp.  It appears that at one time the peak was much lower,
+but magma and ash build-up has raised it up to it's present height.  Thus
+this hole is now much smaller than it was originally.  Sulfuric vapors pour
+forth almost continually from it, obscuring vision and creating an awful
+stench.
+~
+S
+#4930
+Entrance to Clearing~
+The thin trail twists past several large trees, and breaks out into a
+clearing.  The trees flanking the clearing surround an ancient ruin,
+smashed and blasted as if by some divine force.  Burned wood and stone
+extend even this far onto the trail, and could make footing dangerous.
+~
+0 1073741824 0
+D1
+~
+~
+0 -1 4913
+D3
+~
+~
+0 -1 4931
+S
+#4931
+Ruins~
+The thin trail opens out into a larger clearing, about 150 feet across.
+The forest floor is littered with stone blocks and ruined timbers, and
+the clearing seems to have at one time housed a building of some sort.
+Now, however, it is nothing but a blasted ruin.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4932
+D1
+~
+~
+0 -1 4930
+D3
+~
+~
+0 -1 4933
+S
+#4932
+Ruins~
+This corner of the ruins seems to have been hit the hardest.  What must
+have once been huge stone blocks has been reduced to blasted rubble and
+charred timber supports.  From beneath some of the rubble, you spy
+the charred skeleton of a human.
+~
+0 1073741824 0
+D2
+~
+~
+0 -1 4931
+D3
+~
+~
+0 -1 4934
+E
+skeleton~
+The charred remains of this man indicate that he must have died within
+moments of whatever destroyed this place.  No clothing or other artifacts
+of his life remain.
+~
+S
+#4933
+Ruins~
+Here the damage seems to be worse, as fallen walls and shattered stones
+litter the area with broken shards of rock.  What little remains in this
+corner seems to indicate that the structure was ancient, older even than
+the trees surrounding the clearing.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 4934
+D1
+~
+~
+0 -1 4931
+S
+#4934
+Ruins~
+This part of the clearing seems to have escaped the brunt of the damage
+and even has two standing walls.  In the corner formed by these walls, a
+marble statue, charred and blackened, stands otherwise untouched.  To
+the south and west, the damage seems more considerable.
+~
+0 1073741824 0
+D1
+~
+~
+0 -1 4932
+D2
+~
+~
+0 -1 4933
+D5
+~
+Trapdoor Trap~
+3 -1 4935
+E
+Statue~
+The statue stands as a monument to some forgotten god, and seems to
+have somehow protected this corner of the ruins.  An inscription at
+the base reads: 'Those who speak, hear less.'
+~
+S
+#4935
+Under the Ruins~
+A set of short stone steps leads upward, back into the ruins.  A gray
+stone archway stands to the north, leading deeper under the ruins.
+Thick layers of dust cover the steps and the floor, making footing a
+little hazardous.
+~
+0 1073741832 0
+D0
+~
+~
+0 -1 4936
+D4
+~
+Trapdoor Trap~
+3 -1 4934
+E
+dust~
+The very fine, yet heavy, dust that coats everything here could almost be
+mistaken for ash, but there is too much of it for that to be the answer...
+~
+S
+#4936
+Hallway~
+This bare, gray, stone hallway is empty of all but dust.  A well-
+preserved oaked door stands to the north, while open archways lie to
+both the east and the west.
+~
+0 1073741832 0
+D0
+~
+Door~
+1 -1 4939
+D1
+~
+~
+0 -1 4938
+D2
+~
+~
+0 -1 4935
+D3
+~
+~
+0 -1 4937
+E
+dust~
+The dust, upon close inspection, seems to be very fine and heavy.  It
+almost seems as if it could be ash, but it covers everything in sight.
+~
+S
+#4937
+Empty Storage Room~
+This bare room, hardly more than a cubicle, contains nothing but thick
+layers of dust.  However, at one time it must have been used for storing
+required supplies.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 4936
+E
+dust~
+This fine dust swirls in eddies and covers everything evenly.  It seems
+very fine, and is ash-colored.
+~
+S
+#4938
+Empty Wine Cellar~
+Empty oaken wine racks, rotted and broken with age, rest in jumbled
+heaps along the walls here.  Old, staved-in casks and broken glass
+indicate that it must have once been well-stocked.  Thick layers of dust
+now cover everything.
+~
+0 1073741824 0
+D3
+~
+~
+0 -1 4936
+E
+dust~
+A heavy, fine dust is settled evenly over all the casks and racks.  The
+floor, too, is covered by an almost 2" thick layer of this ash-like dust.
+~
+S
+#4939
+Altar~
+This room has stood up amazingly to the ravages of time.  The walls are
+unmarred and the floor unscuffed.  The walls are of living stone, carved
+directly out of the earth, while the floor is black marble, one huge slab.
+At the north end of the room, a gray marble altar stands against the wall,
+paying homage to a forgotten god.
+~
+0 1073807368 1
+D2
+~
+Door~
+1 -1 4936
+E
+Altar~
+The altar bears no ornamentation or inscription, and is completely bare.
+It's gray stone does not reflect the light, but rather seems to aborb it
+into itself.
+~
+S
+#4940
+Pushing Through the Jungle~
+Movement is much slower without a clear path to follow.  Low branches and
+hanging vines make movement difficult here, and the dense underbrush
+catches at your clothing and impedes your progress.  Several of the
+surrounding trees seem to almost close in on you, and there are the noises
+of large animals not far off in the surrounding jungle.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4941
+D2
+~
+~
+0 -1 4916
+S
+#4941
+Hole in the Ground~
+A 3-foot radius hole is here, displacing the underbrush and creating a
+small clearing.  It curves sharply down into the darkness below, but it
+gets much larger inside; easily large enough to stand in.  It seems to
+lead in a northwesterly direction, about 10 yards below the surface.
+Strangely enough, there doesn't seem to be any bird or animal noises in
+this part of the jungle.
+~
+0 1073741824 3
+D2
+~
+~
+0 -1 4940
+D5
+~
+~
+0 -1 4942
+S
+#4942
+The Tunnel Widens~
+The tunnel here widens out to about 10 feet in diameter, and is roughly
+cylindrical in shape.  It's walls are rough and studded with frequent jagged
+outthrusts and stalagtites.  The floor is scuffed and marked with signs
+of previous passage, and it has obviously been used recently.  It winds it's
+way in a solid northwesterly direction, and it widens and narrows at odd
+intervals.
+~
+0 1073741824 13
+D4
+~
+~
+0 -1 4941
+D7
+~
+~
+0 -1 4943
+S
+#4943
+Underground Corridor~
+This northwest-southeast corridor runs levelly beneath the earth.  Odd
+narrow or wide places in the tunnel make going slow, but the floor seems
+free of loose stones and other hazards.  The walls seem widen some to the
+northwest, and you can see some natural light to the southeast.
+~
+0 1073742089 13 0 0 2
+D7
+~
+~
+0 -1 4944
+D8
+~
+~
+0 -1 4942
+S
+#4944
+Wide Place~
+The corridor widens out drastically at this point, froming a wide place
+in the tunnel.  Colored strata of rock and ore create interesting patterns
+on the wall, which reflect beautifully in the illumination of your light
+source.  The corridor narrows again and leads both to the north and the
+southeast.
+~
+0 1073741833 13
+D0
+~
+~
+0 -1 4945
+D8
+~
+~
+0 -1 4943
+S
+#4945
+Crystalline Rainbow~
+This part of the tunnel is jagged with quartz and rose quartz outcroppings,
+all of which reflect and refract the light from your light source, creating
+an awe-inspiring color display.  Rainbow hued lights leap and dance in the
+air, throwing up a multi-colored curtain of blinding light.  Squinting against
+the beautiful display, you see that the only exits are to the south and to
+the northwest.
+~
+0 1073742088 13 0 0 2
+D2
+~
+~
+0 -1 4944
+D7
+~
+~
+0 -1 4946
+S
+#4946
+Hot Spring~
+A branch of some brook or jungle stream pours down from above, cascading
+into small pools, which drain ever so slowly through cracks and breaks
+in the stone floor.  The most notable feature about the pools, however, is
+that they are steaming comfortably.  Probably heated by magma before plunging
+through this room, the water makes this room a natural sauna.  The walls
+glisten with slickness as the steam condenses on the cool stone.
+~
+0 1073742089 13 0 0 2
+D7
+~
+~
+0 -1 4947
+D8
+~
+~
+0 -1 4945
+S
+#4947
+Shattered Crystals~
+This room must have once housed some strange and beautiful crystal formations,
+but something, or someone, has broken and shattered them, creating razor sharp
+fragment of broken crystal that covers the floor.  Walking here would be
+dangerous, and running quite impossible.  Strange light patterns and shadows
+form on the wall as your light refracts through each of the shattered pieces.
+~
+0 1073742089 13 0 0 2
+D3
+~
+~
+0 -1 4948
+D8
+~
+~
+0 -1 4946
+S
+#4948
+Upward Slope~
+The tunnel narrows slightly here and begins to slope upwards.  Although not
+very steep, the grade is littered with small pebbles and broken gravel,
+making the climb a little more interesting.  The tunnel stretches to the
+east, while a gentle bend is visible to the northwest.
+~
+0 1073742089 13
+D1
+~
+~
+0 -1 4947
+D7
+~
+~
+0 -1 4949
+S
+#4949
+Underground Stairs~
+A broken rock strata here forms a crude natural stairway, leading upwards
+into the dark caverns above.  Strange dripping and bubbling sounds can be
+heard at intervals, amplified by the tunnel's stone walls.  The stone of
+the stairway seems scuffed and chipped.  Apparently you are not the first
+to explore this tunnel.
+~
+0 1073742089 1 0 0 2
+D4
+~
+~
+0 -1 4950
+D8
+~
+~
+0 -1 4948
+S
+#4950
+A Split in a Stone Passageway~
+A crude natural staircase tops out here, at a split in this stone passage.
+One branch winds it's narrow way north, while the other juts straight east
+into darkness.  The air here is musty and stale, and the taste of dust is
+heavy in your mouth.
+~
+0 1073742089 13 0 0 2
+D0
+~
+~
+0 -1 4951
+D1
+~
+~
+0 -1 4952
+D5
+~
+~
+0 -1 4949
+S
+#4951
+Worn Passageway~
+The passageway here has been worn down by natural erosion, creating smooth
+and rounded walls, almost devoid of outcroppings or stalagmites.  Years and
+years of natural polish have brought out strange and wonderous colors and
+patterns in the stone here, creating interesting shadows on the walls.
+~
+0 1073742089 13 0 0 2
+D0
+~
+~
+0 -1 4953
+D2
+~
+~
+0 -1 4950
+S
+#4952
+Stone Passage~
+This passage seems to have been cut from the stone by human hand and chisel,
+rather than born by geological movements.  It runs prefectly straight from
+west to east, opening in the west into a larger room or cavern.  Nothing
+mars the perfect smoothness of the floor and walls here except for age-old
+chisel marks.
+~
+0 1073741833 13 0 0 2
+D1
+~
+~
+0 -1 4956
+D3
+~
+~
+0 -1 4950
+S
+#4953
+Worn Passageway~
+The passageway here has been worn down by natural erosion, creating smooth
+and rounded walls and making footing quite safe.  Water drips from stalagtites
+and drips down the walls, continuing the process that carved out this tunnel
+a millenia ago.
+~
+0 1073741833 13 0 0 2
+D2
+~
+~
+0 -1 4951
+D3
+~
+~
+0 -1 4954
+S
+#4954
+Dead End~
+This dark niche seem to peter out suddenly, leaving only a worn, eroded
+alcove, hidden away in the shadows.  A large rock comprises the southern
+wall, apparently fallen from the ceiling many years past.  The only exit
+seems to be to the east.
+~
+0 1073742089 13 0 0 2
+D1
+~
+~
+0 -1 4953
+D2
+~
+Rock Stone Secret~
+2097163 -1 4955
+S
+#4955
+Hidden Storage Vault~
+This dusty, dank room looks to be a storage room or vault of some sort.
+Scuff marks on the floor, and floor sections clear of the fine rock dust
+that covers everything provide discernible clues to this room's function.
+A large rock, fallen from the ceiling, form the northern wall, and there
+are no other apparent exits.
+~
+0 1074792457 13
+D0
+~
+Rock Stone Secret~
+11 -1 4954
+S
+#4956
+A Square Room~
+This cavern is most obviously artifical, having been carved from living stone
+into a square room.  Whoever carved out this room, however, is nowhere to be
+found, and to judge by the dusty and stale air here, hasn't been present for
+some time.  Exit leave the room to the north and west.
+~
+0 1073741833 13
+D0
+~
+~
+0 -1 4957
+D3
+~
+~
+0 -1 4952
+S
+#4957
+A Thin Winding Passage~
+The tunnel narrows considerably here, and begins to twist and wind sharply.
+No more than one man could squeeze his way through this winding rift.
+Rough walls and sharp edges on several of the turns, not to mention the
+loose gravel covering the floor, makes this part of the cavern complex
+rather dangerous.
+~
+0 1073742089 13 0 0 1
+D0
+~
+~
+0 -1 4958
+D2
+~
+~
+0 -1 4956
+S
+#4958
+Crude Steps~
+Some artificial steps have been carved here, ascending into the heavy
+darkness above.  Water drips from the ceiling and splashes into puddles
+and pools, creating slick spots on the stairway.  There is a faint smell in
+the air here, akin to rotten eggs.
+~
+0 1073742089 13 0 0 2
+D2
+~
+~
+0 -1 4957
+D4
+~
+~
+0 -1 4959
+S
+#4959
+Natural Cavern~
+Worn, water-splashed steps peak out here into a natural cavern, maybe
+100 feet in diamater.  The ceiling is bristling with stalagtites of every
+shape and description, some of which drip mineral-rich water droplets.
+The only exit, other than the stairs downward, lead west.
+~
+0 1073741833 13
+D3
+~
+~
+0 -1 4960
+D5
+~
+~
+0 -1 4958
+S
+#4960
+A Warm Tunnel~
+The dark stone walls run east and west here, narrowing just slightly as
+it heads west.  A jagged rift in the northern wall provides entrance into
+another tunnel.  The air here is warm and stuffy, and smells a bit like
+rotten eggs.
+~
+0 1073742089 13 0 0 2
+D0
+~
+~
+0 -1 4963
+D1
+~
+~
+0 -1 4959
+D3
+~
+~
+0 -1 4961
+S
+#4961
+A Hot Tunnel~
+The tunnel here continues east and opens out to the west.  A dim red glow
+from the west may indicate a fire of some sort.  The air here is very warm
+and breathing is a little harder in this hot, dry air.  It smells strongly
+here of brimstone.
+~
+0 1073742089 13 0 0 2
+D1
+~
+~
+0 -1 4960
+D3
+~
+~
+0 -1 4962
+S
+#4962
+Overlooking the Pool~
+The tunnel opens into a HUGE natural cavern, stretching for maybe 100 yards
+in diameter.  This cavern's most striking feature is the expanse of boiling
+magma that forms a huge pool at the bottom of this cavern.  It's red glow
+illuminates the whole cavern in an eerie red light.  Hot air currents drift
+upward from the pool, creating a hot breeze.  The air here is hard to breathe
+and the heat is almost unbearable.  An intense sulfur smell assaults your nose
+and makes breathing unpleasant, as well.  A thin, unrailed span of stone
+stretches across the pool.
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4961
+D3
+~
+~
+0 -1 4970
+S
+#4963
+A Branch Tunnel~
+This tunnel appears to be nothing more than a branch off the main
+tunnel to the south.  It's narrow and constricting, and gusts of hot
+air blow through it at odd intervals.  However, the walls nd floor look
+to have been swept clean, and travel is fast and east here.
+~
+0 1073742089 13 0 0 2
+D0
+~
+~
+0 -1 4964
+D2
+~
+~
+0 -1 4960
+S
+#4964
+Sharp Bend~
+The tunnel here bends sharply back on itself, almost leading back in
+the same direction.  the ceiling is also lower at the point, making it
+difficult to move around in.  The ceiling seems to drop even further,
+and the tunnel narrows even more to the southeast.
+~
+0 1073742089 13 0 0 1
+D2
+~
+~
+0 -1 4963
+D8
+~
+~
+0 -1 4965
+S
+#4965
+Narrow Crawlspace~
+At this point in the corridor, the ceiling slopes sharply downward and the
+walls twist together, creating strange rock formations as well as making
+travel difficult.  Though it doesn't seem too difficult to squeeze through,
+it seems to get even more narrow the further east you travel.  To make
+matters worse, loose gravel and broken stone are scattered across the
+ground, making travel that much more dangerous.
+~
+0 1073742089 13 0 0 1
+D1
+~
+~
+0 -1 4966
+D7
+~
+~
+0 -1 4964
+S
+#4966
+A Tight Squeeze~
+Walls and ceiling come together at this point, leaving only an extremely
+narrow gap, barely large enough to squeeze through.  Twisted stone walls
+and sloping ceiling meet at this point, creating a tight knot in the
+living stone.  The corridor widens somewhat to the west, and a wooden
+trap door above you seems to lead into another, larger cavern.
+~
+0 1073742089 13 0 0 1
+D3
+~
+~
+0 -1 4965
+D4
+~
+Trapdoor Trap Door~
+3 -1 4967
+S
+#4967
+A Huge, Oblong Cavern~
+This is the southern end of a huge, oblong cavern, stretching for
+hundreds of yard to the north.  Torches line the walls, creating a
+dim, red glow and an inordinate amount of smoke.  The thick, black
+smoke obscures the ceiling and darkens the walls with greasy soot.
+A floor of wooden planks covers the bare stone beneath your feet,
+though it is burned and rotted through in many places.  The stench
+of sulfur, combined with the stink of the heavy smoke, makes breathing
+an unpleasant prospect.
+~
+0 1073741896 13
+D0
+~
+~
+0 -1 4968
+D5
+~
+Trapdoor Trap Door~
+3 -1 4966
+S
+#4968
+Center of Cavern~
+This is the cavern's center, and it stretches both north and south from
+this point.  The wooden floor is in worse disrepair at this point than
+anywhwere else in the cavern.  Dirty piles of straw and the stench of
+unwashed bodies indicate that this cavern is the lair for a large number
+of creatures.  Dim, red torches hand in scones on the walls, providing
+more smoke than light.  Sulfuric fumes waft through the air, mixing
+nauseatingly with the woodsmoke.
+~
+0 1073741896 13
+D0
+~
+~
+0 -1 4969
+D2
+~
+~
+0 -1 4967
+S
+#4969
+Before the Throne~
+This end of the huge cavern is narrower, being at the thinnest point in
+the oblong shape.  Set against the north wall is a raised area, accessed
+via a short flight of crudely-carved stone steps.  On the platform, a
+stone throne, with wooden arms and a padded seat, rests again the wall.
+Torches line the walls here with greater frequency than the rest of the
+cavern, creating a flood of dim, red light.  The wooden floor is in good
+condition here, being relatively free from holes and rotted wood.
+~
+0 1073741896 13
+D2
+~
+~
+0 -1 4968
+D5
+~
+Throne Secret~
+11 -1 4997
+S
+#4970
+Broken Narrow Span Over the Pool~
+The span is a narrow jutting of stone, no more that 5 feet thick and 3
+across.  A drop of over 200 feet into a pool of molten magma awaits
+to both sides of you, and the hot updrafts from below make balancing
+precarious, at best.  The main problem with the span, however, is the fact
+that a good portion of it is missing up ahead!  Apparently, it broke under
+it's own weight and plunged into the magma-pool below.
+~
+0 1073742088 13 0 0 1
+D1
+~
+~
+0 -1 4962
+D3
+~
+~
+0 -1 4989
+S
+#4971
+Overgrown Trail~
+Here and there, long vines and brush intertwine with each other to create
+a thick, inpenetrable jungle vista.  Damp leaves and green twigs line the
+ground, creating a thick, soft layer of foilage that seems to muffle each
+step.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4972
+D2
+~
+~
+0 -1 4910
+S
+#4972
+Twisting Path~
+This twisted, winding part of the path seems to open up into a sparse
+clearing to the north.  To the south, the trail twists and turns heavily,
+obscuring vision in that direction.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4973
+D2
+~
+~
+0 -1 4971
+S
+#4973
+Sparse Clearing~
+Here the trees thin out, forming a section of jungle much less dense than
+the surrounding trees.  Several of the trees seem climbable here, as vines
+wind their way down many of the trunks.  Far above, vines stretch between
+trees and the broad jungle-tree leaves create dark, shadowy places in the
+upper branches.  Many animal tracks lead through here, most heading to or from
+the placid pool at the northern end of the clearing.
+~
+0 1073741824 3
+D0
+~
+~
+0 -1 4985
+D2
+~
+~
+0 -1 4972
+D4
+~
+~
+0 -1 4974
+S
+#4974
+In a Tree~
+The tree you are in is one of the larger ones in the vicinity.  It's top pokes
+slightly above the canopy above, while vines run between trees and hang from
+the lower branches.  Curiously, while many branches are coated with a thick,
+slippery, green moss, the larger ones to the south are not and make excellent
+places to stand.
+~
+0 1073742336 3
+D2
+~
+~
+0 -1 4976
+D4
+~
+~
+0 -1 4975
+D5
+~
+~
+0 -1 4973
+S
+#4975
+Above the Canopy~
+From this vantage point, you can see how vast this jungle truly is.  It's
+green sea of treetops and tropical foilage stretches to the edge of your
+vision, broken only by thin lines indicating trails and the towering
+expanse of black stone that forms the volcano, in the near distance to the
+northwest.  Closer at hand and to the north is a truly magnificent sight: a
+great river plunges over high ledge, forming a sparkling wall of diamonds.
+The crystal pool of clear water that it forms snakes outwards into several
+smaller brooks and streams.  Touching off this breathtaking vista are the
+many-colored birds of paradise and the bright macaws which soar above the
+jungle's canopy.  Their comforting noises and the breath of warm wind make
+this place truly a thing to remember.
+~
+0 1073742336 3
+D5
+~
+~
+0 -1 4974
+S
+#4976
+On a Vine Span~
+The thick vines have been interwoven together by something or someone to
+form a primitive bridgespan.  The vines themselves are connected to the
+only climbable tree in the vicinity to the north, and to a tree hidden
+from view largely by the thick broad jungle-tree leaves.  Looking down
+reinforces the feeling of vulnerability here on the narrow span.
+~
+0 1073743872 3
+D0
+~
+~
+0 -1 4974
+D2
+~
+~
+0 -1 4977
+S
+#4977
+Treetop Abode~
+Behind the cover of broad leaves and hanging vines is a surprise: a
+hut, built from woven vines, leaves, and bark.  It sits solidly in the
+crotch of this tree nearly 200 feet from the ground.  It is almost bare;
+however, it seems to be kept in good condition and cleaned regularly.
+~
+0 1073741832 3
+D0
+~
+~
+0 -1 4976
+D2
+~
+~
+0 -1 4982
+D3
+~
+~
+0 -1 4980
+D8
+~
+~
+0 -1 4978
+S
+#4978
+On a Vine Span~
+Thick bundles of entwined vines stretch their way from tree to tree,
+creating an easily-crossed span.  The ground, well over 100 feet down,
+seems dangerously far away, and no details can be made out.  Rustling in
+the leaves of the nearby trees indicate that you aren't alone here.
+~
+0 1073743872 3
+D7
+~
+~
+0 -1 4977
+D8
+~
+~
+0 -1 4979
+S
+#4979
+Treetop Abode~
+Another abode is tucked away here, nestled solidly against the tree's thick
+trunk of the jungle tree.  Judging by the crude carvings on the trunk-wall,
+some form of intelligent life must have lived here once.  In fact, probably
+still does, if the cleanliness of this place is any indication.
+~
+0 1073741832 3
+D7
+~
+~
+0 -1 4978
+E
+Carvings~
+Carvings of ape-like creatures and large elephantine creatures battling
+each other adorn the trunk of this dwelling.
+~
+S
+#4980
+On a Vine Span~
+Vines run back and forth through the trees, catching on branches and hanging
+from treetops.  Many twist and entwine themselves together, creating natural
+bridgespans between the trees.  Curiously, several of the trees seem to hold
+structures or dwellings of some sort.  There are such structures to both the
+east and west.
+~
+0 1073743872 3
+D1
+~
+~
+0 -1 4977
+D3
+~
+~
+0 -1 4981
+S
+#4981
+Communal Storage~
+This hut, tucked away behind a cover of well-placed leaves and hanging moss,
+looks to be storage area of sorts.  The wide branch on which it sits has
+been carved out to increase storage space, while a thick roof, made of
+thatched bark and broad tree-leaves protects whatever is stored here from
+the frequent rains.
+~
+0 1073741832 0
+D1
+~
+~
+0 -1 4980
+S
+#4982
+On a Vine Span~
+Vines twist and weave their way through the broad leaves of these tall trees.
+Many cross and twine themselves together, forming perfect bridges that span
+between two or more trees.  A large thatched dwelling is perched in the tree
+to the south, while a somewhat smaller one resides in the northern tree.
+~
+0 1073743872 3
+D0
+~
+~
+0 -1 4977
+D2
+~
+~
+0 -1 4983
+S
+#4983
+Larger Hut~
+A warm breeze floats lazily through the interior of this large hut.  The
+size of this hut indicates that it is the dwelling place of someone or
+something of importance.  Judging by the smell of unwashed bodies, this hut
+isn't often empty.  There is a further area to the west, behind a partition
+of hanging vines.
+~
+0 1073741832 0
+D0
+~
+~
+0 -1 4982
+D3
+~
+~
+0 -1 4984
+S
+#4984
+Sleeping Area~
+This section of the dwelling-place is much smaller than the communal area on
+the other side of the vines.  It seems to be used primarily for sleeping, to
+judge by the piled leaves in the corners.  Small implements of stone and bone
+are scattered across the floor, probably primitive tools of some sort.
+~
+0 1073741832 0
+D1
+~
+~
+0 -1 4983
+S
+#4985
+Still Pool~
+A calm, placid pool of perfectly clear water stretches to the north,
+between shores of beautiful tropical greenery.  Animals move through the
+underbrush and birds fly about over head, occasionaly alighting in the
+canopy far overhead.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 4986
+D2
+~
+~
+0 -1 4973
+S
+#4986
+On the Crystal Pool~
+A wide expanse of crystal clear water spreads out beneath the green ceiling
+of the jungle's canopy.  Almost directly across the pool to the north is a
+beautiful view: a perfect waterfall, splashing it's way down from a great
+heaight to land in the pool below it.  Ripples and disturbances from it's
+crashing descent cause the water to waver even at this distance.
+~
+0 1073741824 7
+D0
+~
+~
+0 -1 4988
+D1
+~
+~
+0 -1 4987
+D2
+~
+~
+0 -1 4985
+S
+#4987
+On the Crystal Pool~
+The jungle has forced it's way right up to the shore at this point, and the
+soft ripples lap gently at the bases of the trees and underfoilage.  The
+pool is crystal clear and many freshwater plants grow under it's surface.
+To the northwest, a dull roar and soft spray of water indicate the presence
+of a good-sized waterfall.
+~
+0 1073741824 7
+D3
+~
+~
+0 -1 4986
+D7
+~
+~
+0 -1 4988
+S
+#4988
+Before the Crystal Falls~
+The showering curtain of sparkling water that soars over the ledge high
+above plunges into the pool at this point.  A fine mist sprays over all in
+sight, including yourself, and the water at this point ripples outward in
+ever-decreasing waves to lap at the shores.  Even the ledge and surrounding
+areas are not immune to the encroaching foilage, as greenery has fought it's
+way to the very shore in some cases, and grows from alcoves and cracks in the
+mist-dampened black walls of the ledge.
+~
+0 1073741824 7
+D2
+~
+~
+0 -1 4986
+D8
+~
+~
+0 -1 4987
+S
+#4989
+Over the Edge~
+The span is broken here, leaving you standing in midair.  A sheer drop of
+almost 250 feet into a pool of lava is the only thing of interest here.
+The span, what's left of it, still has intact portions to both the east
+and the west.
+~
+0 1090519048 9
+D1
+~
+~
+0 -1 4970
+D3
+~
+~
+0 -1 4990
+D5
+~
+~
+0 -1 4991
+S
+#4990
+Broken Narrow Span Over the Pool~
+The span is a narrow jutting of stone, no more than 5 feet thick and 3
+across.  A drop of over 200 feet into a pool of molten magma awaits
+to both sides of you, and the hot updrafts from below make balancing
+precarious, at bes.  The main difficulty with the span, however, is the
+fact that a good portion of it is missing!  Apparently, it broke under
+it's own weight and plunged into the magma-pool below.
+~
+0 1073742088 13 0 0 1
+D1
+~
+~
+0 -1 4989
+D3
+~
+~
+0 -1 4992
+S
+#4991
+Fiery End!~
+Unable to halt your descent, you plunge screaming into the expanse of magma.
+You scream silently as the flesh is burned from charred bones to mix with the
+molten stone.  Agonies worse than anything experienced before wrack your
+burned and melted body, leaving nothing behind.
+~
+0 1073741838 0
+S
+#4992
+Overlooking the Pool~
+The tunnel opens into a HUGE natural cavern, stretching for maybe 100 yards
+in diameter.  The cavern's most striking feature is the expanse of boiling
+magma that forms a huge pool at the bottom of this cavern.  It's red glow
+illuminates the whole cavern in an eerie red light.  Hot air currents drift
+upward from the pool, creating a hot breeze.  The air here is hard to breathe
+and the heat is almost unbearable.  An intense sulfur smell assaults your nose
+and makes breathing unpleasant, as well.  A thin, unrailed span of stone
+stretches across the pool.
+~
+0 1073741832 13
+D1
+~
+~
+0 -1 4990
+D3
+~
+~
+0 -1 4993
+S
+#4993
+A Narrow Corridor~
+The corridor narrows considerably at this point, creating a thin rift,
+barely wide enough to walk through.  Travel at this point is made even
+more difficult as the floor is strewn with chunks of rock, ore, and
+gravel.  A reddish glow and heat, as if from some large fire, can be
+found to the east, while the tunnel widens slightly to the north.
+~
+0 1073742089 13 0 0 1
+D0
+~
+~
+0 -1 4994
+D1
+~
+~
+0 -1 4992
+S
+#4994
+Ancient Diamond Mine~
+The narrow tunnel to the south widens here into a vaguely circular cavern,
+apparently cleared by some sentient race.  It's function is obvious by the
+broken bits of tools, twisted sections of mine-cart tracks, and the broken
+fragments of gem and metal ore scattered about here.  It was once obviously
+a mine of some sort, and judging by the ore laying around, a diamond mine.
+~
+0 1073741833 13
+D2
+~
+~
+0 -1 4993
+D5
+~
+~
+0 -1 4995
+S
+#4995
+Mine Shaft~
+This is abut half-way down the mine shaft.  The rusted remains of iron
+rungs signify the lasting remains of an old ladder, but it's now much
+too dangerous to use.  In fact, there don't seem to be any suitable hand-
+or foot-holds in this vicinity.  The shaft opens out above you and plunges
+down below you.
+~
+0 1090519305 13 0 0 2
+D4
+~
+~
+0 -1 4994
+D5
+~
+~
+0 -1 4996
+S
+#4996
+Bottom of Shaft~
+The shaft bottoms out at this point, creating a natural resting place
+for fallen objects.  Shattered tools and rocks lay scattered across the
+floor, seemingly fallen from above.  The twisted remains of an old, rusted
+ladder stop about one-fourth the way up this shaft, thus preventing an
+easy exit.
+~
+0 1073742089 13 0 0 3
+D4
+~
+~
+0 -1 4995
+S
+#4997
+Hidden Storage Cache~
+This artifical cavern is hardly more than a cubicle, 5 feet to a side.
+Judging by the heavy scuffmarks and deep gouges in the soft stone, it
+is probably used as a storage site for valuables.  An iron ladder runs
+up the northern wall, leading back to the cavern.
+~
+0 1073741833 13
+D4
+~
+Throne Secret~
+11 -1 4969
+S
+#4998
+Floating in a void~
+~
+0 1073741828 1
+S
+#4999
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

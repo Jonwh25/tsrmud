@@ -1,0 +1,1553 @@
+#AREA   {PROTO} Merrik's area in progress~
+
+
+
+#AUTHOR Merrik~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#13900
+Floating in a void~
+~
+0 1074798592 1
+D5
+~
+~
+0 -1 13990
+S
+#13901
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13907
+D3
+~
+~
+0 -1 13902
+D5
+~
+~
+0 -1 13900
+S
+#13902
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13901
+D3
+~
+~
+0 -1 13903
+D6
+~
+~
+0 -1 13907
+S
+#13903
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13902
+D3
+~
+~
+0 -1 13904
+S
+#13904
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13903
+D3
+~
+~
+0 -1 13905
+D7
+~
+~
+0 -1 13906
+S
+#13905
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13906
+D1
+~
+~
+0 -1 13904
+S
+#13906
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13910
+D2
+~
+~
+0 -1 13905
+D8
+~
+~
+0 -1 13904
+S
+#13907
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13908
+D2
+~
+~
+0 -1 13901
+D9
+~
+~
+0 -1 13902
+S
+#13908
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13914
+D2
+~
+~
+0 -1 13907
+D7
+~
+~
+0 -1 13913
+S
+#13909
+Floating in a void~
+~
+0 1074798596 0
+D6
+~
+~
+0 -1 13913
+D7
+~
+~
+0 -1 13912
+S
+#13910
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13911
+D2
+~
+~
+0 -1 13906
+D4
+~
+~
+0 -1 13928
+D6
+~
+~
+0 -1 13912
+S
+#13911
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13919
+D1
+~
+~
+0 -1 13912
+D2
+~
+~
+0 -1 13910
+D6
+~
+~
+0 -1 13918
+S
+#13912
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13918
+D3
+~
+~
+0 -1 13911
+D6
+~
+~
+0 -1 13917
+D7
+~
+~
+0 -1 13919
+D8
+~
+~
+0 -1 13909
+D9
+~
+~
+0 -1 13910
+S
+#13913
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13916
+D1
+~
+~
+0 -1 13914
+D6
+~
+~
+0 -1 13915
+D7
+~
+~
+0 -1 13917
+D8
+~
+~
+0 -1 13908
+D9
+~
+~
+0 -1 13909
+S
+#13914
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13915
+D2
+~
+~
+0 -1 13908
+D3
+~
+~
+0 -1 13913
+D7
+~
+~
+0 -1 13916
+S
+#13915
+Floating in a void~
+~
+0 1074798596 0
+D2
+~
+~
+0 -1 13914
+D3
+~
+~
+0 -1 13916
+D9
+~
+~
+0 -1 13913
+S
+#13916
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13915
+D2
+~
+~
+0 -1 13913
+D3
+~
+~
+0 -1 13917
+D8
+~
+~
+0 -1 13914
+S
+#13917
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13916
+D3
+~
+~
+0 -1 13918
+D8
+~
+~
+0 -1 13913
+D9
+~
+~
+0 -1 13912
+S
+#13918
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13917
+D2
+~
+~
+0 -1 13912
+D3
+~
+~
+0 -1 13919
+S
+#13919
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13918
+D2
+~
+~
+0 -1 13911
+D8
+~
+~
+0 -1 13912
+S
+#13920
+Floating in a void~
+~
+0 1073741828 1
+S
+#13921
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13927
+D1
+~
+~
+0 -1 13922
+S
+#13922
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13923
+D3
+~
+~
+0 -1 13921
+S
+#13923
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13924
+D3
+~
+~
+0 -1 13922
+S
+#13924
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13925
+D3
+~
+~
+0 -1 13923
+S
+#13925
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13926
+D3
+~
+~
+0 -1 13924
+S
+#13926
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13930
+D2
+~
+~
+0 -1 13925
+S
+#13927
+Floating in a void~
+~
+0 1074798596 0
+D0
+~
+~
+0 -1 13928
+D2
+~
+~
+0 -1 13921
+S
+#13928
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13934
+D2
+~
+~
+0 -1 13927
+D4
+~
+~
+0 -1 13943
+S
+#13929
+Floating in a void~
+~
+0 1074798596 0
+D6
+~
+crack~
+9 -1 13932
+S
+#13930
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13931
+D2
+~
+~
+0 -1 13926
+D5
+~
+~
+0 -1 13908
+S
+#13931
+Floating in a void~
+~
+0 1074798596 0
+D2
+~
+~
+0 -1 13930
+D3
+~
+~
+0 -1 13932
+S
+#13932
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13931
+D6
+~
+~
+0 -1 13939
+D9
+~
+crack~
+9 -1 13929
+S
+#13933
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13934
+D7
+~
+~
+0 -1 13935
+S
+#13934
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13933
+D2
+~
+~
+0 -1 13928
+S
+#13935
+Floating in a void~
+~
+0 1073750020 0
+D1
+~
+~
+0 -1 13936
+D8
+~
+~
+0 -1 13933
+S
+#13936
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13937
+D3
+~
+~
+0 -1 13935
+S
+#13937
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13938
+D3
+~
+~
+0 -1 13936
+S
+#13938
+Floating in a void~
+~
+0 1074798596 0
+D1
+~
+~
+0 -1 13939
+D3
+~
+~
+0 -1 13937
+S
+#13939
+Floating in a void~
+~
+0 1074798596 0
+D3
+~
+~
+0 -1 13938
+D9
+~
+~
+0 -1 13932
+S
+#13940
+Towards the Eastern Light~
+After following the light, and the blood stain, a strong wooden door to the
+northeast lays closed. The glowing light that was pouring into the hallway
+is coming from the other side of the door and squeezing from the cracks around
+the door itself. The blood stain continues in the direction of the door and
+gets more dissipated as it goes. The vines on the walls are still there but 
+are now going in an upward direction on the walls instead of following the
+length of the walls.
+~
+0 1073741824 0
+D3
+~
+~
+0 -1 13941
+D6
+~
+door~
+1 -1 13945
+S
+#13941
+End of the Hallway~
+Having reached the end of the hallway a the vines that covered the wall 
+further north are still there and still look just the same. On the floor there
+are some stains of blood that look like a body has been dragged through here.
+Oddly enough the stain centers under your feet and leads both east and west.
+After followin the length of the stains in both directions it seems that there
+is some sunlight coming from the east and west. The glow is dull and barely 
+enough to notice but none the less the glows are there.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13944
+D1
+~
+~
+0 -1 13940
+D3
+~
+~
+0 -1 13942
+S
+#13942
+Towards the Western Light~
+Following the light east leads to a very old skeleton. Obviously a humanoid
+skeleton, whomever it was had a very nasty death. The skull of the skeleton
+is crushed and has several bone fragments all over here. On the wall there 
+are more splattered blood stains on the walls the door has something
+written on it. From just entering this part of the hallway it is hard to 
+discern what exactly is written on it, but it is the color of blood. The door
+has light pouring from the cracks surrounding it solving the question of where
+the light was coming from.
+~
+0 1073741824 0
+D1
+~
+~
+0 -1 13941
+D7
+~
+door~
+1 -1 13943
+E
+door~
+Written in blood on the door it says:
+ 
+        Enter not, for death surely awaits....
+ 
+~
+E
+skeleton~
+A bone here, a bone there, this guy, or girl, or thing, got really messed up.
+~
+S
+#13943
+A Blood Red Room~
+Entering this room slowly from the unpleasant warning on the door leading to
+itreveals an even more gruesome sight. All the walls and the entire floor has
+been stained a very dark red color, obviously from blood, but from whom or what
+is undiscernable. All around the floor are bone fragments, and there are even
+some imbedded in the vines on the wall. It looks possible to climb up the vines
+with ease but after climbing it does not look like it would be possible to come
+back down.
+~
+0 1073741824 0
+D4
+~
+~
+0 -1 13953
+D8
+~
+door~
+1 -1 13942
+S
+#13944
+Damp Hallway~
+This hallway is getting darker the further south it goes. The vines on the
+walls are getting thicker and flatter, almost making them look like the walls
+probably once did themselves. The feeling in the air has gotten a little more
+damp but not too much. The stench of mold is prevalent in the air making 
+traveling through this area unpleasant. This hallway is very long but along
+the way there is nothing that leads to anything secretive.
+~
+0 1073741824 0
+D0
+~
+~
+0 -1 13947
+D2
+~
+~
+0 -1 13941
+S
+#13945
+In the Down Staircase~
+The light in here is annoyingly bright, at least so it seems. After entering
+this room from being in a dark hallway the light makes one's eyes hurt. From 
+here it is noticable that the tower goes up several more floors but it seems
+impossible to go any direction other than back through the door and down.
+After some thinking you realize that somewhere else there must be a way to go
+up and that this stairway is for going down only. The room has thick vines 
+following the distance all the way up the stairwell coming from the hole below
+The vines look like they are getting thinner as they go up.
+~
+0 1073741824 0
+D5
+~
+~
+0 -1 13930
+D9
+~
+door~
+1 -1 13940
+S
+#13946
+Empty Room~
+This room appears to have been part of the security of the tower. On the north
+wall there are two bowmans posts that are covered with the vines that seem to 
+have taken over the first floor of the tower. The vines have eliminated any
+chance of weathering and so the room is perfectly preserved.
+~
+0 1073741824 0
+D3
+~
+door~
+1 -1 13947
+S
+#13947
+Inside the Hall of Vines~
+After entering the door consumed by vines it looks as though the rest of the
+floor and possibly the entire building has been consumed by these monstrous
+plants. Running a hand across them reveals a dense structure and an unusually
+slimy skin. Also the vines look like they are getting thicker as they proceed
+down further into the tower
+~
+0 1073741824 0
+D0
+~
+door~
+1 -1 13949
+D1
+~
+door~
+1 -1 13946
+D2
+~
+~
+0 -1 13944
+D3
+~
+door~
+1 -1 13948
+S
+#13948
+Empty Room~
+This room appears to have been part of the security of the tower.  On the 
+north wall there are long rectangular holes that were probably used to shoot
+arrows from to protect the tower when it was till occupied. They are now
+covered by vines and completely useless. The rest of the room is completely
+void of vines except for a few poking in from the bowmans posts in the wall.
+Everything is almost perfectly preserved and there being now dirt on the floor
+and the walls are perfect stone.
+~
+0 1073741824 0
+D1
+~
+door~
+1 -1 13947
+S
+#13949
+Inside the Anacreon Tower~
+The enterance to the tower feels cool and the ceiling is noticably high 
+and has several extravagant pictures painted on it. Towards the other side
+the room appears to have been taken over by plant life which explains the 
+dank smell in the room. Aside from the vines consuming the room, the walls and
+floor are set in stone and are a little damp from the mornings dew. To the
+south is a door enveloped by vines and it appears as though it has never been
+opened.
+~
+0 1073741824 0
+D2
+~
+door~
+1 -1 13947
+S
+#13950
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13951
+D6
+~
+~
+0 -1 13955
+S
+#13951
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13954
+D1
+~
+~
+0 -1 13950
+D3
+~
+~
+0 -1 13952
+S
+#13952
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13951
+S
+#13953
+Enterance to the 2nd Floor~
+After climbing to the second floor a door stands shut to the northeast. From
+the door there is a horrid stench that gets worse the closer to the door you 
+get. The vines that were so prevalent are still around, but are not as thick
+as they were on the floor below. Looking at the ground at where there used to
+be an enterance reveals nothing but solid rock. At first panic ensues your 
+veins but then dissuades and you relax thinking there must be an exit somewhere
+~
+0 1073741828 0
+D4
+~
+~
+0 -1 13963
+D6
+~
+~
+0 -1 13958
+S
+#13954
+Floating in a void~
+~
+0 1073741828 0
+D2
+~
+~
+0 -1 13951
+D6
+~
+~
+0 -1 13956
+D7
+~
+~
+0 -1 13958
+S
+#13955
+Floating in a void~
+~
+0 1073741828 0
+D5
+~
+~
+0 -1 13945
+D9
+~
+~
+0 -1 13950
+S
+#13956
+Floating in a void~
+~
+0 1073741828 0
+D7
+~
+~
+0 -1 13959
+D9
+~
+~
+0 -1 13954
+S
+#13957
+Anacreon's Room of Power~
+Upon entrance through the large doors towering bookshelfs line the way to the
+end of the room where a small chair and desk have been placed.  The entire
+room is so laden with magic that there is no need to detect it.  Everything
+usable is glowing brightly.  
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13959
+S
+#13958
+Dusty Hallway~
+In this room the vines that are so prevalent in the floor below have
+disbanded to a point of almost being invisible. So now all there is to see is 
+some bones scattered here and there and a lot of dust. The size of the granite
+that was used to build the tower are now visible and are enormous in size. 
+there are exits in many directions all of which are dark.
+~
+0 1073741828 0
+D6
+~
+~
+0 -1 13959
+D8
+~
+~
+0 -1 13954
+D9
+~
+~
+0 -1 13953
+S
+#13959
+Before The Large Doors~
+To the south of here a set of large doors leave a big impression.  They look
+like they lead to something important.  While looking at them there seems to
+be symbols on the door.  After picking away the vines you can see hundreds up
+upon hundreds of magical symbols that are mostly foreign in design.  It is
+obvious that the contents of this room are magical and in many different forms.
+~
+0 1073741828 0
+D2
+~
+~
+0 -1 13957
+D8
+~
+~
+0 -1 13956
+D9
+~
+~
+0 -1 13958
+S
+#13960
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13961
+S
+#13961
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13964
+D1
+~
+~
+0 -1 13960
+D3
+~
+~
+0 -1 13962
+S
+#13962
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13961
+D7
+~
+~
+0 -1 13963
+S
+#13963
+Floating in a void~
+~
+0 1073741828 0
+D4
+~
+~
+0 -1 13973
+D8
+~
+~
+0 -1 13962
+S
+#13964
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13967
+D2
+~
+~
+0 -1 13961
+S
+#13965
+Floating in a void~
+~
+0 1073741828 0
+D5
+~
+~
+0 -1 13955
+D7
+~
+~
+0 -1 13966
+S
+#13966
+Floating in a void~
+~
+0 1073741828 0
+D7
+~
+~
+0 -1 13969
+D8
+~
+~
+0 -1 13965
+S
+#13967
+Floating in a void~
+~
+0 1073741828 0
+D2
+~
+~
+0 -1 13964
+D3
+~
+~
+0 -1 13968
+S
+#13968
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13967
+D6
+~
+~
+0 -1 13969
+S
+#13969
+Floating in a void~
+~
+0 1073741828 0
+D8
+~
+~
+0 -1 13966
+D9
+~
+~
+0 -1 13968
+S
+#13970
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13971
+S
+#13971
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13974
+D1
+~
+~
+0 -1 13970
+D3
+~
+~
+0 -1 13972
+S
+#13972
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13971
+S
+#13973
+Floating in a void~
+~
+0 1073741828 0
+D4
+~
+~
+0 -1 13983
+D6
+~
+~
+0 -1 13978
+S
+#13974
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13977
+D2
+~
+~
+0 -1 13971
+S
+#13975
+Floating in a void~
+~
+0 1073741828 0
+D5
+~
+~
+0 -1 13965
+D7
+~
+~
+0 -1 13976
+S
+#13976
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13977
+D8
+~
+~
+0 -1 13975
+S
+#13977
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13979
+D1
+~
+~
+0 -1 13976
+D2
+~
+~
+0 -1 13974
+D3
+~
+~
+0 -1 13978
+S
+#13978
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13977
+D9
+~
+~
+0 -1 13973
+S
+#13979
+Floating in a void~
+~
+0 1073741828 0
+D2
+~
+~
+0 -1 13977
+S
+#13980
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13981
+D6
+~
+~
+0 -1 13985
+S
+#13981
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13984
+D1
+~
+~
+0 -1 13980
+D3
+~
+~
+0 -1 13982
+S
+#13982
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13981
+D7
+~
+~
+0 -1 13983
+S
+#13983
+Floating in a void~
+~
+0 1073741828 0
+D6
+~
+~
+0 -1 13988
+D8
+~
+~
+0 -1 13982
+S
+#13984
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13987
+D2
+~
+~
+0 -1 13981
+D6
+~
+~
+0 -1 13986
+D7
+~
+~
+0 -1 13988
+S
+#13985
+Floating in a void~
+~
+0 1073741828 0
+D5
+~
+~
+0 -1 13975
+D7
+~
+~
+0 -1 13986
+D9
+~
+~
+0 -1 13980
+S
+#13986
+Floating in a void~
+~
+0 1073741828 0
+D3
+~
+~
+0 -1 13987
+D7
+~
+~
+0 -1 13989
+D8
+~
+~
+0 -1 13985
+D9
+~
+~
+0 -1 13984
+S
+#13987
+Floating in a void~
+~
+0 1073741828 0
+D0
+~
+~
+0 -1 13989
+D1
+~
+~
+0 -1 13986
+D2
+~
+~
+0 -1 13984
+D3
+~
+~
+0 -1 13988
+S
+#13988
+Floating in a void~
+~
+0 1073741828 0
+D1
+~
+~
+0 -1 13987
+D6
+~
+~
+0 -1 13989
+D8
+~
+~
+0 -1 13984
+D9
+~
+~
+0 -1 13983
+S
+#13989
+Floating in a void~
+~
+0 1073741828 0
+D2
+~
+~
+0 -1 13987
+D8
+~
+~
+0 -1 13986
+D9
+~
+~
+0 -1 13988
+S
+#13990
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13991
+S
+#13991
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13992
+S
+#13992
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13993
+S
+#13993
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13994
+S
+#13994
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13995
+S
+#13995
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13996
+S
+#13996
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13997
+S
+#13997
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13998
+S
+#13998
+Floating in a void~
+~
+0 1091575812 1
+D5
+~
+~
+0 -1 13999
+S
+#13999
+Floating in a void~
+~
+0 1091575812 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$
