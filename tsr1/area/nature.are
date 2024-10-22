@@ -1,0 +1,1819 @@
+#AREADATA
+Name        [  All  ] Nature's Bounty~
+Builders    Echo~
+VNUMs       3800 3875
+Security    8
+End
+
+
+
+#MOBILES
+#3800
+kalea shaman~
+Kalea, Shaman of Nature~
+Kalea sits on the bank, lazily dangling her feet in the river.
+~
+This beautiful woman is skilled in the arts of Terra Magic. She draws her
+powers from the elements of the universe. As she concentrates
+with each passing second, she can channel enough energy to
+destroy the world as we know it 10 times over, yet she choses to
+use her powers for the good of mankind.
+~
+human~
+ABQVWa DFGHJ 0 0 
+0 125 0 12d877+3885 125d10+125 6d21+62 0
+-68 -68 -68 -28
+EFKS ABNQ HK I
+sitting sitting female 0
+ACHMV ABCDEFGHIJK M unknown
+#3801
+Katerina~
+Katerina~
+Katerina waits patiently for her next customer.
+~
+A beautiful woman with long black hair and green eyes is here to
+wait on you hand and foot. She is a proud woman. Unlike her sister, Kalea,
+Katerina is carefree, loving, and a bit mischievious at times.
+~
+human~
+AB DFGHJ 0 0 
+0 101 18 12d573+2775 101d10+101 5d20+50 0
+-53 -53 -53 -21
+EFKS AHJR Q IPZ
+standing standing female 400
+AHMV ABCDEFGHIJK M unknown
+#3802
+Nunai~
+Nunai~
+Grandmother Nature, Nunai, is here feeding the animals.
+~
+Before you, hunched over, stands a woman with short salt and pepper kind
+of hair and a kind smile and eyes. She is a wonder with the animals. She
+seems to have no outward appearance of strength, but her mind is sharper
+than yours and honed to perfection.
+~
+human~
+ABW DFGHJ 0 0 
+0 150 100 20d10+20 140d10+140 33d33+33 0
+-30 -30 -30 -15
+EFHIS AHIPQX 0 DMZ
+standing standing female 400
+AHMV ABCDEFGHIJKM M unknown
+#3803
+gopher~
+a gopher~
+A busy gopher runs by with a small twig in its mouth.
+~
+This furry little gopher loves to get into mischief. Besides being Echo's 
+favorite friend, he likes to offer his services to anyone in need. He 
+loves food, especially little bits of chocolate and small walnuts. Treat
+him good or he might leave you alone when you need it most.
+~
+rabbit~
+AIU 0 0 0 
+0 5 5 1d17+42 5d10+5 2d3+2 0
+0 0 0 0
+DFHJ 0 0 0
+standing standing none 0
+AGV ACDEFHJK S unknown
+#0
+
+
+
+#OBJECTS
+#3800
+giant feather~
+a giant feather~
+A giant feather hovers before you, suspended by the wind.~
+unknown~
+portal GO 0
+-1 3 1 3825 0
+5 100 1 P
+E
+feather~
+As you gaze upon this gaint feather, you wonder what kind of
+animal it comes from. Then again, it is glowing with magic so
+perhaps it is of a magical source. The feather looks stable
+enough to enter...
+~
+#3801
+water hole spring~
+a small water hole~
+A small spring of water is here to quench your thirst.~
+unknown~
+fountain GO 0
+200000 200000 'water' 0 0
+1 100 0 P
+E
+spring~
+The water springs from an underground source and then flows into
+the river that snakes past. It is crisp clean water and will
+fulfill your desire for water perfectly.
+~
+#3802
+hot spring~
+a hot spring~
+The heated waters of the spring bubble forth.~
+unknown~
+furniture O 0
+50 200000 16416 200 200
+5 0 0 P
+E
+spring~
+The hot spring bubbles and churns with hot water, waiting for you
+to ease yourself in for a nice long bath. The steam gathers above
+hovering like a fine mist.
+~
+#3803
+lake~
+the lake~
+A shimmering lake spans out before you.~
+unknown~
+container GO 0
+200000 0 0 200000 100
+5 100 0 P
+E
+lake~
+A beautiful blue clear lake extends for a few meters before you. Some
+may call it a pond, but we Naturalists prefer to see it otherwise.
+Beneath the surface of the Lake, there are pieces of equipment that
+have been left for others to use. The water itself is magical and
+keeps the pieces from decaying with the elements.
+~
+#3804
+soap~
+a bar of soap~
+A small carved bar of soap has been left here.~
+unknown~
+trash TUY AO
+0 0 0 0 0
+1 1 3 P
+E
+soap~
+This little bar of soap is designed to help you get squeaky clean!
+~
+#3805
+towel~
+a fluffy towel~
+A nice warm fluffy towel is resting here neatly folded.~
+unknown~
+trash UY AO
+0 0 0 0 0
+1 1 5 P
+E
+towel~
+A fresh towel is folded here, waiting for someone to use it.
+~
+#3806
+vial~
+a vial of scented bath salts~
+Do not step on the vial of scented bath salts!~
+unknown~
+container T AO
+6 A 0 6 6
+1 1 6 P
+E
+vial~
+A small vial of scented bath salts is just what you need to make your
+bath complete. As you uncapp the container, a flowery smell envelops
+you. It is not feminine, nor is it masculine, but a natural smell
+for everyone.
+~
+#3807
+salt scent crystal~
+a small bath salt crystal~
+A small bath salt crystal is hidden in the grass.~
+unknown~
+trash NT 0
+0 0 0 0 0
+1 1 3 P
+#3811
+entrance key~
+a small rock~
+A small rock has been left here.~
+unknown~
+key HNT A
+0 0 0 0 0
+5 1 0 P
+E
+key~
+This key is the only way to admit yourself into the underground of the
+Nature Sect.  Keep this key in a safe place so that you dont loose it. 
+Remember, Echo is watching.  
+~
+#3870
+locket~
+a dainty heart shaped locket~
+Echo's precious heart shaped locket has been left here.~
+unknown~
+container I AC
+2 A 0 2 0
+155 1 0 P
+A
+19 400
+A
+18 400
+E
+locket~
+This small dainty locket, set in gold, is heart shaped on a dainty chain.
+On the front, there is a filigre design in the center surrounding a
+small diamond chip. It is hinged on the left side. On the back, there is
+a small enscription. It reads, "To our Darling Echo, may you always 
+remember us. Your loving parents."
+~
+#3871
+father picture~
+a picture of a distinguished man~
+A picture of a decorated handsome man has been left here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+155 0 0 P
+E
+picture~
+This is a picture of a handsome man, decorated in the ways of the nobles
+of Malek. He has dark wavy hair and piercing blue eyes. He has a stern
+but soften look on his face and his lips curve up in a small smile.
+~
+#3872
+mother picture~
+a picture of a mysterious woman~
+There is a picture of a mysterious beautiful woman here.~
+unknown~
+treasure 0 A
+0 0 0 0 0
+155 0 0 P
+E
+mother~
+The woman in the picture has long golden hair that looks like a halo when
+she sits in the sun. She is smiling and glowing, her bright blue eyes
+aware of everything around her. In her hands she holds a single white rose
+perhaps given to her by a sweetheart.
+~
+#0
+
+
+
+#ROOMS
+#3800
+A walk through the forest.~
+A small brook trickles beside the path that shall lead you to your
+destiny.  All around you feel eyes watching you, booring into your soul. 
+The scent of pine and honeysuckle wafts under your nose, tantalizing you and
+tempting you to stop your journeys for a quick rest.  Again you look around,
+paying closer attention to details.  The trees are tall with a full canopy
+that barely allows light to pass.  They seem to form a type of barrier
+around some unknown source, like an oyster hides a pearl within its shell. 
+Below your feet is a well worn path covered with old brown withered leaves
+and fresh crisp green leaves.  Beautiful flowers grow by the path, but as
+you bend to pick one, it shies from your hand as if it is alive.  
+~
+0 9216 3
+E
+brook~
+This small shallow brook flows gently beside the path. It is too
+shallow to hold fish or other water loving animals, but it does
+look crystal clear and clean enough to drink from.
+~
+E
+flower~
+The flower cowers before your hand and says to you in
+a strange high pitched voice, "Please don't pick me. I am just a
+small flower. Its hard enough to live near a bunch of weeds as it
+is. There is a small flower beyond the trees here, growing at the
+base of a large oak. Behind the flower you will find a small lever.
+If you pull the lever, the door will open, revealing the most
+beautiful place in the world."
+~
+D0
+~
+~
+0 0 3801
+M100 H100
+S
+#3801
+A small path by the brook.~
+The brook turns from the road here and you see ahead a large wall of
+oaks.  They grow so close together, you can't tell where one begins and
+where one ends.  The path grows firmer beneath your feet and seems to be
+clearing as you get closer to the wall of trees.  Your sense of direction is
+begining to fade as does your confidence in your courage.  There is no one
+around, but you feel as if you are being watched by a million pairs of eyes.
+Strange enough, you feel a warm and cozy feeling course through your body,
+compelling you to continue your journey through this wide expanse of nature.
+~
+0 9216 3
+D0
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3800
+M100 H100
+S
+#3802
+The Wall of Illusion.~
+The tall oaks stand trunk to trunk, making it nearly impossible to pass. 
+You look up the trees and see that there is no way to scale these trees if
+you wished to see the other side.  As you look to your left and right, you
+see that the trees run as far as they eye can see, forming a natural barrier
+to what lies beyond.  As you turn to look the way you just came, you can see
+the small brook flowing quickly, the trees slightly swaying with the light
+breeze that plays with your hair.  The path that once was unfamiliar, seems
+to be a forgotten memory only, for you begin to realize this place.  A long
+forgotten memory locked away.  You realize that you are facing the entrance
+to the sacred worship lands of the Nature Sect.  
+~
+0 8192 3
+E
+lever~
+There is a small lever here behind a flower at the base
+of a tree to your left. As you pull the lever, you hear
+an almost inaudible "CLICK".
+~
+E
+flower~
+There is a small flower at the base of a tree to your left. You
+see a small lever behind it. As you pull on the lever, you hear
+an almost inaudible "click".
+~
+D2
+~
+~
+0 0 3801
+D3
+There is a rectangular crack in the oak trunk here.
+Perhaps it was opened by the trigger behind the flower.
+~
+oak~
+1 0 3803
+M100 H100
+S
+#3803
+The Inner Light.~
+The flowers were truely right!  This is the most beautiful place you have
+ever seen!  There are fields and meadows full of animals in the distance,
+groves of trees to the north, and a winding river to the south.  There are
+people wandering back and forth barely acknowledging your presence,
+muttering to themselves and enjoying the peace that they receive from
+nature.  The sun's rays warm your skin and a slight breeze carries the scent
+of flowers to your nose.  
+~
+0 8192 2
+D0
+~
+~
+0 0 3804
+D1
+The exit is back to the east, but do you really wish to leave
+this splendid atmosphere?
+~
+oak~
+1 0 3802
+D2
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3806
+M100 H100
+S
+#3804
+The Forest Glade.~
+You stand on the verge of a small grove of tall trees native to
+this area. As you look high up, you see wooden platforms built
+around the tree trunk. They are not very big, but expand over
+several trees. There is also a suspension bridge to the high 
+north. Around you is a deep sense of sorrow for a reason
+unknown to anyone who passes through here. It is rumored that a 
+young boy fell to his doom from up above. Proceed with caution!
+~
+0 8192 3
+D2
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3809
+D4
+~
+~
+0 0 3808
+M100 H100
+S
+#3805
+By the quiet river.~
+As you approach the river, you see that it is not as dangerous
+as it first appeared. The water slaps lazily against the bank
+near your feet. On the other side of the river, a large black
+bear wades in to catch his favorite meal of fish. You find it
+strange that the animals around are very friendly and used to
+company. Above your head, the clouds look like cotton balls
+and the birds like tiny paint specs on a painter's canvas. You 
+can follow the river to the west where there is a woman dangling
+her feet over the bank, or you can go back to the entrance to
+the north.
+~
+0 8192 2
+D0
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3807
+M100 H100
+S
+#3806
+A small path.~
+With so many places to go, you find the peace of Nature's Bounty just
+what you need to relax from the struggles of war.  You find yourself on a
+small path towards the meadows and the small lake that holds the donation
+room for all who need equipment.  Back to the east is the entrance, and the
+paths to the healer and the grove.  
+~
+0 8192 2
+D1
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3812
+M100 H100
+S
+#3807
+A secluded resting area.~
+There is a large open space here as if many people come here at one
+time. The grass is greener and a lot softer than the rest of the grass
+you have passed over. There is a woman sitting on the bank, dangling
+her feet into the river. She looks quite at peace with herself. As 
+you get closer, you notice that the air is dancing with magical
+vibrations so strong you can see them with the naked eye. The woman
+has long blonde hair that flows down around her shoulders,
+forming a halo type effect. Her eyes are closed and her head is drawn
+back as if she is concentrating on something important. It is then that
+you feel your body tingling with a surge of power. She is a shaman
+who is destined to mend broken bodies and minds. Rest for a few
+and let her take your mind off your problems as you heal from battle.
+~
+0 8192 2
+D1
+~
+~
+0 0 3805
+D3
+~
+~
+0 0 3814
+M100 H100
+S
+#3808
+The tree's trunk.~
+As you slowly climb up this massive tree, you feel the pain of the
+bark as it scraps your knees and hands. You wonder how much farther
+until you reach the top. As you look around, you see now what type of
+forest this is. All the trees are tall with vegetation only at the
+top, sort of like giant mushrooms. Sunlight barely penetrates the
+trees' tops to reach the ground, yet the greenery is tremendous. As
+you look up, you see a platform which looks sturdy enough to stand on.
+When you look down, you see the giant feather becoming smaller and
+smaller as you rise up in the tree. Be extra careful, one false move
+and you could fall to your doom!
+~
+0 8192 3
+D4
+~
+~
+0 0 3815
+D5
+~
+~
+0 0 3804
+M100 H100
+S
+#3809
+The Forest Glade.~
+You are surrounded by huge expanses of trees that have trunks wider than
+your whole body. On a few, closer to the canopy, you notice a suspension
+bridge and wooden walkways connecting tree to tree. To the north, you
+notice a single tree with a ladder built into the trunk. At first you
+scream in outrage at the torture the poor tree is receiving, but it is
+then that you realize that the ladder is not a permanent fixture in the
+bark. 
+~
+0 8192 3
+D0
+~
+~
+0 0 3810
+D1
+~
+~
+0 0 3804
+M100 H100
+S
+#3810
+The Forest Glade.~
+You are dwarfed by the massive size of these majestic trees. Just to see
+halfway up, you have to tilt your head back very far. Your eyes trace 
+the suspended ladder up the tree trunk, slapping against it as the wind
+blows it around. You contemplate climbing, but it IS a LONG way up! Hope
+you are not afraid of heights! As you place a foot on the bottom rung,
+a shimmering force glows brighter as it approaches. It seems to be a 
+giant feather! Stepping back, you now see that you have three options,
+to go up the tree, step into the feather, or go back the way you came. 
+Make your decision wisely, adventurer!
+~
+0 0 3
+D2
+~
+~
+0 0 3809
+D4
+~
+~
+0 0 3811
+M100 H100
+S
+#3811
+The tree's trunk.~
+As you slowly climb up this massive tree, you feel the pain of the
+bark as it scraps your knees and hands. You wonder how much farther
+until you reach the top. As you look around, you see now what type of
+forest this is. All the trees are tall with vegetation only at the
+top, sort of like giant mushrooms. Sunlight barely penetrates the
+trees' tops to reach the ground, yet the greenery is tremendous. As
+you look up, you see a platform which looks sturdy enough to stand on.
+When you look down, you see the giant feather becoming smaller and 
+smaller as you rise up in the tree. Be extra careful, one false move
+and you could fall to your doom!
+~
+0 8192 3
+D4
+~
+~
+0 0 3817
+D5
+~
+~
+0 0 3810
+M100 H100
+S
+#3812
+A small path.~
+This secluded area seems to sport almost everything imaginable
+for sustaining life. As you walk over the slightly worn path, you
+notice noises coming from all directions, yet everything still is
+peacefull. As you reflect back on your travels, you finally realize
+the elements your life was missing. Perhaps you can find these elements
+here. To the north sounds like busy people and to the south you hear the
+girgle of water.
+
+~
+0 8192 2
+D0
+~
+~
+0 0 3813
+D1
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3814
+D3
+~
+~
+0 0 3819
+M100 H100
+S
+#3813
+Lake Soren.~
+You approach the edge of a very small lake. So small infact that it
+looks man made. The water ripples with the breeze, making us all realize
+that life is not a steady course. Below the surface you see something
+shimmering and swaying with the flow of water around it. It is an 
+item of great use, or something that was just dropped off for others 
+to use. It is then that you realize the purpose of this small lake. 
+It is a donation area for other Naturalists. Reach in and take what
+you like, but often replace for those in need.
+~
+0 8196 2
+D2
+~
+~
+0 0 3812
+M100 H100
+S
+#3814
+The waterhole.~
+The river twists and turns and vanishes far to the south. Your
+eye watches it slowly dissapear. As you shift where you stand, you  
+hear an odd suctioning, like your feet were stuck in mud. When
+you look down, you see that your feet are truely caked in mud.
+Someone was very messy when they last drank from the small fresh
+spring before you. As you reach down and cup your hands for a drink
+you see yourself in the reflection. You are shocked and appalled at your
+haggard appearance, perhaps it is time for that long needed bath.
+~
+0 8192 2
+D0
+~
+~
+0 0 3812
+D1
+~
+~
+0 0 3807
+D3
+~
+~
+0 0 3822
+M100 H100
+S
+#3815
+A tree platform.~
+The platform is made out of some type of wood, suspended magically
+around the tree. As an advocate of protecting nature, the builder of
+this certainly pulled all the stops for keeping the tree safe. Small
+railings have been placed here and there so that any wanderer may have
+a sure foot and a confident hand as they walk around the suspended
+walkways. To the east you see more suspended walkways and to the far
+north-east, you see a true to life suspension bridge. Up here, you
+see only the other trees for the ground is too far to distinguish.
+A small plaque is nailed into one of the floorboards of this stand.
+~
+0 8192 3
+E
+plaque~
+A small plaque reads:
+      " Behold the ancient tree causeway. Here you will find
+           the path to worlds you never knew existed."
+ 
+ 
+In fine print below the larger letters a message is barely readable:
+   " The Keeper of the Trees and the members of Nature take no
+      responsibility for any accidents that may occur here.
+      Remember that these wooden walkways are very old. "
+~
+D0
+~
+~
+0 0 3816
+D5
+~
+~
+0 0 3808
+M100 H100
+S
+#3816
+The between tree intersection.~
+As you casually walk over the wooden boards, you come across a circular
+hole in the ground. Peering through, you notice that it is a small drop
+to another platform. Searching around, you notice the path leads to the
+west for another tree, and then to the south. Decisions are to be made,
+but chose carefully, for you never know what may happen on an old
+rickety tree bridge. Now is the time you wish you had taken the time 
+out as a child to learn how to climb trees. Only then would you feel
+safer.
+~
+0 8192 3
+D2
+~
+~
+0 0 3815
+D3
+~
+~
+0 0 3817
+D5
+~
+~
+0 0 3818
+M100 H100
+S
+#3817
+A wooden platform.~
+The platform is made out of some type of wood, suspended magically 
+around the tree. As an advocate of protecting nature, the builder of
+this certainly pulled all the stops for keeping the tree safe. Small
+railings have been placed here and there so that any wanderer may have
+a sure foot and a confident hand as they walk around the suspended
+walkways. To the east you see more suspended walkways and to the far
+north-east, you see a true to life suspension bridge. Up here, you
+see only the other trees for the ground is too far to distinguish.
+A small plaque is nailed into one of the floorboards of this stand.
+~
+0 8192 3
+E
+floorboards~
+A small plaque reads:
+ 
+      " Behold the ancient tree causeway. Here you will find
+           the path to worlds you never knew existed."
+ 
+In fine print below the larger letters a message is barely readable:
+ 
+   " The Keeper of the Trees and the members of Nature take no
+      responsibility for any accidents that may occur here.
+      Remember that these wooden walkways are very old. "
+ 
+~
+D1
+~
+~
+0 0 3816
+D5
+~
+~
+0 0 3811
+M100 H100
+S
+#3818
+The suspension bridge.~
+As you look forward, you look skeptically at a suspension bridge. A few
+boards are missing from the bottom and a few of the ropes holding it
+together are frayed. Walking on the bridge could be detrimental to your
+health, but as an adventurer, you must take those risks to survive.
+You look back up through the hole in the platform above your head.
+It would be an easy climb to go back through if you choose to ignore 
+the shakey looking suspension bridge. Down below, you see a long rope
+leading down towards the ground.
+~
+0 8192 3
+D0
+~
+~
+0 0 3839
+D4
+~
+~
+0 0 3816
+D5
+~
+~
+0 0 3840
+M100 H100
+S
+#3819
+The end of the small path.~
+You've reached the edge of the small path that runs through the center of
+the Nature home.  To the north are plains and other rugged areas for
+exploration.  Beware though, nature is not always nice or predictable, so
+beware.  To the south is a small pet shop for you to purchase your favorite
+animals as well as a few exotic ones that you may never have seen before. 
+Nature works in mysterious ways.  
+~
+0 8192 3
+D0
+~
+~
+0 0 3820
+D1
+~
+~
+0 0 3812
+D2
+~
+~
+0 0 3823
+M100 H100
+S
+#3820
+The treeline.~
+You've reached the end of the more civilized area of this small forest. 
+Before you spans a grassy area, divided from the larger forest by a thinning
+tree line.  The grass is as tall as your waist and waves in the gentle
+breeze.  Several animals graze and frolick, as well as their nemesis the
+poachers.  In the distance you see a large smoking volcano waiting to blow
+hot ash over the area.  A small sign has been stuck in the ground here. 
+Back to the far south is a large tree, shading an old woman with her many
+animal friends.  
+~
+0 8192 2
+E
+sign~
+The small crooked and rotting sign says:
+ 
+  "Beware all who enter. Animals are dangerous and may kill you.
+      Proceed with caution. Do not attempt to feed the animals
+           for they may bite. All sect members are welcome, however
+              please abide by the laws of true nature and take only
+                   what you can carry away from a kill site.
+ 
+ POACHERS ARE NOT WANTED. THEY WILL BE HUNTED DOWN AND SLAIN BY
+ THE PROTECTORS OF THE [NATURE] SECT. HEED THE WARNING NOW AND
+ SAVE TROUBLES LATER.
+ 
+        - Yours truely,
+                     Echo, Naturalist Extraordinaire "
+~
+D2
+~
+~
+0 0 3819
+D3
+~
+~
+0 0 3855
+M100 H100
+S
+#3821
+BORING ROOM~
+~
+0 4 2
+M100 H100
+S
+#3822
+The hot springs.~
+Precious water, so many times abundant, yet other times in need. Here
+we have as much as you desire, providing that you do not squander it.
+Before you, again in the shade of a large oak tree, is an inviting
+hot spring for you to bathe in. A woman with long black hair and
+green eyes bids you welcome. Relax and enjoy yourself in the springs,
+and clean the grime of battle and travelling off your body. The 
+springs are fed by an underground source, assuming by its location,
+a small resevoir made by the river back to the east. You are grateful
+enough for this small reprieve. As you settle into one of the pools,
+the steam rises around you, encompasing you and drawing you into your
+own little world.
+~
+0 8192 2
+D1
+~
+~
+0 0 3814
+M100 H100
+S
+#3823
+Nunai's Sanctuary.~
+Squawkin, barking, nibbling, and other strange noises fill your
+head as you enter this jumbled up patch of ground full of pets. The
+woman handling the animals bids you welcome. She is a small woman with
+kind eyes, so you trust her and the animal she sells to you. Ofcourse,
+since this is Nature, you can get these animals in the wild, but
+Nunai is going to donate all the money she receives to an environmental
+group who helps to preserve the wildlife. The odd assortment of animals
+is available for all people of different classes and races, levels and
+age. All you have to do is find a suitable one and it is yours.
+~
+0 12288 2
+D0
+~
+~
+0 0 3819
+M100 H100
+S
+#3824
+The Storage Room.~
+~
+0 12292 2
+M100 H100
+S
+#3825
+Entrance to Nature's Bounty Cave~
+You stand before a large cave entrance with high double doors and a cast
+iron, double duty lock.  On either side of the entrance you see two large
+marble statues.  They may not look familiar, but there are two small plaques
+at their bases.  The cave is at the base of a large mountain and looks
+inaccessable except from this one vantage point.  It is rumored that the
+members of the Nature Sect know these tunnels and passages like the backs of
+their hands.  Behind you, you notice a small cliff.  Standing on the edge,
+you can see most of the entire continent, but in very faint detail.  Your
+foot slips slightly on the edge, sending rubble down below.  Looking up, you
+see that the skies are blue and the clouds are thin and whispy.  The gods
+must be pleased to send such a nice day.  As you look around a little more,
+you see a well worn path that leads up to the entrance and then dissapearing
+behind the door.  Examining the door more closely, you notice that it is
+sealed tightly.  Nothing, not even air is passing through the cracks.  Very
+odd.  One final glace around the area shows you the only ways out are to
+recall or to go through the doors.  If you are not of the Nature kind,
+perhaps you should leave.  
+~
+0 263176 2
+E
+statue~
+Two marble statues flank the door here.  They seem very large and
+imposing.  The first statue on the left is of Echo, our patron goddess.  Her
+wisdom and guidance have helped Nature become what it has.  Without her, all
+of what we have now would not be possible.  It is only fitting we make a
+reminder of her good faith and place it here for all sect members to see. 
+The other statue is a marble likeness of XXXXXXXXX, the patron god of
+XXXXXXXXXXXX.  
+~
+E
+plaque~
+These statues serve as a reminder to all who see that the world of The
+Shadow Realms is always being observed. To all you in the Nature Sect,
+your leader, Echo the Naturalist Extraordinaire, is proud of you. Keep
+holding strong. Remember always that she is there for you.
+~
+E
+lock~
+This lock is just huge! Maybe if you search around you can find a good 
+rock to smash it with.
+~
+D0
+~
+~
+4 3811 3826
+M100 H100
+S
+#3826
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3827
+D2
+~
+~
+4 0 3825
+M100 H100
+S
+#3827
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3828
+D2
+~
+~
+0 0 3826
+M100 H100
+S
+#3828
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3827
+D5
+~
+~
+0 0 3829
+M100 H100
+S
+#3829
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3833
+D2
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3832
+D4
+~
+~
+0 0 3828
+M100 H100
+S
+#3830
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3829
+M100 H100
+S
+#3831
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3829
+M100 H100
+S
+#3832
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3829
+M100 H100
+S
+#3833
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3835
+D2
+~
+~
+0 0 3834
+D3
+~
+~
+0 0 3829
+M100 H100
+S
+#3834
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3833
+D5
+~
+~
+0 0 3847
+M100 H100
+S
+#3835
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3836
+D3
+~
+~
+0 0 3833
+D4
+~
+~
+0 0 3837
+M100 H100
+S
+#3836
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3835
+M100 H100
+S
+#3837
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3838
+D5
+~
+~
+0 0 3835
+M100 H100
+S
+#3838
+~
+~
+0 0 0
+D3
+~
+~
+0 0 3837
+D4
+~
+~
+0 0 3804
+M100 H100
+S
+#3839
+The suspension bridge of the Forest Glade.~
+You walk with usure steps, slowly and carefully. The rope railing seems
+fragile in your hands. Many thoughts could be entering your mind at the
+moment, but the most important issue is to get across this safely. A
+few of the boards for the walkway have been rotted out, a few are missing
+and still another few are broken in half. The two ropes, one in each of
+your hands, seems very insecure and frayed. As you continue walking, you
+hear a groan and creak of the bridge under your weight, as if it was
+talking to you, telling you to get off its back. The wind is also not
+helping much. It wips across your face and body as if someone were taking
+a lash to you for doing wrong. You grip the rope tighter and press on.
+~
+0 8192 3
+D0
+~
+~
+0 0 3841
+D2
+~
+~
+0 0 3818
+M100 H100
+S
+#3840
+The leeward side of a giant tree.~
+You climb hand over hand down the long thick rope. Fortunately, someone
+had the forsight to tie knots in strategic places to make the climb
+a lot less stressing. You continue down this long rope, your hand are
+slightly warm from the friction. Your gaze goes back up to the suspension
+bridge as you hear it creak in the wind. Looking down, you see the ground
+not too far away. Finally you are standing on solid ground. There is no
+place for you to wander to, there is just a rock and a tree nearby. The
+only thankful thought that runs through your mind now is that you are not
+back up in the drafty trees, worrying about your safety.
+~
+0 8192 3
+D4
+~
+~
+0 0 3818
+M100 H100
+S
+#3841
+The suspension bridge of the Forest Glade.~
+You walk with usure steps, slowly and carefully. The rope railing seems
+fragile in your hands. Many thoughts could be entering your mind at the
+moment, but the most important issue is to get across this safely. A
+few of the boards for the walkway have been rotted out, a few are missing
+and still another few are broken in half. The two ropes, on in each of
+your hands, seems very insecure and frayed. As you continue walking, you
+hear a groan and creak of the bridge under your weight, as if it was
+talking to you, telling you to get off its back. The wind is also not
+helping much. It wips across your face and body as if someone were taking
+a lash to you for doing wrong. You grip the rope tighter and press on.
+~
+0 8192 3
+D0
+~
+~
+0 0 3842
+D2
+~
+~
+0 0 3839
+M100 H100
+S
+#3842
+Another tree platform.~
+Large planks have been nailed to the platform. A large white sign stares
+you in the face. Take heed and read it now, lest you be in the dark later.
+~
+0 8192 0
+E
+sign~
+A small sign reads:
+ 
+  " The portals to this area are not operational. It has come to the
+    attention of the management that the funds for the sect are not up
+    to what they should be. As soon as the money is found, they will be
+    open again. Please see your sect goddess, Echo, for further details. "
+ 
+ Another sign below that reads:
+ 
+  " Well, I believe it is time we begin raising money for the construction
+    of our portal area. Ofcourse this is not a free deal. Each room will 
+    cost 5 diamonds for a base room. Each portal off will make the room go
+    up in value by 2 diamonds per portal. For example. I have a room with
+    four exits, the room will cost 12 diamonds. This way, we can have some  
+    type of revenue for our sect. If you have problems or questions, please
+    address them in a note to either myself or to the sect.  -Echo  "
+ 
+~
+D0
+~
+~
+4 0 3843
+D1
+~
+~
+4 0 3845
+D2
+~
+~
+0 0 3841
+M100 H100
+S
+#3843
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3844
+D2
+~
+~
+4 0 3842
+M100 H100
+S
+#3844
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3843
+D5
+~
+~
+0 0 3846
+M100 H100
+S
+#3845
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3844
+D3
+~
+~
+4 0 3842
+M100 H100
+S
+#3846
+~
+~
+0 0 0
+D4
+~
+~
+0 0 3844
+M100 H100
+S
+#3847
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3848
+D1
+~
+~
+0 0 3849
+D2
+~
+~
+0 0 3851
+D3
+~
+~
+0 0 3850
+D4
+~
+~
+0 0 3834
+D5
+~
+~
+0 0 3852
+M100 H100
+S
+#3848
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3847
+M100 H100
+S
+#3849
+~
+~
+0 0 0
+D3
+~
+~
+0 0 3847
+M100 H100
+S
+#3850
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3847
+M100 H100
+S
+#3851
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3847
+M100 H100
+S
+#3852
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3853
+D3
+~
+~
+0 0 3854
+D4
+~
+~
+0 0 3847
+M100 H100
+S
+#3853
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3852
+M100 H100
+S
+#3854
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3852
+M100 H100
+S
+#3855
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses.  What could be
+a better place to graze if you were an animal?  Perfect shelter just by
+dropping to the ground.  Above you, the clouds swirls and gather and the
+wind blows a chill across your face.  As you sniff the air, you can smell
+the coming of a nice gentle rain.  Looking around, you see that the grass
+has been trampled in many different directions.  They could be anything so
+keep your eyes sharp.  Beware of poachers!  
+~
+0 8192 2
+D0
+~
+~
+0 0 3862
+D1
+~
+~
+0 0 3820
+D2
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3860
+M100 H100
+S
+#3856
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D0
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3857
+M100 H100
+S
+#3857
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D0
+~
+~
+0 0 3860
+D1
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3858
+M100 H100
+S
+#3858
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D0
+~
+~
+0 0 3859
+D1
+~
+~
+0 0 3857
+M100 H100
+S
+#3859
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D1
+~
+~
+0 0 3860
+D2
+~
+~
+0 0 3858
+M100 H100
+S
+#3860
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D0
+~
+~
+0 0 3861
+D1
+~
+~
+0 0 3855
+D2
+~
+~
+0 0 3857
+D3
+~
+~
+0 0 3859
+M100 H100
+S
+#3861
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D1
+~
+~
+0 0 3862
+D2
+~
+~
+0 0 3860
+M100 H100
+S
+#3862
+The grassy plains.~
+You find yourself waist deep amid a sea of waving grasses. What could be
+a better place to graze if you were an animal? Perfect shelter just by
+dropping to the ground. Above you, the clouds swirls and gather and the
+wind blows a chill across your face. As you sniff the air, you can smell the
+coming of a nice gentle rain. Looking around, you see that the grass has
+been trampled in many different directions. They could be anything so keep
+your eyes sharp. Beware of poachers!
+~
+0 8192 2
+D0
+~
+~
+0 0 3863
+D2
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3861
+M100 H100
+S
+#3863
+The Peidmont Plateau before Mount Lorandir~
+Mountain walk has been temporarily closed due to a small landslide.
+Work crews are hurredly trying to clear it up, but there needs some
+shoring work done so that it will not happen again, HOPEFULLY.
+ 
+Please be carefull in Nature's Bounty. You just never know what can 
+happen.
+~
+0 8192 2
+E
+links~
+north to 3821 and west to 3864
+~
+D2
+~
+~
+0 0 3862
+M100 H100
+S
+#3864
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3861
+M100 H100
+S
+#3865
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3821
+D2
+~
+~
+0 0 3864
+D3
+~
+~
+0 0 3866
+M100 H100
+S
+#3866
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3867
+M100 H100
+S
+#3867
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3866
+D1
+~
+~
+0 0 3864
+D2
+~
+~
+0 0 3868
+M100 H100
+S
+#3868
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3867
+D1
+~
+~
+0 0 3861
+D2
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3869
+M100 H100
+S
+#3869
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3870
+D1
+~
+~
+0 0 3868
+M100 H100
+S
+#3870
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3869
+D4
+~
+~
+0 0 3871
+M100 H100
+S
+#3871
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3872
+D5
+~
+~
+0 0 3870
+M100 H100
+S
+#3872
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3871
+D4
+~
+~
+0 0 3873
+M100 H100
+S
+#3873
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3874
+D5
+~
+~
+0 0 3872
+M100 H100
+S
+#3874
+~
+~
+0 8192 0
+D2
+~
+~
+0 0 3873
+D4
+~
+~
+0 0 3875
+M100 H100
+S
+#3875
+~
+~
+0 0 0
+D5
+~
+~
+0 0 3821
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 3800 spec_cast_adept Load to: Kalea, Shaman of Nature
+S
+
+
+
+#RESETS
+D 0 3802 3 1
+D 0 3803 1 1
+D 0 3825 0 2
+D 0 3826 2 2
+D 0 3842 0 2
+D 0 3842 1 2
+D 0 3843 2 2
+D 0 3845 3 2
+M 0 3800 1 3807 1
+O 0 3800 0 3810
+O 0 3803 0 3813
+O 0 3801 0 3814
+O 0 3802 0 3822
+M 0 3801 1 3822 1
+G 0 3804 0
+G 0 3805 0
+G 0 3806 0
+G 0 3807 0
+M 0 3802 1 3823 1
+M 0 3803 1 3824 1
+S
+
+
+
+#SHOPS
+3801 0 0 0 0 0 200 45 1 24
+0
+
+
+
+#$

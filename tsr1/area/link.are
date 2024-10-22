@@ -1,0 +1,124 @@
+#AREADATA
+Name        [??? ???] Project by Thallin~
+Builders    Yaso~
+VNUMs       12000 12100
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#12000
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 9772
+D3
+~
+~
+0 0 12001
+M0 H0
+S
+#12001
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12000
+D3
+~
+~
+0 0 12002
+M0 H0
+S
+#12002
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 12003
+M0 H0
+S
+#12003
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 12004
+M0 H0
+S
+#12004
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12003
+D3
+~
+~
+0 0 12005
+M0 H0
+S
+#12005
+On the Dark River~
+~
+0 0 0
+D1
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 9773
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

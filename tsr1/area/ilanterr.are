@@ -1,0 +1,2271 @@
+#AREADATA
+Name        [30   90] The Island of Terror~
+Builders    Raff Delstar~
+VNUMs       3400 3499
+Security    9
+End
+
+
+
+#MOBILES
+#3400
+radiant spirit~
+radiant spirit~
+A radiant spirit floats above the ground.
+~
+The radiant spirit is floating here, the light from its
+body blinds you. It is here but not here.
+~
+modron~
+AG JTVa -1000 0 
+0 50 0 10d169+930 50d100+100 5d10+27 0
+-21 -21 -21 -5
+GHKNOQR BMNPQ HIK N
+standing standing none 20
+H ABCGHJK M unknown
+#3401
+radiant spirit~
+radiant spirit~
+A radiant spirit float above the ground.
+~
+It looks like pure light, its hard to make out weather it is
+alive or dead. Its here but its not here.
+~
+modron~
+AG JTVa 1000 0 
+0 50 0 10d169+930 50d100+100 5d10+27 0
+-21 -21 -21 -5
+EFGHJKOQR BMNPQ HIK N
+standing standing none 20
+H ABCGHJK M unknown
+#3402
+radiant spirit~
+radiant spirit~
+A radiant spirit floats above the ground.
+~
+IT is made of pure light. It notice you then disappears
+its still here but its not here, it look sort of
+alive but is it.
+~
+modron~
+AG JTUVa 0 0 
+0 50 0 10d170+930 50d100+100 5d10+27 0
+-21 -21 -21 -5
+DEFGHJNOQR BMNPQ HIK N
+standing standing none 20
+H ABCGHJK M unknown
+#3403
+mist golem~
+mist golem~
+A mist golem stands guard protecting the dolmens.
+~
+The mist golem is a smokey creature which seems not to have any 
+cohesion. Perhaps it is only an illusion...
+~
+modron~
+ABG JNTUa 0 0 
+0 60 0 11d221+1200 60d100+100 5d12+35 0
+-21 -21 -21 -5
+GHIKNOQR BMNPQ HIK DEJK
+standing standing none 50
+H ABCGHJK M unknown
+#3404
+radiant spirit~
+radiant spirit~
+A radiant spirit floats above the ground.
+~
+It is made of pure light. It is here but its not here. 
+You look at it and cant decide weather its alive or dead.
+~
+modron~
+AG JTVa 1000 0 
+0 50 0 10d170+930 50d100+100 5d10+27 0
+-21 -21 -21 -5
+EGHIJKOQR BMNPQ HIK JN
+standing standing none 30
+H ABCGHJK M unknown
+#3405
+mist golem~
+A mist golem~
+A mist golem stands guard protecting the dolmens.
+~
+The mist golem is a smoky creature which seems not to have any cohesion.
+~
+modron~
+ABG JTUV -1000 0 
+0 60 0 11d221+1225 60d100+100 5d14+29 0
+-21 -21 -21 -5
+DGHJKNOQR BMNPQ HIK DEJN
+standing standing none 50
+H ABCGHJK M unknown
+#3406
+first awakening sachmet~
+The first awakening of Sachmet.~
+The first awakening of Sachmet is here.
+~
+The ghost of Sachmet is projecting out against infidels who seek her
+tomb. The ghost is a projection but it look like a mean projection.
+~
+human~
+ABG HTU 0 0 
+0 61 0 11d221+1211 0d0+0 5d12+34 0
+-21 -21 -21 -6
+DGHJKNO AB JN EMP
+standing standing none 50
+AHMV ABCDEFGHIJK M unknown
+#3407
+kantorian knight~
+kantorian knight~
+A Kantorian knight is here keeping the peace.
+~
+The knight seems out of place in Kantor. He is part of an ancient
+society which kept alive the ancient tradition. He hold the large
+shield bearing the symbol of Kantor.
+~
+human~
+AG HNTa 1000 0 
+0 65 0 11d259+1390 65d100+100 5d13+35 0
+-25 -25 -25 -7
+CFGHIJNU AB LQ EF
+standing standing none 60
+AHMV ABCDEFGHIJK M unknown
+#3408
+kantorian knight~
+kantorian knight~
+A Kantorian knight is here keeping the peace.
+~
+The knight seems out of place in Kantor. He is apart of an ancient 
+society which kept alive the ancient tradition.
+~
+human~
+AG HNT -1000 0 
+0 65 0 11d259+1198 65d100+100 5d13+32 0
+-25 -25 -25 -7
+DEHIJNO AB L EF
+standing standing none 60
+AHMV ABCDEFGHIJK M unknown
+#3409
+prince othmar~
+prince othmar~
+Prince Othmar is here dreaming of a better Empire.
+~
+Prince Othmar is the Ruler of Kantor. Unfortunately, the awakening of
+Sachmet have turned the villagers against him.
+~
+giant~
+ABG HNOc 0 0 
+0 70 0 11d300+1500 70d100+100 5d14+35 0
+-27 -27 -27 -5
+DEFGHIJ AB HI JP
+standing standing male 100
+AHMV ABCDEFGHIJK M unknown
+#3410
+cadash~
+cadash~
+Cadash the dealer of magic is here.
+~
+Cadash is a small old man who deals in magical items.
+~
+giant~
+ABG HNOTVc 0 0 
+0 160 30 60d1000+1000 100d1000+100 60d1000+1000 0
+-100 -100 -100 -100
+CFGHIJKN ABCD HILQ EJP
+standing standing none 10000
+AHMV ABCDEFGHIJK M unknown
+#3411
+fenhound~
+A fenhound~
+A fenhound is here looking for his master.
+~
+The fenhound is haunted by his master's spirit. He will hunt his
+master's foes untill his spirit can rest.
+~
+dog~
+ABG HT 1000 0 
+0 71 2 11d309+1598 71d100+100 5d14+35 0
+-10 -10 -10 -2
+CDFHMNO AB LQ EF
+standing standing none 20
+AGV ACDEFHJKUV M unknown
+#3412
+psionic spirit~
+psionic spirit~
+A psionic spirit is here casting energies at you.
+~
+The psionic spirit is a powerful human figure with magical telepathic
+powers, he reads your mind and ignores you.
+~
+pit fiend~
+ABG BDEHOT -1000 0 
+0 71 2 11d309+1598 71d100+100 5d15+36 0
+-10 -10 -10 -5
+DEFKO AB LQ D
+standing standing none 30
+AHMV ABCDEFGHIJK M unknown
+#3413
+gorpal snake~
+gorpal snake~
+A gorpal snake is here hisssssing at you.
+~
+The gorpal snake's venom is as bad as a scorpion's.
+~
+snake~
+ABG HMVa 0 0 
+0 71 2 11d309+1535 71d100+100 5d14+36 0
+-10 -10 -10 -5
+EFGHKMO L L I
+standing standing none 30
+AGXYc ADEFKLQVX M unknown
+#3414
+rabid wolf~
+rabid wolf~
+A rabid wolf is here waiting to bite you.
+~
+The rabid wolf is a large mammal with a foaming mouth....
+~
+wolf~
+ABG HNOZ 0 0 
+0 71 2 11d300+1598 71d100+100 5d14+36 0
+-10 -10 -10 -5
+CEFGHNO ABQ 0 0
+standing standing none 50
+AGV ACDEFJKQV M unknown
+#3415
+second awakening sachmet~
+second awakening of sachmet~
+The second ghost of Sachmet is here.
+~
+Sachmet whoever she is does not want you to loot her tomb.
+~
+human~
+ABG HOTUa -1000 0 
+0 75 5 11d345+1740 75d100+100 5d15+37 0
+0 0 0 0
+CFGHIJNO AB 0 0
+standing standing none 60
+AHMV ABCDEFGHIJK M unknown
+#3416
+Chezna~
+chezna~
+Chezna the head of the thieves is here.
+~
+Chezna is a grubby young women. She does not
+appear to be dangerous. At first glance that is....
+~
+pit fiend~
+ABG BDEFHNOTVa 0 0 
+0 75 5 11d345+1735 75d100+100 5d15+35 0
+-10 -10 -10 -20
+0 AB ELQ CD
+standing standing none 300
+AHMV ABCDEFGHIJK M unknown
+#3417
+bandit ~
+bandit~
+A bandit from Chezna's group is here.
+~
+The bandit look like a master at his art. You barely notice 
+his presence when you walked by.
+~
+pit fiend~
+ABG BDENOQTa 0 0 
+0 70 2 11d300+1500 70d100+100 5d14+35 0
+-17 -17 -17 -9
+BCFIJNORU AB LQ CD
+standing standing none 20
+AHMV ABCDEFGHIJK M unknown
+#3418
+skeletal archer~
+skeletal archer~
+A skeletal archer here standing guard.
+~
+The skeletal archer is mo more than a pile of standing
+bones with a bow.
+~
+giant~
+ABG OUc -1000 0 
+0 71 5 11d300+1500 71d100+100 5d13+35 0
+-20 -20 -20 -20
+BCEFIJO ABE HI FJP
+standing standing none 30
+AHMV ABCDEFGHIJK L unknown
+#3419
+rushlight~
+a rushlight~
+A rushlight is floating here.
+~
+~
+vampire~
+AG HJTVc 0 0 
+0 75 5 11d300+1450 75d100+100 5d15+35 0
+-20 -20 -20 -20
+BCEFHJO AP BQ N
+standing standing none 20
+AHMV ABCDEFGHIJK S unknown
+#3420
+smelly thief~
+smelly thief~
+A smelly skin thief is here sniffing you up.
+~
+~
+giant~
+ABG NOQUc -1000 0 
+0 75 5 11d345+1550 75d100+100 5d15+35 0
+-20 -20 -20 -20
+BCDEHJO AB HI JP
+standing standing none 30
+AHMV ABCDEFGHIJK M unknown
+#3421
+ghost sachmet~
+ghost of sachmet~
+Once again the ghost of Sachmet appears before you.
+~
+~
+giant~
+ABFG DEFHNTc 1000 0 
+0 80 5 12d360+1900 80d100+100 5d16+40 0
+-20 -20 -20 -20
+BCDHJKO ABE HI JP
+standing standing none 50
+AHMV ABCDEFGHIJK M unknown
+#3422
+skeletal cat~
+skeletal cat~
+A skeletal cat is here rotting before your eyes.
+~
+The skeletal cat is an undead feline which seems to have 
+escaped his burial.
+~
+wyvern~
+AG DFITVa -1000 0 
+0 75 7 11d345+1700 75d100+100 5d15+35 0
+-20 -20 -20 -20
+CFH ABL HI S
+standing standing none 10
+ABGZ ACDEFHJKQVX M unknown
+#3423
+fourth awakening sachmet~
+fourth awakening sachmet~
+Once again the ghost of Sachmet appears before you.
+~
+This is the final projection of Sachmet
+before you meet him.
+~
+dragon~
+ABFG BDEFHJOT -1000 0 
+0 85 9 12d406+2100 85d100+100 5d17+43 0
+-25 -25 -25 -25
+BCDEFJKO ABH L CD
+standing standing none 100
+AHMV ABCDEFGHIJK M unknown
+#3424
+sachmet~
+ghost of sachmet~
+The ghost of Sachmet
+~
+~
+dragon~
+ABFG BDEFHJTV -1000 0 
+0 90 10 12d445+2300 90d100+100 5d19+46 0
+-30 -30 -30 -30
+BCDEIJKN ABH L CDE
+standing standing none 2000
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#3400
+scroll insanity~
+a scroll of insanity~
+Old tattered scroll lying on the ground.~
+unknown~
+scroll 0 AO
+50 'frenzy' 'adrenaline control' '' ''
+30 1 200 P
+#3401
+axe troika~
+the axe of troika~
+The legendary axe of Troika is lying here.~
+unknown~
+weapon BG AN
+axe 6 19 slice CDF
+61 10 1000 P
+A
+3 -2
+A
+1 1
+A
+18 4
+A
+19 4
+#3403
+eye of Vortak~
+the eye of Vortak~
+The eye of Vortak~
+unknown~
+key 0 AO
+0 0 0 0 0
+30 1 100 P
+A
+5 -2
+A
+13 100
+A
+18 3
+A
+19 3
+#3404
+kevlarian shield~
+the Kevlarian Shield~
+A shield with a strange symbol on it is here.~
+unknown~
+armor B AJ
+10 10 10 5 0
+65 10 1000 P
+A
+3 -2
+A
+13 30
+A
+12 20
+A
+19 2
+A
+18 2
+A
+20 -5
+#3405
+sacred burial robes~
+sacred burial robes~
+A pile of cloth is lying here.~
+unknown~
+trash AH AK
+0 0 0 0 0
+65 5 200 P
+A
+12 -75
+A
+13 100
+#3406
+flail of wonders~
+the Flail of Wonders~
+A large flail is lying waiting to be picked up.~
+unknown~
+weapon ABI AN
+flail 6 21 smash E
+65 5 1000 P
+#3407
+cape covenant~
+the cape of covenant~
+A cape is lying on the ground collecting dust.~
+unknown~
+armor ABGH AC
+15 15 15 15 0
+70 20 800 P
+A
+4 -2
+A
+18 2
+A
+19 2
+A
+13 -20
+A
+12 25
+A
+5 2
+#3408
+shoes monarchy~
+the shoes of monarchy~
+A pair of finely crafted shoes lie here.~
+unknown~
+armor AB AG
+10 10 10 10 0
+70 5 1000 P
+A
+2 1
+A
+18 3
+A
+19 3
+A
+13 -40
+A
+12 20
+#3409
+club undead~
+the club of the undead~
+A large club is lying here humming gently.~
+unknown~
+weapon ABFG AN
+mace 6 21 wrath CD
+70 10 1000 P
+#3410
+cloak death~
+the cloak of death~
+A cloak that smells like death lies here.~
+unknown~
+armor ABG AC
+10 10 10 10 0
+60 20 5000 P
+A
+4 -2
+A
+12 15
+A
+13 75
+A
+18 3
+A
+19 3
+#3411
+kaleidoscopic stone~
+a kaleidoscopic stone~
+A multi-coloured stone is lying here.~
+unknown~
+gem ABG AQ
+0 0 0 0 0
+50 5 9000 P
+A
+3 -1
+A
+13 75
+A
+12 75
+A
+20 -8
+A
+19 5
+A
+18 5
+A
+1 -1
+#3412
+staff kantor~
+the Staff of Kantor~
+A powerful staff is waiting to be picked up~
+unknown~
+staff AB AO
+90 5 4 'remove curse' 0
+50 1 3000 P
+#3413
+bone fragment~
+bone fragment~
+A piece of bone has been left here.~
+unknown~
+weapon ABFGJL AN
+exotic 6 24 frbite B
+71 10 100 P
+A
+13 50
+A
+2 -1
+A
+18 5
+A
+19 5
+#3414
+pass key~
+chezna's pass key~
+Old key lies here collecting dust.~
+unknown~
+key AB AO
+0 0 0 0 0
+30 1 0 P
+#3415
+scarf gypsy~
+the scarf of a gypsy~
+Multi-Coloured scarf has been left here.~
+unknown~
+armor I AC
+20 20 20 20 0
+70 1 300 P
+A
+5 -2
+A
+13 75
+A
+18 4
+A
+19 4
+#3416
+pile silver~
+pile of silver~
+A pile of silver coins.~
+unknown~
+money A A
+4000 0 0 0 0
+1 10 0 P
+#3417
+pile gold~
+pile of gold~
+A large pile of gold.~
+unknown~
+money A A
+0 1000 0 0 0
+1 50 0 P
+#3418
+fiery blue diamond~
+fiery blue diamond~
+A fiery blue diamond is lying here.~
+unknown~
+warp_stone AG AO
+0 0 0 0 0
+60 1 4000 P
+#3419
+gold pile~
+pile of gold~
+Large pile of gold awaits your taken.~
+unknown~
+money A A
+0 200 0 0 0
+1 10 0 P
+#3420
+gold statue ~
+gold statue~
+A gold statue of Chezna lies here collecting dust.~
+unknown~
+gem ABG AO
+0 0 0 0 0
+60 10 500 P
+A
+4 -2
+A
+3 2
+A
+2 2
+#3421
+sacrificial spear~
+a sacrificial spear~
+A sacrificial spear is lying on the ground.~
+unknown~
+weapon BG AN
+exotic 6 16 shbite G
+70 1 900 P
+#3422
+a radiating globe~
+a radiating globe~
+A glowing globe of light is lying here.~
+unknown~
+light 0 AO
+0 0 -1 0 0
+75 11 800 P
+A
+19 6
+A
+18 6
+A
+13 75
+A
+2 -2
+#3423
+ceremonial dagger~
+ceremonial dagger~
+A ceremonial dagger is lying here.~
+unknown~
+weapon ABJLU AN
+dagger 6 25 divine ABC
+90 10 1000 P
+A
+18 5
+A
+19 5
+#3424
+elevator key~
+elevator key~
+A strange key is lying on the ground.~
+unknown~
+key 0 AO
+0 0 0 0 0
+60 1 1 P
+#0
+
+
+
+#ROOMS
+#3400
+The Shore of the Island~
+You are navigating towards the shores of the Island of Terror. Smelly
+mist emerges from the water while unattractive aquatic fauna lurks
+at you from beneath the waters.
+~
+0 0 1
+D1
+~
+~
+0 0 3401
+D3
+~
+~
+0 0 2016
+M0 H0
+S
+#3401
+The Bloody Shores~
+You are standing on the shores of the Island of Terror. Blood
+gushes from the sand as you walk on the beach. To the east
+you see a large granite structure. The smell is begining
+to make you sick.
+~
+0 0 1
+D0
+~
+~
+0 0 3402
+D1
+~
+~
+0 0 3417
+D2
+~
+~
+0 0 3416
+D3
+~
+~
+0 0 3400
+M0 H0
+S
+#3402
+The Western Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic
+fauna litter the sand. Putrid smelling waves licking the
+shore. You feel the waters uninviting presence and decide
+against going for a swim.
+~
+0 0 0
+D0
+~
+~
+0 0 3403
+D2
+~
+~
+0 0 3401
+D3
+~
+~
+0 0 2013
+M0 H0
+S
+#3403
+The Northwest Quadrant~
+You are standing at the North West corner of the island of
+terror. Nauseous gases emanate from the waves gently wash 
+up and lick the shore. You feel the waters uninviting presence
+and decide against going for a swim.
+~
+0 0 1
+D0
+~
+~
+0 0 2027
+D1
+~
+~
+0 0 3405
+D2
+~
+~
+0 0 3402
+D3
+~
+~
+0 0 2010
+M0 H0
+S
+#3404
+The Northern Shore~
+You are walking along the bloody sands of the northern shore. To 
+the south you see a large stone temple, while more of that lovely
+coloured sand lies to the east and west. 
+~
+0 0 0
+D0
+~
+~
+0 0 2028
+D1
+~
+~
+0 0 3406
+D2
+~
+~
+0 0 3419
+D3
+~
+~
+0 0 3405
+M0 H0
+S
+#3405
+The Northern Shore~
+You are on the northern shore of the Island of Terror. Sand sifts
+between and through your toes while waves crash toward you. You
+feel that future adventures may lie in that direction. The smell
+is begining to get to you, regergate you last meal.
+~
+0 0 0
+D0
+~
+~
+0 0 2027
+D1
+~
+~
+0 0 3404
+D3
+~
+~
+0 0 3403
+M0 H0
+S
+#3406
+The Northern Shore~
+You have the ennerving feeling that there is no end to all this
+sand. A large wall made of granite, blocks the southward direction
+while to the north, the raging sea spews waves at the bloody
+shore bringing with it the awful smell.
+~
+0 0 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+0 0 3407
+D3
+~
+~
+0 0 3404
+M0 H0
+S
+#3407
+The Northeast Quadrant~
+You are standing at the North East corner of the Island of Terror.
+Nauseous gases emenate from the waves pounding the shore, you 
+feel the sudden urge to puke. You feel the waters uninviting presence
+and descide against going for a swim.
+~
+0 0 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+0 0 2012
+D2
+~
+~
+0 0 3408
+D3
+~
+~
+0 0 3406
+M0 H0
+S
+#3408
+The Eastern Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic
+fauna litters the sand. Putrid smelling waves pound the shore.
+More sand leads to the north and south. You feel that there
+is no end to this awful smelling sand.
+~
+0 0 0
+D0
+~
+~
+0 0 3407
+D1
+~
+~
+0 0 2015
+D2
+~
+~
+0 0 3409
+M0 H0
+S
+#3409
+The Eastern Shore~
+You are on the eastern shore of the Island of Terror. Sand sifts
+though your toes, while waves crash toward you. You feel that
+a presence is watching you from the west, while to the east
+lies future adventures. The smell overwhelms you and you regerate
+you last meal. Hmmmmmmmmmmm
+
+~
+0 0 0
+D0
+~
+~
+0 0 3408
+D1
+~
+~
+0 0 2018
+D2
+~
+~
+0 0 3410
+D3
+~
+~
+0 0 3421
+M0 H0
+S
+#3410
+The Eastern Shore~
+You are walking on a bloody beach.  Carcasses of dead aquatic fauna
+litters the sand.  Putrid smelling waves pound onto the shore.  More of the
+blood drenched sand leads to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 3409
+D1
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 3411
+M0 H0
+S
+#3411
+The Southwest Quadrant~
+You are standing at the South West corner of the Island of Terror. 
+Nauseous gases emanate from the waves licking the shore.  You feel the
+waters uninviting presence and decide against going for a swim.  The blood
+drenched sand continues north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 3410
+D1
+~
+~
+0 0 2024
+D2
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 3412
+M0 H0
+S
+#3412
+The Southern Shore~
+You feel that there is no end to this blood drenched sand. The
+smell is awful, those waves bring in a fresh sniff every minit
+or so, the sand continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 3411
+D2
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 3413
+M0 H0
+S
+#3413
+The Southern Shore~
+You are walking along the southern shore. The sand slowly starts
+to fade towards the north, there is a large stone temple, while
+more of that beautiful sand continues to the east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 3420
+D1
+~
+~
+0 0 3412
+D2
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 3414
+M0 H0
+S
+#3414
+The Southern Shore~
+You are walking along the sand that you hope will come to an end soon.
+The sand is blood red and smell is enough to make you regeratate
+that last meal you ate. The sand continue to the west and east.
+~
+0 0 0
+D1
+~
+~
+0 0 3413
+D2
+~
+~
+0 0 2025
+D3
+~
+~
+0 0 3415
+M0 H0
+S
+#3415
+The Southwest Quadrant~
+You are standing at the southwest corner of the Island of Terror. 
+Nauseous gases emanate from the waves licking the blood drenched shore.  You
+feel the waters uninviting presence and decide against going for a swim.  
+~
+0 0 0
+D0
+~
+~
+0 0 3416
+D1
+~
+~
+0 0 3414
+D3
+~
+~
+0 0 2022
+M0 H0
+S
+#3416
+The Western Shore~
+You are walking on a bloody beach. Carcasses of dead aquatic
+fauna litters the sand. Putrid smelling waves pound the shore. 
+More of that lovely sand leads to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 3401
+D2
+~
+~
+0 0 3415
+D3
+~
+~
+0 0 2019
+M0 H0
+S
+#3417
+Western Deathway~
+You are walking along the western deathway.  Cobble stone pave the way
+between the shores of the island and the stone temple.  The cobble stone
+continues to the east, and the lovely sand is off to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3418
+D3
+~
+~
+0 0 3401
+M0 H0
+S
+#3418
+The Stone Temple~
+Ancient stone structor surrounds you.  Various ancient rituals have been
+performed here.  Now, only these forgoten structures remain.  At the exact
+center point in the room is a hole of some sort leading under the temple. 
+The cobble stone path continues in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 3419
+D1
+~
+~
+0 0 3421
+D2
+~
+~
+0 0 3420
+D3
+~
+~
+0 0 3417
+D5
+~
+~
+0 0 3422
+M0 H0
+S
+#3419
+Northern Deathway~
+You are walking along the northern deathway.  Cobble stone pave the way
+between the shores of the island and the stone temple.  The cobble stone
+continues south, the lovely looking sand is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 3404
+D2
+~
+~
+0 0 3418
+M0 H0
+S
+#3420
+The Southern Deathway~
+You are walking on the southern deathway.  Cobble stones pave the way
+between the shores of the island and the stone temple.  The cobble stone
+continues to the north, to the south is that lovely coloured sand.  
+~
+0 0 0
+D0
+~
+~
+0 0 3418
+D2
+~
+~
+0 0 3413
+M0 H0
+S
+#3421
+The Eastern Deathway~
+You are walking along the eastern deathway.  Cobble stones pave the way
+between the shores of the island and the stone temple.  The cobble stone
+continues to the west, the lovely looking sand is to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 3409
+D3
+~
+~
+0 0 3418
+M0 H0
+S
+#3422
+The Gate to Kantor~
+You are standing at the entrance of the underground city of Kantor.  This
+cave is very dark there are many set's of eyes watching your every move, to
+your south you see a large gate.  It the center of the gate is a hole for
+what appears to be a gem of some sort.  The entrance up is to steep to get
+back up again.  
+~
+0 0 1
+D2
+~
+~
+3 3403 3423
+M0 H0
+S
+#3423
+Entrance to Kantor~
+You are inside the main gate of the city of Kantor.  Locals ignore you
+and go about there business.  The road is continues to the east and west. 
+You get the unsettling feeling that something is happening down here or
+something is about too.  
+~
+0 0 0
+D0
+~
+~
+3 0 3422
+D1
+~
+~
+0 0 3425
+D3
+~
+~
+0 0 3424
+M0 H0
+S
+#3424
+The Dead End~
+You are at a dead end.  High walls surround you while glowing eyes peer
+at you from small windows.  You think to yourself that this is the perfect
+place for an amush.  Thankfully you can still go east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3423
+M0 H0
+S
+#3425
+Kimpa Way~
+You are walking along Kimpa Way, the busiest street of Kantor. Local
+villagers are starting to pay attention to your presence. Kantotian
+knights patrol the streets looking for signs of trouble.
+~
+0 0 0
+D1
+~
+~
+0 0 3426
+D3
+~
+~
+0 0 3423
+M0 H0
+S
+#3426
+Kimpa Way~
+As you walk further along Kimpa Way, you notice that the villagers 
+now avoid you inconspicuously. You dont feel any danger at this time
+but definitely feel that the level of tension has risen.
+~
+0 0 0
+D1
+~
+~
+0 0 3427
+D3
+~
+~
+0 0 3425
+M0 H0
+S
+#3427
+Kimpa-Noona~
+This seems to be the busiest place in town.  After all, Kimpa-Noona in
+Kantorian means "Busy Street".  To the north you see a small shop while a
+house lies to the south.  The people are watching you closely making sure
+your friendly.  Kantorian knights are on patrol to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 3433
+D1
+~
+~
+0 0 3428
+D2
+~
+~
+0 0 3434
+D3
+~
+~
+0 0 3426
+M0 H0
+S
+#3428
+Kimpa Road~
+Kimpa road continues along in an eastern direction towards a large
+structure.  Many Knight roam this area for it is the Imperial Palace or
+Kantor.  Perhaps someone there can help you in your journey.  Large doors
+stand between you and the palace.  
+~
+0 0 0
+D1
+~
+~
+0 0 3429
+D3
+~
+~
+0 0 3427
+M0 H0
+S
+#3429
+The Palace Ballroom~
+You are standing in a room filled with luxurious paintings and expensive
+vases.  Unfortunately for you, they have been nailed to the furniture in
+turn has been nailed to the floor.  Exits lead in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 3430
+D1
+~
+~
+0 0 3432
+D2
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3428
+M0 H0
+S
+#3430
+The Gazebo~
+A grandios gazebo extents outwards from the palace.  Plants and flowers
+adorn the hand rails bordering the gazebo.  This is the private refuge of
+Prince Othmar.  The glow reflecting off the ceiling is magical and is most
+likely what keeps the plants alive.  
+~
+0 0 1
+D2
+~
+~
+0 0 3429
+M0 H0
+S
+#3431
+The Study~
+This room brings back bad memories to Prince Othmar.  The Prince's late
+wife, Princess Peacock, was murdered in the room by the Colonel Mustard with
+a candlestick.  The only light in this room is from the oil lamps hanging on
+the walls.  
+~
+0 0 1
+D0
+~
+~
+0 0 3429
+M0 H0
+S
+#3432
+The Throne Room~
+You are standing in the throne room of Prince Othmar, ruler of Kantor. 
+Although his empire is small, Prince Othmar deserves respect.  Should you
+not show him some respect, Prince Othmar will teach you some...  
+~
+0 0 0
+D3
+~
+~
+0 0 3429
+M0 H0
+S
+#3433
+Cadash's Magical Emporium~
+Welcome to the Magical Emporium.  Cadash the marketing wizard stands here
+ready to sell you his wares, he has many magical artifacts.  Not all items
+are worth your time.  So chose wisely.  
+~
+0 0 0
+D2
+~
+~
+0 0 3427
+M0 H0
+S
+#3434
+The Municipal Arboretum~
+Flowers trees and plants thrive here. Colorful birds fly from tree to
+tree in concert of sounds. You are amazed that such a flora can grow from
+beneath the earth. A large tree dominates the view. A large hole has
+been carved in the tree to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 3427
+D2
+~
+~
+0 0 3435
+M0 H0
+S
+#3435
+Inside the Tree~
+You are standing inside the large tree.  You have precariously placed
+your feet on a small ledge carved on the interior wall of the tree's bark. 
+Upon looking at the ledge, you notice that a long ladder has been carved
+down the tree's roots.  
+~
+0 0 0
+D0
+~
+~
+0 0 3434
+D5
+~
+~
+0 0 3436
+M0 H0
+S
+#3436
+The Bottom of the Tree~
+You have made it down that poorly made ladder, looking back up you can
+hear some Kantorian chants, they must be recited to keep whats down here
+down here.  A briarweed forest envelops the horizon.  You can go back up the
+ladder or continue south and explore.  
+~
+0 0 0
+D1
+~
+~
+0 0 3446
+D3
+~
+~
+0 0 3437
+D4
+~
+~
+0 0 3435
+M0 H0
+S
+#3437
+Fork in the Path~
+A descision lies ahead of you.  The beaten path continues to the east and
+west, while a dimly lit path branches to the south.  You hear Latin chants
+and the crackle of a fireplace nearby.  
+~
+0 0 0
+D1
+~
+~
+0 0 3436
+D2
+~
+~
+0 0 3439
+D3
+~
+~
+0 0 3438
+M0 H0
+S
+#3438
+The Broken Path~
+The beaten path seems to end here.  Musty smells of hickory are coming
+from the north.  Unforunately, you only option lies to the east.  The ground
+seems to be disturbed, you feel like someone might have camped here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3437
+M0 H0
+S
+#3439
+Through the Woods~
+You slowly progress through the thick vegetation.  You wish you had
+brought a machete for this trip.  The chants to the south are growing louder
+and louder.  You have a hard time moving and feel the vines wraping around
+your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 3437
+D2
+~
+~
+0 0 3440
+M0 H0
+S
+#3440
+A Clearing in the Woods~
+You are coming into a clearing in the woods.  Sharp vines still scratch
+you as you walk throught the thick vegetation.  The Latin chants grow more
+and more intence as you walk in the southern direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 3439
+D2
+~
+~
+0 0 3441
+M0 H0
+S
+#3441
+The Western Latin Path~
+As you approach, the chants suddenly stop.  Seems like your sneaking
+skills are not as developed as you wished.  All of a sudden, the hunter
+becomes the hunted.  Proceed carefully.  
+~
+0 0 1
+D0
+~
+~
+0 0 3440
+D1
+~
+~
+0 0 3442
+M0 H0
+S
+#3442
+Chezna's Campsite~
+You have barged in on the campsite of the thieves.  Chezna the head of
+the thieves orders her men to proceed with the implementations of your
+demise.  In a glimpse of good sence, you consider turning back.  
+~
+0 0 0
+D0
+~
+~
+0 0 3447
+D1
+~
+~
+0 0 3443
+D2
+~
+~
+0 0 3449
+D3
+~
+~
+0 0 3441
+M0 H0
+S
+#3443
+The Eastern Latin Path~
+The beaten path in the Briarweed forest bends from west to south.  From
+this vantage point you can hear the chants better and better.  Perhaps you
+should go check it out.  The ground is littered with a fliement of some
+light source that has long since burned out.  
+~
+0 0 1
+D0
+~
+~
+0 0 3444
+D3
+~
+~
+0 0 3442
+M0 H0
+S
+#3444
+More Woods~
+You slowly progress through the thick vegetation.  You wish you had
+brought a machete for this trip.  The chants to the south are growing
+lounder and lounder.  The vines feel like there alive better keep moveing.  
+~
+0 0 0
+D0
+~
+~
+0 0 3445
+D2
+~
+~
+0 0 3443
+M0 H0
+S
+#3445
+A Clearing in the Woods~
+You are coming into a clearing in the woods.  Sharp vines still scatch
+you as you walk through the vegetation.  The Latin chants grow more and more
+intence as you walk in the Southern direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 3446
+D2
+~
+~
+0 0 3444
+M0 H0
+S
+#3446
+Briarweed Corner~
+The beaten path in Briarweed forest bends from west to south.  From this
+vantage point you can hear theses chants better and better.  Perhaps you
+should go check it out.  
+~
+0 0 0
+D2
+~
+~
+0 0 3445
+D3
+~
+~
+0 0 3436
+M0 H0
+S
+#3447
+Latin Chapel~
+You are standing in a small chapel built out of raw materials provided by
+the forest.  Chezna and her thieves must be good people deep down inside. 
+Still, you feel something is not right.  On the floor you see a praying
+platform.  The platform looks like its been moved a few times.  
+~
+0 0 0
+D2
+~
+~
+0 0 3442
+D5
+~
+~
+4 3414 3448
+M0 H0
+S
+#3448
+Chezna's Treasure Room~
+Chenza's private treasure vault, she stores all the loot on shelves there
+must be at least 3000 silver and gems and gold lots of gold.  You feel you
+better get all you can and leave incase you get caught.  
+~
+0 0 0
+D4
+~
+~
+4 0 3447
+D5
+~
+~
+4 3414 3450
+M0 H0
+S
+#3449
+A Large Corridor~
+You discover an ancient corridor leading to forgotten tomb of Sachmet. 
+It appears that Chezna and her gang were guarding the entrance so they could
+steal the ceremonial burial treasure.  It is up to you now to defeat
+Sachmet.  
+~
+0 0 0
+D0
+~
+~
+0 0 3442
+D2
+~
+~
+0 0 3451
+M0 H0
+S
+#3450
+Chezna's Tresure Room (Hidden)~
+You have entered Chezna's private vault under her vault.  She put most of
+her gold down here for safe keeping most thieves dont look past whats in
+front of there noses.  Chezna is a sneaky lady better watch out.  
+~
+0 0 1
+D4
+~
+~
+4 0 3448
+M0 H0
+S
+#3451
+Dragon Pass~
+A rope bridge stands before you.  This unstable obstacle stands between
+you and the ancient treasure of Sachmet.  Shall you proceed onwards or cower
+back to where you came from?  The old rope bridge has fallen but the rope
+looks like it could help you down.  
+~
+0 0 0
+D0
+~
+~
+0 0 3449
+D5
+~
+~
+0 0 3452
+M0 H0
+S
+#3452
+The Path to Glory~
+The path of glory extends beyond the limit of imagination.  The path
+branches off the east and west a possible end to this madness.  Will the
+sarcophagus of Sachmet ever be found?.  
+~
+0 0 0
+D1
+~
+~
+0 0 3453
+D3
+~
+~
+0 0 3456
+D4
+~
+~
+0 0 3451
+M0 H0
+S
+#3453
+The Path to Glory.~
+You are approaching the end of the path to glory.  Will this path lead
+you to the achievement you desire so much?  While you dream of succeses to
+come, you fail to notice that the path is growing narrower and narrower.  
+~
+0 0 0
+D1
+~
+~
+0 0 3454
+D3
+~
+~
+0 0 3452
+M0 H0
+S
+#3454
+The Path to Glory.~
+You are a approaching the end of the path of glory.  Will this path lead
+you to the achievement you desire so much?  While you dream of successes to
+come, you fail to notice the path is narrowing.  
+~
+0 0 0
+D1
+~
+~
+0 0 3455
+D3
+~
+~
+0 0 3453
+M0 H0
+S
+#3455
+The Glory~
+You are at the end of the path to glory.  It would appear that Sachmets's
+engineers have lured you here to pull you away from the path to Sachmet's
+sarcophagus.  You find yourself wondering where you should of turned.  
+~
+0 0 0
+D3
+~
+~
+0 0 3454
+M0 H0
+S
+#3456
+The Path to Glory~
+The path of Glory extends beyond the limit of the imagination.  The path
+branches off to the south towards a possible end to this madness.  Will
+sarcophagus of Sachmet ever be found?.  
+done
+~
+0 0 0
+D1
+~
+~
+0 0 3452
+D2
+~
+~
+0 0 3464
+D3
+~
+~
+0 0 3457
+M0 H0
+S
+#3457
+~
+You are walking along a path carved out of soild rock.  You can't help
+but wonder how the engineers of Sachmet could have constructed such a place.
+The strange precense of being watched can be felt.  
+~
+0 0 0
+D1
+~
+~
+0 0 3456
+D3
+~
+~
+0 0 3458
+M0 H0
+S
+#3458
+The Path of Glory~
+The path of glory extends east to west leading to a misty swirl.  A
+strange room lies to the north.  From this vantage point you cannot find
+anything particular to the room.  Perhaps you should investigate.  
+~
+0 0 0
+D0
+~
+~
+0 0 3463
+D1
+~
+~
+0 0 3457
+D3
+~
+~
+0 0 3459
+M0 H0
+S
+#3459
+The Path of Glory~
+You are walking along a path carved out of solid rock.  The path
+continues east and west while a structure lies to the south.  You notice a
+errie misty growing all around you.  
+~
+0 0 0
+D1
+~
+~
+0 0 3458
+D2
+~
+~
+0 0 3463
+D3
+~
+~
+0 0 3460
+M0 H0
+S
+#3460
+Check Point Charlie~
+You are facing yet another decision.  The path runs east and west while
+to the north lies the infamous " Path of Gold".  No one has ever returned
+with gold from the path but maybe someone will someday.  
+~
+0 0 0
+D0
+~
+~
+0 0 3462
+D1
+~
+~
+0 0 3459
+D3
+~
+~
+0 0 3461
+M0 H0
+S
+#3461
+Cul-De-Sac~
+You are at a dead end.  After carefully examing the walls you realize
+that you really have no where else to go but east!.  Perhaps the engineers
+that built the tomb were more resoureful than you imagined.  The mist seems
+to emenate from the floor in this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 3460
+M0 H0
+S
+#3462
+Path of Gold~
+You are walking down the path of gold, you notice that the road continues
+in all directions.  There is a smell of large amounts of "Gold".  You must
+decide which way to go, as the gold awaits.  
+~
+0 0 0
+D0
+~
+~
+0 0 3462
+D1
+~
+~
+0 0 3462
+D2
+~
+~
+0 0 3462
+D3
+~
+~
+0 0 3462
+M0 H0
+S
+#3463
+Stone Structure ~
+You notice a large stone structure point in all directions. The same
+stone floor, is under your feet. You notice that the stone is a worn
+in all directions. So its your choice pick a direction.
+~
+0 0 0
+D0
+~
+~
+0 0 3459
+D1
+~
+~
+0 0 3463
+D2
+~
+~
+0 0 3458
+D3
+~
+~
+0 0 3463
+M0 H0
+S
+#3464
+Precision Drive~
+You are walking along a path leading to small ruins.  Seems like Sachmet
+arranged for servants to live in her tomb to take care of her sarcophagus. 
+The ruins used to house the servants.  An investigation is in order.  
+~
+0 0 0
+D0
+~
+~
+0 0 3456
+D2
+~
+~
+0 0 3465
+M0 H0
+S
+#3465
+The Turn-Off Point~
+You are at a fork in the road.  To the east are the sports field that
+were used as recreation to the servants.  The path branches off to the east
+towards the Navy Bay.  
+~
+0 0 0
+D0
+~
+~
+0 0 3464
+D1
+~
+~
+0 0 3466
+D2
+~
+~
+0 0 3474
+M0 H0
+S
+#3466
+Navy Bay Sports Fields~
+Large plains extend to the north.  You would not know what these fields
+were for if it weren't for the goal posts still standing erect.  Sachmet's
+servants must have played competitive sports on these fields.  
+~
+0 0 0
+D1
+~
+~
+0 0 3467
+D3
+~
+~
+0 0 3465
+M0 H0
+S
+#3467
+Slow Poke~
+Here is the heart of Sachmets tomb.  A small stone alter with a large
+gem, which looks likely its long since burned out.  This is most like why
+the servants have left.  
+~
+0 0 0
+D2
+~
+~
+0 0 3468
+D3
+~
+~
+0 0 3466
+M0 H0
+S
+#3468
+The Marina~
+Although Sachmet entombed her servants with her, they were allowed to
+live in luxury.  The entire structure include an interior lake with magical
+winds that could carry small sailboats on recreational journey's.  
+~
+0 0 0
+D0
+~
+~
+0 0 3467
+D2
+~
+~
+0 0 3469
+M0 H0
+S
+#3469
+The Guard Post~
+You are standing at a guard post that used to be occupied by Sachmet's
+guards since this area was deemed to be protected, perhaps you are
+approaching your goal.  A strange elevator lies to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 3468
+D3
+~
+~
+0 0 3470
+M0 H0
+S
+#3470
+The Elevator~
+You have reached another milestone in your journey.  A magical elevator
+stands to the south, ready to bring you to the next step of this adventure. 
+Are " YOU " ready though...
+~
+0 0 0
+D1
+~
+~
+0 0 3469
+D2
+~
+~
+0 0 3475
+D3
+~
+~
+0 0 3471
+M0 H0
+S
+#3471
+The Guard House~
+You are standing at a guard post that used to be occupied by Sachmet's
+guards since this area was deemed to be protected.  Perhaps you are
+approaching your goal.  There is a strange magical elavator to your east.  
+~
+0 0 0
+D0
+~
+~
+0 0 3472
+D1
+~
+~
+0 0 3470
+M0 H0
+S
+#3472
+The Mark IV~
+A large monument fills the view.  A shrine of some sort has been placed
+here.  It does not appear to be part of Sachmet's reign but shows the mark
+of religious object.  The words Mark IV are inscribed in the monument.  
+~
+0 0 0
+D0
+~
+~
+0 0 3473
+D2
+~
+~
+0 0 3471
+M0 H0
+S
+#3473
+The Commandant's House~
+You are standing in front of a glorious house surrounded by a fence made
+out of thousands of pickets.  The men commanding the Tomb guards used to
+live here.  You smell a nice aroma from the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 3474
+D2
+~
+~
+0 0 3472
+M0 H0
+S
+#3474
+The Floral Gardens~
+You have entered an area which used to be covered by lush vegatation. 
+Dried up roots are now the only remnants of this marvel of smells and
+sights.  Off to your north you see the Path, and to the west you see the
+commandant's house.  
+~
+0 0 0
+D0
+~
+~
+0 0 3465
+D3
+~
+~
+0 0 3473
+M0 H0
+S
+#3475
+The Elevator~
+You are now in the magical elevator.  Like other traps in the tomb, the
+elevator marks a point of no return.  You ask yourself if you made the right
+decision by venturing so foolishly through the elevator.  
+This must be an executive's elevator. You need a key to go down.
+~
+0 0 1
+D0
+~
+~
+0 0 3470
+D5
+~
+~
+4 3424 3476
+M0 H0
+S
+#3476
+Sachmet's Burial Tomb~
+You have made it, to Sachmet's tomb.  This is your final goal Sachmet is
+holding his tresure and his ceremonial dagger.  He looks very old and very
+mean.  
+~
+0 4 0
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+M 3400 spec_breath_any Load to: radiant spirit
+M 3401 spec_cast_mage Load to: radiant spirit
+M 3403 spec_breath_fire Load to: mist golem
+M 3404 spec_cast_judge Load to: radiant spirit
+M 3405 spec_breath_fire Load to: A mist golem
+M 3406 spec_nasty Load to: The first awakening of Sachmet.
+M 3407 spec_executioner Load to: kantorian knight
+M 3408 spec_executioner Load to: kantorian knight
+M 3409 spec_nasty Load to: prince othmar
+M 3411 spec_nasty Load to: A fenhound
+M 3412 spec_cast_mage Load to: psionic spirit
+M 3413 spec_breath_gas Load to: gorpal snake
+M 3415 spec_cast_mage Load to: second awakening of sachmet
+M 3416 spec_cast_cleric Load to: chezna
+M 3417 spec_nasty Load to: bandit
+M 3419 spec_thief Load to: a rushlight
+M 3420 spec_thief Load to: smelly thief
+M 3421 spec_cast_undead Load to: ghost of sachmet
+M 3422 spec_thief Load to: skeletal cat
+M 3423 spec_cast_undead Load to: fourth awakening sachmet
+M 3424 spec_breath_any Load to: ghost of sachmet
+S
+
+
+
+#RESETS
+D 0 3422 2 2
+D 0 3423 0 2
+D 0 3447 5 2
+D 0 3448 4 2
+D 0 3448 5 2
+D 0 3450 4 2
+D 0 3475 5 2
+M 0 3400 2 3403 1
+E 0 3400 0 18
+M 0 3401 2 3407 1
+E 0 3400 0 18
+M 0 3402 2 3411 1
+E 0 3400 0 18
+M 0 3404 2 3415 1
+E 0 3400 0 18
+M 0 3403 1 3417 1
+E 0 3401 0 16
+E 0 3403 0 18
+M 0 3405 1 3421 1
+E 0 3401 0 16
+E 0 3403 0 18
+M 0 3406 1 3426 1
+M 0 3408 2 3430 1
+E 0 3404 0 11
+E 0 3405 0 12
+E 0 3406 0 16
+M 0 3407 2 3431 1
+E 0 3404 0 11
+E 0 3405 0 12
+E 0 3406 0 16
+M 0 3409 1 3432 1
+E 0 3407 0 3
+E 0 3408 0 8
+E 0 3409 0 16
+E 0 3424 0 18
+M 0 3410 1 3433 1
+G 0 3410 0
+G 0 3411 0
+G 0 3212 0
+G 0 3412 0
+M 0 3411 1 3438 1
+E 0 3413 0 16
+M 0 3413 1 3439 1
+M 0 3412 1 3440 1
+M 0 3415 1 3442 1
+M 0 3414 1 3444 1
+M 0 3417 4 3447 1
+M 0 3416 1 3447 1
+E 0 3414 0 18
+E 0 3415 0 3
+O 0 3416 0 3448
+O 0 3417 0 3448
+O 0 3418 0 3448
+O 0 3419 0 3450
+O 0 3420 0 3450
+M 0 3418 1 3455 1
+E 0 3421 0 16
+M 0 3419 3 3461 1
+E 0 3422 0 16
+M 0 3421 1 3465 1
+M 0 3420 2 3466 1
+M 0 3422 2 3467 1
+M 0 3423 1 3475 1
+M 0 3424 1 3476 1
+E 0 3423 0 16
+S
+
+
+
+#SHOPS
+3410 3 4 9 32 0 100 110 1 24
+0
+
+
+
+#$

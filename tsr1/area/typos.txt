@@ -1,0 +1,36 @@
+[  118] Terram: "tates" in the discription of the basement west and down from undead alley
+[ 3712] Cefca: the color list and color set messages are screwy
+[ 3054] Cerebus: on nikki's entrance message.
+[ 3001] Cerebus: slay man at baths, when you type quest info, it says slay the dreaded a man.
+[ 9400] Cerebus: the mutant beastly fido The is written like that--The, with a capital T.
+[ 3001] Cerebus: in hasan's quest list gauntlets is spelled guantlets
+[ 5233] Cerebus: quite a few creatures are called The in the middle of a sentance. i.e. lamia
+[ 3054] Taltos: rule 7 should be then that not than that
+[ 3053] Phlegmmm: Outside the East gater of Midgaard, the word follow should be follows.
+[  218] Variant: No capital in addict, and addict players for thEIr enjoyment.
+[11103] Cerebus: under help note at the top it says penaly instead of penalty
+[11841] Cerebus: in the vampire guys mansion on the second floor it says there are stairs to the n and s when there aren't
+[ 3892] Echo: We addict players for THEIR enjoyment, not thier.. opening welcome.
+[ 1210] Blackadder: Begining...Welcome to TSR. We Addict players for thier enjoyment. "thier"
+[ 3268] Orbdrin: waled is supposed to be walled just outside the north gate.  Orb
+[14901] Drlee: The Path leading to Kendermore east of hear should be east of here...
+[ 5611] Taltos: in the oblivion sect area inthe oaken walkway the text says the exit is south but the exit is realy west
+[ 3014] Soulslayer: hi
+[ 3262] Stunty: on the time command, shouldn't it say 13th 'of' the mounth?
+[ 3028] Sirian: Gaurd dog is NOT a typo...don't make the mistake of changing it!
+[13206] Soulslayer: you spelt havoc wrong in the hall of portals
+[ 4555] Terram: profession not prefession for mob guards
+[ 5138] Stunty: in drow temple, it says 'a door is too the west', near pit
+[  552] Taltos: in warrior pose one of the messages is Everyone is swept off their foot by your hug should this not be feet? taltos protector of oblivion
+[ 3001] Gerald: in rl
+[ 3718] Tinser: wear
+[ 3199] Tinser: S-Desc for my gauntlets is 'hard leather gauntlets.'
+[ 3054] Stunty: on the help realms, says *OLC for builers
+[ 3054] Stunty: (I think) on the shield lillard, ac is 2, 21,21,21, think there is a 1 missing for pierce
+[  220] Stunty: Max, lore british's kid, first line, says he is 'wnadering' around
+[28074] Stunty: in The Swamp, says wate, instead of water
+[ 4577] Stunty: the mage trainer in goblin town has a glowing 'arua' should that be aura?
+[ 3721] Keman: the help file for vampires: the top line is too long, and change amung to among
+[ 3721] Keman: also on the help file for vamps, 2nd line up, "it" should be "is"
+[11847] Krast: There are descriptive errors in Llangir Manor, where Lady etc is described as him and he.
+[ 7413] Fredrik: there is a typo in the spongy room, I think you want it to be DO NOT like this...

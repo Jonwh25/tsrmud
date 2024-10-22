@@ -1,0 +1,2943 @@
+#AREADATA
+Name        [6    15] Ambush~
+Builders    Lok~
+VNUMs       13500 13599
+Security    9
+End
+
+
+
+#MOBILES
+#13501
+traveler kindly~
+The kindly traveler~
+A kindly traveler asks you how your journey is going.
+~
+You strike up a conversation with the traveler. He tells you
+he just came from town down the western path, and the road
+is clear and easy to travel. He asks you about the path you
+have taken, and then bids you farewell.
+~
+human~
+AB S 400 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+F 0 0 0
+standing standing male 600
+AHMV ABCDEFGHIJK M 0
+#13502
+goblin lookout~
+The goblin lookout~
+A goblin startles as you enter and begs for its life.
+~
+The goblin looks genuinely startled at your presence.
+It is short, yellow skinned, has bad teeth and coal black
+hair. Its eyes look you over in a shifty nervous fashion.
+~
+goblin~
+AB J -400 0 
+0 7 0 2d6+85 1d10+100 1d8+1 0
+4 4 4 4
+I 0 Q C
+standing standing male 700
+AHMV ABCDEFGHIJK M 0
+#13503
+goblin raider~
+The goblin raider~
+A goblin raider looks at you and begs for his life.
+~
+The goblin raider is short and squat, yellow skinned,
+bad teeth, and coal black hair. He fidgets as he looks
+at your weapons.
+~
+goblin~
+AB J -400 0 
+0 8 0 2d7+96 1d10+100 1d7+2 0
+3 3 3 3
+F 0 Q C
+standing standing male 800
+AHMV ABCDEFGHIJK M 0
+#13504
+dog war~
+The war dog~
+A war dog is here, eating carrion.
+~
+The war dog is about 2' at the shoulder, and has large
+canines. It seems oblivious to you as it feeds.
+~
+dog~
+AB 0 0 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+FH 0 0 0
+standing standing either 600
+AGV ACDEFHJKUV M 0
+#13505
+goblin looter~
+The goblin looter~
+A goblin is here, looting the dead.
+~
+The goblin is going through and searching the corpses
+for something. He seems oblivious to you.
+~
+goblin~
+AB J -500 0 
+0 7 0 2d6+85 1d10+100 1d8+1 0
+4 4 4 4
+I 0 Q C
+standing standing male 700
+AHMV ABCDEFGHIJK M 0
+#13506
+goblin wounded~
+The wounded goblin~
+A wounded goblin is here, pretending to be dead.
+~
+The goblin is not too bright. It opens its eyes, and quickly
+closes them. It has a nasty belly wound.
+~
+goblin~
+AB J -400 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+F 0 Q C
+standing standing either 600
+AHMV ABCDEFGHIJK M 0
+#13507
+boy stunned~
+The stunned boy~
+A human boy is here, stunned by the violence.
+~
+The boy gives you an empty blank stare. He doesn't
+respond to you in any way.
+~
+human~
+AB 0 400 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+F 0 0 0
+standing standing male 600
+AHMV ABCDEFGHIJK M 0
+#13508
+flame roaring~
+The roaring flames~
+~
+~
+human~
+ABF DF 0 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+F 0 0 0
+standing standing none 600
+AHMV ABCDEFGHIJK M 0
+#13509
+flame searing~
+The searing flames~
+~
+~
+human~
+ABF DF 0 0 
+0 7 0 2d6+85 1d10+100 1d8+1 0
+4 4 4 4
+I 0 0 0
+standing standing none 700
+AHMV ABCDEFGHIJK M 0
+#13510
+smoke choking~
+The choking smoke~
+~
+~
+human~
+ABF DF 0 0 
+0 8 0 2d7+96 1d10+100 1d7+2 0
+3 3 3 3
+F 0 0 0
+standing standing either 800
+AHMV ABCDEFGHIJK M 0
+#13511
+horse tethered~
+The tethered horse~
+A horse is tethered here.
+~
+The horse smells of smoke and is skittish.
+~
+unique~
+ABHI 0 0 0 
+0 7 0 2d6+85 1d10+100 1d8+1 0
+4 4 4 4
+I 0 0 0
+standing standing either 700
+0 0 M 0
+#13512
+goblin molesting~
+The vile goblin~
+A goblin is here molesting a human female.
+~
+The goblin is oblivious to you, and is naked.
+~
+goblin~
+AB J -800 0 
+0 9 0 2d6+110 1d10+100 1d8+2 0
+2 2 2 2
+FJ 0 Q C
+standing standing male 900
+AHMV ABCDEFGHIJK M 0
+#13513
+female whimpering~
+The whimpering female~
+A half clothed human female is here, whimpering.
+~
+Her eyes widen in hope as she sees you, and she
+tries to occupy the goblins complete attention.
+~
+human~
+AB 0 800 0 
+0 8 0 2d7+96 1d10+100 1d7+2 0
+3 3 3 3
+I 0 0 0
+standing standing female 800
+AHMV ABCDEFGHIJK M 0
+#13514
+goblin archer~
+The goblin archer~
+A goblin archer is here, fletching an arrow.
+~
+The goblin is completely absorbed in his task
+of refeathering a bad arrow.
+~
+goblin~
+AB J -400 0 
+0 9 0 2d6+110 1d10+100 1d8+2 0
+2 2 2 2
+FJ 0 Q C
+standing standing male 900
+AHMV ABCDEFGHIJK M 0
+#13515
+bardoosh goblin~
+Bardoosh~
+A goblin is here sleeping.
+~
+The goblin has blood stains on his gear, and
+a tough weathered exterior. He smells of liquor.
+~
+goblin~
+AB JR -700 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+FI 0 Q C
+sleeping sleeping male 1200
+AHMV ABCDEFGHIJK M 0
+#13516
+guard fanatical goblin~
+The fanatical goblin guard~
+A goblin guard is here.
+~
+The goblin guard mumbles over and over to itself
+'must guard caves, must keep them out, ...'
+~
+goblin~
+AF J -600 0 
+0 10 0 2d7+121 1d10+100 2d4+2 0
+1 1 1 1
+FK 0 Q C
+standing standing male 1000
+AHMV ABCDEFGHIJK M 0
+#13517
+guard elite goblin~
+The elite goblin guard~
+A goblin guard is here, standing at attention.
+~
+The elite goblin guard is actually leaning against
+the door and sleeping, a trick he has learned to appear
+as if he is actually guarding something.
+~
+goblin~
+AB JR -400 0 
+0 11 0 2d8+134 1d10+100 1d10+2 0
+1 1 1 1
+FI 0 Q C
+standing standing male 1100
+AHMV ABCDEFGHIJK M 0
+#13518
+prisoner beaten unconscious~
+The beaten prisoner~
+An unconscious prisoner is here.
+~
+The prisoner is barely living.
+~
+human~
+AB R 700 0 
+0 10 0 2d7+121 1d10+100 2d4+2 0
+1 1 1 1
+FK 0 0 0
+sleeping sleeping either 1000
+AHMV ABCDEFGHIJK M 0
+#13519
+haglik goblin~
+Haglik~
+A goblin is here, beating a prisoner.
+~
+The goblin looks very angry. He keeps asking the
+prisoner where the key to the box is, then beating
+him silly.
+~
+goblin~
+AB J -800 0 
+0 13 0 2d10+170 1d10+100 2d5+3 0
+-1 -1 -1 -1
+EFI 0 Q C
+standing standing male 1300
+AHMV ABCDEFGHIJK M 0
+#13520
+goblin evil~
+The evil goblin~
+An evil goblin is here, having his way with a woman.
+~
+The goblin sneers at the woman. "So Essabella, you
+think your money will buy you freedom. Well that may
+be so, but it won't save your maidenhood. Now tell
+me where that key is, and I may go easy on you."
+~
+goblin~
+AB J -1000 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+FI 0 Q C
+standing standing male 1200
+AHMV ABCDEFGHIJK M 0
+#13521
+essabella human prisoner female~
+Essabella~
+A human female prisoner is here whimpering.
+~
+The female is bedraggled and muddy. Her hair is in
+a tangled mess, but her eyes are fiery.
+~
+human~
+AB 0 1000 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+FI 0 0 0
+standing standing female 1200
+AHMV ABCDEFGHIJK M 0
+#13522
+hamal mercenary captain prisoner~
+Hamal, the mercenary captain~
+An unconscious prisoner has been tossed here.
+~
+You wake up the prisoner. Upon seeing you instead
+of goblins, his face brightens. He tells you his name
+is Hamal, the mercenary captain. He lead the caravan
+into the ambush, and lost most of his men. He implores
+you to rescue Essabella.
+~
+human~
+AB R 750 0 
+0 14 1 2d10+190 1d10+100 1d12+3 0
+-1 -1 -1 -1
+CFI 0 0 0
+sleeping sleeping male 1400
+AHMV ABCDEFGHIJK M 0
+#13523
+goblin patrolling~
+The patrolling goblin~
+A goblin is here on patrol.
+~
+The goblin is chewing some kind of root, and seems
+oblivious to you.
+~
+goblin~
+A J -400 0 
+0 11 0 2d8+134 1d10+100 1d10+2 0
+1 1 1 1
+FI 0 Q C
+standing standing male 1100
+AHMV ABCDEFGHIJK M 0
+#13524
+women goblin~
+The goblin women~
+A group of goblin women is here watching the children.
+~
+The goblin women are dressed in rags, are filthy,
+and really do stink.
+~
+goblin~
+AB J -300 0 
+0 13 0 2d10+170 1d10+100 2d5+3 0
+-1 -1 -1 -1
+EFI 0 Q C
+standing standing male 1300
+AHMV ABCDEFGHIJK M 0
+#13525
+children goblin~
+The goblin children~
+A group of goblin children are here, playing.
+~
+The kids are kicking a human head around.
+~
+goblin~
+AB J -300 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+FI 0 Q C
+standing standing either 1200
+AHMV ABCDEFGHIJK S 0
+#13526
+smith goblin~
+The goblin smith~
+A goblin smith is here, hammering out a spear blade.
+~
+The smith wears an apron, and a sheet of sweat. He
+is black from the smoke, and does not notice you.
+~
+goblin~
+AB J -400 0 
+0 11 0 2d8+134 1d10+100 1d10+2 0
+1 1 1 1
+FI 0 Q C
+standing standing male 1100
+AHMV ABCDEFGHIJK M 0
+#13527
+nevdara drow female~
+Nevdara~
+A female drow is here, overseeing the smith.
+~
+The drow has white hair and ebony black skin.
+She slowly strokes her spider amulet.
+~
+elf~
+AB EJPQ -1000 0 
+0 14 1 2d10+190 1d10+100 1d12+3 0
+-1 -1 -1 -1
+CFI 0 B Z
+standing standing female 1400
+AHMV ABCDEFGHIJK M 0
+#13528
+guard personal~
+The personal guard of Gruluk~
+A guard stands here, protecting his leader.
+~
+The guard is well groomed and alert.
+~
+goblin~
+ABF J -600 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+FK 0 Q C
+standing standing male 1200
+AHMV ABCDEFGHIJK M 0
+#13529
+pigeon~
+The pigeon~
+A pigeon is flying here.
+~
+The pigeon is small, gray, and coos.
+~
+song bird~
+AB T 0 0 
+0 1 0 2d6+10 1d10+100 1d4+0 0
+9 9 9 9
+FH 0 0 0
+standing standing either 100
+AGW ACDEFHKP S 0
+#13530
+gruluk goblin leader~
+Gruluk~
+The leader of the goblins is here.
+~
+The leader is trying to grab the pigeon.
+~
+goblin~
+AB J -1000 0 
+0 15 1 3d9+208 1d10+100 2d6+3 0
+-2 -2 -2 -2
+EFIK AB Q C
+standing standing male 1500
+AHMV ABCDEFGHIJK M 0
+#0
+
+
+
+#OBJECTS
+#13501
+sign road~
+a road sign~
+A road sign marked "To Town" points south.~
+wood~
+trash 0 0
+0 0 0 0 0
+1 1000 0 P
+E
+sign road~
+You examine the road sign. It has been sunken into the
+earth to a good depth, and fairly recently at that. The
+lettering is in common tongue, and done in whitewash.
+~
+#13502
+station way waystation~
+the waystation~
+~
+wood~
+container 0 0
+200 0 0 10 100
+1 15000 1500 P
+E
+station way waystation~
+The waystation is made of wood and thatch. Simple
+wood shelves hold food. There is a bench and table
+for dining inside. A map is on the wall.
+~
+#13503
+spring bubbling~
+the bubbling spring~
+Spring of water flows from the ground.~
+water~
+fountain 0 0
+10000 10000 'water' 0 0
+15 3000 0 P
+E
+spring bubbling~
+The spring is shallow, about 2' depth. The water runs
+clear from between the graveled bottom. The spring
+is some 4' in diameter, and cold (50F).
+~
+#13504
+bread loaf~
+a loaf of bread~
+A loaf of bread is here.~
+bread~
+food 0 A
+30 28 0 0 0
+2 50 10 P
+E
+bread loaf~
+The bread looks fresh. It is made from dark grains
+and is very heavy.
+~
+#13505
+nuts jar~
+a jar of nuts~
+A jar of nuts is here.~
+ceramic~
+food 0 A
+15 13 0 0 0
+1 10 5 P
+E
+nuts jar~
+The nuts are mainly walnuts. They are still in their
+shells.
+~
+#13506
+table~
+a table~
+A small table is here~
+wood~
+container 0 A
+200 0 0 10 100
+5 100 10 P
+E
+table~
+The table is made of wood. The wood is still
+green and sappy.
+~
+#13507
+stool~
+a stool~
+A stool is here, next to the table.~
+wood~
+furniture 0 A
+100 1 144 100 100
+12 50 10 P
+E
+stool~
+The stool has 3 legs and is made from
+green hardwood.
+~
+#13508
+pen quill~
+a quill pen~
+A quill pen is here.~
+feather~
+trash 0 A
+0 0 0 0 0
+5 10 10 P
+E
+pen quill~
+The pen is loaded with ink. It is a chicken feather.
+~
+#13509
+well ink~
+an ink well~
+An ink well is here.~
+glass~
+trash 0 A
+0 0 0 0 0
+7 10 10 P
+E
+well ink~
+The ink is indigo.
+~
+#13510
+meat half eaten piece~
+a half eaten piece of meat~
+A half eaten piece of meat is here.~
+meat~
+food 0 A
+10 10 0 0 1
+1 10 1 P
+E
+meat half eaten piece~
+The meat looks to be spoiled.
+~
+#13511
+parchment piece~
+a piece of parchment~
+A piece of parchment is here.~
+vellum~
+trash 0 A
+0 0 0 0 0
+3 10 10 P
+E
+indentations~
+You examine the indentations in the light. You can see that
+it is writing where one piece of parchment had laid on top
+of this piece.  It reads:
+
+Merchant caravan, heavily guarded, heading to ambush
+site. Count 6 guards, one captain, 3 women and a child.
+~
+E
+parchment piece~
+The parchment is blank, and dimpled with indentations.
+~
+#13512
+mercenary~
+A corpse~
+A corpse with arrows in it is here.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+2 50 10 P
+E
+corpse~
+The corpse is that of a human mercenary. On it you find
+a letter of employment for the caravan of Essabella.
+~
+#13513
+arrow broken~
+A broken arrow~
+A broken arrow is here.~
+wood~
+trash 0 0
+0 0 0 0 0
+5 10 10 P
+E
+arrow broken~
+You examine the arrow. It has been poorly fletched with
+wild bird feathers. The arrow is coated with a black substance.
+~
+#13514
+log huge~
+A huge log~
+A huge log is lying on the ground.~
+wood~
+trash 0 A
+0 0 0 0 0
+8 8000 10 P
+E
+log huge~
+The log is green, and has been cut with an ax. It must weigh
+at least 800 lbs.
+~
+#13515
+root large~
+A large root~
+A large root emerges from the ground here.~
+root~
+furniture 0 0
+100 1 144 100 100
+15 200 10 P
+#13516
+crack~
+A crack in the tree~
+~
+wood~
+container 0 0
+1000 0 0 20 100
+0 0 0 P
+E
+crack~
+Upon closer examination, you see that the crack is
+merely a piece of bark covering a hole in the hollow
+tree.
+~
+#13517
+bloody~
+A corpse~
+A bloody hacked up corpse is here.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+20 10 0 P
+E
+corpse~
+The corpse is that of a mercenary. It has been looted.
+~
+#13518
+maiden~
+A corpse~
+A naked female corpse is here, speared into the ground.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+20 10 0 P
+E
+corpse~
+You examine the corpse and find that sadly it was a maiden,
+who appeared to be killed after she was raped.
+~
+#13519
+burnt~
+A corpse~
+A badly burnt corpse is here.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+20 10 0 P
+E
+corpse burnt~
+The corpse is dressed in the leathers of a driver, and
+is badly arrowed. You notice something in its grasp.
+~
+#13520
+spear bloody~
+A bloody spear~
+A spear with blood stains on it is here.~
+iron~
+weapon 0 AN
+exotic 7 2 pierce 0
+10 50 110 P
+E
+blood spear~
+The blood is long dried on the haft of the spear.
+The blade is made of iron, and is bound to the
+shaft with hemp.
+~
+#13521
+spear wooden~
+A wooden spear~
+A wooden spear is here.~
+wood~
+weapon 0 AN
+exotic 6 2 stab 0
+9 40 100 P
+E
+spear~
+The blade is made of iron and bound to the wooden
+haft with hemp.
+~
+#13522
+arrow~
+A poorly made arrow~
+A poorly made arrow is here~
+wood~
+armor 0 AO
+3 4 3 2 1
+9 10 110 P
+A
+19 -1
+A
+18 -1
+E
+arrow~
+The arrow is made from a crooked stick and has
+wild bird feathers stuck into slots on the shaft. Its
+point is a piece of flint.
+~
+#13523
+grasp hollowed arm~
+the grasp of the dead man~
+Hollowed out plastic arm is lying here.~
+plastic~
+container 0 0
+15 A 0 8 100
+10 10 10 P
+#13524
+key iron~
+An iron key~
+An iron key is here.~
+iron~
+key 0 A
+0 0 0 0 0
+7 10 10 P
+#13525
+pool blood~
+A pool of blood~
+A pool of blood is here.~
+blood~
+drink 0 0
+150 150 'blood' 0 1
+0 0 0 P
+#13526
+pool water~
+A pool of water~
+Pool of cold water is here.~
+water~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+E
+pool~
+The pool looks to be clear and safe to drink.
+~
+#13527
+ground~
+the ground~
+Ground looks disturbed, and the earth is out of place.~
+dirt~
+container 0 0
+150 0 0 30 100
+0 0 0 P
+E
+ground~
+The ground upon closer inspection appears to
+have something buried in it.
+~
+#13528
+coins platinum~
+1400 platinum coins~
+1400 platinum coins are here.~
+platinum~
+money 0 A
+7000 0 0 0 0
+1 10 0 P
+#13529
+sack large~
+A large sack~
+A large empty sack is here.~
+burlap~
+container 0 A
+500 0 0 20 100
+5 10 5 P
+E
+sack~
+The sack is made of burlap.
+~
+#13530
+armor hard leather~
+hard leather armor~
+A piece of leather armor is here.~
+leather~
+armor 0 AC
+5 4 4 3 1
+10 30 100 P
+#13531
+helmet hard leather~
+hard leather helmet~
+A hard leather helmet is here.~
+leather~
+armor 0 AE
+5 4 4 2 2
+10 20 100 P
+#13532
+leggings hard leather~
+hard leather leggings~
+A pair of hard leather leggings is here.~
+leather~
+armor 0 AF
+5 4 4 5 1
+10 40 100 P
+#13533
+boots hard leather~
+hard leather boots~
+A pair of hard leather boots is here.~
+leather~
+armor 0 AG
+5 4 2 3 1
+10 20 100 P
+#13534
+gauntlets hard leather~
+hard leather gauntlets.~
+A pair of hard leather gauntlets is here.~
+leather~
+armor 0 AH
+5 4 4 5 1
+10 60 100 P
+#13535
+sleeves hard leather~
+hard leather sleeves~
+A pair of hard leather sleeves is here.~
+leather~
+armor 0 AI
+5 4 5 3 1
+10 40 100 P
+#13536
+shield hard leather~
+hard leather shield~
+A hard leather shield is here.~
+leather~
+armor 0 AJ
+4 5 4 3 1
+10 50 100 P
+#13537
+girdle hard leather~
+hard leather girdle~
+A hard leather girdle is here.~
+leather~
+armor 0 AL
+6 4 4 3 1
+12 70 100 P
+#13538
+collar war dog~
+A war dog collar~
+A war dog collar is here.~
+leather~
+armor 0 AC
+3 4 3 1 0
+6 10 410 P
+A
+19 1
+#13539
+goblin cadaver~
+A goblin corpse~
+A goblin corpse is here.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+7 10 10 P
+E
+corpse~
+The goblin was killed by sword wounds.
+~
+#13540
+bow short~
+A short bow~
+A short bow is here.~
+wood~
+weapon 0 AN
+exotic 6 2 pierce 0
+9 50 80 P
+E
+bow~
+The bow is made of some springy kind of
+wood and strung with gut.
+~
+#13541
+quiver~
+A quiver~
+A quiver is here.~
+leather~
+container 0 AK
+50 0 0 10 100
+9 10 10 P
+A
+3 1
+E
+quiver~
+The quiver is made of soft leather, and has
+a strap meant to be slung about your shoulders.
+~
+#13542
+skin liquor~
+A skin of liquor~
+A skin of liquor is here.~
+leather~
+drink 0 AO
+30 15 'local specialty' 0 0
+15 10 8 P
+E
+skin liquor~
+The skin is filled with a blackish potent smelling liquor.
+~
+#13543
+ring protection~
+A ring of protection~
+A beautiful gold ring is here.~
+gold~
+armor G AB
+5 0 5 2 1
+12 10 220 P
+A
+17 -3
+A
+20 -2
+E
+ring protection~
+The ring bears a runic inscription on the inside. You
+can't make heads or tails of it.
+~
+#13544
+button shiny brass~
+A shiny brass button~
+A shiny brass button is here.~
+brass~
+trash 0 A
+0 0 0 0 0
+2 10 10 P
+E
+button brass shiny~
+The button, you recognize, has the crest of the mercenary
+guard. The mercenary guard trains troops for employ to
+merchants and politicians.
+~
+#13545
+alcove wall~
+The alcove~
+The Alcove~
+wood~
+container 0 0
+100 0 0 20 100
+0 0 0 P
+#13546
+torch oil soaked~
+An oil soaked torch~
+An oil soaked torch is here.~
+cloth~
+light 0 AO
+0 0 24 0 0
+10 10 5 P
+E
+torch oil soaked~
+The torch is a dry oak branch, wrapped in rags, and soaked
+in oil.
+~
+#13547
+shackles~
+A pair of shackles~
+A pair of shackles is here.~
+iron~
+trash M AM
+0 0 0 0 0
+11 10 10 P
+A
+18 -3
+A
+2 -3
+E
+shackles~
+The shackles appear to have an old, rusty lock.
+~
+#13548
+irons leg~
+A pair of leg irons~
+A pair of leg irons is here.~
+iron~
+trash M AF
+0 0 0 0 0
+12 20 10 P
+A
+14 -80
+A
+2 -3
+E
+leg irons~
+The leg irons have an old rusty lock.
+~
+#13549
+trunk trunks~
+the trunks~
+Tree trunk has fallen.~
+wood~
+container 0 0
+2000 AC 0 10 100
+0 0 0 P
+E
+trunks~
+The trunks are made of wood and iron.
+~
+#13550
+clothes bad smelling~
+Some bad smelling clothes~
+Some bad smelling clothes are here.~
+cloth~
+trash 0 AK
+0 0 0 0 0
+5 10 0 P
+A
+5 -1
+E
+clothes~
+The clothes have lice in them
+~
+#13551
+copper pieces~
+Alot of copper pieces~
+A lot of copper pieces are here.~
+copper~
+money 0 A
+50 0 0 0 0
+0 0 0 P
+#13552
+rack racks weapon~
+weapon racks~
+Large Weapon rack is here.~
+iron~
+container 0 A
+500 0 0 20 100
+20 10 20 P
+#13553
+post posts armor~
+Armor posts~
+Large Armor Post is here.~
+iron~
+container 0 A
+400 0 0 30 100
+20 10 20 P
+#13554
+sconce~
+A sconce~
+Small iron scounce is here.~
+iron~
+container 0 0
+50 0 0 10 100
+16 0 0 P
+#13555
+pit fire~
+A fire pit~
+A fire pit is here, smoldering.~
+fire~
+light 0 0
+0 0 -1 0 0
+35 0 0 P
+E
+pit fire~
+The fire pit contains hardwood and brush.
+~
+#13556
+water barrel~
+A barrel of water~
+A barrel of water is here.~
+wood~
+drink 0 0
+100 88 'water' 0 0
+8 10 0 P
+E
+barrel~
+The barrel is made of oak bound with iron.
+There is a dip cup. The water smells clean enough.
+~
+#13557
+whip bullwhip~
+A bullwhip~
+A bullwhip is coiled on the ground.~
+leather~
+weapon 0 AN
+whip 8 2 whip 0
+12 60 10 P
+E
+whip bullwhip~
+The bullwhip is made of animal hide, and has been
+oiled to a black sheen.
+~
+#13558
+potion inky black~
+An inky black potion.~
+An inky black potion is here.~
+glass~
+potion G A
+13 'detect hidden' 'infravision' '' ''
+10 40 150 P
+E
+inky black potion~
+You take a sip from the potion, and the room brightens
+and the shadows recede.
+~
+#13559
+dagger wavy bladed~
+A wavy bladed dagger~
+A wavy bladed dagger is here.~
+adamantite~
+weapon 0 AN
+dagger 9 2 pierce H
+13 80 700 P
+A
+19 1
+E
+dagger wavy bladed~
+The dagger is made of a dark metal. The jagged
+sharp edge of it looks lethal.
+~
+#13560
+key brass~
+A brass key~
+A brass key is here.~
+brass~
+key 0 A
+0 0 0 0 0
+5 10 10 P
+E
+brass key~
+The key is of simple make, fitting a lock of 2 tumblers.
+~
+#13561
+root chewed~
+A chewed root~
+A chewed root is here.~
+root~
+pill 0 A
+10 'sleep' 'cure light' '' ''
+4 10 100 P
+#13562
+hammer smith's~
+A smith's hammer~
+A smith's hammer is here.~
+iron~
+weapon 0 AN
+mace 8 2 pound 0
+11 180 500 P
+A
+19 1
+E
+hammer~
+The smith's hammer weighs some 18 lbs,
+and has a heavy square iron head.
+~
+#13563
+chain drow mail~
+Drow chain mail~
+A suit of drow chain mail is here.~
+steel~
+armor C AD
+6 4 4 3 1
+14 170 300 P
+A
+17 -5
+E
+chain drow mail~
+The chain mail is made of dark metal, which
+sizzles in the sun.
+~
+#13564
+amulet spider~
+A spider amulet~
+An spider amulet made of dark metal is here.~
+adamantite~
+armor CJ AC
+6 5 5 3 1
+14 20 300 P
+A
+12 10
+E
+amulet spider~
+As you examine the spider, it seems to come to life
+and move in your hands.
+~
+#13565
+flail bladed~
+A bladed flail~
+A bladed flail is here.~
+steel~
+weapon C AN
+flail 10 2 crush 0
+14 220 700 P
+A
+19 1
+A
+18 1
+E
+flail bladed~
+The flail has 6 chains which end in three pronged blades.
+~
+#13566
+throne~
+The throne~
+Black marble throne is here.~
+marble~
+container 0 0
+100 0 0 20 100
+12 1000 0 P
+#13567
+gems~
+gems~
+A lot of gems~
+gem~
+money 0 A
+9000 0 0 0 0
+25 0 5000 P
+E
+gems~
+The gems sparkle nicely in the light. They are worth over
+5000 gold.
+~
+#13568
+parchment rolled~
+A rolled piece of parchment~
+A rolled piece of parchment is here.~
+vellum~
+trash 0 AF
+0 0 0 0 0
+1 10 0 P
+E
+parchment rolled~
+The parchment reads:
+Merchant caravan, heavily guarded, heading to ambush
+site.  Count 6 guards, one captain, 3 women and a child.
+
+NICE JOB ON THE AMBUSH - GRULUK
+~
+#13569
+box iron~
+A large iron box~
+A large iron box is here.~
+iron~
+container 0 A
+2000 ABCD 13524 25 100
+20 20000 0 P
+E
+box~
+The box is extremely heavy, with a very complex lock.
+~
+#13570
+gold pile~
+A vast pile of gold~
+A vast pile of gold is here.~
+gold~
+money 0 A
+15000 0 0 0 0
+15 100 1500 P
+#13571
+wand opal~
+An opal wand~
+An opal wand is here.~
+opal~
+wand G AO
+15 10 5 'cure poison' 0
+15 40 200 P
+E
+wand~
+When you hold up the wand to the light, the word
+"candisvenom" glitters within the stone.
+~
+#13572
+girdle power ogre~
+A girdle of ogre power~
+A strange girdle is here.~
+skin~
+armor G AL
+10 1 1 10 100
+15 120 680 P
+A
+1 1
+A
+19 1
+A
+18 1
+E
+girdle~
+The girdle is fashioned of skin, threaded with hair.
+~
+#13573
+sword broad wyvernclaw~
+A broad sword called "Wyvernclaw"~
+A runed broad sword lies here.~
+steel~
+weapon GM AN
+sword 10 2 claw C
+15 220 900 P
+A
+19 1
+A
+18 1
+A
+1 -2
+E
+sword broad runed~
+The runes run along the blade, blink and transform
+to a name you can read, "Wyvernclaw". In your head
+you hear a voice saying "What shall I call you master"?
+~
+#13574
+mercenary~
+A corpse~
+A corpse with arrows in it is here.~
+corpse~
+npc_corpse 0 A
+0 0 0 0 0
+20 10 10 P
+E
+corpse~
+The corpse is that of a human mercenary. On it you find
+a letter of employment for the caravan of Essabella.
+~
+#13575
+ground~
+the ground~
+Earth has been displaced, and something is poking through.~
+dirt~
+container 0 0
+150 0 0 30 100
+10 0 0 P
+E
+ground~
+The ground upon closer inspection appears to
+have something buried in it.
+~
+#13576
+armor hard leather~
+hard leather armor~
+A piece of leather armor is here.~
+leather~
+armor 0 AC
+4 3 2 2 0
+6 30 100 P
+#13577
+helmet hard leather~
+hard leather helmet~
+A hard leather helmet is here.~
+leather~
+armor 0 AE
+4 3 3 1 1
+6 20 100 P
+#13578
+leggings hard leather~
+hard leather leggings~
+A pair of hard leather leggings is here.~
+leather~
+armor 0 AF
+4 3 2 3 0
+6 40 100 P
+#13579
+boots hard leather~
+hard leather boots~
+A pair of hard leather boots is here.~
+leather~
+armor 0 AG
+4 3 2 2 0
+6 20 100 P
+#13580
+shield hard leather~
+hard leather shield~
+A hard leather shield is here.~
+leather~
+armor 0 AJ
+3 2 2 2 1
+6 50 100 P
+#0
+
+
+
+#ROOMS
+#13501
+On the highway to town~
+You travel along the highway to town.  The road is 3-5' higher than the
+surrounding ground, and sloped so that rain runs off into a ditch on either
+side.  The road is cobbled with the local stones.  A low scrub forest
+surrounds you on either side of the road.  There is something burnt into the
+stone here.  
+~
+0 4 5
+E
+burnt stone~
+{6 15} Lok   Ambush,  Feb 1996.
+~
+E
+road~
+The road itself is poorly cobbled, with many stones turned over or
+skewed.
+~
+E
+cracks~
+You get up close and look at the cracks, which on second glance
+are footprints of a small, barefoot, humanoid.
+~
+E
+ditch~
+The ditch is dry with cracks running in the dirt in the bottom.
+~
+D1
+~
+~
+0 0 412
+D3
+On the highway to town~
+~
+0 -1 13502
+M100 H100
+S
+#13502
+On the highway to town~
+You have reached a gentle bend in the road.  Eastwards the road goes
+through a low brush forest.  To the south, the forest deepens.  A waystation
+is here, with food for the weary traveler.  A spring bubbles up next to the
+station.  
+~
+0 0 1
+E
+map~
+You look at the map on the waystation wall. It shows a east west road
+to the north forking south, then going through a westerly bend before
+going south into town.
+~
+E
+forest~
+The scrub forest to the east is mainly pines and briar bushes. To the
+south the forest is made mainly of oaks and other hardwoods.
+~
+D1
+Into the scrub forest~
+~
+0 -1 13501
+D2
+On the highway to town~
+~
+0 -1 13503
+M100 H100
+S
+#13503
+On the highway to town~
+You stand in a region of heavy forest.  About you are signs of the road
+crews efforts to clear the road.  Trees are chopped back from the road, and
+a large brush pile lies next to the road.  The road seems to be in better
+repair here.  
+~
+0 0 5
+E
+pile brush~
+You examine the brush pile. It has been bound into a large
+layer about 6" thick with twine.
+~
+E
+trees~
+The trees are oaks and walnuts. The walnuts are bearing nuts.
+~
+D0
+Through the deep forest~
+~
+0 -1 13502
+D2
+On the highway to town~
+~
+0 -1 13504
+D5
+Underneath the brush~
+brush pile~
+1 -1 13535
+M100 H100
+S
+#13504
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D0
+Along a northern road~
+~
+0 -1 13503
+D1
+In a forest clearing~
+~
+0 -1 13505
+D2
+Into the thick smoke~
+~
+0 -1 13508
+D3
+In a forest clearing~
+~
+0 -1 13506
+M100 H100
+S
+#13505
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D2
+In a forest clearing~
+~
+0 -1 13509
+D3
+In a forest clearing~
+~
+0 -1 13504
+M100 H100
+S
+#13506
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D1
+In a forest clearing~
+~
+0 -1 13504
+D2
+In a forest clearing~
+~
+0 -1 13507
+M100 H100
+S
+#13507
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern. You think
+you could press your way through the trees to the west.
+~
+D0
+In a forest clearing~
+~
+0 -1 13506
+D1
+Into the thick smoke~
+~
+0 -1 13508
+D2
+In a forest clearing~
+~
+0 -1 13510
+D3
+Under the brush~
+brush~
+1 -1 13520
+M100 H100
+S
+#13508
+In a forest clearing~
+You stand in the center of the clearing.  Here in the thick swirling
+smoke is a burning wagon.  Above you you hear horrible screaming in one of
+the burning wagons.  About you lie many fallen mercenaries.  
+~
+0 1 3
+E
+fallen mercenaries~
+You examine the dead. They seem to have fallen defending the
+wagon. They wear riding boots, but there is no sign of horses.
+~
+E
+wagon burning~
+You look at the wagon. Up and above you it is on fire. Beneath
+the wagon there is no fire.
+~
+D0
+In a forest clearing~
+~
+0 -1 13504
+D1
+In a forest clearing~
+~
+0 -1 13509
+D2
+In a forest clearing~
+~
+0 -1 13511
+D3
+In a forest clearing~
+~
+0 -1 13507
+D4
+Into the burning wagon~
+~
+0 -1 13536
+D5
+Beneath the wagon~
+~
+0 -1 13539
+M100 H100
+S
+#13509
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D0
+In a forest clearing~
+~
+0 -1 13505
+D2
+In a forest clearing~
+~
+0 -1 13512
+D3
+Into the thick smoke~
+~
+0 -1 13508
+M100 H100
+S
+#13510
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D0
+In a forest clearing~
+~
+0 -1 13507
+D1
+In a forest clearing~
+~
+0 -1 13511
+D2
+Under the brush~
+brush~
+1 -1 13513
+M100 H100
+S
+#13511
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D0
+Into the thick smoke~
+~
+0 -1 13508
+D1
+In a forest clearing~
+~
+0 -1 13512
+D3
+In a forest clearing~
+~
+0 -1 13510
+M100 H100
+S
+#13512
+In a forest clearing~
+You stand under the open sky of a clearing.  Stumps and fallen trees lie
+in the mud.  Smoke rises in a black column, obscuring your vision.  You hear
+screaming and the rustling of brush about you.  
+~
+0 1 3
+E
+dark forms~
+You try to follow one of the dark forms, but you lose it
+in the smoke. You think it is goblin sized.
+~
+E
+brush~
+You look towards the brush for noises and sign of others.
+You  think you see a few dark forms through the smoke.
+~
+E
+smoke column black~
+The black column of smoke seems to be coming from the
+center of the clearing. It smells of oak and flesh.
+~
+E
+pattern~
+The pattern of the trees is such that they direct people to the
+center of the clearing, and make travel to the edges of the
+clearing difficult.
+~
+E
+stumps trees fallen~
+You examine the fallen trees of the clearing. They have been
+cut down with axes. They seem to form a pattern.
+~
+D0
+In a forest clearing~
+~
+0 -1 13509
+D1
+Under the brush~
+brush~
+1 -1 13516
+D2
+Under the brush~
+brush~
+1 -1 13515
+D3
+In a forest clearing~
+~
+0 -1 13511
+M100 H100
+S
+#13513
+On a small trail~
+You are walking on a rough trail through the heavy brush.  Above you a
+tall canopy of trees blocks the sky.  
+~
+0 0 2
+E
+canopy~
+The canopy is of oaks and other hardwoods.
+~
+E
+brush trees~
+The brush thins to the north. You can see through to a
+forest clearing. You could get a clear shot at the clearing
+from here.
+~
+E
+trail rough ground~
+You stoop and look in the mud. There are tracks here
+of small humanoid feet.
+~
+D0
+Under the brush~
+brush~
+1 -1 13510
+D1
+On a small trail~
+~
+0 -1 13514
+M100 H100
+S
+#13514
+On a small trail~
+You are on a small rough trail through the heavy brush.  There are many
+roots here to trip over.  The canopy blocks the sky.  A large oak tree is to
+the south of the trail.  
+~
+0 0 2
+E
+canopy~
+The canopy is of oaks and other hardwoods.
+~
+E
+brush heavy~
+It is impossible to see south through the brush. To the north
+you can make out a great log and a clearing. You could get
+a clear shot at the clearing unobserved here.
+~
+E
+oak tree~
+The tree appears to be many years old, with a great crack
+running inside the trunk.
+~
+E
+roots~
+The roots are large enough to sit on out of the mud.
+~
+E
+trail ground~
+The ground shows signs of many small humanoid tracks.
+~
+D1
+On a small trail~
+~
+0 -1 13515
+D3
+On a small trail~
+~
+0 -1 13513
+M100 H100
+S
+#13515
+On a small trail~
+You are walking on a rough trail through the heavy brush.  Above you a
+tall canopy of trees blocks the sky.  
+~
+0 0 2
+E
+canopy~
+The canopy is of oak and other hardwoods.
+~
+E
+brush trees~
+The brush thins to the north. You can see through to a
+forest clearing. You could get a clear shot at the clearing
+from here.
+~
+E
+trail rough ground~
+You stoop and look in the mud. There are tracks here
+of small humanoid feet.
+~
+D0
+Under the brush~
+brush~
+1 -1 13512
+D3
+On a small trail~
+~
+0 -1 13514
+M100 H100
+S
+#13516
+On a small trail~
+You stand on a rough trail through the heavy brush.  Above you a tall
+canopy of trees blocks the sky.  
+~
+0 0 2
+E
+canopy~
+The canopy is mainly oaks and other hardwoods.
+~
+E
+brush~
+The brush is thick about you, except for the west. You can see into a
+clearing. You could easily shoot a bow at the clearing from here.
+~
+E
+tracks~
+The tracks show a human and small humanoids traveling east.
+~
+E
+trail rough~
+You bend down to look at the muddy trail. Hoof prints lead north
+towards where you can hear horses. Tracks lead east down the path.
+~
+D0
+Towards the horses~
+~
+0 -1 13517
+D1
+On a small trail~
+~
+0 -1 13518
+D3
+Under the brush~
+brush~
+1 -1 13512
+M100 H100
+S
+#13517
+On a small trail~
+You have come to the end of a small trail.  About you is a small
+clearing.  Ropes lead from tree to tree, and tethers dangle from the ropes. 
+The canopy opens here to the sky.  
+~
+0 0 2
+E
+sky~
+You look up into the clear sky, and your vision clouds. A voice rings inside
+your head- 'A maiden is being assaulted nearby- rescue her or fear my displeasu
+re'.
+~
+E
+tethers ropes~
+They are made of hemp
+~
+E
+trail~
+The trail here is covered in many small humanoid tracks. They lead into
+the clearing and back south.
+~
+E
+clearing~
+The clearing here is a natural one. There is a pool next to the tethers.
+~
+D2
+On a small trail~
+~
+0 -1 13516
+M100 H100
+S
+#13518
+On a small trail~
+You are at a bend in a small trail.  Brush is thick and prevents you from
+leavin g the path.  The canopy above you blots out the sky.  
+~
+0 0 2
+E
+cloth~
+The cloth appears to be of a light weave, the kind a maiden would wear. It
+appears that they headed south.
+~
+E
+brush~
+The brush here is very thick. You notice a scrap of cloth stuck on the brush.
+~
+E
+canopy~
+The canopy is of oaks and other hardwoods.
+~
+E
+trail~
+You stoop down and examine the trail. The ground is loose here, as if it were
+recently dug in. In the loose earth you see tracks leading to the south. You li
+sten
+and hear some whimpering and grunting coming from that direction.
+~
+D2
+On a small trail~
+~
+1 -1 13519
+D3
+On a small trail~
+~
+0 -1 13516
+M100 H100
+S
+#13519
+On a small trail~
+You arrive in a thicket, barring your way.  Small animal trails lead off
+into th e woods in three directions.  This appears to be the point at which
+they meet.  There are many tracks here on the ground, indicating a struggle.
+~
+0 0 2
+E
+thicket~
+The thicket is made up of thorny, impassable bushes.
+~
+E
+ground~
+There are two sets of prints- that of a small humanoid, and that of a human. It
+looks like the humanoid dragged the human to a spot in the center of the thicke
+t.
+~
+E
+trails animal~
+The trails are very small, the kind a small rodent would use.
+~
+D0
+On a small trail~
+~
+0 -1 13518
+M100 H100
+S
+#13520
+On a small trail~
+You are on a small trail winding its way through the heavy brush.  The
+trail has only been cleared to a height of 5', and you walk through a thorny
+tunnel.  
+~
+0 0 2
+E
+tunnel~
+The tunnel appears to have been hacked directly out of a thick brush.
+~
+E
+glint~
+You think you see a button in the ground. You should pick it up.
+~
+E
+trail~
+The trail is muddy and bears the tracks of small humanoids and large humans. Th
+ere
+are signs of dragging leading off south. A glint catches your eye on the ground
+.
+~
+E
+brush~
+The brush is very heavy and thick, preventing movement except in the southerly
+direction. To the east it thins, and you can make out a small clearing. You cou
+ld
+get a good arrow shot at the clearing from here.
+~
+D1
+Through the brush~
+brush~
+1 -1 13507
+D2
+On a small trail~
+~
+0 -1 13521
+M100 H100
+S
+#13521
+On a small trail~
+You are on a small trail winding its way through the heavy brush.  The
+trail has only been cleared to a height of 5', and you walk through a thorny
+tunnel.  
+~
+0 0 2
+E
+tunnel~
+The tunnel appears to have been hacked directly out of a thick brush.
+~
+E
+trail~
+The trail is muddy and bears the tracks of small humanoids and large humans.
+There are signs of dragging leading off west.
+~
+E
+brush~
+The brush is very heavy and thick, preventing movement except along the path.
+~
+D0
+On a small trail~
+~
+0 -1 13520
+D3
+On a small trail~
+~
+0 -1 13522
+M100 H100
+S
+#13522
+On a small trail~
+You are on a small trail which ends at a mountain of solid rock.  Above
+you the brush thins somewhat, and you can see the mountain rising upwards.  
+~
+0 0 2
+E
+sticks pile~
+The pile of sticks upon examination is bound together with hemp. You
+lift the hemp and see a trapdoor leading downwards. You can make out
+rungs leading down a shaft.
+~
+E
+trail~
+The trail is muddy and covered in footprints. You can see drag marks
+leading towards the base of the mountain, where they end about 3' from
+the rock. Stooping down, you can see that the mud ends in a pile of sticks
+with smoke coming from them.
+~
+E
+brush~
+The brush is very thick, and impassable without a lot of chopping
+and hard work. The trail leads back east through a low tunnel.
+~
+E
+mountain rock solid~
+The rock appears to be granite.
+~
+D1
+On a small trail~
+~
+0 -1 13521
+D5
+Down the rungs~
+trapdoor~
+1 -1 13523
+M100 H100
+S
+#13523
+In a dark cave~
+You are in a dark, low cave.  Smoke rolls past you and up a runged shaft
+and out to the surface.  The floor and walls are smooth and regular, and the
+ceiling is rough.  
+~
+0 9 0
+E
+walls wall~
+You feel along the wall and find an alcove near the rung ladder. There
+is something in the alcove.
+~
+E
+floor~
+The floor is smooth, obviously mined. It is damp. There are muddy
+footprints leading in all directions. The drag marks lead south.
+~
+E
+shaft~
+The shaft is narrow and equipped with an iron runged ladder.
+~
+E
+smoke~
+The smoke appears to be coming from the south. It smells of oak.
+~
+D1
+In a dark cave~
+~
+0 -1 13524
+D2
+In a dark cave~
+~
+0 -1 13525
+D4
+Up the runged shaft~
+trapdoor~
+1 -1 13522
+M100 H100
+S
+#13524
+In a dark cave~
+You stand in a dark low cave.  The walls and floor are smooth and regular
+and the ceiling is rough hewn.  
+~
+0 9 0
+E
+ceiling~
+You examine closely the rock on the ceiling. It is granite. It is rough. It is
+hard.
+~
+E
+walls wall floor~
+The walls and floor have been mined from the solid rock to a smooth surface.
+The floor bears muddy footprints headed in all directions.
+~
+D2
+In a dark cave~
+~
+0 -1 13526
+D3
+In a dark cave~
+~
+0 -1 13523
+M100 H100
+S
+#13525
+In a dark cave~
+You stand in a dark low cave.  The walls and floor are smooth and regular
+and the ceiling is rough hewn.  There are doors to the south and west.  
+~
+0 8 0
+E
+door~
+You listen at the doors. To the west, you hear nothing. To the south, you hear
+a low guttural language.
+~
+E
+ceiling~
+You examine closely the rock on the ceiling. It is granite. It is rough. It is
+hard.
+~
+E
+floor~
+The floor bears muddy footprints headed in all directions. Most
+traffic heads south. The drag marks head west.
+~
+E
+walls wall~
+The walls  have been mined from the solid rock to a smooth surface.
+~
+D0
+In a dark cave~
+~
+0 -1 13523
+D1
+In a dark cave~
+~
+0 -1 13526
+D2
+Through the south door~
+door south~
+1 13560 13529
+D3
+Through the west door~
+door west~
+1 13560 13527
+M100 H100
+S
+#13526
+In a dark cave~
+You stand in a dark low cave.  The walls and floor are smooth and regular
+and the ceiling is rough hewn.  There is a door to the east.  
+~
+0 9 0
+E
+door~
+You listen at the eastern door, and hear sobbing.
+~
+E
+ceiling~
+You examine closely the rock on the ceiling. It is granite. It is rough. It is
+hard.
+~
+E
+walls wall floor~
+The walls and floor have been mined from the solid rock to a smooth surface.
+The floor bears muddy footprints headed in all directions.
+~
+D0
+In a dark cave~
+~
+0 -1 13524
+D1
+Through the east door~
+door east~
+1 13560 13528
+D3
+In a dark cave~
+~
+0 -1 13525
+M100 H100
+S
+#13527
+In a cramped cell~
+You stand in a dark, cramped cell.  The ceiling is perhaps 4' high, and
+the cell is 3' wide.  It smells of blood, feces, and urine.  The cell door
+is on the east wal l.  
+~
+0 9 0
+E
+marks~
+The marks appear to be a day count. The count is 8.
+~
+E
+door~
+The door bears scratch marks.
+~
+E
+ceiling~
+The ceiling is rough hewn.
+~
+E
+cell~
+You search the cell and find nothing.
+~
+D1
+Through the cell door~
+door east~
+1 13560 13525
+M100 H100
+S
+#13528
+Barracks~
+You are in a room which is obviously a barracks.  About the room are
+several low cots with trunks.  There are armor posts, and weapon racks on
+the walls.  The room is illuminated by a gutting torch in a sconce.  A door
+is to the west.  
+~
+0 8 0
+E
+cots~
+The cots are filled with lice.
+~
+E
+room~
+The room smells of unwashed bodies.
+~
+D3
+Through the door~
+door west~
+1 13560 13526
+M100 H100
+S
+#13529
+A shadowy tunnel~
+You are in a shadowy tunnel of about 5' height.  The tunnel is lighted by
+a guttering torch in a sconce.  The walls and floor are irregular, as is the
+ceiling.  There is a door to the north.  The tunnel twists and turns,
+ascends and descends.  
+~
+0 8 4
+E
+walls~
+The walls are of solid granite, with no veins of ore.
+~
+E
+floor~
+The floor has muddy footprints of small humanoids.
+~
+D0
+Through the door~
+door north~
+1 13560 13525
+D1
+A shadowy tunnel~
+~
+0 -1 13530
+M100 H100
+S
+#13530
+A shadowy tunnel~
+You are in a shadowy tunnel of about 5' height.  The tunnel is lighted by
+a guttering torch in a sconce.  The walls and floor are irregular, as is the
+ceiling.  There is a door to the south.  The tunnel twists and turns,
+ascends and descends.  
+~
+0 8 4
+E
+walls~
+The walls are of solid granite, with no veins of ore.
+~
+E
+floor~
+The floor has muddy footprints of small humanoids.
+~
+D2
+Through the door~
+door north~
+1 13560 13531
+D3
+A shadowy tunnel~
+~
+0 -1 13529
+M100 H100
+S
+#13531
+In the great cavern of the goblins~
+You stand in the great vaulted cavern of the goblins.  Firepits
+illuminate the walls in a shadowy flickering dance.  There are many small
+alcoves dug into the walls to form the individual caves of the goblins. 
+There is a door to the north.  
+~
+0 8 2
+E
+alcoves~
+The alcoves maybe measure 5 feet in depth and have
+hide blankets to serve as doors.
+~
+D0
+Through the door~
+door north~
+1 13560 13530
+D1
+In the great cavern~
+~
+0 -1 13532
+D2
+In the great cavern~
+~
+0 -1 13533
+M100 H100
+S
+#13532
+In the great cavern of the goblins~
+You stand in the great vaulted cavern of the goblins.  Firepits
+illuminate the walls in a shadowy flickering dance.  Here goblin children
+play within the view of the women, who are busily roasting some kind of meat
+over a fire pit.  
+~
+0 8 2
+E
+meat~
+The meat on second glance, is human flesh.
+~
+D2
+In the great cavern~
+~
+0 -1 13534
+D3
+In the great cavern~
+~
+0 -1 13531
+M100 H100
+S
+#13533
+In the great cavern of the goblins~
+You stand in the great vaulted cavern of the goblins.  Firepits
+illuminate the walls in a shadowy flickering dance.  A primitive forge and
+smithy is here.  
+~
+0 8 2
+E
+forge smithy~
+The forge consists of a firepit, anvil, and a rack upon which
+to place the work.
+~
+D0
+In the great cavern~
+~
+0 -1 13531
+D1
+In the great cavern~
+~
+0 -1 13534
+M100 H100
+S
+#13534
+In the great cavern of the goblins~
+You stand in the great vaulted cavern of the goblins.  Firepits
+illuminate the walls in a shadowy flickering dance.  At the south wall of
+the cavern is a throne.  On the east wall is a cage.  
+~
+0 8 2
+E
+cage~
+The cage is empty. It has pigeon feathers in the bottom.
+~
+E
+throne~
+The throne is carved from the rock itself. It has a small
+seat and massive dimensions. Any small creature seated
+upon it would appear to be very important, indeed. Gems
+are placed within the throne.
+~
+D0
+In the great cavern~
+~
+0 -1 13532
+D3
+In the great cavern~
+~
+0 -1 13533
+M100 H100
+S
+#13535
+In a pit beneath the brush pile~
+You are in a 6' deep pit beneath a pile of brush.  There is a long ,
+hollow tube with pieces of metal in it.  Rungs lead up and out of the pit. 
+An empty cage is here.  
+~
+0 521 0
+E
+cage empty~
+The cage is made of wood, and has a wooden perch in it. It is about
+1' square, and there are white feathers in it.
+~
+E
+tube hollow metal~
+You pick up the tube and look through one end. You can see out
+the other end at a 90 degree angle to the tube. You poke the tube
+up through the brush and you can see the road fine.
+~
+D4
+Out of the pit~
+brush pile~
+1 -1 13503
+M100 H100
+S
+#13536
+Inside the burning wagon~
+You choke and gag inside the smoke and flame filled burning wagon. 
+Everything of value is burnt beyond recognition.  
+~
+0 9 0
+D2
+Inside the burning wagon~
+~
+0 -1 13537
+D5
+Out of the wagon~
+~
+0 -1 13508
+M100 H100
+S
+#13537
+Inside the burning wagon~
+You choke and gag inside the smoke and flame filled burning wagon. 
+Everything of value is burnt beyond recognition.  Your feet creak upon the
+weakened boards.  
+~
+0 9 0
+D0
+Inside the burning wagon~
+~
+0 -1 13536
+D4
+On top of the wagon~
+~
+0 -1 13538
+M100 H100
+S
+#13538
+On top of the burning wagon~
+You stand atop of the burning wagon.  Smoke belches forth from the wagon
+to choke you with its fumes.  Around you is the devastation.  Bodies lie
+sprawled in broken heaps.  
+~
+0 1 1
+D5
+Into the burning wagon~
+~
+0 -1 13537
+M100 H100
+S
+#13539
+Beneath the wagon~
+You crouch beneath the wagon.  Flames rage above you and the whole
+structure groans as if it were about to collapse.  
+~
+0 0 1
+D4
+Into the clearing~
+~
+0 -1 13508
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 13504 spec_fido Load to: The war dog
+M 13521 spec_guard Load to: Essabella
+S
+
+
+
+#RESETS
+D 0 13503 5 1
+D 0 13507 3 1
+D 0 13510 2 1
+D 0 13512 1 1
+D 0 13512 2 1
+D 0 13513 0 1
+D 0 13515 0 1
+D 0 13516 3 1
+D 0 13520 1 1
+D 0 13522 5 1
+D 0 13523 4 1
+D 0 13525 2 2
+D 0 13525 3 2
+D 0 13526 1 1
+D 0 13527 1 2
+D 0 13528 3 1
+D 0 13529 0 2
+D 0 13530 2 2
+D 0 13531 0 2
+D 0 13535 4 1
+O 0 13503 0 13502
+O 0 13502 0 13502
+P 0 13504 0 13502 1
+P 0 13505 0 13502 1
+M 0 13501 1 13502 1
+M 0 13504 1 13505 1
+E 0 13538 0 3
+O 0 13539 0 13505
+M 0 13503 1 13506 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13534 0 9
+E 0 13520 0 16
+O 0 13574 0 13507
+P 0 13513 0 13574 1
+O 0 13517 0 13508
+O 0 13525 0 13508
+O 0 13539 0 13508
+O 0 13518 0 13509
+P 0 13520 0 13518 1
+M 0 13506 1 13510 1
+E 0 13576 0 5
+E 0 13577 0 6
+E 0 13578 0 7
+E 0 13579 0 8
+E 0 13580 0 11
+E 0 13521 0 16
+O 0 13514 0 13511
+O 0 13512 0 13512
+P 0 13513 0 13512 1
+M 0 13505 1 13512 1
+E 0 13530 0 5
+E 0 13535 0 10
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13520 0 16
+O 0 13515 0 13514
+O 0 13516 0 13514
+P 0 13521 0 13516 1
+P 0 13522 0 13516 1
+M 0 13515 1 13514 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13520 0 16
+E 0 13534 0 9
+E 0 13535 0 10
+E 0 13537 0 13
+E 0 13543 0 2
+O 0 13542 0 13514
+M 0 13514 1 13515 1
+E 0 13541 0 12
+P 0 13522 0 13541 1
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13540 0 16
+O 0 13526 0 13517
+M 0 13511 2 13517 1
+M 0 13511 2 13517 1
+O 0 13527 0 13518
+P 0 13528 0 13527 1
+O 0 13529 0 13518
+M 0 13512 1 13519 1
+O 0 13530 0 13519
+O 0 13533 0 13519
+O 0 13521 0 13519
+O 0 13537 0 13519
+M 0 13513 1 13519 1
+O 0 13575 0 13520
+P 0 13544 0 13575 1
+M 0 13516 1 13521 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13521 0 16
+O 0 13545 0 13523
+P 0 13546 0 13545 1
+O 0 13555 0 13525
+O 0 13556 0 13525
+M 0 13518 1 13525 1
+E 0 13547 0 14
+E 0 13547 0 15
+E 0 13548 0 7
+M 0 13519 1 13525 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13559 0 16
+E 0 13537 0 13
+G 0 13560 0
+M 0 13517 1 13526 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13521 0 16
+G 0 13560 0
+M 0 13522 1 13527 1
+E 0 13548 0 7
+O 0 13549 0 13528
+P 0 13550 0 13549 1
+P 0 13551 0 13549 1
+O 0 13552 0 13528
+P 0 13540 0 13552 1
+P 0 13522 0 13552 1
+P 0 13521 0 13552 1
+O 0 13553 0 13528
+P 0 13530 0 13553 1
+P 0 13532 0 13553 1
+P 0 13531 0 13553 1
+O 0 13554 0 13528
+P 0 13546 0 13554 1
+M 0 13520 1 13528 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13557 0 16
+G 0 13558 0
+M 0 13521 1 13528 1
+E 0 13547 0 14
+E 0 13547 0 15
+M 0 13523 1 13530 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13521 0 16
+G 0 13561 0
+O 0 13555 0 13531
+M 0 13524 1 13532 1
+M 0 13525 1 13532 1
+O 0 13555 0 13532
+O 0 13555 0 13533
+M 0 13526 1 13533 1
+E 0 13562 0 16
+M 0 13527 1 13533 1
+E 0 13563 0 5
+E 0 13564 0 4
+E 0 13565 0 16
+O 0 13556 0 13533
+O 0 13555 0 13534
+M 0 13528 1 13534 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13521 0 16
+M 0 13529 1 13534 1
+E 0 13568 0 7
+M 0 13530 1 13534 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13536 0 11
+E 0 13573 0 16
+E 0 13572 0 13
+E 0 13534 0 9
+G 0 13560 0
+O 0 13566 0 13534
+P 0 13567 0 13566 1
+O 0 13569 0 13534
+P 0 13570 0 13569 1
+P 0 13571 0 13569 1
+O 0 13506 0 13535
+P 0 13508 0 13506 1
+P 0 13509 0 13506 1
+P 0 13510 0 13506 1
+P 0 13511 0 13506 1
+O 0 13507 0 13535
+M 0 13502 1 13535 1
+E 0 13530 0 5
+E 0 13531 0 6
+E 0 13532 0 7
+E 0 13533 0 8
+E 0 13521 0 16
+M 0 13508 1 13536 1
+M 0 13509 1 13537 1
+O 0 13519 0 13538
+O 0 13523 0 13538
+P 0 13524 0 13523 1
+M 0 13510 1 13538 1
+M 0 13507 1 13539 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

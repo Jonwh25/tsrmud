@@ -1,0 +1,1042 @@
+#AREADATA
+Name        [5    10] Faerie Ring~
+Builders    Lok~
+VNUMs       29200 29299
+Security    9
+End
+
+
+
+#MOBILES
+#29201
+pixie faerie~
+a giggling pixie~
+A pixie pokes you in the butt with its sword and giggles!
+~
+The pixie is about 6" tall, is human like, and has dragonfly wings.
+~
+human~
+ACH T 0 0 
+0 6 0 2d7+71 1d10+100 1d7+1 0
+4 4 4 4
+F 0 0 0
+standing standing either 600
+AHMV ABCDEFGHIJK T 0
+#29202
+nixie faerie~
+a fluttering nixie~
+A fluttering nixie rummages through your possessions looking for wine!
+~
+The nixie, like the pixie has dragonfly wings, but is taller (9").
+~
+human~
+ACH T 0 0 
+0 11 0 2d8+134 1d10+100 1d10+2 0
+1 1 1 1
+I 0 0 0
+standing standing either 1100
+AHMV ABCDEFGHIJK T 0
+#29203
+sprite faerie~
+a dancing sprite~
+A sprite casts a spell and you do a merry little dance!
+~
+The sprite has dragonfly wings like the nixie and pixie, 
+but she towers over them at an amazing 12" height!
+~
+human~
+AH BPT 0 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+F 0 0 0
+standing standing female 1200
+AHMV ABCDEFGHIJK S 0
+#29204
+brownie faerie~
+a stern brownie~
+A stern brownie stands guard here - you better watch it bub!
+~
+The beefy 2' tall brownie wears earth colored clothing, 
+and seems intent on its task of guarding.
+~
+human~
+AB DFN 0 0 
+0 13 0 2d10+170 1d10+100 2d5+3 0
+-1 -1 -1 -1
+FI 0 0 0
+standing standing either 1300
+AHMV ABCDEFGHIJK S 0
+#29205
+puck faerie~
+Puck~
+Uh oh! You see Puck!
+~
+Puck is an amazing 3' tall.  He snaps his head back and 
+forth in quick darting motions checking if his pile is 
+still there.
+~
+human~
+ABCS FQ 0 0 
+0 14 0 2d10+190 1d10+100 1d12+3 0
+-1 -1 -1 -1
+FI 0 0 0
+standing standing male 1400
+AHMV ABCDEFGHIJK S 0
+#29206
+queen faerie~
+the Faerie Queen~
+The Faerie Queen sits in a circle of dancing twinkling faeries!
+~
+The faerie queen is here teaching her subjects court 
+in a gossamer gown of moonbeams.  She towers at 4' tall. 
+She is by far the most beautiful creature you have ever  
+seen.  Maybe you should stay here a while.  Hmmm. 
+Why bother going back?
+~
+human~
+ABR DEFHN 0 0 
+0 15 0 3d9+208 1d10+200 2d6+3 0
+-2 -2 -2 -2
+FHI A 0 0
+standing standing female 1500
+AHMV ABCDEFGHIJK S 0
+#29207
+lucky leprechaun faerie~
+Lucky~
+A little leprechaun garbed in green says 'Wooo-hooo-hoo' and tickles you!
+~
+Lucky wears green and is mumbling something about blue diamonds.
+~
+human~
+AH BPU 0 0 
+0 14 0 2d10+190 1d10+100 1d12+3 0
+-1 -1 -1 -1
+FI 0 0 0
+standing standing male 1400
+AHMV ABCDEFGHIJK S 0
+#29208
+faerie drunken~
+a drunken faerie~
+A drunken faerie snores happily on the floor.
+~
+The drunken faerie lies nude on the floor, snoring 
+happily away.  Looks like somebody is playing a 
+practical joke on him.
+~
+human~
+AB R 0 0 
+0 9 0 2d6+110 1d10+100 1d8+2 0
+3 3 3 3
+F 0 0 0
+sleeping sleeping male 900
+AHMV ABCDEFGHIJK S 0
+#29209
+twinkletoes bartender faerie~
+Twinkletoes~
+A faerie bartender is here, serving up faerie wine and finger food.
+~
+Twinkletoes is a fierce, old looking brownie. 
+Maybe you should leave her alone.
+~
+human~
+AB DFHN 0 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDEFHIJK ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+standing standing female 0
+AHMV ABCDEFGHIJK T 0
+#29220
+beast ravening~
+The ravening beast~
+A ravening beast is here, hunting for your blood!
+~
+The ravening beast stands about 1' tall at the shoulder, and measures
+10' from nose to tail. It resembles a monitor lizard, only its furry,
+has a dog like snout, perky ears, and 6 legs, and has many more long
+sharp nasty teeth.
+~
+lizard~
+AFG F -400 0 
+0 35 3 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+DFKR A GL I
+standing standing either 3500
+AGXc ACDEFHKQV L 0
+#29221
+hag gelda~
+The hag Gelda~
+An old hag is here predicting dire consequences for you.
+~
+The hag is dressed in rags, has long tangled matted gray hair, and is
+very old. The hag tells you 'I see you enter a fire and fight a great
+battle with a minion of hell, and you die horribly!' . With that the
+hag breaks into an ugly fit of laughter.
+~
+human~
+ABCGQ DJ 0 0 
+0 33 2 10d10+1100 1d10+330 6d4+10 0
+-11 -11 -11 -11
+ACDEI A E 0
+standing standing female 3300
+AHMV ABCDEFGHIJK M 0
+#29222
+guard woodsman~
+The woodsman guard~
+A woodsman guard is here, manning his post.
+~
+The guard has a large war axe, a heavy hide cloak, and a longbow. He
+blends in with the surrounding terrain from years of experience. He
+tells you 'Beware of the Murkmire, because just recently the town of
+Dunkeldorf lost 10 men in the forest. Also ware the ravening beasts
+running loose in the forest. Avoid the hag. Is there any chance of you
+hiring on to help defend Dunkeldorf?'.
+~
+human~
+ABG NQ 500 0 
+0 35 3 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+DFKR A G 0
+standing standing male 3500
+AHMV ABCDEFGHIJK M 0
+#29223
+lumberjack~
+The lumberjack~
+A lumberjack is here, smelling of sap and sweat.
+~
+The lumberjack is a tall human, equipped with rugged clothing and
+carrying a lumber axe. He sees you and asks 'Have you come from the
+forest? You have? Is it safe again in the forest?
+~
+human~
+AG 0 400 0 
+0 35 3 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+DFKR A G 0
+standing standing male 3500
+AHMV ABCDEFGHIJK M 0
+#29224
+al grocer~
+Al the grocer~
+A grocer is here, ready to fill your order.
+~
+Al is 5'10", fat, and balding. His nose twitches at the thought of
+selling you stuff. You get to talking with him, and find out that he is
+a very frightened man. Mainly he fears that whatever attacked in the
+woods will strike town next. He gets to talking of the glory days of
+Dunkeldorf, before everyone started disappearing.
+~
+human~
+ABG 0 450 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29225
+mark miller~
+Mark the miller of Dunkeldorf~
+The miller of Dunkeldorf stands here, covered in sawdust.
+~
+Mark the miller is a thick stocky, hairy man. He carries himself with
+great confidence and precision. You talk with him for a while, and he
+tells you that he has had a dream of you visiting a strange white
+temple and fighting the guardian there. He wishes you luck and
+godspeed.
+~
+human~
+ABG 0 550 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29226
+hans smith village~
+Hans the smith of Dunkeldorf~
+The smith of Dunkeldorf is here, fanning the fires of his furnace.
+~
+Hans is a very strong human, almost as strong as they run. He is in his
+late 40's and has jet black hair and a beard. You get to talking with
+Hans, and the conversation turns to iron. Hans tells you that he used
+to get iron from the old mine in the Murkmire, but the cave has long
+since collapsed and become unstable, so now he trades for it.
+~
+human~
+ABG 0 600 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29227
+fritz innkeeper~
+Fritz the innkeeper of the Dunkeldorf inn~
+The innkeeper is here, taking orders and singing in a clear tenor.
+~
+Fritz the innkeeper is a short human, standing a mere 5' tall. He makes
+up for it with a high energy level and animated conversation. Fritz
+tells you a sad tale about his mad sister Gelda running off into the
+forest one night, naked screaming, and never to return.
+~
+human~
+ABG 0 700 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29228
+libby trader halfling~
+Libby the halfling trader~
+A halfling trader is here, with news and song from the shire.
+~
+Libby is a wee little guy, with a plump rounded figure, and a huge
+satchel full of curiosities. He sings for you a song of life in the
+shire, and of longbottom leaf.
+~
+dwarf~
+AGS J 300 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A LQ R
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29229
+snake rock~
+The giant rock snake~
+A giant gray scaled snake is here, hissing at you!
+~
+The rock snake is some 20' long and 1' in diameter, enough muscle to
+crush an ox. Its rounded head gives it away as a non poisonous
+constrictor.
+~
+snake~
+AFG 0 0 0 
+0 38 5 10d10+1600 1d10+100 5d6+12 0
+-13 -13 -13 -13
+ACDHKR A KL I
+standing standing either 3800
+AGXYc ADEFKLQVX L 0
+#29230
+guardian temple white being~
+The guardian of the white temple~
+A being in white robes and glowing with a bright white light stands
+here!
+~
+The guardian of the white temple appears human, as your eyes adjust to
+the light emanating from him. He tells you the following tale:
+
+'When I was an able boy of 18, I worked for my dad in the mine. One day
+I struck out in a new direction, and broke through to this green meadow
+here. I followed the meadow to this temple and found an aged warrior
+here garbed as I am now. He gave me this sickle and robe and froze me
+to this spot. He told me that my task was to wait for the day when a
+hero would step forth from the mine, and if that hero should prove
+worthy, you may find release. He said the exit would be hidden from all
+but the chosen ones. You have come through. Show me you are worthy
+hero, and best me in combat. The forces of evil rise again, and the
+land sings out for a champion. Can you not hear her singing through the
+temple? Strike now and prove yourself worthy. If you win seek knowledge
+in the runes of the sickle and save the cross for dire need. May god be
+with you.'
+~
+human~
+ABG H 1 0 
+0 45 4 25d10+3000 1d10+100 4d8+15 0
+-15 -15 -15 -15
+ACDFIK A 0 0
+standing standing male 4500
+AHMV ABCDEFGHIJK M 0
+#29231
+witch woman~
+The witch~
+A woman in an ink black robe is here, speaking in a hissing tongue.
+~
+The witch looks harried and driven. Her eyes dance wildly, and she
+cackles at you with an insane glee.
+~
+human~
+AFGQ D -700 0 
+0 38 4 10d10+1600 1d10+380 5d6+13 0
+-13 -13 -13 -13
+ABCDEFK AB I 0
+standing standing female 3800
+AHMV ABCDEFGHIJK M 0
+#29232
+warlock man~
+The warlock~
+A man in an ink black robe is here, chanting in a hissing tongue.
+~
+The warlock looks harried and driven. His eyes dart wildly, and he
+cackles with an insane glee.
+~
+human~
+AFGR D -800 0 
+0 40 4 25d10+2000 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIK A 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#29233
+leader man coven~
+The coven leader~
+A man in a blood red robe is here, glaring at you and howling for your
+blood!
+~
+The coven leader looks harried and driven. His eyes dart wildly, and he
+cackles with an insane glee.
+~
+human~
+AFGR DF -900 0 
+0 50 7 50d10+4500 1d10+550 5d8+19 0
+-20 -20 -20 -20
+ADEFHIKR AB C 0
+standing standing male 5000
+AHMV ABCDEFGHIJK M 0
+#29234
+beast minion hell flaming~
+The flaming beast from hell~
+A minion of hell is here, sputtering flame from its foul rod!
+~
+The minion of hell is manlike, and flaming. It has horns and a horribly
+disfigured face. Its skin is beet red, and his fingers and toes end in
+terrible talons. It looks at you, and with a fiery laughter, it says:
+'So, you are foolish enough to enter the circle. You may win this
+battle, but you will not stop our plan!'
+~
+demon~
+ABFG DFHJTc -1000 0 
+0 35 3 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+DFKR A BGHILT N
+standing standing either 3500
+ABHMV ABCDEFGHIJKU L 0
+#0
+
+
+
+#OBJECTS
+#29201
+rhyme catchy little~
+a catchy little rhyme~
+There is a tiny rolled up paper lying on the ground.~
+paper~
+scroll AG AO
+10 'faerie fog' '' '' ''
+6 40 200 P
+E
+rhyme catchy little~
+You look at the rhyme. It reads:
+-
+Turn your clothes inside out
+Circle three times and shout
+Iron and cross, make you be
+Revealed to all, and to me
+~
+#29202
+light twinkle twinkling ball~
+a *twinkling* ball of light~
+A twinkling ball of light sparkles here!~
+light~
+armor AGI AO
+0 0 -1 0 0
+15 40 950 P
+A
+4 1
+A
+3 1
+A
+18 1
+A
+19 1
+#29203
+belt sprite~
+a sprite belt~
+A loop of rainbow thread lies here.~
+cotton~
+armor FM AL
+6 5 4 5 1
+12 20 150 P
+A
+24 -3
+#29204
+bracer brownie~
+a brownie bracer~
+An earthen colored band lies here.~
+stone~
+armor G AM
+6 5 4 4 1
+13 20 175 P
+A
+2 1
+A
+13 8
+#29205
+vial moonlight bottled~
+a vial of bottled moonlight~
+A vial of sparkling liquid emits a soft white glow.~
+glass~
+potion AG AO
+15 'fly' 'cure poison' 'cure critical' ''
+11 50 600 P
+#29206
+robe gossamer~
+a gossamer robe~
+A gossamer robe sparkles with a pale white glow!~
+gossamer~
+armor IM AK
+6 5 5 5 1
+15 70 550 P
+A
+12 10
+A
+24 -2
+#29207
+moonbeam~
+a moonbeam~
+A sparkling pale light ray glows here!~
+moonbeam~
+weapon AF AN
+exotic 6 3 pierce 0
+15 180 675 P
+A
+18 1
+A
+19 2
+#29208
+wine goblet faerie~
+a goblet of faerie wine~
+A crystal goblet filled with a sparkling wine is here.~
+glass~
+potion G A
+10 'change sex' 'invisibility' 'cure blindness' ''
+10 50 200 P
+#29209
+britches dirty~
+a pair of dirty britches~
+A pair of dirty britches lies here. Get the laundry soap.~
+cloth~
+armor C AF
+6 4 4 5 1
+14 40 400 P
+A
+13 10
+A
+18 1
+A
+23 -1
+#29210
+key sparkling~
+a sparkling key~
+A sparkling key glistens on the ground.~
+crystal~
+key BG AO
+0 0 0 0 0
+13 10 0 P
+#29211
+cloak dirty~
+a dirty cloak~
+A dirty cloak lies here. Ugh! Get the laundry soap.~
+cloth~
+armor C AD
+6 5 4 4 1
+14 40 300 P
+A
+2 1
+A
+1 1
+#29212
+wand blue diamond~
+a blue diamond wand~
+A wand with a huge blue diamond on it is just lying here! Pick it up!~
+diamond~
+wand G AO
+14 12 12 'create food' 0
+14 50 150 P
+E
+diamond blue~
+They're magically delicious!
+~
+#29213
+gold~
+whoooooopie! Gold!~
+A rainbow ends at this pot of gold!~
+gold~
+money A AO
+5000 0 0 0 0
+5 0 0 P
+#29214
+food finger~
+delicious finger food~
+A delicious little plate of scrumptious finger foods lies beckons to you.~
+food~
+food 0 A
+24 24 0 0 0
+0 10 10 P
+#29220
+sickle golden~
+the golden sickle~
+A golden sickle with wedge shaped runes lies here.~
+gold~
+key I AO
+0 0 0 0 0
+45 10 0 P
+E
+runes rune~
+You look at the runes. A warm glow fills you and you hear an inner
+voice speaking to you. It says ' Go s, 2w, 2s, and 4e from the white
+temple. Use me on the eastern brush and stop the coven!'
+~
+#29221
+shovel stout sturdy~
+a stout sturdy shovel~
+A stout sturdy shovel lies here.~
+wood~
+key 0 AO
+0 0 0 0 0
+40 10 10 P
+#29222
+creek swift swiftly flowing~
+a swiftly flowing creek~
+A swiftly flowing creek is here, running with cool clean water.~
+water~
+fountain 0 0
+10000 10000 'water' 0 0
+10 10 0 P
+#29223
+pilsner beer~
+a nice cold, wimpy pilsner~
+A nice cold glass of yellow beer is here.~
+glass~
+drink 0 AO
+1 1 'beer' 0 0
+1 20 5 P
+#29224
+dunkel beer~
+a nice cold manly dunkel~
+A nice cold glass of brown beer is here.~
+glass~
+drink 0 AO
+1 1 'beer' 0 0
+1 20 10 P
+#29225
+grub plate local~
+a plate of the local grub~
+A hot steaming plate of the local grub is here! Yummy!~
+food~
+food 0 AO
+12 10 0 0 0
+3 10 8 P
+#29226
+key room~
+a room key~
+A room key is here, and it has a picture of a full mug on it.~
+steel~
+key 0 AO
+0 0 0 0 0
+1 20 10 P
+#29227
+amulet flaming~
+the flaming amulet~
+A flaming amulet is here, searing the ground.~
+bronze~
+key 0 AC
+0 0 0 0 0
+35 10 10 P
+#29228
+root mandrake~
+a mandrake root~
+A mandrake root is here.~
+root~
+pill 0 AO
+30 'detect hidden' '' '' ''
+33 30 300 P
+#29229
+axe woodsmans~
+a woodsman's axe~
+A large axe stained with tree sap is here.~
+steel~
+weapon 0 AN
+axe 10 4 cleave 0
+35 210 1000 P
+A
+18 3
+A
+19 1
+#29230
+cloak woodsmans~
+a woodsman's cloak~
+A forest colored cloak is here~
+cloth~
+armor 0 AD
+12 11 11 12 2
+35 30 700 P
+A
+13 35
+A
+17 -10
+#29231
+cross white marble~
+a white marble cross~
+A white marble cross is here.~
+marble~
+staff AIKL AO
+35 3 3 'sanctuary' 0
+45 150 15000 P
+#29232
+robe ink black~
+an ink black robe~
+An ink black robe is here, beckoning to you. Put it on! Ha Ha Ha ....~
+cloth~
+armor CEHJM AD
+13 12 13 13 2
+40 130 500 P
+A
+4 -2
+A
+12 50
+#29233
+band black~
+a black rune band~
+A band of black metal engraved with runes is here.~
+onyx~
+armor CEHJM AM
+15 15 14 14 2
+50 70 1300 P
+A
+12 50
+A
+13 -20
+A
+24 -10
+E
+rune runes~
+As you look at the runes, you feel an incredible heat surge toward you,
+trying to consume you! Your sight is filled with a fire and flames of
+souls in terrible torment. Gradually the flames diminish, leaving only a
+green after image of a pentagram.
+~
+#29234
+rod black~
+a black rune covered rod~
+A black rune covered rod~
+steel~
+wand CEHJM AO
+35 8 8 'fire breath' 0
+35 70 1700 P
+E
+rune runes~
+As you look at the runes, you feel an incredible heat surge toward you,
+trying to consume you! Your sight is filled with a fire and flames of
+souls in terrible torment. Gradually the flames diminish, leaving only a
+green after image of a pentagram.
+~
+#29235
+ring fire~
+a ring of fire~
+A ring of fire is here, smoldering on the ground.~
+fire~
+armor A AB
+12 12 13 11 3
+35 20 900 P
+A
+23 -3
+A
+24 -3
+A
+12 10
+#29236
+pick~
+a pick~
+A pick is here.~
+steel~
+weapon 0 AN
+axe 9 3 cleave 0
+24 100 75 P
+#29237
+horseshoe shoe~
+a horseshoe~
+A horseshoe is here, lying on the ground. Maybe today is your lucky
+day?~
+steel~
+trash 0 AO
+0 0 0 0 0
+3 50 10 P
+#29238
+rope~
+fifty feet of rope~
+A huge coil of rope is here.~
+rope~
+trash 0 AO
+0 0 0 0 0
+10 150 75 P
+#29239
+potion invisibility~
+a potion of invisibility~
+A glass jar of a clear fluid is here.~
+glass~
+potion 0 AO
+30 '' 'invisibility' '' ''
+1 40 300 P
+#29240
+robe ink black~
+an ink black robe~
+An ink black robe is here, beckoning to you. Put it on! Ha Ha Ha ....~
+cloth~
+armor CEHJM AD
+15 14 14 15 3
+50 150 900 P
+A
+4 -2
+A
+12 75
+#0
+
+
+
+#ROOMS
+#29201
+Forest Clearing~
+You stand in a grassy clearing in the forest.  Moonlight causes the 
+shadows to move in an eerie dance.  There is a strange circle of mushrooms 
+about 30' in diameter in the center of the clearing.
+~
+0 4 3
+E
+mushrooms circle~
+You look at the mushroom circle. You see tiny footprints and the faint 
+outline of a trap door in the center of the ring.
+~
+D0
+~
+~
+0 0 1
+D3
+~
+~
+0 0 416
+D5
+A small trap door~
+door trap~
+1 -1 29202
+M100 H100
+S
+#29202
+Entrance Hall~
+You are in a cramped, low ceiling tunnel. Roots dangle overhead and 
+caress you.  There are tiny doors to the north, south and west, which you 
+think you could crawl your way into.  A ladder fashioned of woven roots 
+leads up.  You hear sounds of a raucous celebration to the east.
+~
+0 8 0
+D0
+A tiny door~
+door tiny~
+1 -1 29203
+D1
+A smoky hallway~
+~
+0 -1 29204
+D2
+A tiny door~
+door tiny~
+1 -1 29205
+D3
+A tiny door~
+door tiny~
+1 -1 29206
+D4
+A small trap door~
+door trap~
+1 -1 29201
+M100 H100
+S
+#29203
+Puck's Room~
+You are hunched over in Puck's room.  You know this by the sign 
+that says "Pucks stuff- keep your grubby hands off".  There is a 
+bed of forest leaves, some rude hollowed out shelves, a tiny table 
+with a half full jack of ale, and a great pile of junk beneath the sign.
+~
+0 8 0
+E
+sign~
+The sign says: "Puck's stuff- keep your grubby hands off"
+~
+D2
+A tiny door~
+door tiny~
+1 -1 29202
+M100 H100
+S
+#29204
+Little People's Bar and Grill~
+You squeeze into the famous Little People's Bar and Grill!  Conversation
+abruptly stops as you enter.  Around you little people are drinking from
+beautifully crafted crystal glasses.  The smoke is thick and buoys your
+spirits.  Maybe you should stay a while and try the faerie wine?   A low 
+tunnel heads west, and you hear a thunderous racket coming from the east.
+~
+0 8 0
+D1
+Towards the racket~
+~
+0 -1 29207
+D3
+A smoky hallway~
+~
+0 -1 29202
+M100 H100
+S
+#29205
+Snooze Den~
+You hunker in the snooze den. A large sign is on the wall. Many little 
+people lie collapsed in drunken heaps about this large room.  To the 
+north is a tiny door.
+~
+0 8 0
+E
+sign~
+The sign says 'Close the door, stupid'~
+D0
+A tiny door~
+door tiny~
+1 -1 29202
+M100 H100
+S
+#29206
+Guarded Burrow~
+You are once again hunched over in a earthy burrow.  There is sign 
+of much passage through here, many little feet have packed the 
+dirt hard.  To the east lies a door, and to the south is a normal 
+sized door.
+~
+0 8 0
+D1
+A tiny door~
+door tiny~
+1 -1 29202
+D2
+A normal sized door~
+door normal~
+1 29210 29208
+M100 H100
+S
+#29207
+Bowling Alley~
+You are hunched over in a bowling alley!  Little people are rolling 
+round objects down grooved tracks at long white targets.  The whole 
+cave echoes in a dreadful crash each time they hit the targets! 
+Oh you wish you had that glass of faerie wine.  To the west is the 
+Little People's Bar and Grill. 
+~
+0 8 0
+E
+round objects~
+You look at the round objects. Each object is a human head! Yikes!
+~
+E
+targets white~
+You look carefully at the white targets and discover they are 
+human bones!
+~
+D3
+Little People's Bar and Grill~
+~
+0 -1 29204
+M100 H100
+S
+#29208
+Hall of the Faerie Queen~
+You stand in the hall of the Faerie Queen.  Rainbow colors dance 
+across the room in a colorful display.  Faerie folk flutter furiously 
+fanning forge fires.  Say that 3 times fast.  Maybe you should have had 
+that faerie wine. 
+~
+0 8 0
+E
+forge fires~
+They are being fanned furiously by fluttering faerie folk.~
+D0
+A normal sized door~
+door normal~
+1 29210 29206
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 29205 spec_thief Load to: Puck
+M 29206 spec_cast_mage Load to: the Faerie Queen
+S
+
+
+
+#RESETS
+D 0 29201 5 1
+D 0 29202 0 1
+D 0 29202 2 1
+D 0 29202 3 1
+D 0 29202 4 1
+D 0 29203 2 1
+D 0 29205 0 1
+D 0 29206 1 1
+D 0 29206 2 2
+D 0 29208 0 2
+M 0 29201 4 29202 1
+G 0 29201 0
+M 0 29205 1 29203 1
+E 0 29209 0 7
+E 0 29211 0 4
+O 0 29208 0 29203
+M 0 29202 3 29204 1
+G 0 29205 0
+M 0 29201 4 29204 1
+G 0 29201 0
+M 0 29203 3 29204 1
+E 0 29203 0 13
+M 0 29209 1 29204 1
+G 0 29208 0
+G 0 29214 0
+M 0 29207 1 29204 1
+G 0 29212 0
+G 0 29213 0
+M 0 29208 2 29205 1
+M 0 29208 2 29205 1
+G 0 29208 0
+M 0 29204 3 29206 1
+E 0 29204 0 14
+M 0 29204 3 29206 1
+E 0 29204 0 14
+G 0 29210 0
+M 0 29201 4 29207 1
+G 0 29201 0
+M 0 29202 3 29207 1
+G 0 29205 0
+M 0 29203 3 29207 1
+E 0 29203 0 13
+M 0 29206 1 29208 1
+E 0 29202 0 0
+E 0 29206 0 5
+E 0 29207 0 16
+M 0 29201 4 29208 1
+G 0 29201 0
+M 0 29202 3 29208 1
+G 0 29205 0
+M 0 29203 3 29208 1
+E 0 29203 0 13
+M 0 29204 3 29208 1
+E 0 29204 0 14
+S
+
+
+
+#SHOPS
+29209 1 2 3 4 18 120 80 0 23
+0
+
+
+
+#$

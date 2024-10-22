@@ -1,0 +1,141 @@
+			TSR MOBPROGRAM OLC DOCUMENT
+			---------------------------
+
+	Written on 10-2-96 by Jonathan Whitehouse. (Beowolf the Lord of Chaos)
+This document was written for the exclusive purpose for OLC mobprograms on
+The Shadow Realms MUD (TSR). This document is copyrighted by TSR and TSR owns
+all rights to it. Nuff said. 
+
+
+
+
+I.   Introduction to Mobprograms ----------------------------------------1
+II.  Getting started ----------------------------------------------------2
+III. Commands and how to use them ---------------------------------------3 
+IV.  A closing word from the author -------------------------------------4
+
+
+
+
+I. INTRODUCTION TO MOBPROGRAMS.
+
+	Welcome to the OLC building document for TSR MUD. I did not want to 
+recreate the wheel and I will not attempt to rewrite the already written 
+Mobprogram document. You will need the mobprog doc and read it and understand
+it first before you attempt to use the OLC for MOBProgs on TSR. 
+	It is my goal and my hope that this document will clarify how to
+use MOBProgs in OLC to incorporate your ideas. Now please understand that
+you have been given a very unique and powerful command. Not everyone will
+get to use this command. So feel honored. 
+	Lets start this... Once again I suggest you write down all your 
+ideas...and more importantly have the code you want to add already 
+written down on a piece of paper. So sit back drink an ice cold beer and 
+lets get busy. 
+
+II. GETTING STARTED.
+
+	First things first...You HAVE TO have read the mobprog document. If
+you have read it and understand how it works then read on. ALSO you will
+have to know how the TSR OLC works for standard OLC: ie, mobs, objs, rooms,
+resets, etc. 
+	Now that you have all of this understood and done then find your
+favorite beer bong and bong your favorite brand of beer. You deserved that!
+Good job! Hope your head is spinning now and if not...well, keep reading,
+it will be by the end of this document! heh.
+	Write down ALL of your code that you plan on creating with OLC on
+a piece of paper. Now how this works is this. You use the area vnums for YOUR
+area as vnums. So lets say you have made a mob vnum 8600...the mobprog that
+you should have is 8600 for the mobprog...or at least start with your vnums. 
+This way the mobprogs aren't scattered everywhere.
+
+
+III. COMMANDS AND HOW TO USE THEM.
+
+Here is a listing of the commands: 
+--------------------------------------------------------------------------
+mpdump                           mpedit                             mplist
+mpsave                           mpstat
+--------------------------------------------------------------------------
+
+	Now I will use the same way of describing these commands as I did
+in my OLC document. This makes a very nice manual...and its even readable 
+unless your already drunk...and I guess that makes you a LIGHTWEIGHT! heh.
+
+1.) mpdump [vnum]
+    Ex: mpdump 8600
+
+	This command will simply "dump" the contents of the mobprog to
+your screen. It will display the "mobprog code". Very handy...
+
+2.) mplist
+
+	This command simply lists all of the mobprogs on the MUD. Its very
+useful for looking to see if that vnum is taken or not before you begin.
+
+3.) mpstat [mobname]
+    Ex: mpstat puff
+
+	This command will simply show what mobprog vnum is on that mob.
+
+4.) mpedit 
+           - vnum
+	   - create vnum
+    
+    Ex1: mpedit 8600
+    Ex2: mpedit create 8600
+
+	This is the heart and soul of the olc for mobprogs. It is here you 
+will enter that code that you have written out. Its very simple to use. Inside
+this editor you will find the usual commands, show, and ? commands. You will
+also see the desc command. Simply type desc once inside the editor and type
+out your mobprog code. Be warned: Do not format it. It all works the same
+as the usual olc. 
+
+5.) mpsave
+
+	When your done with each mobprog code you have made simply type mpsave.
+This will save the code you have just wrote. 
+
+------------------------------------------------------------------------------
+
+	Now your saying COOL! That wasn't hard at all! Well its time for you
+to pull out that favorite beer bong again and bong another beer. If your a
+fast drinker you should probably have drank at least 4 beers by now. 1 beer
+while reading the intro and then you bonged a beer, drank one while reading
+the commands and now you have bonged another. I hope your feeling somewhat
+amused. I know I am.
+ 	Now comes the fun part. We get to add the mobprog code you just made
+to a mob! Woo hoo! Fire up the mobprog editor on the mob you want to add the
+mobprog code to and lets get busy. Within the mob editor you will find two
+commands as follows: addmprog and delmprog. 
+
+1.) addmprog [vnum] [trigger] [phrase]
+
+	Here ya are...You should know what each of these things are from
+reading the mobprog document. If you forget what all the triggers are simply
+type ? mpflag. Here are the flags for you just in case you want to refrence
+them here:
+	
+act	 		bribe   		death   		entry
+fight			give			greet			grall
+kill			hpcnt			random			speech
+exit			exall			delay			surr
+
+2.) delmprog #
+
+	This is really easy...when you do a show from inside your mob editor
+you will see the mobprog code section and simply type the number you want to
+delete from the mob.
+
+
+	Congrats! You have just mastered OLC for mobprogs! BONG ANOTHER BEER! 
+You should now be able to add mobprograms to TSR using OLC.
+
+IV. CLOSING WORDS FROM THE AUTHOR.
+
+	Well lets hope that you understand all of this and can say, "hey!
+Beo, you did a kick ass job on this document! I learned MOBProg OLC for
+TSR and I got drunk as well!" If you have any questions or feel that I 
+need to add anything or forgot something please feel free to let me know
+by emailing me at beowolf@moon.mat.net or drop by TSR: realms.mat.net 9000.
+Take care and finish off your beer! 

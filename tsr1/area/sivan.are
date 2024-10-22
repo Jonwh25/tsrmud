@@ -1,0 +1,890 @@
+#AREADATA
+Name        [       ] Sivan Archipelago~
+Builders    Aqmola~
+VNUMs       2600 2699
+Security    1
+End
+
+
+
+#MOBILES
+#2600
+fintooth fin~
+a fintooth~
+An extremely vicious swimming creature, all needly teeth, attacks you !!!
+~
+The fintooth circles you in the water allowing only a brief glance : its
+all teeth with a few fins and some scaly hide thrown on...  Now since it
+doesn't care who or what it eats, it's gonna eat YOU !!!!  
+~
+dragon~
+ABF BDFJTVab 0 0 
+0 50 10 7d30+200 0d0+0 4d10+20 0
+-2 -2 -2 0
+FO HPQR BEHIL CDFHI
+standing standing none 100
+AHMVZb ABCDEFGHIJKOPQUVX L unknown
+#2601
+apprentice enchanter dwarf~
+an enchanter's apprentice~
+The dwarf apprentice to the enchanter is examining something...
+~
+This rather lean young dwarf wears the robes of an apprentice to a Sivan
+Master Enchanter.  
+~
+dwarf~
+AR JN 350 0 
+0 15 3 5d30+125 16d10+100 3d5+8 0
+0 0 0 0
+F 0 LQ R
+standing standing none 10
+AHMV ABCDEFGHIJK M unknown
+#2602
+backhome~
+a backhome <gate> mobile~
+Backhome is the gate back to room mob of aqmola
+~
+~
+human~
+A HQWb 0 0 
+0 1 0 10d10+100 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+resting resting none 0
+AHMV ABCDEFGHIJK M unknown
+#2604
+enchantress sivan master~
+the enchantress~
+The enchantress is conjuring her lunch
+~
+She is very beautiful....  Why would someone that good-looking want to be
+involved in the magick arts?  It is such a dangerous professsion.... 
+Especially for the weaker sex...  Then again she cant be all that weak if
+she is a Sivan master enchatress.  
+ 
+~
+human~
+ABFR CNZ 300 0 
+0 100 10 12d562+2370 100d10+100 5d20+50 0
+-52 -52 -52 -25
+FH 0 BP E
+standing standing female 20
+AHMV ABCDEFGHIJK M unknown
+#2605
+cookfire cook demon~
+the cookfire demon~
+Something is very odd about the cookifre...
+~
+As you look deeply into the dancing flames you begin to feel drowsy
+and catch yourself leaning torwards the heat and light...
+YE GODS !!!
+ 
+This cookfire be a DEMON enslaved to roast the troops meats and taters...
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 EFGHQ B CINR
+standing standing none 0
+AEHMV ABCDEFGHIJK L unknown
+#0
+
+
+
+#OBJECTS
+#2600
+mojo pouch~
+a mojo pouch~
+A mojo pouch appears to be full of something...~
+unknown~
+container G ALO
+15 A 0 0 0
+15 2 10000 P
+A
+12 20
+#2601
+fat purple fruit~
+a purple fruit~
+A fat purplish fruit beckons you~
+unknown~
+food 0 A
+6 0 0 0 0
+1 4 40 P
+#2602
+bush~
+bush~
+Abush with very few leaves tries to make it on the beach. It doesnt appear to be in great shape but it sometimes bears fruit.~
+unknown~
+container 0 0
+12 0 0 0 0
+0 16960 0 P
+#2603
+warding ward cube~
+a warding cube~
+A perfect white cube with black markings~
+unknown~
+key G AO
+0 0 0 0 0
+15 0 10000 P
+#2604
+firebrand fire brand~
+a firebrand~
+The fire here doesn't seem to consume the wood....Would it burn you if you put your hand in it?~
+unknown~
+weapon G ANO
+exotic 6 13 blast A
+75 10 10000 P
+A
+5 -1
+A
+18 3
+A
+19 3
+E
+firebrand~
+On closer inspection you discover its not even a stick of wood burning...
+but rather a object made purely of ELEMENTAL fire!
+~
+#2605
+harness sivan battle~
+a Sivan battle harness~
+A pair of crossover straps connected to a waistband looks sturdy and useful~
+unknown~
+container 0 AK
+30 E 0 120 0
+0 5 50 P
+A
+19 2
+A
+14 -5
+A
+18 1
+#2606
+mat reed~
+a reed mat~
+The reed mat looks like a good place to sleep...~
+unknown~
+furniture G A
+1 500 1168 150 200
+0 40 2000 P
+#2607
+belt fertility~
+belt of fertility~
+A purplish belt adorned with fertility symbols would look real sharp on you...~
+unknown~
+armor B AL
+20 20 20 30 0
+100 2 100 P
+A
+2 2
+#2608
+torque Indigo~
+an Indigo Torque~
+A gorgeous torque carved from some Indigo jewel-like substance is glowing faintly~
+unknown~
+armor A AC
+20 20 20 25 0
+100 0 100 P
+A
+1 1
+A
+12 20
+#2609
+robes warlock indigo~
+the indigo robes~
+The warlocks robes were magickally carved from some strange indigo-colored stone~
+unknown~
+armor A AK
+20 20 20 15 0
+100 3 85 P
+A
+2 1
+A
+12 30
+#2610
+indigo brow gem~
+an indigo brow-gem~
+A small rectangular shaped gem has a purplish glow~
+unknown~
+armor AI AE
+15 15 15 15 0
+100 1 125 P
+A
+12 20
+A
+3 2
+A
+4 2
+#2611
+no name~
+an indigo gem~
+A ring carved from a solid piece of purplish gemstone looks valuable~
+unknown~
+armor A AB
+5 5 5 15 0
+100 1 150 P
+A
+18 2
+A
+5 2
+#2612
+slippers balance~
+the Slippers of Balance~
+A pair of leather and silk slippers embroidered in silver and encrusted in amethyst would adorn some worthy feet~
+unknown~
+armor BG AG
+20 20 20 10 0
+100 2 200 P
+A
+2 2
+#0
+
+
+
+#ROOMS
+#2600
+shallow water near the beach~
+~
+0 0 6
+D1
+~
+~
+0 0 2601
+D3
+~
+~
+0 0 464
+M100 H100
+S
+#2601
+A beach on the island~
+~
+0 0 0
+D1
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2635
+D3
+~
+~
+0 0 2600
+M100 H100
+S
+#2602
+the island jungle~
+~
+0 0 3
+D2
+~
+~
+0 0 2608
+D3
+~
+~
+0 0 2601
+M100 H100
+S
+#2603
+island clearing~
+~
+0 0 3
+D1
+~
+~
+0 0 2607
+D2
+~
+~
+0 0 2609
+D3
+~
+~
+0 0 2614
+D5
+~
+~
+0 0 2611
+M100 H100
+S
+#2604
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2605
+D2
+~
+~
+0 0 2607
+M100 H100
+S
+#2605
+the beach behind the hut~
+~
+0 0 0
+D1
+~
+~
+0 0 2616
+D3
+~
+~
+0 0 2604
+M100 H100
+S
+#2606
+~
+~
+0 4 0
+M100 H100
+S
+#2607
+inside the hut~
+~
+0 0 0
+D2
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 2603
+M100 H100
+S
+#2608
+the southern beach~
+~
+0 0 0
+D1
+~
+~
+0 0 2612
+D3
+~
+~
+0 0 2635
+M100 H100
+S
+#2609
+pile of rocks by the shore~
+~
+0 0 0
+D3
+~
+~
+0 0 2615
+M100 H100
+S
+#2610
+the north beach~
+~
+0 0 10
+D2
+~
+~
+0 0 2618
+D3
+~
+~
+0 0 2642
+M100 H100
+S
+#2611
+the hill before a clearing~
+~
+0 0 0
+D2
+~
+~
+0 0 2614
+D3
+~
+~
+0 0 2618
+D4
+~
+~
+0 0 2603
+M100 H100
+S
+#2612
+the verge of the island jungle~
+~
+0 0 0
+D2
+~
+~
+0 0 2636
+D3
+~
+~
+0 0 2608
+M100 H100
+S
+#2613
+the heart of the island jungle~
+~
+0 0 3
+D1
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2612
+D4
+~
+~
+0 0 2638
+M100 H100
+S
+#2614
+the island jungle~
+~
+0 0 0
+D1
+~
+~
+0 0 2603
+D2
+~
+~
+0 0 2615
+D3
+~
+~
+0 0 2613
+M100 H100
+S
+#2615
+a single bush~
+~
+0 0 3
+D1
+~
+~
+0 0 2609
+D2
+~
+~
+0 0 2640
+M100 H100
+S
+#2616
+shallows between islands~
+~
+0 0 0
+D1
+~
+~
+0 0 2617
+D2
+~
+~
+0 0 2620
+D3
+~
+~
+0 0 2605
+M100 H100
+S
+#2617
+shallows between islands~
+~
+0 0 6
+D1
+~
+~
+0 0 2634
+D2
+~
+~
+0 0 2619
+D3
+~
+~
+0 0 2616
+D4
+~
+~
+0 0 464
+M100 H100
+S
+#2618
+inside the jungle~
+~
+0 0 3
+D1
+~
+~
+0 0 2611
+D2
+~
+~
+0 0 2613
+M100 H100
+S
+#2619
+path through the Gap~
+~
+0 8 1
+D2
+~
+~
+0 0 2621
+M100 H100
+S
+#2620
+deep dangerous waters~
+~
+0 4 0
+D1
+~
+~
+0 0 2630
+M100 H100
+S
+#2621
+Blackcliff island secret garrison~
+~
+0 0 1
+D1
+~
+~
+0 0 2624
+D2
+~
+~
+0 0 2622
+M100 H100
+S
+#2622
+by the central fire pit~
+~
+0 0 0
+D1
+~
+~
+0 0 2623
+D3
+~
+~
+0 0 2625
+D4
+~
+~
+0 0 2627
+D5
+~
+~
+0 0 2643
+M100 H100
+S
+#2623
+the soldiers day room~
+~
+0 0 0
+D3
+~
+~
+0 0 2622
+M100 H100
+S
+#2624
+barricks for the garrison soldiers~
+~
+0 0 0
+D2
+~
+~
+0 0 2623
+D3
+~
+~
+0 0 2621
+M100 H100
+S
+#2625
+a simple chapel~
+~
+0 0 0
+D1
+~
+~
+0 0 2622
+D2
+The door here has been carved from the very cliff itself.  It is black as
+night and covered in runes and glyphs, which appear to be magickally warding
+the room inside.  
+~
+rune~
+0 2603 2626
+M100 H100
+S
+#2626
+the enchanter's sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 2625
+M100 H100
+S
+#2627
+stairs carved from the black cliffwall~
+~
+0 0 0
+D1
+~
+~
+0 0 2628
+D3
+~
+~
+0 0 2629
+D4
+~
+~
+0 0 2630
+D5
+~
+~
+0 0 2622
+M100 H100
+S
+#2628
+Garrison Headquaters~
+~
+0 0 0
+D3
+~
+~
+0 0 2627
+M100 H100
+S
+#2629
+a cave filled with supplies~
+~
+0 0 0
+D1
+~
+~
+0 0 2627
+M100 H100
+S
+#2630
+stairs leading up to the cliff-top~
+~
+0 0 1
+D3
+~
+~
+0 0 2620
+D4
+~
+~
+0 0 2631
+D5
+~
+~
+0 0 2627
+M100 H100
+S
+#2631
+Peak of Blackcliff~
+~
+0 8 0
+D1
+~
+~
+0 0 2632
+D5
+~
+~
+0 0 2630
+M100 H100
+S
+#2632
+soaring...~
+~
+0 0 9
+D1
+~
+~
+0 0 2653
+D3
+~
+~
+0 0 2631
+D5
+~
+~
+0 0 2633
+M100 H100
+S
+#2633
+about to drown~
+~
+0 0 6
+D4
+~
+~
+0 0 2632
+M100 H100
+S
+#2634
+deep dangerous waters~
+~
+0 0 0
+D3
+~
+~
+0 0 2617
+M100 H100
+S
+#2635
+beach~
+~
+0 0 0
+D1
+~
+~
+0 0 2608
+M100 H100
+S
+#2636
+beach~
+~
+0 0 10
+D1
+~
+~
+0 0 2640
+D2
+~
+~
+0 0 2637
+M100 H100
+S
+#2637
+shallows south of island~
+~
+0 4 6
+M100 H100
+S
+#2638
+atop the mojo tree~
+~
+0 0 3
+D5
+~
+~
+0 0 2613
+M100 H100
+S
+#2639
+darkness of the jungle~
+~
+0 0 0
+D2
+~
+~
+0 0 2613
+M100 H100
+S
+#2640
+more beach...~
+~
+0 0 10
+D3
+~
+~
+0 0 2636
+M100 H100
+S
+#2641
+shallows by north beach~
+~
+0 0 0
+D2
+~
+~
+0 0 2611
+M100 H100
+S
+#2642
+northern shore~
+~
+0 0 0
+D1
+~
+~
+0 0 2610
+D2
+~
+~
+0 0 2601
+M100 H100
+S
+#2643
+cooking next to the fire pit~
+~
+0 0 0
+D4
+~
+~
+0 0 2622
+M100 H100
+S
+#2653
+fliers field - Merinth isle~
+~
+0 0 0
+D3
+~
+~
+0 0 2632
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 2602 0 2615
+P 0 2601 0 2602 1
+P 0 2601 0 2602 1
+P 0 2601 0 2602 1
+M 0 2600 1 2620 1
+M 0 2601 1 2625 1
+E 0 2603 0 17
+M 0 2604 1 2626 1
+M 0 2600 1 2634 1
+O 0 2600 0 2638
+M 0 2605 1 2643 1
+O 0 2604 0 2643
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

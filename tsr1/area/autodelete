@@ -1,0 +1,60 @@
+#!/usr/local/bin/perl
+#
+# Player file cleaner.  See below for specifics.
+#
+# Written by Brian Moore for Rivers of MUD, Copyright 1995
+# Free usage of this script and derivatives is allowed for any Merc based
+# MUD provided the original Merc and Diku licenses are followed and these
+# credits remain intact, excepting the use by the implementors of 
+# Moosehead SLED, Sheryl Stover, and Kris Carlgren who must contact 
+# me for licensing.
+#
+# This is substantially faster than standard find commands (due
+# to a hell of a lot less forking: none) and is also a lot more
+# flexible.
+#
+
+require "find.pl";
+
+# Traverse desired filesystems
+
+undef $/;      # so we can read the file into one string
+$* = 1;        # allow the ^ and $ to act normal still
+
+# Change the following to your player directory if its different for some
+# reason.
+
+&find('../player');
+exit;
+
+#
+# Below is all the selection code.  Change if your needs are different.
+#
+sub wanted {
+    if (int(-M $_) < 20)  { return; }      # give everyone a week
+    open(FILE, $_);                        # open the pfile
+    ($test = <FILE>);                      # read the whole file into $test
+
+# Ugly, eh?  Search for the ^Levl line and parse of the level number
+# into $level.
+
+    ($level) = ($test =~ (/^Levl ([0-9]{1,3})$/o));
+
+# Now the next line could be fun: just change it to whatever level selection
+# you want to use.  Yes, you could even allow for variable purge rates
+# with no significant overhead.
+    if (int(-M $_) > ( (int($level/2) + 1) * 2)) {
+
+# Do our thing: as set up below, just print.  Or switch the # down
+# a line to make it delete.  You may wish to make it just mv the file
+# to a save directory where you can tar/gzip it for backups, or whatever.
+
+#        print ("$_ is level $level.\n");      # just informational or:
+       (unlink($_) || warn "$name: $!\n");    #   nuke-o-rama
+    }
+# that's it.
+}
+
+
+
+

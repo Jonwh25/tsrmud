@@ -1,0 +1,2900 @@
+#AREADATA
+Name        [??? ???] City of Thenia~
+Builders    Raff Sotha~
+VNUMs       1900 1999
+Security    8
+End
+
+
+
+#MOBILES
+#1900
+dragonrider guard~
+dragonrider guard~
+DragonRider Guard is guarding the gate
+~
+This towering well built guard is guarding the main entrance to the city,
+he watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHc -1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 4
+EFHNU AB HI JP
+standing standing none 10
+AHMV ABCDEFGHIJK H unknown
+#1901
+DragonRider Guard~
+dragonrider guard~
+DragonRider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHc -1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 4
+EFHNU AB HI JP
+standing standing none 10
+AHMV ABCDEFGHIJK H unknown
+#1902
+dragonrider guard~
+dragonrider guard~
+DragonRider Guard is here
+~
+~
+giant~
+AB DEFHc -1 0 
+0 20 5 6d45+245 20d100+100 4d5+10 0
+-2 -2 -2 4
+EFHNU AB HI JP
+standing standing none 10
+AHMV ABCDEFGHIJK M unknown
+#1903
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1904
+dragonrider guard~
+dragonrider guard~
+DragonRider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHJc -1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 4
+EFHNU AB HI JP
+standing standing none 10
+AHMV ABCDEFGHIJK H unknown
+#1905
+dragonrider guard~
+dragonrider guard ~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHJc -1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 3
+EFHNU AB HI JP
+standing standing none 20
+AHMV ABCDEFGHIJK H unknown
+#1906
+dragonrider guard~
+dragonrider guard~
+DragonRider Guard
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHJc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 2
+EFHNU AB HI JP
+standing standing none 20
+AHMV ABCDEFGHIJK H unknown
+#1907
+dragonrider guard~
+dragonrider guard~
+DragonRider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DFHJTc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 20
+AHMV ABCDEFGHIJK H unknown
+#1908
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DFHJc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+-2 -2 -2 2
+EFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK H unknown
+#1909
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHJTc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK H unknown
+#1910
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard 
+~
+giant~
+AB CDHJc 1 0 
+0 0 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 20
+AHMV ABCDEFGHIJK H unknown
+#1911
+dragon rider guard~
+dragonrider guard ~
+Dragonrider Guard is here
+~
+This towering well build guard is on duty guarding the city
+of Thenia. He watches you with a keen eye making sure your not
+breaking any laws. He is wearing the standard equipment
+for dragonriders.
+~
+giant~
+AB DEFHJTc 0 0 
+0 0 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK H unknown
+#1912
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing standard equipment for dragonriders.
+~
+giant~
+AB DEFHJc 1 0 
+0 20 0 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK H unknown
+#1913
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia
+He watches you with keen eye making sure your not breaking any laws. He
+is wearing the standard equipment for dragonrider.
+~
+giant~
+AB DEFHJTc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+EFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK H unknown
+#1914
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here.
+~
+This twoering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws
+He is wearing standard equipment for dragonriders.
+~
+giant~
+AB DEFHJc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+DEFHNU AB HI JP
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1915
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here
+~
+This towering well built guard is on duty guarding the city of Thenia.
+He watches you with keen eye making sure your not breaking any laws.
+He is wearing the standard equipment for dragonriders.
+~
+giant~
+AB DEFHJTc 1 0 
+0 20 5 6d45+244 20d100+100 4d5+10 0
+0 0 0 0
+DEFHNO AB HI JP
+standing standing none 20
+AHMV ABCDEFGHIJK H unknown
+#1916
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here standing guard.
+~
+This towering well built guard is on duty guarding the city Thenia.
+He watches you with keen eye making sure your not breaking any laws.
+He is wearing the standard equipment for dragonguard.
+~
+giant~
+AT DEFHJVac -1000 0 
+0 30 9 6d24+244 30d100+100 6d5+12 0
+0 0 0 0
+0 AB HI JP
+standing standing none 30
+AHMV ABCDEFGHIJK M unknown
+#1917
+dragonrider commander~
+dragonrider commander~
+Dragonrider Commanders is here.
+~
+This towering well built commander is overseeing the guards of the
+city of Thenia. He watches you with a keen eye making sure your
+note breaking any laws. He is wearing slightly better equipment then
+the guards under him.
+~
+giant~
+A DEFHJTVc 0 0 
+0 30 10 6d33+277 30d100+100 6d5+12 0
+0 0 0 0
+DEFHJOU AB HI JP
+standing standing none 50
+AHMV ABCDEFGHIJK H unknown
+#1918
+dragonrider general~
+dragonrider general~
+Dragonrider General is asleep
+~
+These's well armored generals are fast asleep, with all the regular
+guards they have nothing to do but sleep. You notice the armor is
+better quality then the other guards. You notice that he 
+no weapon, he most likely could take you with out one anyway.
+s
+~
+giant~
+AB DFHJRTVac -1000 0 
+0 40 0 6d30+244 40d100+100 6d5+10 0
+-1 -1 -1 -1
+DEFKNO AB HI JP
+standing standing none 30
+AHMV ABCDEFGHIJK H unknown
+#1919
+judge troble~
+jugde troble~
+Judge Troble is here.
+~
+This man is small but with the power of the court, he becomes powerful
+he looks you up and down and askes for your name. The two 
+guards at his side move ever so slowly towards you. You feel this 
+person should not be messed with.
+~
+giant~
+AB DFHJTVc 1000 0 
+0 50 0 10d175+990 50d100+100 5d10+25 0
+-1 -1 -1 0
+FIJKO AB HI JP
+standing standing none 200
+AHMV ABCDEFGHIJK M unknown
+#1920
+dragonrider guard~
+dragonrider guard~
+Dragonrider Guard is here protecting the Judge.
+~
+This towering well built guard is on duty protecting the judge as well
+as guarding the cells from escaping prissoners. He is equipted
+with fine standard issue armor and weapon. You better be on you way!
+~
+giant~
+AB DFHJKTc 1000 0 
+0 30 9 9d61+500 30d100+100 5d6+22 0
+-1 -1 -1 0
+CFHJKOU AB HI JP
+standing standing none 30
+AHMV ABCDEFGHIJK H unknown
+#1921
+prisoner~
+prisoner ~
+Prisoner is chained to the wall.
+~
+This prisoner looks very old, he smell and the chains are so tight
+they cut into the skin on his wrists. He looks at you and then
+lowers his head.
+~
+human~
+ABG Md 0 0 
+0 10 10 3d22+96 10d100+100 2d5+5 0
+4 4 4 4
+CDFIK CQ 0 D
+standing standing none 1
+AHMV ABCDEFGHIJK M unknown
+#1924
+Choon Shopkeeper~
+choon the shopkeeper~
+Choon is here tending his cauldron.
+~
+Choon is a very old man, he eyes you but all the time he is stiring
+his cauldron. You notice he powerful as he is in Sanctuary all the time
+he continues to add a pinch of this and that to his boiling cauldron.
+~
+giant~
+ABG DFHSc -1000 0 
+0 160 140 300d100+200 300d100+100 300d100+100 0
+-100 -100 -100 -100
+BCDEFGHIKMN ABCD HI JP
+standing standing none 10000
+AHMV ABCDEFGHIJK H unknown
+#1925
+LeighAnne~
+LeighAnne ~
+LeighAnne is working on a new belt.
+~
+LeighAnne is a fine looking women, she has hands of gold, her craftmanship
+is renown in Thenia. She look tough those hands could easyly kill
+yah, but her smile calms your mind.
+~
+giant~
+ABG DEFHSc 1000 0 
+0 160 150 300d100+100 300d100+100 300d100+100 0
+-100 -100 -100 -100
+BCFHIKMNO ABCD HI JP
+standing standing female 10000
+AHMV ABCDEFGHIJK H unknown
+#1926
+Jean~
+jean the armour~
+Jean is here cleaning his armour.
+~
+Jean is a humble man, he earns a small living now selling armor.
+He was once a great warrior so he only sell the best quility. He
+now does work for the dragonrider, he has many of there wear's 
+on display.
+~
+giant~
+A DEFHSc 0 0 
+0 160 0 300d100+100 300d100+100 300d100+100 0
+-100 -100 -100 -100
+CFHIKN ACH HI JP
+standing standing none 10000
+AHMV ABCDEFGHIJK M unknown
+#1927
+Larour the weaponsmith~
+Larour~
+Larour is here cleaning his weapons.
+~
+Larour is a fine upstanding citizen, of the town of Thenia, he was
+ask buy the dragonrider high command to come and be the only
+weaponsmith, his quility is well renown. He look very busy!!
+~
+giant~
+A DFHSc 0 0 
+0 0 300 300d100+100 300d100+100 300d100+100 0
+-100 -100 -100 -100
+DFHIJKN ABCDH HI JP
+standing standing none 10000
+AHMV ABCDEFGHIJK M unknown
+#1928
+Terra~
+Terra~
+Terra is sitting at the desk with a handful of bills.
+~
+Terra is a beautiful women, she is swamped with bills. She showes
+you the four room keys hanging on a plaque behind her. She 
+hope you will rent a room.
+~
+giant~
+ABG DFHSVc 0 0 
+0 160 300 300d100+100 300d100+100 300d100+100 0
+0 0 0 0
+CDFHIJKN ABCD HI JP
+sitting standing none 1000
+AHMV ABCDEFGHIJK M unknown
+#1929
+Sheba~
+Sheba ~
+Sheba is here polishing her wares.
+~
+Sheba is a rather large woman, she sing and wanders around her
+shop polishing her wares. She is dolled out in very colourful
+rags that make her look cheerful. She eyes you coin purse 
+beckening you to look at the expensive stuff.
+~
+giant~
+ABG DFHSc 0 0 
+0 160 100 300d100+100 300d100+100 300d100+100 0
+-100 -100 -100 -100
+DEFIJKN ABCD HI JP
+standing standing none 10000
+AHMV ABCDEFGHIJK H unknown
+#1930
+sick patient~
+sick patient~
+Sick patient is here moaning and groaning.
+~
+He/She is very sick, you notice that he is moaning silently.
+These people are waiting to see a doctor and are very sick. They
+look at you hoping you are a doctor. 
+~
+giant~
+ABG MVYcd 0 0 
+0 35 10 5d30+161 35d100+100 4d5+12 0
+-2 -2 -2 -2
+CFINU AB DHI CJPQ
+standing standing none 10
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#1900
+judges gavel~
+judges Gavel~
+Judges Gavel is here.~
+unknown~
+weapon AB ANO
+exotic 6 10 shbite 0
+50 10 9000 P
+#1901
+dragonrider mace~
+dragonrider mace~
+Tarnished old mace has been left on the ground.~
+unknown~
+weapon AB ANO
+mace 9 4 slash DE
+30 5 10000 P
+#1902
+sword dragonrider~
+dragonrider sword~
+Dragonrider Sword is resting on the ground.~
+unknown~
+weapon A ANO
+sword 5 8 slash DE
+30 5 10000 P
+A
+18 3
+A
+19 3
+#1903
+dragonrider boots~
+dragonrider Boots~
+Dragonrider Boots are rest on the ground.~
+unknown~
+armor A AGO
+2 2 2 2 0
+30 5 8000 P
+#1904
+dragonrider breastplate~
+dragonrider Breastplate~
+Dragonrider Breastplate is resting on the ground.~
+unknown~
+armor A ADO
+10 5 10 7 0
+30 5 5000 P
+A
+19 2
+A
+3 1
+#1905
+dragonrider shield~
+dragonrider shield~
+Glittering specks of light catch your eye.~
+unknown~
+armor AB AJO
+13 12 13 13 0
+30 10 8000 P
+A
+18 2
+A
+19 2
+#1906
+dragonrider cloak~
+dragonrider cloak~
+Cloak has been left on the ground.~
+unknown~
+armor AB ACO
+0 0 0 0 0
+30 10 3000 P
+A
+4 -3
+A
+18 1
+A
+19 2
+A
+2 2
+#1907
+dragonrider signet ring~
+dragonrider signet ring~
+Ring lies here in the dirt gently humming.~
+unknown~
+jewelry AB ABO
+0 0 0 0 0
+30 1 6000 P
+A
+17 -15
+#1908
+dragonrider leggings~
+dragonrider leggings~
+Dragonrider Leggings are here.~
+unknown~
+armor AB AFO
+9 10 12 0 0
+30 5 3000 P
+#1909
+dragonrider bracer~
+dragonrider bracer~
+Dragonrider Bracer is lying here collecting dust.~
+unknown~
+jewelry AB AMO
+0 0 0 0 0
+30 5 30000 P
+A
+3 -1
+A
+5 -1
+A
+18 3
+A
+1 2
+A
+17 -10
+#1910
+dragonrider dagger~
+dragonrider dagger~
+Dragonrider Dagger is here.~
+unknown~
+weapon AB ANO
+dagger 9 4 stab D
+30 5 10000 P
+A
+5 -2
+A
+18 2
+A
+19 2
+#1911
+dragonrider flail~
+dragonrider flail~
+Dragonrider Flail is here.~
+unknown~
+weapon AB ANO
+flail 9 7 grep EH
+30 5 10000 P
+A
+18 2
+A
+19 2
+A
+2 -2
+A
+4 -1
+#1912
+dragonrider chestplate~
+dragonrider chestplate~
+Dragonrider Chestplate is here.~
+unknown~
+armor AB AO
+10 10 10 8 0
+30 5 4000 P
+#1913
+dragonrider belt~
+dragonrider belt~
+Dragonrider Belt is here.~
+unknown~
+armor AB ALO
+10 10 10 10 0
+30 100 2000 P
+A
+13 50
+A
+3 -2
+A
+12 50
+A
+2 -1
+A
+1 2
+A
+20 -5
+#1914
+dragonrider bracer~
+dragonrider bracer~
+Dragonrider Bracer is here.~
+unknown~
+armor AB AMO
+10 10 10 10 0
+30 10 4000 P
+A
+17 -2
+A
+18 2
+#1915
+dragonrider banner~
+dragonrider banner~
+Piece of cloth is collecting dust.~
+unknown~
+light AB AO
+0 0 -1 0 0
+30 5 4000 P
+A
+20 -5
+A
+17 -10
+#1916
+chains shackles~
+shackles~
+Chain Shackles are laying on the ground.~
+unknown~
+trash EGHM AIO
+0 0 0 0 0
+0 0 0 P
+A
+12 -100
+A
+13 -100
+A
+18 -20
+A
+19 -20
+A
+17 100
+A
+14 -200
+#1917
+potion concoction~
+magical concoction~
+Vile of Glowing liquid.~
+unknown~
+potion A AO
+40 'bless' 'flesh armor' 'cause light' ''
+30 1 6000 P
+#1918
+wooden bottle potion resurection~
+a potion of resurection~
+Carved wooden bottle.~
+unknown~
+potion A AO
+40 'complete healing' 'cause light' 'cause light' ''
+30 1 8000 P
+#1919
+magical chicken legs~
+magical chicken legs~
+Pair of small chicken leg ripe for the eating.~
+unknown~
+pill AB AO
+40 'haste' 'fly' 'curse' ''
+30 1 5000 P
+#1920
+staff of intimidation~
+staff of intimidation~
+Staff is collecting dust on the ground.~
+unknown~
+staff G AO
+20 2 1 'charm person' 0
+30 1 9000 P
+#1921
+armani slacks~
+black silk Armani slacks~
+Pile of silk.~
+unknown~
+armor 0 AFO
+10 10 10 10 0
+159 0 -100 P
+#1922
+potion of magical aura's~
+potion of magical aura's~
+Small Vial of Liquid is here.~
+unknown~
+potion ABG AO
+40 'sanctuary' 'biofeedback' 'cause light' ''
+30 1 5000 P
+#1923
+girdle pouches~
+girdle of many pouches~
+Multi-Pocketed leather belt is lying here.~
+unknown~
+container AB ALO
+500 0 0 30 40
+30 1 7000 P
+#1924
+saddle~
+magical saddle~
+Saddle is here.~
+unknown~
+saddle ABG AO
+0 0 0 0 0
+30 2 5000 P
+#1925
+gloves leather~
+pair of leather gloves~
+Pair of Leather Gloves.~
+unknown~
+armor AG AHO
+10 10 10 10 0
+30 2 6000 P
+A
+5 -2
+A
+18 2
+A
+19 2
+#1926
+stairs ~
+spiral stairs~
+A set of spiral stairs.~
+unknown~
+portal G 0
+0 0 0 1991 0
+1 1000 0 P
+E
+stairs~
+These magical stair's take you to the upper level!
+Simply type ( enter stair ) to visit the upper level.
+Orginal Design for these stairs was bye Raff 
+~
+#1927
+snake head whip~
+four headed snake head whip~
+Four headed snake head whip~
+unknown~
+weapon AB ANO
+whip 5 10 bite CH
+30 0 10000 P
+#1928
+room key one~
+room key (one)~
+Room Key (One)~
+unknown~
+key U AO
+0 0 0 0 0
+30 1 5000 P
+#1929
+room key two~
+room key (two)~
+Room Key (Two)~
+unknown~
+key U AO
+0 0 0 0 0
+30 1 5000 P
+#1930
+room key three~
+room key (three)~
+Room Key (Three)~
+unknown~
+key U AO
+0 0 0 0 0
+30 1 5000 P
+#1931
+honeymoon suit key~
+honeymoon suit key~
+HoneyMoon Suit Key ~
+unknown~
+key U AO
+0 0 0 0 0
+30 1 7000 P
+#1932
+fiery opal~
+(Black Aura) fiery opal~
+(Black Aura) Fiery Opal is here.~
+unknown~
+warp_stone 0 AO
+0 0 0 0 0
+20 1 9000 P
+A
+13 50
+#1999
+sub issue light~
+a sub issue light~
+Light.~
+unknown~
+light U AO
+0 0 -1 0 0
+1 0 0 P
+A
+19 1
+A
+18 1
+#0
+
+
+
+#ROOMS
+#1900
+An Impassable Chasm~
+You are standing on the edge of a very wide chasm.  To the north you see
+a city just hovering over a valley below.  The road seems to have built
+right up to the chasm here.  Those living in the city must not want
+visitors.  
+~
+0 0 1
+D0
+~
+~
+0 0 1901
+M0 H0
+S
+#1901
+Passageway to Thenia~
+The road here is of a hard black substance, not the usual cobblestone or
+dirt that most cities use.  There is a large sign posted here welcoming you
+to "Thenia".  There seems to be sounds of a large gathering of people to the
+west, and a large run down building is to your east.  The city walls seem to
+be HUGE from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1925
+D1
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 1902
+M0 H0
+S
+#1902
+Beginning of the Shantyville Market~
+Many multi-colored tents and boxes litter the street here.  People
+aimlessly wander around looking as if they havent bathed in weeks.  There is
+trash laying about, and there is the stench of urine in the air.  Amongst
+all this, there are people trying to attract your attention to buy something
+from them.  
+~
+0 65536 1
+D0
+~
+~
+0 0 1911
+D1
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 1903
+M0 H0
+S
+#1903
+Marketplace Square homeless refuge~
+The smell here is awful!  Surely these people could find a decent place
+to bathe, since they are so close to the city.  There must be hundreds of
+people living on this small parcle of land, here outside the city walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 1902
+D2
+~
+~
+0 0 1904
+D3
+~
+~
+0 0 1905
+M0 H0
+S
+#1904
+Outskirts of Shantytown~
+You stand on the outskirts of Shantytown.  The edge of the land that the
+city has surrounded it is to the south.  There are many people living in
+tents right near the edge.  
+~
+0 0 0
+D0
+~
+~
+0 0 1903
+M0 H0
+S
+#1905
+The Dump of the Marketplace Square~
+As you walk along this section of the marketplace, you must pay close
+attention to where you step to to avoid stepping on people or stepping in
+something.  There are massive amounts of garbage and trash stockpiled here. 
+~
+0 0 0
+D1
+~
+~
+0 0 1903
+D3
+~
+~
+0 0 1906
+M0 H0
+S
+#1906
+Deeper yet into the Marketplace Square~
+There does not seem to be nearly as many people congregating here for
+some reason.  Trash is strewn all over the ground here, along with the
+occasional drunken homeless person.  There are still a few vendors here
+displaying there goods, but they do not seem too excited about the prospect
+of selling today.  A large pavillion tent, to the west, seems to be giving
+off the smell of freshly baked beans and roast meat.  
+~
+0 0 0
+D0
+~
+~
+0 0 1910
+D1
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1907
+M0 H0
+S
+#1907
+Myrrdion's Soup Kitchen~
+Pots of steaming hot soup fill the air with a smell.  Extra pots and pans
+hang from rafters, wooden benches are neatly lined up across the room. 
+There are old brass lanterns hanging from the ceiling to light the room in
+the evening.  People are forming a line to recieve thier portion of fresh
+bread and soup, you had better get in line if you want some.  There is
+another room to the south that look like there may be more seating.  There
+is a sign on the wall here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1906
+D2
+~
+~
+0 0 1908
+M0 H0
+S
+#1908
+Dinning Hall~
+There are tables and benches from wall to wall in this room. 
+Occasionally you see a helper wiping down the tables and head back to the
+front room.  There is a sign on the wall here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1907
+D2
+~
+~
+0 0 1909
+M0 H0
+S
+#1909
+Hideout Behind Myrrdion's~
+~
+0 0 0
+D0
+~
+~
+0 0 1908
+M0 H0
+S
+#1910
+Deeper within the Market Square~
+People still jostle about here but they seem more relaxed about things. 
+There is the smell of fresh bread and roasting meat coming from the west,
+instead of the foul stench that comes from the south when the wind is right.
+There are the usual vendors proudly displaying there merchandise, in the
+hopes that you might buy something.  
+~
+0 0 0
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1906
+M0 H0
+S
+#1911
+Marketplace Square~
+Tables have been set up here for the vendors to display there goods.
+All of them are shouting for your attention, exclaiming their goods are of
+the finest quality at the lowest cost. Colored cloths hang from ropes tied
+above your head, and when the wind blows from the west you can faintly
+smell fresh cooked food.
+~
+0 0 0
+D2
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1910
+M0 H0
+S
+#1912
+Entrance to Partha's Free Clinic and Triage~
+Many sick and diseased people have passed through this room since the city
+of Thenia had taken to the air. When the rulers of Thenia decided it was
+best to use the newly acquired technology to protect thier fair city by
+making it fly, the people outside the walls have been left to fend for
+themselves with virtualy no food shelter, or water. Every so often a
+medic comes out to check on who will be admitted into the clinic. (And
+to call the orderly to haul away the dead.) The clinic main entrance is
+to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 1913
+D3
+~
+~
+0 0 1901
+M0 H0
+S
+#1913
+Clinic Main Lobby~
+You are inside the clinics main lobby. Chairs and gurneys line the
+walls. Most of the seats have been taken. There are few old books on a
+table in one corner, and colorful spear for the kids in the other 
+corner. A large reception desk is here as well, cluttered with papers and
+files. There are two set of stairs here as well, one going up and one g
+going up and one going down. A directory is posted next to the stairs.
+~
+0 65536 0
+D0
+~
+~
+0 0 1914
+D3
+~
+~
+0 0 1912
+D4
+~
+~
+0 0 1916
+D5
+~
+~
+0 0 1920
+M0 H0
+S
+#1914
+Preliminary Exam Room~
+In front of you is a mammoth examination table that could easily handle
+seven foot tall patients. The exam table definitely has seen better days,
+it is in quiet a state of disrepair. A large metal tray is beside the
+table, a glass faced cabinet is against the wall.
+~
+0 0 0
+D2
+~
+~
+0 0 1913
+D3
+~
+~
+0 0 1915
+M0 H0
+S
+#1915
+Apprentice's Quarters~
+Usually you will find one of the two medical apprentices sleeping here.
+They work twelve hour shifts every day of the week. Partha is well known
+to be a good instructor in the medical arts, so these students do not mind
+living in such squalor. This room is fairly barren since all the apprentices
+do is sleep here. There is virtually no light here so its rather hard to
+see if someone is in the room.
+~
+0 0 0
+D1
+~
+~
+0 0 1914
+M0 H0
+S
+#1916
+Entrance to the Psychiatric Ward~
+The walls are covered with a thick rubbery substance,
+preventing people from hurting themselves. The room is almost completely
+barren of furniture, except for the attendant's desk and chair. There is
+a large window on the south wall. There is also a sign here.
+~
+0 0 1
+D3
+~
+~
+0 0 1917
+D5
+~
+~
+0 0 1913
+M0 H0
+S
+#1917
+Detox Group Meeting Room~
+You see a large paper flip chart explaining the uniqueness of Partha's
+detox program. There are many chairs set up in this room. A few people
+seem to be waiting for the next meeting to start.
+~
+0 0 0
+D1
+~
+~
+0 0 1916
+D2
+~
+~
+0 0 1918
+M0 H0
+S
+#1918
+Partha's Consultation Room/Office~
+You see before you a large desk, cluttered with many papers and
+documents. This is Dr. Partha's private consulation room, where he makes
+his dicisions on treatment plans or councils a disturbed patient. If a
+patient or visitor becomes agitated, Partha has been known to restrain them
+himself and place them into isolation.
+~
+0 0 0
+D0
+~
+~
+0 0 1917
+D3
+~
+~
+0 0 1919
+M0 H0
+S
+#1919
+Isolation Room~
+The walls here are of spongy white material. Buttons secure this
+material to the walls about every two feet. The floor and ceiling has
+been covered with the same white, spongy material. It looks as if this room
+would be perfect to bounce around in. The door has a clear glass-like
+substance firmly placed into it, allowing Partha to observe what goes on
+inside the room. The door itself is made of steel, and is well padded with
+the same white substance as the walls. The only light in the room comes
+from a small rectangular window, apparently made of the same glass-like
+substance as the view port in the door, positioned high on the outside wall.
+~
+0 4 0
+M0 H0
+S
+#1920
+Dirty Morgue~
+This old building used to be a house next to the city wall, now it is a
+mini hospital with its own morgue. (next to the city wall). You are standing
+among the dead, Freshly dead. The corpse are brought here, then stripped
+and an identification is attempted. The personal affects are kept for one
+year and then disposed of. After the corpse has been inventoried and cleaned up
+it will move on to autopsy.
+~
+0 0 0
+D0
+~
+~
+0 0 1921
+D4
+~
+~
+0 0 1913
+M0 H0
+S
+#1921
+Autospy Room~
+The air is much cooler than it was upstairs.  Perhaps it is because most
+everything in this room is marble or bright shiny metal.  There are two
+large basin shaped tables in the middle of the room, each with a small
+unsual lantern mounted above them.  There is a metal tray next to one table.
+~
+0 0 0
+D1
+~
+~
+0 0 1922
+D2
+~
+~
+0 0 1920
+M0 H0
+S
+#1922
+Clean Morgue~
+This is where the corpses come after they have been autopsied. They are
+to be stitched back up if the family is known. If they are John or Jane
+Doe's they will be put into storage for a period of one week then incinerated.
+There is a cabinet mounted on the wall. Gurneys of corpse fill the room.
+Double doors lead south, east, west.
+~
+0 0 0
+D1
+~
+~
+0 0 1924
+D2
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1921
+M0 H0
+S
+#1923
+Corpse Cooler~
+Metal shelves line the walls. On those shelves you will notice are jars
+of body parts. They do note look like any bodies you may have seen in this
+lifetime. Hardened black skin, long grasping claws, obsidian teeth, jet
+eyes. The temperature in here is just below freezing, just about -50 below!
+It is Cold!
+~
+0 4 0
+M0 H0
+S
+#1924
+Incinerator~
+Oops, you better hope no one turns on the gas. It looks like your stuck
+here until further notice. There are bones piled all around you. Dust
+fills your lungs the more you move around. The air smells of death and
+decay. You are trapped in the Crematorium.
+~
+0 4 0
+M0 H0
+S
+#1925
+Outside the Gateway to Thenia~
+You are standing before the gates of Thenia. The gates themselves are
+thirty feet high by ten feet wide. Each gate is made of soild black metal
+unlike any you have seen before. There are engravings covering each gate.
+Looking east and west you see two towers near each corner of the wall.
+On top of each tower you see a very large human and a very large black 
+dragon eternaly engaged in combat.
+~
+0 0 0
+D0
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1901
+M0 H0
+S
+#1926
+Inside the Gateway of Thenia~
+You are standing inside the main gates of Thenia. The streets here are
+of black stone, buildings are all impeccably clean, and there is not a 
+speck of dirt or trash to be seen. There is a very tall building to the far
+north, and the wall road runs to the east and west of here.
+~
+0 0 0
+D0
+~
+~
+0 0 1952
+D1
+~
+~
+0 0 1951
+D2
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1927
+M0 H0
+S
+#1927
+Perimeter Wall Road~
+Walking along the wall, you notice there is no graffiti, trash, or dirt
+anywhere. The Thenia caretakers must do a very good job. But then who
+wouldn't with guards like the DragonRiders watching everymove you make. To
+the west you see a large tower looming over the wall. To the east 
+is the main gate of Thenia.
+~
+0 0 0
+D1
+~
+~
+0 0 1926
+D3
+~
+~
+0 0 1928
+M0 H0
+S
+#1928
+Perimeter Road: Guard Tower #1~
+You stand before one of the eight guard towers surrounding Thenia. You
+can enter the tower to the south, or the road continues to the east and
+west. There is an engraving above the guard tower's doorway.
+~
+0 0 0
+D1
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1959
+D3
+~
+~
+0 0 1929
+M0 H0
+S
+#1929
+Perimeter Road: Southwest Sector~
+You are standing near the southwest corner of the wall. There is a tower
+on each side of you where a guard can easily see you. The road leads to the
+north and east.
+~
+0 0 0
+D0
+~
+~
+0 0 1930
+D1
+~
+~
+0 0 1928
+M0 H0
+S
+#1930
+Permeter Road: Guard Tower #2~
+You stand before one or the eight guard towers of Thenia. You can enter
+the tower to the west, or the road continues to the north and south. There
+is an engraving above the guard tower doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 1932
+D2
+~
+~
+0 0 1929
+D3
+~
+~
+0 0 1961
+M0 H0
+S
+#1931
+Perimeter Wall Road~
+Walking along the wall, you notice there is no graffiti, trash or dirt
+anywhere. The Thenia caretakers must do a very good job. But then who
+wouldn't with guards like the Dragonriders watching every move you make. To
+the north you see a guard tower looming above the wall, and to the south the
+road continues along the wall.
+~
+0 0 0
+D0
+~
+~
+0 0 1933
+D1
+~
+~
+0 0 1956
+D2
+~
+~
+0 0 1932
+M0 H0
+S
+#1932
+Parimeter Road: West of Alrich's Road~
+From this vantage point you can see people gathering at the exhibition
+square to the east.  The perimeter road continues following the wall to both
+the north and south.  You can see a guard tower looming over each corner and
+a large, golden steeple arises from the center of Thenia.  
+~
+0 0 0
+D0
+~
+~
+0 0 1931
+D2
+~
+~
+0 0 1930
+M0 H0
+S
+#1933
+Perimeter Road: Sheba's Curisity Shop~
+The road here is as spotless as the rest of the town. To the north and
+south you see the road continues to follow the perimeter. To the east there
+is a small earthen and stone building. A sign has been posted outside the
+building.
+~
+0 0 0
+D0
+~
+~
+0 0 1934
+D1
+~
+~
+0 0 1983
+D2
+~
+~
+0 0 1931
+M0 H0
+S
+#1934
+Parimeter Wall Road~
+The road here looks more like melted candle wax, instead of the perfectly
+planar surface you normally find elsewhere in Thenia. The wall looks as if
+it has begun to melt at one point as well. The perimeter road continues
+north, to a rather singed looking guard tower, or southward along the wall.
+~
+0 0 0
+D0
+~
+~
+0 0 1935
+D2
+~
+~
+0 0 1933
+M0 H0
+S
+#1935
+Perimeter Road: Guard Tower #3~
+You stand before one of the eight guard towers of Thenia. This one looks
+as if it was recently scorched by dragonfire. You can enter the tower to
+the west, or the road continues to the north and south, along the wall.
+There is engraving above the guard tower doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 1936
+D2
+~
+~
+0 0 1934
+D3
+~
+~
+0 0 1963
+M0 H0
+S
+#1936
+Perimeter Wall Road: Northwest Sector~
+You are standing at the northwest corner of the wall. There is a tower
+on each side of you, where a guard can easily see what you do. The tower to
+your south looks rather scorched, while the tower to your east looks
+perfectly fine. The perimeter road continues to the east and south.
+~
+0 0 0
+D1
+~
+~
+0 0 1937
+D2
+~
+~
+0 0 1935
+M0 H0
+S
+#1937
+Perimeter Road: Guard Tower #4~
+You stand before one of eight guard towers of Thenia. You can enter
+this tower to the north, or the perimeter road continues to the west and 
+east. There is an engraving above the tower doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 1965
+D1
+~
+~
+0 0 1938
+D3
+~
+~
+0 0 1936
+M0 H0
+S
+#1938
+Perimeter Wall Road~
+The road here is of the same black, oily smelling, rock you see elsewhere
+in the city. The road follows the north wall to the east and west. There
+is a large white building to your south, but you do not see an entrance from
+here. There is a guard tower to the west, and it looks like another
+entrance to the city is to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1937
+M0 H0
+S
+#1939
+Perimeter Road: North Gate~
+You stand before a pair of massive, black gates. These gates are
+identical to the south entrance's, however these have been melted by dragon
+fire, melting them to some degree. Of course damage like that makes them
+inoperable. The perimeter road continues to the east and west. The rear
+wall of the DragonRiders headquarters is to your south.
+~
+0 0 0
+D0
+~
+~
+0 0 1995
+D1
+~
+~
+0 0 1940
+D2
+~
+~
+1 0 1975
+D3
+~
+~
+0 0 1938
+M0 H0
+S
+#1940
+Perimeter Road~
+The road here is made of the same oily, black rock that you have seen
+elsewhere in the city. The road follows the wall to the east and west.
+There is a guard tower to the east, and it looks as if there is another
+entrance to the city to the west. There is a large white building to the
+south but you cannot see and entrance to it from here.
+~
+0 0 0
+D1
+~
+~
+0 0 1941
+D3
+~
+~
+0 0 1939
+M0 H0
+S
+#1941
+Perimeter Road: Guard Tower #5~
+You stand before one of the eight guard towers of Thenia. You can enter
+the tower to the north, or continue following the perimeter road to the east
+or west. There is an engraving above the tower doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 1967
+D1
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1940
+M0 H0
+S
+#1942
+Perimeter Road: NorthEast Sector~
+You are standing near the northeast corner of the wall surrounding
+Thenia. There is a tower to each side of you, where a guard could easily
+look down and see what your up to. The perimeter road continues to the west
+and south, past the guard towers.
+~
+0 0 0
+D2
+~
+~
+0 0 1943
+D3
+~
+~
+0 0 1941
+M0 H0
+S
+#1943
+Parimeter Road: Guard Tower #6~
+You stand before one of the eight guard towers of Thenia.  You can enter
+the tower, through the gate, to the east.  The perimeter road continues to
+the west to the north and south.  There is an engraving above the tower
+gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 1942
+D1
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1944
+M0 H0
+S
+#1944
+Parimeter Wall Road~
+The road here is of the same oily, black substance. The golden tower of
+the DragonRiders can be seen to the east. The perimeter road continues 
+to the south and to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 1943
+D2
+~
+~
+0 0 1945
+M0 H0
+S
+#1945
+Perimeter Road: Terra's Dabauchary Retreat~
+The perimeter road here spilts off to the west, into Terra's Debauchary
+Retreat. There is a sign hanging from a post, outside Terra's. The
+perimeter wall road continues to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 1944
+D2
+~
+~
+0 0 1946
+D3
+~
+~
+0 0 1986
+M0 H0
+S
+#1946
+Parimeter Wall Road~
+The wall here stands thirty feet tall.  The road is made of soft black
+stone that vaguely smells of lamp oil.  The road follows the wall to the
+north and south.  You see a guard tower looming over the wall to your south.
+~
+0 0 0
+D0
+~
+~
+0 0 1945
+D2
+~
+~
+0 0 1947
+M0 H0
+S
+#1947
+Perimeter Road: East of Alrich's Road~
+From this vantage point you can see people gathering at the exibition
+square to the far west. The perimeter road continues to follow the wall to
+the north and south. You can see a guard tower looming high above each
+corner of the wall. A large golden steeple arises near the center of
+Thenia.
+~
+0 0 0
+D0
+~
+~
+0 0 1946
+D2
+~
+~
+0 0 1948
+D3
+~
+~
+0 0 1958
+M0 H0
+S
+#1948
+Perimeter Road: Guard Tower #7~
+You are standing before one of the eight guard towers of Thenia.  You can
+enter the tower, through the gate, to the east.  The perimeter road
+continues along the wall to the south and north.  There is an engraving
+above the tower gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 1947
+D1
+~
+~
+0 0 1971
+D2
+~
+~
+0 0 1949
+M0 H0
+S
+#1949
+Perimeter Road: Southeast Sector~
+You are standing near the southeast corner of the wall surrounding
+Thenia. There are towers to the north and east, from where a guard could
+easily keep an eye on you . The perimeter road continues to follow the wall
+to the west and to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 1948
+D3
+~
+~
+0 0 1950
+M0 H0
+S
+#1950
+Perimeter Road: Guard Tower #8~
+You stand before one of eight guard towers surrounding Thenia.  You can
+enter the tower, through the gate, to the south.  The perimeter road c
+continues to the west and east, along the wall.  There is an engraving above
+the guard tower gate.  
+~
+0 0 0
+D1
+~
+~
+0 0 1949
+D2
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1951
+M0 H0
+S
+#1951
+Perimeter Wall Road~
+As you walk along the wall, you notice there is virtually no graffiti,
+trash or dirt anywhere. The Thenia caretakers must be doing a very good 
+job. But then who wouldn't with guards like the DragonRiders watching every
+move you make. To the east you see a large guard tower, and to the west is
+the main gate of Thenia.
+~
+0 0 0
+D1
+~
+~
+0 0 1950
+D3
+~
+~
+0 0 1926
+M0 H0
+S
+#1952
+Road to Exhibition Square~
+The road here is meticulously swept clean.  The golden tower of the
+DragonRiders head quarters can be seen in the distance, to the north.  There
+are people congregating just ahead before a large platform.  The main gates
+of Thenia are to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1953
+D2
+~
+~
+0 0 1926
+M0 H0
+S
+#1953
+Exhibition Square~
+A large, elevated, wooden platform stands in the middle of the square. 
+On this platform, there is a double gallows, a stockade and a large chopping
+block.  A heavy black chain, with large rings welded into every few feet,
+encompassing the platform.  The entrance to Thenia's DragonRiders head
+quarters is to the north, heavily guarded, just past the platform.  
+~
+0 0 0
+D0
+~
+~
+0 0 1954
+D1
+~
+~
+0 0 1957
+D2
+~
+~
+0 0 1952
+D3
+~
+~
+0 0 1955
+M0 H0
+S
+#1954
+DragonRiders HeadQuarters Vestibule~
+Inside the vestibule of Thenia DragonRiders HeadQuarters, you see many
+rings embedded in the black marble walls.  A few slaves have been tethered
+by thin filiment of chain to these rings.  The room is lit via a soft blue
+glow eminating from the ceiling.  A large imposing statue stands in the
+centre of the room.  Exits lead to the north, east, west, and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1975
+D2
+~
+~
+0 0 1953
+M0 H0
+S
+#1955
+Alrich's Road: West Plaza~
+The road consists of the same soft black stone as the rest of the
+roads in Thenia. There seems to be a rather unusal smell in this part of
+town, the smell of massive amounts of GOLD! Various shops are set up on 
+the south side of Alrich's road. To the north you see the DragonRiders
+head quarters. Alrich's road continues to the east and west. To the
+south is LeighAnne's Leatherworks.
+~
+0 0 0
+D1
+~
+~
+0 0 1953
+D2
+~
+~
+0 0 1981
+D3
+~
+~
+0 0 1956
+M0 H0
+S
+#1956
+Alrich's Road: West Plaza~
+The road consists of the same soft black stone as the rest of the
+roads in Thenia. There seems to be a rather unusual smell in this part of
+town, the smell of massive amounts of GOLD! Various shops are set up on 
+the south side of Alrich's road. To the north you see the DragonRiders
+head quarters. Alrich's road continues west to the Perimeter Wall Road,
+and east into town. To the south is Choon's Nefarious Magicks.
+~
+0 0 0
+D1
+~
+~
+0 0 1955
+D2
+~
+~
+0 0 1982
+D3
+~
+~
+0 0 1931
+M0 H0
+S
+#1957
+Alrich's Road: East Plaza~
+The road consists of the same soft black stone as the rest of the
+roads in Thenia. There seems to be a rather unusal smell in this part of
+town, the smell of massive amounts of GOLD! Various shops are set up on 
+the south side of Alrich's road. To the north you see the DragonRiders
+head quarters. Alrich's road continues to the east and to the west, with
+Jean's Defensive Arts to the south.
+~
+0 0 0
+D1
+~
+~
+0 0 1958
+D2
+~
+~
+0 0 1984
+D3
+~
+~
+0 0 1953
+M0 H0
+S
+#1958
+Alrich's Road: East Plaza~
+The road consists of the same soft black stone as the rest of the
+roads in Thenia. There seems to be a rather unusal smell in this part of
+town, the smell of massive amounts of GOLD! Various shops are set up on 
+the south side of Alrich's road. To the north you see the DragonRiders
+head quarters. Alrich's road continues eastward to the Perimeter Wall Road,
+and west into the city. To the south is Larou's Weaponsmithery.
+~
+0 0 0
+D1
+~
+~
+0 0 1947
+D2
+~
+~
+0 0 1985
+D3
+~
+~
+0 0 1957
+M0 H0
+S
+#1959
+Lower Level: Guard Tower #1~
+You are inside the lower level of the guard tower.  There is a huge log
+wedged between the walls.  It would appear the log is being used by a rather
+large creature as a perch, due to the large claw marks in its bark.  There
+is a large, simple bed in one corner of the room, and a large pile of hay in
+the corner opposite the bed.  There does not seem to be a way to climb to
+the upper level.  
+~
+0 0 0
+D0
+~
+~
+0 0 1928
+D4
+~
+~
+0 0 1960
+M0 H0
+S
+#1960
+Atop Guard Tower #1~
+The view from here is magnificant! Below you to the south you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1959
+M0 H0
+S
+#1961
+Lower Level: Guard Tower #2~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be a
+way to climb to the upper level.
+~
+0 0 0
+D1
+~
+~
+0 0 1930
+D4
+~
+~
+0 0 1962
+M0 H0
+S
+#1962
+Atop Guard Tower #2~
+The view from here is magnificant! Below you to the south you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 1
+D5
+~
+~
+0 0 1961
+M0 H0
+S
+#1963
+dragonrider guard~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be a
+way to climb to the upper level.
+~
+0 0 1
+D1
+~
+~
+0 0 1935
+D4
+~
+~
+0 0 1964
+M0 H0
+S
+#1964
+Atop Guard Tower #3~
+The view from here is magnificant! Below you to the south you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1963
+M0 H0
+S
+#1965
+Lower Level: Guard Tower #4~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be a
+way to climb to the upper level.
+~
+0 0 0
+D2
+~
+~
+0 0 1937
+D4
+~
+~
+0 0 1966
+M0 H0
+S
+#1966
+Atop Guard Tower #4~
+you a place to stand, but watch you step, it's quite a ways down to the^.c
+The view from here is magnificant! Below you to the south you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1965
+M0 H0
+S
+#1967
+Lower Level: Guard Tower #5~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be a
+way to climb to the upper level.
+~
+0 0 1
+D2
+~
+~
+0 0 1941
+D4
+~
+~
+0 0 1968
+M0 H0
+S
+#1968
+Atop Guard Tower #5~
+The view from here is magnificant! Below you to the north you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1967
+M0 H0
+S
+#1969
+Lower Level: Guard Tower #6~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be any
+way to climb to the upper level.
+~
+0 0 0
+D3
+~
+~
+0 0 1943
+D4
+~
+~
+0 0 1970
+M0 H0
+S
+#1970
+Atop Guard Tower #6~
+The view from here is magnificant! Below you to the east you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1969
+M0 H0
+S
+#1971
+Lower Level: Guard Tower #7~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be any
+way to climb to the upper level.
+~
+0 0 12
+D3
+~
+~
+0 0 1948
+D4
+~
+~
+0 0 1972
+M0 H0
+S
+#1972
+Atop Guard Tower #7~
+The view from here is magnificant! Below you to the east you can see
+just outside the wall. Looking to the , you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1971
+M0 H0
+S
+#1973
+Lower Level: Guard Tower #8~
+You are inside the lower level of the guard tower. There has been a 
+large log wedged between the walls. It would appear it is being used by
+a rather large creature as a perch, due to the large claw marks in it's
+bark. There is a large, simple bed in one corner of the room, and a large
+pile of hay in the corner opposite the bed. There does not seem to be any
+way to climb to the upper level.
+~
+0 0 0
+D0
+~
+~
+0 0 1950
+D4
+~
+~
+0 0 1974
+M0 H0
+S
+#1974
+Atop Guard Tower #8~
+The view from here is magnificant! Below you to the south you can see
+just outside the wall. Looking to the north you can clearly see the tower
+of the DragonRiders Head Quarters, trimmed in gold. There is a ledge of
+about two feet wide, running along the perimeter of the tower, allowing
+you a place to stand, but watch you step, it's quite a ways down to the
+floor of the lower level. Looking over the north, west, and east walls 
+you can clearly observe what is happening on wall road below.
+~
+0 0 0
+D5
+~
+~
+0 0 1973
+M0 H0
+S
+#1975
+DragonRiders Central Logistical Command~
+The walls of this room look to be made of seamless black marble. The
+ceiling is illuminated by a blueish light, coming from the large
+circular hole in the floor. There are four large marble seats in each
+corner of the room. A young man rests in each chair, intensely staring at
+the hole in the floor with there blazing red eyes.
+~
+0 0 0
+D0
+~
+~
+1 0 1939
+D1
+~
+~
+0 0 1976
+D2
+~
+~
+0 0 1954
+D3
+~
+~
+0 0 1978
+D5
+~
+~
+0 0 1980
+M0 H0
+S
+#1976
+Secuirty Check Point Beta~
+The only odd thing about this room is the utter silence. Even when the
+guard moves, you cannot hear thier armor rattle. There is a rich red glow
+coming from the north, and a brillent blue from the east.
+~
+0 0 0
+D0
+~
+~
+0 0 1977
+D3
+~
+~
+0 0 1975
+M0 H0
+S
+#1977
+Temple of the Healing Arts~
+A soft blue glow illuminates the white ivory statue to the north.  A
+large altar stand between you and the statue.  The altar has been covered in
+red and pink petals.  The walls of this room are made of white marble, while
+the floor is of blue.  There is a wreath of roses levitating above the
+altar, holding a perfectly spherical milky white gem, in it's thorny grasp. 
+~
+0 0 0
+D2
+~
+~
+0 0 1976
+M0 H0
+S
+#1978
+Security Check Point Alpha~
+The only odd thing about this room is the utter silence. Even when the
+guard moves, you cannot hear thier armor rattle. There is a rich red glow
+coming from the north, and a brillent blue from the east.
+~
+0 0 0
+D0
+~
+~
+0 0 1979
+D1
+~
+~
+0 0 1975
+M0 H0
+S
+#1979
+Temple of Suffering~
+A malevolent red light illuminates the black statue, behind the altar. 
+The altar has a certain shine to it, as if it may have been been recently
+painted.  Hovering above the altar is a large wreath of barbed wire, holding
+an opaque black orb.  The walls of this room are hot to the touch, and seem
+to be recently painted as well.  There are four chains leading leading from
+the floor to the statues neck.  
+~
+0 0 1
+D2
+~
+~
+0 0 1978
+M0 H0
+S
+#1980
+Dark Hallway~
+You have fallen, you are standing in a dark room, there is no light 
+an the only direction you can move seem's to be north. The smell is very
+strong, urine and shit overwhelm you sences. The floor seems to be made
+of the same black oily substance the rest of the city was made of. You
+hear screams coming from the north, as well as people shouting orders.
+~
+0 0 1
+D0
+~
+~
+0 0 1987
+D4
+~
+~
+0 0 1975
+M0 H0
+S
+#1981
+LeighAnne's Leatherworks~
+The smell of fresh leather overwhelms you.  You notice that many objects
+are hanging from hooks behind the counter.  Seated behind the counter
+working is LeighAnne who is a humble woman trying to make a living.  She
+notices you and beckons you towards the counter.  
+~
+0 0 0
+D0
+~
+~
+0 0 1955
+M0 H0
+S
+#1982
+Choon's Nefarious Magicks~
+You have entered a humble little shop, it services all the magic users in 
+Thenia. There is an odd smell coming from a cauldron which Choon is carefully
+watching over, he notice you and beckons you to look around. You notice many
+jars and wands on display behind the counter, as well as various magical
+items of odd shape and color.
+~
+0 0 0
+D0
+~
+~
+0 0 1956
+M0 H0
+S
+#1983
+Sheba's Curisity Shop~
+The light in the room is of a blue color eminating from all around.  You
+see many curious items on display behind one of the larger counters in the
+room You notice a rather large woman named Sheba.  She is looking at you,
+she beckons you over to the expensivly priced stuff.  She is all the time
+eyeing you coin purse.  Large poster is posted below the large counter.  
+~
+0 0 0
+D3
+~
+~
+0 0 1933
+M0 H0
+S
+#1984
+Jean's Defensive Arts~
+This room has all the armor a warrior can use, you notice tables upon
+tables of armor.  Jean invites you to test there quility, but if you break
+it you payed for it.  This store is well layed out the cheapest stuff is bye
+the door and the expensive stuff by the counter.  
+~
+0 0 0
+D0
+~
+~
+0 0 1957
+M0 H0
+S
+#1985
+Laurour's WeaponSmithery.~
+The noise in this room is deafing, Larou is busy making a new sword from
+some of the finest metal in Thenia.  There are many of Larou's wares out on
+display, many of the weapons glow or hum.  There is also a small selection
+of exotic weapons hidden behind the counter.  There is a small sign placed
+on the counter for all to see.  
+~
+0 0 1
+D0
+~
+~
+0 0 1958
+M0 H0
+S
+#1986
+Terra's Retreat~
+This room has best smell in all of Thenia, the room is beautifully decorated
+with tables with hand-made table clothes. Terra is busy with the bills and
+stuff, she is a nice woman. The soild looking stair lead to the Hotel suites
+on the upper level. There is a sign on the counter.
+~
+0 0 0
+D1
+~
+~
+0 0 1945
+M0 H0
+S
+#1987
+Containment Area~
+This is the judgement area, there is a large desk in the centre of the
+room seated behind the desk is judge "Frais" he will determin your sentance
+and either have you put to death or put in a cell.  In the north east corner
+of the room is a large axe for beheading, and in the south west corner is a
+rope run through a metal ring in the ceiling.  You feel that coming in here
+was a bad idea.  
+~
+0 0 0
+D0
+~
+~
+1 0 1990
+D1
+~
+~
+1 0 1988
+D2
+~
+~
+0 0 1980
+D3
+~
+~
+1 0 1989
+M0 H0
+S
+#1988
+Cell #2~
+This room is obvisiously made for the keeping and housing of criminals,
+there is a large door to blocking the only exit out of the room. You see
+three prisoners shackled to the wall. You hope there fate does not await
+you so you better leave or aleast say a prayer.
+~
+0 0 0
+D3
+~
+~
+1 0 1987
+M0 H0
+S
+#1989
+Cell #1~
+This room is obvisiously made for the keeping and housing of criminals,
+there is a large door to blocking the only exit out of the room. You see
+three prisoners shackled to the wall. You hope there fate does not await
+you so you better leave or aleast say a prayer.
+~
+0 0 0
+D1
+~
+~
+1 0 1987
+M0 H0
+S
+#1990
+Cell #3~
+This room is obvisiously made for the keeping and housing of criminals,
+there is a large door to blocking the only exit out of the room. You see
+three prisoners shackled to the wall. You hope there fate does not await
+you so you better leave or aleast say a prayer.
+~
+0 0 1
+D2
+~
+~
+1 0 1987
+M0 H0
+S
+#1991
+Hallway~
+Say just above Terra's, its much quieter up here. There are three
+rooms, one in each direction. The small lantern mounted on the wall
+gives off haunting shadows.
+~
+0 0 0
+D0
+~
+~
+1 1931 1992
+D1
+~
+~
+1 1930 1994
+D3
+~
+~
+1 1928 1993
+D5
+~
+~
+0 0 1986
+M0 H0
+S
+#1992
+Honeymoon Suite~
+As you enter this lovely bedroom, the large canopied bed seems
+to overwhelm the room. The room is decorated is a sky blue
+motif. There is an empty dresser against the west wall. Off 
+in the south east corner there is a large white bath tub with
+cute little white feet. The only door leads back to the hallway.
+~
+0 0 0
+E
+dresser~
+Wooden dresser with many open drawers, atop this fine crafted
+dresser is a nice arangement of flower, roses, carnations, daisy,
+they are all magical and will never die, they will forever 
+enhance the fragrence in this room.
+~
+E
+bed~
+This king sized bed is covered by a sky blue duvet and the
+canopy appears to be just slightly darker blue. The bed is
+soft but firm quite a contrast to the pillows from the Pillow
+Emporium. There are two good sized pillows on the bed though.
+~
+E
+bath~
+This white bathtub is huge, you could probably fit two people
+in  it easily. It stands freely on four cute little feet. It
+seems well positioned so that it can be filled from a tap in 
+the wall ... ohhh running water. Kind of makes you want to 
+hop in doesn't it?
+~
+D2
+~
+~
+1 1931 1991
+M0 H0
+S
+#1993
+Room Number (One)~
+You enter a cozy looking room. There is a large bed in the centre of
+the room with a matress  and pillows, a large amour is against the west 
+wall. There is a small almost white bathtub in the south east corner
+of the room. Your only exit is east.
+~
+0 0 0
+D1
+~
+~
+1 1928 1991
+M0 H0
+S
+#1994
+Room Number (Three)~
+You enter a cozy looking room. There is a large bed in the centre of
+the room with a matress and pillows, a large armour is against the west
+wall. There is a small almost white bathtub is the south east corner
+of the room. Your only exit is west.
+~
+0 0 0
+D3
+~
+~
+1 1930 1991
+M0 H0
+S
+#1995
+Outside the City of Thenia~
+You are standing before the charrd remains of the gates of Thenia.  The
+gates themselves are thirty feet high buy ten feet wide.  Each gate is made
+of solid charrd black metal unlike any substance you have seen before. 
+Looking east and west you see two towers near each corner of the wall.  On
+top of each tower you see a very large human and a very large black dragon
+eternaly engaged in combat.  You notice shadow in the sky above as well as
+the occasional "roar" in the back ground.  To the north-east can be seen
+bright flashes of light.  
+~
+0 4 0
+D0
+~
+~
+0 0 1304
+D2
+~
+~
+0 0 1939
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+M 1900 spec_executioner Load to: dragonrider guard
+M 1901 spec_executioner Load to: dragonrider guard
+M 1902 spec_executioner Load to: dragonrider guard
+M 1904 spec_executioner Load to: dragonrider guard
+M 1908 spec_executioner Load to: dragonrider guard
+M 1909 spec_executioner Load to: dragonrider guard
+M 1910 spec_executioner Load to: dragonrider guard
+M 1911 spec_executioner Load to: dragonrider guard 
+M 1912 spec_executioner Load to: dragonrider guard
+M 1913 spec_executioner Load to: dragonrider guard
+M 1914 spec_executioner Load to: dragonrider guard
+M 1916 spec_executioner Load to: dragonrider guard
+M 1918 spec_executioner Load to: dragonrider general
+M 1919 spec_cast_judge Load to: jugde troble
+M 1920 spec_executioner Load to: dragonrider guard
+S
+
+
+
+#RESETS
+D 0 1939 2 2
+D 0 1975 0 2
+D 0 1987 0 2
+D 0 1987 1 2
+D 0 1987 3 2
+D 0 1988 3 2
+D 0 1989 1 2
+D 0 1990 2 2
+D 0 1991 0 2
+D 0 1991 1 2
+D 0 1991 3 2
+D 0 1992 2 2
+D 0 1993 1 2
+D 0 1994 3 2
+M 0 1930 6 1912 1
+M 0 1900 3 1926 0
+E 0 1908 0 7
+E 0 1905 0 11
+E 0 1907 0 1
+E 0 1909 0 14
+E 0 1910 0 16
+M 0 1916 3 1953 1
+E 0 1902 0 16
+E 0 1907 0 1
+E 0 1905 0 11
+E 0 1903 0 8
+M 0 1917 2 1954 1
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+E 0 1909 0 14
+M 0 1914 2 1959 1
+E 0 1911 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+M 0 1915 1 1960 1
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+M 0 1912 2 1961 1
+E 0 1912 0 12
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+M 0 1913 1 1962 1
+E 0 1901 0 16
+E 0 1906 0 3
+E 0 1905 0 11
+E 0 1908 0 7
+M 0 1910 2 1963 1
+E 0 1910 0 16
+E 0 1907 0 1
+E 0 1905 0 11
+E 0 1904 0 5
+M 0 1911 1 1964 1
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+E 0 1908 0 7
+M 0 1908 2 1967 0
+E 0 1913 0 13
+E 0 1910 0 16
+E 0 1908 0 7
+E 0 1905 0 11
+E 0 1907 0 1
+M 0 1909 1 1968 0
+E 0 1914 0 14
+E 0 1905 0 11
+E 0 1912 0 5
+E 0 1901 0 16
+E 0 1906 0 3
+M 0 1906 2 1969 0
+E 0 1911 0 16
+E 0 1906 0 11
+E 0 1915 0 18
+E 0 1903 0 8
+E 0 1907 0 1
+M 0 1907 1 1970 0
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+E 0 1908 0 7
+E 0 1913 0 13
+M 0 1904 2 1971 0
+E 0 1901 0 16
+E 0 1905 0 11
+E 0 1914 0 14
+E 0 1904 0 5
+M 0 1905 1 1972 0
+E 0 1905 0 11
+E 0 1902 0 16
+E 0 1907 0 1
+E 0 1915 0 18
+M 0 1901 2 1973 0
+E 0 1906 0 3
+E 0 1905 0 11
+E 0 1908 0 7
+E 0 1912 0 5
+E 0 1910 0 16
+M 0 1902 1 1974 0
+E 0 1902 0 16
+E 0 1905 0 11
+E 0 1907 0 1
+E 0 1915 0 18
+M 0 1918 4 1975 1
+E 0 1901 0 16
+E 0 1905 0 11
+E 0 1906 0 3
+E 0 1907 0 1
+E 0 1915 0 18
+M 0 1925 1 1981 1
+G 0 1923 0
+G 0 1924 0
+G 0 1925 0
+G 0 3060 0
+G 0 3062 0
+G 0 3064 0
+G 0 3068 0
+M 0 1924 1 1982 1
+G 0 1917 0
+G 0 1918 0
+G 0 1919 0
+G 0 1920 0
+G 0 1922 0
+M 0 1929 1 1983 1
+G 0 1932 0
+G 0 1907 0
+G 0 1915 0
+M 0 1926 1 1984 1
+G 0 1903 0
+G 0 1904 0
+G 0 1906 0
+G 0 1908 0
+G 0 1909 0
+G 0 1912 0
+G 0 1913 0
+G 0 1914 0
+M 0 1927 1 1985 1
+G 0 1901 0
+G 0 1902 0
+G 0 1910 0
+G 0 1911 0
+G 0 1927 0
+M 0 1928 1 1986 1
+G 0 1928 0
+G 0 1930 0
+G 0 1931 0
+O 0 1926 0 1986
+M 0 1919 1 1987 1
+E 0 1900 0 16
+M 0 1920 2 1987 1
+E 0 1903 0 8
+E 0 1904 0 5
+E 0 1902 0 16
+M 0 1921 1 1989 1
+E 0 1916 0 10
+S
+
+
+
+#SHOPS
+1924 0 26 10 3 4 100 100 1 24
+1925 0 9 32 0 0 100 100 1 24
+1926 9 0 0 0 0 250 75 1 24
+1927 5 0 0 0 0 300 75 1 24
+1928 18 1 30 0 0 100 100 1 24
+1929 30 33 8 1 0 200 200 1 24
+0
+
+
+
+#$

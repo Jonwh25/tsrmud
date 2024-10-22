@@ -1,0 +1,57 @@
+ILAB OLC Beta 1.0
+Jason Dinkel
+Apr. 07 1995
+
+These are some of the changes that I have made to this version of OLC.
+Notice that I will not be keeping a running tally of repairs I have
+made.  I will only included changes that have been made since the last
+version I released.
+
+Changes:
+) When removing the last builder from the list, he is replaced by "None".
+) Many superfluous functions were removed.
+) NULL removed to keep code looking Envy-esque.
+) Memory problems fixed. (str_dup used in create_mob/obj)
+) Resets now show just those in the room.
+) Randomized exits allowed.
+) Multiple flags may be entered on one line.  Thanks Russ Taylor.
+) Vnum range is syntax checked.
+) Minimal filename syntax checking.
+) Table lookup for spec_funs and stats and flags.
+) New display format for all editors.
+) Fix to close_socket by Talen added, then removed again when code revised.
+) Table lookup for commands.
+) Command dump of editor commands to user added.
+) Fixed the Who command, now it displays editing characters, then removed
+  again when code revised.
+) Added C flag to complement c flag for prompts by showing vnum being edited.
+) Used new table format to display current flags, stats, spells,
+  special functions.
+) Rewrote help.
+) Save routines now check for builder authorization and asave area, for
+  example, finds the area of the currently edited object/mobile and saves only
+  that area.  Before it would save the area that the player was physically
+  standing in even if editing in another area at that time.
+) editing no longer crashes game when it becomes too large.
+) used last line skipping(as in CircleMUD) instead of truncation.
+) ensured that strings entered via the editor cannot have '~' in them.
+) revised secutiry levels, now 0 is lowest, and there in no upper limit.
+  Areas are loaded with a security of 1 if they don't have a security
+  value set.  This means that beginning players (security=0) will not
+  be able to edit them.
+) Objects can be created and get saved in player files and still be
+  loaded even if the database doesn't get saved.
+) fix all d->connected checks.  By changing the configuration of
+  olc this became unnecessary.  Connected states for editors are now
+  internalized.
+) tilde no longer used in SEdit.  Smash_tilde() called at the beginning
+  if string_add so that .r "hello" "he~lo" is not allowed.  Thanks to
+  James Seng for noticing this.
+) removed the light command for rooms because it isn't saved in the
+  database.
+) list "key" etc for just working area.
+   list mob <shop>, <spec (spec_name)>, <level (#)>, <name (name)>
+            <sex (letter)>, <align (number)>
+   list obj <type (? types)>, <name (name)>
+   list room
+

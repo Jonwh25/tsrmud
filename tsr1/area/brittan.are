@@ -1,0 +1,3475 @@
+#AREADATA
+Name        [70  150] Britannia~
+Builders    Variant~
+VNUMs       200 299
+Security    8
+End
+
+
+
+#MOBILES
+#200
+lord british~
+Lord British~
+Lord British strides by, his robes swirling behind.
+~
+Lord British is a man of indeterminate age.  His face bears no sign of
+wrinkles, though his eyes seem infinitely older.  He has a thick brown beard
+which adds to his strong jawline, giving him a distinctly kingly appearance.
+You know instantly that he is royalty, even though he only wears a thin
+circlet of gold atop his head.  Around his neck he wears a small medallion
+in the shape of a silver serpent.  This is the famed relic that gave
+Britannia its royal device, and spawned so many legends.  
+
+~
+human~
+ABGTVa DFGHJ 1000 0 
+0 150 100 16d150+20000 100d10+700 4d25+125 0
+-100 -100 -100 -98
+CFGKLQ ABCJMPQ DLO AEV
+standing standing male 23000
+AFHMV ABCDEFGHIJK M unknown
+#201
+chuckles clown~
+Chuckles~
+Chuckles the Clown is here, juggling brightly colored balls.
+~
+Chuckles the Clown, as the other Companions of the Avatar seems to be of
+an indeterminate age.  With his brightly colored clothing and his jolly
+manner, however, one would think that he had not lived through the three
+ages of darkness, and seen the fall of Sosaria.  However little is known
+about the mysterious jester, it is common knowledge that he has been a
+member of Lord British's court for several centuries.  Rumor has it that
+Chuckles is one of Lord British's most trusted advisors, though the nobility
+scoff at the possibility of such a commoner giving advice.  With a wink and
+a merry jig, he steps past you, and begins to juggle while whistling a
+pirate chanty.  
+~
+human~
+AGHS CDF 600 0 
+0 80 0 12d360+1920 80d10+100 5d16+40 0
+-40 -40 -40 -15
+CFGJKN ABNP JLR AV
+standing standing male 1200
+AFHMV ABCDEFGHIJK M unknown
+#202
+Iolo Arbalest bard~
+Iolo Arbalest~
+Iolo Arbalest is here, admiring the architecture of the castle.
+~
+Iolo is one of the original eight Companions of the Avatar, and one of
+his closest friends.  As the other companions, Iolo has been alive and
+active in the realm of Britannia for many centuries, though he appears much
+older than his comrades.  His long white beard makes him seem quite old,
+though the twinkle in his eye shows the vitality still within him.  His
+accuracy with a longbow is legendary, and if the stories are true, his
+appearance belies his deadliness.  He examines the new additions to
+Britannia Castle with an appraising eye, marvelling at the architectural
+wonders.  
+~
+human~
+AGT DFG 1000 0 
+0 100 20 12d562+2730 50d10+600 5d20+50 0
+-52 -52 -52 -21
+EFGHK ABJLN GM AIQV
+standing standing male 3491
+AFHMV ABCDEFGHIJK M unknown
+#203
+Shamino~
+Shamino~
+Shamino is here, looking out over the city.
+~
+Shamino is the most enigmatic of the eight Companions of the Avatar, and
+certainly the most deadly.  The ranger has a thick beard, dark hair, and an
+intense look in his eyes.  Legends say that he is more shadow than man.  He
+usually makes his home in the vast wilderness of Spiritwood east of Skara
+Brae, but came at the summons of Lord British to the celebration at
+Britannia.  More a woodsman than a nobleman, it is not surprising that you
+would find him here, gazing up at the skies above.  He nods at you slightly,
+but does not otherwise acknowledge your presence.  
+~
+human~
+ABGT DFG 1000 0 
+0 130 30 12d949+4135 50d10+900 6d22+65 0
+-71 -71 -71 -51
+CEFGHIKL ABF JMNPQ AEV
+standing standing male 500
+AFHMV ABCDEFGHIJK M unknown
+#204
+Nystul mage~
+Nystul~
+Nystul the Court Magician is here, studying a large tome.
+~
+Having recently recovered from the bout of madness that swept the mages
+of Britannia, Nystul the Wise still carries a ragged look about him.  His
+greying hair is a stark contrast to his red robes, and he seems to have aged
+the least gracefully out of all of the comrades of the Avatar.  Nystul
+appears to be deep in concentration of a large tome, and has several carved
+rune stones scattered across the desk before him.  
+~
+human~
+ABGR DFG 800 0 
+0 90 20 12d455+2310 50d10+500 5d8+45 0
+-46 -46 -46 -25
+AFK ABNP O AGV
+standing standing male 10532
+AFHMV ABCDEFGHIJK M unknown
+#205
+Geoffrey knight commander~
+Sir Geoffrey~
+Sir Geoffrey, Knight Commander of the Britannian guard trains here.
+~
+Sir Geoffrey practices his technique here, striking a straw dummy with
+his longsword.  The youngest of the Avatar's companions, Geoffrey's square
+jaw and trim moustache give him a masculine appearance befitting his rank as
+Knight Commander.  As yet, he has not courted a wife, having dedicated
+himself to the protection of the castle and his lord.  Second only to Sir
+Dupre in skill, the pair have always been excellent sparring partners,
+matching his energy and youth against Sir Dupre's experience.  He takes no
+notice of you, concentrating on his excercises.  
+~
+human~
+ABGKTb DFG 1000 0 
+0 100 20 12d562+2730 100d10+100 5d20+70 0
+-52 -52 -52 -21
+CDEFHKQ ABMPQ GLN AHV
+standing standing male 5205
+AFHMV ABCDEFGHIJK M unknown
+#206
+sir dupre knight~
+Sir Dupre~
+Sir Dupre is here, donning his plate armor.
+~
+Sir Dupre, the former mayor of Trinsic has been a battle companion of the
+Avatar since the days of Exodus, and the Third Age of Darkness.  Since his
+adventures in the Stygian Abyss, he has left the office and taken command of
+Lord British's troops.  His long dark hair and moustache give him a sinister
+appearance, though legends hold that he is the most honorable of knights. 
+He dons his shining mail carefully, then pulls his tabard over the armor and
+fastens it tightly.  Dupre is the embodiment of the paladin.  
+~
+human~
+ABGJT DFG 1000 0 
+0 125 25 12d877+4000 125d10+100 6d21+62 0
+-68 -68 -68 -28
+CEFGHIKLNOQ AB JLNQ ARVY
+standing standing male 9360
+AFHMV ABCDEFGHIJK M unknown
+#207
+mage councillor woman mir~
+Miranda~
+Miranda is here, going over a record of council decisions.
+~
+Miranda is one of the three women on the Great Council of Britannia, and
+perhaps the most progressive of Britannia's leaders.  She was instrumental
+in the protection of the wildlife of Lock Lake, and figured prominently in
+the naturalization of the gargoyles on Britannia.  She is a beautiful woman,
+and is frequently seen about the castle playing with her son when she is not
+in the Council Chambers fighting for the rights of women.  
+~
+human~
+ABGR DFG 1000 0 
+0 100 20 12d562+2730 80d10+300 5d20+50 0
+-52 -52 -52 -23
+FKLR ABJKLQ NO AIV
+standing standing female 8390
+AFHMV ABCDEFGHIJK M unknown
+#208
+Inwisloklem gargoyle~
+Inwisloklem~
+A large gargoyle is here, signing several scrolls.
+~
+A giant gargoyle is here, his massive bulk perched precariously on a
+small stool.  His great wings are folded behind him to allow his arms free
+range of movement to sift through the mound of paperwork strewn before him
+on the table.  As this fact sinks in, the immense creature looks up from his
+documents, and flashes you a toothy grin.  Rising to his full height of
+eight feet and flexes his muscled arms.  Just as you begin to think that he
+will rend you limb from limb, the gargoyle folds one arm over his chest, and
+says, 'To be called Inwisloklem.  To mean 'Interpreter' in your language. 
+To be honored to meet you' Inwisloklem then bows slightly in your direction,
+his wings flaring out behind.  
+~
+demon~
+ABGRT DFHJTc 1000 0 
+0 130 25 13d1015+4650 130d10+100 6d23+70 0
+-71 -71 -71 -30
+DEFOU ABHKT BHILMNOPT AGIJNV
+standing standing male 3840
+AFHMV ABCDEFGHIJKP L unknown
+#209
+nanna woman~
+Nanna~
+Nanna is here, looking after the children.
+~
+Nanna is an elderly lady of about nintey years, though she is still
+energetic and cheerful, and takes care of the children of the castle's
+inhabitants in the nursery.  She smiles at you briefly, then turns back to
+the children who are all calling out her name in unison.  
+~
+human~
+ABGHQ DFG 1000 0 
+0 70 7 11d200+1560 70d100+100 5d14+35 0
+-34 -34 -34 -12
+EFGK ABMNT LQ AEHJOV
+standing standing female 2830
+AFHMV ABCDEFGHIJK M unknown
+#210
+benny servant~
+Benny~
+Benny is here, serving dinner.
+~
+Benny is a middle aged man with wire rimmed spectacles.  He serves dinner
+to the waiting noblemen with surprising agility, balancing several plates on
+one hand while serving with his other.  He smiles at you and gives a quick
+bow before ducking into the kitchen and getting more servings from his wife
+Boots.  
+~
+human~
+ABGHTY FHI 900 0 
+0 60 8 11d221+1225 60d10+100 5d12+30 0
+-27 -27 -27 -9
+FIKQ ABMN HLQ AIVX
+standing standing male 500
+AFHMV ABCDEFGHIJK M unknown
+#211
+boots servant~
+Boots~
+Boots is here, preparing pastries for desert.
+~
+Boots is here, issuing orders to the other kitchen staff, and attempting
+to prepare a pastry dish.  She appears to be middle aged, though still vital
+and active, and an important member of the castle staff.  She smiles at you,
+brushing some hair out of her eyes with a flour streaked hand, and offers
+you a sample of the meal.  Benny ducks in and pecks her on the cheek, before
+loading himself down with the next course of the meal.  
+~
+human~
+ABGHQY FH 1000 0 
+0 60 9 11d221+1225 60d10+100 5d12+30 0
+-27 -27 -27 -9
+CFKQ ABE LMNQ AIV
+standing standing female 650
+AFHMV ABCDEFGHIJK M unknown
+#212
+wislem gargoyle~
+Wislem~
+Wislem is here, watching your movements carefully.
+~
+Wislem is a massive specimen of his already large species.  His dark red
+eyes track your progress through the audience chamber of Lord British,
+taking note of your every motion.  As you draw closer to him, he folds a
+hand over his chest and bows slightly, never breaking your stare.  'To be
+called Wislem.  To mean 'Wise man' in your language.  To wish you fortune in
+your travels.  ' The gargoyle then straightens up, towering above you, and
+crosses his arms.  There is an unreadable expression on his face as he gazes
+down at you.  For some reason you find it unsettling.  
+~
+demon~
+ABGT DFGJTc 1000 0 
+0 110 27 12d679+3175 110d10+100 6d18+55 0
+-58 -58 -58 -24
+DEFGHIKLMNOQ ABMNTZ BEHILQT AGINV
+standing standing male 12000
+AFHMV ABCDEFGHIJK L unknown
+#213
+charles servant~
+Charles~
+Charles is here, announcing visitors.
+~
+A young man of less than thirty years, Charles is the son of Benny and
+Boots, and like the rest of his family, is a member of the castle staff. 
+His duties range from announcing those who would have an audience with Lord
+British, to ensuring the comfort of visiting dignitaries.  As you enter the
+hall, he nods at you, smiling slightly, and indicates for you to enter
+freely.  
+~
+human~
+ABCGHT FH 1000 0 
+0 75 11 11d345+1735 75d10+100 5d15+37 0
+-36 -36 -36 -13
+CEFKQ ABMN LQ AIV
+standing standing male 1000
+AFHMV ABCDEFGHIJK M unknown
+#214
+nell servant~
+Nell~
+Nell is here, making the bed.
+~
+A comely girl of about twenty years.  She is obviously the daughter of
+Boots and Benny, sharing many of their characteristics.  As you watch her
+careful movements as she folds a sheet, you suddenly realise that she is
+with child.  The signs of her pregnancy are just beginning to show, but soon
+the curve of her belly will betray her condition.  Noticing your stare, a
+flush creeps into her face, and she turns away from you.  
+~
+human~
+ABCGH FH 1000 0 
+0 65 8 11d259+1390 65d10+100 5d13+32 0
+-30 -30 -30 -10
+FIK ABMN L AEV
+standing standing female 900
+AFHMV ABCDEFGHIJK M unknown
+#215
+sherry mouse~
+Sherry~
+Sherry is here, telling a story to the children.
+~
+Sherry is a small grey mouse with a blue ribbon tied around her neck. 
+Otherwise unremarkable, you would ordinarily put out some traps, if it were
+not for the fact that she is reciting a story in her high squeaky voice, to
+the children who listen with rapt attention.  She acts out the dramatic
+portions of the story, much to the delight of the children who squeal with
+excitement.  Spotting you, she rises up on her back legs and waves at you,
+beaming a mousey grin at you.  
+~
+human~
+ABGT DFG 1000 0 
+0 135 25 12d1023+4390 135d10+100 6d23+67 0
+-74 -74 -74 -50
+CDEFGHKLQ ABFLQ HMN AJVX
+standing standing female 12000
+AFGHMV ABCDEFGHIJKQ S unknown
+#216
+parrot~
+The Parrot~
+A parrot is here, eyeing you cautiously.
+~
+This is a typical tropical bird with bright green feathers.  It appears
+quite comfortable in the closet, and seems perturbed that you have entered
+his space.  With a shrill whistle, the bird screeches, "Pretty bird," and
+turns its head sideways to eye you disconsolately.  
+~
+human~
+ABGT CFGHIJ 1000 0 
+0 40 4 10d108+662 40d10+100 5d8+20 0
+-15 -15 -15 -2
+FGHK 0 F AGV
+standing standing female 1
+AFHMV ABCDEFGHIJK M unknown
+#217
+feridwyn~
+Feridwyn~
+Feridwyn is here, wandering about the castle.
+~
+Feridwyn is here, examining the workings of the castle.  He is a native
+of Paws, and has only recently been acknowledged as one of Britannia's most
+philanthropic citizens.  A former Fellowship member, he is one of the few
+who actually succeeded in using the resources of the Fellowship for the good
+of the community, by establishing a shelter for the destitute.  He has been
+instrumental in the recovery of Paws after it's devastating drought, and
+destruction of it's industry  
+~
+human~
+ABGT DFGHIJ 0 0 
+0 80 24 12d360+1920 80d10+100 5d16+40 0
+-40 -40 -40 -15
+EFIKQ ABMNP HLQ AHMOVY
+standing standing male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#218
+julia~
+Julia~
+Julia wanders the castle, humming a jaunty tune.
+~
+Julia is an attractive woman, who appears to be in her late twenties,
+though you know for a fact that she is actually much older.  As one of the
+eight Companions of the Avatar, she has fought at his side since the fall of
+Sosaria.  She is widely known as a mechanical genius, and her feats of
+engineering are almost as common in bard's epic tales, as her heroic deeds
+in the recent times of crises.  Just as legendary is her firey temper, which
+matches her red hair and her sparkling green eyes.  Legend has it that she
+once argued the Avatar himself into submission.  
+~
+human~
+AGTY DFG 1000 0 
+0 140 28 13d1015+4650 140d10+100 6d23+70 0
+-77 -77 -77 -33
+CEFGHIKLQ ABLMNPQ H AIJV
+standing standing female 7000
+AFHMV ABCDEFGHIJK M unknown
+#219
+nelson~
+Nelson~
+Nelson is here, looking over Nystul's research.
+~
+The sage Nelson is widely considered the most accomplished scholar in
+Britannia, and since the appearance of the Guardian in Britannia has taken
+it upon himself to gather information about the other realms of the
+universe.  He is the highest authority on the Gargoyle race with the
+exception of their sage Inforlem.  Though he heads the Lyceaum on Verity
+Isle, he is currently in Britannia for Lord British's celebration of the
+Guardian's defeat.  He looks over Nystul's research on the subject of runic
+magic with a critical eye, comparing the notes with a book of his own on the
+subject of the Stygian Abyss.  
+~
+human~
+ABGR FH 1000 0 
+0 130 20 12d949+4135 130d10+100 6d22+65 0
+-71 -71 -71 -30
+CFHKLQ ABKMN LQR APV
+standing standing male 12000
+AFHMV ABCDEFGHIJK M unknown
+#220
+patterson~
+Patterson~
+Patterson is here, arguing a point of order.
+~
+Patterson, the Mayor of Britain is here, discussing the activities of the
+Great Council.  A dark man with a thick moustache, he seems a quite
+formidable opponent either in discussion or politics.  Although Patterson
+was elected largely due to his extensive backing from the Fellowship, he has
+since proved himself a worthy and able mayor and has retained his office
+despite the Fellowship's dissolution.  Looking up from the minutes, he nods
+briefly before launching into another exchange with a fellow councillor.  
+~
+human~
+ABGT FH 1000 0 
+0 145 30 13d1089+4915 145d10+100 6d24+72 0
+-80 -80 -80 -35
+CEFGHIKLQR ABMNO LPQ AGIV
+standing standing male 6000
+AFHMV ABCDEFGHIJK M unknown
+#221
+lady tory~
+Lady Tory~
+Lady Tory is here, listening to the debate.
+~
+Lady Tory is a striking woman in her mid twenties.  She is renowned for
+her remarkable empathic abilities, and as such, is frequently sought out for
+advice on personal matters.  She is the official representative of Serpent's
+Hold to the Great Council, and has used her abilities for the benefit of
+alll Britannia.  She watches the movements of the council, appearing to take
+no notice of you.  
+~
+human~
+ABGR DFG 1000 0 
+0 125 35 12d877+3885 125d10+100 6d21+62 0
+-68 -68 -68 -28
+CEFGHIKLNP ABLMNPQ J AFIVZ
+standing standing female 2300
+AFHMV ABCDEFGHIJK M unknown
+#222
+draxinusom gargoyle~
+Draxinusom~
+Lord Draxinusom, ruler of the gargoyle nation is here.
+~
+Lord Draxinusom is an immense gargoyle, towering over even Wislem.  When
+he spies you, his lips split in a jagged grin, and he turns to face you. 
+His wings flare out beside him, stretching a full six yards from tip to tip,
+and he folds an arm over his chest in the traditional gargoyle greeting. 
+With a voice that rumbles like thunder, Draxinusom says, 'To be Lord
+Draxinusom, leader of the gargoyle nation.  To be pleased to meet you.  To
+bid you welcome on behalf of my race.  ' Though his eyes seem to be hollow
+pits, you know that the horrble visage is the face of a noble leader.  The
+tales of the Avatar speak highly of the gargoyle lord, and his prowess in
+diplomacy and combat.  
+~
+demon~
+AGTW DFGJTc 1000 0 
+0 120 60 15d1250+6000 150d10+100 25d6+80 0
+-100 -100 -100 -50
+CDEFGHIKLNOQ ABHLMNQT BDEHIKLT AGNVY
+standing standing male 12000
+AFHMV ABCDEFGHIJK L unknown
+#223
+max child~
+Max~
+Max is here, bouncing up and down.
+~
+Max is here, bouncing up and down, wnadering around the castle.  He is
+the child of Miranda and Raymundo, and has gotten the best qualities of
+both.  Dogged tenacity from his mother, and boundless energy from his
+father.  He runs towards you, smiling.  He tags you on the leg, and runs
+away squealing 'You're it!  You're it!  ' 
+~
+human~
+ACGT CEFGJ 1000 0 
+0 40 12 10d108+662 40d10+100 5d8+20 0
+-15 -15 -15 -2
+0 ABM LN AIPV
+standing standing male 20
+AFHMV ABCDEFGHIJK M unknown
+#224
+kristy child~
+Kristy~
+Kristy is here, listening carefully.
+~
+Kristy is here, listening intently to Sherry as she reads her favorite
+story.  She smiles at Sherrys antics as she acts out a particularly dramatic
+section of the story.  Kristy was discovered by a compassionate Great
+Council member in an abandoned house in Paws.  She was brought to the royal
+nursery where she could be given a proper upbringing.  She has since been
+quite happy in the care of Nanna, and seems to be growing up well.  
+~
+human~
+ABGHT FH 1000 0 
+0 40 5 10d108+662 40d10+100 5d8+20 0
+-15 -15 -15 -2
+FIK ABFP LQ AGIV
+standing standing female 5
+AFHMV ABCDEFGHIJK S unknown
+#225
+nicholas child~
+Nicholas~
+Nicholas is here, playing with a toy sword.
+~
+Nicholas is here, distractedly waving a sword.  He was found abandoned at
+the castle gates about seven years ago, with no note attached.  A servant
+brought the poor child in, and ever since he has been raised in the nursery
+by Nanna and Sherry.  You notice that between looking intently at the sword,
+he looks over at Sherry, and listens to her words.  He appears to be trying
+to listen without letting on that he is enjoying the story.  At a
+particuarly good portion of the story, he smiles brightly, enjoying Sherry's
+antics.  As he notices your gaze, his face becomes dour again, and he
+returns his attention to the sword.  
+~
+human~
+ABGHT DEGHI 1000 0 
+0 40 5 10d108+662 40d10+100 5d8+20 0
+-15 -15 -15 -2
+CFIKQ ABMP LMR AGQV
+standing standing male 0
+AFHMV ABCDEFGHIJK M unknown
+#226
+knight lieutennant~
+Knight Lieutennant~
+A Knight Lieutennant is here, patrolling the castle.
+~
+The Knight Lieutennant strides confidently through the halls of the
+castle, ready to assist at a moments notice.  He wears a tabard of royal
+blue with the silver serpent device upon it, over a set of field plate which
+clanks slightly as he walks past you.  He eyes you suspiciously in passing,
+then continues down the corridor.  
+~
+human~
+ABCGTY CEFGJ 1000 0 
+0 80 20 12d360+1920 80d10+100 5d16+40 0
+-40 -40 -40 -15
+CEFKLQ ABMN FP AGJV
+standing standing male 3000
+AFHMV ABCDEFGHIJK M unknown
+#227
+knight watchman~
+Knight Watchman~
+A Knight Watchman is here, ever vigilant.
+~
+The Knight Watchman is the first line of defense of Britannia Castle.  In
+the event of a siege, their crossbow bolts raining down on the enemy forces
+will do much to even the odds.  Of course given the small chance of a siege
+on the castle, the dedication of the watchman is a testament to their
+intense training and loyalty to the crown.  They stride confidently along
+the battlements, their crossbows always at the ready.  
+~
+human~
+AGTW CDEF 1000 0 
+0 90 20 23d455+2310 80d10+100 5d16+40 0
+-46 -46 -46 -18
+0 ABMP FLNQ AGOV
+standing standing male 4000
+AFHMV ABCDEFGHIJK M unknown
+#228
+elite guard~
+Elite Guard~
+An Elite Guard is here, protecting the castle.
+~
+The Elite Guard is here, equipped with full plate armor and a wickedly
+sharp halberd.  He stands at attention, ready to deal with potential trouble
+should it arise.  His faceplate is up, affording him the opportunity to
+glance at you apprasingly.  Looking you up and down, he snorts slightly, and
+returns his eyes to straight forward.  If it were not for the polearm and
+the longsword sheathed at his side, you might make him change his mind about
+his assesment.  
+~
+human~
+ABGT C 1000 0 
+0 100 26 12d562+2730 100d10+100 5d20+50 0
+-52 -52 -52 -21
+CEFHKLPQ ABMN FKLQ AIPV
+standing standing male 6000
+AFHMV ABCDEFGHIJK M unknown
+#229
+elite royal guard~
+Elite Royal Guard~
+A member of the Elite Royal Guard is here, standing at attention.
+~
+The Elite Royal Guard are chosen from the ranks of the Britannian
+knights, and only the most accomlished and loyal soldiers are given the
+priveledge of wearing the red mantle over their royal blue tabard.  It is a
+symbol of great honor, and of great prowess in battle.  The sight is quite
+impressive, and conveys the feeling that Lord British is quite safe from
+harm.  You sense his eyes upon you, despite the fact that they are conealed
+beneath his gleaming steel faceplate.  
+~
+human~
+ABGT DFG 1000 0 
+0 120 30 12d808+3640 120d10+100 6d20+60 0
+-65 -65 -65 -27
+CEFGHKLP ABLMNQ O AIPV
+standing standing male 7000
+AFHMV ABCDEFGHIJK M unknown
+#230
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 1000 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 AV
+standing standing none 0
+AFHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#200
+ankh medallion~
+an Ankh~
+The medallion of the Avatar on a small golden chain.~
+unknown~
+armor AGKT AC
+10 10 10 10 0
+140 5 100 P
+A
+4 1
+A
+3 1
+A
+19 5
+A
+18 5
+A
+13 100
+A
+12 50
+#201
+silver serpent medallion~
+the Silver Serpent~
+A small silver medallion in the shape of a serpent.~
+unknown~
+armor AGK AC
+30 30 30 30 0
+155 5 10000 P
+A
+18 10
+A
+19 10
+A
+13 100
+A
+12 150
+#202
+main gauche sword~
+a main gauche~
+A short stubby sword, with nicks and dents.~
+unknown~
+weapon 0 AN
+sword 3 8 chop 0
+60 100 500 P
+A
+17 10
+#203
+longsword sword~
+a steel longsword~
+A steel longsword from the forges of Minoc.~
+unknown~
+weapon 0 AN
+sword 9 4 slash 0
+65 150 1200 P
+A
+19 2
+#204
+shield serpent~
+the Serpent Shield~
+A silver shield embossed with the Britannian royal device.~
+unknown~
+armor GK AJ
+10 20 20 30 0
+100 500 10000 P
+A
+14 -50
+#205
+glass sword~
+the Glass Sword~
+A sword with a blade of bevelled glass.~
+unknown~
+weapon GTUZ AN
+sword 100 1 blast D
+150 100 10000000 P
+#207
+vial silver serpent venom~
+the Silver Serpent venom~
+A small silver vial with serpent's venom in it.~
+unknown~
+potion G A
+80 'frenzy' 'poison' 'poison' ''
+70 20 5000 P
+#208
+triple crossbow~
+the triple crossbow~
+A bizarre crossbow contraption, with a triple firing mechanism.~
+unknown~
+weapon 0 AN
+exotic 16 3 none F
+100 200 20000 P
+A
+19 2
+A
+18 10
+#209
+shamino's longbow bow~
+Shamino's longbow~
+The longbow of the ranger Shamino, and a quiver of his trademark arrows.~
+unknown~
+weapon GK AN
+exotic 13 5 none F
+130 50 1000 P
+A
+3 2
+A
+18 7
+#210
+chunk rock blackrock~
+Blackrock.~
+A chunk of glittering black stone.~
+unknown~
+gem CEHMOPTZ AO
+0 0 0 0 0
+100 50 100000 P
+A
+4 -10
+A
+12 -100
+A
+3 -10
+#211
+ort rune stone~
+an Ort runestone~
+A small runestone engraved with the 'Ort' rune.~
+unknown~
+wand GTZ AO
+95 40 20 'lightning bolt' 0
+90 10 100 P
+#212
+sanct rune stone~
+a Sanct runestone.~
+A small runestone engraved with the 'Sanct' rune.~
+unknown~
+wand GTZ AO
+95 40 20 'sanctuary' 0
+90 10 100 P
+#213
+zu rune stone~
+a Zu runestone~
+A small runestone is here, engraved with the 'Zu' rune.~
+unknown~
+wand GTZ AO
+95 40 20 'sleep' 0
+90 10 100 P
+#214
+flam rune stone~
+a Flam runestone~
+A small runestone engraved with the 'Flam' rune~
+unknown~
+wand GTZ AO
+95 40 20 'fireball' 0
+90 10 100 P
+#215
+lor rune stone~
+a Lor runestone~
+A small runestone engraved with the 'Lor' rune.~
+unknown~
+wand GTZ AO
+95 40 20 'cause light' 0
+90 10 100 P
+#216
+armor dupre plate~
+Dupre's plate armor~
+A set of plate armor, embossed with the heraldry of Trinsic.~
+unknown~
+armor GK AD
+20 22 25 30 0
+125 500 5000 P
+#217
+sandalwood box wooden~
+a sandalwood box~
+A small wooden box, made of sandalwood.~
+unknown~
+container GKST AO
+10000 A 0 1000 70
+100 100 1000 P
+#218
+castle key brass~
+the castle key~
+A small brass key, obviously very old.~
+unknown~
+key 0 A
+0 0 0 0 0
+50 10 50 P
+#219
+orb of the moons moonstone black stone~
+the Orb of the Moons~
+A small black orb, about the size of a walnut.~
+unknown~
+warp_stone G AO
+0 0 0 0 0
+50 10 200 P
+A
+3 2
+#220
+fellowship medallion~
+the Fellowship medallion~
+A triangular metal medallion made of an unknown blue metal.~
+unknown~
+armor AEG AC
+5 5 5 25 0
+70 50 500 P
+A
+19 2
+A
+12 100
+A
+4 -1
+A
+3 -1
+#221
+blood moss red fungus~
+blood moss~
+A deep red fungus, that shirks the dark of night.~
+unknown~
+pill G A
+40 'teleport' '' '' ''
+50 1 25 P
+#222
+mandrake root~
+mandrake root~
+A small root, shaped like a human body.~
+unknown~
+pill G A
+50 'detect magic' 'stone skin' '' ''
+50 10 500 P
+#223
+ginseng reagent~
+ginseng~
+The forked root of the ginseng plant.~
+unknown~
+pill 0 A
+40 'cure critical' 'cure poison' 'cure disease' ''
+50 10 10 P
+#224
+garlic reagent~
+garlic~
+A large garlic bud, with a rather pungent aroma.~
+unknown~
+pill 0 A
+40 'sanctuary' '' '' ''
+40 0 25 P
+#225
+black pearl reagent~
+a black pearl~
+A flawless black pearl, glittering brightly.~
+unknown~
+pill 0 A
+40 'frost breath' 'fire breath' 'lightning breath' ''
+40 2 90 P
+#226
+nightshade reagent~
+nightshade~
+Venomous nightshade, the most mystic of reagents.~
+unknown~
+pill 0 A
+50 'invisibility' 'poison' 'poison' ''
+40 5 2500 P
+#227
+spider silk reagent~
+spider silk~
+The silk of a spider, painstakingly harvested.~
+unknown~
+pill G A
+40 'sanctuary' '' '' ''
+40 1 1000 P
+#228
+sulfurous ash reagent~
+sulfurous ash~
+Ash from burned sulfur is here, glowing slightly.~
+unknown~
+pill G A
+40 'cause light' '' '' ''
+40 1 50 P
+#229
+boomerang~
+a gargoyle boomerang~
+A large boomerang is here, inscribed with alien runes.~
+unknown~
+weapon G AN
+exotic 15 6 grep D
+120 50 1000 P
+#231
+concave lens~
+a concave lens~
+A perfectly ground concave lens.~
+unknown~
+wand G AO
+100 50 30 'farsight' 0
+100 30 500 P
+#232
+convex lens~
+a convex lens~
+A flawless convex lens.~
+unknown~
+wand G AO
+100 50 30 'detect invis' 0
+100 30 500 P
+#234
+silver bracelet~
+a silver bracelet~
+A glinting silver bracelet inlaid with mithril runes.~
+unknown~
+armor G AM
+15 20 20 30 0
+120 1 12000 P
+A
+3 2
+#235
+crossbow~
+a crossbow~
+A finely crafted crossbow with the mark of Iolo's Bows.~
+unknown~
+weapon 0 AN
+exotic 7 7 none F
+90 100 1000 P
+#236
+halberd polearm~
+a halberd~
+A halberd with a wickedly sharp blade.~
+unknown~
+weapon 0 AN
+polearm 10 6 cleave F
+100 150 2500 P
+#237
+chest heavy~
+a heavy chest~
+A heavy chest lies at the foot of the bed.~
+unknown~
+container G 0
+100000 ABCD 238 10000 10000
+150 10000 100000 P
+#238
+brass key tarnished~
+a small tarnished key~
+A small tarnished brass key on a silver chain.~
+unknown~
+key G A
+0 0 0 0 0
+100 100 5 P
+#239
+fountain serpent~
+the serpent fountain~
+A beautifully carved stone fountain with a serpent statue atop it.~
+unknown~
+fountain O 0
+10000000 10000000 'water' 0 0
+1 10000 0 P
+#240
+low bench stone~
+a stone bench~
+Low stone benches in the midst of the flowers flank the fountain. ~
+unknown~
+furniture O 0
+2 10000000 16 150 150
+1 10000 0 P
+#241
+prison key~
+the prison key~
+An old iron key to the prison cells.~
+unknown~
+key 0 A
+0 0 0 0 0
+70 10 2 P
+#242
+iron key~
+an iron key~
+A small iron key to a heavy lock.~
+unknown~
+key 0 A
+0 0 0 0 0
+50 10 10 P
+#243
+carved wooden key~
+a carved wooden key~
+A delicately carved wooden key bearing the symbol of the codex.~
+unknown~
+key G A
+0 0 0 0 0
+100 6 1 P
+#244
+iron box strongbox~
+an iron strongbox~
+A large iron strongbox lies here, its contents well protected.~
+unknown~
+container G 0
+2000 ABCD 245 2000 0
+100 200 1000 P
+#245
+mithril key~
+a delicate silver key~
+A delicate mithril key on a thin silver chain.~
+unknown~
+key 0 A
+0 0 0 0 0
+100 12 1200 P
+#0
+
+
+
+#ROOMS
+#200
+Cobblestone Road~
+Britannia Castle stands before you, laid out against the sky in majesty. 
+Blue pennants bearing the standard of Lord British, snap in the wind above
+your head.  The drawbridge is up, and the portcullis has been shut, allowing
+no access to the people of Britannia.  A cobblestone road runs along the
+edge of the moat, travelling to the west, south and east from here.  The
+castle entrance is to the north, across the moat, and behind the defenses of
+Castle Britannia.  
+~
+0 0 1
+D0
+~
+~
+0 0 201
+D2
+~
+~
+0 0 3528
+M100 H100
+S
+#201
+On the Drawbridge~
+You stand on the huge oaken drawbridge of Britannia Castle, the center of
+government for this land, and home of the council of elders.  The castle
+itself is adorned with blue pennants and banners all bearing the standard of
+Lord British, and the silver ankh of the Avatar.  The castle appears sturdy
+enough to survive an extended siege, and the honor guard who man the
+entrance appear quite competant.  
+~
+0 8 1
+D0
+~
+~
+0 0 202
+D2
+~
+~
+0 0 200
+M100 H100
+S
+#202
+Main Hall~
+The main hall opens before you, its walls covered with tapestries of the
+Avatar's adventures.  Tables and chairs are being set up as if for a great
+banquet.  Servants and carpenters scurry throughout the hall, making
+preparations.  They manage to keep out of your way for the most part,
+affording you a minimal deference in their duties.  The main hall continues
+to the north, and the drawbridge is to the south.  
+~
+0 8 1
+E
+tapestry~
+The tapestries in this section of the Main Hall depict scenes from the
+First and Second Age of Darkness.  The tapestry on the west wall shows a
+radiant knight, presumably the Avatar, standing boldly before the dark
+wizard Mondain.  His piercing gaze has been captured well by the weaver, and
+it sends a shiver down your spine.  The second tapestry depicts the Avatar
+clashing with the wizard Minax, Mondain's bereaved lover.  Prominent in the
+scene is the lost weapon of the Avatar, the quicksword Enlino.  Legend has
+it that the sword was the most powerful in existence, and was lost in time
+forever after the Avatar's battle with Minax.  Many an adventurer has since
+stared longingly at the tapestry, longing to be the one to recover the
+weapon.  
+~
+E
+tapestries~
+The tapestries in this section of the Main Hall depict scenes from the
+First and Second Age of Darkness.  The tapestry on the west wall shows a
+radiant knight, presumably the Avatar, standing boldly before the dark
+wizard Mondain.  His piercing gaze has been captured well by the weaver, and
+it sends a shiver down your spine.  The second tapestry depicts the Avatar
+clashing with the wizard Minax, Mondain's bereaved lover.  Prominent in the
+scene is the lost weapon of the Avatar, the quicksword Enlino.  Legend has
+it that the sword was the most powerful in existence, and was lost in time
+forever after the Avatar's battle with Minax.  Many an adventurer has since
+stared longingly at the tapestry, longing to be the one to recover the
+weapon.  
+~
+D0
+~
+~
+0 0 203
+D1
+~
+~
+1 0 271
+D2
+~
+~
+0 0 201
+D3
+~
+~
+1 0 244
+M100 H100
+S
+#203
+Main Hall~
+The main hall opens before you, its walls covered with tapestries of the
+Avatar's adventures.  Tables and chairs are being set up as if for a great
+banquet.  Servants and carpenters scurry throughout the hall, making
+preparations.  They manage to keep out of your way for the most part,
+affording you a minimal deference in their duties.  The main hall continues
+to the south, and hallways spring from it to the west and east.  To the
+north is a door which leads to the castle's courtyard.  
+~
+0 8 1
+E
+tapestry~
+The tapestries in this section of the main hall are distinctly different
+from the dark tones of the others.  On the west wall depicts the Avatar
+sundering Exodus into pieces, destroying the foul entity.  Above, sunlight
+streams down through the clouds, indicating the hope of the people and the
+coming unification of Sosaria.  On the right wall is a large tapestry
+depicting the Avatar kneeling before the ancient artifact known only as the
+Codex of Infinite Wisdom.  The device radiates light, shining down on the
+hero of Britannia who basks in its light humbly.  
+~
+D0
+~
+~
+1 0 239
+D1
+~
+~
+0 0 232
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 204
+M100 H100
+S
+#204
+Hallway~
+The rich architecture of the castle is periodically lit by torches on the
+walls.  The grey stone of the walls are broken by doors of dark wood set
+into the south and west walls.  The doors lead to the guest quarters, where
+the visitors of Lord British may rest.  To the east is the main hall, and to
+the north, the hallway continues.  
+~
+0 8 1
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 203
+D2
+~
+~
+1 0 205
+D3
+~
+~
+1 0 207
+M100 H100
+S
+#205
+Guest Quarters~
+The guest quarters of the castle are furnished comfortably, yet not in an
+ostentatious fashion.  The craftsmanship of the furniture lends them an air
+of functionality, so as to be well suited to its occupant.  With the
+travelling cloak hanging over a chair and the dented mace standing in the
+corner, it is obvious that the guest has come a great distance to take part
+in the celebrations.  However, from the workman's tools lying strewn across
+a table, it seem that the traveller had other things on their mind than the
+festivities.  The hallway to the rest of the castle is through a doorway to
+the north, and a closet lies in the wall to the east.  
+~
+0 8 1
+D0
+~
+~
+1 0 204
+D1
+~
+~
+1 0 206
+D2
+~
+~
+1 0 245
+D3
+~
+~
+1 0 246
+M100 H100
+S
+#206
+Closet~
+This is a large closet, approximately six feet deep.  There are a number
+of books stacked neatly on bookshelves, and several sets of women's clothing
+hung neatly before you.  In one corner of the room is a tall stand, about
+five feet high.  Perched atop the stand is a large green bird which cocks
+its head strangely at you.  
+~
+0 8 1
+D3
+~
+~
+1 0 205
+M100 H100
+S
+#207
+Guest Quarters~
+The guest quarters of Britannia Castle are well appointed, slightly more
+luxurious than the other rooms, but still not pretentious.  A dark brown
+travelling cloak is folded neatly on the bed, and a brightly painted lute
+lies on a table nearby.  Also on the table is a disassembled crossbow, and
+some fine tools for its repair.  The exit lies to the west.  
+~
+0 8 0
+D1
+~
+~
+1 0 204
+D3
+~
+hidden~
+1 0 247
+M100 H100
+S
+#208
+Hallway~
+The rich architecture of the castle is periodically lit by torches on
+the walls.  The grey stone of the walls are broken by double doors of dark
+wood in the east wall.  The massive portal leads to the courtyard, set in
+the very center of the castle walls.  The torches flicker slightly from the
+breeze wafting through the slightly ajar door, bringing the fresh smell of
+flowers and the sound of running water.  The hallway continues to the north
+and south, and the courtyard is to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+1 0 241
+D2
+~
+~
+0 0 204
+M100 H100
+S
+#209
+Hallway~
+The grey stone of the hallway branches here, leading in all directions. 
+To the north is a wooden door leading to one of the many guest rooms in the
+castle.  To the west and south, the hallway continues.  To the east is the
+hallway leading to the audience chamber and the throne room of Lord British.
+~
+0 8 0
+D0
+~
+~
+1 0 213
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 210
+M100 H100
+S
+#210
+Hallway~
+The hallway ends here, leaving you in between two doors in the north and
+south walls.  The door to the south is made of a dark wood, almost like
+teak, and has an ornate lock just under the doorknob.  Odd smells waft out
+from under the door to the north, giving the sense of things arcane.  The
+door appears to have no knob at all, and no other visible means of opening. 
+The hallway leads off to the east.  
+~
+0 8 0
+D0
+~
+~
+1 0 211
+D1
+~
+hallway~
+0 0 209
+D2
+~
+~
+1 0 212
+D3
+~
+hidden~
+1 0 249
+M100 H100
+S
+#211
+Nystul's Room~
+This room is a study in the bizarre.  All manner of things magical lie on
+the shelves against the north wall of the room.  The west is dominated by a
+massive bookcase filled with all manner of mystic tome.  Along the east wall
+lie a myriad of bottles, potions and chemicals.  One could brew all manner
+of potion in this arcane paradise.  Many books lie open on the table in the
+center of the room, and many scrolls are piled both under and on top of
+them, giving a freshly ransacked look to the room.  A cauldron bubbles
+fitfully nearby, spewing out a constant barrage of offensive smells, which
+drift along the floor as a grey fog, rolling under the door to the south.  
+~
+0 8 0
+E
+books~
+The Memoirs of Cabrius
+ 
+I Cabrius, call upon those of virtue to join me in a Valorous quest, one which promises to be rich in Sacrifice and Humility.
+Decades ago, Lord British in his wisdom founded eight settlements, each dedicated to one of the Virtues. We Britannitans have lived up to lord's expectations, for the towns of Britain, Jhelom, Minoc, Moonglow, Skara Brae, Trinsic, and Yew have flourished to the present day.
+ 
+I believe the time has come to found one further town, where all Eight Virtues are bound together into a unified whole. In order to people this new community, I call upon the most faithful among our citizenry to come forward in this cause - fighters and mages first, and later craftsmen and even children. 
+ 
+And where shall this new town be located? This has been a matter of long discussion. At first it had been thought to place this colony in a setting conducive to its goals - A pleasant woodlands, adjacent to a placid lake, or even at the peak of a lofty mountain. However, I have since realized that the usefulness to all of Britannia should this Center of Virtue be situated
+in such a place as to seal off a gate that has been in the past been used by Evil forces to trouble us - on the Isle of the Avatar, directly in the Great Stygian Abyss itself!
+~
+D2
+~
+~
+1 0 210
+D3
+~
+hidden~
+1 0 250
+M100 H100
+S
+#212
+Lord British's Study~
+The walls of this room are covered in all manner of animal head trophies.
+There appear to be animals from all over the world, some magical, some
+mundane.  The most striking is the head of a huge red dragon which fills
+nearly the entire west wall.  Just below it and off to one side lies a blank
+trophy mount with a small brass plaque below it.  The door to the rest of
+the castle lies to the north.  
+~
+0 8 1
+E
+brass~
+Severed head of a Headless.
+Captured and killed by Shamino
+As a present for his liege Lord British.
+~
+E
+plaque~
+Severed head of a Headless.
+Captured and killed by Shamino
+As a present for his liege Lord British.
+~
+D0
+~
+~
+1 0 210
+D3
+~
+~
+1 0 248
+M100 H100
+S
+#213
+Guest Quarters~
+This guest room seems to be unused.  All the furniture in the room gleams
+as if recently waxed, especially the large table against the west wall whose
+surface reflects like a dark mirror.  A large bed lies unmade nearby, as if
+recently slept in.  The dressers appear empty, as well the tiny closet is
+completely unused.  The door to the south leads to the hallway, and the rest
+of the castle.  
+~
+0 8 0
+D2
+~
+~
+1 0 209
+M100 H100
+S
+#214
+Hallway~
+The hallway is brightly lit by torches that lie in sconces at regular
+intervals along the walls.  The flickering flames reflect off of mounted
+shields bearing the royal coat of arms which flank the entrance to the
+throne room to the east.  A hallway leads to the west wing of the castle,
+and a third hall leads away to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 217
+D3
+~
+~
+0 0 209
+M100 H100
+S
+#215
+Hallway~
+The hallway ends suddenly with a large shield mounted on the north wall. 
+Affixed firmly with unseen mounts, the shield is inscribed with the symbol
+of the silver serpent and glows slightly in the flickering light.  To the
+west are massive double doors without handle or lock.  Carved deeply into
+the dark wood is a mystical sigil.  It appears to be a six pointed star
+enclosed by a large circle.  Within the triangular center of the star are
+three equal circles, touching on a point at the center of the pattern.  It
+is somewhat...  Captivating...  
+~
+0 8 0
+D2
+~
+~
+0 0 214
+D3
+~
+~
+2 243 216
+M100 H100
+S
+#216
+Avatar's Quarters~
+Though many believe this room to be furnished with gold and littered with
+precious jewels, in fact the furnishings are spartan to say the least.  This
+is one of the few rooms in the castle that does not have tapestries
+depicting the Avatar's exploits, and is devoid of wall hanging of any kind. 
+A large comfortable bed is against the west wall, and a chest lies against
+it's foot.  
+~
+0 8200 0
+D1
+~
+~
+2 243 215
+M100 H100
+S
+#217
+Hallway~
+This is the entry hall to the audience chamber of Castle Britannia, where
+guests are announced to Lord British by the Chamberlain.  The hall opens to
+the north into a massive vaulted chamber with large stained glass windows
+high above.  On either side of the entrance to the chamber are mounted
+shields bearing the royal coat of arms, and the emblem of Lord British. 
+Hallways to the east and west lead away into the rest of the castle, while
+massive double doors to the south provide access to the enclosed courtyard
+within the castle.  
+~
+0 8 0
+D0
+~
+~
+0 0 218
+D1
+~
+~
+0 0 223
+D2
+~
+~
+1 0 242
+D3
+~
+~
+0 0 214
+M100 H100
+S
+#218
+Throne Room~
+The Throne Room of a noble country like Britannia should be ostentatious,
+but surprisingly, it is not.  A plain blue carpet cuts across the white
+stone floor of the chamber, leading towards the throne at it's far end.  The
+vaulted ceiling is supported by massive marble columns, that an ettin could
+encircle with some difficulty.  The walls of the great hall are adorned with
+vast ancient tapestries depicting the epic trials of the Avatar.  Also of
+note are the shields mounted between the tapestries, apparently bearing the
+crests of all the feudal states of old Sosaria.  Their presence in the
+throne room of Britannia Castle is a powerful reminder` of Lord British's
+accomplishments.  His throne lies to the north, and the remainder of the
+castle is to the south.  
+~
+0 8 0
+E
+tapestry~
+The great tapestries cover the entirety of the walls on either side of
+you, measuring at least six yards on a side.  The west tapestry shows the
+Avatar standing guard over the form of Shamino, defending him from three
+dark indistinct forms.  The three dark figures are certainly the
+Shadowlords, the physical manifestations of the three surviving shards of
+Mondain's Crystal.  Representing the most uncertain time of Britannia's long
+history, when Lord British himself was lost in the vast Underworld, the
+tapestry is a constant reminder of Lord Blackthorne's interpretations of the
+laws of the Avatar, and the inherent dangers that lie in fanaticism.  The
+east tapestry depicts the Avatar standing between Lord British and Lord
+Draxinusom with his arms open wide.  Both leaders hold a lens, and gaze into
+the void through them, seeing the Codex of Infinite Wisdom.  This final
+tapestry reminds the people of the realm about the resolution of the legend
+of the False Prophet, and the need for unity in the times to come.  
+~
+D0
+~
+~
+0 0 219
+D2
+~
+~
+0 0 217
+M100 H100
+S
+#219
+Before the Throne~
+Just below the raised platform that contains Lord British's throne,
+advisors, seekers and guards alike mill about, waiting to be heard.  The mix
+of people is somewhat surprisng, as noble and commoner, citizen and servant
+rub shoulders in the lineup.  While a few of the nobles don't seem as happy
+about the arrangement the honor guard refuse to allow them to push past the
+commoners in line.  The throne of Lord British is to the north, and the
+remainder of the castle is to the south.  To the west are the doors which
+lead to Lord British's private chambers, and to the east is the dining hall.
+~
+0 8 0
+D0
+~
+~
+0 0 253
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 218
+D3
+~
+~
+0 0 220
+M100 H100
+S
+#220
+Lord British's Room~
+This room is well appointed, but by no means what you would expect of a
+king's chambers.  The room is dominated by a massive four poster bed whose
+posts are carved from the dark trees of Spiritwood, and its canopy made from
+the finest silk of the town of Paws.  His writing table nearby is littered
+with various documents of a bureaucratic nature, most dealing with the Lock
+Lake investigation.  In a small display case near his desk, are a bizarre
+collection of items of various types.  Some of the more exotic of items
+include a fragment of blackrock, a glowing gem, a rolled up carpet, and a
+book whose title is written in an unintelligible language.  A door leads to
+the east opening into the Throne Room.  A second door is to the west, and
+appears to lead to Lord British's closet.  
+~
+0 8 0
+E
+book~
+The book is written in a bizarre flowing script that appears to have
+little or no runic component.  The cover bears a large painting of a red
+creature with a straw basket dangling from it's stomach.  In the basket,
+apparently the crimson sphere's prey, are five creatures.  The first is a
+young human girl in an odd blue frock, who holds a small dog under her arm. 
+The third creature appears to be either a bodak or a lion, who cowers behind
+an animated scarecrow.  It is obviously some sort of golem.  The fifth and
+final creature in the basket it the most bizarre of all.  It too appears to
+be a golem as well, but is fashioned head to toe out of what can only be
+metal.  He has a hand axe slung over one shoulder, and his other arm around
+the cowering bodak in a friendly squeeze.  The red orb appears to be
+carrying its prey over a rainbow, presumably to its nest to feed.  Though,
+as you look at the picture, the passengers in the basket don't appear to be
+frightened.  Perhaps they are some sort of willing sacrifice to the flying
+beast.  What knowledge could Lord British possibly glean from this tome? 
+The possibilities are too horrible to consider.  
+~
+D1
+~
+~
+0 0 219
+D3
+~
+~
+1 0 221
+M100 H100
+S
+#221
+Closet~
+This is a closet.  There are many of Lord British's robes and garments,
+and the entire room smells strongly of sandalwood.  There doesn't appear to
+be anything of interest except for the closet door which opens to the east. 
+~
+0 8 0
+D0
+~
+~
+1 0 252
+D1
+~
+~
+1 0 220
+D3
+~
+~
+1 0 251
+M100 H100
+S
+#222
+Hallway~
+The hallway is brightly lit by torches that lie in sconces at regular
+intervals along the walls.  The flickering flames reflect off of mounted
+shields bearing the royal coat of arms which flank the entrance to the
+throne room to the west.  The hallway continues to the south and to the
+east.  
+~
+0 8 0
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 231
+D3
+~
+~
+0 0 217
+M100 H100
+S
+#223
+Hallway~
+The grey stone of the hallway branches here, going to the north, south
+and west.  To the north are the kitchen and nursery, and to the south are
+the servants quarters.  This area bustles with activity as the servants that
+are necessary to keep the castle running smoothly go about their duties with
+characteristic efficiency.  
+~
+0 8 0
+D0
+~
+~
+0 0 224
+D1
+~
+hidden~
+1 0 257
+D2
+~
+~
+0 0 228
+D3
+~
+~
+0 0 222
+M100 H100
+S
+#224
+Servant's Hallway~
+This hallway is plain, and much more narrow than the other castle
+hallways.  It connects the nursery to the west with the kitchen to the
+north.  The smells that waft down the hallway make your mouth water.  To the
+south are the servants quarters, and the hallways to the rest of the castle.
+~
+0 8 0
+D0
+~
+~
+1 0 226
+D1
+~
+hidden~
+1 0 256
+D2
+~
+~
+0 0 223
+D3
+~
+~
+1 0 225
+M100 H100
+S
+#225
+Nursery~
+This room is littered with wooden toys and dolls, scattered randomly
+throughout the room.  Cradles and toy chests line the walls, and children
+are everywhere.  Obviously enough, this is the castle nursery, newly created
+at the request of some of the councillors.  Though Lord British grumbles
+about the "blasted nursery" and the children that have the run of his
+castle, he does come down occasionally and reads to them.  The only exit is
+to the east.  
+~
+0 8 0
+D1
+~
+~
+1 0 224
+M100 H100
+S
+#226
+Kitchen~
+This room is a bustle of activity, and with good reason.  The kitchen
+staff are working like mad to prepare food for the entire castle.  Despite
+making enough food for nobles, retainers and councillors alike, the servants
+still take care to give each plate a beautiful arrangement.  This the
+fiercely protected domain of Boots, and the wonderful smells that issue from
+the room are proof of her skill.  The dining room is through a door to the
+west, and the rest of the castle is down the hallway to the south.  
+~
+0 8 0
+D0
+~
+hidden~
+1 0 254
+D1
+~
+hidden~
+1 0 255
+D2
+~
+~
+1 0 224
+D3
+~
+~
+1 0 227
+M100 H100
+S
+#227
+Dining Hall~
+This massive hall contains an immense table of dark wood polished to a
+high sheen.  The lengthy table stretches from one end of the room to
+another, and has a replication of the Codex carved into its precise center. 
+Hanging from the walls are huge banners bearing Britannia's colors and royal
+device.  The silver weave of the serpent reflects beautifully from the blaze
+of the nearby fireplace.  Wonderful smells waft through the door to the
+kitchen to the east, through which a near constant stream of servants pours.
+Nobles and other patrons wander in through the door to the west, which leads
+to Lord British's Throne Room.  
+~
+0 8 0
+D1
+~
+~
+1 0 226
+D3
+~
+~
+0 0 219
+M100 H100
+S
+#228
+Hallway~
+This hallway leads to the quarters of the many servants that keep the
+castle running properly.  The hallway to the north leads to the rest of the
+castle, and the doors to the south and west lead to the quarters.  
+~
+0 8 0
+D0
+~
+~
+0 0 223
+D1
+~
+hidden~
+1 0 258
+D2
+~
+~
+1 0 230
+D3
+~
+~
+1 0 229
+M100 H100
+S
+#229
+Servant's Quarters~
+This plain room has several beds, and two large dressers.  The spartan
+furnishings seem typical of the servants quarters for those who choose to
+live within the castle, rather than in Britain.  The exit to the room is to
+the east.  
+~
+0 8 0
+D1
+~
+~
+1 0 228
+M100 H100
+S
+#230
+Servant's Quarters~
+This plain room has several beds, and two large dressers.  The spartan
+furnishings seem typical of the servants quarters for those who choose to
+live within the castle, rather than in Britain.  The exit to the room is to
+the north.  
+~
+0 8 0
+D0
+~
+~
+1 0 228
+M100 H100
+S
+#231
+Hallway~
+The rich archetecture of the castle is periodically lit by torches in
+sconces on the walls.  The grey stones are broken by double doors in the
+west wall.  The massive portal leads to the courtyard, set in the very
+center of the castle walls.  The torches flicker slightly from the breeze
+wafting through the slightly ajar doors, bringing the smell of fresh flowers
+and the sound of running water.  To the east lie the chambers of the
+Britannian Council, the august body charged with the ruling of the nation. 
+The door to the solemn chamber is unadorned, and otherwise unrecognisable. 
+The hallway continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 222
+D1
+~
+~
+1 0 236
+D2
+~
+~
+0 0 232
+D3
+~
+~
+1 0 243
+M100 H100
+S
+#232
+Hallway~
+The hallway bends sharply here, winding through the area of the castle
+most frequented by the castle guards.  To the east are the soldiers'
+barracks, where they spend their spare time, engaging in games of chance and
+other pursuits.  To the south is the Practice Room where the Knight
+Commander administers drill to the guards, to train them for battle.  The
+sound of ringing swords and curses frequently spill out into the hallways. 
+The hallway continues to the north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 231
+D1
+~
+~
+1 0 233
+D2
+~
+~
+1 0 237
+D3
+~
+~
+0 0 203
+M100 H100
+S
+#233
+Guard Barracks~
+This room has many beds lined up in rows along its walls.  Several tables
+are in the center of the room, with guards throwing dice, or sharing a pint
+of ale.  Luckily any sparring that takes place usually ends up being moved
+to the Practice Room, to be settled with proper judging.  All in all, the
+atmosphere is that of easy cameradere, and a millitary precision noticible
+even when they are not on patrol.  The barracks continue to the south and
+the east.  The door leading from the barracks to the rest of the castle is
+to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 235
+D2
+~
+~
+0 0 234
+D3
+~
+~
+1 0 232
+M100 H100
+S
+#234
+Guard Barracks~
+This room has many beds lined up in rows along its walls.  Several
+tables are in the center of the room, with guards throwing dice, or sharing
+a pint of ale.  Luckily any sparring that takes place usually ends up being
+moved to the Practice Room, to be settled with proper judging.  All in all,
+the atmosphere is that of easy cameradere, and a millitary precision
+noticible even when they are not on patrol.  The barracks continue to the
+north.  
+~
+0 8 1
+D0
+~
+~
+0 0 233
+M100 H100
+S
+#235
+Guard Barracks~
+This room has many beds lined up in rows along its walls.  Several
+tables are in the center of the room, with guards throwing dice, or sharing
+a pint of ale.  Luckily any sparring that takes place usually ends up being
+moved to the Practice Room, to be settled with proper judging.  All in all,
+the atmosphere is that of easy cameradere, and a millitary precision
+noticible even when they are not on patrol.  The barracks continue to the
+west.  
+~
+0 8 0
+D3
+~
+~
+0 0 233
+M100 H100
+S
+#236
+Council Chambers~
+This long room is the home of the Britannian Council where the policy for
+the entire realm is decided amongst its representatives.  Though the council
+is not actually in session, several members of the council are here
+discussing the recent events, most notably the situation of Lock Lake and
+it's horrible state.  The councillors are seated at a long table that has an
+empty seat at this end of the table, by custom left open for the absent
+Avatar.  The chambers continue to the east, and the doors to the chamber are
+to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 261
+D3
+~
+~
+1 0 231
+M100 H100
+S
+#237
+Practice Room~
+This room is devoted to the art of war, specifically that of close
+combat.  The rooms expansive walls have countless weapons mounted upon them,
+some decorative, some much more functional.  In the center of the room is a
+raised platform of hardwood approximately a foot tall for sparring.  This
+platform occupies the majority of the room, leaving only a narrow band of
+floor on all sides for the observers.  Of course, not many enter the room to
+observe.  Stood up against the far wall are several straw dummies hung from
+wooden frames, designed to teach effective sword technique.  The Knight
+Commander administers all these methods of training and more to his men. 
+The more rigorous the better.  The Knight Commander's private quarters are
+to the west, and the door leading from the practice room is to the north.  
+~
+0 8 0
+D0
+~
+~
+1 0 232
+D1
+~
+hidden~
+1 0 260
+D2
+~
+hidden~
+1 0 270
+D3
+~
+~
+1 0 238
+M100 H100
+S
+#238
+Knight Commander's Private Quarters~
+Since leaving his home in the city of Valor, Jhelom, Sir Geoffrey has
+made his life in the service of his lord, as Knight Commander of the
+Britannian Guard.  The spartan furnishings of the room reflect his new
+discipline and style of command.  Aside from the low bed and the chest of
+drawers, the room is totally bare.  It is one of the few rooms in the castle
+not decorated with some form of painting or tapestry.  The only door from
+the room is to the east, and leads to the Practice Room where he spends most
+of his time.  
+~
+0 8 0
+D1
+~
+~
+1 0 237
+M100 H100
+S
+#239
+Courtyard~
+The central courtyard of Britannia Castle is a dazzling array of color
+and lush vegetation.  The dark stone of the castle set against the trees and
+flowers makes a breathtaking scene of natural beauty.  Stone paths run
+through the courtyard, winding across the open space.  The sounds of running
+water come from the fountain to the north, at the center of the yard.  To
+the south are large double doors that lead back into the castle proper.  
+~
+0 0 2
+D0
+~
+~
+0 0 240
+D2
+~
+~
+1 0 203
+M100 H100
+S
+#240
+By the Fountain~
+In the center of the courtyard, and by rights the exact center of the
+castle, is a marvellous fountain.  In the center is a massive stone
+sculpture of the giant silver serpent that used to guard the castle of
+Exodus in the third Age of Darkness.  The statue sprays water in a graceful
+arc into the fountain below, catching the light wonderfully.  Rocky paths
+wind away in all directions from here, leading back towards the castle. 
+Roses and Violets grow beautifully, surrounding low stone benches that flank
+the fountain, making this a favorite rendezvous spot for lovers.  
+~
+0 8704 0
+D0
+~
+~
+0 0 242
+D1
+~
+~
+0 0 243
+D2
+~
+~
+0 0 239
+D3
+~
+~
+0 0 241
+M100 H100
+S
+#241
+Courtyard~
+The central courtyard of Britannia Castle is a dazzling array of color
+and lush vegetation.  The dark stone of the castle set against the trees and
+flowers makes a breathtaking scene of natural beauty.  Stone paths run
+through the courtyard, winding across the open space.  The sounds of running
+water come from the fountain to the east, at the center of the yard.  To the
+west are large double doors that lead back into the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 240
+D3
+~
+~
+1 0 208
+M100 H100
+S
+#242
+Courtyard~
+The central courtyard of Britannia Castle is a dazzling array of color
+and lush vegetation.  The dark stone of the castle set against the trees and
+flowers makes a breathtaking scene of natural beauty.  Stone paths run
+through the courtyard, winding across the open space.  The sounds of running
+water come from the fountain to the south, at the center of the yard. 
+Nearby there is a brass astrolabe beside a stone sundial, to tell time at
+any given moment.  These instruments, most probably the tools of Nystul are
+used to catalog the movements of the heavens above.  Immense double doors to
+the north block the way into the throne room of Castle Brittania.  
+~
+0 0 0
+D0
+~
+~
+1 0 217
+D2
+~
+~
+0 0 240
+M100 H100
+S
+#243
+Courtyard~
+The central courtyard of Britannia Castle is a dazzling array of color
+and lush vegetation.  The dark stone of the castle set against the trees and
+flowers makes a breathtaking scene of natural beauty.  Stone paths run
+through the courtyard, winding across the open space.  The sounds of running
+water come from the fountain to the west, at the center of the yard.  To the
+east are large double doors that lead back into the castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 231
+D3
+~
+~
+0 0 240
+M100 H100
+S
+#244
+Secret Passage~
+The passage here, though secret, has obviously been used recently.  There
+are no spider webs blocking the passage, and no dust has settled upon the
+floor.  A sconce with an unlit torch is on the wall near the door to the
+east, and a stone stair leads up to the battlements.  The passage continues
+to the west, fading into the darkness.  To the east is a clearly outlined
+door set into the stone of the wall.  
+~
+0 9 0
+D1
+~
+~
+1 0 202
+D3
+~
+~
+0 0 245
+D4
+~
+~
+0 0 272
+M100 H100
+S
+#245
+Secret Passage~
+This passage has not been used in quite a while.  There are several
+spiderwebs blocking the corridor, that you clear away with your hand.  Tiny
+spiders scatter at your approach, crawling into the nooks and crannies of
+the room.  Disused torches line the walls, covered in dust and grime
+accumulated over the last hundred years.  Through all the grit, you can make
+out the outline of a door in the north wall.  It has a simple iron ring set
+into the latch, for moving the massive stone wall.  The passage becomes more
+clear to the east, where it seems someone has passed recently.  
+~
+0 9 0
+D0
+~
+~
+1 0 205
+D1
+~
+~
+0 0 244
+M100 H100
+S
+#246
+Secret Passage~
+From the sheer amount of cobwebs in this passage, you would think that it
+were inhabited with giant spiders rather than the more mundane variety that
+now scatter from your light.  The thought makes you shudder somewhat when
+you imagine huge arachnids crawling between the walls throughout the castle.
+Aside from the spider webs, the dust upon the floor makes you realize that
+this passage has not been used in quite some time.  The passage moves away
+from you into darkness to the north, and a faint sliver of light is visible
+from a secret door to the east.  
+~
+0 9 0
+D0
+~
+~
+0 0 247
+D1
+~
+~
+1 0 205
+M100 H100
+S
+#247
+Secret Passage~
+This narrow hallway is covered in dust and cobwebs that at times block
+the entire passage.  It seems that no one has passed through this area for
+quite some time.  Whatever purpose this hall once served, it seems that it
+no longer is useful, or has simply been forgotten.  The hall is dark to the
+south and to the north, extending for an unknown distance.  To the east, an
+iron ring set into the wall indicates a secret door into the room beyond.  
+~
+0 9 0
+D0
+~
+~
+0 0 248
+D1
+~
+~
+1 0 207
+D2
+~
+~
+0 0 246
+M100 H100
+S
+#248
+Secret Passage~
+This passage seems to have been recently used.  The dusty floor has
+several sets of footprints tracked across it, moving in indetermintate
+directions.  This area is relatively clear of spider's webs, unlike the hall
+to the south, which appears to have fallen into disuse.  It's darkness and
+dust do not encourage you to travel in that direction.  The hall to the
+north however appears to have quite regular traffic, and the torches in the
+sconces appear to have been lit recently.  You also notice signs of wear on
+the stone floor.  By the arc, you would guess that a large section of the
+east wall hinges inward here, allowing access to the room beyond.  
+~
+0 9 0
+D0
+~
+~
+0 0 249
+D1
+~
+~
+1 0 212
+D2
+~
+~
+0 0 247
+M100 H100
+S
+#249
+Secret Passage~
+The stone floor of this hall is covered in numerous tracks across the
+thick dust which covers nearly everything in the passageway.  There are
+sconces to either side of what appears to be a secret door in the east wall.
+Despite the smell of must and the stagnant air, it seems that this passage
+is in use, judging by the footprints that lead into darkness to the north
+and south, heading to parts unknown.  
+~
+0 9 0
+D0
+~
+~
+0 0 250
+D1
+~
+~
+1 0 210
+D2
+~
+~
+0 0 248
+M100 H100
+S
+#250
+Secret Passage~
+This closed passageway smells heavily of dust, overlaid by a more pungent
+aroma, as if someone were brewing a foul concoction nearby.  A eerie green
+light bleeds out from a small crack in the east wall, and faint wisps of
+grey fog leak out from under what appears to be a concealed door.  The
+secret passage continues to the north and south, disappearing into darkness
+in both directions.  
+~
+0 9 0
+D0
+~
+~
+0 0 251
+D1
+~
+~
+1 0 211
+D2
+~
+~
+0 0 249
+M100 H100
+S
+#251
+Secret Passage~
+The passage here, though secret, has obviously been used recently.  There
+are no spider webs blocking the passage, and no dust has settled upon the
+floor.  A sconce with an unlit torch is on the wall near the door to the
+east, and are scattered periodically down the dark corridor to the south.  
+~
+0 0 0
+D1
+~
+~
+1 0 221
+D2
+~
+~
+0 0 250
+M100 H100
+S
+#252
+Secret Passage~
+This small passage is lit by flickering torches, and has obviously been
+used recently.  From the placement, you would guess that the passage led
+from the Throne Room of Britannia to the chambers of Lord British himself. 
+This corridor must be used by Lord British to allow covert access to his
+chambers, for reasons unknown.  There are secret doors in the east and south
+walls, their outlines easily visible in the torchlight.  
+~
+0 8 0
+D1
+~
+~
+1 0 253
+D2
+~
+~
+1 0 221
+M100 H100
+S
+#253
+Lord British's Throne~
+The throne of Britannia, unchanged since the first days of the
+unification, is carved out of a solid block of granite shaped into an ankh. 
+Though it seems slightly out of place against the rich carpet and marble
+floors, the sovereign of Britannia would not part with the throne that is
+older than the country itself.  It's rugged integrity has given Lord British
+inspiration through the darkest times of Britannia's history, and the
+strength to stand against the subtle power of the Guardian.  The throne
+stands watch over the audience chambers that extend to the south.  
+~
+0 8 1
+D1
+~
+~
+1 0 254
+D2
+~
+~
+0 0 219
+D3
+~
+~
+1 0 252
+M100 H100
+S
+#254
+Secret Passage~
+This small passage is lit by flickering torches, and has obviously been
+used recently.  From the placement, you would guess that the passage leads
+from the Throne Room, to the castle kitchen.  The hall is filled with the
+smell of baking, and it makes your mouth water.  Though the necessity of
+having a secret passageway to the kitchen eludes you, it certainly makes it
+easier to sneak a midnight snack.  There are secret doors to the west and
+south.  
+~
+0 8 0
+D2
+~
+~
+1 0 226
+D3
+~
+~
+1 0 253
+M100 H100
+S
+#255
+Secret Passage~
+The smell of bread and pastry in the hallway fights a losing battle
+against the smell of must.  The passage, though secret, has obviously been
+used recently.  There are no spider webs blocking the passage, and no dust
+has settled upon the floor.  A sconce with an unlit torch is on the wall
+near the door to the west, and are scattered periodically down the dark
+corridor to the south.  
+~
+0 9 0
+D2
+~
+~
+0 0 256
+D3
+~
+~
+1 0 226
+M100 H100
+S
+#256
+Secret Passage~
+The stone floor of this hall is covered in numerous tracks across the
+thick dust which covers nearly everything in the passageway.  There are
+sconces to either side of what appears to be a secret door in the west wall.
+Despite the smell of must and the stagnant air, it seems that this passage
+is in use, judging by the footprints that lead into darkness to the north
+and south, heading to parts unknown.  
+~
+0 9 0
+D0
+~
+~
+0 0 255
+D2
+~
+~
+0 0 257
+D3
+~
+~
+1 0 224
+M100 H100
+S
+#257
+Secret Passage~
+The stone floor of this hall is covered in numerous tracks across the
+thick dust which covers nearly everything in the passageway.  There are
+sconces to either side of what appears to be a secret door in the west wall.
+Despite the smell of must and the stagnant air, it seems that this passage
+is in use, judging by the footprints that lead into darkness to the north
+and south, heading to parts unknown.  
+~
+0 9 0
+D0
+~
+~
+0 0 256
+D2
+~
+~
+0 0 258
+D3
+~
+~
+1 0 223
+M100 H100
+S
+#258
+Secret Passage~
+This passage seems to have been recently used.  The dusty floor has
+several sets of footprints tracked across it, moving in indetermintate
+directions.  This area is relatively clear of spider's webs, indicating
+recent passage in these halls, for whatever purpose.  The torches on the
+wall appear to have been recenly used, indicating that the passage probably
+has quite regular traffic.  Signs of wear on the stone floor indicate that a
+section of the wall to the west arcs into the passage to allow access to the
+room beyond.  The passage itself continues on in darkness to the south and
+north.  
+~
+0 9 0
+D0
+~
+~
+0 0 257
+D2
+~
+~
+0 0 259
+D3
+~
+~
+1 0 228
+M100 H100
+S
+#259
+Secret Passage~
+The stone floor of this hall is covered in numerous tracks across the
+thick dust which covers nearly everything in the passageway.  There are
+sconces to either side of what appears to be a secret door in the west wall.
+Despite the smell of must and the stagnant air, it seems that this passage
+is in use, judging by the footprints that lead into darkness to the north
+and south, heading to parts unknown.  
+~
+0 9 0
+D0
+~
+~
+0 0 258
+D2
+~
+~
+0 0 260
+D3
+~
+~
+0 0 261
+M100 H100
+S
+#260
+Secret Passage~
+The passage here, though secret, has obviously been used recently. 
+There are no spider webs blocking the passage, and no dust has settled upon
+the floor.  A sconce with an unlit torch is on the wall near the door to the
+west, and are scattered periodically down the dark corridor to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 259
+D3
+~
+~
+1 0 237
+M100 H100
+S
+#261
+Council Chambers~
+This long room is the home of the Britannian Council where the policy for
+the entire realm is decided amongst its representatives.  Though the council
+is not actually in session, several members of the council are here
+discussing the recent events, most notably the situation of Lock Lake and
+it's horrible state.  The councillors are seated at a long table that has an
+empty seat at this end of the table, which is usually occupied by Lord
+British when the council is in session.  He serves as ajudicator for the
+usually heated discussions, and keeps the arguments of the councillors in
+line.  The council chambers continue to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 259
+D3
+~
+~
+0 0 236
+M100 H100
+S
+#270
+Secret Passage~
+This short passage, though concealed makes no secret of its exits.  A
+large iron ring is set into the locking mechanism of a large section of the
+north wall.  Apparently composed of solid stone, this door appears quite
+difficult to dislodge.  Look The passage itself has several torches in
+sconces scattered along its walls to the west, where it apparently reaches
+some sort of stair.  The lack of dust and cobwebs indicates to you that this
+passage is used quite often, though its purpose eludes you.  
+~
+0 9 0
+D0
+~
+~
+1 0 237
+D3
+~
+~
+0 0 271
+M100 H100
+S
+#271
+Secret Passage~
+The passage here, though secret, has obviously been used recently. 
+There are no spider webs blocking the passage, and no dust has settled upon
+the floor.  A sconce with an unlit torch is on the wall near the door to the
+west, and a stone stair leads up to the battlements.  The passage continues
+to the east, fading into the darkness.  To the west is a clearly outlined
+door set into the stone of the wall.  
+~
+0 9 0
+D1
+~
+~
+0 0 270
+D3
+~
+~
+1 0 202
+D4
+~
+~
+0 0 273
+M100 H100
+S
+#272
+On the Battlements~
+From the battlements of Castle Britannia, you have a panoramic view of
+the entirety of the City of Britain.  The largest city in the realm, it
+spreads for miles in every direction.  To the south, it edges up to the
+outskirts of the village of Paws, and to the east it stretches nearly to the
+Compassion moongate.  Blue pennants bearing the standard of Lord British
+snap near your head in the light breeze.  Below you you can see the
+drawbridge and the cobblestone roads below.  In the distance to the south,
+you see the Music Hall, and can just make out the edge of the Brittanian
+Museum.  To the west and east, the battlements continue, and there are also
+stairs down behind you, leading into the darkness of the castle below.  
+~
+0 0 0
+D1
+~
+~
+0 0 273
+D3
+~
+~
+0 0 274
+D5
+~
+~
+0 0 244
+M100 H100
+S
+#273
+On the Battlements~
+From the battlements of Castle Britannia, you have a panoramic view of
+the entirety of the City of Britain.  The largest city in the realm, it
+spreads for miles in every direction.  To the south, it edges up to the
+outskirts of the village of Paws, and to the east it stretches nearly to the
+Compassion moongate.  Blue pennants bearing the standard of Lord British
+snap near your head in the light breeze.  Below you you can see the
+drawbridge and the cobblestone roads below.  In the distance to the south,
+you can see the squat functional building that is Britain's Town Hall. 
+Also, in the distance, you can just make out the friendly lights of the Blue
+Boar Tavern to the southeast.  Though you can barely see the tavern between
+the Town Hall and the Museum, you imagine that you can smell the mutton
+cooking from here.  To the west and east, the battlements continue, and
+there are also stairs down behind you, leading into the darkness of the
+castle below.  
+~
+0 0 0
+D1
+~
+~
+0 0 294
+D3
+~
+~
+0 0 272
+D5
+~
+~
+0 0 271
+M100 H100
+S
+#274
+On the Battlements~
+From your vantage point atop the battlements, you can see the bulk of the
+city of Britain sprawled before you, stretching towards the horizon.  In the
+immediate vicinity, you can just barely make out the shape of the old
+Fellowship hall just peeking out over the minarets of the Music Hall.  Also
+visible is the nearby Britannian Theatre where Raymundo has recently opened
+his new play based on the life of the Avatar, with...  Mixed response.  The
+battlements lead to the west and south, and a short staircase allows access
+to the flat roof to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 295
+D1
+~
+~
+0 0 272
+D3
+~
+~
+0 0 275
+M100 H100
+S
+#275
+Guard Tower~
+The southwest guard tower not only hold's the Knight Watchmen's station,
+but doubles as a solitary confinement cell for prisoners kept within the
+castle proper.  The locked cell to the south is empty at the moment, but
+appears to have been recently vacated.  Two archways provide access to the
+castle battlements to the north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 277
+D1
+~
+~
+0 0 274
+D2
+~
+~
+2 241 276
+M100 H100
+S
+#276
+Prison Cell~
+The four grey stone walls are opressive, and quite solid.  Were you
+actually imprisoned in this cell, you more than likely would not escape,
+especially not with the Knight Watchmen constantly on patrol.  The only
+furnishings in the room are a low straw bed and a writing table.  It is
+certainly not a comfortable room to spend any length of time in.  The only
+exit is to the north, through a thick iron door with bars across the only
+window.  
+~
+0 8 0
+D0
+~
+~
+2 241 275
+M100 H100
+S
+#277
+On the Battlements~
+Atop the western battlements of Castle Britannia, you have a marvellous
+view of the royal orchards below.  Their fragrant blossoms waft up to your
+nose, bringing the pleasant smell of fruit.  The orchards grow all manner of
+fruit and nut, but are renowned for thier apples, the likes of which have
+not been seen this side of New Magicina.  The battlements extend into the
+distance to the north, and lead into the southwest guard tower to the south.
+To the east, a short staircase leads to the flat rooftop of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 278
+D1
+~
+~
+0 0 295
+D2
+~
+~
+0 0 275
+M100 H100
+S
+#278
+On the Battlements~
+Looking over the city of Britain, just past the Royal Orchards to the
+south is the Northern Quarter, where the middle class of the city tend to
+live.  Their squat dwellings and shops are crammed together on winding
+streets, finding space where they can.  But the Britannians are a hardy
+people, living through one time of troubles after another, each time growing
+stronger for it, more prepared to face the next challenge.  The battlements
+continue to the south and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 279
+D2
+~
+~
+0 0 277
+M100 H100
+S
+#279
+On the Battlements~
+From this point on the western battlements you have a wonderful view of
+the craggy peaks of the mountains that make up the Serpent's Spine.  The
+range which spreads from the edge of Skara Brae to the High Steppes has been
+a natural defense of Britain since the Third Age of Darkness, and have given
+the native Britannians a sense of stability in their often chaotic world. 
+However, the mountains are also home to several forms of hardy monster which
+fortunately have learned not to approach the city, but have been known to
+carry off an errant sheep or two, much to the farmers' dismay.  The
+battlements continue to the south, and lead to a tower to the north.  A
+small staircase to the east allows access to the flat roof of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 280
+D1
+~
+~
+0 0 296
+D2
+~
+~
+0 0 278
+M100 H100
+S
+#280
+Northwest Tower~
+The northwest tower of Britannia Castle is little more than a glorified
+storage chamber.  Through the barred door to the west, you can see several
+sacks of grain and flour, and many barrels of preserved stock.  The sturdy
+iron door seems quite impervious to attack, and the formidable lock
+discourages would be thieves.  Two arches to the south and west provide
+access to the battlements, allowing the Knight Watchmen to complete their
+rounds.  
+~
+0 8 0
+D1
+~
+~
+0 0 282
+D2
+~
+~
+0 0 279
+D3
+~
+~
+1 242 281
+M100 H100
+S
+#281
+Storage Room~
+This is a storage room.  Typically enough, many things are stored here. 
+For the most part, the room is filled with foodstuffs.  Several large casks
+dominate one wall, most likely filled with the finest wine from Empath
+Abbey.  The room also has many sacks of grain and flour leaning against
+several rows of crates stacked to well above your height.  The other side of
+the room is filled with barrels of many types, filled with preserves of
+various sorts, and other combestibles.  The only door from the room is to
+the east.  
+~
+0 9 0
+D1
+~
+~
+1 242 280
+M100 H100
+S
+#282
+On the Battlements~
+The northern battlements offer a quite majestic view of the northern arm
+of the Serpent's Spine mountain range, and the fields and groves on its
+leeward slopes.  Though the land is not nearly as fertile as the lands to
+the east of Britain, the farmers of hardier crops manage to eke out a
+difficult yet comfortable existance.  The battlements continue to the east,
+and lead to the northwest tower to the west.  To the south a short stair
+leads to the flat rooftop of the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 283
+D2
+~
+~
+0 0 296
+D3
+~
+~
+0 0 280
+M100 H100
+S
+#283
+On the Battlements~
+The northern battlements offer a quite majestic view of the northern arm
+of the Serpent's Spine mountain range, and the fields and groves on its
+leeward slopes.  Though the land is not nearly as fertile as the lands to
+the east of Britain, the farmers of hardier crops manage to eke out a
+difficult yet comfortable existance.  The battlements continue to the west
+and east.  To the south, you can look through the massive stained glass
+window overlooking Lord British's throne room.  
+~
+0 0 0
+D1
+~
+~
+0 0 284
+D3
+~
+~
+0 0 282
+M100 H100
+S
+#284
+On the Battlements~
+The northern battlements offer a quite majestic view of the northern arm
+of the Serpent's Spine mountain range, and the fields and groves on its
+leeward slopes.  Though the land is not nearly as fertile as the lands to
+the east of Britain, the farmers of hardier crops manage to eke out a
+difficult yet comfortable existance.  The battlements continue to the west
+and east.  To the south, you can look through the massive stained glass
+window overlooking Lord British's throne room.  
+~
+0 0 0
+D1
+~
+~
+0 0 285
+D3
+~
+~
+0 0 283
+M100 H100
+S
+#285
+On the Battlements~
+The northern battlements offer a quite majestic view of the northern arm
+of the Serpent's Spine mountain range, and the fields and groves on its
+leeward slopes.  Though the land is not nearly as fertile as the lands to
+the east of Britain, the farmers of hardier crops manage to eke out a
+difficult yet comfortable existance.  The battlements continue to the west,
+and lead to the mysterious northwest tower to the east.  To the south, a
+short stair leads to the flat rooftop of the castle.  
+~
+0 0 1
+D1
+~
+~
+0 0 286
+D2
+~
+~
+0 0 298
+D3
+~
+~
+0 0 284
+M100 H100
+S
+#286
+Abandoned Tower~
+This tower seems totally abandoned.  The tower is walled off save for the
+enclosed walkway that connects the battlements to the west to the
+battlements to the south.  The only break in the barren room is the plain
+iron door in the east wall.  There is no window in the door, merely a solid
+mass.  The door appears not to have been opened in quite some time.  
+~
+0 8 0
+D1
+~
+~
+2 243 287
+D2
+~
+~
+0 0 289
+D3
+~
+~
+0 0 285
+M100 H100
+S
+#287
+Armory of the Avatar~
+This room, always thought a mere myth, is whispered in the quiet
+conversations of sages and often mentioned in the same breath as the Stygian
+Abyss and the lost realm of Ambrosia.  The room is filled with all manner of
+artifact collected on the Avatar's adventures.  Everything from blackrock to
+runestones litter the shelves and chests in this room, giving the room a
+generally disused to it.  The equipment appears not to have been disturbed
+in many years.  A heavy iron door is to the west, which leads out of the
+armory.  
+~
+0 8201 0
+D3
+~
+~
+2 243 286
+M100 H100
+S
+#288
+On the Battlements~
+~
+0 4 0
+M100 H100
+S
+#289
+On the Battlements~
+The eastern battlements look over a sparse cityscape which slowly gives
+way to verdant countryside that the district of East Brittany is known for. 
+In the distance, you can clearly see a farmer's field with what appears to
+be an immense furrow carved into it, as if something quite heavy was dragged
+across it.  At the end of the furrow appears to be some sort of iron
+structure which juts at irregular angles towards the sky.  The battlements
+continue to the south, and lead to an abandoned tower to the north.  A short
+stair to the west provides access to the flat rooftop of the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 286
+D2
+~
+~
+0 0 290
+D3
+~
+~
+0 0 298
+M100 H100
+S
+#290
+On the Battlements~
+The eastern battlements look over a sparse cityscape which slowly gives
+way to verdant countryside that the district of East Brittany is known for. 
+The scattered homesteads dot the landscape, their occupants farmers or
+tradesmen, watching the eastern arm of the Tinker's Highway.  It is from
+these fields that the bulk of Britannian foodstuffs are produced, and are
+sold in locales as far away as Yew.  The battlements continue to the north
+and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 289
+D2
+~
+~
+0 0 291
+M100 H100
+S
+#291
+On the Battlements~
+The eastern battlements look over a sparse cityscape which slowly gives
+way to verdant countryside that the district of East Brittany is known for. 
+The scattered homesteads dot the landscape, their occupants farmers or
+tradesmen, watching the eastern arm of the Tinker's Highway.  It is from
+these fields that the bulk of Britannian foodstuffs are produced, and are
+sold in locales as far away as Yew.  The battlements continue to the north
+and lead to a guard tower to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 290
+D2
+~
+~
+0 0 292
+D3
+~
+~
+0 0 297
+M100 H100
+S
+#292
+Guard Tower~
+The southeast guard tower not only hold's the Knight Watchmen's station,
+but doubles as a solitary confinement cell for prisoners kept within the
+castle proper.  The locked cell to the south is empty at the moment, but
+appears to have been recently vacated.  Two archways provide access to the
+battlements to the north and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 291
+D2
+~
+~
+2 241 293
+D3
+~
+~
+0 0 294
+M100 H100
+S
+#293
+Prison Cell~
+The four grey stone walls are opressive, and quite solid.  Were you
+actually imprisoned in this cell, you more than likely would not escape,
+especially not with the Knight Watchmen constantly on patrol.  The only
+furnishings in the room are a low straw bed and a writing table.  It is
+certainly not a comfortable room to spend any length of time in.  The only
+exit is to the north, through a thick iron door with bars across the only
+window.  
+~
+0 8 0
+D0
+~
+~
+2 241 292
+M100 H100
+S
+#294
+On the Battlements~
+From your vantage point atop the battlements, you can see the bulk of
+the city of Britain sprawled before you, stretching towards the horizon.  In
+the distance, past the Town Hall and the trailing buildings, you can see the
+beautiful blue sea that dips into Britanny Bay.  The merchant houses cluster
+around the waterfront area, and several open air markets cluster in this
+region.  The galleons and skiffs that ferry passengers back and forth move
+in lazy course across the water, their beautiful sails catching the gentle
+leeward wind off of the Serpents Spine.  The battlements continue to the
+west, and lead to the guard tower to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 297
+D1
+~
+~
+0 0 292
+D3
+~
+~
+0 0 273
+M100 H100
+S
+#295
+Roof of the Castle~
+The flat roof of the castle has traditionally been used as a ceremonial
+tournament yard, where skilled duellists can spar in single combat.  It is
+not a common practice, as most prefer to keep their duels in private, though
+for matters of honor it is not uncommon for one or both of the combatants to
+request the rooftop be the battlegrounds.  The battlements surround the
+area, providing a natural raised area for the onlookers to watch from mush
+to the watchmen's dismay.  This practice is tolerated however, especially in
+the face of a particularly good match.  The roof continues to the north, and
+stairs up to the battlements lie to the west and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 296
+D2
+~
+~
+0 0 274
+D3
+~
+~
+0 0 277
+M100 H100
+S
+#296
+Overlooking the Courtyard~
+From the rooftop overlooking the courtyard you have a marvellous view of
+the verdant enclosure at the castle's heart.  The beautiful garden displays
+lush vegitation from all corners of the realm.  The flowers and trees have
+been meticulously maintained by the master of the Royal Orchards, and have
+become something of an attraction to visitors, and a favortite spot of the
+castle inhabitants.  The battlements are to the north and west, and the roof
+continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 282
+D2
+~
+~
+0 0 295
+D3
+~
+~
+0 0 279
+M100 H100
+S
+#297
+Roof of the Castle~
+The flat roof of the castle has traditionally been used as a ceremonial
+tournament yard, where skilled duellists can spar in single combat.  It is
+not a common practice, as most prefer to keep their duels in private, though
+for matters of honor it is not uncommon for one or both of the combatants to
+request the rooftop be the battlegrounds.  The battlements surround the
+area, providing a natural raised area for the onlookers to watch from mush
+to the watchmen's dismay.  This practice is tolerated however, especially in
+the face of a particularly good match.  The roof continues to the north, and
+stairs up to the battlements lie to the east and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 298
+D1
+~
+~
+0 0 291
+D2
+~
+~
+0 0 294
+M100 H100
+S
+#298
+Overlooking the Courtyard~
+From the rooftop overlooking the courtyard you have a marvellous view of
+the verdant enclosure at the castle's heart.  The beautiful garden displays
+lush vegitation from all corners of the realm.  The flowers and trees have
+been meticulously maintained by the master of the Royal Orchards, and have
+become something of an attraction to visitors, and a favortite spot of the
+castle inhabitants.  The battlements are to the north and east, and the roof
+continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 285
+D1
+~
+~
+0 0 289
+D2
+~
+~
+0 0 297
+M100 H100
+S
+#299
+On the Battlements~
+~
+0 4 0
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 202 1 1
+D 0 202 3 1
+D 0 203 0 1
+D 0 204 2 1
+D 0 204 3 1
+D 0 205 0 1
+D 0 205 1 1
+D 0 205 2 1
+D 0 205 3 1
+D 0 206 3 1
+D 0 207 1 1
+D 0 207 3 1
+D 0 208 1 1
+D 0 209 0 1
+D 0 210 0 1
+D 0 210 2 1
+D 0 210 3 1
+D 0 211 2 1
+D 0 211 3 1
+D 0 212 0 1
+D 0 212 3 1
+D 0 213 2 1
+D 0 215 3 2
+D 0 216 1 2
+D 0 217 2 1
+D 0 220 3 1
+D 0 221 0 1
+D 0 221 1 1
+D 0 221 3 1
+D 0 223 1 1
+D 0 224 0 1
+D 0 224 1 1
+D 0 224 3 1
+D 0 225 1 1
+D 0 226 0 1
+D 0 226 1 1
+D 0 226 2 1
+D 0 228 1 1
+D 0 228 2 1
+D 0 228 3 1
+D 0 229 1 1
+D 0 230 0 1
+D 0 231 1 1
+D 0 231 3 1
+D 0 232 1 1
+D 0 232 2 1
+D 0 233 3 1
+D 0 236 3 1
+D 0 237 0 1
+D 0 237 1 1
+D 0 237 2 1
+D 0 237 3 1
+D 0 238 1 1
+D 0 239 2 1
+D 0 241 3 1
+D 0 242 0 1
+D 0 243 1 1
+D 0 244 1 1
+D 0 245 0 1
+D 0 246 1 1
+D 0 247 1 1
+D 0 248 1 1
+D 0 249 1 1
+D 0 250 1 1
+D 0 251 1 1
+D 0 252 1 1
+D 0 252 2 1
+D 0 253 1 1
+D 0 253 3 1
+D 0 254 2 1
+D 0 254 3 1
+D 0 255 3 1
+D 0 256 3 1
+D 0 257 3 1
+D 0 258 3 1
+D 0 260 3 1
+D 0 270 0 1
+D 0 271 3 1
+D 0 275 2 2
+D 0 276 0 2
+D 0 280 3 2
+D 0 281 1 2
+D 0 286 1 2
+D 0 287 3 2
+D 0 292 2 2
+D 0 293 0 2
+M 0 228 5 201 2
+E 0 236 0 16
+M 0 228 5 201 2
+E 0 236 0 16
+M 0 201 1 202 1
+M 0 226 5 202 1
+E 0 203 0 16
+M 0 218 1 205 1
+G 0 219 0
+G 0 245 0
+M 0 216 1 206 1
+M 0 202 1 207 1
+M 0 217 1 210 1
+E 0 203 0 16
+M 0 204 1 211 1
+G 0 211 0
+G 0 212 0
+G 0 210 0
+M 0 219 1 211 1
+M 0 214 1 213 1
+M 0 226 5 214 1
+E 0 203 0 16
+O 0 237 0 216
+P 0 217 0 237 0
+P 0 219 0 237 0
+M 0 222 1 217 0
+G 0 207 0
+E 0 229 0 16
+G 0 232 0
+M 0 213 1 217 1
+M 0 229 6 217 2
+E 0 203 0 16
+M 0 229 6 217 2
+E 0 203 0 16
+M 0 229 6 218 2
+E 0 203 0 16
+M 0 229 6 218 2
+E 0 203 0 16
+M 0 229 6 219 2
+E 0 203 0 16
+M 0 229 6 219 2
+E 0 203 0 16
+M 0 212 1 219 1
+G 0 207 0
+E 0 229 0 16
+M 0 226 5 222 1
+E 0 203 0 16
+M 0 223 1 225 1
+M 0 209 1 225 1
+M 0 215 1 225 1
+M 0 224 1 225 1
+M 0 225 1 225 1
+M 0 211 1 226 1
+M 0 210 1 227 1
+M 0 228 5 227 1
+E 0 236 0 16
+M 0 228 5 228 2
+E 0 236 0 16
+M 0 228 5 228 2
+E 0 236 0 16
+M 0 226 5 231 2
+E 0 203 0 16
+M 0 226 5 231 2
+E 0 203 0 16
+M 0 207 1 236 1
+M 0 208 1 236 1
+G 0 215 0
+G 0 207 0
+M 0 228 1 236 1
+E 0 236 0 16
+M 0 205 1 237 1
+M 0 206 1 237 1
+E 0 216 0 5
+E 0 203 0 16
+E 0 203 0 16
+E 0 204 0 11
+G 0 219 0
+G 0 219 0
+G 0 221 0
+M 0 228 1 239 1
+E 0 236 0 16
+O 0 239 0 240
+O 0 240 0 240
+M 0 228 1 242 1
+E 0 236 0 16
+M 0 200 1 253 1
+E 0 201 0 3
+G 0 219 0
+G 0 217 0
+G 0 231 0
+G 0 243 0
+M 0 220 1 261 1
+G 0 220 0
+M 0 221 1 261 1
+G 0 219 0
+M 0 228 1 261 1
+E 0 236 0 16
+M 0 227 10 274 2
+E 0 235 0 16
+M 0 227 10 274 2
+E 0 235 0 16
+M 0 227 10 277 1
+E 0 235 0 16
+M 0 203 1 278 1
+G 0 203 0
+E 0 209 0 16
+G 0 238 0
+M 0 227 10 279 1
+E 0 235 0 16
+M 0 227 1 282 1
+E 0 235 0 16
+M 0 227 10 284 1
+E 0 235 0 16
+O 0 244 0 287
+P 0 223 0 244 0
+P 0 207 0 244 0
+P 0 214 0 244 0
+O 0 212 0 287
+O 0 219 0 287
+O 0 204 0 287
+O 0 210 0 287
+M 0 227 10 289 1
+E 0 235 0 16
+M 0 227 10 290 1
+E 0 235 0 16
+M 0 227 10 292 1
+E 0 235 0 16
+M 0 227 10 294 1
+E 0 235 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

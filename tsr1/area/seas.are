@@ -1,0 +1,5785 @@
+#AREADATA
+Name        [5    15] Seas of the Pirate Lords~
+Builders    Lok/raff~
+VNUMs       17300 17499
+Security    8
+End
+
+
+
+#MOBILES
+#17301
+pirate raiders~
+the pirate raiders~
+A pirate raider ship is here menacing commerce!
+~
+The ship is a single mast trireme, low to the water, and has a ram. Pirates 
+man the riggings and catapults with Greek fire.
+~
+human~
+AFGS 0 -800 0 
+0 10 0 2d7+121 1d10+100 2d4+2 0
+1 1 1 1
+F 0 0 0
+standing standing male 1000
+AHMV ABCDEFGHIJK M 0
+#17302
+trader merchant~
+the merchant trader~
+A merchant trader is here, low in the water, with a full cargo.
+~
+The merchant galley has 2 tiers of oars, and rides low in the water due 
+to the full cargo hold. It is heavily guarded.
+~
+human~
+AGHS 0 200 0 
+0 15 0 3d9+208 1d10+100 2d6+3 0
+-2 -2 -2 -2
+FHI 0 0 0
+standing standing none 1500
+AHMV ABCDEFGHIJK L 0
+#17303
+trader merchant~
+the merchant trader~
+A merchant trader is here, rowing high in the water.
+~
+The merchant galley has 2 tiers of oars, and rides high in the water due 
+to the empty cargo hold. It is lightly guarded.
+~
+human~
+AGHS 0 200 0 
+0 15 0 3d9+208 1d10+100 2d6+3 0
+-2 -2 -2 -2
+FHI 0 0 0
+standing standing none 1500
+AHMV ABCDEFGHIJK L 0
+#17304
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow. A blood wake trails
+the ship, evidence of a successful hunt.
+~
+human~
+AG 0 0 0 
+0 8 0 2d7+96 1d10+100 1d7+2 0
+3 3 3 3
+C 0 0 0
+standing standing none 800
+AHMV ABCDEFGHIJK L 0
+#17305
+whaler~
+the whaler~
+A whaler is here seeking its quarry.
+~
+The whaler is a low ship with several rowboats in tow.
+~
+human~
+AGS 0 0 0 
+0 8 0 2d7+96 1d10+100 1d7+2 0
+3 3 3 3
+C 0 0 0
+standing standing none 800
+AHMV ABCDEFGHIJK L 0
+#17306
+ghost ship~
+the black masted ghost ship~
+A black masted ghost ship crosses the horizon, sailing on air and misery.
+~
+The ghost ship is transparent and has rigging of an ancient make. You hear
+howls of terror coming from within the vessel.
+~
+human~
+AGS BPT 0 0 
+0 20 0 3d9+333 1d10+100 2d8+5 0
+-4 -4 -4 -4
+DEI N 0 0
+standing standing none 2000
+AHMV ABCDEFGHIJK L 0
+#17307
+whale sperm~
+the sperm whale~
+A sperm whale is here breaching upon the open waters.
+~
+The sperm whale is old and bears the scars of many hunts.
+~
+unique~
+AGS 0 0 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+BIK AIR 0 0
+standing standing either 1200
+AV ADEFJKOQ L 0
+#17308
+squid giant~
+the giant squid~
+A giant squid is here, tentacles drifting in the current!
+~
+The giant squid is some 20' long, and has a beaked mouth inside its
+tentacles.
+~
+unique~
+ACFGS 0 0 0 
+0 12 0 2d10+150 1d10+100 1d10+3 0
+0 0 0 0
+BIK AIR 0 0
+standing standing either 1200
+AV ADEFJKNOQ L 0
+#17309
+siren~
+the siren~
+The siren of Hell's reef is here, singing her enchanting song.
+~
+The siren is a beautiful maiden with the torso of a fish. Her song 
+is very hard to resist.
+~
+elf~
+ABFGS BEJPQ -500 0 
+0 15 0 3d9+208 1d10+100 2d6+3 0
+-2 -2 -2 -2
+FHI 0 B Z
+standing standing female 1500
+AHMV ABCDEFGHIJK M 0
+#17310
+typhoon raging~
+the raging typhoon~
+A raging typhoon is here, making you seasick.
+~
+The typhoon has high winds and towering black clouds. Lightning 
+arcs wildly at its center, the sign that this is a non natural 
+phenomena.
+~
+human~
+AFG H 0 0 
+0 20 0 3d9+333 1d10+100 2d8+5 0
+-4 -4 -4 -4
+DEI N 0 0
+standing standing none 2000
+AHMV ABCDEFGHIJK L 0
+#17311
+pirate guard~
+the pirate guard~
+A grubby sailor armed with a cutlass growls at you!
+~
+The pirate guard is clothed in rags, and smells badly.
+~
+human~
+AFG 0 -300 0 
+0 23 1 5d10+450 1d10+100 3d6+6 0
+-6 -6 -6 -6
+CFI 0 0 0
+standing standing male 2300
+AHMV ABCDEFGHIJK M 0
+#17312
+shipwright pirate~
+the shipwright~
+A shipwright is here, repairing a trireme.
+~
+The shipwright is stripped to the waist, and is sweating profusely.
+~
+human~
+ABG 0 -100 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#17313
+savage jungle~
+the jungle savage~
+A jungle savage is here, thinking about cannibalism.
+~
+The jungle savage is clad in a thong and wields a crude spear.
+~
+human~
+AFG 0 0 0 
+0 20 0 3d9+333 1d10+100 2d8+5 0
+-4 -4 -4 -4
+FIK 0 0 0
+standing standing male 2000
+AHMV ABCDEFGHIJK M 0
+#17314
+chieftain chief savage~
+Chief Unga-Bunga~
+A savage chieftain is here dressed in a cape of bird feathers!
+~
+Chief Unga-bunga is a strong man, having consumed many monkey
+brains over his long life. He like the rest of his subjects, is
+scantily clad.
+~
+human~
+ABFG 0 100 0 
+0 23 1 5d10+450 1d10+100 3d6+6 0
+-6 -6 -6 -6
+FIKN AB 0 0
+standing standing male 2300
+AHMV ABCDEFGHIJK M 0
+#17315
+pirate sleeping~
+the sleepy pirate~
+A pirate is here, sleeping off another wild drunk.
+~
+The pirate stinks with the smell of his own vomit.
+~
+human~
+AG R -300 0 
+0 20 0 3d9+333 1d10+100 2d8+5 0
+-4 -4 -4 -4
+FI 0 0 0
+sleeping sleeping male 2000
+AHMV ABCDEFGHIJK M 0
+#17316
+pirate drunken~
+the drunken pirate~
+A drunken pirate staggers toward you.
+~
+The pirate smells of rum, and is dressed in rags.
+~
+human~
+AG 0 -300 0 
+0 21 0 4d10+360 1d10+100 4d4+5 0
+-5 -5 -5 -5
+FHI 0 0 0
+standing standing male 2100
+AHMV ABCDEFGHIJK M 0
+#17317
+princess smallbody woman~
+Princess Smallbody~
+A woman dressed in rags and smelling of sewage claims royal lineage.
+~
+Princess Smallbody is in sad sad shape. Her father wrote her off as
+damaged goods when this band of pirates captured her, and so her ransom
+was never paid. One-eye in his anger cast the princess in this prison
+until her manner changed.
+~
+human~
+ABG 0 500 0 
+0 20 0 3d9+333 1d10+100 2d8+5 0
+-4 -4 -4 -4
+FIK 0 0 0
+standing standing female 2000
+AHMV ABCDEFGHIJK M 0
+#17318
+navigator man~
+the navigator~
+A man is here sighting his sextant on the sun.
+~
+The navigator is dressed in silken clothing. He was a prize from one
+of One-eye's raids, and has served his lord well. He hopes one day
+that he can make a break for it on a raid.
+~
+human~
+ABG 0 200 0 
+0 24 2 5d10+500 1d10+100 2d10+6 0
+-6 -6 -6 -6
+FKN 0 0 0
+standing standing male 2400
+AHMV ABCDEFGHIJK M 0
+#17319
+one-eye man pirate lord~
+One-eye, the pirate lord~
+The pirate lord of this isle booms a 'Kill them' at you!
+~
+One-eye is a man of medium build and grey sideburns. He is well dressed
+and wears the proverbial patch over one eye. However, he uses this patch
+as a prop to make himself appear rougher than he actually is. His skin
+is a weathered brown from many, many voyages.
+~
+human~
+ABFG 0 -500 0 
+0 25 1 5d10+550 1d10+100 2d10+7 0
+-7 -7 -7 -7
+CDI 0 0 0
+standing standing male 2500
+AHMV ABCDEFGHIJK M 0
+#17320
+maiden bond~
+a bond maiden~
+A maiden dressed in rags is here, servicing the whims of her master.
+~
+The bond maiden is tied to the throne, and looks broken. You look into her
+eyes and see a little hope remains, hope that one day she will be rescued
+or her ransom paid.
+~
+human~
+ABG 0 200 0 
+0 15 0 3d9+208 1d10+100 2d6+3 0
+-2 -2 -2 -2
+FI 0 0 0
+standing standing female 1500
+AHMV ABCDEFGHIJK M 0
+#17321
+kracken~
+the kracken~
+A giant black tentacled creature churns the water here.
+~
+The kracken has been trained by the Redbeard to expect food with the
+arrival of a boat. He usually tosses the kracken a huge load of fish
+and the beast lets him pass. Others, however, are ignorant of this
+practice, and tend to get eaten.
+~
+human~
+ACD F -1000 0 
+0 25 1 5d10+550 1d10+100 2d10+7 0
+-7 -7 -7 -7
+CDI 0 0 0
+standing standing none 2500
+AHMV ABCDEFGHIJK L 0
+#17322
+guard dock~
+the dock guard~
+A burly man is here guarding the docks.
+~
+The dock guard is dressed in light leather armor and coif, and appears
+to be alert and well rested.
+~
+human~
+ABG 0 -100 0 
+0 27 1 5d10+550 1d10+100 5d4+7 0
+-8 -8 -8 -8
+CDFI 0 0 0
+standing standing male 2700
+AHMV ABCDEFGHIJK M 0
+#17323
+snake black~
+the black snake~
+A black snake is here, hiding in the sand.
+~
+The black snake is some 10' long, and has broad, iron hard scales.
+~
+snake~
+A Q 0 0 
+0 27 1 5d10+550 1d10+100 5d4+7 0
+-8 -8 -8 -8
+CDFI 0 L I
+standing standing either 2700
+AGXYc ADEFKLQVX M 0
+#17324
+crab black~
+the black crab~
+A black crab is here, eating a dead fish.
+~
+The black crab measures 2' from tip to tip, and has serrated pinchers.
+Its eyestalks rise some 3' off the ground, orienting and peering in your
+direction.
+~
+human~
+AG P 0 0 
+0 25 1 5d10+550 1d10+100 2d10+7 0
+-7 -7 -7 -7
+CDI 0 0 0
+standing standing either 2500
+AHMV ABCDEFGHIJK M 0
+#17325
+worm lava~
+the lava worm~
+A small rivulet of molten lava runs here.
+~
+The lava worm is a creature of magic, having been created
+by Pele to seek out the gems of the earth and bring them
+to him. He forged the worm from metal and magic. The worm appears
+molten, but is really so hot from being in the fire that the
+rock upon which it slithers turns into a molten liquid on its skin.
+~
+human~
+AG U 100 0 
+0 28 2 6d12+650 1d10+100 2d12+8 0
+-8 -8 -8 -8
+DFHI AB 0 0
+standing standing either 2800
+AHMV ABCDEFGHIJK M 0
+#17326
+lizard lava~
+the lava lizard~
+A man-sized fire-red lizard is here basking on a rock.
+~
+The lava lizard frequents the lava flows, as they are a
+place where the lizard can gather warmth for its dives deep
+underwater. The lizard has the coloration it does to blend
+in with the lava, and camouflage it from large predatory birds
+like the terrible Rocs (which thankfully have migrated North
+for the season)
+~
+lizard~
+AG 0 0 0 
+0 27 1 5d10+550 1d10+100 5d4+7 0
+-8 -8 -8 -8
+CDFI 0 L I
+standing standing either 2700
+AGXc ACDEFHKQV M 0
+#17327
+pirate snarling~
+the snarling pirate~
+A snarling pirate is here, ready to pillage your corpse.
+~
+The snarling pirate wears at best leather protective clothing
+and appears to be shaved and well groomed.
+~
+human~
+AFG 0 -200 0 
+0 28 2 6d12+650 1d10+100 2d12+8 0
+-8 -8 -8 -8
+DFHI AB 0 0
+standing standing male 2800
+AHMV ABCDEFGHIJK M 0
+#17328
+redbeard pirate~
+Redbeard~
+A tall, angular man with a red beard (well groomed) is here.
+~
+Redbeard has prospered on fire island through his wits and organization.
+He holds his men to a higher standard then the rest of the pirate scum
+which sails the seas. He has a funny looking eyepiece.
+~
+human~
+AB D -400 0 
+0 30 3 6d12+853 1d10+100 4d6+8 0
+-9 -9 -9 -9
+CDEFJK AB FGH I
+standing standing male 3000
+AHMV ABCDEFGHIJK M 0
+#17329
+lalila elf prince~
+Lalila, the Elven Prince~
+A pale, malnourished elf is here, begging for food.
+~
+Lalila thanks you for his rescue. In exchange for his life he tells you
+of a place called hell reef, where you can hear the ghostly siren, is
+where he was shipwrecked and he lost his flaming belt. He was using the belt
+for warmth when he was captured by Redbeard, and brought here for ransom.
+~
+elf~
+AB EJPQ 1000 0 
+0 28 2 6d12+650 1d10+100 2d12+8 0
+-8 -8 -8 -8
+DFHI AB B Z
+standing standing male 2800
+AHMV ABCDEFGHIJK M 0
+#17330
+pele god fire~
+Pele, god of fire~
+A towering otherworldly figure stands here, immersed in fire.
+~
+Pele is the fire god, and calls this lonely spot his home. He has
+little interest in the affairs of men, dwarves, elves, etc. He
+stands some 20' tall, and is made entirely of flame.
+~
+human~
+AB DFHJ 0 0 
+0 32 3 10d10+1000 1d10+100 6d4+9 0
+-10 -10 -10 -10
+ADEFHNR ABHMN 0 O
+standing standing male 3200
+AHMV ABCDEFGHIJK L 0
+#17331
+mizzenmast pirate lord~
+Mizzenmast~
+A short, squat, balding pirate is reclining here in a hammock.
+~
+Mizzenmast, the 3rd Pirate Lord is a firm believer in non-
+exertion, and the economy of effort. Sooner or later it will wash
+ashore is his motto. He is in his late 40's, on the downward slide
+from a once profitable career. He knows enough to delegate his work
+to others, and leaves all the major thinking to Shifty.
+~
+human~
+AB R -800 0 
+0 35 4 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+AHIKQ AG KN 0
+standing standing male 3500
+AHMV ABCDEFGHIJK M 0
+#17332
+shifty trader man~
+Shifty the trader~
+A man in shackles lies here in agony.
+~
+Shifty has once again ticked off his lord Mizzenmast, who in turn has
+shackled him here in the storage area to impress upon him the importance
+of fealty. Shifty is weak from hunger, and his soiled finery speaks for
+his recent fall from grace.
+~
+human~
+AB 0 -500 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#17333
+pirate bandy legged~
+the bandy legged pirate~
+A bandy legged pirate staggers on his sea legs.
+~
+The pirate is unbalanced due to his long journeys at sea. He is clad in
+cloth jerkin and leggings, and swings his cutlass with years of experience.
+~
+human~
+AFG 0 -200 0 
+0 33 3 10d10+1000 1d10+100 6d4+10 0
+-11 -11 -11 -11
+ADEFIK ABF 0 0
+standing standing male 3300
+AHMV ABCDEFGHIJK M 0
+#17334
+stiggs cabin boy~
+Stiggs, the cabin boy~
+A young boy is here, rushing about on some kind of errand.
+~
+Stiggs was waylaid in a coastal city by Mizzenmast's crew. He has been
+brainwashed over time that the pirate's life is the best life there is.
+Right now Stiggs is in a hurry to prepare shark stew for his Lords snack.
+~
+human~
+AB 0 -100 0 
+0 32 3 10d10+1000 1d10+100 6d4+9 0
+-10 -10 -10 -10
+ADEFHNR ABHMN 0 O
+standing standing male 3200
+AHMV ABCDEFGHIJK L 0
+#17335
+shark tiger~
+the tiger shark~
+A shark with strange broad stripes is snacking on your leg.
+~
+The tiger shark is thick and squatish in appearance. You think its jaws
+would make a fine trophy.
+~
+human~
+AFG 0 0 0 
+0 34 4 10d10+1200 1d10+100 6d4+9 0
+-11 -11 -11 -11
+ACDEFK ABR O 0
+standing standing either 3400
+AHMV ABCDEFGHIJK L 0
+#17336
+shark white great~
+the great white shark~
+A 20' long shark is cruising here to the theme from Jaws.
+~
+Yes, our good old buddy the great white has scented your foul trail of
+Ofcol in the water, and found it pleasing enough to pursue across the
+great expanse of water.
+~
+human~
+AFG 0 0 0 
+0 35 4 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+AHIKQ AG KN 0
+standing standing male 3500
+AHMV ABCDEFGHIJK M 0
+#17337
+shark mako~
+the mako shark~
+A slender, fast swimming shark swims for your leg!
+~
+The mako shark, when you come down to it, makes a fine meal. Please feel
+free to sample its lovingly prepared body parts after the combat. No,
+you should drink white wine with Mako.
+~
+human~
+AF 0 0 0 
+0 30 3 6d12+853 1d10+100 4d6+8 0
+-9 -9 -9 -9
+CDEFJK AB FGH I
+standing standing either 3000
+AHMV ABCDEFGHIJK M 0
+#17338
+shark hammerhead~
+the hammerhead shark~
+Hey look at the weird head on that shark!
+~
+The hammerhead shark is swimming slowly along at a great depth, oblivious
+to your presence.
+~
+human~
+AG 0 0 0 
+0 33 4 10d10+1100 1d10+100 6d4+10 0
+-11 -11 -11 -11
+CDJK AB 0 0
+standing standing either 3300
+AHMV ABCDEFGHIJK M 0
+#17339
+shark blue~
+the blue shark~
+A torpedo shaped shark cruises along here.
+~
+The blue shark having just had a fine dinner of mortal body parts, is out
+for its leisurely evening swim. Maybe if you throw fresh blood in the water
+you can get its attention.
+~
+human~
+AG 0 0 0 
+0 31 3 6d12+920 1d10+100 4d5+9 0
+-10 -10 -10 -10
+ACDEK A 0 0
+standing standing either 3100
+AHMV ABCDEFGHIJK M 0
+#17340
+clam giant~
+Did I say coral? I meant clam~
+A huge white hunk of coral rests on the bottom.
+~
+The giant clam is closed and content at the bottom of this warm tropical
+sea. I wonder what's inside?
+~
+human~
+AB Q 0 0 
+0 35 4 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+AHIKQ AG KN 0
+standing standing either 3500
+AHMV ABCDEFGHIJK M 0
+#17341
+hawkwoman hawk woman~
+the hawkwoman~
+A woman with giant gray wings soars here.
+~
+The hawkwoman, like all of her kind wears a beaked helm, chain leggings
+and is naked from the waist up. Yes, she is well endowed. She wields
+the talons of the hawkpeople, gloves with spikes protruding from the
+fingers.
+~
+human~
+AB T 0 0 
+0 35 4 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+AHIKQ AG KN 0
+standing standing female 3500
+AHMV ABCDEFGHIJK M 0
+#17342
+hawkman hawk man~
+the hawkman~
+A hawkman dives at you for the attack!
+~
+The hawkman, like all of his kind wears a beaked helm, chain leggings,
+and is naked from the waist up. He wears the talons of the hawkpeople,
+a glove fitted with spikes on the fingers. Huge grey wings grow from his
+back, which when extended span 12' from tip to tip.
+~
+human~
+AB T 0 0 
+0 36 4 10d10+1400 1d10+100 3d10+11 0
+-12 -12 -12 -12
+AHIKQ AG KN 0
+standing standing male 3600
+AHMV ABCDEFGHIJK M 0
+#17343
+hawklord hawk lord man~
+the hawklord~
+A hawkman in golden armor soars calmly over the land.
+~
+The hawklord, when you greet him, eyes you carefully. Then slowly, but
+with increasing vigor he starts a tale of how his people were driven
+from their land by Lord Vulture. He warns you of the terrible Terra-kan,
+a land roving birdlike creature which roams the surface of the island.
+~
+human~
+AG JT 100 0 
+0 37 4 10d10+1500 1d10+100 3d10+12 0
+-12 -12 -12 -12
+AHIJ AG 0 0
+standing standing male 3700
+AHMV ABCDEFGHIJK M 0
+#17344
+terra-kan bird terra kan~
+the terra-kan~
+A man sized wingless bird hunts here.
+~
+The terra-kan has black plumage, a huge hooked beak, and two terrible
+talons. It moves by bounding in great leaps from place to place, often
+landing on its unsuspecting prey's back. Its squawk begins as a low warble
+and finishes with a rapid burst of CAW, caw-CAW, CAH!.
+~
+human~
+AB F 0 0 
+0 38 5 10d10+1600 1d10+100 3d10+11 0
+-13 -13 -13 -13
+ACDEFK AB JR 0
+standing standing either 3800
+AHMV ABCDEFGHIJK M 0
+#17345
+pirate gambling~
+the gambling pirate~
+A pirate is here, tossing his fate with dice.
+~
+The pirate is playing a game involving 3 dice called 'bones' in which
+the highest total wins, with the variant that 2 of a kind forfeits your
+roll, and 3 of a kind gets a bonus roll added. He is so involved in the
+game that he did not notice you enter.
+~
+human~
+AG 0 -200 0 
+0 37 4 10d10+1500 1d10+100 3d10+12 0
+-12 -12 -12 -12
+CDEKR 0 0 0
+standing standing male 3700
+AHMV ABCDEFGHIJK M 0
+#17346
+mate first pirate~
+the first mate~
+A pirate in the tattered remains of a uniform, glares at your intrusion.
+~
+The first mate once was an officer in the navy of Freeport, who in his
+later years took to skimming from the war fund. One day justice caught
+up with him and he was captured and shipped back to port. However, on the
+way, his ship was captured by Lord Vulture, who recognized potential in
+his captive. The mate has served Lord Vulture well, informing him of
+standard military moves of the navy.
+~
+human~
+AF 0 -500 0 
+0 38 5 10d10+1600 1d10+100 3d10+11 0
+-13 -13 -13 -13
+ACDEFK AB JR 0
+standing standing male 3800
+AHMV ABCDEFGHIJK M 0
+#17347
+pirate elite~
+the elite pirate~
+A well-armed, sharply uniformed pirate is here, guarding the hall.
+~
+The elite pirate is dressed in a black uniform with polished silver
+buttons and buckles. He wields a military saber with a precision you have
+seldom seen.
+~
+human~
+AF DF -400 0 
+0 38 5 10d10+1600 1d10+100 3d10+11 0
+-13 -13 -13 -13
+ACDEFK AB JR 0
+standing standing male 3800
+AHMV ABCDEFGHIJK M 0
+#17348
+alindra slave woman~
+Alindra of Dunkeldorf~
+A beautiful human woman reclines in silk here.
+~
+Alindra of Dunkeldorf ( which is located in {25 35} Lok Coven - bug
+your local imm to put the blasted area in ) is at the ripe age of
+23. She tells you a sad tale of how she was captured by Lord Vulture
+on her trip to Freeport. What is even more sad is that Alindra over
+her years of captivity has fallen in love with Vulture, in spite of
+his villainy.
+~
+human~
+AB 0 300 0 
+0 35 4 10d10+1300 1d10+100 4d7+11 0
+-11 -11 -11 -11
+AHIKQ AG KN 0
+standing standing female 3500
+AHMV ABCDEFGHIJK M 0
+#17349
+mutton chef pirate~
+Mutton the chef~
+A greasy, fat, hairy-backed pirate is here cooking up the daily swill.
+~
+Mutton has simple tastes in life. Leftovers and more leftovers, and
+licking the stirring spoon. He doesn't say much, because he is too busy
+drooling into the stew. He does seem to be unusually sweaty though.
+~
+human~
+AB V 0 0 
+0 37 3 10d10+1500 1d10+100 3d10+12 0
+-12 -12 -12 -12
+ACDKQ AN 0 0
+standing standing male 3700
+AHMV ABCDEFGHIJK M 0
+#17350
+vulture lord~
+Lord Vulture~
+A giant, black skinned man glares at you with coal black eyes.
+~
+Lord Vulture is a master criminal, with a calculating evil that makes
+your skin crawl. He is dressed in black silk, which nicely sets off
+his closely trimmed black beard and mustache. On each of his fingers
+is a signet ring of some captain he has defeated. He sizes you up
+and says `Obviously you are the caliber of soldier I need. Will you
+join me and become richer than your wildest dreams?'
+~
+human~
+AB B -1000 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#17351
+orca~
+the orca~
+An orca is here, hunting the along the break in the ice.
+~
+The orca is large, black, and white, and is not a nice little fishy
+like Free Willy.
+~
+unique~
+ABF 0 0 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing either 4000
+AV ADEFJKOQ L 0
+#17352
+roc great northern bird~
+the great northern roc~
+A hawklike bird with a 50' wingspan soars here.
+~
+The great northern roc, unlike its brethren, isn't enchanted
+with an unnatural sanctuary spell. Its plumage matches the
+landscape, making it look like a snow hill when it lands.
+~
+song bird~
+AB T 0 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFHIJ AB 0 0
+standing standing either 4000
+AGW ACDEFHKP M 0
+#17353
+pack howling wolf~
+the howling wolf pack~
+A howling, ravening pack of white furred wolves hunts here.
+~
+The wolves dine on seals and caribou normally, but you will
+do in a pinch.
+~
+fido~
+ABF 0 0 0 
+0 41 4 25d10+2000 1d10+100 4d8+14 0
+-14 -14 -14 -14
+ABCFKR G L C
+standing standing either 4100
+ABGV ACDEFHJKQV M 0
+#17354
+bear cave~
+the towering cave bear~
+A mound of pelts is stacked here.
+~
+The cave bear rears up and stands on its hind legs snarling.
+It is an impressive specimen. It is here, hibernating. Maybe
+you should let it sleep.
+~
+bear~
+AB R 0 0 
+0 41 4 25d10+2000 1d10+100 4d8+14 0
+-14 -14 -14 -14
+ABCDEKO G EIL 0
+standing standing either 4100
+AGV ABCDEFHJKUV M 0
+#17355
+stalactite low hanging~
+the low hanging stalactite~
+You slide head first into a low hanging stalactite.
+~
+The stalactite like all of its kind, is hard, cold, and
+immobile.
+~
+human~
+ABF 0 0 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ ABI 0 0
+standing standing either 4000
+AHMV ABCDEFGHIJK M 0
+#17356
+wall ice packed~
+the ice packed wall~
+You bounce off a hard ice packed wall.
+~
+The wall, like all of its kind, is cold and unforgiving.
+~
+human~
+AB 0 0 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ ABI 0 H
+standing standing either 4000
+AHMV ABCDEFGHIJK M 0
+#17357
+stalagmite groin level~
+the groin level stalagmite~
+You wince in agony as you fly into a stalagmite.
+~
+The stalagmite is unmoved by your pain.
+~
+human~
+ABF 0 0 0 
+0 41 4 25d10+2000 1d10+100 4d8+14 0
+-14 -14 -14 -14
+ABCK G L 0
+standing standing either 4100
+AHMV ABCDEFGHIJK M 0
+#17358
+landing brutally hard~
+the brutally hard landing~
+The floor drops out from under you and you take a nasty fall.
+~
+The floor is there waiting for you to fall.
+~
+human~
+ABF 0 0 0 
+0 41 4 25d10+2000 1d10+100 4d8+14 0
+-14 -14 -14 -14
+ABCK G L 0
+standing standing either 4100
+AHMV ABCDEFGHIJK M 0
+#17359
+ceiling low~
+the low ceiling~
+You bounce up into the air and smash your head.
+~
+The ceiling is looks down on your intrusion.
+~
+human~
+ABF 0 0 0 
+0 42 3 25d10+2250 1d10+100 3d12+14 0
+-14 -14 -14 -14
+ACDGJR AB F 0
+standing standing none 4200
+AHMV ABCDEFGHIJK M 0
+#17360
+turn sharp~
+the sharp turn~
+You smash into the wall through a series of sharp turns.
+~
+The turns are very curvy. Can you negotiate them?
+~
+human~
+ABF 0 0 0 
+0 42 3 25d10+2250 1d10+100 3d12+14 0
+-14 -14 -14 -14
+ACDGJR AB F 0
+standing standing none 4200
+AHMV ABCDEFGHIJK M 0
+#17361
+drop long~
+the long drop~
+Whoa! Where did that floor go?!!!
+~
+The long drop takes you through a nasty series of
+boulders.
+~
+human~
+ABF 0 0 0 
+0 43 3 25d10+2500 1d10+100 3d12+15 0
+-15 -15 -15 -15
+ACDIK AB EF 0
+standing standing none 4300
+AHMV ABCDEFGHIJK M 0
+#17362
+wall rock~
+the rock wall~
+You find out the hard way that the walls are made of rock.
+~
+The rock wall is here patient, willing to listen to you all day.
+~
+human~
+ABF 0 0 0 
+0 43 3 25d10+2500 1d10+100 3d12+15 0
+-15 -15 -15 -15
+ACDIK AB EF 0
+standing standing none 4300
+AHMV ABCDEFGHIJK M 0
+#17363
+shoot bumpy~
+the bumpy shoot~
+You are jarred over and over by the bumpy shoot!
+~
+The bumpy shoot looks very much like a Washington DC
+road project.
+~
+human~
+ABF 0 0 0 
+0 44 4 25d10+2750 1d10+100 8d4+15 0
+-15 -15 -15 -15
+ACDIK AB EF 0
+standing standing none 4400
+AHMV ABCDEFGHIJK M 0
+#17364
+impact bone rattling~
+the bone rattling impact~
+You travel at a high rate of speed into a wall.
+~
+The bone rattling impact has taken a vacation from the
+bow of my fathers boat, and traveled all the way here
+to amuse itself for the winter.
+~
+human~
+ABF 0 0 0 
+0 44 4 25d10+2750 1d10+100 8d4+15 0
+-15 -15 -15 -15
+ACDIK AB EF 0
+standing standing none 4400
+AHMV ABCDEFGHIJK M 0
+#17365
+turn hard final?~
+the hard final? turn~
+The passageway is nearing an end, just a few more turns.
+~
+The final turn wants to leave a lasting impression on you.
+~
+human~
+ABF 0 0 0 
+0 45 4 25d10+3000 1d10+100 8d4+16 0
+-16 -16 -16 -16
+ACDEFHK A 0 0
+standing standing none 4500
+AHMV ABCDEFGHIJK M 0
+#17366
+pirate~
+the pirate in fur skins~
+`Yo Ho Ho' cries a pirate in fur skins as he sees you.
+~
+The pirate is well armed and dangerous.
+~
+human~
+AG 0 -400 0 
+0 42 3 25d10+2250 1d10+100 3d12+14 0
+-14 -14 -14 -14
+ACDGJR AB F 0
+standing standing male 4200
+AHMV ABCDEFGHIJK M 0
+#17367
+guard pirate~
+the lurking guard~
+A pirate guard lurks in the shadows here.
+~
+The guard is lean, alert, hardened, and itching for
+a fight.
+~
+human~
+AF DFQ -500 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing male 4000
+AHMV ABCDEFGHIJK M 0
+#17368
+pirate~
+the helmsman~
+A pirate wise in the ways of the sea studies you.
+~
+The helmsman is the best there is. He has successfully
+navigated the narrow ice channels around the iceberg
+innumerable times.
+~
+human~
+AG 0 -600 0 
+0 44 4 25d10+2750 1d100+100 8d4+15 0
+-15 -15 -15 -15
+ACDIK AB EF 0
+standing standing male 4400
+AHMV ABCDEFGHIJK M 0
+#17369
+pirate~
+Cutter, the 5th Pirate Lord~
+A pirate bearing the cold of winter studies his charts here.
+~
+Cutter looks up from his charts and says, `Ah, at last we
+meet. I was told by an envoy of One-eye to expect you.
+I don't suppose you would consider just taking the gold
+and leaving, since you will probably die if you challenge me.'
+When you don't respond, Cutter replies, `very well, lets
+have at it', and he downs a purple potion.
+~
+human~
+AB H -1000 0 
+0 45 4 25d10+3000 1d10+100 8d4+16 0
+-16 -16 -16 -16
+ACDEFHK AB F 0
+standing standing male 4500
+AHMV ABCDEFGHIJK M 0
+#17370
+prisoner~
+the frozen captive~
+A prisoner shivers in the cold here.
+~
+The frozen captive is so gratified by your kindness that
+she tells you a story. ` A long time ago, Lok started this
+area, and had major writers block. Well, Simba sort of
+nudged him and he broke out of his block. With Rainman
+doing the main debugging and alot of dark beer, this
+area was created for your amusement. The secret to sailing
+is that all simple seas never border on grounding reefs.
+If you are in shallows type exit after each move to look
+for shoals ( they wont show in the night ). There is a main
+clockwise current running in the high seas, so don't sleep
+on the high seas, or you will drift.. There are alot of
+clues throughout isles so don't just powermud and miss all.
+Lok charmed me so you wouldn't just mindlessly butcher me.'
+~
+human~
+AB S 1000 0 
+0 40 5 15d10+1850 1d10+100 4d8+13 0
+-13 -13 -13 -13
+ACDFIJ AB 0 0
+standing standing female 4000
+AHMV ABCDEFGHIJK M 0
+#17399
+rastafarians~
+the Rastafarians load up a huge bowl and~
+You hear reggae music and smell marijuana floating across the water.
+~
+The Rastafarians are firmly convinced that Jah will indeed provide
+for their every need, and are content to float along endlessly. They
+appear very wise in the ways of the world and may be able to teach
+you something.
+~
+human~
+ACHJQ HN 0 0 
+0 40 5 50d10+10900 1d10+750 10d5+37 0
+-36 -36 -36 -36
+ABCDEFHIK AB 0 0
+standing standing either 7000
+AHMV ABCDEFGHIJK M 0
+#0
+
+
+
+#OBJECTS
+#17301
+map strange~
+a strange map~
+A strange looking map is here.~
+vellum~
+map 0 AO
+0 0 0 0 0
+20 10 10 P
+E
+map strange~
+........G...........
+.......G+GGGGGGG....
+......G+,+++++,+G5..
+......G+,,,,,,,,++G.
+.....4+,,,+++,,,,+G.
+...GGG++,,+6+,,++G..
+..3++GG+,++G+,+,,+G.
+.G+,,+G,,,+++,,,,,+G
+.G+,,+G+,,,,,,+,,+G.
+..G++G+,,,,+++G+,+G.
+...G+++m,+,+GG.G+++G
+....GG+,+S+G....GG2.
+.....1++G.G.........
+......GG............
+~
+#17302
+fire greek~
+greek fire~
+A smoldering pot of hot volatile liquid is here.~
+fire~
+staff A AO
+10 2 2 'fire breath' 0
+10 250 1000 P
+#17303
+trireme~
+a trireme~
+A trireme is here, ready to sail the high seas.~
+wood~
+boat A 0
+0 0 0 0 0
+10 100 100 P
+#17304
+galley~
+a galley~
+A galley is here, wallowing in the water.~
+wood~
+boat 0 0
+0 0 0 0 0
+15 50 100 P
+#17305
+hoard ships~
+the ship's hoard~
+A pile of crates and boxes lies here, awaiting longshoremen.~
+silver~
+money 0 A
+2000 0 0 0 0
+15 0 0 P
+#17306
+whaler ship~
+a whaling ship~
+A whaling ship is docked here, drawing a swarm of flies.~
+wood~
+boat 0 0
+0 0 0 0 0
+8 500 100 P
+#17307
+blubber giant mound~
+a giant mound of blubber~
+A giant mound of blubber is here, waiting to be processed into oil.~
+fat~
+food 0 A
+72 60 0 0 0
+8 150 20 P
+#17308
+treasure lost~
+the lost treasure from the sunken ship~
+A huge gleaming pile of silver glistens here.~
+silver~
+money 0 A
+10000 0 0 0 0
+12 0 0 P
+#17309
+fire circle~
+the circle of fire~
+A circular fire burns and crackles here.~
+fire~
+armor AGQ AL
+6 5 5 5 0
+15 40 300 P
+A
+5 1
+A
+3 1
+E
+fire circle~
+You peer closely into the fire and see the image of a white cloaked 
+mage carving a slice out of a fire elemental with a mystic blade. The
+slice is shaped and forged into a bright band of fire.
+~
+#17310
+cape storm~
+the storm cape~
+Soaring high above you is a little stormy cloud.~
+fluff~
+armor FG AC
+7 7 6 6 2
+20 50 500 P
+A
+19 2
+A
+5 1
+E
+cape storm~
+The storm cape tingles with electricity, and is wet to your touch. It slips
+from your grasp even as you manage to seize it.
+~
+#17311
+tree banana~
+the banana tree~
+A banana tree is here, burdened with nice ripe fruit.~
+wood~
+container 0 0
+400 0 0 20 100
+30 110 10 P
+E
+fruit~
+Have you had your potassium today?
+~
+#17312
+bananas bunch~
+a bunch of bananas~
+A ripe bunch of bananas is here - where is the monkey?~
+fruit~
+food 0 A
+5 5 0 0 0
+10 10 5 P
+#17313
+sign warning~
+a wooden sign~
+A wooden sign is nailed in the ground here.~
+wood~
+trash 0 0
+0 0 0 0 0
+5 10 0 P
+E
+sign wooden~
+**********************
+*      KEEP OUT      *
+* or ye head be mine *
+*       One-Eye      *
+**********************
+~
+#17314
+mallet wooden~
+a wooden mallet~
+A wooden mallet is here.~
+wood~
+weapon 0 AN
+mace 11 4 pound 0
+40 70 10 P
+A
+19 -1
+A
+18 -1
+E
+mallet wooden~
+This mallet looks like it was meant for hammering
+pegs, and not for combat.
+~
+#17315
+robe feather~
+a feather robe~
+A robe made of brilliant tropical bird plumage is here.~
+feather~
+armor 0 AK
+7 6 6 5 1
+20 20 120 P
+E
+robe feather~
+It sure is pretty.
+~
+#17316
+bottle rum~
+a bottle of rum~
+You see a have full bottle of rum here, going to waste.~
+glass~
+drink 0 A
+16 16 'rum' 0 0
+3 10 10 P
+#17317
+laid~
+LAID!~
+Are you going to get lucky?~
+nothingness~
+money 0 A
+1000 0 0 0 0
+20 10 0 P
+#17318
+sextant~
+a sextant~
+A beautiful gilded sextant lies here.~
+steel~
+scroll A AO
+25 'locate object' '' '' ''
+18 50 200 P
+E
+sextant~
+Upon closer examination, you see that the sextant has an inscription
+on the side. It reads 'Recite these words on what you need, and at
+last I will be freed'
+~
+#17319
+girdle might~
+the girdle of might~
+A well crafted weapons belt is lying here.~
+leather~
+armor G AL
+8 7 8 7 2
+25 90 800 P
+A
+19 2
+E
+belt girdle might~
+An inscription on the girdle reads:
+------------------------------------
+In the morning and in the night
+In the dark, and in the light
+There is no wrong, there is no right
+All there is, is triumphant might
+------------------------------------
+~
+#17320
+gauntlets accuracy~
+gauntlets of accuracy~
+A pair of gauntlets with arrows on them lies here.~
+bronze~
+armor G AH
+8 7 7 7 1
+25 60 800 P
+A
+18 1
+E
+arrows arrow gauntlets~
+The arrows are branded in the leather, and align along
+the thumbs.
+~
+#17321
+key iron~
+an iron key~
+An iron key is here.~
+iron~
+key 0 AO
+0 0 0 0 0
+30 10 10 P
+#17322
+pool lava~
+a lava pool~
+A pool of lava is bubbling here.~
+lava~
+trash A A
+0 0 0 0 0
+10 50 0 P
+E
+lava pool~
+It is so hot your eyes are watering.
+~
+#17323
+cutlass sword~
+a cutlass~
+An arm-length curved sword is here.~
+steel~
+weapon 0 AN
+sword 10 3 cleave C
+27 180 950 P
+A
+19 1
+A
+18 1
+#17324
+eye kracken krackens kracken's~
+the kracken's eye~
+A large eyeball of some sea creature is rotting on the ground.~
+eye~
+staff CEJ AO
+25 10 10 'detect hidden' 0
+25 30 700 P
+E
+eye eyeball~
+You stare into the eye, and you feel an ancient evil try to
+wrest control of your mind away from you. You win and break
+your gaze.
+~
+#17325
+armbands volcanoes~
+armbands of the Volcanoes~
+Armbands made of fire are smoldering on the ground.~
+fire~
+armor AG AI
+11 10 10 11 2
+32 120 1000 P
+A
+12 25
+A
+13 30
+E
+fire~
+The armbands are burning brightly.
+~
+#17326
+chest bronze~
+a huge bronze chest~
+A huge bronze chest is here.~
+bronze~
+container F 0
+200 AC 0 50 50
+50 550 0 P
+#17327
+javelin~
+a javelin~
+A well balanced javelin is here.~
+steel~
+weapon 0 AN
+exotic 11 3 pierce 0
+30 170 800 P
+A
+18 2
+#17328
+cloak looting~
+the cloak of looting~
+You see a suspicious looking cloak here. Hmmm.~
+cloth~
+armor FG AO
+10 10 11 10 1
+30 60 700 P
+A
+17 -10
+A
+14 50
+A
+2 2
+E
+cloak~
+Yes, you have seen a thief wearing this once before.
+~
+#17329
+blood ettins ettin ettin's~
+Ettin's blood~
+A jar of blood is here~
+blood~
+potion FG A
+30 'sanctuary' 'protection evil' 'stone skin' ''
+30 70 6300 P
+#17330
+hoard pirate pirate's~
+the pirate's hoard~
+You see a big old fucking pile o' loot!~
+silver~
+money 0 0
+10000 0 0 0 0
+30 10 0 P
+#17331
+pants sharkskin~
+sharkskin pants~
+A pair of pants cut from the skin of a fish lie here.~
+sharkskin~
+armor FG AF
+11 13 12 11 2
+35 90 1000 P
+A
+19 2
+A
+17 -10
+E
+pants sharkskin~
+Upon closer examination, you notice a tag on the waistline. It reads
+' Mizzenmast, my friend, who brought me a white sharks eye, I have
+ bewitched these pants to give you great might and valor in combat.
+ Wear them well. - Merlin'
+~
+#17332
+crossbow poison~
+a crossbow of poison~
+You see a nasty looking hand crossbow with black gummed quarrels here.~
+wood~
+wand 0 AO
+35 5 5 'poison' 0
+35 80 600 P
+E
+crossbow~
+The crossbow has been lovingly crafted from a fine ebony, and bears
+a strange black metal for the bow itself. The quarrels are also made
+of the same black metal.
+~
+#17333
+orb nullifier~
+the nullifier orb~
+A round sphere on the ground is swallowing all the light around it.~
+glass~
+wand C AO
+40 6 6 'dispel magic' 0
+40 60 600 P
+E
+orb nullifier~
+You try to peer closely at the orb, but it is just a vague black shape.
+Holding it in your hand, you can feel its smooth, spherical shape.
+~
+#17334
+chest padlocked~
+a padlocked chest~
+A heavy padlocked chest is here.~
+steel~
+container 0 0
+200 ABCD 17035 40 50
+50 80 0 P
+E
+chest~
+Upon close examination, you see no way of opening this chest short of the
+key.
+~
+#17335
+key metal~
+a metal key~
+A metal key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+1 10 0 P
+E
+key metal~
+The key is small, perhaps it might open a padlock.
+~
+#17336
+waverunner boat~
+an outrigger called 'Waverunner'~
+An outrigger canoe with a sky blue sail is here, provisioned for adventure.~
+wood~
+boat B 0
+0 0 0 0 0
+10 120 25 P
+#17337
+lantern watchman's watchman watchamans~
+a watchman's lantern~
+A watchman's lantern is here, giving off a bright white light.~
+copper~
+armor A AO
+0 0 -1 0 0
+32 80 120 P
+A
+13 50
+A
+1 3
+A
+9 -50
+E
+lantern~
+You get the feeling that this lantern used to be able to do lots
+of amazing things.
+~
+#17338
+pearl giant~
+a giant pearl~
+A giant pearl lies forgotten in the sand.~
+pearl~
+treasure 0 0
+0 0 0 0 0
+35 30 70 P
+E
+pearl giant~
+The pearl is perfectly formed, and is and sprays a rainbow of colors
+off of its shiny surface.
+~
+#17339
+hammock hemp~
+a hemp hammock~
+A hemp hammock is here, stretched between 2 sunken poles.~
+hemp~
+furniture 0 A
+200 2 2480 100 100
+5 50 50 P
+E
+hemp hammock~
+The hammock has an inviting sag, and it beckons to you.
+~
+#17340
+doubloons booty~
+doubloons and booty~
+You see a trove of doubloons and booty!~
+gold~
+money 0 A
+10000 0 0 0 0
+0 0 0 P
+#17341
+key golden hawk~
+a golden hawk key~
+A golden hawk key lies here.~
+gold~
+key 0 A
+0 0 0 0 0
+35 20 0 P
+E
+key golden hawk~
+The key is made entirely of gold, and has the head of a hawk
+on it.
+~
+#17342
+stone floating~
+a floating stone~
+A stone is here, floating in mid-air!~
+stone~
+armor G AQ
+7 6 7 7 2
+23 40 110 P
+E
+stone floating~
+The stone is of a strange material you have rarely seen.
+~
+#17343
+robe hawklord hawk lord~
+the vest of the Hawklord~
+A vest made of a bright blue fine chain mesh hovers here.~
+chain~
+armor G AK
+12 13 14 13 1
+37 180 1500 P
+A
+17 -10
+A
+19 3
+A
+18 2
+E
+vest hawk lord hawklord~
+The blue mesh seems to attract metal object on your body.
+In fact, you can attach small throwing items onto it.
+~
+#17344
+winch ladder~
+a winch ladder~
+A winch with a long rope ladder is here.~
+rope~
+furniture 0 0
+0 0 0 0 0
+50 30 0 P
+E
+winch~
+You examine the rope ladder on the winch and estimate it
+can go down 500'.
+~
+#17345
+gizzard~
+a gizzard~
+A raw gizzard is on the ground, being consumed by ants.~
+food~
+pill 0 A
+35 'heal' '' '' ''
+38 50 1200 P
+#17346
+chest iron bound~
+an iron bound chest~
+A massive iron bound chest is here.~
+iron~
+container 0 0
+501 AC 0 20 100
+60 420 0 P
+E
+chest iron~
+Engraved on a band in the corner are the words:
+`Secure Chest TM by Beich'
+~
+#17347
+silver mountain~
+a mountain of silver~
+A mountain of silver is here. Take it and be rich!~
+silver~
+money 0 A
+20000 0 0 0 0
+50 0 0 P
+E
+silver mountain~
+The silver coins are from many different mints and eras.
+~
+#17348
+mug everfull~
+the everfull mug~
+A bottomless glass of ale is here, waiting to slake your thirst.~
+glass~
+drink G AO
+100 100 'ale' 0 0
+1 20 15 P
+E
+mug everfull~
+The ale is a light orange color with a hint of fuggles hops in
+its aroma.
+~
+#17349
+wings lord vulture's vulture vultures~
+Lord Vulture's wings~
+Wings from an ENORMOUS black bird lie well preserved on the ground.~
+feathers~
+armor FG AI
+13 13 13 12 1
+40 60 1200 P
+A
+19 3
+A
+1 2
+E
+wings~
+Upon closer examination, you see that the wings have a support harness
+which straps to your biceps.
+~
+#17350
+eye eagle~
+the eye of the eagle~
+You see a smooth amber stone with a single black spot lying on the ground.~
+stone~
+staff G AO
+40 15 15 'infravision' 0
+40 50 400 P
+E
+eye~
+The eye has a fascinating depth to it. The black spot seems to drink in
+the light around it.
+~
+#17351
+dagger throwing~
+a throwing dagger~
+A well balanced blue metal throwing dagger is here.~
+steel~
+weapon G AN
+exotic 12 12 none B
+37 50 700 P
+A
+19 1
+A
+18 1
+E
+metal dagger blue~
+The blue metal seems to stick to other metal objects.
+~
+#17352
+grog mug~
+a mug of grog~
+A foaming mug of grog is here, ready to take the chill off..~
+glass~
+potion G AO
+40 'refresh' 'harm' 'remove curse' ''
+1 50 400 P
+#17353
+cloak fur skin~
+a fur skin cloak~
+A white fur skin cloak is here.~
+fur~
+armor 0 AK
+14 13 13 13 1
+42 70 400 P
+A
+13 35
+#17354
+vest fur skin~
+a fur skin vest~
+A white fur skin vest is here.~
+fur~
+armor 0 AD
+14 13 13 12 2
+42 70 300 P
+A
+12 25
+#17355
+leggings fur skin~
+fur skin leggings~
+Some white fur skin leggings are here.~
+fur~
+armor 0 AF
+14 13 13 14 2
+42 30 300 P
+A
+14 50
+#17356
+buckler spiked~
+a spiked buckler~
+A spiked buckler is here.~
+iron~
+armor 0 AJ
+14 13 13 13 3
+42 120 950 P
+A
+19 3
+A
+17 -10
+#17357
+icicle~
+an icicle~
+An icicle lies on the floor, melting.~
+ice~
+wand G AO
+40 5 5 'frost breath' 0
+42 60 1000 P
+#17358
+pool melting~
+the melting pool~
+A pool of melting ice and frigid water is here.~
+water~
+fountain 0 0
+1000 1000 'water' 0 0
+0 0 0 P
+#17359
+garrote wire~
+a garrote wire~
+A long piece of wire lies on the ground.~
+wire~
+weapon 0 AN
+exotic 11 4 slice 0
+40 50 110 P
+A
+18 3
+#17360
+stone ghost~
+the ghost stone~
+(TRANSLUCENT) A stone lies on the ground here.~
+stone~
+wand G AO
+40 5 5 'pass door' 0
+44 50 375 P
+#17361
+battle axe two handed~
+a mighty two handed battle axe~
+A mighty two handed battle axe lies neglected in the dirt.~
+steel~
+weapon 0 AN
+axe 10 5 cleave F
+44 250 1000 P
+A
+13 70
+A
+19 4
+#17362
+armor frost~
+frost armor~
+A suit of armor fashioned from ice lies melting on the ground.~
+ice~
+armor FG AD
+14 14 15 13 2
+45 200 1200 P
+A
+0 0
+A
+19 3
+A
+18 4
+A
+5 3
+A
+14 -20
+A
+1 -1
+E
+armor frost~
+The armor is made from interlocking bands of ice, which overlap
+in a scale like fashion. The armor is cold to touch.
+~
+#17363
+Frostbite sword winter~
+"Frostbite" sword of winter~
+A long bastard sword made of ice lies here melting.~
+ice~
+weapon FGL AN
+sword 10 5 claw B
+45 270 1200 P
+A
+19 3
+A
+18 4
+A
+14 -20
+A
+1 -2
+E
+frostbite sword winter~
+You run your eyes along the frosty edge of the great blade of ice. Chills
+run through you as you think of the unbearable cold you would feel as
+this slid through your body.
+~
+#17364
+bag gold~
+a bag of gold~
+A heavy bulging bag of gold lies here.~
+gold~
+money 0 A
+5000 0 0 0 0
+30 0 0 P
+#17365
+bag silver~
+a bag of silver~
+A heavy bulging bag of silver lies here.~
+silver~
+money 0 A
+25000 0 0 0 0
+30 0 0 P
+#17366
+bag gems~
+a bag of gems~
+A heavy bulging bag of gems lies here.~
+diamond~
+money 0 A
+7500 0 0 0 0
+30 0 0 P
+#17367
+bag jewelry~
+a bag of jewelry~
+A heavy bulging bag of jewelry lies here.~
+gold~
+money 0 A
+10000 0 0 0 0
+30 0 0 P
+#17368
+eye evil~
+the evil eye~
+A bloody eye lies here.~
+eye~
+wand EG AO
+45 4 4 'cure critical' 0
+1 10 310 P
+#17369
+map hell's reef~
+a map to Hell's Reef~
+A map lies rolled up on the ground.~
+vellum~
+map 0 A
+0 0 0 0 0
+2 0 10 P
+E
+map hell's reef~
+>From southpoint, go 4n and 3w. There ye shall find a great treasure.
+~
+#17370
+bonfire roaring~
+a roaring bonfire~
+A roaring bonfire blazes brightly here.~
+fire~
+trash AB 0
+0 0 0 0 0
+8 0 0 P
+#17397
+boat banana~
+a banana boat~
+A beat up wreck of a ship drifts with the current.~
+wood~
+container 0 0
+5000 0 0 10 100
+70 500 100 P
+E
+boat ship~
+You see lots of bananas loaded on board the boat.
+~
+#17398
+spliff big fat~
+a big fat spliff~
+Ya mon, Jah has provided.~
+wood~
+staff A AO
+15 3 3 'cure serious' 0
+40 40 400 P
+E
+spliff fat~
+The fat spliff is filled with the holy Rastafarian herb. It
+is lit and looks like there are 2 hits left. The Rastaman
+took one hit off it when he sold it to you.
+~
+#17399
+dreddlocks~
+dreddlocks~
+A beautiful set of dreddlocks lie on the ground.~
+hair~
+armor A AE
+12 13 13 12 0
+40 30 100 P
+A
+13 50
+A
+19 2
+A
+18 2
+#0
+
+
+
+#ROOMS
+#17408
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17409
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17422
+D1
+shallows~
+~
+0 -1 17410
+D2
+shoals~
+~
+0 -1 1
+D3
+shoals~
+~
+0 -1 17408
+M100 H100
+S
+#17410
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17423
+D1
+seas~
+~
+0 -1 17411
+D2
+shallows~
+~
+0 -1 17394
+D3
+shallows~
+~
+0 -1 17409
+M100 H100
+S
+#17411
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17424
+D1
+seas~
+~
+0 -1 17412
+D2
+seas~
+~
+0 -1 17395
+D3
+shallows~
+~
+0 -1 17310
+M100 H100
+S
+#17412
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17425
+D1
+shallows~
+~
+0 -1 17413
+D2
+shallows~
+~
+0 -1 17396
+D3
+seas~
+~
+0 -1 17411
+M100 H100
+S
+#17413
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17426
+D1
+land ho!~
+~
+0 -1 17414
+D2
+shallows~
+~
+0 -1 17397
+D3
+seas~
+~
+0 -1 17412
+M100 H100
+S
+#17414
+Freeport Harbor~
+You are in the bay of the isle of Freeport. Wharves line the bay to the 
+where dockworkers load and unload crates. High on a hill overlooking the
+harbor is the city of Freeport, mercantile center of the world. You see
+a small buoy floating in the harbor.
+~
+0 4 7
+E
+buoy~
+{8 53} Lok      Freeport
+~
+D0
+shallows~
+~
+0 -1 17427
+D1
+shallows~
+~
+0 -1 17415
+D2
+Docked at the wharf~
+~
+0 -1 1
+D3
+shallows~
+~
+0 -1 17413
+D5
+A secret tunnel~
+grate~
+1 -1 1
+M100 H100
+S
+#17415
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17428
+D1
+seas~
+~
+0 -1 17416
+D2
+shallows~
+~
+0 -1 17399
+D3
+land ho!~
+~
+0 -1 17414
+M100 H100
+S
+#17416
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17429
+D1
+seas~
+~
+0 -1 17417
+D2
+seas~
+~
+0 -1 17400
+D3
+shallows~
+~
+0 -1 17415
+M100 H100
+S
+#17417
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17430
+D1
+shallows~
+~
+0 -1 17418
+D2
+shallows~
+~
+0 -1 17401
+D3
+seas~
+~
+0 -1 17416
+M100 H100
+S
+#17418
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17431
+D1
+shallows~
+~
+0 -1 17419
+D2
+seas~
+~
+0 -1 17402
+D3
+seas~
+~
+0 -1 17417
+M100 H100
+S
+#17419
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17432
+D1
+shoals~
+~
+0 -1 17420
+D2
+seas~
+~
+0 -1 17403
+D3
+shallows~
+~
+0 -1 17418
+M100 H100
+S
+#17420
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17421
+In the Shadow of the Flying Mountain~
+Incredibly, above you, suspended in mid-air, is a huge mountain. You
+bob in the shallow waters shaded by the flying mountain. You crane your
+neck upward and see high above you massive chains and winches which
+support many pirate ships beneath the flying mountain. Also, high above
+you, you can make out a rope ladder. Sadly the ladder, too, has been 
+wound most of the way up, and is far out of your reach. Your boat bumps
+a buoy.
+~
+0 4 7
+E
+buoy~
+{35 40} Lok     4th Isle of the Pirate Lords: Flying Mountain
+~
+D1
+shallows~
+~
+0 -1 17422
+D4
+In the air~
+~
+0 -1 17441
+M100 H100
+S
+#17422
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17435
+D1
+seas~
+~
+0 -1 17423
+D2
+shallows~
+~
+0 -1 17409
+D3
+land ho!~
+~
+0 -1 17421
+M100 H100
+S
+#17423
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17436
+D1
+seas~
+~
+0 -1 17424
+D2
+shallows~
+~
+0 -1 17410
+D3
+shallows~
+~
+0 -1 17422
+M100 H100
+S
+#17424
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17437
+D1
+seas~
+~
+0 -1 17425
+D2
+seas~
+~
+0 -1 17411
+D3
+seas~
+~
+0 -1 17423
+M100 H100
+S
+#17425
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17438
+D1
+shallows~
+~
+0 -1 17426
+D2
+seas~
+~
+0 -1 17412
+D3
+seas~
+~
+0 -1 17424
+M100 H100
+S
+#17426
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17439
+D1
+shallows~
+~
+0 -1 17427
+D2
+shallows~
+~
+0 -1 17413
+D3
+seas~
+~
+0 -1 17425
+M100 H100
+S
+#17427
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17440
+D1
+shallows~
+~
+0 -1 17428
+D2
+land ho!~
+~
+0 -1 17414
+D3
+shallows~
+~
+0 -1 17426
+M100 H100
+S
+#17428
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17441
+D1
+seas~
+~
+0 -1 17429
+D2
+shallows~
+~
+0 -1 17415
+D3
+shallows~
+~
+0 -1 17427
+M100 H100
+S
+#17429
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17442
+D1
+seas~
+~
+0 -1 17430
+D2
+seas~
+~
+0 -1 17416
+D3
+shallows~
+~
+0 -1 17428
+M100 H100
+S
+#17430
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17443
+D1
+seas~
+~
+0 -1 17431
+D2
+seas~
+~
+0 -1 17417
+D3
+seas~
+~
+0 -1 17429
+M100 H100
+S
+#17431
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. The seas are colder
+here and there is a bite in the wind.
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17444
+D1
+seas~
+~
+0 -1 17432
+D2
+shallows~
+~
+0 -1 17418
+D3
+seas~
+~
+0 -1 17430
+M100 H100
+S
+#17432
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 1
+D0
+shallows~
+~
+0 -1 17445
+D1
+shallows~
+~
+0 -1 17433
+D2
+shallows~
+~
+0 -1 17419
+D3
+seas~
+~
+0 -1 17431
+M100 H100
+S
+#17433
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea. The seas are colder
+here, and there is a bite in the wind.
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17446
+D1
+shoals~
+~
+0 -1 17434
+D2
+shoals~
+~
+0 -1 17420
+D3
+seas~
+~
+0 -1 17432
+M100 H100
+S
+#17434
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17435
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17436
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17449
+D1
+seas~
+~
+0 -1 17437
+D2
+seas~
+~
+0 -1 17423
+D3
+shoals~
+~
+0 -1 17435
+M100 H100
+S
+#17437
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17450
+D1
+seas~
+~
+0 -1 17438
+D2
+seas~
+~
+0 -1 17424
+D3
+shallows~
+~
+0 -1 17436
+M100 H100
+S
+#17438
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17451
+D1
+seas~
+~
+0 -1 17439
+D2
+seas~
+~
+0 -1 17425
+D3
+seas~
+~
+0 -1 17437
+M100 H100
+S
+#17439
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17452
+D1
+seas~
+~
+0 -1 17440
+D2
+shallows~
+~
+0 -1 17426
+D3
+seas~
+~
+0 -1 17438
+M100 H100
+S
+#17440
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship.
+   It's amazing, but the water here seems to look shallower, although
+you know that cannot be true at this distance from the shores. It
+almost looks like magic could be at play at this particular spot --
+which causes you to remember back to an old tale of an underwater city
+somewhere in these waters....
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17453
+D1
+seas~
+~
+0 -1 17441
+D2
+shallows~
+~
+0 -1 17427
+D3
+seas~
+~
+0 -1 17439
+D5
+~
+~
+0 -1 15300
+M100 H100
+S
+#17441
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17454
+D1
+seas~
+~
+0 -1 17442
+D2
+shallows~
+~
+0 -1 17428
+D3
+seas~
+~
+0 -1 17440
+M100 H100
+S
+#17442
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17455
+D1
+seas~
+~
+0 -1 17443
+D2
+seas~
+~
+0 -1 17429
+D3
+seas~
+~
+0 -1 17441
+M100 H100
+S
+#17443
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17456
+D1
+seas~
+~
+0 -1 17444
+D2
+seas~
+~
+0 -1 17430
+D3
+seas~
+~
+0 -1 17442
+M100 H100
+S
+#17444
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17457
+D1
+shallows~
+~
+0 -1 17445
+D2
+seas~
+~
+0 -1 17431
+D3
+seas~
+~
+0 -1 17443
+M100 H100
+S
+#17445
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea. The seas are colder
+here, and there is a bite in the wind.
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17458
+D1
+shallows~
+~
+0 -1 17446
+D2
+seas~
+~
+0 -1 17432
+D3
+seas~
+~
+0 -1 17444
+M100 H100
+S
+#17446
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is brackish, and there is a chop to the sea. It has become very cold.
+Ice flows drift from the north.
+~
+0 0 7
+D0
+ice~
+~
+0 -1 17459
+D1
+shoals~
+~
+0 -1 17447
+D2
+shallows~
+~
+0 -1 17433
+D3
+shallows~
+~
+0 -1 17445
+M100 H100
+S
+#17447
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17448
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17449
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17460
+D1
+seas~
+~
+0 -1 17450
+D2
+shallows~
+~
+0 -1 17436
+D3
+shoals~
+~
+0 -1 17448
+M100 H100
+S
+#17450
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17461
+D1
+shallows~
+~
+0 -1 17451
+D2
+seas~
+~
+0 -1 17437
+D3
+shallows~
+~
+0 -1 17449
+M100 H100
+S
+#17451
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17462
+D1
+shallows~
+~
+0 -1 17452
+D2
+seas~
+~
+0 -1 17438
+D3
+seas~
+~
+0 -1 17450
+M100 H100
+S
+#17452
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17463
+D1
+shallows~
+~
+0 -1 17453
+D2
+seas~
+~
+0 -1 17439
+D3
+shallows~
+~
+0 -1 17451
+M100 H100
+S
+#17453
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17464
+D1
+shallows~
+~
+0 -1 17454
+D2
+seas~
+~
+0 -1 17440
+D3
+shallows~
+~
+0 -1 17452
+M100 H100
+S
+#17454
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17465
+D1
+shallows~
+~
+0 -1 17455
+D2
+seas~
+~
+0 -1 17441
+D3
+shallows~
+~
+0 -1 17453
+M100 H100
+S
+#17455
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17466
+D1
+seas~
+~
+0 -1 17456
+D2
+seas~
+~
+0 -1 17442
+D3
+shallows~
+~
+0 -1 17454
+M100 H100
+S
+#17456
+Seas~
+You are sailing on the high seas of the pirate lords. The ocean is a 
+deep blue, and long slow swells rock your ship. To the north you hear
+a haunting song, that reminds you of home.
+~
+0 0 7
+D0
+The most beautiful woman you have ever seen~
+~
+0 -1 17467
+D1
+shallows~
+~
+0 -1 17457
+D2
+seas~
+~
+0 -1 17443
+D3
+shallows~
+~
+0 -1 17455
+M100 H100
+S
+#17457
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17468
+D1
+shoals~
+~
+0 -1 17458
+D2
+seas~
+~
+0 -1 17444
+D3
+seas~
+~
+0 -1 17456
+M100 H100
+S
+#17458
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17459
+Sailing the Sea of Ice~
+You have after a very hard journey, finally arrived in the sea of ice.
+The way is treacherous and narrow, and your ship plows through the thin
+ice. You notice some footprints in the snow next to a sign.
+~
+0 4 7
+E
+sign footprints~
+The footprints look like they were made by shiny black dress shoes.
+The sign reads: 
+{40 45} Lok    The 5th Isle of the Pirate Lords: The Iceberg
+~
+D0
+The sea of ice~
+~
+0 -1 1
+D2
+shallows~
+~
+0 -1 17446
+M100 H100
+S
+#17460
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17461
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17469
+D1
+shoals~
+~
+0 -1 17462
+D2
+seas~
+~
+0 -1 17450
+D3
+shoals~
+~
+0 -1 17460
+M100 H100
+S
+#17462
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17463
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17464
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17465
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17466
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17467
+Shipwrecked on Hell's reef~
+You have run aground on the shoals and your ship has been torn asunder.
+The rocks you stand on show evidence of inhabitation, mainly a small
+crude fire made of driftwood and the bones of several fish lie here.
+~
+0 4 7
+M100 H100
+S
+#17468
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17469
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17470
+In an Old Shipwreck~
+You have dived underwater to explore the old shipwreck. A strange luminous
+fungus gives enough glow to light the way. The ship is barnacle encrusted,
+and there are bones deposited on the ocean floor.
+~
+0 0 11
+D4
+The surface~
+~
+0 -1 17375
+M100 H100
+S
+#17301
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17302
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17303
+On the Beach~
+You have landed on the beach of a tropical island. You notice the
+sand has been disturbed, by what looks like a large ship. Footsteps 
+lead to from the beach to the palm trees to the south. You notice 
+and hear the sounds of beating drums as well as running water. Maybe
+you sould investigate. There is a wooden sign nailed in the ground
+attched to a stake.
+~
+0 0 6
+E
+wooden sign~
+{20 25} Lok     The Isle of the 1st Pirate Lord: Jungle Island
+~
+D0
+On the beach~
+~
+0 -1 1
+D1
+shallows~
+~
+0 -1 17304
+D3
+~
+~
+0 0 414
+M100 H100
+S
+#17304
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17310
+D1
+shallows~
+~
+0 -1 17305
+D2
+shoals~
+~
+0 -1 17301
+D3
+land ho!~
+~
+0 -1 17303
+M100 H100
+S
+#17305
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17311
+D1
+shoals~
+~
+0 -1 17306
+D2
+shoals~
+~
+0 -1 17302
+D3
+shallows~
+~
+0 -1 17304
+M100 H100
+S
+#17306
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17307
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17308
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17309
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17310
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17322
+D1
+seas~
+~
+0 -1 17311
+D2
+shallows~
+~
+0 -1 17304
+D3
+shoals~
+~
+0 -1 17309
+M100 H100
+S
+#17311
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17323
+D1
+shallows~
+~
+0 -1 17312
+D2
+shallows~
+~
+0 -1 17305
+D3
+shallows~
+~
+0 -1 17310
+M100 H100
+S
+#17312
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17324
+D1
+land ho!~
+~
+0 -1 17313
+D2
+shoals~
+~
+0 -1 17306
+D3
+seas~
+~
+0 -1 17311
+M100 H100
+S
+#17313
+Southpoint~
+You are on the solid land of southpoint. In all directions stretches the 
+seas of the infamous pirate lords, except to the south, where a road leads
+back to town. Do you have a boat, compass, and a good set of sea legs?
+~
+0 4 2
+D0
+shallows~
+~
+0 -1 17325
+D1
+shallows~
+~
+0 -1 17314
+D2
+~
+~
+0 0 1
+D3
+shallows~
+~
+0 -1 17312
+M100 H100
+S
+#17314
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17326
+D1
+shoals~
+~
+0 -1 17315
+D2
+shoals~
+~
+0 -1 17307
+D3
+land ho!~
+~
+0 -1 17313
+M100 H100
+S
+#17315
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17316
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17317
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17318
+In a Quiet Cove~
+You have sailed into a quiet cove. To the south of you is a large black
+mountain, and a beach of black sand. The cove continues to the west
+and south where it enters a water cave. There is a small buoy here.
+~
+0 4 7
+E
+buoy small~
+{25 30} Lok     2nd Isle of the Pirate Lords: Fire Island
+~
+D0
+shallows~
+~
+0 -1 17333
+D1
+The cove~
+~
+0 -1 1
+D2
+The beach~
+~
+0 -1 1
+M100 H100
+S
+#17319
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17320
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17337
+D1
+shallows~
+~
+0 -1 17321
+D2
+shoals~
+~
+0 -1 17308
+D3
+shoals~
+~
+0 -1 17319
+M100 H100
+S
+#17321
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17338
+D1
+shallows~
+~
+0 -1 17322
+D2
+shoals~
+~
+0 -1 17309
+D3
+shallows~
+~
+0 -1 17320
+M100 H100
+S
+#17322
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17339
+D1
+seas~
+~
+0 -1 17323
+D2
+shallows~
+~
+0 -1 17310
+D3
+shallows~
+~
+0 -1 17321
+M100 H100
+S
+#17323
+Seas~
+You are sailing on the high seas of the pirate lords. There is a 
+maelstrom here, sucking you downward in a whirling spiral.
+~
+0 8192 7
+D0
+seas~
+~
+0 -1 17340
+D1
+seas~
+~
+0 -1 17324
+D2
+seas~
+~
+0 -1 17311
+D3
+shallows~
+~
+0 -1 17322
+D5
+Into the maelstrom~
+~
+0 -1 17385
+M100 H100
+S
+#17324
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17341
+D1
+shallows~
+~
+0 -1 17325
+D2
+shallows~
+~
+0 -1 17312
+D3
+seas~
+~
+0 -1 17323
+M100 H100
+S
+#17325
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17342
+D1
+seas~
+~
+0 -1 17326
+D2
+land ho!~
+~
+0 -1 17313
+D3
+seas~
+~
+0 -1 17324
+M100 H100
+S
+#17326
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17343
+D1
+shallows~
+~
+0 -1 17327
+D2
+shallows~
+~
+0 -1 17314
+D3
+shallows~
+~
+0 -1 17325
+M100 H100
+S
+#17327
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17344
+D1
+shoals~
+~
+0 -1 17328
+D2
+shoals~
+~
+0 -1 17315
+D3
+seas~
+~
+0 -1 17326
+M100 H100
+S
+#17328
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17329
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17330
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17331
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17349
+D1
+shallows~
+~
+0 -1 17332
+D2
+shoals~
+~
+0 -1 17316
+D3
+shoals~
+~
+0 -1 17330
+M100 H100
+S
+#17332
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17350
+D1
+shallows~
+~
+0 -1 17333
+D2
+shoals~
+~
+0 -1 17317
+D3
+shallows~
+~
+0 -1 17331
+M100 H100
+S
+#17333
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17351
+D1
+shoals~
+~
+0 -1 17334
+D2
+A quiet cove~
+~
+0 -1 17318
+D3
+shallows~
+~
+0 -1 17332
+M100 H100
+S
+#17334
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17335
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17336
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17354
+D1
+shallows~
+~
+0 -1 17337
+D2
+shoals~
+~
+0 -1 17319
+D3
+shoals~
+~
+0 -1 17335
+M100 H100
+S
+#17337
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17355
+D1
+shoals~
+~
+0 -1 17338
+D2
+shallows~
+~
+0 -1 17320
+D3
+shallows~
+~
+0 -1 17336
+M100 H100
+S
+#17338
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17339
+Shallows~
+You are sailing in the shallows of the sea of the pirate lords. Here the
+water is greenish, and there is a chop to the sea.
+   Suddenly..your ship is thrown against the rocks and you are
+shipwrecked on an island...an island just west.
+~
+0 0 7
+D1
+~
+~
+0 -1 17340
+D3
+~
+~
+0 -1 1
+M100 H100
+S
+#17340
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17358
+D1
+seas~
+~
+0 -1 17341
+D2
+seas~
+~
+0 -1 17323
+D3
+shallows~
+~
+0 -1 17339
+M100 H100
+S
+#17341
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17359
+D1
+seas~
+~
+0 -1 17342
+D2
+seas~
+~
+0 -1 17324
+D3
+seas~
+~
+0 -1 17340
+M100 H100
+S
+#17342
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17360
+D1
+seas~
+~
+0 -1 17343
+D2
+shallows~
+~
+0 -1 17325
+D3
+seas~
+~
+0 -1 17341
+M100 H100
+S
+#17343
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17361
+D1
+shallows~
+~
+0 -1 17344
+D2
+seas~
+~
+0 -1 17326
+D3
+seas~
+~
+0 -1 17342
+M100 H100
+S
+#17344
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17362
+D1
+shallows~
+~
+0 -1 17345
+D2
+shallows~
+~
+0 -1 17327
+D3
+seas~
+~
+0 -1 17343
+M100 H100
+S
+#17345
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17363
+D1
+shallows~
+~
+0 -1 17346
+D2
+shoals~
+~
+0 -1 17328
+D3
+shallows~
+~
+0 -1 17344
+M100 H100
+S
+#17346
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17364
+D1
+shoals~
+~
+0 -1 17347
+D2
+shoals~
+~
+0 -1 17329
+D3
+shallows~
+~
+0 -1 17345
+M100 H100
+S
+#17347
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17348
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17366
+D1
+seas~
+~
+0 -1 17349
+D2
+shoals~
+~
+0 -1 17330
+D3
+shoals~
+~
+0 -1 17347
+M100 H100
+S
+#17349
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17367
+D1
+shallows~
+~
+0 -1 17350
+D2
+shallows~
+~
+0 -1 17331
+D3
+shallows~
+~
+0 -1 17348
+M100 H100
+S
+#17350
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17368
+D1
+shoals~
+~
+0 -1 17351
+D2
+shallows~
+~
+0 -1 17332
+D3
+seas~
+~
+0 -1 17349
+M100 H100
+S
+#17351
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17352
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17353
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17371
+D1
+seas~
+~
+0 -1 17354
+D2
+shoals~
+~
+0 -1 17335
+D3
+shoals~
+~
+0 -1 17352
+M100 H100
+S
+#17354
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17372
+D1
+seas~
+~
+0 -1 17355
+D2
+shallows~
+~
+0 -1 17336
+D3
+shallows~
+~
+0 -1 17353
+M100 H100
+S
+#17355
+Sailing the sea of chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17373
+D1
+shallows~
+~
+0 -1 17356
+D2
+shallows~
+~
+0 -1 17337
+D3
+seas~
+~
+0 -1 17354
+M100 H100
+S
+#17356
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17374
+D1
+shoals~
+~
+0 -1 17357
+D2
+shoals~
+~
+0 -1 17338
+D3
+seas~
+~
+0 -1 17355
+M100 H100
+S
+#17357
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17358
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17376
+D1
+seas~
+~
+0 -1 17359
+D2
+seas~
+~
+0 -1 17340
+D3
+shoals~
+~
+0 -1 17357
+M100 H100
+S
+#17359
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17377
+D1
+seas~
+~
+0 -1 17360
+D2
+seas~
+~
+0 -1 17341
+D3
+shallows~
+~
+0 -1 17358
+M100 H100
+S
+#17360
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17378
+D1
+seas~
+~
+0 -1 17361
+D2
+seas~
+~
+0 -1 17342
+D3
+seas~
+~
+0 -1 17359
+M100 H100
+S
+#17361
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17379
+D1
+seas~
+~
+0 -1 17362
+D2
+seas~
+~
+0 -1 17343
+D3
+seas~
+~
+0 -1 17360
+M100 H100
+S
+#17362
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17380
+D1
+seas~
+~
+0 -1 17363
+D2
+shallows~
+~
+0 -1 17344
+D3
+seas~
+~
+0 -1 17361
+M100 H100
+S
+#17363
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17381
+D1
+seas~
+~
+0 -1 17364
+D2
+shallows~
+~
+0 -1 17345
+D3
+seas~
+~
+0 -1 17362
+M100 H100
+S
+#17364
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17382
+D1
+shallows~
+~
+0 -1 17365
+D2
+shallows~
+~
+0 -1 17346
+D3
+seas~
+~
+0 -1 17363
+M100 H100
+S
+#17365
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17383
+D1
+seas~
+~
+0 -1 17366
+D2
+shoals~
+~
+0 -1 17347
+D3
+seas~
+~
+0 -1 17364
+M100 H100
+S
+#17366
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17384
+D1
+seas~
+~
+0 -1 17367
+D2
+shallows~
+~
+0 -1 17348
+D3
+shallows~
+~
+0 -1 17365
+M100 H100
+S
+#17367
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17385
+D1
+shallows~
+~
+0 -1 17368
+D2
+seas~
+~
+0 -1 17349
+D3
+seas~
+~
+0 -1 17366
+M100 H100
+S
+#17368
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17386
+D1
+shoals~
+~
+0 -1 17369
+D2
+shallows~
+~
+0 -1 17350
+D3
+seas~
+~
+0 -1 17367
+M100 H100
+S
+#17369
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17370
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17371
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+land ho!~
+~
+0 -1 17389
+D1
+seas~
+~
+0 -1 17372
+D2
+shallows~
+~
+0 -1 17353
+D3
+shoals~
+~
+0 -1 17370
+M100 H100
+S
+#17372
+Sailing the Sea of Chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17390
+D1
+seas~
+~
+0 -1 17373
+D2
+seas~
+~
+0 -1 17354
+D3
+shallows~
+~
+0 -1 17371
+M100 H100
+S
+#17373
+Sailing the Sea of Chaos~
+You are sailing the sea of chaos, with wild eddies sending the ship
+everywhere.
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17391
+D1
+shallows~
+~
+0 -1 17374
+D2
+seas~
+~
+0 -1 17355
+D3
+seas~
+~
+0 -1 17372
+M100 H100
+S
+#17374
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17392
+D1
+shoals~
+~
+0 -1 17375
+D2
+shallows~
+~
+0 -1 17356
+D3
+seas~
+~
+0 -1 17373
+M100 H100
+S
+#17375
+Shipwrecked on Thunder reef~
+You have run aground on the shoals and your ship has been torn asunder.
+A barnacle covered mast sticks out of the water, and leads beneath the 
+waves to the dark form of a wreck.
+~
+0 4 7
+D5
+Diving underwater~
+~
+0 -1 17470
+M100 H100
+S
+#17376
+On the Seas Near Thunder Reef~
+You have sailed next to the famed Thunder reef, which you hear crashing
+to your west. Many a mariner has wrecked his ship there.
+~
+0 0 7
+E
+reef thunder~
+As you look at Thunder reef, you remember the tale an old retired captain
+once told you about the Foamrunner laden with gold running aground on 
+Thunder reef.
+~
+D0
+shallows~
+~
+0 -1 17394
+D1
+seas~
+~
+0 -1 17377
+D2
+shallows~
+~
+0 -1 17358
+D3
+Thunder reef~
+~
+0 -1 17375
+M100 H100
+S
+#17377
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17395
+D1
+seas~
+~
+0 -1 17378
+D2
+seas~
+~
+0 -1 17359
+D3
+seas~
+~
+0 -1 17376
+M100 H100
+S
+#17378
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17396
+D1
+shallows~
+~
+0 -1 17379
+D2
+seas~
+~
+0 -1 17360
+D3
+seas~
+~
+0 -1 17377
+M100 H100
+S
+#17379
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17397
+D1
+shallows~
+~
+0 -1 17380
+D2
+seas~
+~
+0 -1 17361
+D3
+seas~
+~
+0 -1 17378
+M100 H100
+S
+#17380
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17398
+D1
+shallows~
+~
+0 -1 17381
+D2
+seas~
+~
+0 -1 17362
+D3
+shallows~
+~
+0 -1 17379
+M100 H100
+S
+#17381
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17399
+D1
+seas~
+~
+0 -1 17382
+D2
+seas~
+~
+0 -1 17363
+D3
+shallows~
+~
+0 -1 17380
+M100 H100
+S
+#17382
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17400
+D1
+seas~
+~
+0 -1 17383
+D2
+seas~
+~
+0 -1 17364
+D3
+shallows~
+~
+0 -1 17381
+M100 H100
+S
+#17383
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17401
+D1
+seas~
+~
+0 -1 17384
+D2
+shallows~
+~
+0 -1 17365
+D3
+seas~
+~
+0 -1 17382
+M100 H100
+S
+#17384
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17402
+D1
+seas~
+~
+0 -1 17385
+D2
+seas~
+~
+0 -1 17366
+D3
+seas~
+~
+0 -1 17383
+M100 H100
+S
+#17385
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17403
+D1
+seas~
+~
+0 -1 17386
+D2
+seas~
+~
+0 -1 17367
+D3
+seas~
+~
+0 -1 17384
+M100 H100
+S
+#17386
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17404
+D1
+shallows~
+~
+0 -1 17387
+D2
+shallows~
+~
+0 -1 17368
+D3
+seas~
+~
+0 -1 17385
+M100 H100
+S
+#17387
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17405
+D1
+shoals~
+~
+0 -1 17388
+D2
+shoals~
+~
+0 -1 17369
+D3
+seas~
+~
+0 -1 17386
+M100 H100
+S
+#17388
+Shipwrecked on the Shoals~
+You are on the shoals where the attacking ship was wrecked.  You can
+go east to the open beach, or west to the shallows and then, to the
+the open seas.
+~
+0 4 7
+D1
+~
+~
+0 -1 1
+D3
+~
+~
+0 -1 17387
+M100 H100
+S
+#17389
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. In the water next to
+you bobs a buoy.
+~
+0 4 7
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+E
+buoy~
+{30 35} Lok The 3rd Isle of the Pirate Lords: Pirate's Atoll~
+D0
+Sailing around the atoll~
+~
+0 -1 17235
+D1
+shallows~
+~
+0 -1 17390
+D2
+shallows~
+~
+0 -1 17371
+D3
+Sailing around the atoll~
+~
+0 -1 17221
+M100 H100
+S
+#17390
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17406
+D1
+shallows~
+~
+0 -1 17391
+D2
+seas~
+~
+0 -1 17372
+D3
+land ho!~
+~
+0 -1 17389
+M100 H100
+S
+#17391
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17407
+D1
+shoals~
+~
+0 -1 17392
+D2
+seas~
+~
+0 -1 17373
+D3
+shallows~
+~
+0 -1 17390
+M100 H100
+S
+#17392
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17393
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17394
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17410
+D1
+seas~
+~
+0 -1 17395
+D2
+seas~
+~
+0 -1 17376
+D3
+shoals~
+~
+0 -1 17393
+M100 H100
+S
+#17395
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17411
+D1
+shallows~
+~
+0 -1 17396
+D2
+seas~
+~
+0 -1 17377
+D3
+shallows~
+~
+0 -1 17394
+M100 H100
+S
+#17396
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17412
+D1
+shallows~
+~
+0 -1 17397
+D2
+seas~
+~
+0 -1 17378
+D3
+seas~
+~
+0 -1 17395
+M100 H100
+S
+#17397
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17413
+D1
+shoals~
+~
+0 -1 17398
+D2
+shallows~
+~
+0 -1 17379
+D3
+shallows~
+~
+0 -1 17396
+M100 H100
+S
+#17398
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17399
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17415
+D1
+seas~
+~
+0 -1 17400
+D2
+shallows~
+~
+0 -1 17381
+D3
+shoals~
+~
+0 -1 17398
+M100 H100
+S
+#17400
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17416
+D2
+seas~
+~
+0 -1 1
+M100 H100
+S
+#17401
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+seas~
+~
+0 -1 17417
+D1
+seas~
+~
+0 -1 17402
+D2
+seas~
+~
+0 -1 17383
+M100 H100
+S
+#17402
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17418
+D1
+seas~
+~
+0 -1 17403
+D2
+seas~
+~
+0 -1 17384
+D3
+shallows~
+~
+0 -1 17401
+M100 H100
+S
+#17403
+Seas~
+You are sailing on the high seas of the pirate lords. The water
+is blueish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shallows~
+~
+0 -1 17419
+D1
+shallows~
+~
+0 -1 17404
+D2
+seas~
+~
+0 -1 17385
+D3
+seas~
+~
+0 -1 17402
+M100 H100
+S
+#17404
+Shallows~
+You are sailing on the high seas of the pirate lords. The water
+is greenish looking, you hear the sounds of sea gulls, and the waves
+crashing against the hull of the boat. You notice sharp looking rocks
+pointing out of the water, you better watch which way you move !
+~
+0 0 7
+D0
+shoals~
+~
+0 -1 17420
+D1
+shoals~
+~
+0 -1 17405
+D2
+seas~
+~
+0 -1 17386
+D3
+seas~
+~
+0 -1 17403
+M100 H100
+S
+#17405
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17406
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#17407
+Shipwrecked on the Shoals~
+You have run a ground, there's lots of sharp rocks
+all about. You better recall it seems you cant go any further.
+There is a small floating piece of dibrea floating in the
+water, it is glowing and has strange marking on it.
+~
+0 4 7
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 17308 spec_fido Load to: the giant squid
+M 17309 spec_cast_mage Load to: the siren
+M 17310 spec_breath_lightning Load to: the raging typhoon
+S
+
+
+
+#RESETS
+D 0 17414 5 1
+M 0 17302 3 17417 1
+G 0 17304 0
+G 0 17305 0
+M 0 17301 7 17422 1
+G 0 17302 0
+G 0 17303 0
+M 0 17301 7 17427 1
+G 0 17302 0
+G 0 17303 0
+M 0 17302 3 17437 1
+G 0 17304 0
+G 0 17305 0
+M 0 17303 3 17443 1
+G 0 17304 0
+M 0 17301 7 17446 1
+G 0 17302 0
+G 0 17303 0
+M 0 17307 5 17449 1
+M 0 17307 5 17451 1
+M 0 17304 2 17461 1
+G 0 17306 0
+G 0 17307 0
+M 0 17309 1 17467 1
+O 0 17309 0 17467
+M 0 17308 1 17470 1
+O 0 17308 0 17470
+M 0 17301 7 17304 1
+G 0 17302 0
+G 0 17303 0
+M 0 17305 3 17325 1
+G 0 17306 0
+M 0 17307 5 17331 1
+M 0 17304 2 17332 1
+G 0 17306 0
+G 0 17307 0
+M 0 17301 7 17333 1
+G 0 17302 0
+G 0 17303 0
+M 0 17307 5 17355 1
+M 0 17302 3 17359 1
+G 0 17304 0
+G 0 17305 0
+M 0 17303 3 17364 1
+G 0 17304 0
+M 0 17306 1 17368 1
+G 0 17301 0
+M 0 17301 7 17371 1
+G 0 17302 0
+G 0 17303 0
+M 0 17303 3 17373 1
+G 0 17304 0
+M 0 17301 7 17383 1
+G 0 17302 0
+G 0 17303 0
+M 0 17305 3 17397 1
+G 0 17306 0
+M 0 17310 1 17397 1
+G 0 17310 0
+S
+
+
+
+#SHOPS
+17399 4 0 0 0 0 150 75 0 23
+0
+
+
+
+#$

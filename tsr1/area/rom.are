@@ -1,0 +1,777 @@
+#HELPS
+-1 WIZLIST~
+.
+`1=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=``
+`1=-=-=-=-=-=-=-=-=-=-=-=-=-=-=```4IMMORTALS OF TSR```1-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=``
+`1=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=``
+
+  Head Coder & Admin   [ADM] --------------------------------- Beowolf.
+  Supervisor           [IMP] --------------------------------- Allanon.
+  Supervisor           [IMP] --------------------------------- Draven.
+  Law Enforcer         [IMP] --------------------------------- Variant.
+  World Building       [IMP] --------------------------------- Thallin.
+  Help Files           [DEI] --------------------------------- Remik.
+  Player Relations     [DEI] --------------------------------- Bryelle.
+
+              *For a list of builders see help BUILDERS
+~
+-1 BUILDERS~
+.
+                     Builders for The Shadow Realms
+		     +----------------------------+
+
+  Allanon		Draven		   Nicodemus	       Terram
+  Aqmola	        Kadath              Raff                Till 
+  Belana		Garison		   Silvermist	       Variant
+  Belar 		Liquor		   Skippy	       Xentar
+  Beowolf		Nevyn		   Talon		
+~
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Tesseract, the latest version of the ROM code.
+It can be found at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bug reports
+    and suggestions, saving a lot of headaches
+
+New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used. 
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle (my wife) and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are largely the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+-1 IMMORTAL IMMORT GOD WIZARD WIZ~
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 153
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+-1 SOCIALS~
+ 
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	laces
+tank	     starve	 aargh	      homework	    puff	differ
+yae	     lightbulb   voodoo       ogg	    confused	beam
+bite	     discodance  scuff        whap	    lag		chortle
+zerbert      twitch
+ 
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+~
+-1 MAP MAPS~
+Thanks to Ezra for drawing the originals of several maps on ROM.
+~
+
+-1 GREETING~
+[2J
+[1;1H
+Welcome to ...
+                                      /|
+                                     |\|
+                                     |||
+                                     |||
+                                     |||
+                                     |||
+                                     |||
+                                     |||
+                                 _ -[{o}]-_
+                                     |/|
+              ___                    |/|
+             /// `     |\\_          `0'         =\\\\         . .
+            ,  |='  ,))\_|  -_                    _)  \      _/_/|
+           / ,' ,;((((((     x\                  `   \- -_ /  (_/\
+         /' - / )))))))'\_   _/'                      \_  /'  D   |
+        (       ((((((  -/  -/     THE                   -;  /    \--_
+           --|   ))''    ')  `       SHADOW               `  \_    \   )
+             :        (_   \           ,  REALMS            /  -     ./
+              \        \_   )--__  /(_/)                   |    )    )|
+    ___       |_     \__/ -__         ,'      /,_;,   __--(   _/      |
+  //  \`\    /'    ----|     --------'        \-  ((      __-         |
+((()   `\`\_(_     _-  -\                      ``-- ------   \_      /
+ )))      ----'   /      \   ROM 2.4b3 Copyright (c) 1992-   )       )
+  (         ;` --'        :  1996. Russ Taylor.           _-    ,;;(
+            |    `\       |  Orginal DikuMUD by Hans    _-     ,;;;;)
+Quest Code  |    /'`\     ;  Staefeldt, Katja Nyboe,  _-           _/
+v2.01 (c)  /    /    |    )  Tom Madsen, Michael    /;;;''  ,;;: -
+1996      |    /     / | /   Seifert and Sebastian |;;'   ,''
+Ryan      /   /     |  \\|   Hammer.               |   ,;(    
+Adams   _/  /'       \  \_)  Based on MERC 2.1 .---__\_    \,--._______
+       ( )|'         ( -_|   by Hatchet      (;;'  ;;;---/' `;;|  `;;;\
+        ) `\_         |-_;;--__ Furey and Kahn------__/'    /'_______/
+        `----'       (   ` --_ ---;;------------      ;;;'_/'
+                     `--------'--------....___;;;____---
+                        Based on TSR Code by: Beowolf 
+
+Brave Adventurer, Who are you? ~
+
+-1 MOTD~
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+|	           `% Web Page: http://www.tsr.org/``                           |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+|`4 Coders for TSR: Beowolf        ``                 `#(Beta Version 3.1)``        |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+|   You are responsible for knowing the rules (type 'rules').  Ignorance of |
+|   the rules is `1no excuse``. Please delete all unwanted characters.          |
+|   Please note that this is a Mature MUD. Most language here will be       |
+|   intendeded for Mature people. (18 years old and older)                  |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+
+`1*`` If you have a problem report it first to Bryelle via a note or 
+  through email. (bryelle@geocities.com) Thank you for your help on
+  this matter. -Beowolf. 
+
+`1*`` Grand Opening is April 1st. Roleplay your asses off and get yourself
+  up to 10 levels a day. All you got to do is roleplay good. levels will 
+  be rewarded for good rp from now until we open. The shit hits the fan
+  around midnight on the 31st. Good Luck everyone. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= 
+~ 
+ 
+153 IMOTD~
+`8Welcome Immortal!``
+`2You are reponsable for knowing all the rules of Immortal Behavior and all    
+Immortal aspects of this mud. See help```@ commandments, jobs, and Immnews.``
+
+`1*`` Please increase your roleplaying and remain vis more often. If you have
+  a area that isn't completed, work on it! We have 3 weeks, but I'd like to
+  see areas done in 2 weeks to give me a week to walk through them and check
+  them, which I will need help with.
+
+`$***************************************************************************``
+~
+152 BMOTD~
+`8Welcome Builder!``
+`2You are reponsible for knowing all the rules of builder behavior.```@(brules) ``
+`2Failure to comply with these rules will result in deletion. For a list of
+all your commands please see```@ wizhelp.``
+
+`1*`` Please email or talk to an immortal about the new building process. 
+
+[Hit Return to continue]
+~
+
+-1 PNEWS~
+
+No news as of now.
+~
+
+152 IMMNEWS~
+All news about how this mud is going will be placed here. I will try to keep
+this as current as possible...
+
+* Need Areas, ideas for spells, races, classes, and skills. Also IF and When
+  you get ideas please email us.
+
+* Failure to produce at least 1 new original area every 2 months will cause
+  you to loose a level. Failure to do it second time after this will be grounds
+  for instant DELETION. Also 4 Quests equals 1 area.
+
+~
+-1 POWERS~
+
+	The Psionicist class will have the following goups and spells.
+
+*Clairsentience Group:
+
+Aura Sight, Object Reading, Clairvoyance, Combat Mind.
+
+*Psychokinesis Group:
+
+Create Object, Detonate, Disintegrate, Project Force, Control Body,
+and Levitation and Invisibility.
+
+*Psychometabolism Group:
+
+Complete healing, Life Drain, Metamorphosis, Chameleon Power, Enhanced 
+Strength, and Flesh Armor. Also Mindwipe.
+
+	That does it for This new Class. Hope its not too powerful.
+                                      -Beowolf.
+ 
+~
+
+152 JOBS~
+
+Avatars: (153)
+The Job of the Avatars is to keep the game moving...help with Newbies and being
+a overall friendly person.
+
+Angels: (154)
+Angels have two main roles: reimbursement and quest running.  Be skeptical
+on reimburses, don't just hand out every piece of gear.  I suggest limiting
+reimbursements to 10 items at a time, and make sure that you do not load things
+at too high a level (new format items have hard-coded levels, so are not a
+problem).  vnum and stat are useful for this.  You can draft Avatars to help you
+run a quest, and please note that quests should NOT have huge rewards -- the
+main point should be to have fun. 
+
+Demigods-Creators: (155-159)
+Gods have the roles of keeping the peace. They must make sure that the Mud
+is kept bug free and also perform as the other gods do. More is required 
+out of these levels than normal. Use your head folks. If your head becomes
+too big for you I am sure we can arrange a demotion or two.
+
+Not fullfilling the roles of your office can result in demotion or deletion.
+~
+
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+=============================PKILLING RULES=================================
+
+1) NO MULTIKILLING! This means once you pkill someone you cannot kill them 
+   again for at least 20 minutes of REAL LIFE time. If you break this rule
+   you will be killed by an immortal (thus taking your precious exp) and
+   all of your eq junked in front of you. For the second offense you will   
+   be demoted 5 levels. Third offense results in the Freezing of your char
+   forever.
+
+2) NO BITCHING to immortals if you get pkilled by someone. Learn to respect
+   the higher level characters here. If you get killed by one form an alliance
+   with someone and group and go kick thier ass. We don't want a mud full
+   of babies!
+
+3) You may only kill players within 20 levels of yourself. If you kill someone
+   you have full rights over the players corpse you killed. You may take the
+   eq or junk it or give it back...its up to you.
+~
+-1 TSR_BUILDING~
+Welcome to The Shadow Realms    So...your interested in building are you?
+Well great! Here at The Shadow Realms we believe in giving everyone a 
+fair chance at building. So how do you start and what are the benefits of
+becoming a builder? Funny you should ask, you have came to the right help.
+
+1.) We have OLC in and want people to use it to build.
+
+2.) Mail the IMPS of TSR with 5 room descriptions. (no code just descriptions).
+    One room must be a hallway or road. Then also do one description for
+    a mobile and one description for a object. Here is the addy. -
+    (beowolf@tsr.org)
+
+3.) Once we review if we think you would make a good builder or not we will
+    let you know our descision by email.
+
+4.) Once your approved you must then mail us again with the theme of your
+    area (Remember The theme to the mud is Medieval/Fantasy. Please DO NOT
+    send us ideas about cars or clowns).
+
+5.) You will then recieve permission to use OLC. Once your first area is 
+    complete and we have had a player test it fully you will receive all
+    benefits as outlined in help reward.
+
+We look forward to hearing from you and hope that you enjoy this mud as much
+as we do. If you wish to build offline you will need to mail us for further  
+details.
+                		-TSR IMPS
+~
+-1 SEXUAL HARASSMENT~
+
+                           Sexual Harassment
+
+  Sexual Harassment on this Mud is not acceptable nor will it be tolerated. 
+  Sexual Harassment is:
+1) Using sexual language to someone that doesn't wish to have you speaking 
+   to them, in that way.
+2) Using any sexual emotes without permission to do so. (french, fondle, ect, 
+   this does not mean things like flirt or stare)
+  Please people lets not do anything here to someone that we wouldn't do in 
+  Real Life. As far as i know Frenching and Fondling someone you don't know is 
+  not acceptable behavior in any world. Punishment for Harassment ranges from 
+  a warning, for a first offense, to deletion, so don' be surprised. 
+  If you have been Sexually Harassed Please do the following:
+1) Ask the person to stop.
+2) Leave the room the person is in. They can't emote to you if you are not 
+   there.
+3) Tell someone, (a friend, your clan) Perhaps if your asking them to stop 
+   didn't stop it, someone else asking will let them know you are serious.
+4) Tell an immortal what is going on, and Always write a note to immortal 
+   so we know who is doing these things.
+
+~
+
+152 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+*************************************************************************
+***************THE IMMORTAL VERSION OF THE TEN COMMANDMENTS**************
+*************************************************************************
+
+1.) Thou shalt respect the existing heirarchy.                           
+
+2.) Thou shall not kill mortals for the fun of it unless the mortal deems
+    himself worthy of killing. This also includes transing aggro mobs to
+    mortals. Thou shouldn't do it. A good example of a mortal who deserves 
+    to be killed is one who doesn't do what you say or disrespects you. 
+    But please don't abuse this, for a mortal can tell the greater gods
+    and the greater gods can purge you.
+    
+
+3.) Thou shall use authorization with sound judgment.  Obviously names such
+    as Dumbass, LadyBug, Happy, Fatale, Fuckyou, Deathboy, Buttmonkey, etc.
+    should not be tolerated.  Otherwise, use careful discretion with names.
+
+4.) Thou SHALL NOT raise player's stats, trains, practices, etc. for any 
+    reason other than a messed up pfile, or as a quest prize.  Even if they
+    test an area for you, players should not recieve these stat advances.
+
+5.) Thall shall not give out eq unless its a quest prize, or testing an area.
+    However, the eq for testing an area should be extremly moderate. 
+    Re-imbursing players should be done with careful diliberation, and care.
+
+6.) Thou sahll not get into an argument over the mortal channels.           
+
+7.) Thou shall use the log command whenever a player is acting up or breaking
+    the rules.  If you do not have the log command, please capture it to a
+    text file and send a copy of that text file to the immortals.
+
+8.) Thou shall not give out any level information to mortals.
+
+9.) Every immortal shall do a quest at least once a month.  Also, you must
+    note everyone about that quest at least a week in advance so that all may
+    participate.
+
+10.) Thou shall ALWAYS present a united front towards the mortals.  If there
+     is a discretion, please bring the problem to the Imps.
+
+11.) ALL of these rules are subject to change at ANY time by the Imps without
+     warning or reason.  Thou shall always walk softly and carry a length of
+     blue rope.
+
+
+~
+
+-1 RULES~
+
+***********************************************************************
+**************************RULES OF SHADOW REALMS***********************
+***********************************************************************
+
+
+1.)  If you see a bug report it immediately. If you don't report it and
+     you abuse it, then you will be deleted. Any other problems or    
+     concerns should be mailed to the IMPs.
+                [beowolf@tsr.org]
+
+2.)  MULTIPLAYERS ARE NOT TOLERATED HERE. If we catch you doing it you
+     will first be warned and then asked nicely to delete one of your
+     characters while the other character is demoted 5 levels. If you are  
+     caught doing it a second time you will be deleted.
+
+3.)  Storage Characters will not be tolerated.  A storage character is
+     defined as a character that is used to hold equiptment and not for
+     playing / leveling purposes. Some people think they can get away with
+     giving their storage char all their eq before they go into battle or
+     some such. If we catch you doing this, there will be NO warning.  The
+     result will be deletion of both your mortals.
+
+4.)  PKILLING. (please read help pkill).
+
+5.)  Swearing and Foul language.- This kind of Language IS accepted. But
+     WARNING: if you spam the channels with it you will be nochanneled
+     for the first offense. For the second offense you will be frozen for
+     2 Real life hours. The third offense is deletion.
+
+6.)  You are encouraged to Role-play here. Please try and do it. Remember
+     that this is only a game and anything that is said or done by any
+     character/god is strictly Role-playing. Anything out of character
+     will be used on the ooc channel.
+
+7.)  OOC channel.- Please keep all Real world questions to the OOC
+     channel. This stands for Out Of Character. If you have a question 
+     about when something is going to be imped, or anything pertaining to
+     Real Life outside of the mud place it here. If you are caught putting
+     Real life stuff on the other channels then you will be given one
+     warning. 2nd offense will be nochanneling and third will result in
+     demotion of 1 level. So please have fun and keep real world things to
+     the OOC channel after all that is what we are trying to escape from
+     here. :)
+
+8.)  Listen to the Immortals here. If they feel you are doing something
+     wrong please listen to them and try to fix it. If you treat a god
+     with disrespect than that god reserves the right to kill you and
+     steal your eq. So do yourself a favor and do what the gods say if
+     they ask. You could find yourself rewarded. If you feel that you were
+     wronged by a god please send a email appeal to the IMPS. If that god
+     was in the wrong than that god will be warned and further action will
+     take place.
+
+9.)  For rules on Sexual Harassment type 'help sexual'.
+
+10.) Do not harrass or flame the implementors of the mud.  Many hours of work 
+     have been up into this MUD at their expense.  
+
+11.) Talking trash to other players other than gossip will NOT be tolerated.
+     Role-Playing is understandable and should be kept on the gossip channel. If
+     an immortal hears of you using tells to other players saying nasty
+     things to them then you will be warned. If you continue to do it you
+     will be demoted 5 levels. If the action still persists you will be
+     deleted.
+
+12.) Changes to these rules are at the discretion of the immortals, and may be
+     done without warning, notice, or even evidence of sanity. Walk softly,
+     and carry a black stick.
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.
+~
+ 
+0 HEALER~
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 10 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~ 
+
+
+-1 GAIN~
+The gain command is used to learn new skills, once the proper trainer has 
+been found. (Check New Thalos) The following options can be used with gain:
+
+gain list:    list all groups and skills that can be learned
+gain points:  lower your creation points by 1 (costs two sessions)
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert: turns 10 practices into one training session
+
+Gain uses training sessions, not practices. (see 'help train')
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points. 
+~
+
+153 CLONE~
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.  
+Strung extended descriptions on objects are not kept, however.
+~
+
+
+0 SKILLS SPELLS~
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+~
+
+
+0 OUTFIT~
+The outfit command, usable by levels 5 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT~
+ROM uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac	  : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassit : makes you help group members in combat
+
+Typing a command sets the action , typing it again removes it. 
+~ 
+
+-1 PRICES PRICE~
+Boosting the mana or healing gains for a room costs 250 diamonds.
+New Clan Hall Rooms cost 50 diamonds.
+Both in the same room costs double.
+Making the Healer or Store prices lower costs 1,000 diamonds.
+~
+
+-1 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~ 
+ 
+-1 GATE~
+The gate spell is a powerful transportation magic that opens up a portal 
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at 
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also 
+immune to gate, as well as in player who has no summon set.  Clan members 
+may not be gated to except by their fellow Clan members.
+~
+
+-1 REWARD~
+Building and the benefits. 
+
+Ok as a builder You will receive two characters. One character will be your
+builder and will NOT be allowed to play the mud. The builder character will
+be raised to level 60 where he or she will remain. Here is a list of all the
+builder character benefits.
+
+2.) Your own builders channel.
+3.) Raised to level 152.
+4.) Your own login screen. (bmotd)
+5.) OLC.
+6.) Your name on Wall of Fame. (this is a helpfile and also a sign in town.)
+
+Your other character is the one you will play the mud with. Here are the 
+benefits for that character.
+
+1.) 1 weapon of level 27 and 1 item of eq level 27.
+2.) Raised to level 20.
+3.) Two stats maxed to 25.
+
+If you think this sounds good then please send email to the IMPs of
+TSR. Thanks and enjoy your new home here at The Shadow Realms!
+~
+-1 SECT SECTS~
+Sects.
+
+	A sect is a group of individuals who choose to band together and follow the basic philosophy of a particular god or godess. A sect is only as powerful
+as those who band together to follow the ideals and beliefs of the god or 
+goddess. Many followers of a sect find themselves embowed with special rewards
+set by the god or godess. For one special person in each sect a placement of
+high honor is granted. This certain honor has a name that each sect god or      goddess names. For some that is the name of High Priest. 
+	Many special powers are granted to the Honored person of each sect.
+One such thing is the special items they receive and the ability to vote on
+many important aspects of the sect. Joining a sect is a big step and one must
+be of level 15 or higher before being allowed to join one.
+	Some sects will let you buy special rooms and mobs by acquring diamonds
+as payment. To see room prices see 'help prices.' To find out more about a 
+certain god or goddess simply type 'help <god/dessname>' Example: help variant.
+For a complete listing of the gods and goddesses of TSR see 'help pantheon'.
+~
+-1 PANTHEON~
+=======================-GODS AND GODDESS'S of TSR-=========================
+
+Good Sects.
+-----------
+God of Retribution ------------------------- Variant.
+Goddess of Rebellion  ---------------------- Bryelle.
+
+Neutral Sects.
+--------------
+God of Balance ----------------------------- Draven.
+God of Pride  ------------------------------ Allanon.
+God of Deception --------------------------- Remik.
+
+Evil Sects.
+-----------
+God of Chaos ------------------------------- Beowolf.
+God of Strife ------------------------------ Thallin.
+
+============================================================================
+~
+
+-1 NEWBIE INFO~
+	Welcome new one! As all new babes to the realms you must first attempt
+to go though the mudschool and learn all the new commands available to you at
+your fingertips. Good luck on your new and exciting adventures here at The
+Shadow Realms! If you need help just ask a god.
+~
+
+-1 HIGHPRIEST~
+
+     The position of High Priest of a God/Goddess is one of great honor.
+To be a High Priest means that you have proven your self to be worthy in
+the ways of Bravery, Wisdom, Brotherhood, and Love for your God/Goddess.
+With the honor of being High Priest, you also recieve the sceptor of the
+God/Goddess, and a room withing the clan city walls.  You'll also be able
+to use the clan channel to talk to everyone thats on!  Although, with
+these rewards come great responsibility.  If anything goes wrong within
+your clan, or something happens to your clan...you are responsible for
+it.  You also oversee the actions of the members, and their devotion to
+the patron God/Goddess.  If you think that you are worthy of this awesome
+responsibility and honor, pray to your clan God/Goddess for more 
+information.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+0 DRAVEN~
+                 >---Lord Draven Daviau of Maduro---<
+____________________________________________________________________________
+
+     Born to a street cleaner in the dark city of Maduro, Draven Daviau 
+ suffered ridicule and harrasment.  Draven was a Creole boy in a Spanish
+ city, and the two did not bode well with one another.  One night, his
+ mother asked him, "What troubles you young one?"  Draven responded, "I
+ feel like a dirty animal, howling inside, being kicked like a dog, and
+ I'm losing control."  Choking back a bit of laughter his mother said, "I 
+ don't understand..."  Those were the last words she ever spoke.  Out of
+ utter insanity, Draven killed both of his parents, and then fled into the 
+ wooded swamplands.  
+      There he lived on insects and swamp water.  Gators soon became no 
+ match for Draven, as he quickly learned to outsmart them.  One night,
+ sitting in a make-shift canoe of gator skin and willow branches, Draven
+ was attacked by "something."  It left him in a pit, weak and on death's
+ door.  In a room without a light, or view, unable to move his limbs, 
+ Draven waited to die.  Thrice nights thereafter, a dark being visited
+ Draven.  "What if I can give you a new life, better than the one you
+ had?"
+ "I'd think you were a god." Draven mumbled.  The creature took him, and
+ drained the life from him.  Then it made Draven drink the blood from it's
+ core.  Cut and broken, Draven was all but dead, and then the pain started.
+ His skin stretched so tightly he screamed for the mercy of the gods.  A
+ burning sensation spread from his core to his limbs...and the he felt ALIVE!
+ Draven had been borne to the children of darkness.  There he stayed with
+ them and learned their dark ways.  
+      Some years later, on a night with a new moon, the tribe was attacked
+ by humans and set fire to.  Draven and a few others escaped, and fled into
+ seperate directions.  He finally came to rest in a french town cemetery.
+ The next night, he decided to visit the church.  There he met up with a 
+ young priest.  This was a very philosophical priest, who would sit and
+ discuss the issues of goodness with Draven.  There Draven learned the life
+ of the "good man," and even lived it for awhile.  One night Draven stumbled
+ upon some old writings scattered about in the priest's study.  He translated
+ them quickly and found they described a god who was the "god of gods," Ao.
+ Draven soon began worshiping Ao like none other before him.  He even took a
+ vow of silence for a while in respect of Ao.  Trouble had started up in a 
+ far land, with an evil god by the name of Beowolf behind it.  One night, 
+ Draven was visited by Ao, and asked to become a true immortal.  Draven
+ jumped at the chance, and soon studied with Ao for many years.  A god by
+ the name of Allanon approached Draven one day to see if he would team up
+ with Allanon in the Immortal war that was going on.  Draven agreed, and 
+ joined Allanon in the war.  
+     When the war was disbanded by Ao, Draven requested to be appointed as
+a god of neutrality.  Considering the facts that Draven had knowledge of
+both the good and dark sides; plus the fact that he has studied with Ao for
+many years, he was granted the godship.  Draven returned to his birth place 
+of Maduro.  He slayed all those that chose not to follow him in revenge of
+his childhood, and then burried the city.  Draven bacame a minstrel, singing
+the songs of his adventures.  Many people saw Draven's knowledge of the 
+forces, and his respect for the free will of others.  They chose to worship
+Draven, and joined his religion of Maduro.
+
+~
+0 $~
+#$

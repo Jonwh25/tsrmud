@@ -1,0 +1,146 @@
+#AREADATA
+Name        New area~
+Builders    Bryelle~
+VNUMs       5700 5799
+Security    1
+End
+
+
+
+#MOBILES
+#5700
+Kryos shopkeeper Rebellion~
+rebellion's shopkeeper~
+Rebellion's shopkeeper stands here
+~
+~
+human~
+A 0 0 0 
+0 155 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#5700
+Triple Elemental~
+elemental Potion~
+A potion swirling with different elements lies here.~
+unknown~
+potion ANY AO
+150 'gas breath' 'frost breath' 'fire breath' ''
+15 0 1500 P
+#5701
+China Potion~
+the china potion~
+A white magical swirling potion~
+unknown~
+potion ANY AO
+150 'complete healing' 'complete healing' '' ''
+15 0 1000 P
+#5702
+Black potion~
+black rose potion~
+A black swirling potion lies here.~
+unknown~
+potion ANY AO
+150 'sanctuary' 'stone skin' 'flesh armor' ''
+0 0 1000 P
+#5703
+Sharp potion~
+sharp potion~
+A potions swirling of sharp thorns.~
+unknown~
+potion ANY AO
+150 'bless' 'armor' 'shield' ''
+15 0 1000 P
+#5704
+Unknown potion Rebellion~
+an Unknown potion~
+A potion of no identity lies here~
+unknown~
+potion AY AO
+158 'displacement' 'combat mind' 'frenzy' ''
+0 0 1000 P
+#5705
+Psionic Fury~
+psionic Fury~
+Psionic Fury~
+unknown~
+weapon BIMTY ANO
+sword 500 1 wrath ABCEG
+158 0 0 P
+A
+18 50
+A
+19 50
+#5706
+Psionic Wrath~
+psionic Wrath~
+Bryelle's Psionic Wrath lies here.~
+unknown~
+weapon ABMTY ANO
+exotic 500 1 smash ABCG
+158 5 0 P
+A
+18 50
+A
+19 50
+#5707
+BlueRose~
+`1---,-'`3@`6~
+`1---,-'`3@`6~
+unknown~
+armor ABFIM AO
+500 500 500 500 0
+158 0 0 P
+A
+19 300
+A
+18 300
+#5708
+test~
+(no short description)~
+(no description)~
+unknown~
+treasure 0 0
+0 0 0 0 0
+0 0 0 P
+A
+18 150
+#0
+
+
+
+#ROOMS
+#5700
+~
+~
+0 4 0
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+5700 10 0 0 0 0 0 0 1 23
+0
+
+
+
+#$

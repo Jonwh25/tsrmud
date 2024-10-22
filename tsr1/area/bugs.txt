@@ -1,0 +1,103 @@
+[ 3054] Cerebus: typing ed i believe lets anyone look at the editing system but not change anything
+[ 3001] Morpheus: it seems that only NPCs are spotted using detect invis.i can't detect PCs.
+[ 3700] Scotty: greave
+[  101] Senrith: Mis-linked exit, Along the Eastern road is leading to On the rope.
+[ 6002] Cerebus: theres a door to my e but no exits when i use pass door to go inside...its in "An Opening" d all the way from the u/d tunnel by New Thalos
+[    1] Mizra: I went up from the old shipwreck where the squid is and  it took me to the void, definately not the room I entered from!
+[ 9901] Taltos: my pet recalls to the wrong guild also low level characthers seam to get stuyck in a place called the  minds heaven when they recall
+[ 3035] Jyaad: sleeve
+[20797] Taltos: can not go east ops sorry westw
+[20797] Taltos: even tho discription says so
+[ 3359] Taltos: the colour has gone wrong in anys pub upo stairs
+[ 3334] Cerebus: you can deposit - amounts of coins to otho
+[ 3054] Cerebus: the count command only says the highest amt of people on the last time you typed "count" not the real high
+[11176] Taltos: the door in the tower of camalot only lets you into the tower not out
+[ 5906] Taltos: in the arena when you try to go east you end up going south
+[ 5906] Taltos: this is from the foutain of blood
+[ 3054] Dinrauko: At healer, heal critic is cheaper than heal heal, but is twice as good
+[ 3021] Klode: When you recall your pet gets left behind.....
+[11103] Sirian: Hmmmmm...Pellinore's trailpack should be closable, according to several game descriptions.
+[18126] Taltos: in div souls the misty lake you go down to get there but south to go back should it not be up
+[ 3044] Cerebus: somethingis fucked with hunt i just tried to hunt a mob and it crashed, but it autosaved after i leveled so its ok
+[ 3257] Sirian: Um...Warkeep's rooms are linked together wrong
+[ 3112] Drlee: is the small path south of the promenade in the park suppose to open to the plains?
+[ 3904] Gruhl: There should be an exit north here leading eventually to elm street
+[ 3054] Cerebus: wagons seem to be notake
+[ 3054] Leviathan: when i "stop" from using a wagon...it sets my prompt back to the standard prompt instead of my custom prompt :(((
+[29136] Taltos: at dawns edge in freeport there is a statue of a dolphin if you examine it your text changes colour half way thro and stays that way till the next gossip taltos protector of Oblivion
+[ 3011] Ishantar: it still says recall under the temple of Mota on the Map of Midgaard.
+[13213] Soulslayer: if you sheath a weapon, then wear another, then unsheath the other, you get dual wield!!!!but you only attack with one!!
+[ 3054] Galaxy: you can scan while sleeping
+[ 3199] Zazen: cobrah was able to get the things from my corpse in the morgue after we both died when grouping
+[ 3054] Fallout: Shadow Does nothing
+[ 3054] Fallout: After you dual Weild a weapon, you can still hold stuff, as long as you do it afterwards
+[ 3054] Brisco: um, i think the hide skill isn't working.  it doesn't show under affect and people can see hiding players.
+[ 3019] Zazen: when I cast detect invis it tells me I cannot cast thi spell on another, is it working right?
+[ 3054] Zazen: I have tryed to enchant my bear skin twice now and a couple other things but they aren't showing up in my eq as glowing...What's with that, I've blown 100 gold and it's not showing up
+[ 3054] Zazen: I have been casting enchant armor and not getting them to glow even tho it says they are glowing before I check eq
+[ 3054] Zazen: cast detect unvis is not working for me, Zazen
+[ 3054] Zazen: How come My eq keeps flaring out of existance when I try to enchant them
+[ 3054] Zazen: How come I can't wear earrings under my helmet
+[ 3054] Zazen: why does my armor keep flaring away, or burning up when i try to enchant it? could you please explain?
+[ 3054] Bramin: okay say someone wears a sword belt sheaths two weapons removes the sword belt wears a better <waist> item, leaving the weapons sheathed, would they be chaeting?
+[ 3054] Khayam: when i go to my guild master guy i cant go back own again :)
+[ 3054] Malaclypse: I think the remort classes/races are available to new characters
+[  406] Bramin: BEO!!!! the remort classes are availible when ANYONE starts!!!!!
+[15716] Sirian: Circle skill won't default to your current enemy like other skills do...
+[20841] Zazen: whats wrong with my detect invis? Zazen it is up to 75%
+[ 3054] Bramin: Uhh... like when I type shadow and I get the message that it works, it says: "your senses are heightened."  umm no, wrong skill so I type aff and I am affected by heighten  heh maybe  you fix?
+[ 3054] Bramin: I have NEVER gotten chameleon to work... p.s. I just thought these might be thing you would want to know
+[18108] Zazen: my cast detect invis seems to be broken
+[ 3700] Sirian: Ummmm....my character was suddenly changed from level 28 thief to level 1 mage!!!
+[ 3757] Hakon: well... yes... this must be a bug. I log on, wanting my 52nd level as a ranger, and then suddenly finds I'm a level 1 mage... a sexless one at that
+[ 3701] Hakon: yes... it is very bugging
+[ 3701] Hakon: I want my character back!
+[ 3054] Zazen: what's wrong with detect invis???
+[  417] Sirian: Ummmm....change MUD school signs to say DO NOT ATTACK BLOB -- HE WILL CHASE YOU AND EAT YOU! :)
+[ 3054] Zazen: I would like to be able to use both detect hidden and detect invis but am unable to get detect invis though I an=m 75% proficient
+[18101] Khayam: not sure how he did it but brasn a 40 + level guy killed the Gaurd don in merlins area...prolly used pet trick...gets one whole levl per kill
+[ 3056] Sirian: 5*neg
+[ 3054] Zazen: How was jerimias able to sac my corpse?
+[ 3054] Drlee: is there no hallowed ground? How does one protect themselves when weak?
+[ 3014] Janol: I cannot challenge mortals.. and it called me a dolt ;)
+[ 3020] Gwaine: I sacrificed armor I picked up and got -900 silver.  I'm now at 4 god and -310 silver.  Is this right?  If so, how do I balance the silver out
+[ 3750] Gwaine: read
+[ 3750] Gwaine: list
+[18177] Brasn: when sleeping in a feathered blanket, players can't pick it up but mobs can
+[ 5911] Iliandro: Do you still have need of me or was the bug solved?
+[ 3054] Isaac: read
+[ 3054] Isaac: sorry....didn't mean to do that
+[14931] Gwaine: The following are stats for a Hoopak I bought.  Armor class is 67108864 pierce, 10 bash, 3 slash, and 268435456 vs. magic.  Of course, I'm too low level to use it.
+[ 3034] Taltos: the jeweller is not paying the right price for the blessed cross you get only 22 gold and not 2200 it seams the jeweller is missing the zereo , taltos protector of oblivion
+[ 3054] Gwaine: show
+[ 3054] Gwaine: When I got killed last night Havanna followed me into the Morgue and stole all my stuff off my corpse even though auto said that my corpse was safe from thieves.  Is this legal?
+[  317] Brasn: in chest there is a rag without a take flag
+[ 3001] Fade: draven
+[ 3054] Tinser: THE HEALER NEEDS TO MPECHOAT INSTEAD OF SAY ITS ANNOYING(on greet_prog)
+[ 3017] Janol: whenever I ooc the fricken mud crashes :(
+[ 3583] Tinser: when you try to cast armor on yourself and are already armored it still takes the mana
+[ 3054] Sirian: The circle skill requires a parameter to work, even when already fighting, unlike bash, dirt kick, etc.  This makes it impossible to use while blinded.
+[ 3054] Chalie: if you are poisoned and have giant strength on, after you heal poison you will only have giant str bonus not eq bonus until you rem and wear all eq
+[ 3054] Chalie: regarding the poison bug i had found, it may just be that equipment i was wearing had been changed and it didnt affect my stats till i was disarmed and rewore the sword
+[13528] Gaelinar: arena crashes the mud
+[ 3334] Gered: The armourer in midgaard has A LOT of gold is he meant to have?
+[ 3027] Padan: doubt if this was intended, but going upstairs in the kender bar/inn is a one-way staircase...you can go up, but you can't go down...in other words, one has to recall to get out of the kender inn.
+[10001] Evol: you cant look sign when you have a SIGNet ring around
+[ 2713] Edris: door in grace wont open
+[ 3199] Norian: driven dagger's alias is 'drivin' not 'driven'
+[  423] Taltos: the east path that gose to crystmire from the new thalos path dose not go back from the rock
+[ 8669] Norian: the master of minds loads bleeding to death
+[ 3020] Edris: i can look at a corpse but cannot drop it - tells me i dont have it
+[10201] Kaitlin: every time you look at or read a sign the message says "A red and black ring glows and hums softly on the ground.
+[ 3054] LightOne: bry
+[ 9795] Zarn: for some reason I can't buy anything from the Dockmaster E of New Thalos. I am level 12, and have 807 gold, so there is no reason why I shouldn't be able to buy "a huge schooner".
+[ 3054] LightOne: an
+[ 3001] LightOne: oops sorry, typo
+[  489] Beowolf: bry
+[16121] Ishantar: On the Street of the Gods (Garth) it says the street continues West and South when it really goes south and north.
+[ 3034] Herple: when I type exam sign, i exam the ring instead of a sign in the room...
+[ 3119] Abyss: at this room, it says to the east are some run down slums, but you can't go east.
+[ 3199] ColdStone: get all corpse
+[ 3734] ColdStone: read sign
+[ 3734] ColdStone: look sign
+[ 3734] ColdStone: examine sign

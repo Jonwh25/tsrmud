@@ -1,0 +1,2728 @@
+#AREADATA
+Name        [15   70] The Sylvain Forest~
+Builders    Terram ~
+VNUMs       2500 2599
+Security    1
+End
+
+
+
+#MOBILES
+#2500
+small spider~
+the small spider~
+A small spider scurries across the forest path carrying a dead rat.
+~
+This little spider is brown and green with bright green eyes.  It is
+staring at you and poison is dripping from its fangs.  Then it turns and
+runs into its web.  
+~
+centipede~
+ACW Z -100 0 
+0 15 0 5d30+161 15d10+100 3d5+7 0
+0 0 0 5
+FNR 0 FIL E
+standing standing none 0
+ABGOP ACDEFJKV S unknown
+#2501
+wolf grey~
+the grey wolf~
+A grey wolf lopes through the shadowy forest.
+~
+The dabbled grey wolf looks up at you and pants almost like a dog.  The
+wolf lowers its head.  After a moment the wolf looks up at you again and you
+see blood dripping from its teeth.  
+~
+wolf~
+ACW Z -10 0 
+0 20 1 6d45+244 20d10+100 4d5+10 0
+-2 -2 -2 4
+FHNR 0 0 0
+standing standing either 0
+AGV ACDEFJKQV M unknown
+#2502
+brown bear~
+the brown bear~
+A brown bear is contently chomping at a berry bush.
+~
+A thick curly coated brown bear is gorging itself for winter.  Eyeing the
+crabapple tree it has knocked over, you think it might be a good idea to
+leave it alone.  
+~
+bear~
+ACW d 10 0 
+0 21 0 7d43+261 21d10+100 4d6+11 0
+-3 -3 -3 3
+DEO 0 EI 0
+standing standing either 0
+AGV ABCDEFHJKUV M unknown
+#2503
+white stag ~
+White Stag~
+The white stag bounds farther into the forest.
+~
+You catch a glimse of white.  Looking closer you see the legendary white
+stag.  It has not been seen in years.  The white stag walks into the forest
+occasionally stopping to snort and look around.  The elusive animal looks
+back at you then bounds into the forest.  
+~
+pig~
+AHTW Q 200 0 
+0 24 0 7d56+315 24d10+100 4d6+12 0
+-5 -5 -5 2
+EGHI ALQR BM 0
+standing standing male 100
+ACGHV ACDEFHJKW L unknown
+#2504
+nymph~
+a Nymph~
+A beautiful long haired blue-green nymph is flirting with you.
+~
+A beautiful lady with blue-green hair swims in graceful patterns.  The
+nymph playfully splashes you then dives under the water.  
+~
+elf~
+AGHW EJPQb 300 0 
+0 17 0 6d33+195 17d10+100 4d4+8 0
+0 0 0 4
+F R B Z
+standing standing female 0
+ACHMV ABCDEFGHIJK M unknown
+#2505
+large spider spid~
+the large spider~
+From the middle of a large web a large spider is chittering at you.
+~
+Six glowing beady eyes are staring at you from one of the largest spiders
+you have ever seen.  As you watch a bit of poison drips from its fangs and
+hits the ground with a sizzle.  
+~
+centipede~
+AGW Z -200 0 
+0 22 0 7d43+261 22d10+100 4d6+11 0
+-3 -3 -3 3
+FHNR L FI E
+resting standing none 0
+ABGOP ACDEFKV M unknown
+#2506
+mini wisp~
+the mini wisp~
+A mini wisp bobs around shedding an eerie radiance.
+~
+A spark of light floats among the shadows.  It changes color from green
+to blue as it flies down to the forest floor.  It suddenly grows and engulfs
+a fallen branch in a blaze of light.  The mini wisp bobs happily up towards
+you.  
+~
+human~
+ACGH IT 50 0 
+0 23 0 7d51+296 23d10+100 4d6+22 0
+-5 -5 -5 1
+0 JO BD M
+standing standing none 0
+ACDHLMV ABCDEFGHIJK S unknown
+#2507
+ettercap etter cap~
+Ettercap~
+An ettercap throws a loop of webbing at you.
+~
+An ettercap is a green humanoid.  It has long fangs that drip poison and
+spinerets.  It chitters at you as it works on webs and traps for the unwary.
+~
+centipede~
+AB JQZ -600 0 
+0 27 1 8d62+373 27d10+100 4d6+13 0
+-6 -6 -6 1
+BEFGR AL FI E
+standing resting none 10
+ABGHMO ABCDEFGHIJKV M unknown
+#2508
+wisp wil ~
+a Wil O' Wisp~
+A wil o' wisp leads unsuspecting people into the depths of the swamp.
+~
+A ball of light that mesmerizes people with its changing colors.  You are
+reminded of ball lightning as the wisp floats among the trees.  You notice
+some of the trees are scorched.  
+~
+human~
+AB HTY 50 0 
+0 28 0 8d66+393 28d10+100 4d7+14 0
+-7 -7 -7 -1
+FHQ ABJLOR DP M
+standing resting none 0
+ACDHLMV ABCDEFGHIJK S unknown
+#2509
+chimera chim~
+a Chimera~
+A three headed, fire-snorting, head butting, roaring, chimera is diving at you!
+~
+The three heads of a chimera stare at you.  The grey goat head chews some
+bones while the lion licks his chops and the dragon head begins to inhale.  
+~
+dragon~
+AB BDJT -500 0 
+0 31 1 9d61+416 30d10+100 4d8+15 0
+-9 -9 -9 0
+ACDEM AH BEHL CDFI
+standing standing none 200
+AHMVZ ABCDEFGHIJKPQUVX L unknown
+#2510
+nixie~
+a Nixie~
+A green haired nixie treads water effortlessly.
+~
+A nixie is a beautiful spirit of the water.  He can be playful at times
+and very kind to those who show him respect.  The water glistens off his
+green skin and his eyes are the blue of the ocean.  
+~
+elf~
+AB EJNPQb 600 0 
+0 25 -1 8d53+334 25d10+100 4d6+12 0
+0 0 0 2
+QR AR B Z
+standing standing none 2000
+ACHMV ABCDEFGHIJK M unknown
+#2511
+pixie~
+a Pixie~
+A pixie is curled up asleep in a flower.
+~
+A small blue-clad pixie blinks sleepily at you.  The pixie stretches and
+begins zooming around cleaning and picking up after the larger creatures.  
+~
+sprite~
+AG BCDFGT 30 0 
+0 35 0 9d92+541 35d10+100 5d7+17 0
+-12 -12 -12 -1
+F L BCFQ DEZ
+sleeping standing either 10
+ACHMV ABCDEFGHIJKP S unknown
+#2512
+faerie winged~
+a Winged Faerie~
+A small winged faerie darts from flower to flower.
+~
+The faerie titters and does a loop de loop in the air.  She could easily
+be mistaken for a dragonfly from her size and iridescent wings.  
+~
+sprite~
+ABS BCGQTY -50 0 
+0 39 -1 9d114+637 39d10+100 5d8+19 0
+-14 -14 -14 -3
+FGHJ FLQ BCQ DLZ
+standing standing none 0
+ACHMV ABCDEFGHIJKP S unknown
+#2513
+elven guard elf~
+an Elven Guard~
+A guard of the elven lands leans against a tree and yawns.
+~
+The guard's green and brown outfit tends to blend with the land.  His
+clear green eyes appraise you.  You notice his hands resting on the hilts of
+two swords.  
+~
+elf~
+AGWd EJPQ 600 0 
+0 45 1 10d137+891 45d10+100 5d9+23 0
+-18 -18 -18 -4
+CEFLNRT A B Z
+standing standing either 400
+AHMV ABCDEFGHIJK M unknown
+#2514
+satyr~
+a Satyr~
+A satyr sits here playing beautiful music on his pipe.
+~
+The satyr dances and plays (and flirts) with every creature he
+encounters.  His brown hairy legs skip gracefully along with his well tanned
+body.  Two cute horns stick out from the top of his head.  
+~
+sprite~
+AW BCGJPT -5 0 
+0 41 -1 10d114+687 42d10+100 5d8+20 0
+-15 -15 -15 -2
+CFIR BLT BCLQ DZ
+standing standing male 10
+ACHMV ABCDEFGHIJKW S unknown
+#2515
+centaur~
+a Centaur~
+A centaur lovingly carves an ashwood bow.
+~
+A sunbrowned face smiles down at you.  The brown horse tail flicks an
+insect off its back.  The horse legs spread slightly as the centaur takes
+aim with the bow.  You hardly see him draw but soon 10 arrows stick in the
+center of a small target 100 feet distant.  
+~
+sprite~
+ATW BCFGTV 0 0 
+0 46 5 10d137+891 44d10+100 5d9+22 0
+-19 -19 -19 -3
+CEFIJLRT LP BCEQ DZ
+standing standing either 50
+AHMNV ABCDEFGHIJKQ L unknown
+#2516
+unicorn~
+the Unicorn~
+The mythical unicorn watches you nervously.
+~
+The snow white unicorn shakes his silken mane and walks slowly among the
+trees with quiet majesty.  The unicorn turns and measures your virtue.  
+~
+sprite~
+ABGHa BCGHQT 1000 0 
+0 67 0 11d186+1070 67d10+100 5d11+27 0
+-24 -24 -24 -7
+EFGHIQR ACLPQ BEFMQ DIZ
+standing standing male 0
+ACHMV ABCDEFGHIJKW L unknown
+#2517
+green dryad~
+the Green Dryad~
+A green dryad peeks out from behind her tree.
+~
+The tree spirit slips into and out of her tree.  She is a lovely spring
+green.  Her voice is the breeze through the leaves.  And her hands as light
+as falling leaves.  
+~
+sprite~
+AHSY BCGQTZ -50 0 
+0 44 0 10d125+738 44d10+100 5d9+21 0
+-16 -16 -16 -3
+FGNR ILPR BCEJQ DGH
+standing standing female 0
+ACDHLMV ABCDEFGHIJK M unknown
+#2518
+dryad brown~
+the Brown Dryad~
+A brown dryad is trying to wake the other trees.
+~
+Out of the black oaks steps a large brown dryad.  He frowns as he goes up
+to another tree and whispers something to the tree.  His voice is the
+rattling of branches in a winter storm.  
+~
+sprite~
+ABF BCGKQTZd -300 0 
+0 50 -2 10d137+891 55d10+100 5d9+22 0
+-21 -21 -18 -4
+CEFGKR CILPR BELQ DGH
+standing resting male 0
+ACDHLMV ABCDEFGHIJK L unknown
+#2519
+trent giant~
+The Trent~
+A giant trent towers in the mist oblivious of your presence.
+~
+The bark of the trent is cracked and thick.  The trent's hand branches
+could pick up horses.  You cannot see the whole thing because of the
+concealing mist.  
+~
+sprite~
+AB BCDFGTZcd 0 0 
+0 65 0 11d186+1070 55d10+100 5d10+25 0
+-21 -21 -21 -7
+ACEKNORT ABDIJLQR BCMOPQ DGHZ
+standing resting none 0
+ACEHMV ABCDEFGHIJK G unknown
+#2520
+needle guardian pile~
+the Needle Guardian~
+The pile of needles are lying in wait for anyone trying the gate.
+~
+A pile of needles shifts in the breeze.  A rat walks up and scratches at
+the gate.  The pile surges up wards engulfs the rat then settles down with
+out a sign of the rat.  
+~
+elf~
+AB BEJPQWc 500 0 
+0 60 0 11d221+1225 60d10+100 5d12+30 0
+-27 -27 -27 -9
+EGORTV D B 0 ABCMP BFGIKQR HZ
+standing resting none 1
+AHJMSV ABCDEFGHIJKN H unknown
+#2521
+slyph fog~
+the Fog Slyph~
+The fog takes the form of a seductive slyph.
+~
+The mists swirls and billows.  Yet you feel no wind.  Out of the fog
+forms a slyph.  A faerie of beauty and air.  Her etheral hands becans you
+forward.  
+~
+elf~
+AB BEJPQST 0 0 
+0 32 0 9d77+453 32d10+100 5d6+16 0
+-10 -10 -10 0
+AFGNPQR ABLQ BCDP HNZ
+standing standing female 0
+AHKMV ABCDEFGHIJK L unknown
+#2522
+griffon grif~
+a Griffon~
+A tawny griffon flexes his wings with his claws sunk into the ground.
+~
+A tawny griffon is outfitted for riding.  Its long golden wings extend
+through a harness.  A saddle rest across its lion back.  You are not sure
+how much control the rider has over this mighty creature.  
+~
+elf~
+ABCI EJPQTa 800 0 
+0 65 1 10d169+920 50d10+100 5d10+25 0
+-21 -21 -21 -5
+DFHORT I BFJP Z
+standing standing none 0
+AHMNVW ABCDEFGHIJKPU L unknown
+#2523
+rider elven elf~
+a Griffon Rider~
+A elven rider stares at you coldly.
+~
+An Elite Elven Griffon Rider sits atop his fierce mount.  The elf's eyes
+are as blue as the sky and just as deep.  He continues adjusting his straps
+while watching you from the corner of his eye.  
+~
+elf~
+ABT EFJPQT 750 0 
+0 65 3 10d169+920 50d10+100 5d10+25 0
+-21 -21 -21 -5
+CEFHKLRT AI BCJP Z
+standing standing either 300
+AHMV ABCDEFGHIJK M unknown
+#2543
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#2567
+slyph fog~
+Fog Slyph~
+The fog takes the form of a seductive slyph.
+~
+The mists swirls and billows.  Yet you feel no wind.  Out of the fog
+forms a slyph.  A faerie of beauty and air.  Her etheral hands becans you
+forward.  
+~
+sprite~
+ABG BCGST 0 0 
+0 32 0 9d77+453 32d10+100 5d6+16 0
+-10 -10 -10 0
+AFGNR ABLQ BCDPQ DHNZ
+standing standing female 0
+AHKMV ABCDEFGHIJK L unknown
+#2568
+giant trent~
+Big Trent~
+A giant trent towers in the mist oblivious of you presence.
+~
+The bark of the trent is cracked and thick.  The trent's hand branches
+could pick up horses.  You can even see the whole thing cause of the mist.  
+~
+sprite~
+AB BCDFGTZcd 0 0 
+0 65 0 11d186+1070 55d10+100 5d10+25 0
+-21 -21 -21 -7
+ACEKNORT ABDIJLQR BCMOPQ DGHZ
+standing resting none 0
+ACEHMV ABCDEFGHIJK G unknown
+#2569
+dryad brown~
+the Brown Dryad~
+A brown dryad is trying to wake the other trees.
+~
+Out of the black oaks steps a large brown dryad.  He frowns as he goes up
+to another tree and whispers something to the tree.  His voice is the
+rattling of branches in a winter storm.  
+~
+sprite~
+ABF BCGKQTZd -500 0 
+0 50 -2 10d137+891 45d10+100 5d9+22 0
+-21 -21 -18 -4
+CEFGKR CILPR BEQ DGH
+standing resting male 0
+ACDHLMV ABCDEFGHIJK L unknown
+#2570
+needle guardian pile~
+Needle Guardian~
+The pile of needles are lying in wait for anyone trying the gate.
+~
+A pile of needles shifts in the breese.  A rat walks up and scratches at
+the gate.  The pile surges up wards engulfs the rat then settles down with
+out a sign of the rat.  
+~
+human~
+AB BJQWc 500 0 
+0 60 0 11d221+1225 60d10+100 5d12+30 0
+-27 -27 -27 -9
+EGO ABCMP FGIKQR H
+sitting resting none 1
+AHJMSV ABCDEFGHIJKN H unknown
+#2571
+deer white stag ~
+White Stag~
+The white stag bounds farther into the forest.
+~
+You catch a glimse of white.  Looking closer you see the legendary white
+stag.  It has not been seen in year.  The white stag walks into the forest
+occasionally stopping to snort and look around.  The elusive animal looks
+back at you then bounds into the forest.  
+~
+pig~
+AHTW Q 10 0 
+0 24 0 7d56+315 24d10+100 4d6+12 0
+-5 -5 -5 2
+EGHI AQR BM 0
+standing standing male 100
+ACGV ACDEFHJKQW L unknown
+#2572
+small spider~
+Tiny Spider~
+A small spider scurries across the forest path carrying a dead rat.
+~
+This little spider is brown and green with bright green eyes.  It is
+staring at you and poison is dripping from its fangs.  Then it turns and
+runs into its web.  
+~
+human~
+ACW 0 -100 0 
+0 15 0 5d30+161 15d10+100 3d5+7 0
+0 0 0 5
+F 0 L E
+standing standing either 0
+ABHMPV ABCDEFGHIJK S unknown
+#2573
+brown bear~
+brown bear~
+A brown bear is contently chomping at a berry bush.
+~
+A thick curly coated brown bear is gorging itself for winter.  Eyeing the
+crabapple tree it has knocked over, you think it might be a good idea to
+leave it alone.  
+~
+bear~
+ACW d 10 0 
+0 21 0 7d43+261 21d10+100 4d6+11 0
+-3 -3 -3 3
+DEO 0 EI 0
+standing standing none 0
+AGV ABCDEFHJKUV M unknown
+#2574
+wolf grey~
+Grey Wolf~
+A grey wolf lopes through the shadowy forest.
+~
+The dabbled grey wolf looks up at you and pants almost like a dog.  The
+wolf lowers its head.  After a moment the wolf looks up at you again and you
+see blood dripping from its teeth.  
+~
+wolf~
+ACW Z -10 0 
+0 20 1 6d45+244 20d10+100 4d5+10 0
+-2 -2 -2 4
+FHNR 0 0 0
+standing standing either 0
+AGV ACDEFJKQV M unknown
+#2575
+large spider spid~
+Large Spider~
+From the middle of a large web a large spider is chittering at you.
+~
+Six glowing beady eyes are staring at you from one of the largest spiders
+you have ever seen.  As you watch a bit of poison drips from its fangs, hits
+the ground with a sizzle.  
+~
+human~
+AGW 0 -200 0 
+0 22 0 7d43+261 22d10+100 4d6+11 0
+-3 -3 -3 3
+FHNU L 0 0
+resting standing none 0
+ABGHMPV ABCDEFGHIJKV M unknown
+#2576
+spark mini wisp~
+Mini Wisp~
+A mini wisp bobs around shedding an eerie radiance.
+~
+A spark of light floats among the shadows.  It changes color from green
+to blue as it flies down to the forest floor.  It suddenly grows and engulfs
+a fallen branch in a blaze of light.  The mini wisp bobs happily up towards
+you.  
+~
+human~
+ACGHW I 50 0 
+0 23 0 7d51+296 23d10+100 4d6+11 0
+-5 -5 -5 1
+F JO BD M
+standing standing none 0
+ACDHLMV ABCDEFGHIJK S unknown
+#2577
+nymph~
+Nymph~
+A beautiful long haired blue-green nymph is flirting with you.
+~
+A beautiful lady with blue-green hair swims in graceful patterns.  The
+nymph playfully splashes you then dives under the water.  
+~
+elf~
+AGHW EJPQb 300 0 
+0 17 0 6d33+195 17d10+100 4d4+8 0
+0 0 0 4
+F R B Z
+standing standing female 0
+ACHMV ABCDEFGHIJK M unknown
+#2578
+nixie~
+Nixie~
+A green haired nixie treads water effortlessly.
+~
+A nixie is a beautiful spirit of the water.  He can be playful at times
+and very kind to those who show him respect.  The water glistens off his
+green skin and his eyes are the blue of the ocean.  
+~
+elf~
+AB EJNPQb 600 0 
+0 25 -1 8d53+334 25d10+100 4d6+12 0
+0 0 0 2
+CFQR AR B Z
+standing standing none 100
+AHMV ABCDEFGHIJK M unknown
+#2579
+ettercap etter cap ~
+Ettercap~
+An Ettercap throws a loop of webbing at you.
+~
+An ettercap is a green humanoid.  It has long fangs that drip poison and
+spinerets.  It chitters at you as it works on webs and traps for the unwary.
+~
+human~
+AB JQZ -600 0 
+0 27 1 8d62+373 27d10+100 4d6+13 0
+-6 -6 -6 1
+BEFGH AL 0 0
+resting standing none 10
+AHMPV ABCDEFGHIJKV M unknown
+#2580
+wilo' wisp wil willo~
+Wil O' Wisp~
+A Wil O' Wisp leads unsuspecting people into the depths of the swamp.
+~
+A ball of light that mesmerizes people with its changing colors.  You are
+reminded of ball lightning as the wisp floats among the trees.  You notice
+some of the trees are scorched.  
+~
+human~
+AB HTWY 100 0 
+0 28 0 8d66+393 28d10+100 4d7+14 0
+-7 -7 -7 -1
+FG ABJOR DP M
+resting standing none 0
+ACHLMV ABCDEFGHIJK S unknown
+#2581
+chimera goat lion dragon~
+Chimera~
+A three headed, fire-snorting, head butting, roaring, chimera is diving at you!
+~
+The three heads of a chimera stare at you.  The goat head chews some
+bones while the lion licks his chops and the dragon head begins to inhale.  
+~
+dragon~
+AB BDJT -500 0 
+0 30 1 9d61+416 30d10+100 4d8+15 0
+-9 -9 -9 0
+ACDEM AH BEHL CDFI
+standing standing none 200
+AHMVZ ABCDEFGHIJKPQUVX L unknown
+#2582
+elf elven guard~
+Elven Guard~
+A guard of the elven lands leans against a tree and yawns.
+~
+The guard's green and brown outfit tends to blend with the land.  His
+clear green eyes appraise you.  You notice his hands resting on the hilts of
+two swords.  
+~
+elf~
+AGWd EJPQ 600 0 
+0 45 1 10d137+891 45d10+100 5d9+23 0
+-18 -18 -18 -4
+CEFLNRT A B Z
+standing standing either 200
+AHMV ABCDEFGHIJK M unknown
+#2584
+pixie~
+the Pixie~
+A pixie is curled up asleep in a flower.
+~
+A small blue-clad pixie blinks sleepily at you.  The pixie stretches and
+begins zooming around cleaning and picking up after the larger creatures.  
+~
+sprite~
+AG BCDFGT 10 0 
+0 35 0 9d92+541 35d10+10 5d7+17 0
+-12 -12 -12 -1
+F L BCFQ DEZ
+sleeping standing either 20
+AHMV ABCDEFGHIJKP S unknown
+#2585
+winged faerie sprite~
+Winged Faerie~
+A small winged faerie darts from flower to flower.
+~
+The faerie titters and does a loop de loop in the air.  She could easily
+be mistaken for a dragonfly from her size and iridescent wings.  
+~
+sprite~
+ABS BCGQTY -50 0 
+0 39 -1 9d114+637 39d10+100 5d8+19 0
+-14 -14 -14 -3
+FGHJRT FL BCQ DLZ
+standing standing none 0
+AHMV ABCDEFGHIJKP S unknown
+#2586
+satyr~
+Satyr~
+A satyr sits here playing beautiful music on his pipe.
+~
+The satyr dances and plays (and flirts) with every creature he
+encounters.  His brown hairy legs skip gracefully along with his well tanned
+body.  Two cute horns stick out from the top of his head.  
+~
+sprite~
+AW BCGJPT -5 0 
+0 41 -1 10d114+687 42d10+100 5d8+20 0
+-15 -15 -15 -2
+CFIR BLT BCLQ DZ
+standing sitting male 10
+AHMV ABCDEFGHIJKW S unknown
+#2587
+centaur horse~
+Centaur~
+A centaur lovingly carves an ashwood bow.
+~
+A sunbrowned face smiles down at you.  The brown horse tail flicks an
+insect off its back.  The horse legs spread slightly as the centaur takes
+aim with the bow.  You hardly see him draw but soon 10 arrows stick in the
+center of a small target 100 feet distant.  
+~
+sprite~
+ATW BCFGT 0 0 
+0 45 4 10d137+891 45d10+100 5d9+22 0
+-19 -19 -19 -3
+CEFIJLRT LP BCEQ DZ
+standing standing either 20
+AHMNV ABCDEFGHIJK L unknown
+#2588
+unicorn~
+Unicorn~
+The mythical unicorn watches you nervously.
+~
+The snow white unicorn shakes his silken mane and walks slowly among the
+trees with quiet majesty.  The unicorn turns and measures your virtue.  
+~
+sprite~
+ABGHa BCGHQT 1000 0 
+0 67 0 11d186+1070 55d10+100 5d11+27 0
+-24 -24 -24 -7
+EFGHIQR ACLMPQ BEFQ DIZ
+resting standing male 10
+AGHMV ABCDEFGHIJKW L unknown
+#2589
+dryad green~
+the Green Dryad~
+A green dryad merges into her tree.
+~
+The tree spirit slips into and out of her tree.  She is a lovely spring
+green.  Her voice is the breeze through the leaves.  
+~
+sprite~
+AHSY BCGQTZ -50 0 
+0 43 0 10d125+738 43d10+100 5d9+21 0
+-16 -16 -16 -3
+FGNR ILPR BCEQS DGH
+standing resting female 0
+ACDHLMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#2500
+green felt~
+green felt~
+A piece of forest green felt is tied at two ends of a branch.~
+unknown~
+key B A
+0 0 0 0 0
+157 5 1000 P
+#2501
+log raft~
+a log raft~
+A log raft looks very clumsy and not too sturdy.~
+unknown~
+boat 0 A
+0 0 0 0 0
+15 100 0 W
+#2502
+bench living~
+a branch bench~
+A bench made of living branches rests against the wall.  It looks very comfortable.~
+unknown~
+furniture 0 0
+100 1000 9362 50 200
+30 1000 1000 P
+#2503
+ball light faerie~
+pulsing light~
+A pulsing ball of light shifts color as it pushes back the mist.~
+unknown~
+key A A
+0 0 0 0 0
+35 1 500 W
+#2504
+world mace green brown~
+a green and brown mace.~
+A brown mace with patterns of green that looks like the world melds with the ground.~
+unknown~
+weapon I AN
+mace 6 25 crush E
+152 10 1 P
+A
+5 -5
+A
+12 50
+#2505
+band guard~
+guard band~
+A band of green and brown is the symbol of the Sylvain Guardians.~
+unknown~
+armor GH AM
+40 -5 80 20 0
+60 10 2000 P
+#2506
+elven blade~
+elven Blade~
+A thin blade of elven make rests in its finely carved sheath.~
+unknown~
+weapon KS AN
+sword 5 10 slice D
+45 20 1000 P
+A
+5 -1
+A
+2 1
+A
+18 5
+#2507
+pipes pan~
+pan pipes~
+A pan pipe made of reeds is laying in the grass.~
+unknown~
+wand 0 AO
+50 8 6 'calm' 0
+42 1 250 P
+#2508
+horn unicorn~
+unicorn Horn~
+A unicorn's horn has been removed from its head, how vile!!!~
+unknown~
+wand AG AO
+55 20 20 'cure poison' 0
+55 5 100 P
+#2509
+bow centaur~
+centaur's bow~
+A lovingly crafted bow of ashwood rests in its case.~
+unknown~
+weapon JK AN
+exotic 5 10 sting 0
+45 20 1000 P
+A
+12 -40
+A
+18 4
+#2510
+branch key~
+crooked branch~
+Looking closer you notice ancient markings on the branch.  If you use your imagination it might even be a key.~
+unknown~
+key 0 A
+0 0 0 0 0
+55 5 300 P
+E
+markings~
+They look magical and very old.
+~
+#2511
+potion sight golden gold~
+golden potion~
+A golden potion that enhaces your vision is here.~
+unknown~
+potion 0 A
+50 'detect invis' 'detect hidden' 'cure blindness' ''
+30 1 3500 P
+#2512
+blue sky potion~
+a sky blue potion~
+A small bottle is filled with a blue liquid with swirls of white.~
+unknown~
+potion 0 A
+45 'fly' 'farsight' 'faerie fog' ''
+30 1 2500 P
+#2513
+elven gloves green~
+a pair of green gloves~
+A fine pair of elven gloves has intricate workmanship.~
+unknown~
+armor JKS AH
+40 35 20 50 0
+25 1 10000 P
+A
+5 1
+A
+2 1
+A
+1 -1
+#2590
+green felt~
+green felt.~
+A large piece of forest green felt is draped right here.~
+unknown~
+portal B AO
+0 0 0 0 0
+100 5 1000 P
+#2591
+Log Raft~
+a log raft.~
+A log Raft looks very clumsy and not too sturdy.~
+unknown~
+boat 0 AO
+0 0 0 0 0
+30 100 0 W
+#2592
+Living Bench~
+a brown bench.~
+A bench made of living branches rests against the wall.  It looks very comfortable.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+1 1000 1000 P
+#2593
+ball light faerie~
+pulsing light~
+A pulsing ball of light shifts color as it pushes back the mist.~
+unknown~
+key A O
+0 0 0 0 0
+35 1 500 W
+#2594
+world mace green brown~
+a green and brown mace.~
+A brown mace with patterns of green that look like the world rest here.~
+unknown~
+weapon I AN
+mace 6 25 crush 0
+152 10 1 P
+#2595
+band guard ~
+guard Band~
+A band of green and brown is the symbol of the realm's guardians.~
+unknown~
+armor GH AM
+40 -5 80 20 0
+60 10 2000 P
+#2596
+elven blade~
+elven Blade~
+A thin blade of elven make rests in its finely carved sheath.~
+unknown~
+weapon K AN
+sword 5 10 slice D
+45 20 1000 P
+#2597
+pipes pan~
+pan pipes~
+A pan pipe made of reeds is laying in the grass.~
+unknown~
+wand 0 AO
+50 4 4 'calm' 0
+41 1 250 P
+#2598
+horn unicorn~
+unicorn Horn~
+A unicorn's horn has been removed form its head, how vile!!~
+unknown~
+wand AG AO
+55 20 20 'cure poison' 0
+55 5 100 P
+#2599
+centaur bow~
+centaur's bow~
+A lovingly crafted bow of ashwood rests in its case.~
+unknown~
+weapon JK AN
+exotic 5 10 sting 0
+45 20 1000 P
+#0
+
+
+
+#ROOMS
+#2500
+The Sunlit Forest~
+You travel along at an easy pace.  Many game trails and little
+undergrowth make for pleasant travelling.  The sky that you glimse through
+the trees is remarkably blue and the sunlight shining through the leaves
+shades everything with soft green.  However to your north the shadows look
+darker and the paths are few.  
+~
+0 0 3
+D0
+~
+~
+0 0 2501
+M100 H100
+S
+#2501
+Southern Forest~
+There are no real paths here and it would be easy to get lost if you are
+not careful.  At least the underbrush is not very thick.  It is nice and
+warm under the tree and everything has a healthy green glow.  In the trees
+the chirping birds make a nice relaxing melody.  
+~
+0 0 3
+D0
+~
+~
+0 0 2566
+D1
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 2503
+M100 H100
+S
+#2502
+Southern Forest~
+As you wander among the trees you wonder if you have been this way
+before.  Everything looks so similar.  Shafts of sunlight shine down
+through the foliage high above you.  You notice that you haven't heard a
+bird call for the last couple of minutes.  
+~
+0 0 3
+D0
+~
+~
+0 0 2514
+D1
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2501
+M100 H100
+S
+#2503
+Southern Forest~
+The underbrush is thick and tall making it very hard to travel in a
+straight line.  A path through the underbrush leads to the south where it
+seems more open.  The air is hot and humid, causing you to perspire. 
+Looking up you notice that there are many openings in the foliage, allowing
+the underbrush to grow tall.  
+~
+0 0 3
+D0
+~
+~
+0 0 2504
+D1
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 2565
+D3
+~
+~
+0 0 2502
+M100 H100
+S
+#2504
+Southern Forest~
+You have to hack your way through the underbrush to get this far.  You
+catch a glimpse of something large flying high above you.  If you had a
+couple more seconds you are sure you could have identified it.  It looks
+like it is getting damper to the east.  A cool breeze springs up and chills
+you.  
+~
+0 0 3
+D0
+~
+~
+0 0 2562
+D1
+~
+~
+0 0 2507
+D2
+~
+~
+0 0 2503
+D3
+To the west you notice that the underbrush is less and looking closer you note scorch marks on the ground.
+~
+~
+0 0 2517
+M100 H100
+S
+#2505
+The Eastern Forest~
+The day is mild and the shadows of the trees are comforting.  The
+sunlight streams down between the green leaves far above.  The path is clear
+and easy, the birds chirp happily, and squirrels chitter at you from among
+the branches.  A breeze is blowing from the west.  It carries the faint
+dampness and decay of a swamp.  
+~
+0 0 3
+D3
+~
+~
+0 0 2506
+M100 H100
+S
+#2506
+Eastern Forest~
+The light reflects off the bark of the paper birth trees and all but
+blinds you.  Squinting your eyes allows you to see a little better.  The
+healthyness of the trees amazes you.  You haven't seen a sick tree or
+stunted tree yet.  From the west comes a gentle breeze and you can imagine
+hands trying to push you away.  
+~
+0 0 3
+D0
+~
+~
+0 0 2507
+D1
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2565
+M100 H100
+S
+#2507
+The Eastern Forest~
+Your eyes have begun to adjust to the light all around you.  Even the
+leaves seem to be of silver and reflect the light all around.  The breeze is
+from the west and gently coaxes you to move east.  The way west is full of
+underbrush and looks to be hard going while the path east looks open and
+inviting.  
+~
+0 0 3
+D0
+~
+~
+0 0 2508
+D1
+~
+~
+0 0 2563
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2504
+M100 H100
+S
+#2508
+The Eastern Forest~
+A flash of color catches your attention.  You eyes focus with difficulty
+upon a bluejay.  The brightness of the reflected light has dulled the edges
+of all you see.  The Red and green of the tamarack.  The patch of blue sky. 
+The forest is sloping gently downwards towards the west.  
+~
+0 0 3
+D0
+~
+~
+0 0 2506
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2507
+D3
+~
+~
+0 0 2509
+M100 H100
+S
+#2509
+The Eastern Forest~
+The light does not seem so bright anymore.  There are still flashes of
+light as the trees sway in the breeze.  Tamaracks are much more common now
+and the ground has become a little boggy.  You shiver a little as a bit of
+mist swirls about your feet.  The caw of a crow seems to echo mournfully
+among the trees.  To the west you hear the gentle murmur of the river.  
+~
+0 8 3
+D0
+~
+~
+0 0 2563
+D1
+~
+~
+0 0 2508
+D2
+~
+~
+0 0 2519
+D3
+Two leaning tamarachs form an arch through which you see the river. 
+~
+brush~
+1 0 2523
+M100 H100
+S
+#2510
+Western Forest~
+The path is nice and open.  The breeze blows slighly cooling you off. 
+The trees provide shade.  You wish all of your journeys could be this easy
+and pleasant.  You get a strange feeling from the east.  It feels like the
+forest is trying to hide itself or at least distract you with the beauty of
+this path.  
+~
+0 0 3
+D1
+~
+~
+0 0 2511
+M100 H100
+S
+#2511
+Western Forest~
+You struggle along the narrow rabbit run.  As you go you realize it has
+grown as dark as night.  The foliage overhead is solid.  You hope it is the
+foliage and not something more sinister.  Looking back you are relieved to
+see sunlight shining down.  The sunlight looks very pleasant.  The small
+path you are following crosses a wider trail going north and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 2513
+D1
+~
+~
+0 0 2565
+D2
+~
+~
+0 0 2512
+D3
+~
+~
+0 0 2510
+M100 H100
+S
+#2512
+Western Forest~
+You stumble around through the thick brush and clinging branches.  The
+path seems to have disappeared.  You are not sure where you are going.  To
+the west shines a bit of light.  It also looks brighter to the south, but
+you smell the decay of a swamp.  A bit of mist floats in giving you a
+momentary chill.  
+~
+0 1 3
+D0
+~
+~
+0 0 2511
+D1
+~
+~
+0 0 2564
+D2
+~
+~
+0 0 2513
+D3
+~
+~
+0 0 2508
+M100 H100
+S
+#2513
+Western Forest~
+The path fades away to nothing.  You are left standing in the dark.  The
+darkness seems heavy and oppressive.  As you walk a bit a cobweb brushes
+your face.  The air is chilled and filled with a sense of foreboding.  The
+sunlight to the west seems to draw you.  At least it is dry under the heavy
+foliage.  
+~
+0 9 3
+D0
+~
+~
+0 0 2512
+D1
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2511
+D3
+~
+~
+0 0 2562
+M100 H100
+S
+#2514
+Western Forest~
+The smell of pine surrounds you.  The forest seems to have changed from
+hardwood to pine.  As you push through the prickly branches getting sap all
+over your hands, you feel gosamer webs brush your face.  Glancing around you
+notice some light to the south and what apprears to be a path leading west. 
+~
+0 1 3
+D0
+~
+~
+0 0 2515
+D1
+~
+~
+0 0 2566
+D2
+~
+~
+0 0 2502
+D3
+~
+~
+0 0 2513
+M100 H100
+S
+#2515
+The Misty Forest~
+More and more pines crowd closely together making it hard to push
+forward.  Mist curls sinisterly along the ground.  The mist chills you and
+leaves you feeling cold and clamy.  You stumble a bit.  Lookin down you see
+a skull covered in webs.  Maybe it would be a good idea to turn back now.  
+~
+0 1 3
+D0
+~
+~
+0 0 2564
+D1
+~
+~
+0 0 2516
+D2
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2563
+M100 H100
+S
+#2516
+Ettercap Lair~
+You slip between the trees into the deeping mist.  The forest is still
+and quiet.  A breeze picks up tearing up some of the fog.  You see webs all
+around woven in intricate patterns.  On the ground strangled by loop of silk
+you see the upper half of the body of an orc.  Suddenly you trip over a silk
+strand that was not there a moment ago.  
+~
+0 1 3
+D1
+To the east is an unbroken wall of mist.  Occasionaly you see learing faces in the mist.
+~
+mist~
+3 2503 2525
+D3
+~
+~
+0 0 2515
+M100 H100
+S
+#2517
+Misty Forest~
+Creepers of mist waft around the trees.  The mist touches your leaving
+you feeling chilled and damp.  You notice that the ground is much more open,
+making walking easier.  You notice that there are many patches of short
+grass.  A few bones are scattered amongst the patches of grass.  Maybe it
+would be a good idea to turn back.  
+~
+0 0 3
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2563
+D3
+~
+~
+0 0 2566
+M100 H100
+S
+#2518
+Chimera's Lair~
+The reek strikes your nostrils.  You see half eaten burned corpses all
+around.  Most of the tall trees have burn marks.  It is a wonder that some
+of them still live.  The mist and corpses make for unstable footing but at
+least there is no underbrush.  Suddenly you notice movement in the tree
+tops.  
+~
+0 8 3
+D0
+The smoke mixes with the fog to make a sickening barrier.  
+~
+mist~
+3 2503 2525
+D2
+~
+~
+0 0 2517
+M100 H100
+S
+#2519
+The Misty Forest~
+The mist swirls around your feet as you hop from one bit of stable ground
+to another.  Each step seems ready to give way beneath you.  You are not
+sure which is worse, slipping into the shallow water or the mist that chills
+you and seems to get everything damp.  Flashes of light reflect off the
+leaves of the birch trees and serve to confuse you even more.  
+~
+0 0 3
+D0
+~
+~
+0 0 2509
+D1
+~
+~
+0 0 2562
+D2
+~
+~
+0 0 2564
+D3
+~
+~
+0 0 2520
+M100 H100
+S
+#2520
+Wil 'O Wisps' Lair~
+The white mist rolls and tears in the gentle breeze.  Shafts of sunlight
+shine down to be reflected off the leaves.  As the mist parts you notice
+large pits half filled with scummy water.  The scent of stagnant water and
+decay encompases you.  Wait a second the bit of light was over there a
+second ago!  
+~
+0 0 3
+D1
+~
+~
+0 0 2519
+D3
+A very thick mist rises from the swamp to completely block your sight. 
+You will easily get lost without something to help you.  
+~
+mist~
+3 2503 2525
+M100 H100
+S
+#2521
+The River~
+A nice peaceful day to be on the river.  The forest stands silent sentry
+along the banks of the river.  Frogs peep from among the lily pads.  A trout
+jumps off to your left.  The water gets a little rough as it parts around an
+island.  The south part looks rough but the other path look smooth and calm.
+~
+0 0 6
+D2
+~
+~
+0 0 2522
+M100 H100
+S
+#2522
+The River Rapids~
+The river quickly turns into raging rapids.  You are spun and dashed
+against the rocks.  Water flies every where and soon you are soaked.  You
+hit another rapid and spin around and around.  A wall of water crashes over
+you.  When you look around you can not see the rapids and the water is
+perfectly smooth.  
+~
+0 0 7
+D0
+~
+~
+0 0 2521
+D2
+Very faintly you hear rapids in the direction you thought was south.
+~
+~
+0 0 2523
+M100 H100
+S
+#2523
+Calm River~
+The river flows smooth as glass, hardly moving at all.  Green rushes line
+the banks of the river.  Insects softly hum in the air and fill you with
+sleepyness.  A small blue bird flies overhead, swooping and diving.  Off to
+the east the reeds seem to be missing, but the underbrush looks very thick. 
+~
+0 0 6
+D0
+~
+~
+0 0 2522
+D1
+Two tamarack twine together to form an archway.  The underbrush faintly
+resembles two doors.  
+~
+brush~
+1 0 2509
+D2
+~
+~
+0 0 2524
+M100 H100
+S
+#2524
+Nixie's Lair~
+Mist swirls down from the forest to engulf the river.  You hear a
+haunting melody coming from the mist.  The river has a mirror surface even
+when you disturb the water.  The cold, damp mist encircles you and seems to
+be drawing you deeper into the mist.  You see something large swimming under
+the surface of the water.  
+~
+0 0 6
+D0
+~
+~
+0 0 2523
+D2
+The water mixes with the mist to form a barrier that you would easily get
+lost in without a light.  
+~
+mist~
+3 2503 2525
+M100 H100
+S
+#2525
+Bank of Mist~
+Water droplets condense on your skin and clothes leaving you damp and
+chilled.  You are wandering around blind in a bank of mist.  Occasionally
+you run into a tree.  A flash of light above shades from red to yellow to
+red again.  You hope that was NOT the sun.  You have heard tales of people
+trapped for ages in the faerie forest and not returned till everyone they
+knew had grown old.  
+ 
+~
+0 8 3
+D0
+~
+~
+3 0 2524
+D1
+~
+~
+3 0 2520
+D2
+~
+~
+3 0 2518
+D3
+~
+~
+3 0 2516
+D4
+~
+~
+1 2503 2561
+D5
+~
+~
+1 0 2527
+M100 H100
+S
+#2526
+Elven Guard~
+Large stately trees define an avenue heading to the west.  The trees arch
+far above your head.  The trees are like none you have ever seen.  They are
+a silverish white with large gold leaves.  You notice a path slipping
+between the trees to the south.  A bit of stately music comes from the west.
+~
+0 0 3
+E
+carve~
+Carved into a tree is:
+"Dinrauko, Khisanth, and Ethan"
+"WUZ HERE"
+~
+E
+tree~
+You notice something carved on a tree near you.  It says: 
+"Ethan, Dinrauko, and Khisanth"
+"Wuz here"
+~
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2528
+M100 H100
+S
+#2527
+The Meeting Place~
+As the fog lifts you find your self in a great hall...  No actually the
+hall is woven from living trees!  Benches line the walls and a few people
+wander about talking to each other.  Sunlight finds its way between the
+branches to paint intricate mosaics on the floor.  Sprites fly among the
+branch-rafters.  There is a small sign hanging from a branch near the west
+exit.  
+~
+0 1024 3
+E
+sign~
+"Welcome to the Sylvan Forest"
+"This area for levels 35-70"
+"Others may wander this area,
+but beware the bleak forest."
+~
+D3
+~
+~
+0 0 2526
+D4
+~
+~
+1 0 2525
+M100 H100
+S
+#2528
+Elven Gate~
+A gate is carved into a large redwood tree.  The trunk is lost in the
+canopy of the other trees.  The gate is large and solid.  It looks like it
+has not been opened in years.  Many dead orange needles surround the base of
+the trunk.  The needles look completely undisturbed, except by occasional
+breezes.  
+~
+0 0 3
+E
+gate~
+This area is not done yet.  
+~
+D1
+~
+~
+0 0 2526
+M100 H100
+S
+#2529
+Small Path~
+You can hardly call this a path, more a rabbit run.  Although the trees
+press close together, you can still catch glimses of houses and elves going
+about daily life.  The back curves ever so gently around and eventually it
+is heading east.  A gentle breeze cools you and you can almost make out
+words in it.  
+~
+0 0 3
+D0
+~
+~
+0 0 2526
+D1
+~
+~
+0 0 2530
+M100 H100
+S
+#2530
+Forked Path~
+The small path weaves and winds through the tall smooth trees.  A layer
+of gold leaves cushions your steps.  You see a splitting in the path up
+ahead.  You feel a vague chill from the south.  To the west you faintly hear
+music.  The breeze carries the faint sound of laughter from the east.  
+~
+0 8 3
+D1
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2529
+M100 H100
+S
+#2531
+The Faerie Ring~
+Finally a break in the forest!  It sems like ages since you have seen the
+sky.  The grass is lush and green.  You notice that the glade is surrounded
+by tiny mushrooms.  Could it be a faerie glade of legend?  You notice a
+flash of white disappearing into the forest on the north side of the glade. 
+~
+0 0 3
+D0
+~
+~
+0 0 2533
+D3
+~
+~
+0 0 2530
+D4
+The canopy would not be difficult to navigate to get to the sky.  
+~
+canopy~
+1 0 2560
+M100 H100
+S
+#2532
+The Bleak Forest~
+The trees appear very solemn.  Even the wind has stopped.  The only noise
+you hear is your own breathing.  To the north you glimse more of the
+straight silver trees.  To the south of you are tall spreading oak trees. 
+You can sense a bit of tension in the area.  As if each type of tree was
+watching the other.  
+~
+0 0 3
+D0
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2550
+M100 H100
+S
+#2533
+The Forest Path~
+The silver barked trees line the path as it winds deeper into the forest.
+You are caught a little by suprise at the sight of a fir tree to the north. 
+You glimse a dragonfly zipping through the air heading south.  
+~
+0 0 3
+D0
+~
+~
+0 0 2534
+D2
+You catch a glimse of a sunlight clearing.  
+~
+~
+0 0 2531
+M100 H100
+S
+#2534
+The Sylvain Forest~
+A perfusion of trees surrounds you.  Trees you have never see before
+grown next to oaks and pines.  The silver trees are much fewer here but
+still predominant.  All the trees are in perfect health and beauty.  
+~
+0 0 3
+D0
+~
+~
+0 0 2535
+D1
+~
+~
+0 0 2542
+D2
+A path winds its away among the silver trunks to the south.  
+~
+~
+0 0 2533
+M100 H100
+S
+#2535
+The Sylvain Forest~
+A brook springs from the ground and sparkles downstream to the west.  The
+sunlight sparkles off the tumbling water and you occasionally hear a faint
+laughter as a leaf travels down the stream.  The forest is more open here
+letting light shine down on the brook, as a result a wide variety of flowers
+and grasses grow along its banks.  
+~
+0 0 3
+E
+brook~
+The water is fresh and clear.
+~
+D0
+~
+~
+0 0 2536
+D1
+~
+~
+0 0 2541
+D2
+~
+~
+0 0 2534
+M100 H100
+S
+#2536
+The Sylvain Forest~
+As you wind your way among the trees, firs become more common.  Suppenly
+the firs form a solid barrier to the north, their branches intertwining to
+stop all further travel.  The sound of a stream comes from the south.  The
+breeze is pleasant and cool and pungent with the smell of firs.  
+~
+0 0 3
+D1
+~
+~
+0 0 2537
+D2
+~
+~
+0 0 2535
+M100 H100
+S
+#2537
+The Sylvain Forest~
+The firs make a wall to the north.  Sunlight streams down among the
+branches in narrow beams.  The dust motes hover in the air.  The fallen
+needles cushion sound so that the only sound is the wind through the trees. 
+You could easily find a comfortable spot to rest leaning against a tree or
+curled up among the roots.  
+~
+0 0 3
+D0
+~
+~
+1 0 2538
+D1
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2541
+D3
+~
+~
+0 0 2536
+M100 H100
+S
+#2538
+The Sylvain Forest~
+You enter a dark grove.  No light gets through the firs all around you. 
+To the north is a wall of mist.  Dare you go forward into the unknown.  The
+needles are thick here and you realize this would be a safe place to rest. 
+As you settle down a large owl swoops down out of no where and lands just
+above your head.   
+~
+0 1029 3
+E
+owl~
+"WHO!"
+~
+D2
+~
+~
+1 0 2537
+M100 H100
+S
+#2539
+The Sylvain Forest~
+You are surprised by the sight of a patch of dust here.  Glancing around
+you notice that the grass is very short here.  A couple sets of hoof prints
+are visible in the dust.  Horses here?  The trees are primarily firs and you
+notice some of the branches are missing.  To the north the firs make an
+inmpenetrable barrier.  
+~
+0 0 3
+D2
+~
+~
+0 0 2540
+D3
+~
+~
+0 0 2537
+M100 H100
+S
+#2540
+The Sylvain Forest~
+The forest arches far over your head giving this part of the forest a
+feeling of openness and space.  Birds and butterflies soar among the arches
+of this natural aviary.  Many colorful feathers can be seen on the ground. 
+The air echos with the calls of birds.  Many that you do not recognise.  
+~
+0 0 3
+D0
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2543
+D3
+~
+~
+0 0 2541
+M100 H100
+S
+#2541
+The Sylvain Forest~
+A colorful array of flowers and plants fills this clearing.  A pale red
+rose climbs up a flowering shrub.  A small violet peeks out from behind a
+dafodil.  The beauty of the colors is breath taking and the shading so
+subtle.  You are filled with joy as you enter this room.  
+~
+0 0 3
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2535
+M100 H100
+S
+#2542
+The Sylvain Forest~
+A faint haunting melody can be heard on the wind.  Listening closely you
+would say pipes of some sort.  You begin to doze.  You wake to the chirping
+of a sparrow.  Looking down you notice a set of small cloven foot prints in
+the dirt near you.  As you glance around you again notice a flash of white
+from the southwest.  
+~
+0 0 3
+D0
+~
+~
+0 0 2541
+D1
+~
+~
+0 0 2543
+D2
+~
+~
+0 0 2544
+D3
+~
+~
+0 0 2534
+M100 H100
+S
+#2543
+The Sylvain Forest~
+The ground under your feet becomes a little more slippery.  As you look
+down you see a variety of nuts.  Walnut trees spread their limbs far above
+you and the hazelnut bushes fill the area.  Other nut trees and bushes also
+grow where they can find light.  You notice the abscence of acorns. 
+Scanning around among all these trees you have noticed no oak trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 2540
+D2
+~
+~
+0 0 2545
+D3
+~
+~
+0 0 2542
+M100 H100
+S
+#2544
+The Sylvain Forest~
+To the south the silver trees once again form a barrier allowing you only
+peeks at what lays beyond.  In a small glade blooming berry bushes carpet
+the floor.  The start to walk amongst the blosums when you feel the
+penetration of a black berry thorn.  You watch your step more carefully as
+you walk among the berry plants.  
+~
+0 0 3
+D0
+~
+~
+0 0 2542
+D1
+~
+~
+0 0 2545
+M100 H100
+S
+#2545
+The Sylvain Forest~
+Your senses are overcome bye the wonderful fragrance as you enter this
+grove.  Flowering fruit trees abound.  The fragrance is very heady.  The
+breeze causes pedals to gently rain down.  Soon your clothes are covered
+with pink and white pedals.  It would be wonderful to just sit and rest
+among these fragrant trees.  
+~
+0 0 3
+E
+pedal~
+Looking at the pedals you notice that the pedals fall from the trees, but
+regrow in mere minutes.  
+~
+E
+fruit~
+Your mouth waters thinking of the delicious fruit that would grow here.  
+~
+D0
+~
+~
+0 0 2543
+D2
+You smell apple blossums to the south.
+~
+~
+0 0 2546
+D3
+~
+~
+0 0 2544
+M100 H100
+S
+#2546
+The Apple Grove~
+You feel a sense of awe as you enter this orchard of apple trees.  The
+air is heady with their aroma and the pale petals are a beautiful sight. 
+The ground is covered in petals as if by colored snow.  A bit of movement
+and pure white catches your attention.  Quickly you lose sight of it as it
+flees deeper into the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 2545
+D2
+You notice some oaks to the south.
+~
+~
+0 0 2547
+M100 H100
+S
+#2547
+The Bleak Forest~
+Oak trees surround you but the atmosphere seems a little lighter.  A
+small path winds its way between the oaks to the north.  The ground is just
+covered with acorns as if they had been gathered from the whole forest into
+one spot.  The strange thing is that not one of the acorns has a bite mark
+in it.  
+~
+0 8 0
+E
+acorn~
+As you examine the acorns you feel a strange sense of unease, almost like
+you are being watched.  
+~
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2556
+D3
+~
+~
+0 0 2548
+M100 H100
+S
+#2548
+The Bleak Forest~
+The Large oaks arch far over head.  Some colorless sunlight feebly
+attempts to light the ground.  Even the grass looks pale, if healthy.  A bit
+of cloud passes over the sun and you are plunged into gloom.  The cloud
+passes and light returns but you have the feeling that the forest is darker
+than it was before the cloud passed over.  
+~
+0 8 0
+D1
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2555
+D3
+~
+~
+0 0 2549
+M100 H100
+S
+#2549
+The Bleak Forest~
+The old oaks crouch down and hunch inward blocking off the last traces of
+sunlight.  All the trees seem to be leaning towards the south and you can
+here a faint rustling from that direction.  You can easily imagine them to
+be people listening to something to the south.  
+~
+0 9 0
+D1
+~
+~
+0 0 2548
+D2
+Looking closely you notice a narrow path winding between two trees. 
+Their branches are blocking the trail.  
+~
+branches~
+1 0 2554
+D3
+~
+~
+0 0 2550
+M100 H100
+S
+#2550
+The Bleak Forest~
+You catch a glimpse of silver to the north and realize that you are near
+the edge of the oaken forest.  The air is still and a sense of waiting
+eminates from the trees.  You get a sense that something powerful happened
+here long ago.  
+~
+0 0 0
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2549
+D2
+~
+~
+0 0 2553
+D3
+~
+~
+0 0 2551
+M100 H100
+S
+#2551
+The Bleak Forest~
+The floor of the forest is carpeted with oak leaves.  There are large
+piles of leaves around each oak trees.  All the leaves are brown and dry but
+whole.  Still you could imagine that each tree was hording all the leaves
+that have fallen from it in its lifetime.  
+~
+0 8 0
+E
+leaves~
+Looking at the leaves you hear a soft weeping.  
+~
+D1
+~
+~
+0 0 2550
+D2
+~
+~
+0 0 2552
+M100 H100
+S
+#2552
+The Bleak Forest~
+The old oaks are twisted and crouching.  Their bark is like old wrinkled
+skin or jerky dried in the sun.  You can almost make out faces in these
+trees.  Very sad weary faces looking worried yet determined.  To the west
+the oaks band together as if seeking solstice.  
+~
+0 9 0
+D0
+~
+~
+0 0 2551
+D1
+~
+~
+0 0 2553
+M100 H100
+S
+#2553
+The Bleak Forest~
+A sense of foreboding fills you.  The trails among the oaks seem
+confusing, yet planned.  Although no wind can be felt you still hear a
+whispering among the trees.  Out of the corner of your eye you notice
+movement but when you turn there is only the branch of a tree.  
+~
+0 9 0
+D0
+~
+~
+0 0 2550
+D2
+You some how sense something from the south.  
+~
+~
+0 0 2557
+D3
+~
+~
+0 0 2552
+M100 H100
+S
+#2554
+The Black Heart~
+A very large and twisted black oak domintates this area.  You hear many
+whisperings and rattling of leaves.  The other oaks surrounding it look
+almost humble when compared to the majesty of the black oak.  The oaks crowd
+tightly together just outside the spreading branches of the black oak.  The
+only way out is a tight path to the north.  
+~
+0 5 0
+D0
+~
+~
+1 0 2549
+M100 H100
+S
+#2555
+The Bleak Forest~
+A chill runs down your back for no reason at all.  It feels like the old
+oaks are watching you.  The branches creak and seem to move even though
+there is not a hint of wind.  You trudge along the hard packed earth and try
+to remember what the sun feels like.  
+~
+0 9 0
+D0
+~
+~
+0 0 2548
+D1
+~
+~
+0 0 2556
+D2
+The oaks try to block you way south.  
+~
+~
+0 0 2558
+M100 H100
+S
+#2556
+The Bleak Forest~
+The oaks cluster close together as if confering.  Looking closely at the
+trees you can almost make out faces.  Here a shelf fungus looks like an
+eyebrow.  There an oak wears a beard of moss.  The tree over there seems
+frozen in mid nod.  When you listen it is almost as if you can still hear
+their heated debate.  
+~
+0 9 0
+D0
+~
+~
+0 0 2547
+D3
+~
+~
+0 0 2555
+M100 H100
+S
+#2557
+The Black Heart~
+The mist is thick here hugging the trunks of ancient black oaks.  A few
+trees have fallen and the other trees seem to be trying to shield them from
+view.  It is as if the forest did not want you to see its fallen members. 
+To the east you catch a glimpse of a large clearing.  
+~
+0 1 3
+D0
+~
+~
+0 0 2553
+D1
+The oaks guard this direction.  The branch of one oak is extended as if
+asking you to halt, or asking for you to give something.  
+~
+oaks~
+4 2510 2559
+M100 H100
+S
+#2558
+The Black Heart~
+The trees are all black oaks, that are twisted and bent.  You are
+surprised to see a couple trees fallen down.  The first sign of decay you
+have seen.  Wisps of mist are surrounding each tree.  To the west you catch
+a glimpse of light but it only serves to make this forest all the darker.  
+~
+0 1 3
+D0
+~
+~
+0 0 2555
+D3
+The oaks branches are intertwined to form a barrier.  Studying the
+branches you notice a pattern, and that one branch is missing.  
+~
+oaks~
+4 2510 2559
+M100 H100
+S
+#2559
+The Heart Wood~
+You enter a very large clearing.  It is ringed with very ancient and tall
+black oaks.  The air is very misty so that you can barely make out the sun
+as a pale disk in the sky.  In the center of the clearing is a tree that is
+very large and its top is lost in the mists.  Its bark is cracked and
+shaggy, and scarred in many places by lightning.  You can feel the power
+eminating from this tree.  
+~
+0 8 3
+E
+tree~
+You look up and up and cannot see the top in the mists.  You notice that
+some of the branches are moving yet you can not feel a bit of wind.  
+~
+D1
+~
+~
+4 0 2558
+D3
+~
+~
+4 0 2557
+M100 H100
+S
+#2560
+Above the Forest~
+The air is clean and fresh.  You have a wonderful view of the forests all
+around you and the sky.  Straight below you is the faerie glade.  To the
+north is verdant forest that is eventually lost in mist.  To the west is a
+forest of silver trees.  To the east are orchards.  To the south is a forest
+of oaks.  You notice a clearing far to the south.  
+~
+0 0 9
+D3
+~
+~
+0 0 2590
+D5
+~
+~
+1 0 2531
+M100 H100
+S
+#2561
+Slyph's Lair~
+The fog is thicker here.  Can barely see you hand infront of your face...
+Wait a moment...  Your hands are on your weapons.  It is gone, whatever it
+was.  You see more faces and shapes in the fog caressing you.  The mist
+begins to seep into your clothes.  You are begining to feel drowsy.  
+~
+0 8 0
+D4
+~
+~
+0 0 2562
+D5
+The mist swirls and whirls, but also seems very solid.  
+~
+mist~
+1 2503 2525
+M100 H100
+S
+#2562
+Mists of Confusion~
+Mists whip up and blind you.  You have no idea which way is which.  The
+mist is damp and chilly.  All sound is muted, you could easily be walking
+anywhere.  How long have you been walking?  Is it night or day?  
+~
+0 8 0
+D0
+~
+~
+0 0 2565
+D1
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2504
+D3
+~
+~
+0 0 2519
+D4
+~
+~
+0 0 2563
+D5
+~
+~
+0 0 2561
+M100 H100
+S
+#2563
+Mists of Confusion~
+You step into a wall of mists.  A buffetting wind strikes you and spins
+you around.  Soon you have lost all sense of direction.  The mist has a
+strange directionless glow.  You notice faces in the mist out of the corner
+of your eye but when you turn they are just branches or eddies in the mist. 
+~
+0 8 0
+D0
+~
+~
+0 0 2517
+D1
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2509
+D3
+~
+~
+0 0 2507
+D4
+~
+~
+0 0 2564
+D5
+~
+~
+0 0 2562
+M100 H100
+S
+#2564
+Mists of Confusion~
+A damp chilling mists creeps up from the ground and surrounds you.  Owl
+hoots and bird calls surround you.  You trip over a root and fall against a
+tree.  You shake your head but have lost all your direction sense.  You can
+also no longer hear the bird calls.  
+~
+0 8 0
+D0
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2512
+D4
+~
+~
+0 0 2565
+D5
+~
+~
+0 0 2563
+M100 H100
+S
+#2565
+Mists of Confusion~
+The ground is squishy under your feet.  A swamp mist begins to rise. 
+After a few minutes your visibility is reduced to only a few feet.  Suddenly
+the ground gives way beneath you.  You fall only a pile of dead pine needle
+unharmed.  You can not seem to find the cliff that you fell from.  You have
+no idea which way to go.  
+~
+0 8 0
+D0
+~
+~
+0 0 2503
+D1
+~
+~
+0 0 2506
+D2
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2511
+D4
+~
+~
+0 0 2566
+D5
+~
+~
+0 0 2564
+M100 H100
+S
+#2566
+Mists of Confusion~
+You start walking along a stream and a fog begins creep out of it. 
+Turning away from the stream for safer ground a branch falls behind you
+pushing you to the ground.  The fog envelops you.  When you get up the only
+sound is that of water dripping from leaves.  
+~
+0 8 0
+D0
+~
+~
+0 0 2502
+D1
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2501
+D3
+~
+~
+0 0 2514
+D4
+~
+~
+4 463 463
+D5
+~
+~
+0 0 2565
+M100 H100
+S
+#2568
+~
+~
+0 4 0
+M100 H100
+S
+#2590
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2560
+M100 H100
+S
+#2599
+~
+~
+0 4 0
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 2500 spec_poison Load to: the small spider
+M 2505 spec_poison Load to: the large spider
+M 2506 spec_janitor Load to: the mini wisp
+M 2507 spec_poison Load to: Ettercap
+M 2508 spec_breath_lightning Load to: a Wil O' Wisp
+M 2509 spec_breath_fire Load to: a Chimera
+M 2511 spec_janitor Load to: a Pixie
+M 2512 spec_thief Load to: a Winged Faerie
+M 2513 spec_guard Load to: an Elven Guard
+M 2514 spec_cast_mage Load to: a Satyr
+M 2516 spec_cast_adept Load to: the Unicorn
+M 2517 spec_cast_cleric Load to: the Green Dryad
+M 2518 spec_cast_mage Load to: the Brown Dryad
+M 2519 spec_cast_cleric Load to: The Trent
+M 2520 spec_guard Load to: the Needle Guardian
+M 2523 spec_guard Load to: a Griffon Rider
+M 2568 spec_cast_cleric Load to: Big Trent
+M 2569 spec_cast_mage Load to: the Brown Dryad
+M 2570 spec_guard Load to: Needle Guardian
+M 2572 spec_poison Load to: Tiny Spider
+M 2575 spec_poison Load to: Large Spider
+M 2576 spec_janitor Load to: Mini Wisp
+M 2579 spec_poison Load to: Ettercap
+M 2580 spec_breath_lightning Load to: Wil O' Wisp
+M 2581 spec_breath_fire Load to: Chimera
+M 2582 spec_guard Load to: Elven Guard
+M 2584 spec_janitor Load to: the Pixie
+M 2585 spec_thief Load to: Winged Faerie
+M 2586 spec_cast_mage Load to: Satyr
+M 2587 spec_guard Load to: Centaur
+M 2588 spec_cast_adept Load to: Unicorn
+M 2589 spec_cast_cleric Load to: the Green Dryad
+S
+
+
+
+#RESETS
+D 0 2509 3 1
+D 0 2516 1 2
+D 0 2518 0 2
+D 0 2520 3 2
+D 0 2523 1 1
+D 0 2524 2 2
+D 0 2525 0 2
+D 0 2525 1 2
+D 0 2525 2 2
+D 0 2525 3 2
+D 0 2525 4 2
+D 0 2525 5 1
+D 0 2527 4 1
+D 0 2531 4 1
+D 0 2537 0 1
+D 0 2538 2 1
+D 0 2549 2 1
+D 0 2554 0 1
+D 0 2557 1 2
+D 0 2558 3 2
+D 0 2559 1 2
+D 0 2559 3 2
+D 0 2560 5 1
+D 0 2561 5 2
+D 0 2566 4 2
+M 0 2503 1 2500 1
+M 0 2501 5 2503 1
+M 0 2503 2 2505 1
+M 0 2502 1 2508 1
+M 0 2503 2 2510 1
+M 0 2500 5 2513 1
+M 0 2505 3 2515 1
+M 0 2507 1 2516 1
+E 0 2503 0 3
+M 0 2505 4 2516 1
+M 0 2509 1 2518 1
+G 0 2503 0
+M 0 2506 4 2519 1
+M 0 2508 1 2520 1
+E 0 2503 0 9
+O 0 2501 0 2523
+M 0 2504 4 2524 1
+M 0 2510 1 2524 1
+G 0 2503 0
+M 0 2513 2 2526 1
+E 0 2506 0 16
+G 0 2506 0
+M 0 2511 2 2527 1
+E 0 2513 0 9
+O 0 2502 0 2527
+M 0 2520 1 2528 1
+E 0 2505 0 6
+M 0 2512 1 2531 1
+M 0 2504 2 2535 1
+M 0 2515 2 2539 1
+E 0 2509 0 16
+M 0 2514 2 2542 1
+E 0 2507 0 9
+M 0 2516 1 2546 1
+E 0 2508 0 6
+M 0 2517 2 2551 1
+M 0 2518 1 2554 1
+G 0 2510 0
+M 0 2517 2 2555 1
+M 0 2519 1 2559 1
+M 0 2518 3 2559 1
+M 0 2517 5 2559 1
+M 0 2523 1 2560 1
+G 0 2512 0
+G 0 2511 0
+M 0 2522 1 2560 1
+M 0 2521 1 2561 1
+G 0 2503 0
+M 0 2500 1 2566 1
+G 0 2500 0
+S
+
+
+
+#SHOPS
+2510 18 0 0 0 0 150 50 0 23
+2513 5 0 0 0 0 150 10 12 23
+2523 10 0 0 0 0 200 50 0 23
+2578 18 18 0 0 0 150 25 0 23
+2582 5 0 0 0 0 150 10 12 23
+0
+
+
+
+#$

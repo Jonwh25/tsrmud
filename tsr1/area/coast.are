@@ -1,0 +1,426 @@
+#AREADATA
+Name        [1   160] The Coast~
+Builders    Thallin~
+VNUMs       500 599
+Security    9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#500
+The Bay of D'Hara~
+Directly to the east you see the dark City of War and Chaos.  THe water
+around you is a putrid dark green.  The odor waffting off of the surface is
+not a friendly one.  Gentle waves lap at the shore around you.  
+~
+0 0 7
+D1
+~
+~
+0 0 21011
+D2
+~
+~
+0 0 505
+D3
+~
+~
+0 0 501
+M0 H0
+S
+#501
+The Bay of D'Hara~
+Calmly floating atop these waters, you notice that you are rather glad
+that you are "floating".  Near where the water touches the sides of your
+vessel small snail-like creatures are tearing not so small holes in the
+wood.  Darkness surrounds you.  No moon can be seen through the thick mat of
+clouds overhead.  
+~
+0 0 7
+D1
+~
+~
+0 0 500
+D2
+~
+~
+0 0 504
+D3
+~
+~
+0 0 502
+M0 H0
+S
+#502
+The Bay of D'Hara~
+A large bird dives to scoop a dead and bloated fish from the surface of
+the stagnant water.  As it nears bubbles begin to rise from the depths
+below.  Before you can blink a long black object lashes out and snatches its
+pray from the air.  As it sinks back into the bay a low rumble fills the
+air.  
+
+~
+0 0 7
+D1
+~
+~
+0 0 501
+D2
+~
+~
+0 0 503
+D3
+~
+~
+0 0 558
+M0 H0
+S
+#503
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 502
+D2
+~
+~
+0 0 506
+M0 H0
+S
+#504
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 505
+D2
+~
+~
+0 0 507
+M0 H0
+S
+#505
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 500
+D2
+~
+~
+0 0 508
+D3
+~
+~
+0 0 504
+M0 H0
+S
+#506
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 509
+D3
+~
+~
+0 0 558
+M0 H0
+S
+#507
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 504
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 510
+D3
+~
+~
+0 0 506
+M0 H0
+S
+#508
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 505
+D2
+~
+~
+0 0 511
+D3
+~
+~
+0 0 507
+M0 H0
+S
+#509
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 506
+D1
+~
+~
+0 0 510
+M0 H0
+S
+#510
+The Bay of D'hara~
+~
+0 0 7
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 511
+D3
+~
+~
+0 0 509
+M0 H0
+S
+#511
+The Bay of D'Hara~
+~
+0 0 7
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 512
+D3
+~
+~
+0 0 510
+M0 H0
+S
+#512
+A Narrow Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 513
+D3
+~
+~
+0 0 511
+M0 H0
+S
+#513
+A Narrow Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 514
+D3
+~
+~
+0 0 512
+M0 H0
+S
+#514
+A Narrow Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 515
+D3
+~
+~
+0 0 513
+M0 H0
+S
+#515
+A Narrow Inlet~
+~
+0 0 0
+D1
+~
+~
+0 0 2019
+D3
+~
+~
+0 0 514
+M0 H0
+S
+#524
+Dark Trail Near the Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 558
+D2
+~
+~
+0 0 525
+M0 H0
+S
+#525
+Dark Trail Near the Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 524
+D2
+~
+~
+0 0 526
+M0 H0
+S
+#526
+Dark Trail Near the Bay~
+~
+0 0 0
+D0
+~
+~
+0 0 525
+D2
+~
+~
+0 0 527
+M0 H0
+S
+#527
+A Dark Lonely Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 526
+D1
+~
+~
+0 0 13400
+M0 H0
+S
+#538
+On a Black, Sandy Beach~
+~
+0 0 0
+D1
+~
+~
+0 0 2016
+M0 H0
+S
+#558
+A Muddy Bank~
+You tancend from the water to mud, you notice a strange forest to the
+west while to the east is the Bay of D'Hara.  You hear sounds of dragons
+"roaring" in the back ground.  While from a large tower to the north-west
+you can see bright flashes of light.  You have a choice the calm waters of
+the Bay of D'Hara or the strange forest.  Your choice choose wisely?  
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 502
+D2
+~
+~
+0 0 524
+D3
+~
+~
+0 0 1306
+M0 H0
+S
+#560
+The Western Coast of Nosgoth~
+~
+0 0 0
+D1
+~
+~
+0 0 6137
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

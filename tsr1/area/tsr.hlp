@@ -1,0 +1,336 @@
+#HELPS
+
+0 SURRENDER~
+
+Syntax: surrender
+
+When you're fighting, you may choose to SURRENDER your opponent. If you
+surrender, you will cease fighting. Your opponent may ignore your action
+(receiving one free attack) or react in some other way depending on the
+situation. Fighting may always be resumed via kill command.
+See also: KILL
+~
+
+0 FEATURES~
+TSR Features only the best ideas and code that it can get or code itself.
+We Fully credit each of the authors of the code we do get in our hopes to
+make the MUD community a better place. We frown upon code theives and we
+only want the best for all MUDs out there. If you code or own your own
+MUD and want to swap code please email beowolf@tsr.org 
+
+TSR features the following code-
+
+ 1) Fully functional OLC for ROM2.4.- 
+	created on 2/96 by Nikki, Beowolf, and in part with Airius and 
+        the ROM mailing list. TSR's original and available for trade.
+
+ 2) OLC for MOBPrograms. -
+	This was donated by Lordrom of Evermore MUD. He gave the code
+	to Beowolf who tweaked it a little. Almost all of the code was
+	done entirely by Lordrom though. 
+
+ 3) Full customizable COLOR. -
+	Donated by wot of mat.net. (mat.net 4000)
+
+ 4) 151 Mortal levels. - 
+	Idea from IMPs of TSR.
+
+ 5) Equipment wearable up to 7 levels higher than character -
+	Idea from IMPs of TSR.
+
+ 6) Automated Quest Code. -
+	Donated by Vassago.
+
+ 7) Dual Wield for Rangers and Barbarians -
+	
+ 8) Ident Code -
+	Donated by Celestian of Thrynn MUD.
+
+ 9) Banks
+
+10) Class specific recall points. -
+	Coded by Belar.
+
+11) Sect Portals, sacrificing to sect god -
+	Coded by Belar.
+
+12) Hunting Mobs, Hunt skill for scouts, rangers -
+	
+13) Over 100 New spells & skills -
+	Envy & Silly codebases, Nikki, and other donations.
+
+14) Underwater Code -
+	Donated by Honey.
+
+15) Donation Code -
+ 	Envy's own Code.
+
+16) Mob Guardian Code -
+	Donated by George Zolas (Dyre) 
+
+17) MOBPrograms. -
+	Coded by Newt of Imperium Gothique.
+
+18) Mob Memory. -
+
+~
+
+0 LEARN~
+Syntax: learn
+or Syntax: learn languagename
+
+	This command is designed to show you what languages you know and to also
+Help you to learn NEW languages. You start out by default knowing the language
+of your race. If you want to use your learning sessions to learn new languages
+you must find the teacher mob and pay a small fee. As you raise in levels the
+fee will become more and more expensive so its best to learn a language at the
+lower levels. For more information on languages please read help speak.
+~
+0 SPEAK~
+Syntax: speak
+or Syntax: speak languagename
+
+	This command is designed to show you what language your are currently
+speaking to the world. When you type speak languagename, ie: speak sithid, you
+will set the language you are speaking to the new language granted that you
+have it learned. For more information see help learn.
+~
+153 LSTAT~
+
+Syntax: lstat playername
+
+	This command will show you what languages the character knows and
+what they don't know. This is helpful for when you need to find out what
+language you need to speak to the player with.
+~
+
+153 LSET~
+
+Syntax: lset name language %
+Example: lset allanon sithid 100 
+
+Syntax: lset name all 100 
+Example: lset allanon all 100
+
+	This command will set a persons language to whatever percent you set
+it up as. This shouldn't be used on mortals at all unless maybe if they want
+a new language as part of a quest reward.
+~
+159 DISABLE~
+Syntax: disable command.
+
+	This is a very serious command that was designed for the soul purpose
+of debugging beta commands that are not working correctly. This command will
+render any command on the MUD useless until you type disable command again..
+Please only use this under extreeme cases.
+~
+
+153 INFORM~
+Syntax: inform message
+
+	This command will make the shadows whisper something. This is almost
+the same as echo. This is used for Role-playing aspects only. So please do NOT
+abuse this command.
+~
+160 ADMIN~
+Syntax: admin <mesg>.
+
+	This was designed for the IMPS of TSR to converse about the progress
+of the MUD without the other immortals knowing about it. It is a security
+command.
+~
+153 ZLOCK~
+Syntax: zlock
+
+	This command will close the mud to everyone except builders and 
+immortals. This is a very useful command when you want to close the MUD
+down to players.
+~
+153 AUTHORIZE~
+
+Syntax: authorize <no args>
+		  playername
+		  no playername 
+
+	When this command is used without an argument you will see a listing
+of any player who needs to be authorized to gain access to the MUD. This 
+command was designed so that we can prevent players with annoying names from
+getting onto the MUD. When you use this command with the playername option
+you are allowing that character access to the MUD. IF you use a no before 
+the players name you will send that character a message and it will deny that
+player from coming onto the MUD.
+~
+10 OBL_RULES~
+
+                                 Rules of Oblivion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
+       1. Strict roleplaying of an evil character will be adhered to at
+          all times. Any questions about an evil character can be directed
+          towards Raff or Annibus.
+       
+       2. Open pkilling is allowed with good sects.  Neutral sects can be
+          helped if it will benefit ones own personal good or the good of the
+          sect.
+    
+       3. Pkilling within the sect is FORBIDDEN!  If a problem arises
+          within the sect bring these to the sect ruler or Raff.
+
+       4. At level 10-15 new players should be approached by members to
+          consider the brotherhood of Oblivion.  WARNING...Do NOT coax
+          players in who will not roleplay an evil character!
+
+       5. There will be no assistance to good sects under any
+          circumstance, unless ordained by Raff or Annibus.  This type of
+          help will be dealt with in a form of punishment.
+
+       6. An order by Raff or by Annibus will be strictly obeyed or
+          punishment will result.
+
+       7. As in a religion..Raff cannot always be reached.  If a problem
+          or a question arises contact Annibus first.  He will then pray
+          to Raff to recieve the answer to which you seek.
+       
+       8. We have formed a BROTHERHOOD, letting out secrets of the
+          sect will result in DEATH and REMOVAL of the sect. Remember,
+          this is a privilige.
+       
+       9. As this is a brotherhood, help will be given to any memeber
+          that is in need.
+      
+      10. Oblivions main objective is to DOMINATE!!. Do this at any cost!
+    
+      POSSIBLE PUNISHMENTS
+      
+       1. Imprisonment (real time)
+       2. Death
+       3. Removal of Clan
+~
+160 OBJDUMP~
+
+objdump <ALL|AREA> filename
+~
+
+0 Kendermore~
+Welcome to Kendermore! This is a li'l town I threw together around a pub ;)
+The town is based on the Kender of Krynn (Dragonlance fame), and on the
+Kender history and ideology as espoused in Anonymud, the mud this area was
+originally written for.
+
+- Yaegar March 1996
+~
+
+0 Warlock~
+Many centuries ago, around the time of the Goblin Wars, which took the lives
+of so many Elves, Dwarves and Humans on the Plains of Blood, there existed
+a vile and crafty warlock named Baragar, and he resided in a fell keep
+near the jagged peak of Mount Doom. By traveling to the past dimension, you
+will have the chance to meet and slay this evil mercenary who worked against
+his own race for the money of foul forces such as Krogthar, Jher and Lord
+Vax. The warlock is not alone in his keep, however, and you will find
+yourself pitted against many heinous foes in your journey.
+~
+
+0 ANTHARIA~
+This is taken from the latest edition of the Barren Realms High
+School History textbook..
+
+        The kingdom of Antharia, one the new discoveries of the modern
+world, has a very intestesting history.  Being one of the oldest races
+of beings in existence, they have much knowledge that we do not, and
+much knowledge that they no longer posess.  We can see this more
+clearly by studing a bit of the history of the capital city, Antharia.
+        About a thousand years ago, Antharia was a very productive and
+thriving kingdom, so old that many problems that face most kingdoms
+had been solved.  The Realm was ruled by what they called a
+constitutional monarchy.  They had a king, who worked as a figurehead
+and public leader.  However, the true working laws and policies were
+dictated by a two councils:  The High council of Wizards, and the Holy
+Order of Priests.  These two groups worked very well together, and
+made Antharia one of the best places to live. It was these councils
+who made the discovery that would change the lives of every Antharian.
+        It was discovered that there was going to be a major upheaval
+of the world's outer crust, which would make the whole country of
+Antharia, which was actually a big island, in essense, sink into the ocean.
+Fearing for the lives of their citizens, the councils worked quickly
+to come up with a solution to the disaster.
+        After many months of searching, it was decided that there was
+only solution:  the wizards would have to combine their power to
+create a "Gem of Salvation".  This gem would, in essense, keep the
+whole city of Antharia with air, even underwater -- a dome, if you
+will.  However, this also forced the government to make the decisions
+of who would be able to live and who would die...the city could only
+hold so many people.
+        
+        The Antharians are very hesistant to talk about this time in
+their history.  Understandbly, it was very hard to make those
+decisions; therefore, much of the next few decades are lost to us.
+However, there was to be an even more dramatic change in the lives of
+the Antharians.
+
+        As the Antharians were getting used to living in an underwater
+city, the council of wizards made another discovery which almost cost
+us the culture of Antharia forever.  The gem was working, but getting
+weaker with every day.  Not anticipating this, the wizards again
+started looking for solutions to this problem.  With the help of the
+priests of Anthar the wizards came up with the solution that created
+the Antharian people that we know today.
+        They had decided that the only way of saving their people was
+to transform themselves into Creatures that could breathe water.
+However, this process took the powers of all the wizards of Antharia,
+and that meant that none of the wizards could be transformed.  Knowing
+that this was the only hope for their people, the wizards made this
+sacrifice.  The Day of Transformation is still celebrated as a holiday
+to this day -- and the wizards who gave up their lives are revered in
+loving memory.
+
+        We are lucky that these wizards took time to teach their
+students the way to take care of the Gem.  It was altered to simply
+provide stable gravity and protection from preditors and falling
+debris.  The gem is still functioning to this day.
+~
+
+0 deathtrap dungeon~
+Deathtrap Dungeon is the second area i have written based on the works of
+Steve Jackson and Ian Livingstone, the first being The Warlock of Firetop
+Mountain. This area is significantly harder, though I trust it will prove
+to be as equally exciting and challenging to players as my first attempt
+proved to be.
+
+-- Yaegar, June 1996.
+~
+
+0 freeport~
+Freeport is the shipping center of the world. The combination
+of its strong naval academy and its powerful captains guild,
+coupled with its strategic location in the center of the
+seas of the pirate lords makes it economically powerful. It is
+the wealth and commerce of Freeport which draws the pirates in
+the surrounding islands. Little known to many is the fact that
+the mayor, 1st admiral, and 1st master merchant of Freeport all
+are corrupt and work for Lord Mourning the 6th pirate lord. 
+Mourning tips off his fellow pirate lords on the shipping routes,
+cargo lists, and passenger lists of all the vessels which will 
+pass their way. In turn he gets a cut from the booty.
+~
+
+0 'The Keep of the Warlock'~
+Many centuries ago, around the time of the Goblin Wars, which took the lives
+of so many Elves, Dwarves and Humans on the Plains of Blood, there existed
+a vile and crafty warlock named Baragar, and he resided in a fell keep
+near the jagged peak of Mount Doom. By traveling to the past dimension, you
+will have the chance to meet and slay this evil mercenary who worked against
+his own race for the money of foul forces such as Krogthar, Jher and Lord
+Vax. The warlock is not alone in his keep, however, and you will find
+yourself pitted against many heinous foes in your journey.
+~
+
+0 Pkill ~
+
+	This is an irreversable command that allows you to become a pkiller. 
+You type pkill in order to turn it on. At 50th level your pkill flag will
+automatically kick in. You may only attack another pkiller, someone with
+a K in the who list.
+
+~
+0 $~
+#$

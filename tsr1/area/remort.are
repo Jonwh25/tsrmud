@@ -1,0 +1,75 @@
+#AREADATA
+Name        [REMORTS] Remort's Challenge~
+Builders    Beowolf~
+VNUMs       20000 20099
+Security    9
+End
+
+
+
+#MOBILES
+#20000
+god rebirth shai~
+Shai'tan~
+Shai'tan the God of Rebirth is standing here.
+~
+~
+human~
+ABGTVc DEFVc 1000 0 
+0 151 100 14d1166+6000 151d10+100 13d1166+5190 0
+-84 -84 -84 -36
+EI ABCD 0 0
+standing standing male 100
+ABCDHMV ABCDEFGHIJK L unknown
+M grall 20000 100~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20000
+The Center Hall~
+~
+0 0 0
+D0
+~
+~
+0 0 20001
+M0 H0
+S
+#20001
+~
+~
+0 0 0
+D2
+~
+~
+0 0 20000
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 20000 1 20000 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

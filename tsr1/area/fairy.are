@@ -1,0 +1,71 @@
+#AREADATA
+Name        [1    10] The Fairy Swamp~
+Builders    Talon~
+VNUMs       6200 6299
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#6200
+A clearing before the swamp~
+All around you the chirp of swamp crickets and frogs drones to
+an almost deafening tone.  The soft, short grass of this clearing 
+is slowly giving way to the north.  There you can see that the 
+ground around the base of all the trees is wet.  There is the slight
+pungent scent of a swamp coming from the north.
+~
+0 0 2
+D0
+A small swamp stretches amongst the trees before you.
+~
+~
+0 0 6201
+M100 H100
+S
+#6201
+Just inside the swamp~
+You wade through ankle deep water which stinks slightly of rotting 
+vegetation.  Above you trees stretch their canopy over you blocking
+out the sun.  Only an eery green glow from the leaves can penetrate
+the dense canopy.  The swamp stretches out around you, but to the 
+north you can see a slight trail
+~
+0 8 3
+D2
+~
+~
+0 0 6200
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

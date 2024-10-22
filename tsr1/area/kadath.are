@@ -1,0 +1,443 @@
+#AREADATA
+Name        [40   60] The Kingdom of Blackblade~
+Builders    Kadath~
+VNUMs       8400 8499
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#8400
+stream water cool~
+the stream~
+The water here looks cool and refreshing.~
+unknown~
+fountain 0 0
+1000000 1000000 'water' 0 0
+0 0 0 P
+#8402
+quiet meditation~
+quiet meditation~
+Quiet meditation~
+unknown~
+furniture SY A
+1 10000000 288 1000 1000
+0 10 100000 P
+#8403
+silvery silver holy dagger demon slayer~
+a dagger named "Demon Slayer"~
+A silvery dagger lies here, repelling evil.~
+unknown~
+weapon ABFGIKY AN
+dagger 10 100 divine ABCDE
+159 0 1000000 P
+A
+1 5
+A
+3 -10
+A
+4 -10
+A
+12 -500
+A
+18 250
+A
+19 250
+#8404
+black velvet gloves~
+a pair of black velvet gloves~
+A pair of black velvet gloves have been carelessly     tossed here.~
+unknown~
+armor ABGISY AH
+100 100 100 100 0
+159 0 100000 P
+A
+12 500
+E
+black~
+This pair of black velvet gloves was designed for aiding mages in the
+casting of spells.  These soft gloves channel the energy of the world with
+almost no loss of power.  Anyone who possesses such a rare set of gloves
+like these must truly be a great sorcerer.  
+~
+E
+gloves~
+This pair of black velvet gloves was designed for aiding mages in the
+casting of spelss.  These soft gloves channel the energy of the world with
+almost no loss of power.  Anyone who possesses such a rare set of gloves
+like these must truly be a great sorcerer.  
+~
+E
+velvet~
+This pair of black velvet gloves was designed for aiding mages in the
+casting of spells.  These soft gloves channel the energy of the world with
+almost no loss of power.  Anyone who possesses such a rare set of gloves
+like these must truly be a great sorcerer.  
+~
+#0
+
+
+
+#ROOMS
+#8400
+The Start of the Stream~
+The river thins into a wide, but calm, slow moving stream.  You notice
+that the sparsely placed trees turn a brighter green and the foliage
+thickens into a lush forest.  A canopy of the giant trees' leaves lies
+overhead, partially blocking out the sky.  The stream has a mottled
+appearance, due to the tiny bits of light slipping through the fingers of
+the canopy above you.  This peaceful stream is relatively quiet, leaving only
+the soft trickling of the stream and the almost silent rustling of the
+bright green leaves to invade your thoughts.  
+~
+0 0 1
+D1
+~
+~
+0 0 8401
+D2
+~
+~
+0 0 477
+M100 H100
+S
+#8401
+The Sheltered Stream~
+The peaceful stream continues here, flowing eastward.  The whispers from
+the stream are almost inaudible; soon you are completely absorbed into the
+serinity of this place.  As you calmly gaze at the beautiful green leaves of
+the trees, combined with the clear sparkling water, you realize this has to
+be the most peaceful and beautiful place you have ever been.  
+~
+0 0 7
+D1
+~
+~
+0 0 8402
+D3
+~
+~
+0 0 8400
+M100 H100
+S
+#8402
+The Sheltered Stream~
+As the quiet stream begins to make a slight turn to the south, you relax
+and marvel at the beauty of this place.  The stream stays calm and quiet,
+but as you look ahead, you notice it begins to twist and seems to writhe
+from the eternal peace it is forced to put up with.  You can't help but
+wonder where this seemingly peaceful stream could be taking you.  
+~
+0 0 7
+D2
+~
+~
+0 0 8403
+D3
+~
+~
+0 0 8401
+M100 H100
+S
+#8403
+Strange Fork of the Sheltered Stream~
+A strange feeling creeps over you as you drift towards this fork in the
+stream.  You glance around cautiously, and seeing nothing and hearing
+nothing--wait...  The leaves have stopped rustling, and the stream is dead
+silent, too.  Something strange is going on here.  The stream continues both
+east and west, but both branches look identical.  
+~
+0 8192 7
+D1
+~
+~
+0 0 8404
+D3
+~
+~
+0 0 8404
+M100 H100
+S
+#8404
+Strange Fork of the Sheltered Stream~
+A strange feeling creeps over you as you drift towards this fork in the
+stream.  You glance around cautiously, and seeing nothing and hearing
+nothing--wait...  The leaves have stopped rustling, and the stream is dead
+silent, too.  Something strange is going on here.  The stream continues to
+the east, south, and west, but all of the branches look identical.  
+~
+0 8192 7
+D1
+~
+~
+0 0 8403
+D2
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8403
+M100 H100
+S
+#8405
+~
+As you slowly drift around the bend in the stream here, the sounds of the
+stream and the wind slowly fade back into existance.  It seems you are safe
+again...  At least for a while.  The stream calmly continues to the east.  
+~
+0 8192 7
+D0
+~
+~
+0 0 8403
+D1
+~
+~
+0 0 8406
+M100 H100
+S
+#8406
+~
+The cool, clear stream, surrounded by seemingly perfect trees on the
+sides and above, continues to flow steadily to the east.  To the south, a
+large waterfall empties its murky water into the stream.  The trees seem to
+whisper your name, calming you as you float along.  
+~
+0 8192 7
+D1
+~
+~
+0 0 8407
+D3
+~
+~
+0 0 8405
+M100 H100
+S
+#8407
+~
+You take in the beauty of the scenary as the stream carries you around a
+bend to the north.  The stream reflects the beautifull rays of the sun to
+give the illusion that the stream itself is radiating the gentle, sparkling
+light.  
+~
+0 8192 7
+D0
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8406
+M100 H100
+S
+#8408
+~
+Completely absorbed in the peacefulness of the stream, you wish this
+experience would never end.  The green of the flora surrounding the stream
+must come from its nutritous waters.  A fork in the stream is to the east.  
+~
+0 8192 7
+D1
+~
+~
+0 0 8409
+D2
+~
+~
+0 0 8407
+M100 H100
+S
+#8409
+~
+~
+0 0 0
+D1
+~
+~
+0 0 8419
+D2
+~
+~
+0 0 8410
+D3
+~
+~
+0 0 8408
+M0 H0
+S
+#8410
+~
+~
+0 0 0
+D2
+~
+~
+0 0 8411
+M0 H0
+S
+#8411
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8410
+D1
+~
+~
+0 0 8412
+M0 H0
+S
+#8412
+~
+~
+0 0 0
+D1
+~
+~
+0 0 8413
+D3
+~
+~
+0 0 8411
+M0 H0
+S
+#8413
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8406
+D2
+~
+~
+0 0 8414
+M0 H0
+S
+#8414
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8420
+D2
+~
+~
+0 0 8415
+M0 H0
+S
+#8415
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8414
+D1
+~
+~
+0 0 8416
+M0 H0
+S
+#8416
+~
+~
+0 0 0
+D1
+~
+~
+0 0 8417
+D3
+~
+~
+0 0 8415
+M0 H0
+S
+#8417
+~
+~
+0 0 0
+D1
+~
+~
+0 0 8418
+D3
+~
+~
+0 0 8416
+M0 H0
+S
+#8418
+~
+~
+0 0 0
+D3
+~
+~
+0 0 8417
+M0 H0
+S
+#8419
+~
+~
+0 0 0
+D2
+~
+~
+0 0 8420
+M0 H0
+S
+#8420
+~
+~
+0 0 0
+D0
+~
+~
+0 0 8419
+D1
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8404
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

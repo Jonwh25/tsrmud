@@ -1,0 +1,1566 @@
+#AREADATA
+Name        [55   70] Perlon~
+Builders    Honey~
+VNUMs       23000 23099 
+Security    9
+End
+
+
+#ROOMS
+#23000
+Among the Ruins~
+You are standing in an area of ruins.  There seems to be a
+half standing structure to your south.  It is made of a
+whitish stone-like substance, and has decayed over the years
+since it was first made.  There are carvings along the 
+entry way that give you the impression this was a holy place.
+~
+0 C 0
+D0
+To your north is the forest of Haon'Dor.
+~
+~
+0 -1 6125
+D2
+To your south you see a half standing structure.
+~
+~
+0 -1 23002
+S
+#23002
+Temple of Ryys~
+The roof has collapsed in spots but you can tell this definately
+was a holy temple.  The letters are carved in a long forgotten
+sign, telling of the name of this structure.  To your west is an
+altar and to your east a shrine of some sort.
+~
+0 D 0
+D0
+This leads back to the ruins.
+~
+~
+0 -1 23000
+D3
+The altar is crumbling in spots.
+~
+~
+0 -1 23001
+D1
+This is a shrine with a half crumbling statue of what you
+assume to be the Goddess Ryys.
+~
+~
+0 -1 23003
+E
+sign~
+ %%%%%%%%%%%%%%%%%%%%%%%%
+ |    Temple of Ryys    |
+ |   Goddess of Magic   |
+ %%%%%%%%%%%%%%%%%%%%%%%%
+~
+S
+#23001
+Temple of Ryys~
+This is the altar where sacrifices were made by the local clerics
+to the Goddess Ryys.  The altar is made of marble and hasn't
+crumbled as has the rest of the area.  You wonder at the age of 
+this building.  What were the followers of Ryys like?
+~
+0 D 0
+D1
+~
+~
+0 -1 23002
+S
+#23003
+Temple of Ryys~
+Here is a Shrine to the Goddess Ryys.  She appears human with 
+long flowing dark hair, and robes of silvery blue.  Her eyes
+look at you with a magic of their own.  Even though the statue
+is broken, her beauty shines through the ages of dust that cover
+the area.  There are some burned remains of some animal in front
+of the statue and some candles that were also lit at one time,
+but now have no more wick to burn.  To the south is an open door
+to a small room.  You can see a strange glow emanating from the
+room.
+~
+0 D 0
+D3
+~
+~
+0 -1 23002
+D2
+~
+~
+0 -1 23007
+S
+#23007
+High Priests' Quarters~
+You are in a small room off the temple proper.  This obviously
+was the quarters of the High Priest of Ryys.  There is a cot
+in the corner, and a small table.  Upon the table is a note
+written by a shaky hand.  The south side of the room has a
+portal of some sort.  It is glowing, a pulsing blue.  You look
+within but can see nothing.
+~
+0 D 0
+D0
+This is a shrine to the Goddess Ryys.
+~
+~
+0 -1 23003
+D2
+This portal leads to the unknown...
+~
+~
+0 -1 23016
+E
+note~
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ |The tattered note reads:  I am the last remaining servant of the |
+ |Goddess Ryys.  A time has come where all have turned away from   |
+ |the Gods and Goddesses of the land.  People have no faith in them|
+ |anymore.  I am the last in her service.  I wish to prove to the  |
+ |unbelieving that the Gods and Goddesses are true, and I have     |
+ |opened a portal into Perlon itself.  I will go there and bring   |
+ |back some proof of the Gods and Goddesses existance.             |
+ |Signed - Moghieden - faithful of Ryys.                           |
+ -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+~
+S
+#23004
+Brightly Colored Room~
+You are in a small, brightly colored room.  The walls have several
+American Indian symbols on them.  The only exit is to the south.
+~
+0 D 1
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23013
+S
+#23005
+Lion's Den~
+You are in a den of lions.  These are where the seven enchanted
+lions are kept that pull the Goddess Ishtar's chariot.  The only
+exit is east into the garden.
+~
+0 A 1
+D1
+This is the garden spot that is a favorite place of the Goddess
+Ishtar.
+~
+~
+0 -1 23006
+S
+#23006
+Lush Garden~
+There are all sorts of lucious plants in this garden.  The smell
+of many fragrant flowers fills the air here.  This is the favorite
+meditating area of the Goddess Ishtar.  The lions that pull her
+chariot are kept in a den to the west.  You may also go south out
+of the garden.
+~
+0 A 1
+D3
+Here lies the den of lions that are enchanted by the Goddess Ishtar
+to pull her chariot.
+~
+~
+0 -1 23005
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23015
+S
+#23008
+Homey Room~
+You are in a small, homey room.  There are many bookshelves
+around the surrounding walls.  There is a large comfy chair
+and a lamp is lit next to it.  There is an open book lying on
+the small table next to the chair.  There is an open door
+to a room to the east, or you may go south, out of the room.
+~
+0 D 1
+D1
+This is another room in Perlon.
+~
+~
+0 -1 23009
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23017
+E
+book~
+The book is open and you can see the title "Sweet Words of
+Love and Devotion", Poetry by Margaret O'Bryan
+~
+S
+#23009
+Small Library~
+You are in a small room that is filled with books.  There
+must be over a thousand books here.  They seem to be mainly
+books of poetry by all sorts of different authors.  
+~
+0 D 1
+D3
+This is a small homey room in Perlon.
+~
+~
+0 -1 23008
+S
+#23010
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  To your east is a room with an open door.  To
+your south is the continuation of the pathway.
+~
+0 D 1
+D1
+This room seems dark.  The door has a symbol of an eagle on it.
+~
+~
+0 -1 23011
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23019
+S
+#23011
+Darkened Room~
+You are in a darkened room in Perlon.  The occupant of this
+room is weapon oriented.  There are many weapons displayed
+upon the walls of this room.  They seem to be well mounted,
+however and you cannot pry any of them loose.  There is a
+door to your south that is open.  You can hear the sounds of
+some kind of duel in that direction.  To your west is the
+exit from the room.
+~
+0 AD 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23010
+D2
+This door is ajar and sounds of a duel can be heard from
+that direction.
+~
+~
+0 -1 23020
+S
+#23020
+Battle Testing Grounds~
+You are in an area where two soldiers are about to duel each
+other.  They are dressed in plate armor with shields that 
+bear the symbol of an eagle.  There is a man observing them,
+as if judging their battle techniques.  He wears blue jade
+armor and wields a battle axe.  The only exit is to the north.
+~
+0 D 1
+D0
+A small darkened room lies in this direction.
+~
+~
+0 -1 23011
+S
+#23019
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can continue north, west or south on 
+this pathway.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23010
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23018
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23028
+S
+#23018
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can continue west or east on this pathway,
+or go south into a room.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23017
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23019
+D2
+This leads into a room in Perlon.  The door to this room has
+a symbol of a storm cloud with lightning bolt through it.
+~
+~
+0 -1 23027
+S
+#23017
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go east or west on the pathway or north
+into a small, homey room.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23016
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23018
+D0
+This is a small cozy room.  The door has a symbol of a
+female form bathed in fire.
+~
+~
+0 -1 23008
+S
+#23016
+Pathway~
+You are standing on the pathway that leads in between all 
+the Gods and Goddesses rooms here in Perlon.  To your north 
+is the portal.  The pathway continues to your west, east,  
+and south.
+~
+0 D 1
+D0
+This leads back to the ruined temple.
+~
+~
+0 -1 23007
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23015
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23017
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23025
+S
+#23015
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go to your east and west along the
+pathway, or north into a lush garden, or south into a
+semi-dark room.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23014
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23016
+D0
+This is a small, lush garden.
+~
+~
+0 -1 23006
+D2
+This is yet another room in Perlon.  The door has a symbol
+of an ankh and star on it.
+~
+~
+0 -1 23024
+S
+#23014
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go east or west on the pathway or south
+into a small room.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23013
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23015
+D2
+This is a small room in Perlon.  The door has the symbol
+of the setting moon on it.
+~
+~
+0 -1 23023
+S
+#23013
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go east or south on the pathway or to
+your west is a balcony.  To your north is a brightly
+colored room.
+~
+0 D 1
+D0
+To your north is a brightly colored room.  The door has
+the symbol of a snake on sand on it.
+~
+~
+0 -1 23004
+D3
+This leads to a balcony overlooking the area around Perlon.
+~
+~
+0 -1 23012
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23022
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23014
+S
+#23012
+Balcony~
+You are standing on a balcony which gives a view of the area
+surrounding Perlon.  The countryside is quite impressive,
+with rolling green hills, evergreen trees and a large lake.
+~
+0 0 1
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23013
+D2
+This is a continuation of the balcony outside Perlon.
+~
+~
+0 -1 23021
+S
+#23021
+Balcony~
+You are standing on a balcony which gives a view of the area
+surrounding Perlon.  The countryside is quite impressive,
+with rolling green hills, evergreen trees and a large lake.
+~
+0 0 1
+D0
+This is a continuation of the balcony outside Perlon.
+~
+~
+0 -1 23012
+S
+#23022
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go north or south along the pathway.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23013
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23031
+S
+#23023
+Small Darkened Room~
+You are inside a small darkened room in Perlon.  This 
+must be the room of a powerful magic user.  There are
+spell components in jars and other containers on the
+many shelves in this room.  There is an orb in the
+middle of the room. You can hear growling from the 
+room to the south.
+~
+0 AD 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23014
+D2
+This is the room where Hecate keeps her 9 hell hound
+servants.
+~
+~
+0 -1 23032
+S
+#23032
+Hellhound Room~
+This is a room with a stone floor.  Hecate keeps her 9
+hell hound servants here.  
+~
+0 D 1
+D0
+To the north is Hecate's room.
+~
+~
+0 -1 23023
+S
+#23024
+Small Semi-Darkened Room~
+You have entered a small, semi-darkened room in Perlon.
+The floor has many large, comfortable pillows for resting
+on it.  There are egyptian symbols on the walls.  There is
+a smell of incense in the air.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23015
+S
+#23025
+Pathway~
+You are on the pathway to the Immortal's rooms here in 
+Perlon.  You can go north or south along the pathway or
+east into a room.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23016
+D2
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23034
+D1
+This room is warm and bright, with a symbol of a black
+spiked mace with a crossed lightning bolt on it.
+~
+~
+0 -1 23026
+S
+#23026
+Warm and Bright Room~
+This room is warm and bright.  Sunlight filters in through
+the skylight in the roof.  You see many types of arrows
+mounted on plaques on one wall. The only exit is to the
+west.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23025
+S
+#23027
+Small, Darkened Room~
+You have entered another small, darkened room.  This room
+has an air of electricity in it.  You can make out something
+moving in the dark, and you get a dread feeling you do not
+want to know just what it is.  The only exit is north to
+the pathway.
+~
+0 AD 1
+D0
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23018
+S
+#23028
+Pathway~
+You are on the pathway to the Immortal's rooms here in
+Perlon.  You can go north or south, or east into a small
+dark room.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23019
+D2
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23037
+D1
+This is a small, darkened room.  There is a symbol on the
+door of a crossed sword and axe.
+~
+~
+0 -1 23029
+S
+#23029
+Small Darkened Room~
+You are in a small darkened room.  There is a fireplace in
+the southern part of the room with a roaring fire within.
+There is a comfy chair in front of the fireplace, and a
+bearskin rug in front of the chair.  
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23028
+S
+#23038
+Brightly Lit Room~
+You are in a brightly lit room.  The entire east wall is one
+huge glass window.  Standing in front of a window you see
+an old man with a long beard.  He is surveying the surrounding
+area through the glass.  Beside him are two warrior women.
+They turn towards you as you enter.  They seem to be human 
+however they have wings.  You realize these are the Air Maiden's,
+also known as Ukko's Warriors.  And the old man is Ukko himself.
+Before you can consider what to do the Air Maiden's attack.
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23037
+S
+#23037
+Pathway~
+You are on the pathway to the Immortal's rooms here in
+Perlon.  You can go north on the pathway, or east or
+west into some rooms.
+~
+0 D 1
+D3
+This leads to a small room off the pathway.  There is a 
+symbol on the door of the quarter moon.
+~
+~
+0 -1 23036
+D1
+This leads to a brightly lit room off the pathway.  There
+is a symbol of a flaming sword on the door.
+~
+~
+0 -1 23038
+D0
+This is the pathway between the Immortal's rooms.  
+~
+~
+0 -1 23028
+S
+#23036
+Archery Grounds~
+You are standing in a small archery grounds.  There are
+several targets across this small field.  
+~
+0 0 2
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23037
+S
+#23035
+Darkened Room~
+You are standing in a darkened room lit only by two torches
+on either side of an altar.  Upon the altar is the remains
+of an elven male who has just been sacrificed.  Blood runs
+from his chest all over the altar.  
+~
+0 D 1
+D3
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23034
+S
+#23034
+Pathway~
+You are on the pathway to the Immortal's rooms here in
+Perlon.  You can continue north on the pathway or go
+east into a darkened room, or west into a cozy and warm
+room.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23025
+D3
+To your west is a cozy and warm room.  Upon the door
+is a symbol of a falcon.
+~
+~
+0 -1 23033
+D1
+To your east is a darkened room.  Upon the door is the
+symbol of a spider.
+~
+~
+0 -1 23035
+S
+#23033
+Cozy and Warm Room~
+You have entered a cozy and warm room.  There is a fire
+going in the fireplace, and a mug of hot cider on the 
+small table by a comfy chair.  
+~
+0 D 1
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23034
+S
+#23031
+Pathway~
+You are on the pathway to the Immortal's rooms here in
+Perlon.  You can continue north on the pathway or go
+west into a small room.
+~
+0 D 1
+D0
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23022
+D3
+To your west is a small room.  Upon the door to this
+room is the symbol of a pickaxe.
+~
+~
+0 -1 23030
+S
+#23030
+Small Room~
+You are in a small rather featureless room.  The walls
+and ceiling are painted a drab gray and there is no
+furniture at all in this room.
+~
+0 D 1
+D1
+This is the pathway between the Immortal's rooms.
+~
+~
+0 -1 23031
+S
+#0
+
+#MOBILES
+#23000
+Snake-Man God~
+Snake-Man~
+Snake-Man is standing here.
+~
+Before you is a man with rainbow-colored skin.  He is
+wearing a large gold pendant on his bare chest.  He
+wears a white loincloth, buckskin boots, and a full
+Indian headdress.
+~
+human~
+ABCR V 800 0
+0 
+80 5 50d10+11900 1d100+900 6d10+44 wrath
+-42 -42 -42 -40
+AFHJMVX ABL 0 0
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#23001
+Giant Cobra~
+A Giant Cobra~
+A Giant Cobra is here.
+~
+This giant snake is about 15 feet in length and sits
+beside Snake-Man.  It seems to be guarding him, and
+its beady eyes stare at you.  One wrong move, and 
+you're snake food.
+~
+snake~
+ABCGU 0 0 0
+0 
+45 2 25d10+3000 1d10+100 8d4+16 poison
+-15 -15 -15 -12
+DFH BL 0 0
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#23002
+Ishtar goddess~
+Ishtar~
+Ishtar, the Goddess of Love and War is here.
+~
+Before you stands a lovely woman of human appearance.
+She has large green eyes and dark flowing hair.  She
+wears a headdress upon her head.  She seems to be
+enjoying the beauty of the garden.
+~
+human~
+ABGR H 0 0 
+0 
+60 5 50d10+7500 1d10+700 8d6+28 pound
+-30 -30 -30 -28
+ACEF AB 0 0
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#23003
+Enchanted Lion~
+An Enchanted Lion~
+An Enchanted Lion is sleeping here.
+~
+This large feline is one of 7 enchanted lions that
+pull Ishtar's flying chariot.  Lucky for you he
+is asleep.
+~
+lion~
+ABCFGU R 0 0
+0 
+45 2 25d10+3000 1d10+100 8d4+16 claw
+-15 -15 -15 -12
+DFI B 0 0
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#23004
+Brigit Goddess~
+Brigit~
+Brigit, the Goddess of Fire and Poetry is here.
+~
+Before you stands a tall woman with flame-colored hair.
+She wears armor that surrounds her with tongues of flame.
+~
+human~
+ABGR I 0 0
+0 
+80 5 50d10+11900 1d10+900 6d10+44 flame
+-42 -42 -42 -40
+AFIK B HI 0
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#23005
+Huitzilopochtli God~
+Huitzilopochtli~
+Huitzilopochtli is here, watching a duel of his finest warriors.
+~
+Before you sits a man of enormous presence.  He wears
+blue jade armor, and carries a bright red axe.  He studies
+the fighters abilities, constantly judging their skills.
+~
+human~
+ABGT H 0 0 
+0 
+70 5 50d10+10900 1d10+100 10d5+37 charge
+-42 -42 -42 -40
+ACDEK B 0 0
+sit sit male 7000
+AHMV ABCDEFGHIJK L 0
+#23006
+Warrior~
+A Warrior~
+One of Huitzilopochtli's finest warriors is here.
+~
+This warrior is well built and outfitted in plate armor
+and carrying a shield with the symbol of a lion upon it.
+~
+human~
+ABFGT 0 -200 0
+0 
+45 1 25d10+3000 1d10+100 8d4+16 slice
+-15 -15 -15 -13
+DEFK 0 0 0
+stand stand male 4500
+AHMV ABCDEFGHIJK M 0
+#23007
+Agni God~
+Agni~
+Agni, God of Fire and Lightning is enjoying the scenery here.
+~
+This human male has 3 legs, 7 arms, and 3 heads.  He is 
+completely red.  In his hand is an axe of flame.  He has
+a loose fitting pair of pants, and a sash over one arm.
+~
+human~
+ABGR 0 -500 0
+0 
+75 5 50d100+11400 1d10+850 9d6+41 flaming
+-39 -39 -39 -37
+ABCDEF ABH 0 I
+stand stand male 7500
+AHMV ABCDEFGHIJK L 0
+#23008
+Hecate Goddess~
+Hecate~
+Hecate, the Goddess of Magic is here.
+~
+Hecate is a beautiful woman.  She is about 5'5 with very
+long blond hair.  She has eyes of amber, and her trusted
+hellhounds for her servants.  She seems to have been
+gazing into an orb, however now she stares at you.
+~
+human~
+ACGR 0 -750 0
+0 
+75 5 50d10+11400 1d10+850 9d6+41 energy
+-39 -39 -39 -38
+DEH B C 0
+stand stand female 7500
+AHMV ABCDEFGHIJK L 0
+#23009
+Hell Hound~
+A Hell Hound~
+One of Hecate's nine Hell Hounds is here.
+~
+This dog-like creature has rusty reddish fur.  Its
+eyes are glowing red.  It's teeth and tongue are 
+sooty black.  Its natural defense is its firey breath.
+~
+hell hound~
+ACU 0 0 0
+0 
+50 2 50d10+4500 1d10+550 5d8+19 flaming 
+-20 -20 -20 -18
+FH H 0 I
+stand stand either 5000
+ABGV ACDEFJKQV L 0 
+#23010
+Isis Goddess~
+Isis~
+Isis, the Goddess of Magic and Fertility is here.
+~
+This beautifully perportioned human female wears
+clothes that leave practically nothing to the
+imagination.  Her hair is long and dark and her
+eyes midnight blue.  She was reclining here upon
+some soft pillows, however you have her full 
+attention, now.
+~
+human~
+ABGR 0 750 0
+0 
+60 5 50d10+9500 1d10+700 8d6+28 crush
+-30 -30 -30 -29
+AEK A 0 0 
+stand stand female 6000
+AHMV ABCDEFGHIJK M 0
+#23011
+Raiden God~
+Raiden~
+Raiden, the God of Thunder is here.
+~
+Raiden has dark, roughened, scaled skin, with hands
+that end in talons.  He has a beard, pointed eyebrows
+and ears, heavily muscled arms and legs, and a large
+round belly.  He wields a jet black mace.
+~
+human~
+ACGT 0 0 0
+0 
+80 5 50 10+11900 1d10+100 6d10+44 shock
+-42 -42 -42 -40
+CFHIK AJ 0 0
+stand stand male 8000
+AHMV ABCDEFGHIJKU M 0
+#23012
+Kos God~
+Kos~
+Kos, God of Dooms is here.
+~
+Before you sits a norther barbarian.  He is dressed
+in furs of ancient monsters from the world's past.
+He wields an Intelligent Broadsword.
+~
+human~
+ABGT H 100 0
+0 
+63 8 50d10+10200 1d10+100 10d5+30 smash
+-33 -33 -33 -32
+ACDGJ B I 0
+rest rest male 6300
+AHMV ABCDEFGHIJK M 0
+#23013
+Lei Kung God Duke~
+Lei Kung~
+Lei Kung, the Duke of Thunder is here.
+~
+You can barely see him in the darkness, but from what
+you can make out, he seems to have smoking black skin
+with pupils like lightning bolts.  He has a huge nose 
+with 2 large tusks.  He has red spotted wings.  He has
+an air of electricity about him.
+~
+human~
+ACGT H -700 0
+0 
+70 5 50d10+10900 1d10+100 10d5+37 shock
+-36 -36 -36 -34
+ACDK AJ 0 0
+stand stand male 7000
+AHMV ABCDEFGHIJKPY M 0
+#23014
+Ukko God~
+Ukko~
+Ukko, Supreme God of the Kalevala is here.
+~
+Before you stands an old wizened man.  He is dressed
+in long robes, and is human in apprearance.  He has
+a long beard and gray hair.  He has a flaming sword
+in his hand though, and you are sure he nose just how
+to use it.
+~
+human~
+ABGR H 900 0
+0 
+70 5 50d10+10900 1d10+800 10d5+37 shock
+-36 -36 -36 -35
+ACDF BJ 0 0
+stand stand male 7000
+AHMV ABCDEFGHIJK M 0
+#23015
+Air Maiden Ukko's Warrior~
+Air Maiden~
+An Air Maiden spots you and attacks.
+~
+She is human in appearance save for having wings.
+She is garbed in flowing robes, and is glowing with 
+a brilliant light.  She carries a Frost Brand Sword
+as her weapon.
+~
+human~
+ACFGHT 0 900 0
+0 
+55 3 50d10+6000 1d10+100 6d7+21 chill
+-23 -23 -23 -20
+CDEK I 0 0
+stand stand female 5500
+AHMV ABCDEFGHIJKP M 0
+#23016
+Corellon Larethian God~
+Corellon Larethian~
+Corellon Larethian is here.
+~
+Before you stands an elf ranger.  It is hard to tell
+the sex, but you believe it to be a male.  He wears
+a tunic and breeches and high leather boots with a fur
+trim at the top.  He carries a bow and a quiver full
+of arrows, and seems to be practicing his archery
+skills at the moment.  From the looks of the target,
+he hardly needs the practice.
+~
+elf~
+ABT 0 900 0
+0 
+60 5 50d10+9500 1d10+100 8d6+28 pierce
+-30 -30 -30 -28
+EFHJ 0 0 0
+stand stand male 6000
+AHMV ABCDEFGHIFJ M 0
+#23017
+Lloth Goddess~
+Lloth~
+Lloth, the Demon Queen of Spiders is here.
+~
+Before you is a drow female.  You can feel the power
+emanating from here, and you know her to be showing
+you her drow form, for this is none other than the
+Spider Queen herself, Lloth.  She watches 2 young
+drow priestesses sacrifice a male upon a marble 
+altar, and is quite pleased with their sacrifice.
+You however she is not happy to see.  She glares at
+you and the 2 priestesses attack.
+~
+drow~
+ABCGR 0 -1000 0
+0 
+75 5 50d10+10900 1d10+850 9d6+41 slash
+-36 -36 -36 -34
+ADH B DIJ N
+stand stand female 7500
+AHMV ABCDEFGHIJK M 0
+#23018
+Drow Priestess~
+A Drow Priestess~
+A drow priestess of Lloth spots you and attacks.
+~
+This woman is of elvish decent, however she is a
+drow, or evil elf.  She worships the Spider Queen,
+Lloth, and has just finished sacrificing a male
+drow to the Goddess.  She is very irritated at your
+presence and attacks you on sight.
+~
+drow~
+ABFQ 0 -1000 0
+0 
+46 2 25d10+3250 1d10+500 6d6+16 negative
+-16 -16 -16 -14
+EFHRJ 0 0 0
+stand stand female 4600
+AHMV ABCDEFGHIJK M 0
+#23019
+Freya Goddess~
+Freya~
+Freya, Goddess of Love and Fertility is here.
+~
+This woman is tall, at 6 feet and has red hair and
+striking green eyes.  She wears a beautiful golden
+necklace called Brisingamen.  She also has a cloak
+of falcon feathers, a short fur top, and a flowing
+skirt.  She wears high topped boots which also are
+lined in fur.
+~
+human~
+ABCQ 0 800 0
+0 
+80 5 50d10+11900 1d10+900 6f10+44 chill
+-42 -42 -42 -40
+ADEF ABH 0 0
+stand stand female 8000
+AHMV ABCDEFGHIJK M 0
+#23020
+Enlil God~
+Enlil~
+Enlil, God of Air and War is here.
+~
+This man is quite tall, 6 foot 6, with a heavy dark
+beard and curly hair.  He wears a helmet of silver,
+and a tunic and breeches.  He wields an axe.
+~
+human~
+AGT 0 600 0
+0 
+65 5 50d10+10400 1d10+100 10d5+32 cleave
+-34 -34 -34 -32
+CEIK 0 0 0
+stand stand male 6500
+AHMV ABCDEFGHIJK M 0
+#0
+#OBJECTS
+#23000
+Statue Ryys~
+A Statue of the Goddess Ryys~
+A statue of the Goddess Ryys is here.~
+marble~
+trash G 0
+0 0 0 0 0
+0 150 1000 P
+#23001
+Altar~
+A Crumbling Altar~
+A crumbling altar is here.~
+marble~
+trash 0 0
+0 0 0 0 0
+0 1000 1000 P
+#23002
+Cot~
+A Decaying Cot~
+A decaying cot is here in the corner of the room~
+straw~
+trash 0 0 
+0 0 0 0 0
+0 100 1000 P
+#23003
+Golden Pendant~
+A Golden Snake Pendant~
+A golden snake pendant is here.~
+gold~
+armor AK AC
+15 18 17 15 0
+70 10 5000 P
+A
+24 -10
+A
+12 75
+F
+I 0 0 L
+#23004
+Headdress of Love and War~
+Headdress of Love and War~
+A gold headdress lies here.~
+gold~
+armor AG AE
+15 14 18 15 0
+55 10 5000 P
+A
+12 50
+A
+13 95
+A
+18 -2
+#23005
+Marble Bench~
+A Marble Bench~
+A marble bench invites you to relax and enjoy the gardens.~
+marble~
+trash 0 0
+0 0 0 0 0
+0 100 1000 P
+#23006
+Flame Armor~
+Flame Armor~
+A suit of armor covered in flames is here.~
+steel~
+armor ABGK AD
+20 20 19 18 0
+70 50 5000 P
+A
+23 -10
+A
+2 5
+A
+18 3
+F
+I 0 0 H
+#23007
+Battle Axe~
+A Battle Axe~
+A bright red battle axe is lying here.~
+steel~
+weapon AHQ AN
+axe 9 9 cleave 0
+65 50 10000 P
+A
+18 5
+A
+19 4
+A
+2 -1
+#23008
+Jade Blue Armor~
+Jade Blue Armor~
+Some shiny armor of jade blue is here.~
+steel~
+armor ABGK AD
+22 18 20 17 0
+65 50 5000 P
+A
+18 5
+A
+19 5
+A
+13 50
+#23009
+Plate Armor~
+Plate Armor~
+A suit of plate armor lies here.~
+steel~
+armor B AD
+20 19 20 19 0
+40 45 2500 P
+A
+18 3
+A
+19 2
+#23010
+Golden Lion Shield~
+A Golden Lion Shield~
+A shield with the symbol of a lion on it lies here.~
+gold~
+armor AHI AJ
+15 18 19 14 0
+40 22 1000 P
+A
+13 30
+A
+24 -5
+#23011
+Axe of Flame~
+An Axe of Flame~
+An axe of flame burns here.~
+steel~
+weapon AB AN
+axe 11 8 'flaming bite' A
+65 40 2000 P
+A
+18 3
+A
+19 4
+A
+24 -5
+#23012
+Setting Moon Bracelet~
+Setting Moon Bracelet~
+A bracelet with the symbol of a setting moon on it lies here.~
+gold~
+armor ABJL AM
+15 14 16 13 0
+65 10 2000 P
+A
+12 100
+A
+18 2
+F
+A 0 0 V
+#23013
+Onyx Ring~
+An Onyx Ring~
+A ring made of onyx is here.~
+onyx~
+armor GHKL AB
+12 15 18 12 0
+60 2 1500 P
+A
+13 75
+A
+24 -5
+#23014
+Jet Black Mace~
+A Jet Black Mace~
+A jet black mace lies here.~
+steel~
+weapon BG AN
+mace 10 9 shock G
+65 35 3000 P
+A
+18 5
+A
+19 4
+#23015
+Black Splint Mail~
+Black Splint Mail~
+A suit of black splint mail is here.~
+steel~
+armor AIG AD
+15 14 13 14 0
+65 50 2000 P
+A
+18 3
+A
+19 5
+#23016
+Broadsword of Intelligence~
+Broadsword of Intelligence~
+A Broadsword of Intelligence is here.~
+steel~
+weapon ABGI AN
+1 9 9 18 0
+65 45 2000 P
+A
+3 6
+A
+18 5
+#23017
+Dancing Lightning Sword~
+Dancing Lightning Sword~
+A dancing lightning sword is here.~
+steel~
+weapon ABEJL AN
+sword 7 11 'shocking bite' G
+65 45 2000 P
+A
+1 -1
+A
+18 5
+A
+19 3
+#23018
+Flaming Sword~
+Flaming Sword~
+A sword surrounded in flame is here.~
+steel~
+weapon AB AN
+sword 11 7 'flaming bite' A
+65 40 2000 P
+A
+18 5
+A
+19 3
+#23019
+Frost Brand Sword~
+Frost Brand Sword~
+A sword of icey cold lies here.~
+steel~
+weapon GK AN
+sword 10 7 'freezing bite' B
+50 30 1500 P
+A
+12 50
+A
+18 2
+#23020
+Corellon's Magic Bow~
+Corellon's Magic Bow~
+A magical bow lies humming here.~
+wood~
+weapon BGK AN
+exotic 11 7 pierce 0
+55 35 2000 G
+A
+18 6
+A
+19 3
+#23021
+Web of Protection~
+Web of Protection~
+A woven web of protection lies here.~
+silk~
+armor AEFJLH AK
+20 20 22 18 0
+65 10 2000 P
+A
+24 -10
+A
+12 75
+F
+A 0 0 P
+#23022
+Blood Stained Altar~
+A Blood Stained Altar~
+An altar stained with blood is here.~
+marble~
+trash E 0
+0 0 0 0 0
+0 500 1000 P
+#23023
+Necklace Brisingamen~
+Brisingamen~
+A golden necklace named "Brisingamen" is here.~
+gold~
+armor AK AC
+22 25 20 18 0
+65 15 3000 P
+A
+12 100
+A
+13 -50
+A
+2 2
+#23024
+Orb~
+An Orb~
+An orb is here on the table, glowing with magic.~
+glass~
+trash AG 0
+0 0 0 0 0
+0 15 1000 P
+#23025
+Stone Axe~
+A Stone Axe~
+An axe made of stone is here.~
+stone~
+weapon FG AN
+axe 8 9 slice 0
+60 30 1500 P
+A
+18 5
+A
+19 3
+#0
+#RESETS
+M 0 23000 1 23004 1
+E 1 23003 5 3
+M 0 23001 2 23004 2
+M 0 23001 2 23004 2
+M 0 23002 1 23006 1
+E 1 23004 5 6
+O 1 23000 1 23003 
+O 1 23001 1 23001
+O 1 23002 1 23007
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23003 7 23005 7
+M 0 23004 1 23009 7
+O 1 23005 1 23006
+E 1 23006 5 5        
+M 0 23005 1 23020 1
+E 1 23007 5 16
+E 1 23008 5 5
+M 0 23006 2 23020 2
+E 1 23009 5 5
+E 1 23010 5 11
+M 0 23006 2 23020 2
+E 1 23009 5 5
+E 1 23010 5 11
+M 0 23007  1 23012 1
+E 1 23011 5 16
+M 0 23008 1 23023 1
+E 1 23012 5 14
+O 1 23024 1 23023
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23009 9 23032 9
+M 0 23010 1 23024 1
+E 1 23013 5 1
+M 0 23011 1 23026 1
+E 1 23014 5 16
+E 1 23015 5 5
+M 0 23012 1 23029 1
+E 1 23016 5 16
+M 0 23013 1 23027 1
+E 1 23017 5 16
+M 0 23014 1 23038 1
+E 1 23018 5 16
+M 0 23015 2 23038 1
+E 1 23019 5 16
+M 0 23015 2 23038 1
+E 1 23019 5 16
+M 0 23016 1 23036 1
+E 1 23020 1 16
+M 0 23017 1 23035 1
+E 1 23021 5 12
+O 1 23022 1 23035
+M 0 23018 2 23035 2
+M 0 23018 2 23035 2
+M 0 23019 1 23033 1
+E 1 23023 5 3
+M 0 23020 1 23030 1
+E 1 23025 -1 16
+
+S
+#SPECIALS
+M 23000 spec_cast_mage
+M 23002 spec_cast_mage
+M 23004 spec_cast_mage
+M 23007 spec_cast_mage
+M 23008 spec_cast_mage
+M 23009 spec_breath_fire
+M 23010 spec_cast_mage
+M 23014 spec_cast_mage
+M 23017 spec_cast_mage
+M 23018 spec_cast_cleric
+M 23019 spec_cast_cleric
+
+S
+#$

@@ -1,0 +1,5 @@
+tigger.cc.wmich.edu  161 DF
+coin.missouri.edu    161 DF
+.compusmart.ab.ca    160 BDF
+207.102.72           160 ADF
+207.102.72.          160 ADF

@@ -1,0 +1,3005 @@
+#AREADATA
+Name        [52   91] Bell's Toll~
+Builders    Belana~
+VNUMs       2700 2799
+Security    1
+End
+
+
+
+#MOBILES
+#2700
+lord mardagon zombie master~
+the Zombie Master~
+Lord Mardagon, the Zombie master glares about and mumbles incoherently.
+~
+This eccentric individual seems to look right through you as he mumbles
+gibberish to himself.  He seems as mindless as the zombies that are under
+his power.  However, his white hair, and bright eyes, belie any ideas of
+senility.  This man is as dangerous as any creature you have encountered.  
+~
+human~
+ABCOR HX -200 0 
+0 90 0 12d455+2310 90d10+100 5d18+45 0
+-4 -4 -4 -1
+DFN P 0 HN
+standing standing male 7008
+AHIMV ABCDEFGHIJK M unknown
+#2701
+Gatekeeper~
+the Gatekeeper~
+The Gatekeeper to Bell's Toll guards against intruders.
+~
+He is garbed in a long black shroud disguising any features from view. 
+As he towers over you, you realize he will play no favorites with those that
+cross him.  The Gatekeeper gazes over your head to the silent forest around
+you.  
+~
+giant~
+ABRT HWc 0 0 
+0 81 0 12d369+1960 81d10+100 5d16+40 0
+-4 -4 -4 -1
+EFKN A BHI EJP
+standing standing male 7000
+AHMV ABCDEFGHIJK L unknown
+#2702
+vampire~
+a vampire~
+A vampire lurks about looking hungry.
+~
+This pale creature is well-dressed in a dark suit remeniscent of the 18th
+century.  Against the black of the jacket, the skin appears very pale and
+sickly.  The tiny points on this individual's eyeteeth, and the hunger in
+it's eyes as it looks at you, alert you to it's nature.  
+~
+vampire~
+ACHO JVc -40 0 
+0 71 0 11d309+1595 71d10+100 5d14+35 0
+-3 -3 -3 -1
+BDK P BPQ JNZ
+standing standing either 5000
+ABHIMV ABCDEFGHIJKV M unknown
+#2703
+corpse zombie~
+a zombie~
+A walking corpse dressed in tattered clothing drools on itself here.
+~
+This creature, when alive, once was a magnificent specimen of a human. 
+Raised from the dead by the macabre science of Lord Mardagon, the zombie
+master, the individual standing before you is a miracle (or freak) of
+nature.  The zombie is dressed in the tattered remains of its clothing, and
+the stench emanating from them is almost unbearable.  With disjointed
+mumbling, and copious drooling, it seems that the intellectual capabilities
+of the individual were not regenerated along with the body.  
+~
+human~
+AGHO X -100 0 
+0 61 0 11d228+1255 61d10+100 5d12+30 0
+-2 -2 -2 0
+U P 0 FHKN
+standing standing male 500
+ABHIMV ABCDEFGHIJK M unknown
+#2704
+pale spirit ghost~
+a pale spirit~
+A pale, transluscent spirit haunts the cemetery here.
+~
+This lost soul haunts the graveyard.  It seeks to right the wrong done to
+it when the corpse was taken from hallowed ground and experimented upon by
+the mad zombie master.  
+ 
+~
+human~
+AOQRW JNTUV 50 0 
+0 65 0 11d251+1390 65d10+100 5d13+32 0
+-3 -3 -3 -1
+FGK IQ 0 0
+standing standing female 200
+ACHKMV ABCDEFGHIJK S unknown
+#2705
+baby infant zombie~
+a baby zombie~
+A baby zombie cries for its mother here.
+~
+This creature was once a human baby before Lord Mardagon experimented
+with it, reanimating the dead flesh.  The child still wears ancient diapers,
+badly in need of changing.  
+~
+human~
+AHO Y -200 0 
+0 50 0 10d169+920 50d10+100 5d10+25 0
+-2 -2 -2 0
+CEFN Q I FH
+standing standing male 500
+ABHIMV ABCDEFGHIJK M unknown
+#2706
+tiny spider~
+a tiny spider~
+The itsy-bitsy spider crawls up the waterspout.
+~
+This spider is extremely small, yet very dangerous.  You can imagine
+thousands of these insects crawling over your body.  It is clinging
+tenaciously to an almost concealed waterspout near the ceiling.  
+~
+human~
+ACY DV -200 0 
+0 60 0 11d221+1225 60d10+100 5d12+30 0
+0 0 0 0
+BEHK 0 0 F
+standing standing female 100
+AHMPV ABCDEFGHIJK S unknown
+#2707
+giant zombie~
+the zombie giant~
+The largest zombie in the world grumbles angrily here.
+~
+This creature was perhaps Lord Mardagon's biggest mistake.  A giant's
+temperment does not lend itself to being experimented on.  Angry in life,
+this gigantic eyesore has become angrier still in death.  It would be best
+to avoid this particular zombie at all costs.  
+~
+giant~
+ABFOT Fac -500 0 
+0 70 0 11d300+1560 70d10+100 5d14+35 0
+-3 -3 -3 -1
+CDEFIKOR E HI JP
+standing standing male 2000
+ABHIMV ABCDEFGHIJK G unknown
+#2708
+ancient old zombie~
+the ancient zombie~
+An ancient zombie is falling apart here.
+~
+One of the zombie master's first creations, this zombie is on it's last
+legs.  Time has caught up to the corpse, rotting and destroying it. Bits''s
+of flesh, an arm, a toe, fall to the ground at your feet.  
+~
+human~
+ABOR KOX -500 0 
+0 80 0 12d360+1960 80d10+100 5d16+40 0
+-4 -4 -4 -1
+CKU P B GZ
+standing standing male 300
+ABCHIMV ABCDEFGHIJK M unknown
+#2709
+zombie dog wolf~
+a zombie dog~
+The walking corpse of a wolfhound growls at you.
+~
+It seems that the experiments of the zombie master extended as far as the
+family pet.  The collar about this dogs throat reads 'G'nor'.  It looks
+fierce and wild in death where it was once gentle and loyal in life.  
+~
+dog~
+ACOW J 0 0 
+0 54 0 11d179+1040 54d10+100 5d11+27 0
+-2 -2 -2 0
+HK Q N H
+standing standing none 1000
+AGV ACDEFHJKUV M unknown
+#2710
+zombie cat tabby~
+a zombie cat~
+The walking corpse of a grey tabby hisses at you.
+~
+It seems that the experiments of the Zombie master have extended as far
+as the family pet.  The collar about this cats neck reads 'Plucky'.  
+~
+cat~
+ACOW JWZ 0 0 
+0 55 0 11d186+1070 55d10+100 5d11+27 0
+-2 -2 -2 0
+FH R N X
+standing standing none 1000
+AGV ACDEFHJKQUV M unknown
+#2711
+caretaker~
+the Caretaker~
+The cemetary caretaker is digging a grave here.
+~
+The organized and peaceful nature of this graveyard is exemplified by
+this woman.  She calmly goes about her task of laying to rest those who have
+passed on, while silently outraged at the evil dealings of the zombie master
+and his minions.  
+~
+human~
+ACT NW 100 0 
+0 59 0 11d214+1195 59d10+100 5d12+29 0
+-2 -2 -2 0
+CEN M 0 G
+standing standing female 5000
+AHMV ABCDEFGHIJK M unknown
+#2712
+castle guard vampire ~
+a castleguard~
+A dark soldier watches you suspiciously.
+~
+A pair of piercing black eyes closely track your every move.  This
+soldier's features are completely obscured by her black armor.  A golden
+signet adorns her breastplate.  The crest shows a black eagle in flight
+clutching the hilt of a black sword in his talons, and a red rose in his
+beak.  
+~
+vampire~
+ABGOT JKOTVc -200 0 
+0 66 0 11d267+1425 66d10+100 5d13+33 0
+-3 -3 -3 -1
+EFHNU BP BHILQ JNRZ
+standing standing female 500
+AHMV ABCDEFGHIJK M unknown
+#2713
+court jester fool~
+the Court Jester~
+A brightly dressed fool juggles several small objects here.
+~
+In a whirl of cartwheels and flips, this brightly clothed creature
+attempts to amuse visitors to the castle.  His red and blue striped cap
+tinkles as he moves, and the sequined mask obscures his features.  His legs
+are covered with a pair of rainbow coloured tights, and floppy shoes.  
+~
+vampire~
+AOS AJTVc 0 0 
+0 60 0 11d221+1225 60d10+100 5d12+30 0
+-2 -2 -2 0
+BFGI P BQ HN
+standing standing male 6150
+AHMV ABCDEFGHIJK M unknown
+#2714
+queen kavmora vampire~
+Queen Kavmora~
+The darkly beautiful vampire Queen arches a brow at you.
+~
+The ruler of all vampires in Bell's Toll fixes her unwavering dark gaze
+on you.  Her pale lips part in an eager grin as she runs a quick tongue over
+her sharp fangs.  With a toss of her raven tresses, she beckons you to her
+with a crooked finger.  
+~
+vampire~
+ABFOR DJKTVc -200 0 
+0 92 0 12d475+2395 92d10+100 5d18+46 0
+-4 -4 -4 -1
+DEN KP BIQ HN
+standing standing female 0
+AHMV ABCDEFGHIJK M unknown
+#2715
+partygoer vampire party~
+a partygoer~
+This pale-skinned vampire is enjoying a slow waltz.
+~
+Dressed to the hilt, this partygoer is enjoying the festivities hosted by
+the queen.  She glides silently across the floor in boneless grace, her feet
+seemingly not touching the floor.  Her delicate gown and tiny dancing
+slippers look brand new; probably made solely for this occasion.  
+~
+vampire~
+AHOQ EJKTVc -100 0 
+0 56 0 11d192+1100 56d10+100 5d11+28 0
+-2 -2 -2 0
+JKU P BQ HN
+standing standing female 0
+AHMV ABCDEFGHIJK M unknown
+#2716
+vampire hunter man~
+a vampire hunter~
+A vampire hunter silently searches out his prey.
+~
+Sneaking about the castle grounds, the vampire hunter seeks to eradicate
+the evil of the blooddrinker.  This hunter is completely covered with dark
+clothing in an attempt to blend into the shadows.  
+~
+werewolf~
+ACQ CPQVd 150 0 
+0 67 0 11d275+1455 67d10+100 5d14+33 0
+-3 -3 -3 -1
+JR P BQ NY
+standing standing male 200
+AHMV ABCDEFGHIJK M unknown
+#2717
+statue dracul~
+the Statue of Dracul~
+A statue as black as death stands here.
+~
+This silent figure is frozen in a nonchalant pose, hands clasped behind
+his back.  He is wearing a long black cloak which appears to have been
+frozen while flapping in a strong wind.  His face is intricately carved,
+showing high cheekbones, a hooked nose, and piercing eyes.  His mouth is
+curved into a sardonic grin revealing wickedly pointed fangs.  
+~
+vampire~
+ABGOT AHJNVc 500 0 
+0 85 0 12d406+2115 85d10+100 5d17+42 0
+-4 -4 -4 -1
+CEK P BQ N
+standing standing male 0
+AHMV ABCDEFGHIJK H unknown
+#2718
+statue~
+the Statue of Belana~
+The icy statue of Belana the Unholy is frozen here.
+~
+Belana is an unholy angel with unspeakable powers.  Her statue carved of
+pure white marble depicts the ice queen in all her glory.  The diaphanous
+gown she wears billows to her feet, and her arms are outstretched in
+supplication.  Her features are partially obscured by a fall of long hair. 
+Visible are a smooth alabaster cheek, and a delicately arched brow.  
+~
+vampire~
+ABGOQ HJPTVWc -500 0 
+0 75 0 11d345+1735 75d10+100 5d15+37 0
+-3 -3 -3 -1
+FK P BQ MN
+standing standing female 3000
+AHMV ABCDEFGHIJK M unknown
+#2719
+vampire infant~
+a vampire infant~
+A young vampire silently awaits its next feeding.
+~
+Pale white skin, a shock of black hair, and fathomless black eyes peer up
+at you from the crib.  This child appeears innocent enough, but it was born
+of vampire blood.  This infant craves the taste of human blood; and its
+next feeding is due very shortly.  
+~
+vampire~
+ABFHOS CJPVYc -50 0 
+0 52 0 10d183+980 52d10+100 5d10+26 0
+-2 -2 -2 0
+BCD P BQ N
+sitting standing none 105
+AHMV ABCDEFGHIJK S unknown
+#2720
+blood doll pale~
+a blood doll~
+A pale human shrinks away from you in fear.
+~
+This individual appears frightened of the slightest noise as it cowers in
+the corner. This is a blood doll, part of a herd of humans upon which the
+inhabitants of the castle slake their thirst for blood.  This is immediately
+evident by the scores of bite marks all over their bodies.  
+~
+human~
+ACH JXY 100 0 
+0 53 0 10d190+1010 53d10+100 5d11+26 0
+-2 -2 -2 0
+DIJ ILN 0 JP
+standing standing none 105
+AHMV ABCDEFGHIJK M unknown
+#2721
+guardian guard~
+the Queen's Guardian~
+A loyal guardsman stands here.
+~
+This hulking brute gazes at you from behind guarded eyes.  He appears
+made of stone and remains as unmoving as granite.  His sworn duty is to
+guard the queen from unwelcome intruders.  He can recognize those bent on
+harm to his Queen.  
+~
+vampire~
+ABOTY DFJVc -100 0 
+0 65 10 11d267+1425 65d10+100 5d13+33 0
+-3 -3 -3 -1
+EKOV C F 7 P BQ N
+standing standing male 650
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#2700
+obsidian ring~
+an obsidian ring~
+A ring made of black glass sparkles here.~
+unknown~
+armor CE AB
+10 10 10 8 0
+70 2 1000 P
+A
+5 2
+#2701
+skeletal gauntlets~
+the skeletal gauntlets~
+A pile of bones lies crumpled in a corner.~
+unknown~
+armor Y AI
+15 14 16 5 0
+63 5 506 P
+A
+19 3
+A
+3 -2
+#2702
+pelvic girdle~
+a pelvic girdle~
+A large white pelvic bone has been discarded here.~
+unknown~
+armor Y AL
+12 12 12 12 0
+61 6 500 P
+#2703
+shroud black~
+a black shroud~
+A pile of black cloth lies here absorbing the light.~
+unknown~
+armor G AK
+45 45 45 11 0
+81 10 4000 P
+A
+19 4
+A
+12 -20
+#2704
+sceptre staff undead~
+the Sceptre of the Undead~
+Carved of human bone, this magestic staff leans against the wall.~
+unknown~
+staff G AO
+97 15 9 'flesh armor' 0
+90 4 5000 P
+#2705
+blood red potion~
+blood-red potion~
+A vial of bright red liquid lies here.~
+unknown~
+potion 0 AO
+50 'haste' 'fly' '' ''
+50 10 3000 P
+A
+1 -1
+#2706
+sword nature curse~
+a Curse of Nature~
+An evil-looking sword has been tossed here.~
+unknown~
+weapon EJ AN
+sword 6 12 slash C
+69 13 4000 P
+E
+hilt~
+The hilt of this sword is covered in moss and mold.
+~
+E
+blade~
+The blade appears rusty and pock-marked.
+~
+#2707
+rib bone cage~
+a ribcage~
+A ribcage has just been unearthed here.~
+unknown~
+armor Y AD
+30 30 30 11 0
+60 16 302 P
+#2708
+socks moldy~
+a pair of moldy socks~
+A pair of rotted green wool socks lie here.~
+unknown~
+armor 0 AG
+25 25 25 20 0
+60 10 400 P
+A
+2 2
+A
+4 -1
+A
+19 -1
+#2709
+eye hate~
+the Eye of hate~
+A bloody eye glares up at you in hate!~
+unknown~
+light BEJ AO
+0 0 -1 0 0
+75 20 4000 P
+A
+3 2
+A
+12 -10
+#2710
+book dead egyptian~
+the Book of the Dead~
+A dusty leather-bound book is propped against the wall.~
+unknown~
+scroll CG AO
+70 'charm person' '' '' ''
+75 20 6004 P
+E
+book~
+This ancient tome is covered in dust and cobwebs.  It contains many
+secrets and tricks Lord mardagon has used throughout his experiments.  
+~
+#2711
+soulsdeath dagger~
+a dagger called SoulsDeath~
+A small dagger with a darkened blade has been dropped here.~
+unknown~
+weapon CE AN
+dagger 6 14 sting 0
+78 16 1000 P
+A
+2 2
+A
+19 2
+#2712
+jester cap~
+a jester's cap~
+The court jester has lost his cap here.~
+unknown~
+armor 0 AE
+20 20 20 14 0
+69 15 700 P
+#2713
+wand jupiter~
+the Wand of Jupiter~
+A rather large wand sparkles in the dust.~
+unknown~
+wand G AE
+62 11 11 'fly' 0
+62 4 400 P
+#2714
+jester mask~
+a jester's mask~
+Some fool is walking around without his mask.~
+unknown~
+armor 0 AC
+30 30 12 1 0
+64 20 1000 P
+#2715
+tights fool~
+a pair of fool's tights~
+These garish tights are piled in a bright heap on the ground.~
+unknown~
+armor G AF
+35 15 30 10 0
+67 15 500 P
+#2716
+crown twisted gold~
+the Twisted Crown~
+A golden crown has been twisted beyond recognition.~
+unknown~
+armor BE AE
+56 55 60 32 0
+95 25 1500 P
+#2717
+ballgown~
+a ballgown~
+A highwaisted blue taffeta ballgown looks perfect for the next ball.~
+unknown~
+armor 0 AK
+15 34 14 35 0
+61 9 1000 P
+#2718
+slippers dancing~
+a pair of dancing slippers~
+These dainty brocade slippers look perfect for dancing.~
+unknown~
+armor M AK
+20 20 20 10 0
+63 8 900 P
+A
+14 37
+#2719
+crucifix cross~
+a crucifix~
+A crude wooden cross has been forgotten here.~
+unknown~
+armor AIK AC
+27 27 27 21 0
+70 11 200 P
+A
+17 -5
+A
+4 -3
+#2720
+staff wood blood~
+a blood-tipped staff~
+A smooth oak staff leans against the wall, its tip covered in blood.~
+unknown~
+staff K AO
+68 10 10 'holy word' 0
+68 15 680 G
+#2721
+diaper~
+a dirty diaper~
+This diaper is long overdue for a changing.~
+unknown~
+armor BM AL
+15 15 15 9 0
+55 7 550 P
+A
+14 -19
+#2722
+gold torque~
+a golden torque~
+An elegantly simple gold torque has been dropped here.~
+unknown~
+armor A AC
+29 29 29 14 0
+74 9 800 P
+A
+18 3
+#2723
+dirty shovel~
+a dirty shovel~
+This shovel still has clods of earth stuck to it.~
+unknown~
+weapon 0 AN
+mace 6 12 crush 0
+62 19 620 P
+#2724
+holy water vial~
+a vial of holy water~
+A tiny glass bottle lies here.~
+unknown~
+armor 0 AO
+11 11 11 6 0
+57 5 570 P
+A
+12 50
+A
+19 3
+#2725
+string garlic~
+a string of garlic~
+A long string of garlic has been hung on a hook from the wall.~
+unknown~
+armor 0 AC
+21 18 25 2 0
+55 7 550 P
+A
+18 4
+#2726
+knotted rope~
+some knotted rope~
+A large pile of rope lies at your feet.~
+unknown~
+armor 0 AO
+30 30 30 30 0
+71 10 710 P
+#2727
+ragdoll doll~
+a ragdoll~
+An old beat-up dolly lies here collecting dust.~
+unknown~
+treasure H AO
+0 0 0 0 0
+30 6 3000 P
+#2728
+coffin black~
+a coffin~
+An elegant black marble coffin stands in a corner.~
+unknown~
+container N 0
+100 AC 0 0 0
+55 270 3000 P
+#2729
+cloak indifference~
+a Cloak of Indifference~
+A billowing white cloak lies here indifferently.~
+unknown~
+armor A AC
+80 80 80 36 0
+150 1 0 P
+#2730
+circlet ice~
+a Circlet of Ice~
+An icy ring has frozen to the ground here.~
+unknown~
+armor AB AB
+83 83 83 36 0
+150 0 0 P
+#2731
+candle wisdom~
+a Candle of Wisdom~
+A long tapered white candle is here.~
+unknown~
+light A AO
+0 0 -1 0 0
+150 1 0 P
+#2732
+ring contemplation~
+a Ring of Contemplation~
+A silver ring lies here contemplating life.~
+unknown~
+treasure A AB
+0 0 0 0 0
+150 1 0 P
+#2733
+necklace patience~
+a Necklace of Patience~
+An elegant silver necklace waits patiently for an owner.~
+unknown~
+armor AB AC
+80 80 80 36 0
+150 0 0 P
+#2734
+gown chastity~
+a Gown of Chastity~
+An austere silver gown chastely rests on the floor.~
+unknown~
+armor AB AD
+80 80 80 36 0
+150 0 0 P
+#2735
+boots desire~
+the Boots of Desire~
+A pair of dainty white boots desire an owner.~
+unknown~
+armor AB AG
+80 80 80 36 0
+150 0 0 P
+#2736
+veil sadness~
+a Veil of Sadness~
+A white veil lies crumpled sadly in the corner.~
+unknown~
+armor AB AE
+80 80 80 36 0
+150 0 0 P
+#2737
+belt chaos~
+the Belt of Chaos~
+A silver and white belt is causing chaos here.~
+unknown~
+armor AB AL
+80 80 80 36 0
+150 0 0 P
+#2738
+dagger immortality~
+a Dagger of Immortality~
+This dainty silver dagger is much favoured by the gods.~
+unknown~
+weapon AB AN
+exotic 6 25 wrath 0
+150 15 0 P
+A
+14 -25
+A
+19 10
+A
+18 10
+#2770
+hall key~
+the key to Belana's Library~
+The key to Belana's Library lies here.~
+unknown~
+room_key 0 A
+0 0 0 0 0
+0 0 0 P
+#2798
+Belana picture~
+belana's portrait~
+A small oval painting of Belana hangs on the wall here.~
+unknown~
+treasure T A
+0 0 0 0 0
+152 0 0 P
+E
+picture~
+This painting has captured Belana in a rare moment of happiness.  Her
+long golden tresses shimmer in the candlelight, and her eyes twinkle as she
+gifts the artist with a bright smile.  As befits her reputation as the Ice
+Queen, Belana is garbed in white and silver, complete with a delicate silver
+coronet taming her unruly hair.  To be in possession of such a portrait is a
+mark of favour granted to only her closest friends.  
+~
+#2799
+sign giggle~
+a sign~
+A NO GIGGLING SIGNS sign is here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 5000 P
+#0
+
+
+
+#ROOMS
+#2700
+Gateway to Bell's Toll~
+Before you towers an arching gateway.  The pillars seem to be composed of
+bone and the arch above the gates is lined with ancient skulls.  The eerie
+stillness of the forest pervades here, yet you have the feeling of being
+watched.  A sudden gust of wind from the west brings the stench of death,
+and to your east, the turrets of Castle Bloodbane rise to the sky.  Above
+the grinning skulls is a rotted wooden sign, proclaiming this the entrance
+to Bell's Toll.  You can enter Bell's Toll to the north, or leave this place
+to the south.  
+~
+0 0 2
+E
+gate~
+Just below one of the grinning white skulls, you can make out words
+scrawled hastily.  The rust colour indicates these words were inscribed in
+blood.  They read "Mardagon reigns supreme.  Time will tell."  .  
+~
+E
+sign~
+Welcome To Bell's Toll.  This castle and all its surroundings are the
+domain of Queen Kavmora.  Intruders are not welcome, and will be dealt with
+severely.  
+~
+D0
+The wind rises up, swirling aorund you as you peer northwards through the
+gate.  You can't make out much, but you do see a dark, forbidding forest
+straight ahead.  
+~
+gate~
+1 0 2701
+D4
+~
+~
+1 0 460
+M100 H100
+S
+#2701
+Inside the Gateway~
+Inside the gates the sky seems to darken and your footsteps become muted.
+Bell's Toll is a place of great evil, and this is characterized by the black
+stone at your feet and the dark grove of trees blocking your path to the
+north.  No light penetrates the leafless forest that seems to serve as a
+border between the castle proper to the east, and the extensive graveyard to
+the west.  
+~
+0 0 1
+E
+forest~
+Black and still, these trees form a lifeless tableaux in front of you. 
+However, you can make out dark outlines of a vaguely human shape lurking
+deep within.  
+~
+D1
+Looking east, you cannot help but notice Castle Bloodbane rising high
+into the sky.  This is the home of Queen Kavmora.  Once a beautiful human,
+her dark and bloody past has created the monster she has become.  
+~
+~
+0 0 2735
+D2
+~
+~
+1 0 2700
+D3
+The light dims and the wind dies suddenly as you turn your gaze westward.
+The cemetary lies in that direction.  Tales have sprung up around the land
+in recent years, tales of odd and frightening happenings in the Cemetary of
+Bell's Toll.  
+~
+~
+0 0 2702
+M100 H100
+S
+#2702
+Along the Black Path~
+The path at your feet appears to be composed of a dark stone which
+absorbs all surrounding light.  The scent of death intensifies as you move
+west towards the cemetary.  The forest blocking your way to the north forms a
+macabre tableaux lacking only the proper illumination.  The path continues
+both east and west.  
+~
+0 0 1
+E
+path~
+The stone that the path is made of is a seamless black granite.  All
+light that hits this stone seems to be absorbed, and stranger still, your
+footsteps are muted as you walk.  
+~
+D1
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2703
+M100 H100
+S
+#2703
+Along the Black Path~
+You follow the path marked by the black stone at your feet.  To your left
+you see the lifeless forest silently grieving for the sacrilege being
+committed on this once sacred ground.  To your north you notice a gate
+swinging silently on ancient hinges.  The sky seems to darken here as if
+this were some boundary into a world of evil.  The sky to your east lightens
+as if to form a beacon to safety.  
+~
+0 0 1
+D0
+Peering towards the gate to the cemetary, a quick waft of air passes you.
+Phew!  Not a pleasant scent.  The wooden gate creaks on rusty hinges.  
+~
+~
+0 0 2704
+D1
+~
+~
+0 0 2702
+M100 H100
+S
+#2704
+Cemetary Entrance~
+A wooden gate swings lazily on ancient hinges as you approach.  The road
+here becomes a trail marked in dirt and as your eyes become accustomed to
+the darkness, you notice a nearly invisible wooden fence demarking the
+cemetary boundaries.  A sign mounted on a wooden post warns travellers that
+this area and all it's inhabitants are under the protection of Lord
+Mardagon, the zombie master.  You can enter the cemetary grounds to the
+west.  
+~
+0 0 1
+E
+post~
+Scrawled in hasty letters across the bottom of the wooden post are the
+words: "Help us!"  .  
+~
+E
+sign~
+Beware bold adventurers!  Lord Mardagon is not lenient with those who
+have displeased him.  
+~
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2705
+M100 H100
+S
+#2705
+Cemetary Trail~
+The faint dirt path leads you past several fresh green grassy areas. 
+These seem to be the sites of future interrments.  Several have already been
+staked out and marked for recent arrivals.  A few plots have already had the
+graves dug, and the dirt is piled beside the holes, waiting for the imminant
+burial.  Beyond the green areas, the silent and dark forest hovers menacinly
+near, as if the small wooden fence is the sole barrier preventing the forest
+from overrunning the well-kept cemetary.  
+~
+0 0 1
+D1
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2706
+M100 H100
+S
+#2706
+Cemetary Trail~
+The faint dirt path leads you past several fresh green grassy areas. 
+These seem to be the sites of future interrments.  Several have already
+been staked out and marked for recent arrivals.  A few plots have already
+had the graves dug , and the dirt is piled beside the holes, waiting for the
+imminant burial.  Beyond the green areas, the silent and dark forest hovers
+menacingly near, as if the small wooden fence is the sole barrier preventing
+the forest from overrunning the well-kept cemetary.  
+
+~
+0 0 1
+D0
+You can see a hole that has just recently been dug.
+~
+~
+0 0 2707
+D1
+~
+~
+0 0 2705
+D3
+~
+~
+0 0 2708
+M100 H100
+S
+#2707
+A freshly dug grave~
+The trail ends here at an open grave.  The earth around the grave looks
+very fresh, as if it had been dug just before you arrived.  The smell of
+newly turned over rotten earth assails your sense of smell.  There are no
+mourners in sight, and no footsteps, save your own, mark the trail to or
+from this place.  As you stand near the open pit, a strong, sudden wind
+threatens to push you closer to the edge.  
+~
+0 0 0
+D2
+~
+~
+0 0 2706
+D5
+Looking down into the grave you cannot make out much besides the dirt
+walls, and the occasional worm.  
+~
+~
+0 0 2713
+M100 H100
+S
+#2708
+Cemetary Trail~
+The faint dirt path leads you past several fresh green grassy areas. 
+These seem to be the sites of future interrments.  Several have already been
+staked out and marked for recent arrivals.  A few plots have already had the
+graves dug, and the dirt is piled beside the holds, waiting for the imminant
+burial.  Beyond the green areas, the silent and dark forest hovers
+menacingly near, as if the small wooden fence is the sole barrier preventing
+the forest from overrunning the well-kept cemetary.  To the north you notice
+a stone edifice.  It is constructed of white limestone blocks which have
+deteriorated badly with time.  There is no door, merely an opening into which
+light does not penetrate.  The building itself appears as if it will
+collapse at any time.  
+~
+0 0 0
+D0
+~
+~
+0 0 2709
+D1
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2718
+M100 H100
+S
+#2709
+Entrance to a Crypt~
+Adjusting to the darkness, you notice the stone enclosure surrounding
+you.  Cracks and fissures have been worn into the rock face over time,
+contributing to the decrepit appearance of this tomb.  Remnants of statues
+and intricate carvings identify this crypt as belonging to a personage of
+some importance.  You make out a crest carved above the doorway to your
+north.  It depicts a single rose twined about the blade of a dark sword. 
+Beneath the image are carved the words "Nothing is trivial."  
+
+~
+0 8 0
+D0
+~
+~
+0 0 2710
+D2
+~
+~
+0 0 2708
+M100 H100
+S
+#2710
+Dank Passageway~
+The dark passage smells musty and moldy from years of dampness and
+neglect.  Mold covers the walls, blackening them, and the path at your feet
+is muddy and moss-ridden.  Through sizeable cracks in the ceiling and walls,
+water drips and flows causing the extreme dankness of the passage.  This
+passage leads north further into the crypt, or south to the cemetary trail. 
+~
+0 8 0
+D0
+~
+~
+0 0 2711
+D2
+~
+~
+0 0 2709
+M100 H100
+S
+#2711
+Dank Passageway~
+The dark passage smells musty and moldy from years of dampness and
+neglect.  Mold covers the walls, blackening them, and the path at your feet
+is muddy and moss-ridden.  Through sizeable cracks in the ceiling and walls,
+water drips and flows causing the extreme dankness of the passage.  This
+passage leads east further into the bowels of the crypt, or south towards
+the entrance .  
+~
+0 0 0
+D1
+~
+~
+0 0 2712
+D2
+~
+~
+0 0 2710
+M100 H100
+S
+#2712
+Entombed Nobleman~
+You are standing before a large stone sarcophagus.  Into the immense
+stone lid is carved an intricate crest.  Upon closer examination, you notice
+the crest is the same sword and rose design as the crest above the entrance
+to this crypt.  The walls, though they have deteriorated over time, still
+show remmnants of rich tapestries, and brightly coloured fabrics draped here
+and there.  The obvious wealth of the room indicates this tomb as being that
+of an ancient nobleman.  Perhaps this person once lived and ruled from
+Castle Bloodbane, the seat of power for Queen Kavmora.  Your torchlight
+flickers in the musty air as you survey your surroundings.  At your feet,
+rats slink about on missions unfathomable to a human eye.  
+~
+0 9 0
+D3
+~
+~
+0 0 2711
+D5
+~
+tomb~
+1 0 2715
+M100 H100
+S
+#2713
+Buried Alive~
+It is almost too dark here to see anything!  You can however, make out
+the high slick dirt walls of this grave.  High above you the faint light
+trickles down to cast a faint glow on your surroundings.  There are deep
+indentations in the walls around you, as if others before you have been
+trapped here and tried to escpe.  To your immediate east, the dirt wall
+seems different from the others.  
+~
+0 8200 1
+D1
+To your east lies a brightly lit stone cavern.  It appears to be only one
+room, and full of bones and piles of armor.  Something about the cavern
+makes you hesitate.  
+~
+~
+1 0 2714
+D4
+~
+~
+0 0 2707
+M100 H100
+S
+#2714
+Secret Lair~
+Piles of bones, armor, and assorted weapons litter the floor of this
+cavern-like room.  Deep scratches and stains of blood mar the walls. 
+Obviously great battles have been won and lost in this little chamber.  The
+walls, floor, and ceiling are constructed of stone, causing your footsteps
+to echo wildly in such an enclosed space.  In fact, your head barely clears
+the ceiling.  Many a traveller has visited this lair, and most have never
+returned.  Will you show enough courage?  
+~
+0 9 0
+D3
+~
+~
+1 0 2713
+M100 H100
+S
+#2715
+Beneath the Tomb~
+You are standing in a large stone cavern, lit by flickering torches. 
+Scenes depicting great battles are painted in huge murals on the walls.  The
+western wall shows a scene from the Battle of R'gnoth, the great ancient
+conflict between the mages of Hark'oth, and the legions of undead commanded
+by Lord Mardagon's grandsire, Tenchk Kinstealer.  The northern and southern
+walls are depictions of the opposing armies from the Truthseeker Wars. 
+These wars began and ended the quest to find and rid the earth of Nosferatu.
+The east wall, marred by a gaping crack, remains blank, as if awaiting
+future conflicts to glorify.  
+~
+0 9 0
+D1
+~
+~
+0 0 2716
+D4
+~
+~
+1 0 2712
+M100 H100
+S
+#2716
+Secret Tunnel~
+As you feel your way down this tunnel, your hands encounter smooth rock,
+moss, and lichens moistened by the slow creep of water down the stone face
+of the rock.  You hear the skitter of rats, and the flutter of bat's wings
+passing near your head.  Underfoot, you hear and feel dozens of insects as
+you trample them by your passage.  The faint glow from the west and the
+south guide your way out of this darkness.  
+~
+0 9 0
+D2
+~
+entry~
+1 0 2717
+D3
+~
+~
+0 0 2715
+M100 H100
+S
+#2717
+Zombie Master's Quarters~
+Phew!  The first thing you notice about this room is the incredible
+stench.  The smell of rotting flesh and the overpowering scent of death
+threaten to remove your breakfast from your stomach.  The room resembles a
+mad-scientists laboratory with beakers and tubes scattered around on various
+tables.  Piles upon piles of corpses in various stages of decomposition line
+the walls, and you see more than your fair share of body parts, and bits of
+flesh.  The only exit is to the north.  
+~
+0 9 0
+D0
+~
+entry~
+1 0 2716
+M100 H100
+S
+#2718
+Cemetary Trail~
+The faint dirt path leads you past several fresh green grassy areas. 
+These seem to be the sites of future interrments.  Several have already been
+staked out and marked for recent arrivals.  A few plots have already had the
+graves dug, and the dirt is piled beside the holes, waiting for the imminent
+burials.  Beyond the green areas, the silent and dark forest hovers
+menacingly near, as if the small wooden fence is the sole barrier preventing
+the forest from overrunning the well-kept cemetary.  The path continues both
+east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 2708
+D3
+~
+~
+0 0 2719
+M100 H100
+S
+#2719
+An Unmarked Grave~
+The trail you follow passes by a large mound of earth.  It resembles a
+fresh grave, yet it remains unmarked; no tombstone, not even a simple cross
+stands to name the poor soul who lies buried here.  A small bunch of daisies
+lay here as an offering, perhaps as an attempt to apologize for the
+unaffordable luxury of a tombstone.  The trail continues past here both east
+and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2720
+D1
+~
+~
+0 0 2718
+M100 H100
+S
+#2720
+Among the Graves~
+As you wind your way among the rows and rows of graves, you notice the
+silence of the area.  Even the trees seem to be keeping the reverent
+silence, with still, serene branches.  Even the slight breeze does not
+disturb the leaves.  Your tread light and your heart heavy, you examine your
+surroundings.  To the east you notice an ancient tombstone, cracked and worn
+by the elements over time.  It's inscription reads 'Beloved in life; mourned
+by his passing T'worf Lhendor, BlackRavenHunter lies here, in peace at last.
+The grave to your west is marked with a slightly newer stone.  It reads
+'Brave, Loyal, Beautiful.  Keth of the House Lhendor: Her family mourns the
+loss of this proud member.  ' The stone is intricately carved with a bold
+black eagle soaring to the heavens.  The path through the graves continues
+both north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2719
+M100 H100
+S
+#2721
+Among the Graves~
+As you wind your way among the rows and rows of graves, you notice the
+silence of the area.  Even the trees seem to be keeping the reverent
+silence, with still, serene branches.  Even the slight breeze does not
+disturb the leaves.  Your tread light, and your heart heavy, you examine
+your surroundings.  To your east you see a simple white cross marking the
+grave there.  It reads only 'Nyneave'.  The western grave is marked by a
+grand statue standing well above your head.  It is a perfect likeness of
+Hassan, and is as awe-inspiring.  Perhaps the family of the deceased wanted
+protection from grave-robbers.  A small brass plaque at the base of the
+statue states that this is the resting place of Kavmora of the House of
+Lhendor.  The path winds it's way through the graves north and south from
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2720
+M100 H100
+S
+#2722
+Pauper's Pit~
+The path you follow brings you past a large pit at your left.  Glancing
+down into this hole, you see piles and piles of shroud covered bodies.  This
+is the Pauper's Pit, the communal grave for those who are unable to afford
+the price of a plot in this cemetary.  Several shovels and spades have been
+abandonned at the edge of the pit, and you notice that many of the bodies
+have been tampered with.  Limbs are missing, and the remains of the corpses
+are strewn about.  Obviously this is Lord Mardagon's source of bodies for
+his experiments.  The path leads you north and south past this horrible
+sight.  
+~
+0 0 0
+D0
+~
+~
+0 0 2723
+D2
+~
+~
+0 0 2721
+M100 H100
+S
+#2723
+Among the Graves~
+As you wind your way among the rows and rows of graves, you notice the
+silence of the area.  Even the trees seem to be keeping the reverent
+silence, with still, serene branches.  Even the slight breeze does not
+disturb the leaves.  Your tread light, and your heart heavy, you examine
+your surroundings.  To your left stands a decrepit and worn wooden
+gravestone at the head of the overgrown grave.  The marker is inscribed
+'Mother, sister, daughter, friend; Viedma Mardagon lies here, cut down
+before her prime.  May Ao watch over her.  ' The grave to your right has had
+the tombstone knocked over and broken into many pieces.  The path continues
+both north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2724
+D2
+~
+~
+0 0 2722
+M100 H100
+S
+#2724
+An Open Grave~
+Your wandering brings you past a grave that seems to have been dug up.  A
+discarded shovel, and footprints in the scattered earth from the grave
+implicates grave-robbers for the sacrilige of disturbing the final resting
+place of some poor soul.  It is too dark to see into the hole left by the
+exhumation.  The path carries you past the grave to the east and the south. 
+~
+0 0 0
+D1
+~
+~
+0 0 2726
+D2
+~
+~
+0 0 2723
+D5
+~
+~
+0 0 2725
+M100 H100
+S
+#2725
+Inside a Grave~
+The sides of the hole are soft, and slick with moist dirt.  You are,
+however, able to climbout easily enough.  In fact, your head almost clears
+the top of this shallow pit.  The walls and bottom of the grave are
+nondescript, and do not hold your attention for long.  Worms and other
+creepy-crawlies pass underfoot, and small clods of earth tumble down from
+the top of the hole.  
+~
+0 1 0
+D4
+~
+~
+0 0 2724
+M100 H100
+S
+#2726
+Among the Graves~
+As you wind your way among the rows and rows of graves, you notice the
+silence of the area.  Even the trees seem to be keeping the reverent
+silence, with still, serene branches.  Even the slight breeze does not
+disturb the leaves.  Your tread light, and your heart heavy, you examine
+your surroundings.  The grave to the east seems old, but remains unaffected
+by the passage of time.  The stone appears as clean and smooth as the day it
+was erected.  The grass is well-kept, and perfect beds of flowers surround
+the grave.  As you step forward to take a closer look at the inscription on
+the stone, you encounter a forcefield of magical nature barring the way. 
+All you can make out on the stone is 'Beware...  Kinstealer..  '.  To the
+west, the grassy area has not yet been disturbed , and remains undug.  The
+path passes through the graves east and west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 2727
+D3
+~
+~
+0 0 2724
+M100 H100
+S
+#2727
+A Tiny Tombstone~
+The path here passes by the smallest grave you have ever seen.  The small
+tombstone is inscribed: 'Beloved daughter Chiloe, taken from us before her
+time.  We pray to the gods to watch over our little princess.  ' There are
+several bouquets of flowers left here.  Some are old and withered, others
+are fresh and new.  The path continues east and west from here.  ' 
+~
+0 0 2
+D1
+~
+~
+0 0 2728
+D3
+~
+~
+0 0 2726
+M100 H100
+S
+#2728
+The Animal's Burial Ground~
+These graves seem smaller and perhaps made by children.  You stand in the
+midst of the section of the cemetery set aside for the graves of beloved
+family pets.  To your left you see a small wooden marker upon which the
+words 'Plucky was a good cat.  ' are written in a childish scrawl.  The
+grave to your right is a larger one.  The marker for this pet reads 'Bet'ck;
+loyal Griffon, cut down in battle.  He has joined his maker in the great
+unknown.  ' You can continue down the path to the east or the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 2729
+D3
+~
+~
+0 0 2727
+M100 H100
+S
+#2729
+The Animal's Burial Ground~
+The graves here seem to be smaller, and perhaps made by children.  You
+stand in the midst of the section of the cemetery set aside for the graves
+of beloved family pets.  To your right you notice several graves set side by
+side.  Obviously the family bought one plot for any and all pets of that
+family to be buried together.  Each tiny mound is marked by a simple wooden
+stake with the name of the animal written on it.  From right to left they
+read; 'Freth' 'Sneaky' 'Grimt' and 'G'nor'.  There are no graves to your
+left.  The path continues west and north from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 2730
+D3
+~
+~
+0 0 2728
+M100 H100
+S
+#2730
+The Petrified Forest~
+Here you enter the forest which the cemetery encircles.  No birds sing,
+no leaves rustle as you pass through this silent and dark forest.  The
+unearthly silence threatens to overwhelm you as you pass beneath the quiet
+canopy of branches.  The trees appear to be made of stone, and they gleam
+with an unnatural light.  You can continue through this forest to the east,
+or enter the cemetery again to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 2731
+D2
+~
+~
+0 0 2729
+M100 H100
+S
+#2731
+The Petrified Forest~
+Stone trees stand silent watch against intruders as you travel further
+into the forest.  Deep in the underbrush you can make out the unmoving
+silhouettes of the small forest dwellers.  It appears that whatever froze
+this forest caught all life and turned it all to stone.  You think you can
+make out the thatched roof of a house to the south east.  The path continues
+both east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 2732
+D3
+~
+~
+0 0 2730
+M100 H100
+S
+#2732
+The Petrified Forest~
+Stone trees stand silent watch against intruders as you travel further
+into the forest.  Deep in the underbrush you can make out the unmoving
+silhouettes of the small forest dwellers.  It appears that whatever froze
+this forest caught all life and turned it all to stone.  To the south stands
+a small cottage made entirely of stone.  It's door stands invitingly open. 
+The trail continues back to the west, and to the east, the forest blocks all
+traffic in that direction.  There is a huge pile of leaves on the ground at
+your feet.  How suspicious.  
+~
+0 0 0
+D2
+~
+~
+0 0 2733
+D3
+~
+~
+0 0 2731
+D5
+~
+pile~
+1 0 2734
+M100 H100
+S
+#2733
+A Stone Cottage~
+Despite its homey appearance, this house seems to have suffered the same
+fate as the forest outside.  The hearth lies dormant; no fire to warm the
+interior of this small room.  The furniture and an assortment of
+collectibles have also been petrified.  The white and grey of the stone give
+the one room house an almost sterile appearance, further enhanced by the
+complete absence of sound and smell.  You can exit this cottage to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2732
+M100 H100
+S
+#2734
+Darkened Cave~
+This cave, partially concealed by the pile of leaves at the entrance,
+seems to be some sort of secret passage, perhaps into the castle itself! 
+Lit by your feeble light source, you can make out fresh footprints,
+indicating that someone had passed through here not long before you. 
+Obviously this entrance is well-used by someone.  There is a small black
+grate on the eastern wall of this cave.  
+~
+0 1 0
+D1
+~
+grate~
+1 0 2745
+D4
+~
+~
+1 0 2732
+M100 H100
+S
+#2735
+Approaching Castle Bloodbane~
+As you follow the black stone path at your feet, the castle looms larger
+in your vision.  With its towering turrets and large courtyards surrounded
+by many feet of stone walls, it seems a formidable fortress.  The silent
+forest to your north blocks your passage in that direction, and it seems to
+be standing at attention; in awe of the presence of Castle Bloodbane.  The
+path continues east towards the castle, or west to the entrance to Bell's
+Toll.  
+~
+0 0 1
+D1
+~
+~
+0 0 2736
+D3
+~
+~
+0 0 2701
+M100 H100
+S
+#2736
+West Bank~
+This is the western bank of the moat surrounding Castle Bloodbane.  The
+moat is approximately ten feet wide, and is murky enough to obscure the
+bottom of the channel.  You can, however, make out slight ripples and swirls
+as something moves beneath the surface.  You may cross the moat by way of a
+narrow wooden bridge to your east.  
+~
+0 0 1
+D1
+~
+~
+0 0 2737
+D3
+~
+~
+0 0 2735
+M100 H100
+S
+#2737
+East Bank ~
+You stand on the eastern bank of the murky moat.  To your north you are
+dwarfed by the immense stone archway marking the entrance to Castle
+Bloodbane.  High above, guardsmen keep constant vigil, warning visitors to
+this keep of the protective surveilance.  A single banner adorns the entry;
+the banner of Queen Kavmora.  On a golden background, the crest shows a
+majestic black eagle soaring to the heavens, clutching the hilt of a black
+sword in its talons, and a single red rose in its beak.  You may enter the
+castle to the north, or cross the moat to the west.  
+~
+0 0 1
+D0
+~
+~
+0 0 2738
+D3
+~
+~
+0 0 2736
+M100 H100
+S
+#2738
+Castle Entrance~
+As you enter the castle, you are immediately struck by the distinct lack
+of natural light.  Torches line the walls, providing a bright orange aura
+around all the objects in the hall.  The grey stone walls are bleak and
+bare, devoid of any covering.  Any dust of sound seems to echo off the bare
+walls and return amplified tenfold.  Unseen eyes track your presence here,
+silently guarding against threat.  
+~
+0 8 0
+D0
+~
+~
+0 0 2740
+D1
+~
+~
+0 0 2739
+D2
+~
+~
+0 0 2737
+M100 H100
+S
+#2739
+Guardroom~
+In the centre of this stone room sits a long wooden table.  Chairs and
+rubbish are strewn about, and you see the remnants of the previous night's
+meal still on the table.  Considering the overpowering stench, and the
+maggot-infested food left around, this keep's guards are not the most
+hygenic, nor the most disciplined.  
+~
+0 8 0
+D3
+~
+~
+0 0 2738
+M100 H100
+S
+#2740
+Grand Hall~
+Your steps echo loudly as you walk into the centre of the courtyard. 
+Looking upwards, you are impressed by the height of the vaulted ceiling as
+it soars upwards.  Overlooking the courtyard are two floors, with arched
+openings in the stone.  There is a distinct lack of natural light in this
+enclosure, yet the whole building seems to glow with an unseen light source.
+Leading to the first floor is an immense white marble stairway polished to a
+high sheen.  Banners are draped from the first floor arches, creating an air
+of majesty and honour befitting the inhabitants of this castle.  
+~
+0 8 0
+D0
+~
+~
+0 0 2741
+D2
+~
+~
+0 0 2738
+D4
+~
+~
+0 0 2760
+M100 H100
+S
+#2741
+The Gallery~
+You pass through a narrow hall adjacent to the open courtyard to your
+east.  Lit by flickering torches, you see an ancient portrait rendered in
+dark oil colours.  The image is of a regal elderly woman with silver hair
+shining by candlelight.  She sits straight-backed on a golden throne, with a
+black wolfhound by her side.  As you pass this picture, the eyes seem to
+follow you in an eerie silence.  
+~
+0 8 0
+D0
+~
+~
+0 0 2742
+D2
+~
+~
+0 0 2740
+M100 H100
+S
+#2742
+The Gallery~
+You pass through a narrow hall adjacent to the open courtyard to your
+east.  Lit by flickering torches, you see a lovely portrait, with a thick
+golden frame.  The picture depicts a raven-haired beauty standing at an open
+window.  Her face is half-turned to gaze at the green scenery outside.  You
+can, however make out a flawless, pale complexion, and deep green eyes. 
+This image of serene beauty is marred only by a gaping slash down the centre
+of the painting, as if some thwarted lover exacted a brutal revenge in the
+name of love.  
+~
+0 8 0
+D0
+~
+~
+0 0 2743
+D2
+~
+~
+0 0 2741
+M100 H100
+S
+#2743
+The Gallery~
+You pass through a narrow hall adjacent to the open courtyard to your
+east.  Lit by flickering torches, you make out a faded portrait of a couple
+on their wedding day.  The bride, swathed in white , gazes out at you with
+eyes as blue as the oceans, and the groom looks severe in his black jacket
+and cloak.  This pale young man has neatly groomed blond hair, and his
+arresting grey eyes seem to follow your movements down the hall.  The artist
+has scrawled the names of his subjects in the bottom left corner of the
+painting: Selan and Laia.  Beside their names is painted a tiny black eagle.
+~
+0 8 0
+D0
+~
+~
+0 0 2744
+D2
+~
+~
+0 0 2742
+M100 H100
+S
+#2744
+The Gallery~
+You pass through a narrow hall adjacent to the open courtyard to your
+east.  Lit by flickering torches you make out two portraits done in
+silhouette.  On your left is an oval frame containing a painting of a tiny
+red-haired woman.  Her red mouth is turned up in a mischevious smile, and
+her deep green eye is crinkled in amusement.  She has a sprinkle of freckles
+across the bridge of her nose.  The portrait to your right is of a handsome
+young man.  His powerful features, and dark beauty are overshadowed by the
+bright smile on his face.  Both pictures seem to give off an aura of magic
+that is hard to ignore.  You find it difficult to tear your gaze from these
+two portraits.  
+~
+0 8 0
+D0
+~
+~
+0 0 2745
+D2
+~
+~
+0 0 2743
+M100 H100
+S
+#2745
+Northwest Corner of the Courtyard~
+You stand in an open corner of the wide courtyard.  To your west lies a
+small nook, partially enclosed by deep maroon drapes.  Peeking inside, you
+see a single torch on the wall, and a small wooden bench.  This area is
+obviously meant for weary strollers to rest, and is likely used for romantic
+assignations.  In the far corner, you notice a small black grate built into
+the wall.  Despite the rusted appearance of the grate, it seems to have been
+in recent use.  
+~
+0 8 0
+D1
+~
+~
+0 0 2746
+D2
+~
+~
+0 0 2744
+D3
+~
+grate~
+1 0 2734
+M100 H100
+S
+#2746
+Topiary Garden~
+Shaped bushes make up the menagerie surrounding you.  Winged stallions,
+griffons, and other mythical creatures crowd this garden in green splendor. 
+This is the castle's prized topiary garden.  Despite the lack of natural
+light, this living tableaux seems to be thriving here.  As you pass through
+this garden, a shiver of apprehension travels down your spine.  Not all is
+peaceful here.  
+~
+0 8 0
+D1
+~
+~
+0 0 2747
+D3
+~
+~
+0 0 2745
+M100 H100
+S
+#2747
+Topiary Garden~
+Shaped bushes make up the menagerie surrounding you.  Winged stallions,
+griffons, and other mythical creatures crowd this garden in green splendor. 
+This is the castle's prized topiary garden.  Despite the lack of natural
+light, this living tableaux seems to be thriving here.  As you pass through
+this garden, a shiver of apprehension travels down your spine.  Not all is
+peaceful here.  
+~
+0 8 0
+D1
+~
+~
+0 0 2748
+D3
+~
+~
+0 0 2746
+M100 H100
+S
+#2748
+Northeast Corner of the Courtyard~
+You stand in an open corner of the wide courtyard.  To your east lies a
+small nook, partially enclosed by a dark blue drape.  Peeking inside, you
+see a single torch on the wall, and a small bench of black marble.  This
+area is obviously meant for weary strollers to rest, and has likely been
+used for a romantic assignation or two in the past.  
+~
+0 8 0
+D2
+~
+~
+0 0 2749
+D3
+~
+~
+0 0 2747
+M100 H100
+S
+#2749
+Golden Doorway~
+Before you stands an immense pair of doors, cast entirely of gold.  As
+the entrance to the ballroom, the ostentatiousness of this outer area
+clearly reflects the grand splendor inside.  On either side of the doors
+stand circular tables carved of oak.  Here, the guests of the Queen lay down
+their weapons, prior to enjoying the hospitality of their host.  
+~
+0 8 0
+D0
+~
+~
+0 0 2748
+D1
+~
+golden~
+1 0 2796
+D2
+~
+~
+0 0 2750
+M100 H100
+S
+#2750
+Nightshade Garden~
+Weary ballgoers can stroll this dark garden to escape the jovial
+atmosphere inside the ballroom.  Tall hedges obscure quiet corners of this
+garden for guests to enjoy a moment's privacy.  Curved benches composed of
+white marble gleam in the torchlight, and the path of small, smooth stones
+crunches underfoot.  
+~
+0 8 0
+D0
+~
+~
+0 0 2749
+D2
+~
+~
+0 0 2751
+M100 H100
+S
+#2751
+Nightshade Garden~
+Weary ballgoers can stroll this dark garden to escape the jovial
+atmosphere inside the ballroom.  Tall hedges obscure quiet corners of this
+garden for guests to enjoy a moment's privacy.  Curved benches composed of
+white marble gleam in the torchlight, and the path of small, smooth stones
+crunches underfoot.  
+~
+0 8 0
+D0
+~
+~
+0 0 2750
+D2
+~
+~
+0 0 2752
+M100 H100
+S
+#2752
+Entrance to the Servant's Quarters~
+The garden here ends abruptly at a small wooden door.  This part of the
+garden is not as well-kept as the rest, and the scuff marks that mar the
+door and the ground, indicate recent high traffic.  The door stands propped
+open for ease of passage as the servants bustle to and fro, placating the
+varied tastes of the guests at the ball.  
+~
+0 0 0
+D0
+~
+~
+0 0 2751
+D1
+~
+~
+0 0 2753
+M100 H100
+S
+#2753
+Serving Station~
+Entering the doorway, you see a long narrow table to your right.  It is
+laden with platters of food, flasks of ale, and silver trays of sweets.  The
+overall aura of this room is one of hurried exhaustion.  Another doorway
+stands open to your east.  
+~
+0 8 0
+D1
+~
+~
+0 0 2754
+D3
+~
+~
+0 0 2752
+M100 H100
+S
+#2754
+Kitchen~
+The heat of the castle's kitchen is almost unbearable.  Two large
+fireplaces lit with roaring fires stand at either end of this long room. 
+Several stations for preparing food are arranged for best possible mobility.
+Dried herbs, baskets, and curing meat hang from hooks on the ceiling, and
+sacks of assorted spices line the floor.  Stepping through the litter of
+garbage, you can continue through the hot kitchen to your south.  
+~
+0 8 0
+D2
+~
+~
+0 0 2755
+D3
+~
+~
+0 0 2753
+M100 H100
+S
+#2755
+Back of the Kitchen~
+Here, the kitchen becomes something more of a butcher's shop, with sides
+of beef hanging from ceiling hooks, and a large chopping block set in the
+centre of the room.  Oddly enough, most of the bones strewn about do not
+appear to be animal in nature.  Dozens of stoppered flasks neatly line
+shelves along the eastern wall.  You notice the small door to the larder to
+your south.  
+~
+0 8 0
+D0
+~
+~
+0 0 2754
+D2
+~
+~
+0 0 2756
+M100 H100
+S
+#2756
+The Larder~
+You stand in a rather damp and chilly room filled to overflowing with
+jars and bottles tightly stoppered, and neatly lined on shelves and along
+the walls on the floor.  Opening one jar, you are immediately overcome by
+the strong tangy smell of stale blood.  Horrified, you realize that all
+these containers are filled with blood.  The remaining question is whether
+this blood is of animal nature, or perhaps...  Human?  
+~
+0 0 0
+D0
+~
+~
+0 0 2755
+D2
+~
+~
+0 0 2757
+M100 H100
+S
+#2757
+Dungeon Guardroom~
+Before you is a rickety wooden table, with a chess game in progress set
+upon it.  Straw and rubbish are strewn about the cold dirt floor, and only
+one torch lights the small dank room.  To your east are two cells meant for
+prisoners.  Separating the cells from this room is a narrow, barred door. 
+This door is covering in rust and mildew from the dampness of the air.  It
+stands ajar, with the keys still in the keyhole.  The guards are obviously
+not concerned with possible escape attempts.  
+~
+0 0 0
+D0
+~
+~
+0 0 2756
+D1
+~
+~
+0 0 2758
+M100 H100
+S
+#2758
+Prisoner's Cell~
+Opening the rusty, squeaky door, you find yourself in what closely
+resembles a hole in the ground.  In fact, many of the piles of dirt have not
+been removed from the cell.  No light at all reaches this room, and the only
+source of light is that from your own torch.  Looking around the small cell,
+you see groups of nearly naked individuals huddled together for warmth, or
+perhaps fear.  They do not seem to notice you, and their blank eyes gaze
+forward uncaring.  Strange marks mar their bodies; marks that appear as two
+small punctures, usually located near the major arteries.  The only exit
+from this cell is the one you entered through, yet the prisoners show no
+sign of wanting to leave.  
+~
+0 0 0
+D1
+~
+~
+0 0 2759
+D3
+~
+~
+0 0 2757
+M100 H100
+S
+#2759
+Prisoner's Cell~
+Continuing through the dark hole, you find more frightened individuals
+huddled together.  This back portion of the cell seems to have been
+allocated for those lucky enough to escape this prison through death.  It is
+also the area where waste is dumped, if the smell is any indication.  The
+only exit is back to your west.  
+~
+0 0 0
+D3
+~
+~
+0 0 2758
+M100 H100
+S
+#2760
+Marble Stair~
+You find yourself ascending the gleaming white stairs cast entirely in
+marble.  The tiles are highly polished; you can see your reflection in them
+as you pass.  The stairs spiral upwards, lit only by the occasional torch. 
+Your footfall sounds amplified to your ear as you climb towards the second
+floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 2761
+D4
+~
+~
+0 0 2780
+D5
+~
+~
+0 0 2740
+M100 H100
+S
+#2761
+Stone Hall~
+This stone enclosure stifles and mutes your footsteps as you pass
+through.  Orange torchlight flickers over an immense statue carved of black
+marble.  This silent figure is shown garbed in a long black cloak frozen
+while flapping in the wind.  The face above the cloak is intricately carved,
+showing high cheekbones, a curved nose, and piercing eyes.  His mouth is
+curved in a sardonic grin, revealing wicked fangs.  Carved in the base of
+the statue is a name; Dracul Demonkiller.  
+~
+0 8 0
+D1
+~
+~
+0 0 2762
+D3
+~
+~
+0 0 2760
+M100 H100
+S
+#2762
+Stone Hall~
+This stone enclosure stifles and mutes your footsteps as you pass
+through.  Orange torchlight flickers over a small figure carved of white
+marble.  Her white diaphinous gown billows to her feet, and her arms are
+outstretched in supplication.  This individuals features are partially
+obscured by a loose fall of hair.  Visible are a smooth, alabaster cheek,
+and a delicately arched brow.  The inscription at the base of the statue
+reads: Belana the Unholy.  
+~
+0 8 0
+D1
+~
+~
+0 0 2763
+D3
+~
+~
+0 0 2761
+M100 H100
+S
+#2763
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The eastern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D0
+~
+~
+0 0 2764
+D3
+~
+~
+0 0 2762
+M100 H100
+S
+#2764
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The eastern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 0 0
+D0
+~
+~
+0 0 2765
+D2
+~
+~
+0 0 2763
+M100 H100
+S
+#2765
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The eastern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 0 0
+D0
+~
+~
+0 0 2766
+D2
+~
+~
+0 0 2764
+M100 H100
+S
+#2766
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+THe eastern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 8 10
+D0
+~
+~
+0 0 2767
+D2
+~
+~
+0 0 2765
+M100 H100
+S
+#2767
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The eastern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D1
+~
+~
+0 0 2768
+D2
+~
+~
+0 0 2766
+M100 H100
+S
+#2768
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The southern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D1
+~
+~
+0 0 2769
+D3
+~
+~
+0 0 2767
+M100 H100
+S
+#2769
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The southern wall overlooks the immense courtyard below you.  The stone
+arch has a comfortable looking seat, meant for observers of royal
+gatherings and parades. 
+~
+0 8 0
+D1
+~
+~
+0 0 2770
+D3
+~
+~
+0 0 2768
+M100 H100
+S
+#2770
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The southern wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat, meant for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D2
+~
+~
+0 0 2771
+D3
+~
+~
+0 0 2769
+M100 H100
+S
+#2771
+Entrance to the Throne~
+You stand in front of a large oaken door.  This massive entrance bears an
+ornate golden crest showing a single red rose, twined around the hilt of a
+black sword.  A guard bars the way into the Throne Room.  
+~
+0 0 0
+D0
+~
+~
+0 0 2770
+D1
+~
+entrance~
+1 0 2798
+D2
+~
+~
+0 0 2772
+M100 H100
+S
+#2772
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The western wall overlooks the immense courtyard below.  The stone arch has
+a comfortable looking seat, meant for observers of royal parades and
+gatherings.  
+~
+0 0 0
+D0
+~
+~
+0 0 2771
+D2
+~
+~
+0 0 2773
+M100 H100
+S
+#2773
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The western wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D0
+~
+~
+0 0 2772
+D2
+~
+~
+0 0 2774
+M100 H100
+S
+#2774
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several bright torches. 
+The western wall overlooks the immense courtyard below you.  The stone arch
+has a comfortable looking seat for observers of royal gatherings and
+parades.  
+~
+0 8 0
+D0
+~
+~
+0 0 2773
+D2
+~
+~
+0 0 2775
+M100 H100
+S
+#2775
+Overlooking the Courtyard~
+Here you pass through a narrow hallway lit by several torches.  To your
+west, you notice a brightly coloured door.  A large crest proclaims to you,
+even at this distance, that this is the entrance to the castle's nursery.  
+~
+0 8 0
+D0
+~
+~
+0 0 2774
+D3
+~
+~
+0 0 2776
+M100 H100
+S
+#2776
+Nursery Entrance~
+Strolling through the castles cold stone halls, you come across a
+brightly coloured door.  The crest displayed over a red background shows the
+black silhouette of a witch holding a large book.  There is a small outline
+of a cat at her feet.  Horrified, you realize this is a macabre version of
+Mother Goose, depicted for the young vampires of the castle keep.  
+~
+0 0 0
+D1
+~
+~
+0 0 2775
+D3
+~
+nursery~
+1 0 2777
+M100 H100
+S
+#2777
+Nursery Playroom~
+As your eyes become accustomed to the gloominess of this room, you see a
+small box tucked into the corner.  Murals in muted colours adorn the walls
+and ceiling.  The pictures depict a twisted version of popular fairy tales. 
+You recognize Snow White, Sleeping Beauty, and Rapunzel; but something has
+changed.  In each mural, the evil witch is shown as the victor, celebrating
+the defeat of her enemies.  You hear faint sounds coming from the south.  
+~
+0 0 0
+D1
+~
+~
+1 0 2776
+D2
+~
+~
+0 0 2778
+M100 H100
+S
+#2778
+A Crib~
+The only object in this dark room is an ornate crib for an infant.  It is
+centred on the deep red carpet, and is bathed in soft light from above.  The
+crib is fashioned from a single block of black granite, and is decorated
+with plush red bedclothes.  A haunting lullaby plays softly in the
+background as you stand uneasily on the threshhold.  
+~
+0 0 0
+D0
+~
+~
+0 0 2777
+D2
+~
+~
+0 0 2779
+M100 H100
+S
+#2779
+Nursery Library~
+Overlooking an extensive garden, this room contains floor to ceiling
+bookshelves containing a children's selection of literature.  Scanning the
+titles, you read: "Witches Brew", "Rose Red", and "Revenge of the Wolf"
+among the strangely horrific stories.  An ancient rocking chair rocks slowly
+near a small table illuminated by a single black candle.  Heavy black drapes
+obscure the sunlight streaming through the windows.  
+~
+0 0 0
+D0
+~
+~
+0 0 2778
+M100 H100
+S
+#2780
+Marble Stair~
+You find yourself ascending the gleaming white stairs cast entirely in
+marble.  The tiles' are highly polished; you can see your reflection in them
+as you pass.  The stairs spiral upwards, lit only by the occasional torch. 
+Your footfall sounds amplified to your ear as you climb towards the tower
+heights.  
+~
+0 0 0
+D0
+~
+~
+0 0 2781
+D2
+~
+~
+0 0 2795
+D5
+~
+~
+0 0 2760
+M100 H100
+S
+#2781
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2782
+D2
+~
+~
+0 0 2780
+M100 H100
+S
+#2782
+Guard's Tower~
+This tower is set to slightly overhand the courtyard below, offering you
+a clear view of any intruders.  The stone walls confine you as much as they
+protect you from the sun.  A view of the castle's exterior is granted by
+small arrowslits in the stone walls.  These are covered during the daylight
+hours by small flaps of wood.  
+~
+0 8 0
+D1
+~
+~
+0 0 2783
+D2
+~
+~
+0 0 2781
+M100 H100
+S
+#2783
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust rises
+from the fall of your foot on the planks.  This is the way the castle guards
+travel to and from their towers to keep watch.  
+~
+0 0 0
+D1
+~
+~
+0 0 2784
+D3
+~
+~
+0 0 2782
+M100 H100
+S
+#2784
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D1
+~
+~
+0 0 2785
+D3
+~
+~
+0 0 2783
+M100 H100
+S
+#2785
+Guard's Tower~
+This tower is set to slightly overhang the courtyard below, offering you
+a clear view of any intruders.  The stone walls confine you as much as they
+protect you from the sun.  A view of the castles exterior is granted by
+small arrowslits in the stone walls.  These are covered during the daylight
+hours by small flaps of wood.  
+~
+0 0 0
+D2
+~
+~
+0 0 2786
+D3
+~
+~
+0 0 2784
+M100 H100
+S
+#2786
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2785
+D2
+~
+~
+0 0 2787
+M100 H100
+S
+#2787
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2786
+D2
+~
+~
+0 0 2788
+M100 H100
+S
+#2788
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2787
+D2
+~
+~
+0 0 2789
+M100 H100
+S
+#2789
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level.
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2788
+D2
+~
+~
+0 0 2790
+M100 H100
+S
+#2790
+Guard's Tower~
+This tower is set to slightly overhang the courtyard below, offering a
+clear view of any intruders.  The stone walls confine you as much as they
+protect you from the sun.  A view of the castles exterior is granted by
+small arrowslits in the stone walls.  These are covered during the daylight
+hours by small flaps of wood.  
+~
+0 0 0
+D0
+~
+~
+0 0 2789
+D3
+~
+~
+0 0 2791
+M100 H100
+S
+#2791
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D1
+~
+~
+0 0 2790
+D3
+~
+~
+0 0 2792
+M100 H100
+S
+#2792
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D1
+~
+~
+0 0 2791
+D3
+~
+~
+0 0 2793
+M100 H100
+S
+#2793
+Guard's Tower~
+This tower is set to slightly overhang the courtyard below, offering a
+clear view of any intruders.  The stone walls confine you as much as they
+protect you from the sun.  A view of the castles exterior is granted by
+small arrowslits in the stone walls.  These are covered during the daylight
+hours by small flaps of wood.  
+~
+0 0 0
+D0
+~
+~
+0 0 2794
+D1
+~
+~
+0 0 2792
+M100 H100
+S
+#2794
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2795
+D2
+~
+~
+0 0 2793
+M100 H100
+S
+#2795
+Catwalk~
+You stand on a narrow wooden plank floor, surrounded by stone walls.  You
+see small wooden flaps covering arrowslits in the wall at about eye level. 
+The floor creaks as you pass through this confining enclosure, and dust
+rises from the fall of your foot on the planks.  This is the way the castle
+guards travel to and from their towers to keep watch.  
+~
+0 0 0
+D0
+~
+~
+0 0 2780
+D2
+~
+~
+0 0 2794
+M100 H100
+S
+#2796
+Ballroom~
+Your steps echo as you walk across the highly polished marble floor.  The
+high, vaulted ceiling is painted to resemble the sky; blue with billowing
+white clouds.  A large sun-shaped golden crest hangs on the wall directly in
+front of you.  Beneath the crest are set many chairs as well as misic
+stands, ready for the orchestra to strike up a waltz.  There are numerous
+torches lining the walls.  They are all lit as if awaiting a grand ball. 
+Chairs are lined up around the periphary of the room for potential
+wallflowers.  To the east you see large french doors leading to the balcony,
+and the west doors lead back to the hallway of the castle.  
+~
+0 4 0
+D1
+~
+~
+0 0 2797
+D3
+~
+~
+1 0 2749
+M100 H100
+S
+#2797
+Balcony~
+Entering the balcony, you find that it is not really a balcony at all. 
+Instead, this room, is an enclosed niche, with the far wall painted in an
+elaborate mural.  This mural depicts a peaceful summer day; sun shining,
+blue sky, and green landscape.  Large pots filled with flowers line the
+walls.  The scent of the blooms, and the colour leave you with a peaceful,
+serene feeling.  Ballgoers can step in here for some quiet during the rowdy
+party.  
+~
+0 4 0
+D3
+~
+~
+0 0 2796
+M100 H100
+S
+#2798
+Throne Room~
+As you enter this room, you are amazed at the opulent splendor
+surrounding you.  Rich tapestries depicting scenes from various bloody
+battles adorn the walls.  The carpet underfoot is soft, and the scent of
+wild roses gently wraps itself around you.  The plethora of antiques
+littering the room convinces you to tread carefully to avoid breaking
+something priceless.  In front of you stands a large throne cast in silver
+and gold.  The silence filling the room is overwhelming, even your breathing
+disturbs the awe-filled quiet of the room.  You may exit this room to the
+west, or enter the Queen's Parlour to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 2799
+D3
+~
+~
+1 0 2771
+M100 H100
+S
+#2799
+Queen's Parlour~
+Entering the Queen's private sanctuary, you pause in the doorway to let
+your eyes adjust to the dim lighting.  A single candle set upon a side table
+provides illumination for an intimate dinner for two.  Golden tankards,
+trenchers of half eaten food and elegant silverware adorn the table.  A
+bouquet of scentless black roses serves as the centrepiece for this meal.  A
+hastily scrawled note lies at your feet.  It reads : "Dearest, Time grows
+short.  Be Ready.  Yours, Ruark Mardagon".  
+~
+0 0 0
+D3
+~
+~
+0 0 2798
+D5
+~
+~
+1 0 460
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 2700 spec_cast_undead Load to: the Zombie Master
+M 2701 spec_cast_mage Load to: the Gatekeeper
+M 2716 spec_cast_cleric Load to: a vampire hunter
+M 2718 spec_cast_cleric Load to: the Statue of Belana
+M 2721 spec_guard Load to: the Queen's Guardian
+S
+
+
+
+#RESETS
+D 0 2700 0 1
+D 0 2700 4 1
+D 0 2701 2 1
+D 0 2712 5 1
+D 0 2713 1 1
+D 0 2714 3 1
+D 0 2715 4 1
+D 0 2732 5 1
+D 0 2734 1 1
+D 0 2734 4 1
+D 0 2745 3 1
+D 0 2749 1 1
+D 0 2771 1 1
+D 0 2776 3 1
+D 0 2777 1 1
+D 0 2796 3 1
+D 0 2798 3 1
+D 0 2799 5 1
+M 0 2701 1 2700 1
+M 0 2703 10 2704 1
+M 0 2704 3 2708 1
+M 0 2703 10 2708 1
+M 0 2706 4 2710 1
+M 0 2706 4 2711 1
+M 0 2706 4 2712 1
+M 0 2707 1 2714 1
+M 0 2708 1 2715 1
+M 0 2700 1 2717 1
+M 0 2703 10 2719 1
+M 0 2704 3 2721 1
+M 0 2703 10 2721 1
+M 0 2711 1 2722 1
+M 0 2704 3 2723 1
+M 0 2703 10 2723 1
+M 0 2703 10 2726 1
+M 0 2705 1 2727 1
+M 0 2710 1 2728 1
+M 0 2703 10 2729 1
+M 0 2709 1 2729 1
+M 0 2703 10 2731 1
+M 0 2712 10 2738 1
+M 0 2712 10 2739 1
+M 0 2702 15 2740 1
+M 0 2702 15 2742 1
+M 0 2702 15 2743 1
+M 0 2713 5 2743 1
+M 0 2702 15 2747 1
+M 0 2715 4 2748 1
+M 0 2713 5 2748 1
+M 0 2715 4 2750 1
+M 0 2713 5 2750 1
+M 0 2702 15 2751 1
+M 0 2716 3 2752 1
+M 0 2702 15 2753 1
+M 0 2702 15 2755 1
+M 0 2720 8 2758 1
+M 0 2720 8 2759 1
+M 0 2702 15 2760 1
+M 0 2717 1 2761 1
+M 0 2718 1 2762 1
+M 0 2716 3 2764 1
+E 0 2726 0 18
+E 0 2725 0 3
+M 0 2702 15 2765 1
+E 0 2705 0 18
+M 0 2702 15 2766 1
+M 0 2702 15 2767 1
+E 0 2705 0 18
+M 0 2702 15 2769 1
+E 0 2705 0 18
+M 0 2702 15 2770 1
+E 0 2705 0 18
+M 0 2721 1 2771 1
+E 0 2711 0 16
+O 0 2728 0 2777
+P 0 2727 0 2728 1
+M 0 2719 2 2778 1
+E 0 2721 0 13
+M 0 2719 2 2779 1
+E 0 2721 0 13
+M 0 2712 10 2782 1
+M 0 2702 15 2783 1
+M 0 2716 3 2784 1
+M 0 2712 10 2785 1
+M 0 2712 10 2790 1
+M 0 2712 10 2793 1
+M 0 2715 4 2796 1
+M 0 2713 5 2796 1
+M 0 2715 4 2797 1
+M 0 2714 1 2799 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

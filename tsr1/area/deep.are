@@ -1,0 +1,618 @@
+#AREADATA
+Name        [135 151] The Deep~
+Builders    Tombfyre~
+VNUMs       900 999
+Security    1
+End
+
+
+
+#MOBILES
+#994
+choker vine~
+A Choker Vine~
+A long stretch of underwater vine weaves in you direction.
+~
+Before you is a  virutal nest of vines, leaves, and thorns.  Obviously a mindless predator, the choker vine reaches for you with undisguised hunger.  Tnagled in its reach are skeletons of those not fortunate to recognize the
+ murderous nature of this seemingly innocent plant.
+~
+human~
+ABCU 0 0 0 
+0 135 0 12d949+4135 0d0+0 6d23+67 0
+-71 -71 -71 -30
+AF AB 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#995
+Sea Lion~
+A member of a pride of Sea Lions.~
+A sea-lion swims with its packmates.
+~
+The sea lion is a fearsome creature with the head and forepaws of a lion and
+the body and tail of a fish. With huge paws and viscious teeth he is a match
+for any opponent.
+~
+modron~
+ABF J -600 0 
+0 136 0 13d958+4440 0d0+0 6d23+68 0
+-75 -75 -75 -32
+CDQR BMNPQ HIK 0
+standing standing male 0
+Hb ABCGHJKQ M unknown
+#996
+Electric Eel~
+The Electric Eel~
+The eel watches its prey with a gaze that is almost electric.
+~
+With little more than the first few feet of it's body visible the eel snatches
+and bites at anything that ventures near its home in the reef.  A dull 
+mottled green in color, it's mouth displays many small yet very sharp teeth.
+Small darts of electricity jump from the eel to it's intended prey, alerting
+you to the special nature of this beast.
+~
+snake~
+ABC Z -300 0 
+0 137 0 13d972+4490 137d100+100 6d23+68 0
+-75 -75 -75 -32
+H J HIL IP
+standing standing none 0
+AGHMVXYc ADEFKLQVX M unknown
+#997
+reef Giant~
+The Reef Giant~
+Ready to defend his home, the Reef Giant watches you warily.
+~
+Towering above you is a giant of a man.  He has burnished coppery skin and
+pale white hair.  Powerfully muscled and barrel chested, he appears to 
+be a formidible foe.  He wears nothing but loincloth, and bracers, and appears
+unimpeded by the pressure of the water.
+ 
+~
+giant~
+ABCT c 800 0 
+0 140 1 13d1015+4650 140d100+100 6d23+70 0
+-77 -77 -77 -33
+H 0 HI JP
+standing standing male 0
+AHMV ABCDEFGHIJK H unknown
+#998
+Shark~
+A great white Shark.~
+Like a silent angel of death, the great white shark lunges.
+~
+Sliding through the water like an angel of death, the shark is upon you 
+before you are even certain it is there.  With row upon row of razor sharp
+teeth this is a foe to be wary of.  Smelling fresh meat in the water it 
+advances, with a flick of its great tail, it is upon you.
+~
+human~
+ABFG b -750 0 
+0 139 1 13d987+4545 0d0+0 6d23+69 0
+-76 -76 -76 -33
+CDHU A 0 0
+standing standing none 0
+AHMVbc ABCDEFGHIJKMQ L unknown
+#999
+red fish Dragonfish~
+A Red Dragonfish.~
+A great red Dragonfish is waiting for its' next meal to be delivered.
+~
+Swimming lazily through the water, the Dragonfish is approximatly three
+feet in length and covered with inch long tines and reddish-maroon scales.
+The tines seem to be secreting a dark green ichor that is creating a 
+cloud around the fish.  A few of them seem to have broken off, obviously 
+lodged in some hapless beast.
+~
+water fowl~
+ABH TZb -200 0 
+0 135 0 12d1023+4390 135d100+100 6d23+67 0
+-74 -74 -74 -31
+FU ALR R 0
+standing standing none 0
+AGHWb ACDEFHKPQX M unknown
+#0
+
+
+
+#OBJECTS
+#994
+A Choker Vine~
+a Choker Vine~
+A piece of vine is here twisting upon itself.~
+unknown~
+armor GHM AC
+13 12 13 10 0
+135 2 100 P
+A
+3 -3
+A
+2 2
+#995
+Sea lion tail~
+the tail of a sea-lion~
+The tail of a sea lion sits here awaiting a pair of feet.~
+unknown~
+armor B AG
+10 10 10 10 0
+136 0 0 P
+A
+14 75
+#997
+Reef Giant Bracer~
+the Coral bracer of a Reef Giant~
+A huge coral bracer has been dragged from its watery home.~
+unknown~
+armor B AL
+10 10 10 11 0
+140 0 0 P
+#998
+Shark Gills~
+shark Gills.~
+Gills ripped from a shark a waiting to be fused to your neck.~
+unknown~
+armor A AC
+13 13 12 10 0
+138 5 0 P
+#0
+
+
+
+#ROOMS
+#900
+On the Sea~
+~
+0 0 10
+D4
+~
+~
+0 0 475
+D5
+~
+~
+0 0 901
+M0 H0
+S
+#901
+Caught in the Maelstrom~
+The moment you enter the Maelstrom, you are sucked into its very core. 
+You spin in every direction pulled by the force of the water.  You see the
+floor of the ocean rushing up to meet you, only to find yourself suddenly
+yanked back as though grabbed by the sea itself.  Direction has become
+impossible to determine, and there does not seem to be an up, nor a down.  
+~
+0 8197 12
+D0
+~
+~
+0 0 905
+D1
+~
+~
+0 0 902
+D2
+~
+~
+0 0 904
+D3
+~
+~
+0 0 917
+D4
+~
+~
+0 0 900
+M90 H90
+S
+#902
+Caught in the Maelstrom~
+The moment you enter the Maelstrom, you are sucked into its very core. 
+You spin in every direction pulled by the force of the water.  You see the
+floor of the ocean rushing up to meet you, only to find yourself suddenly
+yanked back as though grabbed by the sea itself.  Direction has become
+impossible to determine, and there does not seem to be an up, nor a down.
+~
+0 4202501 0
+D0
+~
+~
+0 0 917
+D1
+~
+~
+0 0 917
+D2
+~
+~
+0 0 903
+D3
+~
+~
+0 0 901
+D4
+~
+~
+0 0 917
+M0 H0
+S
+#903
+Caught in the Maelstrom~
+The moment you enter the Maelstrom, you are sucked into its very core. 
+You spin in every direction pulled by the force of the water.  You see the
+floor of the ocean rushing up to meet you, only to find yourself suddenly
+yanked back as though grabbed by the sea itself.  Direction has become
+impossible to determine, and there does not seem to be an up, nor a down.
+~
+0 4202501 0
+D0
+~
+~
+0 0 902
+D1
+~
+~
+0 0 917
+D2
+~
+~
+0 0 917
+D3
+~
+~
+0 0 904
+D4
+~
+~
+0 0 917
+M0 H0
+S
+#904
+Caught in the Maelstrom~
+The moment you enter the Maelstrom, you are sucked into its very core. 
+You spin in every direction pulled by the force of the water.  You see the
+floor of the ocean rushing up to meet you, only to find yourself suddenly
+yanked back as though grabbed by the sea itself.  Direction has become
+impossible to determine, and there does not seem to be an up, nor a down.
+~
+0 4202501 12
+D0
+~
+~
+0 0 901
+D1
+~
+~
+0 0 903
+D2
+~
+~
+0 0 917
+D3
+~
+~
+0 0 917
+D4
+~
+~
+0 0 917
+M0 H0
+S
+#905
+Beneath the Waves~
+You have been thrown clear of the Malestrom, swirling end over end you
+finally manage to right yourself, and discover yourself not far from where
+you began this journey.  Just enough like filters through the waves to give
+everything a shadowed look, to your south the Maelstrom rages attempting to
+pull you to a watery grave.  Schools of fish swim nearby as to larger
+predators, after all victims of the great whirlpool often provide an easy
+meal.  
+~
+0 0 0
+D1
+~
+~
+0 0 906
+D2
+~
+~
+0 0 901
+D3
+~
+~
+0 0 916
+D4
+~
+~
+0 0 900
+M0 H0
+S
+#906
+Beneath the Waves~
+The water here is dark and cool, to the south the maelstrom continues to rage
+To the east you see what seems to be the beginnings of an intricate coral reef,
+while directly beneath you, you see the remains of a ship that must have run
+aground on thos same reefs.  Small fish circle the wreck picking and biting
+at the flesh of long dead sailors.
+~
+0 0 0
+D1
+~
+~
+0 0 907
+D2
+~
+~
+0 0 902
+D3
+~
+~
+0 0 905
+M0 H0
+S
+#907
+Coral Reef~
+This reef has been carved and worked into an intricate dwelling.  Lifetimes
+of work have been spent creating a mansion out of a coral reef.  Looking 
+inside you see that it is stocked with furniture and personal belongings,
+all of them are crafted for a person well over sixteen feet in height.
+The reef itself is alive with plants and coral.  Small fish are everywhere,
+as are small crustaceans. 
+~
+0 0 0
+D2
+~
+~
+0 0 908
+D3
+~
+~
+0 0 906
+M0 H0
+S
+#908
+On the Reef~
+The water is shallow here, due to the reef that stretches out beneath
+you.  You must pick your way cautiously here, as the coral is sharp. 
+Seaweed waves lazily in the current caused by the great whirlpool to the
+west.  Small fish and other assorted sealife dart in and out of the small
+caves and crevices in the reef.  
+~
+0 0 12
+D0
+~
+~
+0 0 907
+D2
+~
+~
+0 0 909
+D3
+~
+~
+0 0 902
+M0 H0
+S
+#909
+In the Sea~
+Here the reef drops away sharply, falling into the blackness beneath you.
+> The water has become colder and darker.  Larger shapes move in the deeper
+waters appearing to be nothing more than monstrous shadows.  The maelstrom
+continues its eternal struggle to your left, and the waters become shallow
+to the north where the reef becomes more pronounced.  
+~
+0 1 12
+D0
+~
+~
+0 0 908
+D2
+~
+~
+0 0 910
+D3
+~
+~
+0 0 903
+M0 H0
+S
+#910
+In the Sea~
+This area of the sea seems to be devoid of all life.  There are no fish,
+no clams, barely even any seaweed.  Beneath You you spy what seems to be a
+small cave hewn into the rock.  Littered about the entrance are bones.  You
+identify what appears to be humanoid bones, fish bones and even the
+occasional Shark bone.  Whatever calls the cave home is probabaly something
+you do not want to mess with.  A strong current attempts to pull you to the
+northwest, directly into the raging heart of the maelstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 909
+D3
+~
+~
+0 0 911
+M0 H0
+S
+#911
+In the Sea~
+~
+0 0 0
+D0
+~
+~
+0 0 903
+D1
+~
+~
+0 0 910
+D3
+~
+~
+0 0 912
+D4
+~
+~
+0 0 900
+M0 H0
+S
+#912
+~
+~
+0 0 0
+D0
+~
+~
+0 0 904
+D1
+~
+~
+0 0 911
+D3
+~
+~
+0 0 913
+M0 H0
+S
+#913
+~
+~
+0 0 0
+D0
+~
+~
+0 0 914
+D1
+~
+~
+0 0 912
+M0 H0
+S
+#914
+Seaweed Patch~
+The light from the sun does not penetrate here.  The entire area seems to
+be crowded with plants and seaweed that hover a few feet below the surface. 
+The plants range in color from a mottled green to a rusty brown.  Though
+they sway in the current from the maelstrom to the east, they also seem to
+be moving purposely in an entirely different direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 915
+D1
+~
+~
+0 0 904
+D2
+~
+~
+0 0 913
+M0 H0
+S
+#915
+~
+The azure depths shimmer with the light of the surface, sending shafts of
+sun into the darkness below.  Seaweed waves lazily in the current caused by
+the great whirlpool to the north.  Small fish and other assorted sealife
+dart about chasing one another and avoiding the larger predators which are
+in abundance.  You seem to have impeded on the hunting grounds of a rather
+territorial bunch of predators.  
+~
+0 0 0
+D0
+~
+~
+0 0 916
+D1
+~
+~
+0 0 901
+D2
+~
+~
+0 0 914
+M0 H0
+S
+#916
+~
+The light filtering through the waves above sheds just enought light for
+you to see the corals around you.  These waters would be considered
+beautiful, were it not for there deadly reputation.  To your south the
+Maelstrom rages you catch glimpses of others who were not lucky enough to
+escape it.  A dead sailor slides past, glassy eyes staring eternally
+outwards, and small bubbles leaking from his mouth.  You catch glimpses of
+white bone on the sea floor below, it is obvious that the great whirlpool has
+claimed many a life.  
+~
+0 0 0
+D1
+~
+~
+0 0 905
+D2
+~
+~
+0 0 915
+M0 H0
+S
+#917
+Caught in the Maelstrom~
+The moment you enter the Maelstrom, you are sucked into its very core. 
+You spin in every direction pulled by the force of the water.  You see the
+floor of the ocean rushing up to meet you, only to find yourself suddenly
+yanked back as though grabbed by the sea itself.  Direction has become
+impossible to determine, and there does not seem to be an up, nor a down.
+~
+0 0 0
+D0
+~
+~
+0 0 903
+D1
+~
+~
+0 0 904
+D2
+~
+~
+0 0 902
+D3
+~
+~
+0 0 902
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+M 996 spec_breath_lightning Load to: The Electric Eel
+M 998 spec_fido Load to: A great white Shark.
+M 999 spec_poison Load to: A Red Dragonfish.
+S
+
+
+
+#RESETS
+M 0 999 1 905 1
+M 0 997 1 907 1
+G 0 997 0
+M 0 996 1 908 1
+M 0 995 1 911 1
+M 0 994 1 914 1
+M 0 998 1 916 1
+E 0 998 0 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

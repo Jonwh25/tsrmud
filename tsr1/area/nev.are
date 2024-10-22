@@ -1,0 +1,709 @@
+#AREADATA
+Name        [50   80] Neverest Mountains~
+Builders    Silvermist~
+VNUMs       1500 1599
+Security    1
+End
+
+
+
+#MOBILES
+#1500
+wanderer~
+Wanderer, Wizard of Neverest~
+Wanderer, the time traveler, stands serenely before you.
+~
+You see a tall wizard with hair of black, with a few strands of silver in
+it save for one blazing white lock that begins above his right eye and falls
+over the grey blindfold he is wearing.  He has the ability to travel between
+universes and uses Magic Vision to see the Celestials that inhabit these
+universes.  Since he lost much of his regular sight during childhood, the
+blindfold helps preserve what vision he has left.  
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1501
+lady amalthea~
+the lady Amalthea~
+The beautiful unicorn known as Lady Amalthea touches you lightly with her horn.
+~
+Lady Amalthea has declared her love for Wanderer when he was at death's
+door.  He rescued her mother from the rending claws of Seismoros.  When
+Wanderer was at death's door, she declared her undying love for him as her
+soul mate and revived him.  Her entity resides within a silvery-white body. 
+Round her slim neck is a garland of pastel star-flowers.  She is able to
+communicate telepathically but first has to touch you briefly with her horn.
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1502
+thunder wakinyan~
+Thunder the Wakinyan~
+Bolts of lightning dance forth from Thunder the Wakinyan's eyes.
+~
+In shape and form, the Wakinyan are much like huge birds but with smoky
+bodies and feathers so that they are not entirely 'real'.  They have glowing
+red eyes that shoot lightning, solid toothed beaks and large talons.  When
+flying, the flapping of their wings produces thunder.  They have been
+worshipped as thunderbirds by natives in various lands.  
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1503
+caine wizard~
+Caine, Wizard of Neverest~
+The stalwart and sometimes most annoying  Caine stands here philosophizing.
+~
+Caine, Wizard of Neverest, considers himself to be a fighter-philosophizer.
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1504
+luthurian blue robed mage~
+Luthurian the blue-robed mage~
+(no long description)
+~
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1505
+uncle ozzie wizard~
+Uncle Ozzie, Wizard of Neverest~
+(no long description)
+~
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#1506
+guardian of neverest~
+Guardian of Neverest Mt~
+(no long description)
+~
+The Guardian being a shape-shifter has many many forms.  The Guardian is
+a vicious, ferocious troll, holding a nasty sabre.  The Guardian is
+masquerading as a lion with a bazooka.  
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#1500
+grey jacket~
+grey jacket~
+A grey jacket with a symbol formed of three stars within a circle.~
+unknown~
+armor 0 AD
+0 0 0 0 0
+0 0 0 P
+#1501
+blindfold wanderer~
+grey blindfold of Wanderer~
+A folded grey blindfold of soft magical fabric floats nearby.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#1502
+garland star flowers~
+garland of star-flowers~
+A fragrant garland of pastel star-flowers set amidst cool green ferns.~
+unknown~
+armor 0 0
+0 0 0 0 0
+0 0 0 P
+#1503
+nosegay starflowers~
+(fragrant) nosegay of starflowers~
+A shimmering nosegay of mauve, silver and blue starflowers sits here.~
+unknown~
+trash 0 AO
+0 0 0 0 0
+5 1 10 P
+#1504
+unicorn music box~
+a small silvery unicorn musicbox~
+Delicate crystalline petals surround the unicorn in this musicbox.~
+unknown~
+armor AGI AO
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1500
+Neverest Mt Base Portal~
+Here beginneth the long and challenging journey from the base of this
+wondrous mountain to the pinnacle up close by the skies.  Indeed the
+pinnacle is veiled in a magical mist not able to be penetrated by your eyes.
+It is here that intrepid pilgrims oft meet to meander around the base trying
+to decide who amongst them will journey upwards and hoping to catch a
+glimpse of the fabeled wizards and wizardesses that live here.  
+~
+0 0 3
+D0
+~
+~
+0 0 1501
+M100 H100
+S
+#1501
+Neverest Mt Base Portal~
+Two sturdy shelters filled with hiking equipment of various sorts flank
+the base portal path.  Upon examining one of them closer, you see leather
+skins to be filled with pure mountain spring waters.  Next to the leather
+skins are magical velvet pouches which can be dipped into the very magical
+essence of the mana pools.  You notice a wizened mountain peddler surveying
+the whole scene with an air of detached interest.  
+~
+0 0 3
+D1
+~
+~
+0 0 1503
+D2
+~
+~
+0 0 1500
+D3
+~
+~
+0 0 1502
+M100 H100
+S
+#1502
+Disciples of Arduous Task~
+~
+0 0 0
+D1
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 1504
+M0 H0
+S
+#1503
+Disciples of the Arduous Task~
+It is along this gentle trail that all Neverest newcomers begin their
+journies and it is said there is much to explore.  The mountain is
+honey-combed with various cliffs and trails and hideaways.  Rumors have it
+that the entire mountain is under the care of TSOTL which stands for The
+Spirit of the Land.  An air of diffused adventure clings to the path and you
+find your spirits uplifted by the fresh mountain air.  
+~
+0 0 0
+D1
+~
+~
+0 0 1526
+D3
+~
+~
+0 0 1501
+M100 H100
+S
+#1504
+Footpath Around Neverest Mt~
+A winding footpath meanders all around the base of Neverest Mountain. 
+The path is softly padded with an earthy carpet of evergreen needles and
+last year's autumn leaves.  Verdant ferns grow alongside interspersed with a
+variety of wild flowers.  The light filters in from the overhead canopy of
+trees and a gentle breeze ruffles your hair.  
+~
+0 0 2
+D1
+~
+~
+0 0 1502
+D3
+~
+~
+0 0 1505
+M100 H100
+S
+#1505
+Footpath Around Neverest Mt~
+This winding footpath continues to meander around the base of Neverest
+Mountain, home of many wizards and wizardesses.  The light filtering in
+through the trees is muted here casting shadows on the tree trunks.  You
+hear the raucous caw of a crow overhead.  Which place on the mountain shall
+you go to first?  
+~
+0 0 2
+D1
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1506
+M100 H100
+S
+#1506
+Nearing Silvery Streams~
+You are nearing the silvery streams discovered by the wizard Akwar.  The
+earth seems moister here with clusters of waxy white Indian Pipes unfurling
+next to the Maidenhair ferns.  The tiny red berries of British soldiers rise
+above the green fern-like leaves.  You hear the sounds of rushing water
+nearby.  
+~
+0 0 2
+D0
+~
+~
+0 0 1508
+D1
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1507
+M100 H100
+S
+#1507
+Silvery Stream Waterfall~
+~
+0 0 0
+D1
+~
+~
+0 0 1506
+M0 H0
+S
+#1508
+Footpath Around Neverest Mt~
+The wooded path continues to wend its way around Neverest Mountain.  You
+catch a glimpse of a beautiful snow-white dove high above you in the
+branches of a golden rain tree.  You hear a rustling noise accompanied by a
+low pitched mumble which seems to be coming from the midst of a large bush
+to your right.  
+~
+0 0 2
+D0
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1506
+M100 H100
+S
+#1509
+Western Footpath~
+The path here is flanked by patches of berry bushes studded with juicy
+ruby red and ebony blue-black raspberries warmed by the sun.  A family of
+cottontail rabbits has made a home underneath one of the bushes.  There is a
+wooded gully to your east which seems to lead away from the main path.  
+~
+0 0 2
+D0
+~
+~
+0 0 1510
+D1
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 1508
+M100 H100
+S
+#1510
+Western Footpath~
+~
+0 0 0
+D0
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1509
+M0 H0
+S
+#1511
+Nearing Isha's Abode~
+~
+0 0 0
+D1
+~
+~
+0 0 1513
+D2
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1512
+M0 H0
+S
+#1512
+Isha's Grove~
+~
+0 0 0
+D1
+~
+~
+0 0 1511
+M0 H0
+S
+#1513
+Footpath Around Neverest Mt~
+~
+0 0 0
+D1
+~
+~
+0 0 1514
+D3
+~
+~
+0 0 1511
+M0 H0
+S
+#1514
+Nearing the Bo Master~
+~
+0 0 0
+D0
+~
+~
+0 0 1516
+D1
+~
+~
+0 0 1515
+D3
+~
+~
+0 0 1513
+M0 H0
+S
+#1515
+Footpath Around Neverest Mt~
+~
+0 0 0
+D1
+~
+~
+0 0 1517
+D3
+~
+~
+0 0 1514
+M0 H0
+S
+#1516
+Bo Master's Cottage~
+~
+0 0 0
+D2
+~
+~
+0 0 1514
+M0 H0
+S
+#1517
+Wooded Path~
+~
+0 0 0
+D1
+~
+~
+0 0 1518
+D3
+~
+~
+0 0 1515
+M0 H0
+S
+#1518
+Near Tree House~
+~
+0 0 0
+D0
+~
+~
+0 0 1519
+D2
+~
+~
+0 0 1520
+D3
+~
+~
+0 0 1517
+M0 H0
+S
+#1519
+Uncle Ozzie's Treehouse~
+~
+0 0 0
+D2
+~
+~
+0 0 1518
+M0 H0
+S
+#1520
+Wooded Path~
+A lush mosaic of fiddleferns, buttercups, moss, and Queen Anne's lace
+carpets both sides of the path here leading into a wooded area.  A striking
+butterfly with enormous wings of orange laced with black catches your
+attention.  
+~
+0 0 2
+D0
+~
+~
+0 0 1518
+D2
+~
+~
+0 0 1521
+M100 H100
+S
+#1521
+Footpath Around Neverest Mt~
+A winding footpath meanders about the base of Neverest Mountain.  The
+trail rises upwards here and you have to step carefully over some rocks and
+small boulders which litter the way.  You startle slightly as a red-headed
+woodpecker drills a hole into a nearby tree.  
+~
+0 0 2
+D0
+~
+~
+0 0 1520
+D1
+~
+~
+0 0 1522
+M100 H100
+S
+#1522
+Silver Rose Pass~
+The gentle gracious wizardess known as Silver Rose often strolled this
+part of the path.  In her hands she carried a magical blue rose of
+friendship given to her by the wizard Wanderer.  The leaves and foliage in
+this part of the path have a striking silvery like sheen to them.  A soft
+breeze caresses your hair ruffling it slightly as you walk.  
+~
+0 0 0
+D1
+~
+~
+0 0 1523
+D3
+~
+~
+0 0 1521
+M100 H100
+S
+#1523
+Conversation Boulder~
+Set upon a slight rise off to one side of the path is a large smoothly
+sloped flat-topped boulder of the softest dovegrey with silver speckles in
+it.  Even during the cool of an evening, a comfortable magical warmth
+emanantes from the boulder.  To one side of the boulder is a cubby hole
+ledge where items are often left for other wizards.  The sweet fragrance of
+lilies fills the air.  It is rather private and secluded here just perfect
+for a heart to heart chat.  
+~
+0 0 0
+D2
+~
+~
+0 0 1524
+D3
+~
+~
+0 0 1522
+M125 H125
+S
+#1524
+Eastern Path~
+Here where the path is slightly damper you notice wee footprints, some
+cloven and some webbed.  Although you cannot see who they belong to, you
+catch the echo of some faint mischievous laughter echoing down the path.  As
+you wander deeper away from civilization you find yourself loping at an easy
+pace.  Your mind drifts to magical possibilities and mystical entities.  
+~
+0 0 0
+D0
+~
+~
+0 0 1523
+D2
+~
+~
+0 0 1525
+M100 H100
+S
+#1525
+Fianna Waypoint~
+A mythical band of soldiers known as the Fianna stand guard here blending
+in so carefully with the woods that you can scarcely see them.  Though tall
+and somewhat gruff, they do not seem intent on attacking for which you are
+grateful.  You wonder what they are guarding and peer about trying to figure
+it out.  
+~
+0 0 0
+D0
+~
+~
+0 0 1524
+D1
+~
+~
+0 0 1527
+D3
+~
+~
+0 0 1526
+M100 H100
+S
+#1526
+Footpath Around Neverest Mt~
+A wending footpath meanders all about the base of this lofty mountain. 
+The path is softly carpeted with evergreen needles and edged with small
+smooth pebbles that glow with a blue magical light.  Flying red squirrels
+engage in comical capers up amongst the tree branches overhead.  
+~
+0 0 0
+D1
+~
+~
+0 0 1525
+D3
+~
+~
+0 0 1503
+M100 H100
+S
+#1527
+Mana Pools~
+Lyrical pools of rippling jewel like mana lie clustered together in
+liquidy profusion.  Containing sustenance for both soul and spirit, they
+exude a magical healing aura as well.  The gentle verdant forest about the
+pools almost seems to embrace your weary spirit.  A white unicorn with a
+silvery horn is grazing among the trees gently nibbling on some pastel
+colored star flowers.  
+~
+0 0 1
+D3
+~
+~
+0 0 1525
+M150 H150
+S
+#1528
+Wooded Gully~
+~
+0 0 2
+D3
+~
+~
+0 0 1509
+D4
+~
+~
+0 0 1529
+M100 H100
+S
+#1529
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1530
+D5
+~
+~
+0 0 1528
+M0 H0
+S
+#1530
+Red Dragon Inn~
+~
+0 0 0
+D2
+~
+~
+0 0 1529
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 1503 0 1523
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

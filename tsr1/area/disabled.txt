@@ -1,0 +1,9 @@
+who 161 Beowolf
+decline 161 Beowolf
+accept 161 Beowolf
+challenge 161 Beowolf
+track 160 Beowolf
+bet 161 Beowolf
+order 161 Beowolf
+whois 161 Beowolf
+END

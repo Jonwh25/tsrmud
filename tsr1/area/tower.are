@@ -1,0 +1,1723 @@
+#AREADATA
+Name        [30   40] The Tower of Till the Mad.~
+Builders    Till~
+VNUMs       300 399
+Security    1
+End
+
+
+
+#MOBILES
+#364
+Louis the Lush~
+Louis the Lush~
+Louis the Lush is in his own private heaven.
+~
+There is but one thing thats is scarier than a drunk frenchman, and
+that is a drunk fisherman.  Unfortunatly Louis the Lush is both.
+Stumbling and giggling insanely, he lurches from rack to rack
+sampling from every bottle he touches.
+~
+human~
+A 0 0 0 
+0 0 9 0d7+453 32d10+100 5d6+16 0
+-10 -10 -10 0
+CD 0 0 AHMV
+standing standing male 1
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#366
+Creature Blue Lagoon~
+The Creature from The Blue Lagoon.~
+The Creature from the Blue Lagoon is here dripping slime.
+~
+Covered in greenish slime and dripping with water, the creature
+stares back at you from reptillian eyes.
+Nobody is gonna mess with the towers water.
+~
+lizard~
+A 0 0 0 
+0 0 9 0d7+518 34d10+100 5d7+17 0
+-11 -11 -11 0
+M L IL AGIXc
+standing standing none 20
+ACDEFGHKQVXc ACDEFHKQV M unknown
+#367
+Guardian~
+The Altar Guardian~
+The Altar Guardian is here placed by the hand of God.
+~
+Placed in this chamber at the birth of this unholy shrine,
+this beast lives but to serve its master.  Those unfaithful
+to the callings of its God are dealt a swift and sure death.
+~
+demon~
+A JTc 0 0 
+0 1 10 0d8+662 40d10+100 5d8+20 0
+0 0 0 0
+DFMO HMT BHILPT AHJMNV
+standing standing none 0
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#370
+Lich mage Noam~
+The Lich Mage~
+Tills long dead arch-rival, Noam the mage, shambles forward.
+~
+With worms and maggots crawling out of his eyes, and draped in
+a long rotted purple robe, Noam is hideous.  Once Tills only
+friend and compatriot, the two were driven apert by Tills 
+jealousy and quest for power.  Until one day it seemed to friends
+and family that Noam vanished from the face of the earth....
+ 
+ 
+      Things were arranged that way...
+~
+human~
+A 0 0 0 
+0 0 9 0d2+618 38d10+100 5d8+19 0
+-13 -13 -13 -1
+0 Q L AHMNV
+standing standing male 40
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#371
+The Zombie Servant~
+The zombie servant~
+The zombie servant is here awaiting his masters call.
+~
+Once a proper gentleman, ready at his masters beck and call, the zombie
+servant was the perfect chamberlain.  The fact that he is dead has not 
+quite penetrated his mushy head.  So until the end of time, he waits.
+~
+human~
+A 0 0 0 
+0 0 9 0d2+485 33d10+100 5d6+16 0
+0 0 0 0
+EK Q P AHMNV
+standing standing male 10
+ABCDEFGHIJKMV ABCDEFGHIJK M unknown
+#389
+demon chaos ebony~
+The Chaos Demon~
+The Chaos Demon howls at you from the Summoning circle.
+~
+This is obviously what finally killed Till the Mad.  With a goat head,
+a human body, and cat legs, it is truly  a hideous sight.
+It lunges for you, thirsting for your soul, but is stopped
+suddenly at the edge of the circle.  It howls in rage, the noise seems
+to drive spikes into your brain.  It seems dim around the beast, as though
+the very light itself is loath to touch the beast.  Around its neck you notice
+an inky black key, unfortunaly to get the key you must enter the circle, 
+thus creating a way for the demon to leave it.
+~
+demon~
+A JTc 0 0 
+0 0 10 0d8+662 40d10+100 5d8+20 0
+-15 -15 -15 -2
+CDIJO AQT BHILPT AHMNV
+standing standing none 75
+ACFGHMV ABCDEFGHIJK M unknown
+#390
+Ghost~
+Till the Mad~
+The ghost of Till the Mad is hovering here.
+~
+Whatever dark crimes stain his soul, he is paying for them now.
+His twisted experiments roam his once opulent tower while
+he remains chained to his bed chamber.  Locked here for eternity he fumes
+with eternal rage and damnation.
+~
+human~
+A 0 0 0 
+0 1 10 0d8+662 40d10+150 5d8+20 0
+-15 -15 -15 -2
+A ABP FGL AHMNV
+standing standing male 65
+ACFHIKMV ABCDEFGHIJK M unknown
+#391
+zombie maid~
+the Zombie Maid~
+The Zombie maid is here, dusting the decay.
+~
+Falling apart and rotting, wearing a cute little french maid uniform
+she is showing way, way to much flesh then you would care to see,
+you can feel your lunch pushing its way to the surface.
+~
+human~
+A 0 0 0 
+0 0 9 0d7+518 34d10+100 5d7+17 0
+-11 -11 -11 0
+N BP 0 AHMNV
+standing standing female 35
+AFHIMV ABCDEFGHIJK M unknown
+#392
+narauko chaos beastman man~
+the Hideous Experiment~
+The hideously twisted form of Narauko is dragging himself along.
+~
+It was probably once a man, perhaps even an adventurer such as yourself..
+but somehow he wound up on the bad side of Till the Mad, the result stands
+before you, hideously twisted and deformed, wiped of all intelligence and
+sanity...it wispers painfully "Beware...... before he gets you to"
+~
+human~
+A 0 0 0 
+0 0 9 0d7+564 36d10+100 5d7+18 0
+-12 -12 -12 -1
+DE P B AHKMV
+standing standing male 50
+ABCFGHMV ABCDEFGHIJK M unknown
+#393
+suit plate mail armor~
+The Living suit of armor~
+One of the suits of armor seems to watch you cross the room.
+~
+The suit of armor is obviously empty..but the eye slits
+seem to glow with a hellish green light...
+~
+human~
+A 0 0 0 
+0 0 9 0d2+541 35d10+100 5d7+17 0
+-12 -12 -12 -1
+CD BLQ 0 ACHKMNV
+standing standing none 25
+ACFHIJMV ABCDEFGHIJK M unknown
+#394
+chaos beast~
+The Chaos Beast~
+The Chaos Beast is here living in muck and filth.
+~
+The beast stares back at you from paranoid, slightly deranged eyes.
+Covered in refuse, filth and less savory goo it is a 
+pitiful sight.  Even more pitiful is the knowledge that it will defend
+its hovel of a home.
+~
+lizard~
+A 0 0 0 
+0 0 9 0d7+564 36d10+100 5d7+18 0
+-12 -12 -12 -1
+FM L IL AGIXc
+standing standing none 34
+AFGHVXc ACDEFHKQV M unknown
+#395
+nightmare beast~
+The nightmare beast~
+The nightmare beast is under the bed ready to get you!
+~
+Composed entirely of insubstantial mist, the Nightmare
+Beast steals souls and dreams..but he will
+settle for your gold.
+~
+human~
+A 0 0 0 
+0 1 9 0d2+541 35d10+100 5d7+17 0
+-12 -12 -12 -1
+EF AE L AHJMPV
+standing standing none 0
+ACFHKMV ABCDEFGHIJK M unknown
+#396
+ice golem creature~
+The Ice Golem~
+A towering creature of ice bears down on you
+~
+A veritable mountain of ice, created through powerful magics
+The Ice Golem crashes through anyone in its way.  Its artificial
+heart is said to hold great powers...
+~
+human~
+A 0 0 0 
+0 0 9 0d7+518 34d10+100 5d7+17 0
+-11 -11 -11 0
+CO EI 0 AHMV
+standing standing none 0
+ACFHJMVc ABCDEFGHIJK M unknown
+#397
+Twisted Experiment~
+Twisted Experiment~
+The twisted chaos experiment howls madly and charges!
+~
+Pieced together with foul magic, and kept alive in hideous pain,
+this beast no longer has even a faint grasp on sanity or the
+manhood it once knew.
+~
+human~
+A 0 0 0 
+0 1 9 0d7+518 34d10+100 5d7+18 0
+-11 -11 -11 0
+DFKM Q FL AHMNVY
+standing standing male 50
+ABCFGHJMV ABCDEFGHIJKLQY M unknown
+#398
+Zombie Cook~
+Zombie Cook~
+A rotting cook stands here prodding the meat.
+~
+He may have once been a great chef, but now he leaves pieces of himself
+in everything he makes. Decked out in an apron that is more rot than
+fabric he shuffles around the kitchen, a parody of his former self.
+~
+human~
+A 0 0 0 
+0 0 9 0d1+416 30d10+100 5d6+12 0
+-9 -9 -9 0
+CP BILPQ 0 AHMNV
+standing standing male 18
+ACEFHIMV ABCDEFGHIJK M unknown
+#399
+Phantom Sheet~
+Phantom Sheet~
+A large white sheet with eyes burning with hate is floating about the room.
+~
+A large white sheet is magically floating about the room.  You realize
+that the sheet is living.  Its eyes and maw burn with an eerie green flame,
+and it moans mournfully.  It appears to be looking for something.  
+ 
+~
+human~
+A 0 0 0 
+0 0 9 0d1+416 30d10+100 5d6+15 0
+-9 -9 -9 0
+FG BIPQ 0 ACHMNVY
+standing standing none 20
+ACFGHJKMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#333
+candle candelabra light~
+the Candelabra~
+A majestic candelabra sits in the middle of the table~
+unknown~
+light G AO
+0 0 72 0 0
+25 5 22 P
+A
+2 -1
+A
+3 1
+A
+4 1
+#335
+box~
+a cardboard box~
+A dusty cardboard box sits in the corner~
+unknown~
+container 0 0
+200 AC 0 200 0
+0 0 0 P
+#336
+head~
+the Rotten Head~
+A rotting head stares back at you from long dead eyes~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 2 0 P
+#337
+cleaver knife meat~
+the Zombie Cleaver~
+A meat cleaver sits in the dust rotting~
+unknown~
+weapon A AN
+axe 5 7 slash H
+30 10 30 P
+A
+13 10
+A
+2 -1
+A
+18 -1
+A
+19 1
+A
+1 1
+#338
+Tills Dagger~
+dagger~
+Tills dagger~
+unknown~
+weapon 0 AN
+dagger 8 25 slash 0
+152 0 0 P
+A
+19 40
+#339
+ice golem heart~
+the Ice Golem Heart~
+The humming heart of the Ice Golem rests here.~
+unknown~
+gem B AO
+0 0 0 0 0
+33 10 100 P
+A
+4 -2
+A
+14 -50
+A
+18 1
+A
+12 -40
+A
+19 3
+A
+2 -1
+A
+13 40
+A
+5 2
+A
+1 2
+#340
+bed~
+the Bed~
+A large, cozy double bed sits in the room.~
+unknown~
+furniture 0 0
+2 300 1168 10 10
+0 0 0 P
+#341
+the chest in~
+the Chest~
+A mid-sized wooden chest sits at the foot of the bed~
+unknown~
+container 0 0
+100 AC 0 100 0
+0 0 0 P
+#342
+rags~
+moldy rags of what used to be fine clothing.~
+Moldy rags of what used to be fine clothing.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#343
+linen sheet~
+a Linen Sheet~
+A clean linen sheet is here, it would make a great toga.~
+unknown~
+armor A AD
+11 11 11 11 0
+35 10 30 P
+#344
+spell book~
+tills Spell Book~
+On the shelf is a spellbook bound in Dragon Hide.~
+unknown~
+scroll 0 A
+50 'shield' 'heal' 'change sex' ''
+30 3 0 P
+#345
+leggings armor plate~
+ancient steel leggings~
+A pair of leggings are here which, despite their obvious age, are in good condition.~
+unknown~
+armor A AF
+7 7 7 7 0
+35 20 35 P
+#346
+dagger snakebite~
+the dagger called "Snakebite"~
+A wicked dagger with a glistening tip is here.~
+unknown~
+weapon B AN
+dagger 5 8 stab H
+35 5 40 P
+#347
+jade key~
+the Jade key~
+A key made entirely of jade sits here.~
+unknown~
+key V AO
+0 0 0 0 0
+0 2 0 P
+#348
+desk drawer~
+the Oak desk~
+An intricately carved desk rests along the far wall.~
+unknown~
+container 0 0
+1000 ACD 347 1000 100
+1 100 1000000 P
+#349
+runed etched golden key~
+the Runed Key~
+A golden key etched with many small runes is here.~
+unknown~
+key GV AO
+0 0 0 0 0
+0 2 0 P
+#350
+inky black key~
+the steaming demon key~
+An inky black key is steaming in the dust.~
+unknown~
+key V ACO
+0 0 0 0 0
+0 4 3 P
+#351
+master key~
+tills key~
+The only way out of the recall room~
+unknown~
+scroll 0 A
+0 '' '' '' ''
+0 0 0 P
+#362
+wine chardonay~
+chardonay~
+A fine bottle of Chardonay is here collecting dust.~
+unknown~
+drink Y AO
+100 100 'red wine' 0 0
+10 3 10 P
+#363
+Elvish Elf Elven fine~
+elvish Wine~
+A fine bottle of Elvish wine begs to be enjoyed.~
+unknown~
+drink 0 AO
+50 50 'red wine' 0 0
+0 0 50 P
+#365
+broken bottle~
+a Broken wine bottle~
+Willy the Winos broken bottle has been chucked here.~
+unknown~
+weapon 0 AN
+exotic 5 8 beating 0
+36 0 0 P
+A
+3 -3
+A
+13 20
+A
+5 1
+#368
+Black Altar~
+the Black Altar~
+The Altar sits deep in the room, clinging to the shadows.~
+unknown~
+container 0 0
+10000 0 0 1000 0
+0 0 0 P
+#369
+nightstone pendant black stone~
+the Nightstone Pendant~
+A glowing black stone,attached to a silvery cord is here.~
+unknown~
+treasure AEJLY AC
+0 0 0 0 0
+40 2 100 P
+A
+19 -1
+A
+18 3
+A
+14 -50
+A
+5 -2
+A
+4 -2
+A
+3 2
+A
+1 2
+A
+13 50
+A
+12 50
+#377
+no name~
+none~
+None~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#397
+A big Soft Chair~
+a big soft Chair~
+A big down-stuffed chair for guests~
+unknown~
+furniture 0 AO
+2 5000 8 0 0
+0 0 0 P
+#398
+A Big soft Chair~
+a big soft chair~
+A big Down Chair is here~
+unknown~
+furniture 0 AO
+1 5000 8 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#300
+The street~
+The street is dark in this section of town.  Suddenly a cold wind comes
+from the south and chills you to the bone.  To your left stands a tall tower
+made of dark stone.  It was not there a second ago; or was it?  The tower
+stands at least three stories high and is surrounded by a wrought iron
+fence.  A gate swings from the fence by one hinge.  A cobblestone path leads
+up to the front door of the tower.  It might be wise to continue walking
+past the tower.  
+~
+0 0 1
+D0
+To the north lies a broken and rusted out iron gate.  Its lock
+and chain hang broken and useless.
+~
+~
+0 0 301
+D3
+~
+~
+0 0 455
+M100 H100
+S
+#301
+Cobblestone Path~
+The path to the tower is made of dark cobblestone and has seen better
+days.  The air seems to grow colder the closer you move towards the tower
+and a low howling wind has started coming from the south.  As you look behind
+you towards the street you notice that it is no longer there.  It has been
+replaced by a thick gray mist, which seems to be taking over the courtyard. 
+The only untouched place will be the tower.  The front door of the tower
+opens slowly, greeting you with a draft of warm air.  A scream comes from
+within.  
+~
+0 8196 1
+D0
+The heavy wooden door swings slowly inward, inviting you to 
+explore what lies beyond.
+~
+~
+0 0 302
+M100 H100
+S
+#302
+Entance Way~
+The entranceway is warm and welcoming compared to the weather that is
+starting outside.  There is an iron chandelier hanging from the ceiling by a
+thick chain.  The candles in it give off a thick black smoke that rises to
+the ceiling ten feet above.  The walls and floor are polished to a black the
+color of the night sky.  There are four doorways in the room: one to the
+north, one to the east, one to the west, and the one you came through to the
+south.  As you watch, the door to the south disappears.  
+~
+0 8197 0
+D0
+A plain wooden door lies to your north, it seems innocent enough...
+~
+~
+0 0 305
+D1
+A plain unfinished pine door lies to your east, set with an iron
+door handle, no lock is apparent.
+~
+~
+1 0 303
+D3
+A light wooden door with swinging hinges lies to your west..
+~
+~
+1 0 304
+M100 H100
+S
+#303
+Sitting Room~
+This small room has been closed up and not used for a long while.  The
+table and chairs are covered with sheets wich have a thick layer of dust on
+them.  Oddly enough though, the floor shows no sign of dust and neither do
+the tapestries that cover the north and east walls.  The window to the south
+should look out into the courtyard but only a thick inky blackness can be
+seen.  
+~
+0 8201 10
+D3
+A plain unfinished pine door is the only exit from this room.
+~
+~
+1 0 302
+M100 H100
+S
+#304
+Sitting Room~
+This small room has been closed up and not used for a long while. The
+table and chairs are covered with sheets wich have a thick layer of dust upon
+them.  Oddly enough though, the floor shows no sign of dust and neither do
+the tapestries that cover the north and west walls.  The window to the south
+should look out into the courtyard but only a thick inky blackness can been
+seen.  
+~
+0 8201 0
+D1
+A pine door with rusty hinges is the rooms only obvious exit.
+~
+~
+1 0 302
+M100 H100
+S
+#305
+Hallway~
+The hallway is hot almost to the point of making you pass out.  It is
+made from the same polished black stone as the rest of the tower.  The smell
+of food wafts through the north doorway.  Doors lie to the east and west.  
+~
+0 532485 0
+D0
+The hallway continues to the north.
+~
+~
+0 0 306
+D1
+To your east lies a wooden door on swinging hinges, the room beyond is
+obviously well lit as a cheery light seeps through the cracks along the 
+sides of the door.
+~
+~
+1 0 308
+D2
+To the south lies the wooden door through which you just entered.
+~
+~
+0 0 302
+D3
+The door to the west is slightly warped and
+obviously hasnt been opened in quite some time.
+~
+~
+1 0 309
+M100 H100
+S
+#306
+Hallway~
+This hallway is hotter than the last, you feel as though you have stepped
+into the very center of HELL.  The black marble stones in the hallway seem
+to glow with a red haze, reinforcing the strange heat of the room.  Yet the
+stones are cool to your touch.  The smell of food comes from the east.  To
+the north stairs lead down into the darkness, and a set of chipped and
+crumbling stairs spiral upwards on your west side.  
+~
+0 8205 0
+D1
+The door is warped and the paint is blistered, an anguished whine
+comes from the other side of the door..
+~
+~
+1 0 307
+D2
+The hallway extends further south
+~
+~
+0 0 305
+D4
+The stairs leading up are old and crumbly, they look safe enough
+if you are careful.
+~
+~
+0 0 314
+D5
+A set of stone stairs covered with lichen and fungus lead down
+into the dark, dank basement.
+~
+~
+0 0 310
+M100 H100
+S
+#307
+Kitchen~
+As you enter the room you are hit by a blast of hot air.  The smell of
+food as been replaced by the stench of rotten meat.  Cast iron pots and
+pans, are scattered about the room.  In the center of the room is a large
+chopping block, covered in dried blood.  Over the fire, a spit turns by
+itself.  Upon the spit is some form of meat, with many protruding faces
+screaming in agony.  The sound is maddening, and you feel your sanity
+slipping away.  A door leads to the south.  
+~
+0 8196 0
+D2
+The swinging pine door to the south is covered in greases, oils and flecks of
+less desirable substances.
+~
+~
+0 0 308
+D3
+The door leading back into the hallway is covered in grease and blood.
+It has numerous dents covering it, it looks as though something..
+or someone has been thrown against it...repeatedly.
+~
+~
+1 0 306
+M100 H100
+S
+#308
+Dining Room~
+A large dining room occupies you sight, the table is set with fine silver
+plates, serving dishes, knives and forks.  The candelabra are lit and
+placed in the middle of the table.  It looks like dinner is about to be
+served.  The eastern wall has a large tapestry on it depicting a scene of a
+large demon destroying an army of the king.  To the north is a door, with
+the smell of food coming though it.  
+~
+0 8200 10
+D0
+To your north stands a swinging pine door covered in little dents,
+almost as though someone has been throwing things at it...
+But what could those little flecks of red be?
+~
+~
+0 0 307
+D3
+To the west is the door leading back out into the hallway.
+~
+~
+1 0 305
+M100 H100
+S
+#309
+Empty Room~
+This room is dusty and smells of mildew.  Spiders and small rodents scurry 
+throught the thick dust that coats everything.  It is obvious that
+noone has been here in quite some time.  The room is competely empty
+except for a single box in the far corner.
+~
+0 8201 0
+D1
+To the east is the door leading back in to the hallway
+~
+~
+1 0 305
+M100 H100
+S
+#310
+Basement~
+You have descended the stairs into a damp and cold room.  The walls and
+floors are made of a plain looking stone.  Fungi and lichens grow in the
+cracks of the walls.  The faint odor of sulphur can be detected coming from
+the east and north doorways.  
+~
+0 8205 0
+D0
+Through the open door to the north you can see what appears to be shelves..
+~
+~
+0 0 311
+D1
+The door to the east is covered in condensation, you sense a chill
+coming from the room beyond.
+~
+~
+1 0 313
+D4
+Stone stairs covered in slime lead back up to the light..
+~
+~
+0 0 306
+M100 H100
+S
+#311
+Dry Storage~
+This room smells of preserving fluids and mildew.  Along the north and
+west walls are rotting wooden shelves.  The shelves hold many jars, some
+with assorted powders and some with body parts of various animals.  A low
+growling can be heard from the east doorway.  
+Your light glints of a small brass ring in the middle of the room.
+~
+0 8201 0
+D1
+Great scratches mar the fine finish of the door, horrible cries
+can be heard beyond the door.
+~
+~
+1 0 312
+D2
+To the south you sense fresher air..
+~
+~
+0 0 310
+D5
+Looking down you see a small brass ring set into the floor.  Around
+it you can barely make outh the outlines of what appears to be a  
+door leading down.
+ 
+~
+trap~
+1 0 351
+M100 H100
+S
+#312
+Laboratory~
+The room looks like some form of torture chamber with various hooks,
+knives, saws and spikes hanging from the north wall.  Along the east wall
+are shelves which hold various jars of spilled powders and overturned glass
+beakers, testubes, and stirring rods.  Some of which have fallen to the
+floor and shattered.  But the object wich draws your attention is a large
+slate table with straps at both ends and both sides.  The straps appear to
+have been meant to hold down a persons head, legs and arms.  Doorways lead
+to the west and south.  
+~
+0 8201 0
+D2
+A sudden draft from the south raises the hairs on the back of you neck..
+~
+~
+1 0 313
+D3
+Through the open door to the east you can see what appears to be shelves.
+~
+~
+1 0 311
+M100 H100
+S
+#313
+Cold Storage~
+This room is very cold , your breath can be seen coming from your mouth. 
+Small patches of ice on the floor make movement about the room difficult. 
+Icicles hang from the shelves that occupy the east wall.  The shelves hold
+many frozen animals, that various body parts are missing.  Up against the
+south wall is a wooden wardrobe covered in a sheet of thin ice.  A low
+growling can be heard through the north doorway.  
+~
+0 8201 0
+D0
+The door is bowed inwards, as though something heavy has been pounding
+from the other side.
+~
+~
+1 0 312
+D2
+The wardrobe seems deeper than it first appeared.
+~
+~
+1 0 333
+D3
+Through the western door you can see the stairs leading out of this
+hole in the ground.
+~
+~
+1 0 310
+M100 H100
+S
+#314
+Upstairs Hallway~
+The hallway is very warm and gives you a cozy feeling, almost as if you
+were back HOME, safe by the fire.  But you quickly remember where you are. 
+The hallway is of the same polished black stone that you saw in the
+downstairs hallways.  Covering the walls are deep scratches made by some
+type of animal, but what type is unkown.  The hallway continues west and
+north.  The stairs which have brought you here are gone.  
+~
+0 9 0
+D0
+The hallway continues to the north.
+~
+~
+0 0 319
+D3
+The hallway continues to the west, further in you can see doors.
+~
+~
+0 0 315
+M100 H100
+S
+#315
+Western Hallway~
+The hallway is warm and comfrotable.  The same strange claw marks are on
+the walls and doors of this section of the hallway too.  Three oak doors
+occupy your sight; one to the north, one to the west and one to the south. 
+Beside the west and south doors are the remians of what used to be chairs,
+now smashed to bits.  
+~
+0 8201 0
+D0
+The door to your north is of lesser quality then the rest, and appears
+to lead to a closet of some kind.
+~
+~
+1 0 316
+D1
+Looking back you see the T-junction, with the hallway going
+north and the stairs going nowhere.
+~
+~
+0 0 314
+D2
+To the south is a stout oak door, the handle seems to be missing completely.
+~
+~
+1 0 317
+D3
+To the west is a stout oak door with a rusting iron knob.
+~
+~
+1 0 318
+M100 H100
+S
+#316
+Linen Closet~
+This large closet contians bed sheets, pillow cases, and heavy blankets. 
+Some seen are made from silk and others of wool.  You dont think anyone
+would mind if you took some home for your mother.  Is it your imagination or
+is the back of the closet moving farther away from you?  And is that a sheet
+floating towards you?  
+~
+0 8201 1
+D2
+The flimsy wooden door to the south is the only way out 
+of this closet.  It was meant for sheets, not you.
+~
+~
+1 0 315
+M100 H100
+S
+#317
+Guest Bedroom~
+You have entered one of the towers guest bedrooms.  The room is very
+large for a tower this size, almost as if the tower was magically expanding
+to suit its needs.  The room is warmed and lit by a fire in the firplace,
+but the fireplace has no wood in it.  The window in the south wall looks out
+into the inky blackness of some void.  The room is decorated very plainly
+with a small writing table and chair against the east wall, and a very
+comfortable bed against the west wall, with an open chest at the foot of the
+bed.  
+~
+0 8204 0
+D0
+Through the open door you can see the hallway and the linen closet.
+~
+~
+1 0 315
+M100 H100
+S
+#318
+Guest Bedroom~
+The room you have entered is a small bedroom.  A fire burns in the
+fireplace giving heat and light to the room, yet you feel cold as you look
+about.  It seems strange that there are no windows in the room.  On the
+floor is the skin of a very large bear, used as a throw rug.  A small
+writing desk and chair are against the south wall and a bed is against the
+north.  The bed looks very inviting to sleep on despite your uneasy feeling.
+Maybe if you just looked under the bed first.  
+~
+0 8200 0
+D1
+Through the open door you can see the hallway and further back the 
+stairs, it looks as though the mist is seeping onto this landing,
+better hurry...
+~
+~
+1 0 315
+M100 H100
+S
+#319
+Northern Hallway~
+This part of the hallway has abundant amounts of scratches on the floor,
+the walls and the door to the east.  Then one set of scratches catches your
+eye it looks as though the words HELP ME are scrawled out.  A foul smell
+comes from the east door.  The hallway continues north.  
+~
+0 8201 0
+D0
+The hallway stretches much further to the north.
+~
+~
+0 0 321
+D1
+Unsavory odors waft from the oak door to the east.
+~
+~
+1 0 320
+D2
+The hallway extends back to te south.
+~
+~
+0 0 314
+M100 H100
+S
+#320
+Privy~
+The mixed odors of urine and feces make the room almost unbearable to be
+in.  The room is made from a plain grey stone.  Straw is strewn about the
+floor and mixed with bodily waste.  The smashed remains of two buckets, a
+stand, and two porcelain bowls litter the room.  Savage claw marks cover the
+walls.  
+~
+0 8201 0
+D3
+The oak door to the west is the way out of this place, the air
+is definately fresher that way.
+~
+~
+1 0 319
+M100 H100
+S
+#321
+Northern Hallway~
+This part of the hallway once had tapestries on the walls but they are
+now shredded beyond recognition.  The door to the west is covered in
+scratches, but nothing marks the door to the east.  The door to the east
+glows with a faint magical light.  The hallway continues north.  
+~
+0 8201 0
+D0
+The hallway continues north, deeper into the tower.
+~
+~
+0 0 324
+D1
+The door to the east hums with magical wards and protections.
+~
+~
+1 0 323
+D2
+The hallway extends south into the shadows.
+~
+~
+0 0 319
+D3
+The sturdy oak door to the west is rather inconspicous..except for the 
+huge scratches marring its surface.
+~
+~
+1 0 322
+M100 H100
+S
+#322
+Trophy Room~
+The stuffed and mounted heads of various animals adorn the west walls. 
+On the south wall are the heads of stranger animals, one of a man with a
+lions mane, one of a red dragon, and one of a human head with snakes for
+hair.  A rug made from a tiger covers the floor.  Against the north wall are
+three sets of platemail armour.  From the looks of this room someone or
+something is a great hunter. 
+~
+0 8201 0
+D1
+The door to the east leads back out into the hallway.
+~
+~
+1 0 321
+M100 H100
+S
+#323
+Library~
+You have entered a library of some type.  A large table stands in the
+center of the room, covered with open books of countless age.  Along the
+north and east walls are shelves with more books on them than a dragon has
+scales.  Along the south wall is a large painting of a creature with the
+head of a goat, the body of a man, and the legs of a giant cat, wielding a
+great axe.  The creature is standing over the body of a slain warrior. 
+Upon closer inspection you notice the slain body is YOURS.  
+~
+0 8201 0
+D3
+The door to the west heads back in to the hallway.  The protections
+on it dont seem very threatening anymore.
+~
+~
+1 0 321
+M100 H100
+S
+#324
+Nothern Hallway~
+The hallway is almost at an end.  Some straw litters the floor and a
+bestial smell can be detected.  Two oak doors are beside you one to the east
+and one to the west.  The same strange claw marks also adorn these doors.  
+~
+0 8201 0
+D0
+The hallway seems to be coming to an end to the north, you can see
+stairs heading up.
+~
+~
+0 0 327
+D1
+To your east is a flimsy oak door.
+~
+~
+1 0 326
+D2
+The hallway extends to the south, its end lost in shadow..
+ 
+~
+~
+0 0 321
+D3
+To your west is a flimsy oak door.
+~
+~
+1 0 325
+M100 H100
+S
+#325
+Servants Quarters~
+The room is the only one in the tower you have seen that has shown the
+effects of time.  A musty oder permeats the room.  Cobwebs fill all
+available space making vision difficult.  The curtains on the window over
+the bed are nothing but tatters.  The bed is only barely reconizable and the
+chair and writing desk are a pile of rotten wood.  The only thing seen from
+the window is the still, inky blanckness of some void.  
+~
+0 8201 0
+D1
+The flimsy oak door is the only exit from this room, it leads back into 
+the hallway.
+~
+~
+1 0 324
+M100 H100
+S
+#326
+Servants Quarters~
+This room does not seem to have escaped the passage of time as the other
+parts of the tower have.  The room smells of must and decay.  In the
+southern corner lies a pile of rotten wood.  A fireplace to the north has
+been reduced to rubble.  The curtians above the bed are in tatters and the
+bed broken in half with the passage of time.  This makes you wonder,"How old
+is the tower anyway?"  Then you notice there is a set of foot prints on the
+floor besides your own.  They seem to be fairly recent.  
+~
+0 8201 0
+D3
+The flimsy oak door that leads into the hallway appears to be the only
+exit from the room.
+~
+~
+1 0 324
+M100 H100
+S
+#327
+End of Northern Hallway~
+This long hallway has finally come to an end.  A large pile of straw is
+gathered in the northeast corner.  Just above the straw, mounted in the wall
+is a large chain and a broken iron neck collar.  Obviously the chain was
+designed to hold a large creature, but was not strong enough to do the job. 
+A large set of stone strairs to the north lead upwards into the darkness and
+a wooden door lies to the west.  A cold draft comes from the staircase and
+it fills your soul with despair. 
+~
+0 8201 0
+D2
+The hallway extends way back to the south..
+~
+~
+0 0 324
+D3
+To your east is a strong oak door, much higher quality, and much finer
+style then anything youve seen so far.
+~
+~
+1 0 328
+D4
+~
+~
+0 0 330
+M100 H100
+S
+#328
+Study~
+The walls of this room glow with a soft light, illuminating the area.  A
+small bookcase containing maybe a dozen books is mounted on the south wall. 
+Against the east wall there is a great desk, nearly eight feet in length,
+and covered with intricately carved scenes of nymphs and fawns playing in
+the woods.  You have never seen its equal.  To the north is a wooden door.  
+~
+0 8200 0
+D0
+To the north is a door like no other, ornately carved with the picture
+of a grinning sprite etched into its surface.  The golden doorknob is shaped 
+like a twisting snake.
+~
+~
+1 0 329
+D1
+The door to the east is well built and fancy. It leads out into the 
+hallway.
+~
+~
+1 0 327
+M100 H100
+S
+#329
+Master Bedroom~
+This finely decorated bedroom must belong to the master of the tower.  On
+the east wall hangs a large tapestry embroiderd with silver and gold.  The
+west wall contains a huge fireplace carved to look like a dragon with its
+mouth open.  Above the fireplace hangs a painting of a young sprite.  To the
+north lies a bed that could comfrotably sleep to giants.  At the foot of the
+bed is an empty locker.  
+~
+0 8201 0
+D2
+~
+~
+1 0 328
+M100 H100
+S
+#330
+Attic~
+You have seemed to reach the top of the tower.  This small room is empty
+except for a pair of large golden doors to the north, with what appears to
+be arcane symbols engraved upon them.  Despair fills your soul as you
+approach the doors.  
+~
+0 8205 1
+D0
+Before you stands a pair of huge golden doors.  They are covered in arcane
+etchings, as you stare at the doors the symbols seem to writhe in agony
+There is a huge bronze knocker on the front of the door, and the handle
+is carved in the likeness of a scowling sprite.  The lock on the door
+glows pink.
+~
+~
+1 349 331
+D5
+The crumbling stone stairs lead back to the second floor of the tower.
+~
+~
+0 0 327
+M100 H100
+S
+#331
+Summoning Chamber~
+The smell of sulpher is overwhelming, making you gag as you enter this
+room.  Your eyes must be deceiving you for this room is at least forty by
+eighty feet, and could not fit into a tower this size.  The double doors
+which you have come through have vanished and become a part of the south
+wall.  Symbols cover almost every inch of the walls.  A large summoning
+circle has been ingraved into at least half the floor.  A small iron door is
+to the east.  Suddenly a bright flash of light blinds you and an insane
+howling can be heard getting louder and louder.  
+
+   
+ 
+~
+0 8193 0
+D1
+The first door in the tower that is not wooden.  The door seems
+a little out of place as though it wasnt in the original construction
+of the tower.
+~
+~
+1 350 332
+D2
+The doors are inscribed with twice as many runes on this side, 
+it looks nasty, sure is a good thing you had a key.
+~
+~
+1 349 330
+M100 H100
+S
+#332
+Credits Room~
+This room is bare and devoid of all exits, including the one you have
+come through.  Only a small plaque hangs on the north wall.  
+~
+0 4 0
+E
+plaque~
+Created by Till the Mad for The Shadow Realms..
+ 
+Playtested by Khisanth, Dinrauko, Cerebus.
+ 
+Original concept: Grodi.
+
+~
+D3
+Now why the heck would you want to go back there?
+~
+~
+1 350 331
+M100 H100
+S
+#333
+Wardrobe~
+This wardrobe seems almost to be a room in itself.  The temperature in
+here is almost unbearably cold.  Large icicles hang from the ceiling and a
+thin layer of snow covers the floor.  You can see your own breath in the
+cold air before you.  As your eyes become adjusted to the darkness you
+notice that numerous human corpses adorn the east and west walls.  What
+purpose these frozen bodies will serve, only the gods may know.  Something
+else is becoming apparent: there is a cloud of breath in this room that is
+not your own.  
+~
+0 8197 0
+D0
+It feels much warmer towards the north.
+~
+~
+1 0 313
+M100 H100
+S
+#351
+Passageway~
+This passageway appears to have been cut from solid rock.  Small 
+rivulets of moisture course there way down the rock.  It is 
+obvious that all of the comforts of home were spared down here.
+Set into one side of the rock face is a rotting wooden ladder that leads 
+down into the shadows below..
+~
+0 8197 0
+D4
+Looking up you see that the rock seems to mesh perfectly with the 
+bottom floor of the tower, light filters down through the cracks
+around the trap door.
+~
+trap~
+1 0 311
+D5
+The bottom of the ladder is lost in shadows...
+~
+~
+0 0 352
+M100 H100
+S
+#352
+passageway~
+The ladder ends abruptly about ten feet above the rocky floor.  Leaping down
+you land in one of the many puddles of moisture on the ground.  The air
+is thick and moist, there are many varieties of lichen and moss growing
+here.  Ahead the passageway branches in many directions.
+~
+0 8200 0
+D0
+The passageway extends into misty darkness...
+~
+~
+0 0 353
+D4
+Looking up you see that the ladder is still within reach, if you streeeetch..
+~
+~
+0 0 351
+M100 H100
+S
+#353
+Small Cavern~
+This small cavern looks as though it were mined with explosives.
+The rock is jagged and uneven, it was either mined in a great hurry
+or with very little care.  Great wisps of fog and moisture flow
+from the east, while the passageways to the north and west seem much drier.
+~
+0 8192 0
+D0
+The passageway seems to get smoother to the north.
+~
+~
+0 0 356
+D1
+Great gusts of steam come from the east, you here the sounds of
+water lapping on a shore.
+~
+~
+0 0 355
+D2
+The ladder up is just to the south.
+~
+~
+0 0 352
+D3
+It seems dry to the west, almost dusty compared to where you are now.
+~
+~
+0 0 354
+M100 H100
+S
+#354
+Wine Cellar~
+As you enter this room you are greeted by an amazing sight, Row upon
+row of wine racks stretch out before you.  Covered in dust they have sat
+here undisturbed for a great many years.  
+Running your gaze over the bottles you see many a fine vintage..
+Certainly no one will mind if you sample some.
+ 
+
+Except maybe the guy who has been drinking it.
+~
+0 8192 0
+D1
+The passage leads out into the main passageway.
+~
+~
+0 0 353
+M100 H100
+S
+#355
+Underground Hot springs~
+This is apparantly how Till got his hot water. A natural underground
+hot spring stretches througouth the cavern.  The steam rising off the lake
+creaets a perpetual fog bank in the rooms.  By the littered bones about
+you can tell that this area is inhabited by small amphibians..and 
+that something large enjoys munching on them.
+~
+0 8192 1
+D3
+The passage leads out to the main passageway.
+~
+~
+0 0 353
+M100 H100
+S
+#356
+Passageway~
+As you push deeper into the caverns you notice that the mining style
+has changed.  This work looks almost magical in nature.  The floor and
+walls have become smoother, darker and highly polished.  A cold
+draft blows in from the east, and moving north has become difficult
+as the evil emanating from the nothern room has become almost a physical
+force.
+
+ 
+~
+0 8192 0
+D0
+The passage to the north is dark, and cold.
+~
+~
+0 0 357
+D1
+The smell of rot drifts from the east.
+~
+~
+0 0 360
+D2
+The passage south leads back to the tower.
+~
+~
+0 0 353
+M100 H100
+S
+#357
+Altar Cavern~
+Shaped like a dome, with perfectly smooth walls carved out of the
+glowing earth, and a ceiling that is lost to the shadows, this
+cavern is huge! The residual feelings of terror and despair
+that linger in this room makes you shudder as you contemplate the
+dark deeds that must have been performed here.  Along the northern
+wall is a great altar, erected to pay homage to an obscure,
+foul-hearted God.
+Lying atop the altar is a glowing black stone.
+~
+0 8200 0
+D0
+You seem to see a small exit just behind the Altar.
+~
+~
+0 0 358
+D2
+The passage south leads back to the safety of the caverns.
+~
+~
+0 0 356
+M100 H100
+S
+#358
+Passageway~
+Carved sloppily and quickly, this passageway dives back into the
+rock.  Grime and dirt cover the floors and walls. A single set of footprints
+extend into the gloom.  An old piece of wood is tacked up on the wall
+with what appears to be writings scratched on it.
+~
+0 8192 0
+E
+wood~
+Though the language appears old you can  understand what is written..
+    "Turn back..."
+~
+D0
+The passageway north decsends into the gloom.
+ 
+~
+~
+0 0 359
+D2
+The way south leads back into the Altar room.
+~
+~
+0 0 357
+M100 H100
+S
+#359
+Passageway~
+This passageway doesnt seem to go anywhere, each step you take echos
+on forever, ominous rumblings sound from the tonnes of rock gathered
+above your head.  The same set of footprints continues into the
+passage.  There is another piece of wood tacked to the wall.
+  
+  
+~
+0 8192 0
+E
+wood~
+The same writing style is on this board..
+ 
+     "Turn back...Get out of my home!"  
+~
+D0
+You seem to be approaching a small room to the north.
+~
+~
+0 0 361
+D2
+Maybe you should do as the signs say and turn back?
+~
+~
+0 0 358
+M100 H100
+S
+#360
+Burial Ground~
+This small cavern looks as though it were created as an afterthought,made
+in the same careless style as he original caverns.  A supernatural
+chill saturates the room, this looks like the spot where all those
+who opposed Till the MAD finally found their eternal resting place.
+Obviously a few of those skeletons in the closet are not all to 
+content with their fate.
+~
+0 8192 0
+D3
+This passage leads back out into the main passageway.
+~
+~
+0 0 356
+M100 H100
+S
+#361
+Cave-In~
+As you enter this small room the rumbling in the ceiling suddenly
+rises to a terrible roar as tonnes of rock pour down and seals
+the entrance.  Strewn about are other hapless adventurers who encountered
+this trap, now little more than starved out corpses.  There is a large,
+well-kept piece of varnished wood on the wall, with writing on it.
+~
+0 4 0
+E
+wood~
+Scratched into the wood with loving care are the words..
+  "Now you will never invade my home again..thieves deserve their fate!"
+~
+M100 H100
+S
+#371
+~
+~
+0 8197 0
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 370 spec_cast_mage Load to: The Lich Mage
+M 371 spec_guard Load to: The zombie servant
+M 390 spec_cast_mage Load to: Till the Mad
+M 391 spec_janitor Load to: the Zombie Maid
+M 395 spec_thief Load to: The nightmare beast
+M 396 spec_breath_frost Load to: The Ice Golem
+M 399 spec_ogre_member Load to: Phantom Sheet
+S
+
+
+
+#RESETS
+D 0 302 1 1
+D 0 302 3 1
+D 0 303 3 1
+D 0 304 1 1
+D 0 305 1 1
+D 0 305 3 1
+D 0 306 1 1
+D 0 307 3 1
+D 0 308 3 1
+D 0 309 1 1
+D 0 310 1 1
+D 0 311 1 1
+D 0 311 5 1
+D 0 312 2 1
+D 0 312 3 1
+D 0 313 0 1
+D 0 313 2 1
+D 0 313 3 1
+D 0 315 0 1
+D 0 315 2 1
+D 0 315 3 1
+D 0 316 2 1
+D 0 317 0 1
+D 0 318 1 1
+D 0 319 1 1
+D 0 320 3 1
+D 0 321 1 1
+D 0 321 3 1
+D 0 322 1 1
+D 0 323 3 1
+D 0 324 1 1
+D 0 324 3 1
+D 0 325 1 1
+D 0 326 3 1
+D 0 327 3 1
+D 0 328 1 1
+D 0 331 1 2
+D 0 332 3 2
+D 0 333 0 1
+D 0 351 4 1
+M 0 399 1 303 1
+M 0 399 2 304 1
+M 0 399 1 304 1
+M 0 398 2 307 1
+E 0 337 0 16
+E 0 337 0 16
+O 0 333 0 308
+M 0 371 1 308 1
+O 0 335 0 309
+P 0 336 0 335 1
+M 0 397 1 312 1
+O 0 377 0 314
+O 0 343 0 316
+M 0 399 1 316 1
+O 0 340 0 317
+O 0 341 0 317
+P 0 342 0 341 1
+O 0 340 0 318
+O 0 341 0 318
+P 0 342 0 341 1
+M 0 395 1 318 1
+M 0 394 1 320 1
+M 0 392 1 321 1
+E 0 346 0 16
+M 0 393 1 322 1
+E 0 345 0 7
+O 0 344 0 323
+M 0 391 1 326 1
+O 0 348 0 328
+P 0 349 0 348 1
+M 0 390 1 329 1
+E 0 347 0 18
+M 0 389 1 331 1
+E 0 350 0 3
+M 0 396 1 333 1
+G 0 339 0
+O 0 363 0 354
+M 0 364 1 354 1
+E 0 365 0 16
+O 0 362 0 354
+M 0 366 1 355 1
+O 0 368 0 357
+P 0 369 0 368 1
+M 0 367 1 357 1
+M 0 370 1 360 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

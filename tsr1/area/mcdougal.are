@@ -1,0 +1,1534 @@
+#AREADATA
+Name        [  ALL  ] McDougal Clan~
+Builders    Allanon~
+VNUMs       500 599
+Security    9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#500
+kilt wool long~
+kilt of McDougals~
+A long heap of red, green, and deep blue wool lies here.~
+unknown~
+armor BI AF
+5 5 4 4 0
+25 3 123 P
+A
+5 2
+A
+14 20
+#501
+cloak tartan dark~
+cloak of McDougals~
+A dark cloak of the McDougal tartan lies here~
+unknown~
+clothing A AK
+0 0 0 0 0
+25 3 135 P
+A
+19 4
+A
+18 5
+#502
+cape black Inverness~
+black Inverness Cape~
+A shiny black cape from the highlands lies here.~
+unknown~
+clothing 0 AC
+0 0 0 0 0
+29 2 129 P
+A
+12 20
+A
+13 20
+#503
+dublet studded golden~
+golden studded dublet~
+A leather dublet with golden studs rests here.~
+unknown~
+armor 0 AD
+9 10 12 8 0
+32 4 133 P
+A
+2 2
+A
+14 -20
+#504
+claymore shiny~
+shinning Claymore~
+A shinning blood-splattered claymore lies in the dirt.~
+unknown~
+weapon 0 AN
+sword 7 9 slash 0
+35 8 203 P
+#505
+Dirk~
+jewelled dirk~
+A jewel-handled dirk lies at your feet.~
+unknown~
+weapon 0 AN
+sword 5 6 slash 0
+25 3 109 P
+#506
+sporron rabbit~
+rabbit-skin sporron~
+A plush rabbit-skin sporrow has been left here.~
+unknown~
+container 0 ALO
+20 A 0 10 10
+27 2 104 P
+#507
+shield skipked wooden~
+spiked shield ~
+A wooded spiked shield has been dropped here.~
+unknown~
+armor 0 AJ
+15 12 20 10 0
+42 5 108 P
+A
+2 -1
+#508
+plaid tartan~
+mcDougal's plaid~
+A long, narrow plaid of red, green, and dark blue tartan lies here.~
+unknown~
+armor B AL
+6 2 8 10 0
+25 4 128 P
+A
+18 2
+#509
+boots studded golden~
+golden studded boots~
+A worn, comfortable pair of golden studded boots await your feet.~
+unknown~
+armor B AG
+5 4 9 8 0
+40 3 400 P
+#510
+backpack~
+sheepskin backpack~
+A brown sheepskin backpack awaits your usage.~
+unknown~
+container 0 ADO
+40 A 0 0 0
+15 2 99 P
+#511
+celtic ring~
+celtic pewter ring~
+A pewter ring with a celtic inscription has been lost here.~
+unknown~
+trash A AB
+0 0 0 0 0
+34 2 201 P
+A
+4 -1
+A
+13 50
+#0
+
+
+
+#ROOMS
+#500
+Bottom of the Valley~
+Surrounded by rock-infested grass covered mountains, you are in a valley
+c that forms a trail to what looks to be a town of some sort.  In the air
+you can smell wood burning in a nearby fire that is probably cooking dinner.
+Gazing up into the mountains, you see smoke billowing up from the town and
+assume someone must reside there.  The size and number of the mountains
+which surrond you give you the feeling of being incased in a large whole. 
+To the north lies the town, and to the east is a small sidetrail that looks
+to lead into the mountains.  
+~
+0 0 2
+D0
+~
+~
+0 0 1208
+D1
+~
+~
+0 0 501
+D2
+~
+~
+0 0 513
+M100 H100
+S
+#501
+Path through a field~
+~
+0 0 2
+D1
+~
+~
+0 0 502
+D2
+~
+~
+0 0 514
+D3
+~
+~
+0 0 500
+M100 H100
+S
+#502
+Rocky Trail~
+~
+0 0 4
+D2
+~
+~
+0 0 515
+D3
+~
+~
+0 0 501
+M100 H100
+S
+#503
+Loch Gremond~
+~
+0 0 5
+D1
+~
+~
+0 0 505
+D2
+~
+~
+0 0 516
+M100 H100
+S
+#504
+Farmer's Bedroom~
+~
+0 8 5
+D5
+~
+~
+0 0 516
+M100 H100
+S
+#505
+Edge of a cliff~
+~
+0 0 5
+D1
+~
+~
+0 0 506
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 0 503
+M100 H100
+S
+#506
+At the edge of a cliff~
+~
+0 0 5
+D1
+~
+~
+0 0 507
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 0 505
+M100 H100
+S
+#507
+At the edge of a cliff~
+~
+0 0 5
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 520
+D3
+~
+~
+0 0 506
+M100 H100
+S
+#508
+Wooded Edge~
+~
+0 0 3
+D1
+~
+~
+0 0 509
+D2
+~
+~
+0 0 521
+D3
+~
+~
+0 0 507
+M100 H100
+S
+#509
+Loch Dhu~
+~
+0 0 4
+D1
+~
+~
+0 0 510
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 508
+M100 H100
+S
+#510
+End of a trail~
+~
+0 0 4
+D2
+~
+~
+0 0 523
+D3
+~
+~
+0 0 509
+M100 H100
+S
+#511
+Firth of Nevis~
+~
+0 0 2
+D1
+~
+~
+0 0 512
+D2
+~
+~
+0 0 524
+M100 H100
+S
+#512
+Coast of Nevis~
+~
+0 0 2
+D2
+~
+~
+0 0 525
+D3
+~
+~
+0 0 511
+M100 H100
+S
+#513
+Grassy plains~
+~
+0 0 2
+D0
+~
+~
+0 0 500
+D1
+~
+~
+0 0 514
+D2
+~
+~
+0 0 526
+M100 H100
+S
+#514
+Middle of a grassy plain~
+~
+0 0 2
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 515
+D2
+~
+~
+0 0 527
+D3
+~
+~
+0 0 513
+M100 H100
+S
+#515
+Middle of a field~
+~
+0 0 2
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 516
+D2
+~
+~
+0 0 528
+D3
+~
+~
+0 0 514
+M100 H100
+S
+#516
+Farmer's flat~
+~
+0 0 0
+D0
+~
+~
+0 0 503
+D1
+~
+~
+0 0 517
+D2
+~
+~
+0 0 529
+D3
+~
+~
+0 0 515
+D4
+~
+~
+0 0 504
+M100 H100
+S
+#517
+Living room~
+~
+0 0 0
+D1
+~
+~
+0 0 518
+D3
+~
+~
+0 0 516
+M100 H100
+S
+#518
+Thicket~
+~
+0 0 2
+D0
+~
+~
+0 0 505
+D1
+~
+~
+0 0 519
+D2
+~
+~
+0 0 531
+D3
+~
+~
+0 0 517
+M100 H100
+S
+#519
+Large thicket~
+~
+0 0 2
+D0
+~
+~
+0 0 506
+D1
+~
+~
+0 0 520
+D2
+~
+~
+0 0 532
+D3
+~
+~
+0 0 518
+M100 H100
+S
+#520
+A large thicket~
+~
+0 0 2
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 521
+D2
+~
+~
+0 0 533
+D3
+~
+~
+0 0 519
+M100 H100
+S
+#521
+At the edge of the woods~
+~
+0 0 3
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 522
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 520
+M100 H100
+S
+#522
+Deep woods~
+~
+0 0 3
+D0
+~
+~
+0 0 509
+D1
+~
+~
+0 0 523
+D2
+~
+~
+0 0 535
+D3
+~
+~
+0 0 521
+M100 H100
+S
+#523
+Easter edge of the woods~
+~
+0 0 3
+D0
+~
+~
+0 0 510
+D1
+~
+~
+0 0 524
+D2
+~
+~
+0 0 536
+D3
+~
+~
+0 0 522
+M100 H100
+S
+#524
+At the firth of Nevis~
+~
+0 0 2
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 525
+D2
+~
+~
+0 0 537
+D3
+~
+~
+0 0 523
+M100 H100
+S
+#525
+Edge of Nevis~
+~
+0 0 2
+D0
+~
+~
+0 0 512
+D2
+~
+~
+0 0 538
+D3
+~
+~
+0 0 524
+M100 H100
+S
+#526
+Path down a cliff~
+~
+0 0 0
+D0
+~
+~
+0 0 513
+D1
+~
+~
+0 0 527
+D2
+~
+~
+0 0 539
+M100 H100
+S
+#527
+Edge of a plain~
+~
+0 0 0
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 528
+D3
+~
+~
+0 0 526
+M100 H100
+S
+#528
+Corner of field~
+~
+0 0 0
+D0
+~
+~
+0 0 515
+D1
+~
+~
+0 0 529
+D2
+~
+~
+0 0 541
+D3
+~
+~
+0 0 527
+M100 H100
+S
+#529
+Cliff edge~
+~
+0 0 0
+D0
+~
+~
+0 0 516
+D1
+~
+~
+0 0 530
+D2
+~
+~
+0 0 543
+D3
+~
+~
+0 0 528
+M100 H100
+S
+#530
+Small path~
+~
+0 0 0
+D1
+~
+~
+0 0 531
+D3
+~
+~
+0 0 529
+M100 H100
+S
+#531
+Edge of a thicket~
+~
+0 0 0
+D0
+~
+~
+0 0 518
+D1
+~
+~
+0 0 532
+D2
+~
+~
+0 0 544
+D3
+~
+~
+0 0 530
+M100 H100
+S
+#532
+Deep Thicket~
+~
+0 0 0
+D0
+~
+~
+0 0 519
+D1
+~
+~
+0 0 533
+D2
+~
+~
+0 0 545
+D3
+~
+~
+0 0 531
+M100 H100
+S
+#533
+Thicket~
+~
+0 0 2
+D0
+~
+~
+0 0 520
+D1
+~
+~
+0 0 534
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 532
+M100 H100
+S
+#534
+Edge of thicket~
+~
+0 0 0
+D0
+~
+~
+0 0 521
+D1
+~
+~
+0 0 535
+D3
+~
+~
+0 0 533
+M100 H100
+S
+#535
+Clear path~
+~
+0 0 0
+D0
+~
+~
+0 0 522
+D1
+~
+~
+0 0 536
+D2
+~
+~
+0 0 548
+D3
+~
+~
+0 0 534
+M100 H100
+S
+#536
+Clear path~
+~
+0 0 0
+D0
+~
+~
+0 0 523
+D1
+~
+~
+0 0 537
+D2
+~
+~
+0 0 549
+D3
+~
+~
+0 0 535
+M100 H100
+S
+#537
+Southen edge of Nevis~
+~
+0 0 0
+D0
+~
+~
+0 0 524
+D1
+~
+~
+0 0 538
+D2
+~
+~
+0 0 550
+D3
+~
+~
+0 0 536
+M100 H100
+S
+#538
+Path throught the foothills~
+~
+0 0 2
+D0
+~
+~
+0 0 525
+D2
+~
+~
+0 0 551
+D3
+~
+~
+0 0 537
+M100 H100
+S
+#539
+Path through the mountains~
+~
+0 0 0
+D0
+~
+~
+0 0 526
+D1
+~
+~
+0 0 540
+M100 H100
+S
+#540
+Plains of Dunkirk~
+~
+0 0 0
+D1
+~
+~
+0 0 541
+D2
+~
+~
+0 0 553
+D3
+~
+~
+0 0 539
+M100 H100
+S
+#541
+Plains of Dunkirk~
+~
+0 0 0
+D0
+~
+~
+0 0 528
+D1
+~
+~
+0 0 542
+D2
+~
+~
+0 0 554
+D3
+~
+~
+0 0 540
+M100 H100
+S
+#542
+Entrance to small village~
+~
+0 0 0
+D2
+~
+~
+0 0 555
+D3
+~
+~
+0 0 541
+M100 H100
+S
+#543
+Edge of small village~
+~
+0 0 0
+D0
+~
+~
+0 0 529
+D1
+~
+~
+0 0 544
+D2
+~
+~
+0 0 556
+M100 H100
+S
+#544
+Outskirts of village~
+~
+0 0 0
+D0
+~
+~
+0 0 531
+D2
+~
+~
+0 0 557
+D3
+~
+~
+0 0 543
+M100 H100
+S
+#545
+Path on the foothills~
+~
+0 0 5
+D0
+~
+~
+0 0 532
+D1
+~
+~
+0 0 546
+M100 H100
+S
+#546
+Path on the foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 533
+D1
+~
+~
+0 0 547
+D2
+~
+~
+0 0 559
+D3
+~
+~
+0 0 545
+M100 H100
+S
+#547
+North of foothills~
+~
+0 0 0
+D1
+~
+~
+0 0 548
+D2
+~
+~
+0 0 560
+D3
+~
+~
+0 0 546
+M100 H100
+S
+#548
+North of foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 535
+D1
+~
+~
+0 0 549
+D2
+~
+~
+0 0 561
+D3
+~
+~
+0 0 547
+M100 H100
+S
+#549
+Beginning of foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 536
+D1
+~
+~
+0 0 550
+D2
+~
+~
+0 0 562
+D3
+~
+~
+0 0 548
+M100 H100
+S
+#550
+Wooded foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 537
+D1
+~
+~
+0 0 551
+D2
+~
+~
+0 0 563
+D3
+~
+~
+0 0 549
+M100 H100
+S
+#551
+Wooded foothills path~
+~
+0 0 0
+D0
+~
+~
+0 0 538
+D2
+~
+~
+0 0 564
+D3
+~
+~
+0 0 550
+M100 H100
+S
+#552
+~
+~
+0 8204 0
+M100 H100
+S
+#553
+~
+~
+0 0 0
+D0
+~
+~
+0 0 540
+M100 H100
+S
+#554
+~
+~
+0 0 0
+D0
+~
+~
+0 0 541
+M100 H100
+S
+#555
+Northwest end of village~
+~
+0 0 0
+D0
+~
+~
+0 0 542
+D1
+~
+~
+0 0 556
+M100 H100
+S
+#556
+North end of village~
+~
+0 0 0
+D0
+~
+~
+0 0 543
+D1
+~
+~
+0 0 557
+D2
+~
+~
+0 0 569
+D3
+~
+~
+0 0 555
+M100 H100
+S
+#557
+North-east end of village~
+~
+0 0 5
+D0
+~
+~
+0 0 544
+D1
+~
+~
+0 0 558
+D2
+~
+~
+0 0 582
+D3
+~
+~
+0 0 556
+M100 H100
+S
+#558
+Edge of foothills~
+~
+0 0 5
+D1
+~
+~
+0 0 559
+D2
+~
+~
+0 0 584
+D3
+~
+~
+0 0 557
+M100 H100
+S
+#559
+Foothills~
+~
+0 0 5
+D0
+~
+~
+0 0 546
+D1
+~
+~
+0 0 560
+D2
+~
+~
+0 0 572
+D3
+~
+~
+0 0 558
+M100 H100
+S
+#560
+Foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 547
+D1
+~
+~
+0 0 561
+D2
+~
+~
+0 0 573
+D3
+~
+~
+0 0 559
+M100 H100
+S
+#561
+Foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 548
+D1
+~
+~
+0 0 562
+D2
+~
+~
+0 0 574
+D3
+~
+~
+0 0 560
+M100 H100
+S
+#562
+Wooded foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 549
+D1
+~
+~
+0 0 563
+D2
+~
+~
+0 0 575
+D3
+~
+~
+0 0 561
+M100 H100
+S
+#563
+Wooded foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 550
+D1
+~
+~
+0 0 564
+D2
+~
+~
+0 0 576
+D3
+~
+~
+0 0 562
+M100 H100
+S
+#564
+Wooded foothills~
+~
+0 0 0
+D0
+~
+~
+0 0 551
+D2
+~
+~
+0 0 577
+D3
+~
+~
+0 0 563
+M100 H100
+S
+#568
+~
+~
+0 4 0
+M100 H100
+S
+#569
+Town Square~
+~
+0 0 0
+D0
+~
+~
+0 0 556
+D1
+~
+~
+0 0 570
+D2
+~
+~
+0 0 583
+D3
+~
+~
+0 0 596
+M100 H100
+S
+#570
+Glensdare Inn~
+~
+0 0 0
+D3
+~
+~
+0 0 569
+M100 H100
+S
+#572
+~
+~
+0 0 0
+D0
+~
+~
+0 0 559
+M100 H100
+S
+#573
+~
+~
+0 0 0
+D0
+~
+~
+0 0 560
+M100 H100
+S
+#574
+~
+~
+0 0 0
+D0
+~
+~
+0 0 561
+M100 H100
+S
+#575
+~
+~
+0 0 0
+D0
+~
+~
+0 0 562
+M100 H100
+S
+#576
+~
+~
+0 0 0
+D0
+~
+~
+0 0 563
+M100 H100
+S
+#577
+~
+~
+0 0 0
+D0
+~
+~
+0 0 564
+M100 H100
+S
+#582
+Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 557
+D2
+~
+~
+0 0 595
+M100 H100
+S
+#583
+Armorer of Glensdare~
+~
+0 0 0
+D0
+~
+~
+0 0 569
+M100 H100
+S
+#584
+~
+~
+0 0 0
+D0
+~
+~
+0 0 558
+M100 H100
+S
+#595
+South end of town~
+~
+0 0 1
+D0
+~
+~
+0 0 582
+M100 H100
+S
+#596
+Bakery and Grocer~
+~
+0 0 0
+D1
+~
+~
+0 0 569
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2073 @@
+#AREADATA
+Name        [60   71] Underwater Ruins~
+Builders    Widrak~
+VNUMs       14100 14199
+Security    9
+End
+
+
+
+#MOBILES
+#14100
+Morkoth~
+morkoth~
+The evil morkoths is here, ruling his lair.
+~
+Looking like a cross between an octopus and a fish, the morkoth is one of the
+most terrible creatures under the sea.
+~
+human~
+ABGTUW CNO -1000 14100 
+0 80 12 50d50+11400 50d50+500 6d10+45 0
+-100 -100 -100 -100
+CDEFKOP HILQR CE KMNOP
+standing standing male 8000
+AHJMV ABCDEFGHIJK L 0
+#14101
+Kuo-toa~
+kuo-toa~
+A kuo-toa comes at you with a trident!
+~
+The fishmen of the deep are the bane of sailors and fishermen.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 80 10 50d10+11400 50d10+250 6d10+45 0
+-50 -50 -50 -50
+AFHQ ABNQR CD ITXY
+standing standing either 8000
+AHMV ABCDEFGHIJKQ S 0
+#14102
+Dragon Turtle~
+dragon turtle~
+You stumble upon a hunting Dragon Turtle. You're in it now...
+~
+Staggeringly huge, the dragon turtle could take you out in one bite of its
+immense jaws.
+~
+human~
+ABGTUW CNO -750 14100 
+0 77 11 50d10+11100 25d10+200 7d8+43 0
+-55 -55 -55 -55
+CDEFKOP HILQR CE KMNOP
+standing standing either 7700
+AHMV ABCDEFGHIJK H 0
+#14103
+pleiasaur~
+pleiasaur~
+The huge form of a sea-going dinosaur confronts you.
+~
+Thought dead for over 6 million years, this creature seems to have survived. 
+Probably by eating mortals such as yourself.
+~
+human~
+ABGTUW CNO -500 14100 
+0 75 10 50d10+10900 25d10+200 9d6+41 0
+-50 -50 -50 -50
+CDEFKOP HILQR CE KMNOP
+standing standing either 1500
+AHMV ABCDEFGHIJK G 0
+#14104
+marid~
+marid~
+A marid djinn races through the water towards you.
+~
+A hulking creature with current for muscles and pearls for teeth confronts you, 
+prepared to defend his home from invasive mortals.
+~
+human~
+ABGTUW CNO -350 14100 
+0 75 10 50d50+10900 25d10+200 9d6+41 0
+-45 -45 -45 -45
+CDEFKOP HILQR CE KMNOP
+standing standing either 7500
+AHMV ABCDEFGHIJK L 0
+#14105
+lacedon~
+lacedon~
+The decaying form of a lacedon, underwater ghoul, shambles towards you.
+~
+The last form of drowned sailors, the lacedon is one of the worst parts 
+of the ocean floor. 
+~
+human~
+ABGTUW CNO -350 14100 
+0 73 10 50d10+10700 25d10+200 9d6+39 0
+-40 -40 -40 -40
+CDEFKOP HILQR CE KMNOP
+standing standing male 7300
+AHMV ABCDEFGHIJK M 0
+#14106
+sea hag~
+sea hag~
+Red glowing eyes and seaweed hair herald the arrival of a sea hag.
+~
+Feared by all who make their trade upon the sea, the sea hags often take on
+ships and take the crew for food, stunning them with their poison claws.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 80 10 50d10+11400 50d10+250 6d10+45 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing female 8000
+AHMV ABCDEFGHIJKQ M 0
+#14107
+adventurer~
+Adventurer~
+An adventurer separated from his party is here.
+~
+You see before a tough looking adventurer. Even though he is separated 
+from the rest of his party, he still looks for a confrontation.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 70 10 50d10+10400 50d10+250 10d5+37 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing male 7000
+AHMV ABCDEFGHIJKQ M 0
+#14108
+wizard~
+wizard~
+A wizard pokes among the coral, looking for components no doubt.
+~
+Protected by a bubble of air, this wizard hunts for those hard to find 
+spell components.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 70 10 50d10+10400 50d10+250 10d5+37 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing male 7000
+AHMV ABCDEFGHIJKQ M 0
+#14109
+watery guardian~
+Guardian~
+A watery Guardian stands by the portal.
+~
+Forged of coral and water, the defender of this portal could eat you for
+breakfast. Fortunately, it looks like he hasn't seen you.
+~
+human~
+ABGTUW CNO 0 14100 
+0 72 10 50d10+10600 50d10+200 9d6+38 0
+-52 -52 -52 -52
+CDEFKOP HILQR CE KMNOP
+standing standing male 7200
+AHMV ABCDEFGHIJK M water
+#14110
+hippocampus~
+hippocampus~
+A friendly hippocampus plays among the seaweed.
+~
+Half-horse, half-fish, the hippocampus is considered sacred by sailors 
+for the protection they offer to the ships.
+~
+human~
+ABGTUW CNO 0 14100 
+0 72 10 50d10+10600 50d10+200 9d6+38 0
+-52 -52 -52 -52
+CDEFKOP HILQR CE KMNOP
+standing standing either 7200
+AHMV ABCDEFGHIJK M 0
+#14111
+hippocampus stallion~
+hippocampus stallion~
+One of the hippocampi stallions watches over his herd.
+~
+This stallion is the head of this herd of seahorses.
+~
+human~
+ABGTUW CNO 0 14100 
+0 75 10 50d10+10900 50d10+200 9d6+41 0
+-52 -52 -52 -52
+CDEFKOPR HILQR CE KMNOP
+standing standing male 7500
+AHMV ABCDEFGHIJK L 0
+#14112
+nereid~
+nereid~
+A nereid is here, seeking to lure you into a trap.
+~
+Almost invisible, you only perceive the outline in the foam and 
+seaweed around you.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 70 10 50d10+10400 50d10+250 10d5+37 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing female 7000
+AHMV ABCDEFGHIJKQ S 0
+#14113
+Water weird~
+Water weird~
+A Water weird rises from the ground at your feet, ready for a confrontation.
+~
+Almost invisible compared with the dim ground and sky, you have a hard time
+making out this creature as it prepares to eat you.
+~
+snake~
+ABGTUW CNO 0 14100 
+0 76 10 50d10+11000 50d10+200 7d8+42 0
+-52 -52 -52 -52
+CDEFKOP HILQR CEL IKMNOP
+standing standing male 7600
+ABGXYc ADEFKLMQVX M 0
+#14114
+locathah~
+locathah~
+You have trapped a locathah away from his patrol.
+~
+Similar to the kuo-toa, the locathah are not as physically powerful but are 
+much more cunning.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 78 10 50d10+11200 50d10+250 7d8+44 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing either 7800
+AHMV ABCDEFGHIJKQ S 0
+#14115
+Aquatic Elf~
+aquatic elf~
+An aquatic elf swims up from the depths, net at the ready.
+~
+Skin of a deep green camouflages the aquatic elf so that it can sneak up on
+you.
+~
+elf~
+ABGTUW CEJNOPQ -350 14100 
+0 75 10 50d10+10900 25d10+200 9d6+41 0
+-45 -45 -45 -45
+CDEFKOP HILQR BCE KMNOPZ
+standing standing either 7500
+AHMV ABCDEFGHIJK M 0
+#14116
+Water spirit~
+Water spirit~
+An Water spirit quickly prepares another plate of hors' d'ourves.
+~
+Appearing as a misty, brownish form, the Water spirit moves quickly among
+the guests, making sure their plates are always fresh.
+~
+human~
+ACGHSUW CIKNOPTUV -500 14100 
+0 65 8 50d10+9900 25d10+200 10d5+32 0
+-20 -20 -20 -20
+EFGHIKNP BM CD OPS
+standing standing male 6000
+AHMV ABCDEFGHIJK M mist
+#14117
+Water spirit~
+Water spirit~
+This water spirit carefully carries a tray among the visiting dignitaries.
+~
+The pale mist of the spirit deftly avoids your attempts at conversation.
+~
+human~
+ACGHSUW CIKNOPTUV -500 14100 
+0 65 8 50d10+9900 25d10+200 10d5+32 0
+-25 -25 -25 -25
+EFGHIKNP BM CD OPS
+standing standing male 6500
+AHMV ABCDEFGHIJK M mist
+#14118
+shark~
+shark~
+A deadly shark swims back and forth here.
+~
+Sleek and terrifying, a long-toothed shark whips back and forth in the water.
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 90 10 50d10+10400 50d10+250 10d5+37 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing male 7000
+AHMV ABCDEFGHIJKQ M 0
+#14119
+shark~
+shark~
+Another deadly shark swims among the ruined guest quarters.
+~
+Investigating the dark recesses of the broken 
+~
+human~
+ABCFGQR EFGJNOTV 0 14100 
+0 90 10 50d10+10400 50d10+250 10d5+37 0
+-50 -50 -50 -50
+AFHQ ABNQ CD IRTXY
+standing standing male 7000
+AHMV ABCDEFGHIJKQ M 0
+#14120
+elemental~
+elemental~
+A Water Elemental serves the morkoth.
+~
+This is another regular elemental, summoned from its plane to guard the person
+of the morkoth, even though the morkoth hardly needs to be guarded.
+~
+human~
+ABGTUW CNO -350 14100 
+0 79 10 50d10+11300 25d10+200 6d10+44 0
+-45 -45 -45 -45
+CDEFKOP HILQR CE KMNOP
+standing standing male 7900
+AHMV ABCDEFGHIJK L water
+#0
+
+
+
+#OBJECTS
+#14100
+eye~
+Eye of the Morkoth~
+The bloody eye of the morkoth floats here.~
+satin~
+armor EGIJL AD
+20 20 20 20 0
+70 300 5000 P
+A
+0 0
+A
+5 3
+A
+19 5
+A
+18 5
+E
+eye~
+Eww...A bloody severed eye.
+~
+#14101
+tentacle~
+Tentacle of the Morkoth~
+A severed tentacle floats here.~
+cloth~
+weapon EGIJL AN
+whip 11 7 whip F
+70 500 5000 P
+A
+13 50
+A
+19 3
+A
+18 5
+E
+tentacle~
+The tentacle of the morkoth seems to retain a little life.
+~
+#14102
+trident~
+Kuo-toan trident~
+A trident lies in the mud.~
+steel~
+weapon EGIJL AH
+polearm 11 7 slash D
+70 210 5000 P
+A
+1 -2
+A
+19 3
+A
+18 3
+E
+trident~
+This trident has wicked barbs on the end.
+~
+#14103
+sharkskin boots~
+sharkskin boots~
+Well-crafted boots are here.~
+leather~
+armor EGIJL AG
+19 19 20 19 0
+70 50 1000 P
+A
+2 4
+A
+14 25
+E
+boots~
+These boots are made of tough sharkskin.
+~
+#14104
+sharkskin leggings~
+sharkskin leggings~
+Leggings of sharkskin are on the floor~
+sharkskin~
+armor EGIJL AF
+20 19 19 19 0
+70 50 1000 P
+A
+12 25
+E
+sharkskin leggings~
+These leggings are made of tough sharkskin.
+~
+#14105
+sword belt~
+Sword belt~
+A thick leather belt lies on the ground.~
+leather~
+armor EGIJL ALR
+-15 -15 -15 -50 0
+70 50 1000 P
+A
+19 4
+A
+18 5
+E
+sword belt~
+This bulky belt feels uncomfortable, but with the rapier in hand, you can move
+it faster than the eye.
+~
+#14106
+hammer~
+stone hammer~
+a heavy stone hammer lies on the ground.~
+steel~
+weapon EGIJL AH
+mace 11 6 crush 0
+60 450 5600 P
+E
+hammer~
+This is the hammer used by the marid genies for whupping up on adventurers. 
+~
+#14107
+throne~
+throne~
+The throne of the morkoth.~
+bone~
+furniture 0 0
+1 200 16 100 100
+0 0 0 P
+E
+throne~
+The morkoth's throne is crafted of the bones of its victims.
+~
+#14108
+tombstone~
+tombstone~
+A tombstone has fallen over on the ground here.~
+stone~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+tombstone~
+The name on this tombstone has been long erased.
+~
+#14109
+net~
+Elven Net~
+An elven net is in the mud.~
+steel~
+staff G AO
+50 10 10 'sleep' 0
+70 50 6000 P
+E
+net~
+This is a finely woven net. It is quit handy for deflecting the blows
+of ones enemies.
+~
+#0
+
+
+
+#ROOMS
+#14100
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14102
+D1
+~
+~
+0 0 14105
+D2
+~
+~
+0 0 14107
+D3
+~
+~
+0 0 14104
+D4
+~
+~
+0 0 9796
+D5
+~
+~
+0 0 412
+M100 H100
+S
+#14101
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D1
+~
+~
+0 0 14102
+D2
+~
+~
+0 0 14104
+D3
+~
+~
+0 0 14171
+M100 H100
+S
+#14102
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D1
+~
+~
+0 0 14103
+D2
+~
+~
+0 0 14100
+D3
+~
+~
+0 0 14101
+M100 H100
+S
+#14103
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D2
+~
+~
+0 0 14105
+D3
+~
+~
+0 0 14102
+M100 H100
+S
+#14104
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14101
+D1
+~
+~
+0 0 14100
+D2
+~
+~
+0 0 14106
+D3
+~
+~
+0 0 14172
+M100 H100
+S
+#14105
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14103
+D1
+~
+~
+0 0 14109
+D2
+~
+~
+0 0 14108
+D3
+~
+~
+0 0 14100
+M100 H100
+S
+#14106
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14104
+D1
+~
+~
+0 0 14107
+D2
+~
+~
+0 0 14144
+D3
+~
+~
+0 0 14173
+M100 H100
+S
+#14107
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14100
+D1
+~
+~
+0 0 14108
+D2
+~
+~
+0 0 14153
+D3
+~
+~
+0 0 14106
+M100 H100
+S
+#14108
+Courtyard~
+Ruined bricks and kelp vines are all over the place.  The ruined
+courtyard is now underwater as a result of a tectonic shift.  
+~
+0 9 12
+D0
+~
+~
+0 0 14105
+D1
+~
+~
+0 0 14138
+D2
+~
+~
+0 0 14162
+D3
+~
+~
+0 0 14107
+M100 H100
+S
+#14109
+Fallen Entryway~
+This formerly beautiful entryway has large marble blocks scattered about. Vines
+and kelp and small fish are everywhere. It leads into what used to be the 
+temple of Istar.
+~
+0 9 12
+D1
+~
+~
+0 0 14110
+D3
+~
+~
+0 0 14105
+M100 H100
+S
+#14110
+Temple Antechamber~
+More ruined art and wrecked mosaics are around you. Signs of decay are 
+everywhere. Sharks roam freely through the archways.
+~
+0 9 12
+D1
+~
+~
+0 0 14111
+D3
+~
+~
+0 0 14109
+M100 H100
+S
+#14111
+Temple Chamber~
+This was once the main chamber to the temple, where the Kingpriest held his 
+audiences before he brought down the wrath of the Gods. There is a lesson to
+be learned here.
+~
+0 9 12
+D0
+~
+~
+0 0 14125
+D1
+~
+~
+0 0 14113
+D2
+~
+~
+0 0 14112
+D3
+~
+~
+0 0 14110
+M100 H100
+S
+#14112
+Temple Chamber~
+This was once the main chamber to the temple, where the Kingpriest held his 
+audiences before he brought down the wrath of the Gods. There is a lesson to
+be learned here.
+~
+0 9 12
+D0
+~
+~
+0 0 14111
+D1
+~
+~
+0 0 14114
+D3
+~
+~
+0 0 14133
+M100 H100
+S
+#14113
+Temple Chamber~
+This was once the main chamber to the temple, where the Kingpriest held his 
+audiences before he brought down the wrath of the Gods. There is a lesson to
+be learned here. A passage is exposed behind where the throne used to be.
+~
+0 9 12
+D0
+~
+~
+0 0 14126
+D1
+~
+~
+0 0 14124
+D2
+~
+~
+0 0 14114
+D3
+~
+~
+0 0 14111
+M100 H100
+S
+#14114
+Temple Chamber~
+This was once the main chamber to the temple, where the Kingpriest held his 
+audiences before he brought down the wrath of the Gods. There is a lesson to
+be learned here. A passage heads off through the kelp to where the acolytes,
+novices, and monks once lived.
+~
+0 9 12
+D0
+~
+~
+0 0 14113
+D2
+~
+~
+0 0 14115
+D3
+~
+~
+0 0 14112
+M100 H100
+S
+#14115
+Ruined Passage~
+This ruined passage leads south to the monk and novice and acolyte quarters.
+Wrecked chambers are to the left and right.
+~
+0 9 12
+D0
+~
+~
+0 0 14114
+D1
+~
+~
+0 0 14118
+D2
+~
+~
+0 0 14116
+D3
+~
+~
+0 0 14119
+M100 H100
+S
+#14116
+Ruined Passageway~
+The ruined passageway continues south and enters the graveyard. More cells are
+to the left and the right.
+~
+0 9 12
+D0
+~
+~
+0 0 14115
+D1
+~
+~
+0 0 14120
+D2
+~
+~
+0 0 14117
+D3
+~
+~
+0 0 14121
+M100 H100
+S
+#14117
+Ruined Passageway~
+Here the shattered walls of the passageway end at what used to be the wall of
+the temple. Now it just opens out into the graveyard, dwellingplace of the 
+undead.
+~
+0 9 12
+D0
+~
+~
+0 0 14116
+D1
+~
+~
+0 0 14122
+D2
+~
+~
+0 0 14137
+D3
+~
+~
+0 0 14123
+M100 H100
+S
+#14118
+Wrecked Cell~
+This cell, formerly the home of a monk, is now the home of various fish and
+other underwater life forms.
+~
+0 9 12
+D3
+~
+~
+0 0 14115
+M100 H100
+S
+#14119
+Wrecked Cell~
+This small room, now bereft of walls, has become the home for a family of fish.
+~
+0 9 12
+D1
+~
+~
+0 0 14115
+M100 H100
+S
+#14120
+Wrecked Cell~
+Hungry sharks and octopi now roam through the halls of the temple and through
+the cells.
+~
+0 9 12
+D3
+~
+~
+0 0 14116
+M100 H100
+S
+#14121
+Wrecked Cell~
+Acolytes and novices used to live in these cells. Now only the undead and sea-
+life live here.
+~
+0 9 12
+D1
+~
+~
+0 0 14116
+M100 H100
+S
+#14122
+Wrecked Cell~
+The remnants of a wooden bunk can be seen down through the coral formations and
+the various debris.
+~
+0 9 12
+D3
+~
+~
+0 0 14117
+M100 H100
+S
+#14123
+Wrecked Cell~
+More sealife live in this cell.
+~
+0 9 12
+D1
+~
+~
+0 0 14117
+M100 H100
+S
+#14124
+Kingpriest's Bedroom~
+Only ruins are left of the bedroom of the kingpriest. It has now become the main
+living are of a dreaded morkoth.
+~
+0 9 12
+D3
+~
+~
+0 0 14113
+M100 H100
+S
+#14125
+Temple Chamber~
+This was once the main chamber to the temple, where the Kingpriest held his 
+audiences before he brought down the wrath of the Gods. There is a lesson to
+be learned here.
+~
+0 9 12
+D1
+~
+~
+0 0 14126
+D2
+~
+~
+0 0 14111
+M100 H100
+S
+#14126
+Temple Chamber~
+This part of the Temple heads north into the priests quarters.
+~
+0 9 12
+D0
+~
+~
+0 0 14127
+D3
+~
+~
+0 0 14125
+M100 H100
+S
+#14127
+Ruined Passageway~
+This passageway, lined with cracked blocks of marble.
+~
+0 9 12
+D0
+~
+~
+0 0 14130
+D1
+~
+~
+0 0 14128
+D2
+~
+~
+0 0 14126
+D3
+~
+~
+0 0 14129
+M100 H100
+S
+#14128
+Former Priest's Quarters~
+These quarters, though they are destroyed, were once rather well-appointed.
+~
+0 9 12
+D3
+~
+~
+0 0 14127
+M100 H100
+S
+#14129
+Former Priests Quarters~
+These quarters, though they are destroyed, were once rather well-appointed.
+~
+0 9 12
+D1
+~
+~
+0 0 14127
+M100 H100
+S
+#14130
+Ruined Passageway~
+Here, the passageway runs into the solid side of a cliff.
+~
+0 9 12
+D1
+~
+~
+0 0 14131
+D2
+~
+~
+0 0 14127
+D3
+~
+~
+0 0 14132
+M100 H100
+S
+#14131
+Priest Quarters~
+These quarters too have become the abode of various types of sealife.
+~
+0 9 12
+D3
+~
+~
+0 0 14130
+M100 H100
+S
+#14132
+Priest Quarters~
+More quarters have fallen to time and the elements.
+~
+0 9 12
+D1
+~
+~
+0 0 14130
+M100 H100
+S
+#14133
+Path to the Graveyard~
+Only broken paving stones remain to mark the path to the temple graveyard.
+~
+0 9 12
+D1
+~
+~
+0 0 14112
+D2
+~
+~
+0 0 14134
+M100 H100
+S
+#14134
+Before the Graveyard~
+You now stand before the temple graveyard. Even through the water, you can
+hear the troubled moans of the restless dead.
+~
+0 9 12
+D0
+~
+~
+0 0 14133
+D2
+~
+~
+0 0 14136
+M100 H100
+S
+#14135
+Graveyard~
+Tombstones are everywhere, fallen over in the sinking of the city and covered
+in kelp and coral. Shadows flicker around you.
+~
+0 9 12
+D1
+~
+~
+0 0 14136
+D2
+~
+~
+0 0 14138
+M100 H100
+S
+#14136
+Graveyard~
+A large almost gone rusted iron gate heads north toward the temple here.
+More tombstones are around you.
+~
+0 9 12
+D0
+~
+~
+0 0 14134
+D1
+~
+~
+0 0 14137
+D2
+~
+~
+0 0 14139
+D3
+~
+~
+0 0 14135
+M100 H100
+S
+#14137
+Graveyard~
+Tombstones and fish are all you can see. That and the temple wall to the north
+that leads into a ruined passageway.
+~
+0 9 12
+D0
+~
+~
+0 0 14117
+D2
+~
+~
+0 0 14140
+D3
+~
+~
+0 0 14136
+M100 H100
+S
+#14138
+Graveyard~
+An iron gate heads west into the central courtyard.
+~
+0 9 12
+D0
+~
+~
+0 0 14135
+D1
+~
+~
+0 0 14139
+D2
+~
+~
+0 0 14141
+D3
+~
+~
+0 0 14108
+M100 H100
+S
+#14139
+Graveyard~
+Tombstones and fish are around you in all directions.
+~
+0 9 12
+D0
+~
+~
+0 0 14136
+D1
+~
+~
+0 0 14140
+D2
+~
+~
+0 0 14142
+D3
+~
+~
+0 0 14138
+M100 H100
+S
+#14140
+Graveyard~
+An eerie feeling overwhelms you as you approach this crypt.  It has
+cracked open since the sinking of this city and you can see inside clearly. 
+~
+0 9 12
+D0
+~
+~
+0 0 14137
+D2
+~
+~
+0 0 14143
+D3
+~
+~
+0 0 14139
+M100 H100
+S
+#14141
+Graveyard~
+The undead seem to be all around you. It gives you goosebumps.
+~
+0 9 12
+D0
+~
+~
+0 0 14138
+D1
+~
+~
+0 0 14142
+M100 H100
+S
+#14142
+Graveyard~
+Kelp vines sway slowly in the slight current.  The scattered tombstones
+are really depressing.  
+~
+0 9 12
+D0
+~
+~
+0 0 14139
+D1
+~
+~
+0 0 14143
+D3
+~
+~
+0 0 14141
+M100 H100
+S
+#14143
+Graveyard~
+More tombstones.
+~
+0 9 12
+D0
+~
+~
+0 0 14140
+D3
+~
+~
+0 0 14142
+M100 H100
+S
+#14144
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14106
+D1
+~
+~
+0 0 14145
+D2
+~
+~
+1 0 14147
+D3
+~
+~
+0 0 14146
+M100 H100
+S
+#14145
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14144
+M100 H100
+S
+#14146
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14144
+M100 H100
+S
+#14147
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14144
+D1
+~
+~
+0 0 14148
+D2
+~
+~
+0 0 14150
+D3
+~
+~
+0 0 14149
+M100 H100
+S
+#14148
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14147
+M100 H100
+S
+#14149
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14147
+M100 H100
+S
+#14150
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14147
+D1
+~
+~
+0 0 14151
+D3
+~
+~
+0 0 14152
+M100 H100
+S
+#14151
+Ruined Residence~
+This residence was once filled with a happy family.  Now it is empty and
+the family is long dead.  
+~
+0 9 12
+D3
+~
+~
+0 0 14150
+M100 H100
+S
+#14152
+Ruined Residence~
+This residence was once filled with a happy family.  Now it is empty and
+the family is long dead.  
+~
+0 9 12
+D1
+~
+~
+0 0 14150
+M100 H100
+S
+#14153
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed buildings
+to each side, is lost to time.
+~
+0 9 12
+D0
+~
+~
+0 0 14107
+D1
+~
+~
+0 0 14154
+D2
+~
+~
+0 0 14156
+D3
+~
+~
+0 0 14155
+M100 H100
+S
+#14154
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14153
+M100 H100
+S
+#14155
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14153
+M100 H100
+S
+#14156
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed buildings
+to each side, is lost to time.
+~
+0 9 12
+D0
+~
+~
+0 0 14153
+D1
+~
+~
+0 0 14157
+D2
+~
+~
+0 0 14159
+D3
+~
+~
+0 0 14158
+M100 H100
+S
+#14157
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14156
+M100 H100
+S
+#14158
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14156
+M100 H100
+S
+#14159
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed buildings
+to each side, is lost to time.
+~
+0 9 12
+D0
+~
+~
+0 0 14156
+D1
+~
+~
+0 0 14160
+D3
+~
+~
+0 0 14161
+M100 H100
+S
+#14160
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14159
+M100 H100
+S
+#14161
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14159
+M100 H100
+S
+#14162
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14108
+D1
+~
+~
+0 0 14163
+D2
+~
+~
+0 0 14165
+D3
+~
+~
+0 0 14164
+M100 H100
+S
+#14163
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14162
+M100 H100
+S
+#14164
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14162
+M100 H100
+S
+#14165
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14162
+D1
+~
+~
+0 0 14166
+D2
+~
+~
+0 0 14168
+D3
+~
+~
+0 0 14167
+M100 H100
+S
+#14166
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D3
+~
+~
+0 0 14165
+M100 H100
+S
+#14167
+Ruined Residence~
+This residence was once filled with a happy family. Now it is empty and the 
+family is long dead.
+~
+0 9 12
+D1
+~
+~
+0 0 14165
+M100 H100
+S
+#14168
+Cluttered Street~
+The name of this street, now cluttered with debris from the destroyed
+buildings to each side, is lost to time.  
+~
+0 9 12
+D0
+~
+~
+0 0 14165
+D1
+~
+~
+0 0 14169
+D3
+~
+~
+0 0 14170
+M100 H100
+S
+#14169
+Ruined Residence~
+This residence was once filled with a happy family.  Now it is empty and
+the family is long dead.  
+~
+0 9 12
+D3
+~
+~
+0 0 14168
+M100 H100
+S
+#14170
+Ruined Residence~
+This residence was once filled with a happy family.  Now it is empty and
+the family is long dead.  
+~
+0 9 12
+D1
+~
+~
+0 0 14168
+M100 H100
+S
+#14171
+A Market Street~
+As you stroll down this street, you seem to hear the echoes of a time
+past, when merchants hawked their wares on the street.  
+~
+0 9 12
+D1
+~
+~
+0 0 14101
+D2
+~
+~
+0 0 14172
+D3
+~
+~
+0 0 14174
+M100 H100
+S
+#14172
+A Market Street~
+More echoes of times past.
+~
+0 9 12
+D0
+~
+~
+0 0 14171
+D1
+~
+~
+0 0 14104
+D2
+~
+~
+0 0 14173
+D3
+~
+~
+0 0 14175
+M100 H100
+S
+#14173
+A Market Street~
+Here the market meets the courtyard.
+~
+0 9 12
+D0
+~
+~
+0 0 14172
+D1
+~
+~
+0 0 14106
+D3
+~
+~
+0 0 14176
+M100 H100
+S
+#14174
+A Market Street~
+You seem to get a glimpse of a cart out of the corner of your eye.  Or
+maybe it was just a shadow.  
+~
+0 9 12
+D1
+~
+~
+0 0 14171
+D3
+~
+~
+0 0 14177
+M100 H100
+S
+#14175
+A Market Street~
+Shadows and memories are all that is left of the once great Market of Istar.
+~
+0 9 12
+D1
+~
+~
+0 0 14172
+D3
+~
+~
+0 0 14178
+M100 H100
+S
+#14176
+A Market Street~
+Spectres seem to move among the fallen buildings and places where merchant 
+stalls once stood.
+~
+0 9 12
+D1
+~
+~
+0 0 14173
+D3
+~
+~
+0 0 14179
+M100 H100
+S
+#14177
+A Market Street~
+Shadows and shapes flicker among the kelp and seaweed.
+~
+0 9 12
+D1
+~
+~
+0 0 14174
+D3
+~
+~
+0 0 14180
+M100 H100
+S
+#14178
+A Market Street~
+You think you hear the sound of voices in the distance, but it quickly fades
+to silence.
+~
+0 9 12
+D1
+~
+~
+0 0 14175
+D3
+~
+~
+0 0 14181
+M100 H100
+S
+#14179
+A Market Street~
+Rocks and slabs of marble make it hard to move through this part of the street.
+~
+0 9 12
+D1
+~
+~
+0 0 14176
+D3
+~
+~
+0 0 14182
+M100 H100
+S
+#14180
+A Market Street~
+A Market Street runs up against the sea cliff and your only direction is
+east and south.  
+~
+0 9 12
+D1
+~
+~
+0 0 14177
+D2
+~
+~
+0 0 14181
+M100 H100
+S
+#14181
+A Market Street~
+A Market Street runs along the side of the sea cliff. It also runs east to the
+courtyard.
+~
+0 9 12
+D0
+~
+~
+0 0 14180
+D1
+~
+~
+0 0 14178
+D2
+~
+~
+0 0 14182
+M100 H100
+S
+#14182
+A Market Street~
+A Market Street runs back to the courtyard east or back to the north.
+~
+0 9 12
+D0
+~
+~
+0 0 14181
+D1
+~
+~
+0 0 14179
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 14100 spec_cast_mage Load to: morkoth
+M 14101 spec_nasty Load to: kuo-toa
+M 14105 spec_cast_undead Load to: lacedon
+M 14108 spec_cast_mage Load to: wizard
+M 14114 spec_nasty Load to: locathah
+M 14118 spec_fido Load to: shark
+M 14119 spec_fido Load to: shark
+M 14120 spec_guard Load to: elemental
+S
+
+
+
+#RESETS
+M 0 14102 2 14100 1
+M 0 14109 2 14100 1
+M 0 14109 2 14100 1
+M 0 14107 4 14101 1
+M 0 14108 4 14101 1
+E 0 14105 0 13
+M 0 14102 2 14102 1
+M 0 14103 10 14105 1
+M 0 14107 4 14105 1
+M 0 14108 4 14105 1
+M 0 14119 14 14107 1
+G 0 14103 0
+G 0 14104 0
+M 0 14107 4 14108 1
+M 0 14108 4 14108 1
+M 0 14119 14 14109 1
+G 0 14103 0
+G 0 14104 0
+M 0 14106 10 14110 1
+M 0 14119 14 14111 1
+G 0 14103 0
+G 0 14104 0
+M 0 14101 3 14113 1
+E 0 14102 0 16
+M 0 14101 3 14113 1
+E 0 14102 0 16
+M 0 14101 3 14113 1
+E 0 14102 0 16
+M 0 14119 14 14115 1
+G 0 14103 0
+G 0 14104 0
+M 0 14110 3 14116 1
+M 0 14110 3 14116 1
+M 0 14110 3 14116 1
+M 0 14110 2 14116 1
+M 0 14111 2 14116 1
+M 0 14118 6 14118 1
+G 0 14103 0
+G 0 14104 0
+M 0 14118 6 14121 1
+G 0 14103 0
+G 0 14104 0
+M 0 14118 6 14122 1
+G 0 14103 0
+G 0 14104 0
+M 0 14118 6 14123 1
+G 0 14103 0
+G 0 14104 0
+M 0 14100 1 14124 1
+E 0 14101 0 16
+E 0 14100 0 5
+M 0 14120 4 14124 1
+M 0 14120 4 14124 1
+M 0 14120 4 14124 1
+M 0 14120 4 14124 1
+M 0 14118 6 14128 1
+G 0 14103 0
+G 0 14104 0
+M 0 14106 10 14129 1
+M 0 14119 14 14130 1
+G 0 14103 0
+G 0 14104 0
+M 0 14118 6 14131 1
+G 0 14103 0
+G 0 14104 0
+M 0 14106 10 14132 1
+M 0 14106 10 14135 1
+M 0 14106 10 14135 1
+M 0 14105 3 14135 1
+M 0 14105 3 14136 1
+M 0 14119 14 14137 1
+G 0 14103 0
+G 0 14104 0
+M 0 14105 3 14137 1
+M 0 14119 14 14138 1
+G 0 14103 0
+G 0 14104 0
+M 0 14105 3 14138 1
+M 0 14105 3 14139 1
+M 0 14105 3 14140 1
+M 0 14105 3 14141 1
+M 0 14105 3 14142 1
+M 0 14105 3 14143 1
+M 0 14104 5 14145 1
+E 0 14106 0 16
+M 0 14104 5 14146 1
+E 0 14106 0 16
+M 0 14104 5 14148 1
+E 0 14106 0 16
+M 0 14104 5 14149 1
+E 0 14106 0 16
+M 0 14104 5 14151 1
+E 0 14106 0 16
+M 0 14119 14 14156 1
+G 0 14103 0
+G 0 14104 0
+M 0 14119 14 14160 1
+G 0 14103 0
+G 0 14104 0
+M 0 14119 14 14162 1
+G 0 14103 0
+G 0 14104 0
+M 0 14119 14 14165 1
+G 0 14103 0
+G 0 14104 0
+M 0 14114 10 14173 1
+M 0 14114 10 14173 1
+M 0 14112 10 14175 1
+M 0 14115 4 14177 1
+E 0 14109 0 17
+M 0 14115 4 14177 1
+E 0 14109 0 17
+M 0 14119 14 14178 1
+G 0 14103 0
+G 0 14104 0
+M 0 14112 10 14180 1
+M 0 14115 4 14181 1
+E 0 14109 0 17
+M 0 14115 4 14181 1
+E 0 14109 0 17
+M 0 14119 14 14182 1
+G 0 14103 0
+G 0 14104 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

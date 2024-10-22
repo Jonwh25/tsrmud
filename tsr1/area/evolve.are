@@ -1,0 +1,810 @@
+#AREADATA
+Name        [       ] Evolve~
+Builders    Xentar~
+VNUMs       5913 5932
+Security    9
+End
+
+
+
+#MOBILES
+#5913
+Guardian Sphinx~
+The Guardian Sphinx~
+The legendary guardian of the pyramid, the Sphinx, is here...
+waiting to shread you into pieces.
+~
+A man headed, lion bodied creature guards here. He roars at you with great
+disdain...and WITHOUT warning, he leaps at you with his powerful lion body...
+the last thing you saw was his great paws rising high above you...!!!
+~
+unique~
+ABCFGRTV DFHVb 0 0 
+0 56 24 50d10+8500 1d1+1000 10d4+30 0
+-27 -27 -27 -27
+ACDEFIKMNO ABCGHILMNOPQR S EFJK
+standing standing male 0
+CHV ABCDEFHJKQUV M 0
+#5914
+Anubis God Death Jackal~
+Anubis, the God of Death~
+The God of Death, Anubis, stands here...ready to embalm you!
+~
+The jackal headed God of Death, Anubis, guards here. He looks at you with 
+his dark eyes and snarls. SUDDENLY, his eyes starts to glow and he raises
+his mighty nose hook, ready to take your brian out through your nose and
+turn you into a Mummy!!
+~
+unique~
+ABCFGORSTV DHVZb 0 0 
+0 58 25 50d10+9500 1d1+1500 5d10+32 0
+-28 -28 -28 -28
+ABCDEFHIKNO ABDHKLMNOPQRS C IJ
+standing standing male 0
+EHLM ABDEFGHIJKV M 0
+#5915
+Thoth God Truth~
+The God of Truth, Thoth~
+Thoth, the God of Truth, awaits here to test your worthiness.
+~
+The wise and great Thoth stands here before you, embodied as a mighty Ibis
+with a human head. In his hands, he holds the Scales of Truth, waiting to
+weigh your heart against the Feather of Truth. The glint in his eyes and
+the hardness in his expression makes you contemplate all the sins
+you have ever committed.
+~
+unique~
+ABCFGRTV DHNTVb 0 0 
+0 59 25 50d10+10000 1d1+1600 8d6+32 0
+-29 -29 -29 -29
+ACDEFHIKNO ABEFIKLMNOPQRS J GH
+standing standing male 0
+ELM ACDEFHJKPU M 0
+#5916
+Isis Goddess Enchantress~
+Isis the Goddess Enchantress~
+Isis, the Goddess of Protection and Life, kneels here, 
+guarding the way to her great husband Osiris.
+~
+You are blinded by the brillance of the throne-shaped tiara resting on the
+head of this Great Enchantress. Her equally shining eyes strikes fear in
+your heart as you realize that you are about to do battle with the most
+powerful of the Egyptian Goddesses.
+~
+unique~
+ABCDGOQRTV DHNTVb 0 0 
+0 62 26 50d10+11500 1d1+2500 8d6+36 0
+-32 -32 -32 -32
+ACDEFGHIKNO ABFGHIJKLNPQR EMO 0
+standing standing female 0
+ELM ABCDEFGHIJKP M 0
+#5917
+Osiris God Lord Underworld~
+The Lord of the Underworld~
+Osiris, the great lord of the Underworld is here, 
+granting Eternal life to those he deems worthy. 
+~
+The mighty ruler of the Underworld, Osiris, stands here. Legend has it that
+he has untold powers that can grant immortality to those he favors. You
+tremble as you sense his divinity and unparalleled powers. Can you possibly
+defeat the great Osiris?!
+~
+unique~
+ABCGOQRTV DFHVbd 0 0 
+0 63 26 50d10+12000 1d1+1800 8d6+36 0
+-33 -33 -33 -33
+ABCDEFHKO ABDEFGIJLNOPQRS CHKM 0
+standing standing male 0
+ELM ABCDEFGHIJK M 0
+#5918
+Horus God Sky~
+Horus~
+The son of Osiris and Isis, Horus, is here, ready to strike you 
+down from the heavens.
+~
+The brillance of the Sun and the Moon blinds you!! As your vision recovers,
+you realize that you are staring into the eyes of Horus, the falcon headed
+God of the Sky. Yours knees buckle under you as you realize that this is the
+great Horus that has defeated the God of Warfare, Seth, in battle!!
+~
+unique~
+ABCFGRTV DHTVb 0 0 
+0 60 25 50d10+10500 1d1+1700 8d6+33 0
+-30 -30 -30 -30
+ACDEFHINO ABDEFGIJKNPQRS HM O
+standing standing male 0
+ELM ABCDEFGHIJK M 0
+#5919
+Amon Re Creator God Ruler~
+Creator~
+Amon-Re, the ruler of Egyptian Gods, sits here on 
+a throne of pure light.
+~
+You can barely make out the magnificence of Amon-Re. What you do see of
+this God of Empires and Patron of Pharaoh brings you cowering in a corner
+as you begin to understand the omniscience and omnipotence of this divine
+Creator.
+~
+unique~
+ABCGOQRSTV BDFHJNTVb 0 0 
+0 65 28 50d10+14500 1d1+2000 8d6+38 0
+-35 -35 -35 -35
+ABCDEFGHIJKLNO ABDEFGHIKLNPQRS JMO 0
+standing standing male 0
+ELM ABDEFGHIJK M 0
+#0
+
+
+
+#OBJECTS
+#5913
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5914
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5915
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5916
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5917
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5918
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AO
+0 0 0 0 0
+66 1 0 P
+#5919
+Ankh~
+the Ankh of Eternal Life~
+A Egyptian symbol of Eternal Life lies here.~
+Unknown~
+key ABG AC
+0 0 0 0 0
+66 1 0 P
+#5920
+Book~
+the Book of the Dead~
+A ancient manuscript that holds mystical spells to help the Dead lies here.~
+Unknown~
+treasure ABG AO
+0 0 0 0 0
+66 1 0 G
+#5921
+Hook~
+A Nose Hook~
+A thin, sharp hook used for embalming lies here.~
+Unknown~
+treasure ABG AO
+0 0 0 0 0
+66 1 0 G
+#5922
+Feather~
+the Feather of Truth~
+A glowing, mystical feather in the purest white is carelessly left here. ~
+Feather~
+treasure ABG AO
+0 0 0 0 0
+66 1 0 G
+#5923
+Wings~
+the Wings of Protection~
+A pair of iridescent wings capable of dispelling the most powerful of spells
+hovers here.~
+Feather~
+treasure ABG AK
+0 0 0 0 0
+66 1 0 G
+#5924
+Flail~
+the Flail of Ruling~
+The flail of a divine ruler is carelessly tossed here.~
+Unknown~
+treasure ABG AO
+0 0 0 0 0
+66 1 0 G
+#5925
+Sun~
+the Sun and the Moon~
+The eyes of Horus lies here, filling the room with a warm glow.~
+Unknown~
+treasure ABG AE
+0 0 0 0 0
+66 1 0 G
+#5926
+Eye~
+the Eye of Amon-Re~
+Something that radiates the unimaginable forces of Creation is here.~
+Unknown~
+treasure ABG AE
+0 0 0 0 0
+66 1 0 G
+#5927
+Whip Darkness~
+the Whip of Darkness~
+A powerful whip made of pure darkness lies here.~
+Darkness~
+weapon BGHMP AN
+whip 9 9 acbite 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#5928
+Sword Truth~
+the Sword of Truth~
+A transparent blade of pure light lies here.~
+Light~
+weapon ABGHMP AN
+sword 9 9 magic 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#5929
+Crescent Moon~
+the Crescent Moon~
+The light that fills the night sky with brillance lies here.~
+Light~
+weapon ABGHMP AN
+dagger 9 10 divine 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#5930
+Mace Souls~
+the Mace of Souls~
+A mace of exquiste beauty hovers in mid air, surround by a 
+column of sheer brillance.~
+Light~
+weapon ABGHMP AN
+mace 9 10 frbite 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#5931
+Spear Sun~
+the Spear of the Sun~
+A spear consumed in sheer light and flames lies here.~
+Light~
+weapon ABGHMP AN
+exotic 9 9 flbite 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#5932
+Godslayer~
+the Godslayer~
+Surrounded by a white nimbus, a sword of astounding power 
+hovers aimlessly in mid air, waiting for its next divine owner.~
+Light~
+weapon ABGHMP AN
+exotic 10 10 shbite 0
+51 1 0 G
+A
+19 5
+A
+18 4
+#0
+
+
+
+#ROOMS
+#5913
+The Gates of Destiny~
+Before you stands the legendary Gates of Destiny. Legend has it that
+these gates can reveal the future of those who it deems worthy. Countless
+tales have been told of great heroes who have passed through these gates...
+but none have returned to tell others if the legends were true. As you walk
+slowly toward the Gates, you find yourself starring into the divinely crafted
+artwork that graced the surface of the Gates. The Goddess of the Present
+stares at you, with her stoney eyes. To her left you see the Goddess of the
+Past and to her right, you see the Goddess of the Future. Without knowing
+why, you put your fingers down on the surface of the Gates, and gently,
+traced the carvings of these three Goddesses. SUDDENLY, brillant light bursts
+forth from within the surface of the Gates of Destiny...Light surrounds you 
+and you find yourself being drawn into the Gates...
+~
+0 9740 0
+D0
+To the North, you see the brillant Gates of Destiny.
+~
+~
+1 1 5914
+M100 H100
+S
+#5914
+Entrance to the Pyramid of Immortality~
+A huge structure with a square base and four triangular sides meeting
+at an apex stands before you. Though it is said that this is build by some
+ancient civilizations as royal tombs, you can sense great divine powers
+radiating from within the Pyramid. Limestone statues of Sphinxes, the great
+guardians of the Pyramid, line the sides of the sand-filled path that leads
+to the Entrance of this monument. As you near the entrance, you can hear
+great ROARING sounds coming from within the Pyramid of Immortality. Fears
+never felt before fills your heart as you wonder to yourself what kind
+of a monstrosity can produce such a great ROAR...
+~
+0 8716 10
+D0
+The entrance to the Pyramid of Eternity lies ahead of you.
+~
+~
+0 -1 5915
+M100 H100
+S
+#5915
+The Chamber of the Immortals~
+As you step into the room, you eyes are blinded by the sheer
+brillance of this room. The ceilings of this room is as high as the pyramid
+itself.The walls are lined with hieroglyphs depecting the stories of Egyptian
+Gods and Goddesses. As your glance around, you see statues in the purest gold 
+of the four great Goddesses of Egypt-Isis, Nephthys, Neith and Selkt. 
+Great awe fills your heart as you lay your eyes on the faces of these 
+four Goddesses. Beauty unmatched by anyone grace their faces. As you walk 
+towards the statue nearest to you, you stumple upon a pile of skeletons. 
+Fear enters your heart as you realize that you are not alone....
+~
+0 8716 0
+D2
+Back to the entrace of the Pyrmaid.
+~
+~
+0 -1 5914
+D5
+A portal of the purest light lies in the center of the room.
+~
+~
+2 5913 5916
+M100 H100
+S
+#5916
+The Passageway of the Ka~
+You glance down at this stair case leading to the darkness below and
+wonder to yourself what your future holds for you. Your battle with the
+Guardian Sphinx has tired you. You decide to sit here, and rest for a bit.
+As you glance around, frescos of Gods and Goddesses in brillant colors fill
+the walls. Hieroglyphs offering prayers to the great Egyptian deities graces
+the ceiling of this holy passageway.  
+~
+0 8716 0
+D4
+The way back to the Chamber of Immorality.
+~
+~
+0 -1 5915
+D5
+To the Underworld.
+~
+~
+0 -1 5917
+M100 H100
+S
+#5917
+The Gates of the Temple of Osiris~
+As you emerge from the passageway, a great temple of made entirely of
+the purest gold stands before you. Besides this great Temple, you see two
+lakes full of sweet smelling water lotus blossoms. Two great statues of
+Osiris, the great ruler of the Underworld lies half submerged in the lakes.
+As you approach the temple, you see that the path is blocked by a tall jackal
+headed creature. A sense of dread fills you as you realize that you must
+fight this creature to gain admittance to the Temple of Osiris. As you draw
+your weapon, the jackal headed creature speaks...
+        "Welcome to the Underworld, Mortal. The Gods must have
+        smile down upon you; It has been ages since a living
+        mortal has gained access to this divine Temple.The great
+        Osiris himself awaits you...if you can defeat me, the
+        God of Death, Anubis."
+~
+0 8716 2
+D0
+Door of Judgement lies to your north.
+~
+~
+2 5914 5918
+D4
+The way back to the Passageway of the Ka.
+~
+~
+0 -1 5916
+M100 H100
+S
+#5918
+The Hallway of Judgement~
+You enter into this hallway with great relief. You have defeated
+Anubis, the God of Death, in battle. Your body, cover with wounds, calls out
+for rest and sleep. You lean against one of the great pillars that lines this
+hallway, and slowly sink into a comfortable resting position. Overwhelmmed
+by your battle, you did not notice the exquisite inscriptions of ancient
+egyptian texts on the pillars. Nor did you see the two gold statues of the
+Ibis and Baboon, the sacred animals of Thoth, the God of Truth, that stands
+guard besides the Scales of Truth in the center of the room.
+~
+0 8716 0
+D0
+The Doors of Truth lies to your north
+~
+~
+1 1 5919
+D2
+To the entrance of the Temple.
+~
+~
+0 -1 5917
+M100 H100
+S
+#5919
+Chamber of Judgement~
+The first thing you notice as you enter this large room is the beauty
+of the statue of Isis, the great enchantress. The statue, though at the far
+end of this vast chamber, still enraptures your heart. As you force your gaze
+away from the enchanting beauty of the statue of Isis, you see that this
+chamber is not empty. In the center of this room, the mighty Ibis-headed
+God of Truth-Thoth, awaits you. He peers at you with his shining eyes and
+says...
+        "Only the purest of souls may pass through here..."
+SUDDENLY, you feel unimaginable pain stabbing at your heart, tugging at it,
+trying to ripe it out of your chest. As the pain surges through your body,
+forcing you to roll back and forth on the golden floor, you realize that
+this is the doing of Thoth.
+        "...I must weigh your heart against the Feather of
+        Truth..."
+Though the severity of the pain weakens your body, you exert every last ounce
+of energy left in your body and force yourself to stand up. You realize that
+if you don't kill him soon, your heart would rest on the Scales of Truth....
+~
+0 8716 0
+D0
+To your north, you see the brillant Doors of Isis.
+~
+~
+2 5915 5920
+D2
+The way to the Hallway of Judgement.
+~
+~
+0 -1 5918
+M100 H100
+S
+#5920
+The Courtyard of Isis~
+A rectangular shape room lined with golden columns shaped into
+lotus blossoms greets you as you stagger into the courtyard. A lush garden
+of the rarest flowers and plants grace the center of the courtyard. The scent
+of sweet smelling lotus blossoms and water liles of all colors fills the air.
+Though seemingly impossible, a warm zehpyr gently warms your maimed body. The
+serenity of this place puts you into a deep slumber. You did not notice a
+fine pepple filled path leading from the courtyard towards the center of
+this lush green garden.
+~
+0 8716 0
+D0
+A fine pepple filled path lies north of here.
+~
+~
+0 -1 5921
+D2
+The way back to the Chamber of Judgment.
+~
+~
+0 -1 5919
+M100 H100
+S
+#5921
+The Garden of Isis~
+You are standing in the middle of the Garden of Isis. Flowers of
+all kinds dazzle you vision. Rare and exotic plants that was thought to be
+extinct graces this garden. Wonder and awe fills you as you realize that
+there is life in the Underworld. A small lake lies to your left and as
+you gaze into its pristine depths, fishes of the most brillant colors swims
+about. To your north, you see a small clearing, surround by palms and
+wild orchids. A large door with a golden Scarab holding the sun in its hands
+adorns the surface of this gateway, is seen to your west. A stone head of
+Osiris, the ruler of the Underworld, peeks barely above the surface of the
+lake, its stoney eyes firmly fixed at you. As you gaze towards the statue,
+you see a woman of exquiste beauty resting on top of the head. A nimbus of
+brillant light surrounds her, enchancing her already irrestible beauty.
+You approach her and realize that you have seen that face before. It is a
+face that you can never forget...It is the face of Isis, the devoted wife
+of Osiris and the most powerful enchantress of all Egyptian Goddesses.
+~
+0 8716 2
+D2
+Back to the Courtyard of Isis.
+~
+~
+0 -1 5920
+D3
+You see the Doors of Eternal Life to your west.
+~
+~
+2 5916 5922
+M100 H100
+S
+#5922
+The Chamber of Eternal Life~
+A door that is as high as the ceiling itself lies to your north. The
+surface of the door is adorned with hieroglyhs, praising the ruler of the
+Underworld. Besides the door, you see a statue of Isis and a falconed head
+God, both kneeling down as if they were in the presence of a greater
+divinity. The walls of this room are filled with frescos of the tale of
+Osiris. Legend has it that Osiris was murdered by his treachous brother, Seth
+and it was his devoted wife, Isis, that gave life back to Osiris. And from
+then on, Osiris rules the Underworld. As your eyes marvel at the beauty of
+this room, you begin to wonder as to what can lie behind those great
+doors....
+~
+0 8716 0
+D0
+The Doors of Osiris lies to your north.
+~
+~
+1 1 5923
+D1
+To the lush garden.
+~
+~
+0 -1 5921
+M100 H100
+S
+#5923
+The Throne room of Osiris~
+As you enter into the throne room of Osiris, you are dumb struck by
+the sheer divinity of this room. The dias which Osiris rests upon is shaped
+into a giant lotus blossom. Behind the dias, a large golden scarab, holding
+a glowing, firey orb in its hands, fills the room with brillant light. The
+floor of the throne room glow with such a radiance that the mid day Sun pales
+in comparison to this brillance. You shield your eyes from the blinding 
+light,  and glance to your sides. Strong, golden pillar shaped into 
+blooming lotus blossoms, line your sides. Prayers from mortals whipsers 
+faintly in the air, as offerings of incense fills the room with a 
+heavenly scent. You gaze once more on the dias and your eyes lay on 
+Osiris, the great ruler of the Underworld. The orb of pure light,  
+brighter than the Sun itself, flares behind him...surrounding him in a pure
+nimbus of holy light. 
+~
+0 8716 0
+D2
+The Chamber of Eternal Life.
+~
+~
+0 -1 5922
+D4
+A portal of Radiance.
+~
+~
+2 5917 5924
+M100 H100
+S
+#5924
+In a beam of light~
+You are floating effortlessly in a warm, soothing beam of light. As
+you glance down, you can see the great Temple of Osiris growing smaller and
+smaller as you ascend higher and higher into the sky. You direct your eyes
+upwards and all you see is pure iridescent light. You close your eyes and
+bask in the warmth of the light. Soon, sweet slumber enters you....
+~
+0 8716 9
+D4
+High above you, the Doors of Heaven is seen.
+~
+~
+0 -1 5925
+D5
+To the Throne Room.
+~
+~
+0 -1 5923
+M100 H100
+S
+#5925
+The Doors of Heaven~
+Mists swirls enchantingly at your feet as you emerge from the beam
+of light. You look around but all you see is mists that glow faintly like
+the midnight Moon. Walking cautiously, you wander aimlessly in this maze like
+mist. A sense of timelessness fills your heart as you wander. SUDDENLY, a
+door that is as high as the heavens itself appears before you. Mists that had
+cause you to lose your direction seem to vanish as it nears this door. You
+look to your sides...and see nothing but mists. This door stands as it is,
+alone, unsupported by anything. Intricate inscriptions of Hieroglyphs line
+the edges of this door. As you raise you foot to approach this door, a
+resonate voice is heard coming from behind you...
+        "STOP! I cannot let you pass through the Doors of Heaven. I am
+        Horus, the Guardian of the Sky and Keeper of the Doors of Heaven.
+        Violaters will suffer a fate worse than DEATH..."
+You turn you head around and all you see is a falconed head God spearing
+towards you....
+~
+0 8716 2
+D1
+The Golden Doors of Heaven lies to your east.
+~
+~
+2 5918 5926
+D5
+Back to the Light.
+~
+~
+0 -1 5924
+M100 H100
+S
+#5926
+Heaven~
+Glowing mists surrounds your body, gently caressing you. Everywhere
+you look, there is light. It bathes you in a warmth that you have never felt
+before and puts you in a deep, calming trance. You slowly sink to your knees
+and close your eyes. Tiny whispers of holy prayers fill your ears. Scents
+of incenses and exotic blossoms perfume the air. You open your eyes and
+without knowing why, look to your east and what you saw startled you.
+A Pyramid that glows with such radiance and splendor that it outshines the
+rays of the rising Sun can be barely be seen. You approach this structure
+slowly, absorbing the charm of this Pyramid with every breath you take. You
+are so enraptured with the enchanting grace of this structure that you fail
+to see numerous Egyptain God and Goddess kneeling before this great pyramid,
+offering prayers and libations. Surely, some greater divinity, perhaps a
+force of Creation or someone omnipotent and omniscience resides inside
+this eminent Pyramid....
+~
+0 8716 2
+D1
+The Pyramid of Creation.
+~
+~
+0 -1 5927
+D3
+The way in which you came.
+~
+~
+0 -1 5925
+M100 H100
+S
+#5927
+Center of Creation~
+Nothing in your vocabulary could illustrate a fraction of the beauty
+you see here. Mists swirl and dance around you, as light more luminous than
+the Sun, Moon and Stars fill the room with such luster and brillancy that
+you feel like your body is nothing but pure light, light so radiant that it
+dispeled the Eternal darkness that hindered the development of all life. A
+force that is as powerful as the force that sparked Creation blends
+harmonously with the gleaming light. Who or what could possibly possess
+such a powerful force?!
+~
+0 8716 2
+D0
+The Doors of Creation.
+~
+~
+2 5919 5928
+D3
+Back to the serenity of the Heavens.
+~
+~
+0 -1 5926
+M100 H100
+S
+#5928
+Chaos~
+Darkness embraces you from all sides. Forces of chaos blends 
+chaoticly with the perpetual darkness. You look around and realize that
+your actions are foolish. Nothing could penetrate this darkness...Only 
+the brillant light of Creation can dispel all darkness. Aimlessly lost, 
+you decide that it is best to conserve your energy. You sink into a 
+comfortable sitting position and wait for whatever Destiny has in
+store for you.  Without knowing why, you suddenly feel like something 
+is about to take place. Something great and divine is unfolding before
+your eyes. The Forces of chaos swirl and dance, vibrating through
+the perpetual darkness. And suddenly *L*I*G*H*T* showers you from
+somewhere above. Chaos seem to dissolve as a more orderly force
+slowly displaces it. Order and Life can be felt radiating from within
+this brillant beam of light. It is now that you realize what you are
+witnessing... Creation is about to occur...
+~
+0 9740 2
+D2
+To the Center of Creation
+~
+~
+0 -1 5927
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 5913 spec_breath_fire Load to: The Guardian Sphinx
+M 5914 spec_breath_acid Load to: Anubis, the God of Death
+M 5915 spec_breath_lightning Load to: The God of Truth, Thoth
+M 5916 spec_cast_undead Load to: Isis the Goddess Enchantress
+M 5917 spec_cast_undead Load to: The Lord of the Underworld
+M 5918 spec_breath_fire Load to: Horus
+M 5919 spec_thief Load to: Creator
+S
+
+
+
+#RESETS
+D 0 5913 0 1
+D 0 5915 5 2
+D 0 5917 0 2
+D 0 5919 0 2
+D 0 5921 3 2
+D 0 5923 4 2
+D 0 5925 1 2
+D 0 5927 0 2
+M 0 5913 1 5915 1
+E 0 5920 0 17
+E 0 5913 0 3
+M 0 5914 1 5917 1
+E 0 5921 0 17
+E 0 5914 0 3
+E 0 5927 0 16
+M 0 5915 1 5919 1
+E 0 5922 0 17
+E 0 5915 0 3
+E 0 5928 0 16
+M 0 5916 1 5921 1
+E 0 5923 0 5
+E 0 5916 0 3
+E 0 5929 0 16
+M 0 5917 1 5923 1
+E 0 5924 0 17
+E 0 5917 0 3
+E 0 5930 0 16
+M 0 5918 1 5925 1
+E 0 5925 0 6
+E 0 5918 0 3
+E 0 5931 0 16
+M 0 5919 1 5927 1
+E 0 5926 0 6
+E 0 5919 0 3
+E 0 5932 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,823 @@
+#AREADATA
+Name        [  All  ] Sea Tunnels~
+Builders    Terram Yep~
+VNUMs       8100 8150
+Security    1
+End
+
+
+
+#MOBILES
+#8100
+rat rats horde~
+a horde of rats~
+A horde of rats fight over garbage.
+~
+There is maybe 50 or 60 very big grungy black rats fighting over a dead
+fish.  Some of them peer up at you with sickly red eyes.  
+~
+cat~
+ACGH XZ -200 0 
+0 30 10 9d61+416 30d10+100 5d6+15 0
+-9 -9 -9 0
+AFHNR LPQ C H
+standing standing none 1
+AGV ACDEFHJKQUV M unknown
+#8101
+crocodile~
+a crocodile~
+A crocodile scavenges the sewers.
+~
+A green scalely crocodile waits patiently like a moss colored log.  Its
+yellow eyes opened to mere slits waiting for a meal.  
+~
+lizard~
+ACG Zb 200 0 
+0 40 0 10d108+662 40d10+100 5d8+30 0
+-15 -15 -15 -2
+DFM FR GL I
+standing standing none 10
+AGXYc ACDEFHKLQVX L unknown
+#8102
+merman~
+a merman~
+A merman glares at you.
+~
+This beautiful half man and half fish floats gently in the water.  He
+hates you for entering his element.  His tail thrashes the water into a
+froth as he swims about.  The only thing he values is the beautiful pearls
+found in the sea.  
+~
+human~
+AB DFZ 500 0 
+0 75 5 11d345+1735 75d10+100 5d15+37 0
+-36 -36 -36 -13
+EFKMV E AD 8100 HIKR CP 0
+standing standing male 0
+AHMV ABCDEFGHIJKQX M unknown
+#8103
+oyster~
+an oyster~
+An oyster is clamped shut.
+~
+A giant oyster sits quietly in a bed of smaller oysters.  Occasionally
+you see the shell open and a tentacle of flesh grab a fish from the water.  
+~
+snake~
+AB ARWbcd 0 0 
+0 55 0 10d169+920 50d10+100 5d10+24 0
+-27 -27 -27 -9
+KO DHR CFL IP
+standing standing none 0
+AGXYc ADEFKLQVX L unknown
+#8104
+kelp~
+a kelp forest~
+The kelp moves restlessly in the sea.
+~
+The grey-green leaves and vines gently sway in the water.  The vines of
+kelp intertwine to form a barrier.  The only way to clear the passageway
+would be to cut a hole in the kelp.  
+~
+human~
+AB DFVZbc 400 0 
+0 150 -5 13d1166+5190 150d10+100 0d0+0 0
+-83 -83 -83 -36
+AENV F A 0 CDHIJKLMNOPQR S G
+standing standing none 0
+AEHJMVc ABCDEFGHIJK G unknown
+#8105
+ocean~
+the crashing ocean~
+The waters of the ocean seep through cracks in the walls.
+~
+Water drips steadily from the walls and ceiling.  The walls look weakest
+to the west.  A sudden CRACK sounds lound in your ear.  
+~
+human~
+AB BDFQZbc 0 0 
+0 150 0 13d1166+5190 150d10+100 6d25+75 0
+-83 -83 -83 -36
+ACEFNOV C B 0 ABCDEFGIJKLMNOPQRTXY 0 H
+standing standing none 0
+AHMV ABCDEFGHIJK G unknown
+#8106
+fish school~
+a school of fish~
+A school of fish flash and dart in the cold water.
+~
+A school of large silver fish swim here and there.  Occasionally chasing
+minnows.  The begin to gather around you and stare at you with curiousity.  
+~
+human~
+AC Zb 200 0 
+0 30 0 9d61+416 30d10+100 5d6+15 0
+-9 -9 -9 0
+FMN IR 0 J
+standing standing none 0
+AHMV ABCDEFGHIJKQX S unknown
+#0
+
+
+
+#OBJECTS
+#8100
+pearl~
+a pearl~
+A small sphere of pearlescence reflects the light oddly.~
+unknown~
+gem 0 A
+0 0 0 0 0
+70 10 1000 P
+#8101
+minitrident trident gold~
+a small gold trident~
+A golden minitrident bends the water to hide itself.~
+unknown~
+key C A
+0 0 0 0 0
+75 0 500 P
+#8102
+trident silver~
+a silver trident~
+A silver trident shimmers in the light.~
+unknown~
+weapon 0 AN
+exotic 6 13 stab G
+75 25 7500 P
+A
+2 1
+A
+1 -1
+A
+17 1
+#8103
+hand~
+a severed hand~
+The hand of some unfortunate sits on the floor.~
+unknown~
+npc_corpse UV A
+0 0 0 0 0
+0 5 0 P
+#8104
+aquamarine ring~
+an aquamarine ring~
+A ring glistens with the symbol of some past noble.~
+unknown~
+jewelry M AB
+0 0 0 0 0
+30 1 8575 P
+E
+symbol~
+The symbol looks like some stylized waves and a sail in the center.  
+~
+#0
+
+
+
+#ROOMS
+#8100
+The Aqueduct~
+The curving walls extend up into darkness.  The floor slopes gently
+downwards towards the center of the room.  A pool off dark stagnant water
+reflects your light from a mere foot or two away.  Any sound you make echos
+sickeningly off the vaulted ceiling.  A sound of moving water can be heard
+to the east.  The stink of garbage and mold penetrates your clothes.  
+~
+0 9 0
+D1
+~
+~
+0 0 8101
+D5
+~
+~
+2 463 463
+M100 H100
+S
+#8101
+The Aqueduct~
+The arching walls end in a circular room.  The floor is slippery with
+algea and moss.  The floor slopes quite steeply down like a giant funnel. 
+The water swirls around in a small whirlpool and gurgles as it is sucked
+down.  As bits and pieces of decaying garbage are sucked under they break up
+and release a sickening odor.  
+~
+0 9 1
+D2
+~
+~
+1 0 8127
+D3
+~
+~
+0 0 8100
+D5
+~
+~
+0 0 8102
+M100 H100
+S
+#8102
+Water Passage~
+You are soiled in a tourent of raining water and sewage.  The waters
+swirl around in a malestorm.  Your sence of direction is lost as debree
+buffets you.  You are finally flung into a corner.  Behind your back you
+feel a pertrusion.  With a bit of work you should be able to climb free of
+the whirlpool.  
+~
+0 9 12
+D1
+~
+~
+0 0 8103
+D4
+~
+~
+0 0 8101
+M100 H100
+S
+#8103
+Water Passage~
+The mix of water and waste continues to swirl around and buffet you. 
+Pushing you along the tunnel towards the east.  Only near the ceiling can
+you make any headway to the west.  All other sounds are drowned out by the
+falling 'water' to the west.  
+~
+0 1 12
+D1
+~
+~
+0 0 8104
+D3
+~
+~
+0 0 8102
+M100 H100
+S
+#8104
+Water Passage~
+The slimy water has settled to steady flow down this long twisting
+corridor.  The walls are smooth and slippery with a coating of ooze.  Most
+of the larger debree has settled out or broken up.  The only sound is the
+ever present sushing of water as it works its way downwards and south.  
+~
+0 9 12
+D2
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8103
+M100 H100
+S
+#8105
+Water Passage~
+You swim for quite some time.  Eventually you come to an old rusty grate.
+The water is all a burble as it pours through the grate.  Water and trash
+flow towards you from the north tunnel.  A large pile of debree has built up
+on the floor under the grate.  
+~
+0 9 12
+E
+pile~
+What are you doing digging in this pile, it is half rotting garbage and
+the other half human refuge.  But all that is nothing compared to the
+grinning skull with over long cannines and bits of flesh still hanging on
+it.  
+Maybe this is not a safe place to search.
+~
+D0
+~
+~
+0 0 8104
+D1
+~
+grate~
+1 0 8106
+D2
+~
+~
+0 0 8115
+M100 H100
+S
+#8106
+Sea Tunnels~
+This passage is vaguely circular, but definitely hand carved.  Vague
+markings can be seen on the walls but they are very faint.  The dark water
+sluggishly comes through a rusty grate to the west.  To the south this
+passage connects to a strangely smooth tunnel.  
+~
+0 9 12
+E
+markings~
+Although they have been nearly washed away you can get one line: 
+Go to church and PREY ...
+There are also some crude pictures of sharks eating people.
+~
+D2
+~
+~
+0 0 8107
+D3
+~
+grate~
+1 0 8105
+M100 H100
+S
+#8107
+Sea Tunnel~
+This winding tunnel goes on for miles.  From the cinder on the bottom you
+figure these tunnels to be lava tubes.  Hopefully the area is not active
+anymore.  A slight current pulls you towards the west.  You have this
+uncomfortable feeling that something lives in these underwater passages.  
+~
+0 9 12
+D0
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8108
+M100 H100
+S
+#8108
+Sea Tunnel~
+This cyndrical passage is a good ten feet wide.  The water to the west
+feels slightly warmer.  You feel your clothing begin to itch as salt and
+bits of decay saturate them.  Occasionally you catch glimse of movement in
+the distance.  
+~
+0 9 12
+D1
+~
+~
+0 0 8107
+D3
+~
+~
+0 0 8109
+M100 H100
+S
+#8109
+Sea Tunnel~
+A vast undersea chamber surrounds you.  The walls and floor are black
+volcanic obsidian.  Colorful coral forms the ceiling of the chamber.  The
+water swirls gently as it enters this room.  From the north and west cold
+inky black water flows gently in.  Warm water slowly seeps in from the
+south.  
+~
+0 9 12
+D0
+~
+grate~
+1 0 8114
+D1
+~
+~
+0 0 8108
+D2
+~
+~
+0 0 8110
+M100 H100
+S
+#8110
+Sea Tunnel~
+The walls of the tunnels are a mix of rock and root.  Above you the
+tunnel slowly turns into an interweaving of kelp vines.  To the north the
+tunnel becomes almost solid stone.  The tide or current, your not sure which
+applies, pulls you gently upwards.  You see an occasional odd fish or two
+swimming among the roots.  
+~
+0 1 12
+D0
+~
+~
+0 0 8109
+D4
+~
+~
+0 0 8111
+M100 H100
+S
+#8111
+Sea Tunnel~
+The darkness is pierced from above.  Faint shafts of sunlight can be seen
+far overhead.  A large jungle of kelp vines almost forms a tunnel with their
+interwoven vines and leaves.  Small fish of many colors dart in and out of
+cover in large schools.  
+~
+0 0 12
+D4
+~
+~
+0 0 8112
+D5
+~
+~
+0 0 8110
+M100 H100
+S
+#8112
+Hole In The Kelp~
+The sea water is warm an refreshing.  The salt water fills your mouth and
+soaks your equipment.  The sunlight shines through the water above you. 
+Large kelp vines sway gently in the current.  Below you you can just make
+out an openning going down into the depths through the kelp.  
+~
+0 0 6
+D5
+~
+~
+0 0 8111
+M100 H100
+S
+#8113
+Well Chamber~
+A phosphorescent fungi lights this circular room in an eerie blue glow. 
+Water gently laps at your ankles.  In the center of the room you see a large
+open well.  A blackness in the fungi shows an opening overhead.  This must
+be a long forgotten cistern that was once used to gather water.  Sniffing
+the air you notice the smell of salt.  
+~
+0 8 0
+D3
+~
+~
+0 0 8119
+D5
+~
+~
+0 0 8114
+M100 H100
+S
+#8114
+Well Passage~
+The cold water swirls around you.  A faint blue light ripples above your
+head.  You notice a slight tang of salt in the water.  There is a slight
+current pulling you towards a rusty grating covering the south wall of the
+well.  You catch occasional glimses of a large white fish down the passages.
+~
+0 9 12
+D1
+~
+~
+0 0 8115
+D2
+~
+grate~
+1 0 8109
+D4
+~
+~
+0 0 8113
+M100 H100
+S
+#8115
+Water Passage~
+The black walls of the tunnel have closed in on you.  You can reach out
+and touch the slimmy algea covered walls.  Your eyes ache from trying to
+pierce the darkness.  You feel something brush the back of your hand. 
+Jerking around you glance but see nothing.  
+~
+0 9 12
+E
+algea~
+The algea covers an openning on the bottom of the tunnel.  You might be
+able to scrape them open.  
+~
+D0
+~
+~
+0 0 8105
+D3
+~
+~
+0 0 8114
+D5
+You notice that some of the algea can be pried open to reveal an openning
+in the floor.  
+~
+algea~
+1 0 8116
+M100 H100
+S
+#8116
+Water Passage~
+The walls are all of hardened lava swirled through old pink coral.  The
+patterns are just off the edge of comprehension.  The water is cold and your
+body begins to shiver.  Your body feels lighter as you notice how salty the
+water has gotten.  
+~
+0 8201 12
+D1
+~
+~
+0 0 8117
+D4
+~
+~
+1 0 8115
+M100 H100
+S
+#8117
+Oyster Shrine~
+The coral intertwine and form a giant swirl over this small nook.  You
+see a bunch of oysters lying in the nook.  Fanciful carvings line the walls
+showing pictures of an aquatic civilization.  One image shows a giant oyster
+eating a humanoid.  
+~
+0 8201 12
+E
+oyster~
+Looking at the oysters you notice something surprising.  The floor is
+actually the top of a giant oyster.  Through the crack you glimpse a pearl
+of great beauty.  Maybe you can pry it open and get the pearl.  
+~
+D3
+~
+~
+0 0 8116
+D5
+The floor is the top shell of a giant oyster.  
+~
+oyster~
+1 0 8118
+M100 H100
+S
+#8118
+Oyster~
+You squish down onto the oyster.  Arching around you is the pearessence
+shell of the oyster.  The rainbow hues reflect and swirl as you move.  The
+smooth shell provides poor footing.  The top shell occasionally opens while
+water is sucked into the shell.  
+~
+0 8201 12
+D4
+~
+oyster~
+1 0 8117
+M100 H100
+S
+#8119
+Tunnel~
+The water has deepened a bit and your legs are getting soaked.  A soft
+squishing echos your steps.  The mustyness of stagnant water fills your
+nostrils.  Occasionally something small makes a wake in the water.  Very
+faintly to the east you seen a weird blue glow.  
+~
+0 8 0
+D0
+~
+~
+0 0 8120
+D1
+~
+~
+0 0 8113
+M100 H100
+S
+#8120
+Tunnel~
+The tunnel has a decidedly uphill slant to the east.  The water is
+pooling here but is only a couple inches deep.  The going is slow because of
+the debree hidden under that water.  The odor of decay and must permeates
+your clothes.  This tunnel is very quiet and each noise you make is echoed
+in parodies of the original.  
+~
+0 9 0
+E
+debree~
+Brushing the garbage away you find a small hole next to an image of a
+trident.  The next image you uncover shows a part of the floor lifting up.  
+~
+D1
+~
+~
+0 0 8129
+D2
+~
+~
+0 0 8119
+D5
+~
+~
+3 8101 8121
+M100 H100
+S
+#8121
+Leaking Tunnel~
+You are floating in a pool of brackish water.  The stench of must
+descends from the walls upon your poor nostrils.  Above you is a barely
+discernable patch of blackness that might be an opening.  A stream enters
+the pool from the west.  There is not much head room but you should be able
+to breath the retched air if you follow the stream.  
+ 
+~
+0 9 6
+D3
+~
+~
+0 0 8122
+D4
+~
+~
+3 0 8120
+M100 H100
+S
+#8122
+Leaking Tunnel~
+The stream is only thigh deep, but you must bend over to not bump your
+head.  Bits of decaying sea weed and dead fish wash downstream to the east. 
+To the north is a worked passageway.  You wonder who carved it so far down
+below the sea.  
+~
+0 9 0
+D0
+~
+~
+0 0 8123
+D1
+~
+~
+0 0 8121
+M100 H100
+S
+#8123
+Leaking Tunnel~
+This hallway is done in elaborate style.  Rich mosacis of coral and
+shells cover the walls.  Age has darkened many of the images.  A few have
+been washed away by a near steady stream of water running down the wall. 
+The floor is deeply eroded from water running down stream to the south.  
+~
+0 9 0
+D0
+~
+~
+0 0 8125
+D2
+~
+~
+0 0 8122
+D3
+~
+~
+0 0 8124
+M100 H100
+S
+#8124
+Leaking Chamber~
+This hallway goes about fifty feet to the west before it stops with a
+cave in.  Water streams through the rocks and flows past you to the east. 
+As you watch the ground shakes a little and the water starts to flow faster.
+If your lucky you can get out before it caves in.  
+~
+0 16777225 0
+D1
+~
+~
+0 0 8123
+M100 H100
+S
+#8125
+Dead End~
+The chamber is a small temple.  Dominating the center of the room is an
+altar in the shape of a tidal wave.  The wave motife flows across the floor
+and up the walls.  Images of ceremonies and sea creatures intertwine with
+the waves.  Water drips down along the west wall and runs along fancy
+gutters to rain down over the entryway to the south.  
+~
+0 9 1
+D2
+~
+~
+0 0 8123
+D4
+~
+concealed~
+1 0 8126
+M100 H100
+S
+#8126
+Dripping Caves~
+You climb for hours and hours along this twisting tunnel.  Half natural
+and half worked, it seems increadible that someone would have the dedication
+to do it.  The walls are damp from dripping water.  The only sound is the
+drip of water and your breathing.  
+~
+0 9 0
+D5
+~
+~
+1 0 8125
+M100 H100
+S
+#8127
+Tunnel~
+The water drips down from the ceiling.  A sickly yellow mold covers the
+walls and floor making the going very slick.  The tunnel is barely large
+enough to fit your shoulders.  The stench of mildew and mustyness prevades
+the air.  
+~
+0 1 0
+D0
+~
+~
+1 0 8101
+D1
+~
+~
+0 0 8128
+M100 H100
+S
+#8128
+Tunnel~
+The stinking water runs in rivlets along the floor.  Bits of trash and
+decaying matter form tiny dams.  A stringy moss hangs on the walls.  The
+tunnel still looks vaguely man made.  The only sound is the dripping of
+water and the chittering of rats.  
+~
+0 9 0
+D2
+~
+~
+0 0 8129
+D3
+~
+~
+0 0 8127
+M100 H100
+S
+#8129
+Tunnel~
+This winding tunnel seems to go on for quite some time.  You begin to
+detect a definite slant upwards towards the north.  The trickles of water
+have joined together to form a refuse filled stream down the middle of the
+cooridor.  Each step kicks up the stench as garbage surfaces and laces the
+air with the scent of decay.  
+~
+0 9 0
+D0
+~
+~
+0 0 8128
+D3
+~
+~
+0 0 8120
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 8101 spec_fido Load to: a crocodile
+M 8105 spec_fido Load to: the crashing ocean
+S
+
+
+
+#RESETS
+D 0 8100 5 2
+D 0 8101 2 1
+D 0 8105 1 2
+D 0 8106 3 2
+D 0 8109 0 1
+D 0 8114 2 1
+D 0 8115 5 1
+D 0 8116 4 1
+D 0 8117 5 1
+D 0 8118 4 1
+D 0 8120 5 2
+D 0 8121 4 2
+D 0 8125 4 1
+D 0 8126 5 1
+D 0 8127 0 1
+M 0 8106 5 8107 0
+M 0 8104 1 8111 0
+M 0 8101 1 8113 0
+G 0 8103 0
+P 0 8104 0 8103 0
+M 0 8102 1 8116 0
+E 0 8102 0 16
+O 0 8100 0 8118
+M 0 8103 1 8118 0
+G 0 8101 0
+M 0 8105 1 8124 0
+M 0 8100 4 8128 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

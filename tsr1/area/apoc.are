@@ -1,0 +1,1814 @@
+#AREADATA
+Name        [??? ???] The Mountain of Megiddo~
+Builders    Annibus Raff~
+VNUMs       5600 5699
+Security    9
+End
+
+
+
+#MOBILES
+#5600
+figure~
+Gog~
+The cloaked figure of Gog beckons you north.
+~
+This cloaked figure looks like a demon from the past...  Or is it the
+future??  He stands as the ancient guardian of this mountain.  
+~
+human~
+ABGT DFJZ -1000 0 
+0 75 0 11d345+1775 75d100+100 5d15+37 0
+0 0 0 0
+CEK AB 0 D
+standing standing none 1000
+ADHMV ABCDEFGHIJKV H unknown
+#5601
+Cadrach~
+Cadrach ~
+Cadrach grins at your approach
+~
+This plump balding man looks like he enjoys what he does a bit too much. 
+He stumbles and slurs but you have been told that there is none like him in
+the realms.  
+~
+human~
+AB DEFKS -1000 0 
+0 1 56 100d100+10000 0d0+0 10d10+20 0
+-1000 -100 -100 -100
+CEFHK CDHIK B 0
+standing standing none 10000
+AHMV ABCDEFGHIJK M unknown
+#5602
+Chloromar~
+Chloromar~
+Chloromar awaits your order
+~
+This golden dragon takes up most of the room, you wonder how he gets
+around to his goods.  It looks as though he is willing for you to purchase
+but has better things to do than have you loiter to long in here.  
+~
+human~
+AB DEFJSTZ -1000 0 
+0 1 0 100d50+10000 0d0+0 0d0+0 0
+-100 -100 -100 -100
+CEFHIKN ABCDHI L CD
+standing standing none 10000
+ADHMV ABCDEFGHIJK M unknown
+#5603
+Morgenes~
+Morgenes~
+Moregenes sizes your condition
+~
+This old man looks like he couldn't take care of himself, much less tend
+to your wounds.  However, there is a twinkle in his eyes that makes you
+trust him.  
+~
+human~
+ABQa HV -1000 0 
+0 200 25 13d1166+5190 150d100+100 6d25+75 0
+-100 -100 -100 -100
+CEFHK ABCDHI 0 0
+standing standing none 1000
+ADHMV ABCDEFGHIJK L unknown
+#5605
+Karakas~
+Karakas the Flock Keeper~
+Karakas is here watching his flock
+~
+~
+human~
+AB H -1000 0 
+0 1 0 0d0+0 0d0+0 0d0+0 0
+-100 -100 -100 -100
+CEFHJK HIQ B 0
+standing standing none 10000
+AHMV ABCDEFGHIJK M unknown
+#5606
+spirit~
+Spirit of Light~
+Spirit of Light
+~
+This ball of twinkling light looks like it could be your guardian angel!
+~
+human~
+ABI FZ -1000 0 
+0 23 10 8d53+334 25d100+100 4d6+12 0
+0 0 0 0
+CFHMN AB LQ H
+standing standing none 0
+AGHMVW ABCDEFGHIJKQ M unknown
+#5607
+Dragon Wolf~
+Dragon Wolf~
+A Dragon Wolf
+~
+A scaly form of a wolf with wings looks at you with playful yet
+suspicious eyes.  
+~
+human~
+ABI T -1000 0 
+0 35 5 9d92+541 35d100+10 5d7+17 0
+-12 -12 -12 -1
+CEFN B LQ HI
+standing standing none 0
+AGHMV ABCDEFGHIJKV M unknown
+#5608
+Werepanther~
+Werepanther~
+Werepanther
+~
+Glowing yellow eyes stare at you with indifference.  This half man, half
+panther could tear you from limb to limb if he chose.  
+~
+human~
+ABI DFZ -1000 0 
+0 55 0 11d186+1070 55d100+27 5d11+27 0
+-24 -24 -24 -7
+CEFO AB H CI
+standing standing none 0
+AGHMV ABCDEFGHIJKW L unknown
+#5609
+Fire Beast~
+Fire Beast~
+Fire Beast
+~
+A large scaled beast rears up to spout fire upon you.
+~
+dragon~
+AIR BDHJNTZ 0 0 
+0 100 25 12d963+4135 150d100+25 6d22+65 0
+-71 -71 -71 -29
+ABCFKLMO ABH BEHL CDFI
+standing standing none 0
+AGHMVZ ABCDEFGHIJKPQUVX H unknown
+#5610
+statue shandra~
+statue of Shandra~
+The Statue of Shandra
+~
+This statue poses the Lady of the Mountains in a simple robe, with
+her long blonde hair sensibly pulled back from her smooth, 
+smiling face. Stories tell of her contrubution to the Diku Code
+and to the invention of the Mob-Program idea.
+~
+human~
+ABGT HTVa -1000 0 
+0 160 100 13d1400+6000 160d100+1000 7d30+80 0
+-10 -10 -10 -2
+EFHJKO AB H CDEGIK
+standing standing none 70
+AHMV ABCDEFGHIJK H unknown
+#5611
+statue nati~
+statue of Nati~
+The Statue of Nati
+~
+This tall elf is dressed in fancy clothes, these clothes look fit for
+a king. Well little is known about Nati he was a close friend of 
+Alunder and helped him alot so this is why he was given a statue
+in the museum of the creators.
+~
+elf~
+ABGT EHJPQTV -1000 0 
+0 160 100 13d1400+6000 160d100+1000 7d30+80 0
+0 0 0 0
+EFHJKO ABH B CDIKZ
+standing standing none 70
+AHMV ABCDEFGHIJK H unknown
+#5612
+statue landru~
+statue of Landru~
+Statue of Landru
+~
+Landru is carved from shimmering polished hematite, and a smile seems
+to flicker over his face. A pair of dice are enclosed in his right
+hand. It is said he is responiable for the dam hit and mana tables.
+He died a horriable death he cheated and was deleted only to stop
+playing all together, the mudd system in a whole misses him dearly.
+~
+elf~
+ABGT EHJPQTVa 1000 0 
+0 160 100 7d30+80 160d100+1000 13d1400+6000 0
+-10 -10 -10 -2
+EFHJKO AB BH CDIZ
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5613
+statue nightshade~
+statue of Nightshade~
+Statue of Nightshade
+~
+Nightshade was a great player, he was promoted by Alunder himself to
+a position of great importance he was the help file writer. It is 
+said that he was responsiable for all those great help files you 
+read every day.
+~
+elf~
+ABGT EHJNPQTVa -1000 0 
+0 160 100 7d30+80 160d100+1000 13d1400+6000 0
+-10 -10 -10 -2
+DFHJK AB BH CDIZ
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5614
+statue satin~
+statue of Satin~
+Statue of Satin
+~
+The statue of Satin, a small elven woman in mage robes, smiles serenely
+and her eyes twinkle with gentle humour. You take a step back in fear.
+It is said she was responsible for those great socials you use all 
+the time, all mudd's are greatful for her contribution.
+~
+elf~
+ABGT EHJOPQTVa 1000 0 
+0 160 0 13d1400+6000 160d100+1000 7d30+80 0
+-10 -10 -10 -2
+DFHJKO AB BH CDIZ
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5615
+statue furey~
+statue of Furey~
+Statue of Furey
+~
+Furey is one of the true coders, he wrote most of the good stuff or so 
+he said to me once. He was a humble man who loved to code and was one
+great D&D player, hence the idea for "MUDD'S". It is said he contributed
+alot and we all thank him and hope he codes for ever.
+"Long Live Furey may you live forever"
+~
+elf~
+ABGT EHJNPQTVa -1000 0 
+0 160 100 7d30+80 160d100+1000 13d1400+6000 0
+-10 -10 -10 -2
+DFHJKO AB BH CDIZ
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5616
+Alander statue~
+statue of Alander~
+Statue of Alander
+~
+Alander has been caught in the pose of casting a bolt of flame
+down to some helpless victim. He is dressed in robes of a mage,
+yet bears a sword carved into the glittering stone of his statue.
+It is to this man that we should be most greatful for his idea's
+brought the idea of "Mudd's" to the light of day. 
+~
+elf~
+ABGT EHJOPQTVa 1000 0 
+0 160 100 13d1400+6000 160d100+1000 7d30+80 0
+-10 -10 -10 -2
+DFHJKO AB BH CDIZ
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5617
+statue zump~
+statue of Zump~
+Statue of Zump
+~
+A statue of a stocky, angry looking dwarf with a cigarette in his 
+mouth. Zump was one of Alunders closest friends he did what ever
+needed to be done, so I guess we should say a small thank you to Zump as well.
+~
+dwarf~
+ABGT HJNTVa -1000 0 
+0 160 100 13d1400+6000 160d100+1000 7d30+80 0
+-10 -10 -10 -2
+DEFHJKO ABH LQ CDIR
+standing standing none 70
+AHMV ABCDEFGHIJK M unknown
+#5618
+guard henry~
+security guard henry~
+Security Guard Henry is here.
+~
+Henry is an old guard but he could easy put you in your place. You
+notice that the desk he sits at is old, he carries a large set 
+of keys  on his waist as well as a magical light stick. You feel
+you better be on your best behaviour and leave him alone.
+~
+dwarf~
+ABGT HJOTVa 0 0 
+0 160 100 13d800+700 160d100+1000 6d10+30 0
+-10 -10 -10 -2
+DEFHJKO AB ILQ CDHR
+standing standing none 1000
+AHMV ABCDEFGHIJK L unknown
+#5619
+statue mandrake~
+statue of mandrake~
+Statue of Mandrake
+~
+~
+dragon~
+ABGST BDHJKNTV 0 0 
+0 0 10 13d800+600 160d100+1000 7d19+40 0
+-10 -10 -10 -2
+EFJKO ABDHK BEHL CDFI
+standing standing male 70
+AHMVZ ABCDEFGHIJKPQUVX H unknown
+#5620
+statue~
+statue of Raff~
+Statue of Raff
+~
+~
+demon~
+ABGT HJKOTVac 1000 0 
+0 160 10 13d800+600 160d100+1000 7d20+80 0
+-8 -8 -8 -2
+CEHIJMO AB BHILT CDIN
+standing standing male 100
+AHMV ABCDEFGHIJK M unknown
+#5621
+statue~
+statue of Beowolf~
+Statue of Beowolf
+~
+~
+demon~
+ABGT HJKNTVc -1000 0 
+0 160 10 13d800+600 160d100+1000 7d20+40 0
+-8 -8 -8 -2
+DFHKMO A BHILT CDIN
+standing standing none 100
+AHMV ABCDEFGHIJK M unknown
+#5622
+statue~
+statue of Allanon~
+Statue of Allanon
+~
+~
+demon~
+ABGT HJOTVc 1000 0 
+0 160 10 13d600+800 160d100+1000 7d30+40 0
+-8 -8 -8 -2
+EFJKMO A BHILT CDIN
+standing standing none 100
+AHMV ABCDEFGHIJK M unknown
+#5623
+statue~
+statue of Draven~
+Statue of Draven
+~
+~
+demon~
+ABGT HJNTVc -1000 0 
+0 160 10 13d600+800 160d100+1000 7d40+40 0
+-8 -8 -8 -2
+DFKMO A BHILT CDIN
+standing standing male 100
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#5600
+mark of eternity~
+the Mark of Eternity~
+The Mark of Apocalypse is here~
+unknown~
+armor IS AEO
+20 21 21 23 0
+25 2 1000000 P
+A
+23 4
+A
+24 6
+A
+12 50
+A
+19 4
+A
+18 3
+A
+13 75
+A
+5 2
+A
+4 2
+#5601
+Pain of Pestilence~
+the Pain of Pestilence~
+The weapon of the Horseman of the West is here~
+unknown~
+weapon FH ANO
+exotic 4 31 wrath GH
+55 18 0 P
+A
+18 5
+A
+19 6
+#5602
+scepter of famine~
+the Scepter of Famine~
+The scepter of the Horseman of the North is here.~
+unknown~
+weapon AG ANO
+exotic 5 27 digestion BH
+65 15 0 P
+A
+18 7
+A
+19 8
+A
+1 -1
+#5603
+long dagger~
+long dagger~
+A long dagger is here~
+unknown~
+weapon H ANO
+dagger 5 15 stab AC
+25 3 0 P
+A
+18 10
+A
+19 10
+A
+12 50
+A
+1 3
+#5604
+potion true sight~
+a potion of true sight~
+A potion of true sight~
+unknown~
+potion G AO
+30 'detect invis' 'detect hidden' 'detect magic' ''
+4 2 5000 P
+#5605
+potion bottle antidote~
+a bottle of antidote~
+A bottle of antidote~
+unknown~
+potion 0 AO
+25 'cure disease' 'cure poison' 'heal' ''
+8 1 10000 P
+#5606
+potion flying~
+a potion of flying~
+A potion of flying~
+unknown~
+potion 0 AO
+25 'fly' '' '' ''
+1 2 3000 P
+#5607
+sap potion~
+the sap from the Tree of Life~
+A vial of the sap from the tree of life is here~
+unknown~
+potion 0 AO
+50 'combat mind' 'bless' '' ''
+15 2 10000 P
+#5608
+potion wrath~
+a potion of Holy Wrath~
+A vial of green liquid is here~
+unknown~
+potion 0 AO
+60 'frenzy' 'haste' 'giant strength' ''
+30 2 15000 P
+#5609
+Vial of the Rapture~
+a vial of the Rapture~
+A Vial of the Rapture~
+unknown~
+potion 0 AO
+60 'stone skin' 'sanctuary' 'armor' ''
+22 2 5000 P
+#5610
+potion exorism~
+a potion of Exorcism~
+A potion of exorism~
+unknown~
+potion 0 AO
+100 'remove curse' 'teleport' '' ''
+15 2 5000 P
+#5611
+horn~
+a hollowed horn of a dragon~
+A yellowed horn is here~
+unknown~
+container 0 AO
+50 A 0 500 2
+15 50 10000 P
+#5612
+leaf~
+a leaf from the Tree of Life~
+A leaf from the Tree of Life~
+unknown~
+food 0 AO
+15 0 0 0 0
+0 1 1000 P
+#5613
+carpenter's cup~
+the cup of a carpenter~
+The cup of a carpenter~
+unknown~
+drink 0 AO
+200 10 'water' 0 0
+1 3 1111 P
+#5614
+bottle of Newcastle Ale~
+bottle of Newcastle Ale~
+A bottle of beer is here.~
+unknown~
+drink 0 0
+10 10 'ale' 0 0
+0 0 45 P
+#5615
+sickle of death~
+the Sickle of Death~
+The sickle of the Horseman of the South is here~
+unknown~
+weapon AH ANO
+exotic 4 38 slice CD
+58 15 0 P
+A
+18 10
+A
+19 10
+#5616
+Ale of Dragons~
+ale of Dragons~
+Some BEEEEEEERRRRRRRR is HERE!~
+unknown~
+drink 0 AO
+10 10 'beer' 1 0
+1 0 45 P
+#5617
+teleport scroll~
+the scroll of Teleportation~
+Teleport scroll~
+unknown~
+scroll 0 AO
+100 'teleport' 'enhanced strength' '' ''
+5 1 150 P
+#5618
+leg o' lamb~
+leg o' lamb~
+A juicy peice of lamb on a fresh leg bone is here.~
+unknown~
+food 0 AO
+50 0 0 0 0
+1 2 150 P
+#5619
+bowl of stew~
+bowl of stew~
+A lumpy bowl of brown stew~
+unknown~
+food 0 AO
+20 0 0 0 0
+1 0 100 P
+#5620
+portal picture moon~
+picture of the moon~
+Picture of the Moon~
+unknown~
+portal 0 0
+30 3 1 11808 0
+1 0 0 P
+#5621
+fountain of life~
+fountain of Life~
+The Fountain of Life is here bringing forth water for eternity.~
+unknown~
+fountain 0 0
+10000 10000 'water' 0 0
+1 0 0 P
+#5622
+pit hole~
+pit~
+A pit for sacrifices is in front of the altar.~
+unknown~
+container G 0
+10000 0 0 10000 100
+0 0 0 P
+#5623
+sign post~
+north to Elemental, East to Graveyard, Down to Hell, West to NT.~
+North to Elemental, East to Graveyard, West to NT, Down to Hell~
+unknown~
+map 0 0
+0 0 0 0 0
+0 0 0 P
+#5624
+fountain drink ~
+soild "gold" fountain~
+Soild "Gold" Fountain~
+unknown~
+fountain AB 0
+10000 10000 'water' 0 0
+0 0 0 P
+#5625
+desk oak~
+oak desk~
+Soild Oak Desk~
+unknown~
+container 0 0
+10000 ABCD 5626 10000 500
+1 1000 0 P
+E
+desk~
+You notice that the desk is soild oak, on the desk is a name plate
+it read "Henry" you see only one drawer in the desk with what appears
+to be a pick proof lock.
+~
+#5626
+keys bunch~
+bunch of keys~
+Bunch of Keys~
+unknown~
+key 0 AO
+0 0 0 0 0
+1 0 10 P
+#5627
+hammer~
+the Hammer of War~
+The hammer of the horseman of the west is here~
+unknown~
+weapon H ANO
+exotic 5 10 crush F
+70 1 1000 P
+#5628
+bed ~
+pile of rotting corpses~
+Pile of Rotting Corpses~
+unknown~
+furniture J 0
+1 100000 3504 120 120
+50 0 0 P
+E
+bed~
+Pile of corpse is stacked here, someone has neatly tied and fashioned
+them into a bed of some sort, the person that did this must be sick
+or just evil.
+~
+#5629
+blood of annibus~
+the Blood of Annibus~
+The Blood of Annibus~
+unknown~
+potion 0 AO
+50 'cure critical' '' 'refresh' ''
+10 0 1500 P
+#0
+
+
+
+#ROOMS
+#5600
+The Entrance to the Mountain Megiddo~
+Enter the Sect hall of Apocalypse with reverence.  This mountain entrance
+leads into the lair of Annibus the Great Horned Dragon and the followers of
+Apocalypse.  Only the Chosen may enter this place with their souls marked
+clean.  Don the white robes hanging on the walls and enter your dwelling in
+preparation for the end.  
+ 
+~
+0 0 7
+D0
+~
+~
+0 0 5601
+D2
+~
+~
+0 0 5604
+M100 H100
+S
+#5601
+The Hall of Summoning~
+This place seems to meld with the rock itself.  The intricate lines and
+rich colors of stone seem to both enlighten and discourage you at the same
+time.  The corridor is very fine, leaving no trace of the rubble of a
+mountain....  Yet the essence is still here.  You have entered the Hall of
+Summoning...  You feel drawn towards something....  Something wonderful, yet
+menacing.  Follow you heart with the being of the Summons....  The Great One
+awaits.  
+~
+0 0 0
+D0
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 5600
+M100 H100
+S
+#5602
+Hall of Summoning~
+You continue to be beckoned by this strange presence.  You are drawn to
+the north....  A feeling of welcome starts to invade your soul.  You hear a
+voice whispering all around you saying, "Come to Me."  With a shiver up your
+spine, you continue.  
+~
+0 0 0
+D0
+~
+~
+0 0 5603
+D2
+~
+~
+0 0 5601
+M100 H100
+S
+#5603
+The Hall of Summoning~
+The strong pull you have been feeling continues to draw you north.  The
+feeling is getting stronger now, so strong that you can hardly think of
+anything but going into this Presence.  To the east you see a golden tail
+just inside a large doorway.  A plaque above the door reads, "Chloromar's." 
+You wonder if there is anything of interest in there.  Do you dare turn away
+from this urge to find out?  
+~
+0 8 2
+D0
+~
+~
+0 0 5605
+D1
+~
+~
+0 0 5607
+D2
+~
+~
+0 0 5602
+D3
+~
+~
+0 0 5608
+M100 H100
+S
+#5604
+Mountain Entrance~
+You stand at the base of a towering silvery-gray moutain, its peak
+hidden by the clouds. As you gaze up its treacherous face, a cold 
+chill runs down your spine. You realize someone is watching you, Cold
+stoney eyes glow from the shadows like dying embers from the night's
+fire. Subtle movements from shifting shadows leave you wondering
+whether some of them are alive, hiding ... or stalking.
+~
+0 0 5
+D0
+~
+~
+0 0 5600
+D1
+~
+~
+0 0 862
+M100 H100
+S
+#5605
+Hall of Summoning~
+The urging from the north subsides just long enough for you to observe
+this fountain.  The voice says, "Drink deeply my child."  This room is vast
+and spacious with large stalagtites hanging from the ceiling.  Light enters
+this room from some unknown point and reflects off of these fixtures with
+brilliant shades of red and blue.  You feel at peace.  You see entries both
+to the east and the west but the pull makes your only desire to go north.  
+~
+0 0 2
+D0
+~
+~
+0 0 5610
+D1
+~
+~
+0 0 5606
+D2
+~
+~
+0 0 5603
+M100 H100
+S
+#5606
+Cadrach's Ale & Nourishments~
+Within the first few steps inside this spacious room you smell the scent
+of harsh ales and fresh bread and mutton.  Bottles are nealty arranged
+behind a large bar with a portly balding man tending to the patrons.  Your
+stomach growls and your throat gets parched.  "Hmmmm...  " you think to
+youself, "I think its time for some relaxation."  Enjoy your stay and
+remember not all that the bards sing about is true.  
+~
+0 4 2
+D3
+~
+~
+0 0 5605
+M100 H100
+S
+#5607
+Chloromar's Sundries~
+You enter this room shocked to see an enourmous golden dragon staring
+back at you.  It looks as if you have interrupted his reading by the scroll
+in his hand.  You have the feeling you should get what you need and be
+leaving before this beast decides to use what he has learned on you.  
+~
+0 8 0
+D3
+~
+~
+0 0 5603
+M100 H100
+S
+#5608
+The Leavetaking Stone~
+This room is the central meeting place of Apocalypse.  All mortal
+descisions are made in this place.  The walls in this area are smooth but
+warm to the touch with a faint glow.  In the center of the room lies a large
+black stone.  In this stone one can see the past and the present but the
+future is unclear.  Benches are placed in a circular arrangement around this
+stone with a large podium placed directly behind the Leavetaking Stone.  
+~
+0 8 2
+D1
+~
+~
+0 0 5603
+M100 H100
+S
+#5609
+Museum~
+Walking through the high, vaulted archway you notice a small plaque, 
+it reads "Welcome to the Museum of the Gods". Thick pillars of smooth
+polished marble hold up the ceiling above. You notice the floor is made of
+the same marble that the pillars are made of. There are exits leading in all
+directions.
+~
+0 0 0
+D1
+~
+~
+0 0 5619
+M100 H100
+S
+#5610
+Hall of Summoning~
+The intensity of the summoning is overwhelming now.  You see signs for
+the healer to the west and Karakas to the east but all you can think of is
+going north.  You notice that this portion of the hallway is warmer and the
+walls glow for your source of light.  You think you hear singing in the
+distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 5612
+D1
+~
+~
+0 0 5634
+D2
+~
+~
+0 0 5605
+D3
+~
+~
+0 0 5632
+M100 H100
+S
+#5611
+Oaken Walkway~
+A feeling of calm passes over you , as you step onto a walkway towards
+the balcony of the goddess Silvermist. You are standing on a polished
+oak walkway, leading south towards the balcony, and west towards the 
+hallway. A long plush red carpet in unrolled here, leading to a gold
+trimmed silver door. An intricate carving of two dragons, one gold,
+and one silver decorates the door. On either side of the walkway is 
+a railing, trimmed with brushed brass. Small gold, brass, silver, 
+platinum and copper figurines of dragons adorn the rail at even intervals.
+Strangely, their eyes seem to be following you as you move. At the base
+of the walkway, you see a bronze plaque. You can enter the balcony to the 
+south, or return to the hallway by going south.
+~
+0 0 0
+D1
+~
+~
+2 0 472
+M100 H100
+S
+#5612
+Alter~
+This room is shrouded in prepetual darkness, with sconces on the wall
+flickering with an eerie violet flame. A large emblem on the north wall
+proclaims the glories of Raff, patron God of Oblivion. His blood-soaked
+altar lies directly under it, with blackened instruments of death awaiting
+new victims. A statue on sits on either side of the altar, the right one 
+of Raff, the founder of the Sect, and the left of (SilverMist  ), its second
+leader. The room reeks of evil darkness, making you feel quiet at home.
+
+~
+0 0 2
+D0
+~
+~
+0 0 5614
+D1
+~
+~
+0 0 5617
+D2
+~
+~
+0 0 5610
+D3
+~
+~
+0 0 5629
+D4
+~
+~
+0 0 5651
+M100 H100
+S
+#5613
+Ancient Graveyard~
+The rusted gate, creaks slowly open, and you quietly enter the graveyard,
+as to not disturb any dead which still might hear you. The uncomfortable
+feeling of foreboding death and decay is much stronger now, practically
+swamping you with uncontrolable fear. As you look around at the scattered
+crypts sites, a sign catches your eye. You slowly approach to read it, it 
+reads "Welcome to the Ancient Graveyard". You turn around quickly to 
+see the gate has closed, wishing you could leave you try franticly to 
+open the gate, when you catch a glimpse of something in the mist, atop
+the hill to the west. It appears to be a house, although you are sure
+it was not there before. Perhaps you unanswered questions can be answered
+there....but for what price.
+
+~
+0 0 0
+D3
+~
+~
+2 0 457
+M100 H100
+S
+#5614
+Shadow Walk~
+Shadows dance in the pale green light as you step into the chamber.
+Thick wart like growths cover the chamber walls. It is rumored that these
+'warts' are part of people's souls, forever living a torture existance,
+only to be released when the last spark of life has been crushed by the
+faithful Oblivion worshiper. In the centre of this chamber sits a mass
+of darkness. Its shadows moving, reaching towards you, almost as if
+to wrap itself around your body to embrace you in its evil presence.
+  Before the dark mass sits an old wooden sign.
+               It  Reads!
+Go north to the Elemental Canyon.
+Go west to New Thalos.
+Go east to The Chapel
+Go south to Shadowvale
+Go down to Hell.
+~
+0 16384 0
+D0
+~
+~
+0 0 9207
+D1
+~
+~
+0 0 1
+D2
+~
+~
+0 0 1300
+D3
+~
+~
+0 0 9506
+D5
+~
+~
+0 0 1
+M100 H100
+S
+#5615
+Catacombs~
+The inky blackness of this room seems to wrap you in a shroud of
+warmth  and fear. The musty smell of the room reminds you faintly of 
+the odor that the thousands deaths you have seen gave off. Lifting your
+light helps little, and holding it forward helps even less. You hear
+the sounds of creatures scurrying to get away from your light. Once
+your eyes adjust, you can make the rough, carved stone walls of this
+room. The stone is cracked by magic to form exits further into the
+darkness. As you begin to walk, your footsteps have no echo, for
+death has silenced your suroundings. When you hear nothing, you 
+fear more.
+~
+0 0 0
+D0
+~
+~
+0 0 5616
+M100 H100
+S
+#5616
+Further into the Catacombs~
+The smell and sights are almost the same as the entrance, but there
+seems to be a little bit of a wind picking up. The darkness seems to 
+swirl in a sharp, but silent, mist around your body, giving you a feeling
+of helplessness. The stone wall continues on further. Still no echo is 
+heard from your footsteps.
+~
+0 0 0
+D0
+~
+~
+0 0 5638
+D1
+~
+~
+0 0 5637
+D2
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 5636
+M100 H100
+S
+#5617
+Practice Room~
+This room has been modeled to satisfy even the most stringent fighter.
+On one side you can see a series of ropes and heavy metal used for lifting,
+and muscle building. On the other side of this vast room is a collection
+of weapons that would make any true warrior proud. Mounted on the wall is
+a selection of weapons from each major group.
+~
+0 0 0
+D1
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5612
+M100 H100
+S
+#5618
+Grand Entrance to the Celestial Arena~
+Welcome to the Celestial Arena, where spectators can watch various
+sports and recreational activities. Said to be create by Raff for his
+enjoyment, people come from all over the land to watch creatures of
+all shape and sizes slaughter each other in personal combat. A seat ticket
+magically appears in your hand. directing you to a prime spot to watch
+from. The area is just to the north, while the other exit leads 
+back to the practice room.
+~
+0 0 0
+D3
+~
+~
+0 0 5617
+M100 H100
+S
+#5619
+Museum~
+You are now in the centre of the museum, you notice large paintings s
+showing the construction of the game. As well as the numerous affairs that
+the immortals had, your exits lead in all directions.
+~
+0 0 0
+D0
+~
+~
+0 0 5620
+D1
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5621
+D3
+~
+~
+0 0 5609
+M100 H100
+S
+#5620
+North Wing of the Museum~
+You are in the north wing of the museum you notice, more of those lovely
+statues of the gods. To your north is a room dedicated to the loyal friend
+of Raff, the room is sacred and is one of Raffs quiet spots. 
+~
+0 0 0
+D0
+~
+~
+0 0 5628
+D2
+~
+~
+0 0 5619
+M100 H100
+S
+#5621
+Raff's Favourite Poem~
+Anger rules the world, Anger feeds the starving soul. Run and hide when anger
+hits for anger rules the world.
+Love life when all is calm, run and hide when not for fear resides in those
+that think that anger is hot.
+Love is blind to those you see, who wish to live in harmony. One cannot
+love with anger and hate for fear will always rule one's fate.
+Fear is the word best described as a disease one has caught up inside. Run
+young child run born free for fear us not your destiny.
+Health and happiness are your sword for love and laughter are your goal. To
+live a life full of peace one must love or see it decrease.
+=
+By Raff
+~
+0 0 0
+D0
+~
+~
+0 0 5619
+M100 H100
+S
+#5622
+museum~
+You are in a another hallway in the museum, you notice more of those
+lovely painting and statues. You notice the exits lead in all directions.
+There is a large fountain here dedicated to the four paying supporters of TSR.
+~
+0 0 0
+D0
+~
+~
+0 0 5623
+D1
+~
+~
+0 0 5625
+D2
+~
+~
+0 0 5624
+D3
+~
+~
+0 0 5619
+M100 H100
+S
+#5623
+North Wing of the Museum~
+You are in the north wing of the museum, there are more of the lovely
+statues, you notice that there are beautiful paintings as well plush carpet.
+The only exit visable is the way you entered.
+~
+0 0 0
+D2
+~
+~
+0 0 5622
+M100 H100
+S
+#5624
+North Wing of the Museum~
+You are in the south wing of the museum, there are more of those lovely
+statues, you notice that there are beautiful painting as well as plush c
+carpet. The only visable exit is north back into the hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 5622
+M100 H100
+S
+#5625
+Museum~
+You have reach the end of the hallway, you notice that there is a mural
+on the east wall, The only exits are north and south. There is a desk here
+with a name plaque on it, it reads "security guard Henry".
+~
+0 0 0
+D0
+~
+~
+0 0 5626
+D2
+~
+~
+0 0 5627
+D3
+~
+~
+0 0 5622
+M100 H100
+S
+#5626
+North Wing of the Museum~
+You are in the north east corner of the museum it dedicated to the founders
+of the orginal code in which this game is written. You notice that this room
+is just like the one south of it. Your only visable exit is south back into the 
+hallway.
+~
+0 0 0
+D2
+~
+~
+0 0 5625
+M100 H100
+S
+#5627
+South Wing of the Museum~
+You are in the south east corner of the museum it is dedicated to the
+founders of the orginal code in which this game was written. You notice 
+that this statue is exactly like the room north of it, with a few changes.
+Your only visable exit is north back into the hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 5625
+M100 H100
+S
+#5628
+Mandrakes Sanctum Sanctorium~
+This room is quiet large; built from massive interlocking stones. The high
+ceiling is alive with dancing shadows from the room's fireplace, and you
+can make out carvings in the huge wooden support beams, which depicts the
+many scenes of Mandrake's colorful mortal existence.
+The fireplace takes up one huge section of the far wall, keeping within
+its blackened interior a tame inferno which sends a warmth throughout the
+room. A large wooden mantlepiece is set over it, with a set of hooks for
+Mandrake's claymore. Various items adorne it, and you think you catch sight
+of words carved into a small corner of the wood. You cant't be sure, but you
+think they say, "Rebecca is the bestest."
+Scattered about the room are polished wooden chairs and tables, and wall
+hangingsare decorously placed. An enormous desk is in a corner, where the
+resident God does his paperwork. The well-padded chair invites you to rest
+your weary bones, and the small tables are placed perfectly so that you can
+easily reach the tankard of damned-fine Scottish whiskey that appears there
+before your eyes.
+The carvings on the wall catch your eye, seeming to move with the firelight.
+A portrait has been hung over the fireplace.
+~
+0 0 0
+E
+carvings~
+These carvings were carved by mandrake himself, they depict
+some of his friends one is of a large dragon named Rusty
+helping him learn a new code, the second is of a group of
+people you think you make out Raff standing beside his best
+friend what a loss to lose such a good guy at such a early
+age. "Thinking of you always was magically written by Raff
+below the carvings.
+~
+E
+mantlepiece~
+This mantle is loaded with trophies and ribbons, there are many 
+of Mandrakes momento's on this mantle and he must of adored them
+dearly, but with time these have covered with dust and have begun 
+to age what a pity for the stuff is priceless.
+~
+E
+portrait~
+This portrait is of a woman, she is almost naked but wears a 
+silk scarf that covers the key points. You notice that this is
+the work of a great artist as the detail is exact. 
+~
+D2
+~
+~
+0 0 5620
+M100 H100
+S
+#5629
+Another Long Hallway~
+A great vaulted cavern inside the moutain fills you with a sence of
+life. The air seems to radiate its own light, reflecting off the smooth
+silverly grey stone walls in a dizzying and pulsating pattern. From a
+crack above , a trickle of water spirals down into a clear pool, its
+splashing and flowing leave and echo like a strange heartbeat. A
+faint whisper tickles your ears as a fresh breath of mountain air blows
+through the cavern. THe visable exits are west into the sun room, north
+to the Animal room and south into the Hospital.
+~
+0 0 0
+D1
+~
+~
+0 0 5612
+D3
+~
+~
+0 0 5630
+M100 H100
+S
+#5630
+Sun Room~
+When you walk into this room you are almost blinded by a bright golden
+light. You recover quickly, but cannot seem to locate the source of the
+glow. It seems to come from everywhere and nowhere. You feel a comforting
+warmth radiating from a small altar which holds a statue of the Sun Goddess.
+~
+0 0 0
+D1
+~
+~
+0 0 5629
+D3
+~
+~
+0 0 5633
+M100 H100
+S
+#5631
+Oblivion Kennel~
+The sounds of cats meowing wildly in torture fills your ears. The 
+walls are lined with pelts from every breed of cat imaginable. The
+floor is covered with soft Himalayan persian fur rug. On the mantle
+hangs the heads of some of Raff's favorite kills. Among them are the
+heads of Garfield, Felix and Heathcliff frozen in stares of absolute
+terror.
+~
+0 4 0
+M100 H100
+S
+#5632
+Hostpital of Apocalypse~
+As you enter this room you are quickly and quietly ashured past long rows
+of soft beds, occupied by patients of all sorts.  Those suffering from
+injuries of battle, poison, disease and even a few sick and injured animals
+watch you as you are led to an empty bed.  A priest, his clothing bearing
+the symbol of Apocalypse approaches you an says.  "Please feel free to rest
+here."  The brethen will do what they can to ease any physical ailments. 
+Stay as long as you'd like call us if you need anything."  He turns towards
+you with a thoughtful look, he adds.  "and please dont disturb the other
+patients.  Rest well."  
+~
+0 0 0
+D1
+~
+~
+0 0 5610
+M100 H100
+S
+#5633
+Moon Room~
+This room is filled with a cool silver glow. The walls are black, and
+there are no fires, yet the room still seems filled with light. A feeling
+of tranquility eminates from and alter at the end of the room where you
+see a small statue of the God of the Moon.
+~
+0 0 0
+D1
+~
+~
+0 0 5630
+M100 H100
+S
+#5634
+The Beasts of Nature Pet Shop~
+You enter a room filled with animals everwhere.  The funny thing is that
+none of these animals are caged.  They roam around here freely doing as they
+wish.  Their care-taker is sitting on a stool grooming a wolf.  You notice
+that he is mumbling something about ear ticks as he looks up to greet you. 
+He then looks back down at his work as a camel spits in your direction from
+across the room.  
+~
+0 4096 6
+D3
+~
+~
+0 0 5610
+M100 H100
+S
+#5635
+Back room of Oblivion Kennel~
+The Room is to dark to see!
+~
+0 4100 0
+M100 H100
+S
+#5636
+Nook's Sacrificial Chamber~
+A black mist drifts through the room, it seems almost tangible. Soft
+whisperings can be heard - you cant locate the source, they seem to be
+all around you. In the centre room is a large, blood-stained stone table.
+Lying in the center of the table is an ornately-carved stone dagger, also
+heavily stained with blood. The walls have been carved from the darkest
+obsidian, intricate runes carved into them. These runes have apparently been
+inscribed here so what-ever might be sacrificed would not escape. A spooky
+a sharp gust of wind makes the hair on the back of your neck stand on end.
+A feeling of darkness and evil run through you and penetrates to your soul.
+As if upon impulse, you quickly back out of the room, hoping it will be
+quickly erased from your memory.
+~
+0 0 0
+D1
+~
+~
+0 0 5616
+M100 H100
+S
+#5637
+Voracious's Experimental Sanctuary~
+As you enter the room you see a bunch of extraordinary gadgets and magical
+scrolls lying about. In the corner of the sanctuary you see a sacrificial
+alter where Voracious and her followers pay homage to there God Raff.
+   There are parts of dismembered corpses spread throughout the sanctuary.
+There are also many implements of destruction hanging on the walls with
+traces of fresh blood and poison.
+  As a member of the Sect Oblivion you feel quite at home.
+~
+0 0 0
+D3
+~
+~
+0 0 5616
+M100 H100
+S
+#5638
+Further into the Catacombs~
+The smell and sights are almost the same as the entrance, but there 
+seems to be a little bit of a wind picking up. The darkness seems to
+swirl in a sharp , but silent, mist around your body, giving you a 
+feeling of helplessness. The stone wall continues on further. Still
+no echo is heard from your footsteps.
+~
+0 8 0
+D0
+~
+~
+0 0 5641
+D1
+~
+~
+0 0 5640
+D2
+~
+~
+0 0 5616
+D3
+~
+~
+0 0 5639
+M100 H100
+S
+#5639
+Enigma's Room~
+You are in a room surrounded by a thick, inky darkness.  It almost seems
+to consume you and make you feel like you are in the Pit of eternal Evil.
+There is here a white, ivory statue of Enigma in the center of the room.
+The surrounding walls, covered with the spilt blood of the many a foe, make
+you feel a wave of savagery creep into your soul. As if to emphasize the
+feeling, your attention is drawn to a stone tablet imbedded in the wall.
+~
+0 0 0
+D1
+~
+~
+0 0 5638
+M100 H100
+S
+#5640
+Lurker's Personal Chamber~
+As you step into this room, the darkness and quiet is disturbing.
+Suddendly, a magical light fills this room. You notice desk in the
+corner of the chamber, with many papers and books littering it. One
+book contains the complete history of the sect Oblivion, from its
+humble thought in Raff's mind to its glorious grand opening. Another
+contains the names of all the people Lurker has admitted to killing.
+There is a bookshelf next to the desk , with many books containing 
+secret information about the other Sects, and the history of the many
+races of TSR. You can tell Lurker spends a lot of time here studying
+and helping the best interests of his beloved sect Oblivion.
+~
+0 0 0
+D3
+~
+~
+0 0 5638
+M100 H100
+S
+#5641
+Further into the Catacombs~
+The smells and sights are almost the same as the Entrance, but
+there seems to be a little bit of a wind picking up. The darkness
+seems to swirl in a sharp, but silent, mist around your body, giving
+you a feeling of helplessness. The stone wall continues on further.
+Still no echo is heard from your footsteps.
+~
+0 8 0
+D0
+~
+~
+0 0 5644
+D1
+~
+~
+0 0 5643
+D2
+~
+~
+0 0 5638
+D3
+~
+~
+0 0 5642
+M100 H100
+S
+#5642
+Taltos's Room~
+~
+0 0 0
+D1
+~
+~
+0 0 5641
+M100 H100
+S
+#5643
+Blachlock's Room~
+~
+0 0 0
+D3
+~
+~
+0 0 5641
+M100 H100
+S
+#5644
+Further into the Catacombs~
+The smells and sights are almost the same as at the Entrance, but
+there seems to be a little bit of a wind picking up. The darkness
+seems to swirl in a sharp, but silent, mist around your body, giveing
+you a feeling of helplessness. The stone wall continue on further.
+Still no echo is heard from your footsteps.
+~
+0 0 0
+D0
+~
+~
+0 0 5648
+D1
+~
+~
+0 0 5647
+D2
+~
+~
+0 0 5641
+D3
+~
+~
+0 0 5646
+M100 H100
+S
+#5645
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5644
+M100 H100
+S
+#5646
+Warder's Room~
+~
+0 0 0
+D1
+~
+~
+0 0 5644
+M100 H100
+S
+#5647
+Annibus's Room~
+~
+0 0 0
+D3
+~
+~
+0 0 5644
+M100 H100
+S
+#5648
+Further into the Catacombs~
+You have reached a block, it is a magical portal directly to 
+the north you may continue east and west or go back south, I 
+recomend that you try the portal out you will love it..
+Hahahahahahhahahahahahh!!!!!!
+~
+0 0 0
+D0
+~
+~
+0 0 5615
+D1
+~
+~
+0 0 5650
+D2
+~
+~
+0 0 5644
+D3
+~
+~
+0 0 5649
+M100 H100
+S
+#5649
+Jaffa's Room~
+~
+0 0 0
+D1
+~
+~
+0 0 5648
+M100 H100
+S
+#5650
+Vader's Room~
+~
+0 0 0
+D3
+~
+~
+0 0 5648
+M100 H100
+S
+#5651
+Standing in the Presence~
+~
+0 8 2
+D0
+~
+~
+0 0 5655
+D1
+~
+~
+0 0 5653
+D3
+~
+~
+0 0 5654
+D4
+The Throne of Annibus
+~
+the~
+0 0 5656
+D5
+~
+~
+0 0 5612
+M100 H100
+S
+#5652
+The Horseman of the South...Jubelo~
+~
+0 8 2
+D0
+~
+~
+0 0 5651
+M300 H300
+S
+#5653
+The Horseman of the East...Vader~
+~
+0 0 0
+D3
+~
+~
+0 0 5651
+M0 H0
+S
+#5654
+The Horseman of the West...Aranthos~
+~
+0 0 0
+D1
+~
+~
+0 0 5651
+M0 H0
+S
+#5655
+The Horseman of the North....Romiko~
+~
+0 8 2
+D2
+~
+~
+0 0 5651
+M300 H300
+S
+#5656
+The Throne of Annibus~
+~
+0 8 0
+D5
+~
+~
+0 0 5651
+M1000 H1000
+S
+#0
+
+
+
+#SPECIALS
+M 5600 spec_executioner Load to: Gog
+M 5603 spec_cast_adept Load to: Morgenes
+M 5609 spec_nasty Load to: Fire Beast
+M 5610 spec_cast_cleric Load to: statue of Shandra
+M 5617 spec_cast_cleric Load to: statue of Zump
+M 5619 spec_thief Load to: statue of mandrake
+S
+
+
+
+#RESETS
+D 0 5611 1 2
+D 0 5613 3 2
+M 0 5600 1 5601 1
+O 0 5621 0 5605
+O 0 5621 0 5605
+M 0 5601 1 5606 1
+G 0 5614 0
+G 0 5616 0
+G 0 5618 0
+G 0 5619 0
+M 0 5602 1 5607 1
+G 0 5605 0
+G 0 5604 0
+G 0 5606 0
+G 0 5607 0
+G 0 5608 0
+G 0 5609 0
+G 0 5610 0
+G 0 5611 0
+G 0 5612 0
+G 0 5613 0
+G 0 5617 0
+G 0 5629 0
+O 0 5622 0 5612
+M 0 5623 1 5622 1
+M 0 5622 1 5622 1
+M 0 5621 1 5622 1
+M 0 5620 1 5622 1
+O 0 5624 0 5622
+P 0 5627 0 5625 1
+M 0 5615 1 5623 1
+M 0 5614 1 5623 1
+M 0 5616 1 5624 1
+M 0 5617 1 5624 1
+M 0 5618 1 5625 1
+E 0 5626 0 18
+O 0 5625 0 5625
+M 0 5611 1 5626 1
+M 0 5610 1 5626 1
+M 0 5612 1 5627 1
+M 0 5613 1 5627 1
+M 0 5619 1 5628 1
+O 0 5620 0 5630
+M 0 5603 1 5632 1
+M 0 5605 1 5634 1
+M 0 5606 1 5635 1
+M 0 5607 1 5635 1
+M 0 5608 1 5635 1
+M 0 5609 1 5635 1
+M 0 5608 1 5635 1
+M 0 5606 1 5635 1
+O 0 5628 0 5642
+S
+
+
+
+#SHOPS
+5601 0 0 0 0 0 45 100 1 24
+5602 0 0 0 0 0 100 90 1 24
+0
+
+
+
+#$

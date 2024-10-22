@@ -1,0 +1,642 @@
+#HELPS
+
+-1 OLC EDIT~
+Syntax: EDIT AREA [create/reset] [vnum]		- Area Creation and Repoping.
+Syntax: EDIT ROOM ( [create] [vnum] )		- Room Creation and Editing.
+Syntax: EDIT OBJ  [create] <vnum>		- Object Creation and Editing.
+Syntax: EDIT MOB  [create] <vnum>		- Mobile Creation and Editing.
+
+Syntax: ASAVE  <world/area/changed/list>	- Save Editing to Disk.
+Syntax: ALIST                                   - Listing of Areas.
+Syntax: RESET  See Help Resets.			- Set Game Resets.
+
+Definition: [optional]  <required>  (combined arguments)
+
+     The above commands are used to expand the game world.  The original
+code is based on was written by Surreality and installed in The Isles by Locke.
+It was then converted to work with Envy by Jason Dinkel, and ported to ROM 2.3
+by Hans Birkeland (Hugin). Then later adapted to ROM 2.4 by TSR MUD by Nikki
+and Beowolf. (tsr.org 9000)
+
+     Inside an editor, typing COMMANDS lists working commands and ? gives
+help. AEDIT and REDIT default to the current area or room. EDIT ROOM RESET
+resets the current room.  Most commands with no arguments display syntax.
+See also help: AEDIT REDIT MEDIT OEDIT
+~
+
+
+
+0 ALIST~
+Syntax: ALIST
+
+This command gives you a listing of all the areas along with their
+vnum assignments and the builder(s) assigned to editing them.
+~
+
+
+
+0 AEDIT~
+Syntax: edit area	 -Enters the editor for the current area.
+Syntax: edit area <vnum> -Enters the editor for the selected area.
+
+The follow commands are available from within the AEDITOR:
+
+age <number>        - set the age of the area
+builder <player>    - toggle that builder's access
+commands            - prints a list of possible commands
+create              - create a brand new area and switch to it
+done                - exits the area editor and returns to normal play
+filename <filename> - change the file name for the area (be careful)
+name <name>         - change the 'AREAS' name of this area
+reset               - resets the current area
+security <rating>   - set the security rating for this area
+show                - hitting return, or 'show' shows the area stats
+vnum <lower> <upper>- set the lower and upper vnum's
+lvnum <lower>       - set the lower vnum
+uvnum <upper>       - set the upper vnum
+<flags>             - area flags, type ? AREA for a list
+~
+
+
+
+0 REDIT~
+Syntax: edit room		-Enters the editor for the current room.
+
+The following commands are available from within the REDITOR:
+
+commands            - prints a list of possible commands
+create <vnum>       - creates a room with a certain vnum
+desc                - edit description of room
+done                - exists the room editor and returns to normal play
+ed                  - type this command for additonal extra-description help
+format              - format(wordwrap) the room description
+name <room title>   - changes the room title
+show                - hitting return, or 'show' shows the room stats
+oshow <vnum>        - shows an object with given vnum
+olist               - lists objects in this area.
+mshow <vnum>        - shows a mobile with given vnum
+mlist               - lists mobiles in this area.
+<room-flags>        - room attributes, type ? ROOM for a list
+<sector>            - terrain of room, type ? SECTOR for a list
+<direction>         - see help EXIT, or type <dir> ?
+~
+
+
+
+0 EXIT~
+For exits, type the direction (north/s/e/w) followed by:
+
+dig <vnum>         - creates the room and makes a two way link
+link <room vnum>   - make a two way link
+room <room vnum>   - make a one way link (use with caution)
+key <object vnum>  - makes specified object the vnum of the key required
+name <door name>   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+<exit-flags>       - type ? EXIT for a list(make exit door, locked etc.)
+
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+~
+
+
+
+0 OEDIT~
+Syntax: edit object <vnum>	-Enters the editor for the selected object.
+
+The following commands are available from within the OEDITOR:
+
+addaffect           - applies an affect to an object, no args for help
+delaffect           - removes an affect to an object, no args for help
+commands            - prints a list of possible commands
+cost <gold>         - sets the gold value of the object
+create <vnum>       - creates object with specified vnum
+done                - exits the object editor and returns to normal play
+ed                  - type this for info on adding/editing extended descripts
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an object
+short <desc>        - sets the 'name' of an object (a sword, a fish etc)
+show                - hitting return, or 'show' shows the object stats
+v0 <num>            - sets the value '0' on the object
+v1 <num>            - sets the value '1' on the object
+v2 <num>            - sets the value '2' on the object
+v3 <num>            - sets the value '3' on the object
+v4 <num>            - sets the vlaue '4' on the objcet
+weight <num>        - sets the weight of the object
+type         	    - type of object, type ? TYPE for a list
+extra		    - attributes of object, type ? EXTRA for a list
+wear                - where object is worn, type ? WEAR for a list
+material            - material the object is made from
+~
+
+
+
+0 MEDIT~
+Syntax: medit <vnum>		-Enters the editor for the selected mobile.
+
+The following commands are available from within the MEDITOR:
+
+alignment <value>   - set the mobile's alignment
+commands            - prints a list of possible commands
+create <vnum>       - creates mobile with specified vnum
+desc                - edit the mobile's description (when looked at)
+done                - exits the mobile editor and returns to normal play
+level <level>       - set the mobile's level
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an mobile
+shop                - type this command for further information
+short <desc>        - sets the 'name' of an mobile (a sword, a fish etc)
+show                - hitting return, or 'show' shows the mobile stats
+spec                - sets a mobiles spec proc, type ? SPEC for a list
+sex                 - set the mobile's sex, type ? SEX for a list
+act                 - mobiles actions, type ? ACT for a list
+affect              - mobile affects, type ? AFFECT for a list
+ac		    - set the mobile's ac, type ? AC for a list
+form		    - mobiles body-form, type ? FORM for a list
+part		    - mobiles bodyparts, type ? PART for a list
+imm		    - mobile is immune to, type ? IMM for a list
+res		    - mobile is resistant to, type ? RES for a list
+vuln		    - mobile is vulnerable to, type ? VULN for a list
+material	    - material mobile is made from, type ? MATERIAL for a list
+off		    - offensive behaviour, type ? OFF for a list
+size		    - size, type ? SIZE for a list
+hitdice		    - dice to toss to get mobile's hitpoints
+manadice	    - dice to toss to get mobile's mana
+damdice		    - dice to toss to get mobile's hand to hand damage
+
+type 'help HITDICE', 'help MANADICE', 'help DAMDICE' for lists of reasonable dice 
+combinations on different levels.
+~
+
+
+
+0 HITDICE~
+***********************************************************************
+| Below are the Values you need to use for setting a mobs HITDICE:    | 
+***********************************************************************
+| Lvl |     Dice      | Lvl |     Dice         | Lvl |     Dice       |
+***********************************************************************
+|  1  | 1d2+6         | 51  | 10d176+905       | 101 | 12d573+2775    | 
+|  2  | 1d3+15        | 52  | 10d183+980       | 102 | 12d584+2815    |
+|  3  | 1d6+24        | 53  | 10d190+1010      | 103 | 12d596+2860    |
+|  4  | 1d13+33       | 54  | 11d179+1040      | 104 | 12d607+2905    |
+|  5  | 1d17+42       | 55  | 11d186+1070      | 105 | 12d619+2950    |
+|  6  | 1d25+45       | 56  | 11d192+1100      | 106 | 12d631+2990    |
+|  7  | 2d17+57	      | 57  | 11d199+1130      | 107 | 12d643+3035    |
+|  8  | 2d22+69       | 58  | 11d206+1160      | 108 | 12d655+3080    |
+|  9  | 3d19+82       | 59  | 11d214+1195      | 109 | 12d667+3125    |
+| 10  | 3d22+96       | 60  | 11d221+1225      | 110 | 12d679+3175    |
+| 11  | 3d28+111      | 61  | 11d228+1255      | 111 | 12d692+3220    |
+| 12  | 4d25+124      | 62  | 11d236+1290      | 112 | 12d704+3265    |
+| 13  | 4d29+137      | 63  | 11d243+1325      | 113 | 12d717+3310    |
+| 14  | 5d27+151      | 64  | 11d251+1351      | 114 | 12d730+3355    |
+| 15  | 5d30+161      | 65  | 11d259+1390      | 115 | 12d743+3405    |
+| 16  | 5d35+180      | 66  | 11d267+1425      | 116 | 12d755+3450    |
+| 17  | 6d33+195      | 67  | 11d275+1455      | 117 | 12d769+3500    |
+| 18  | 6d37+211      | 68  | 11d284+1490      | 118 | 12d782+3545    |
+| 19  | 6d41+227      | 69  | 11d292+1525      | 119 | 12d795+3595    |
+| 20  | 6d45+244      | 70  | 11d300+1560      | 120 | 12d808+3640    |
+| 21  | 7d43+261      | 71  | 11d309+1595      | 121 | 12d822+3690    |
+| 22  | 7d47+278      | 72  | 11d318+1630      | 122 | 12d836+3740    |
+| 23  | 7d51+296      | 73  | 11d327+1665      | 123 | 12d849+3785    |
+| 24  | 7d56+315      | 74  | 11d336+1700      | 124 | 12d863+3835    |
+| 25  | 8d53+334      | 75  | 11d345+1735      | 125 | 12d877+3885    |
+| 26  | 8d57+353      | 76  | 11d354+1775      | 126 | 12d891+3935    |
+| 27  | 8d62+373      | 77  | 11d363+1810      | 127 | 12d905+3985    |
+| 28  | 8d66+393      | 78  | 11d373+1845      | 128 | 12d920+4035    |
+| 29  | 8d71+414      | 79  | 12d351+1885      | 129 | 12d934+4085    |
+| 30  | 9d61+416      | 80  | 12d360+1920      | 130 | 12d949+4135    |
+| 31  | 9d72+431      | 81  | 12d369+1960      | 131 | 12d963+4185    |
+| 32  | 9d77+453      | 82  | 12d378+2000      | 132 | 12d978+4235    |
+| 33  | 9d82+485      | 83  | 12d387+2035      | 133 | 12d993+4265    |
+| 34  | 9d87+518      | 84  | 12d396+2075      | 134 | 12d1008+4335   |
+| 35  | 9d92+541      | 85  | 12d406+2115      | 135 | 12d1023+4390   |
+| 36  | 9d97+564      | 86  | 12d415+2150      | 136 | 13d958+4440    |
+| 37  | 9d103+588     | 87  | 12d425+2190      | 137 | 13d972+4490    |
+| 38  | 9d108+612     | 88  | 12d435+2230      | 138 | 13d987+4545    |
+| 39  | 9d114+637     | 89  | 12d445+2270      | 139 | 13d1001+4600   |
+| 40  | 10d108+662    | 90  | 12d455+2310      | 140 | 13d1015+4650   |
+| 41  | 10d114+687    | 91  | 12d465+2350      | 141 | 13d1030+4700   |
+| 42  | 10d119+712    | 92  | 12d475+2395      | 142 | 13d1045+4755   |
+| 43  | 10d125+738    | 93  | 12d486+2435      | 143 | 13d1059+4810   |
+| 44  | 10d131+765    | 94  | 12d496+2475      | 144 | 13d1074+4860   |
+| 45  | 10d137+891    | 95  | 12d507+2515      | 145 | 13d1089+4915   |
+| 46  | 10d143+818    | 96  | 12d518+2560      | 146 | 13d1104+4970   |
+| 47  | 10d149+846    | 97  | 12d528+2600      | 147 | 13d1119+5025   |
+| 48  | 10d156+873    | 98  | 12d539+2645      | 148 | 13d1135+5080   |
+| 49  | 10d162+901    | 99  | 12d550+2685      | 149 | 13d1150+5135   |
+| 50  | 10d169+920    | 100 | 12d562+2730      | 150 | 13d1166+5190   |
+***********************************************************************
+               		Table compiled By Terram. 
+For Immortal MOBs or any mobile higher than level 151 consult help avatar
+~
+
+0 MANADICE~
+A high number of dice makes for less variance in mobiles mana.
+The values the server generates for merc-type mobs is
+
+  <level> d 10 + 100
+
+where level is the level of the mobile.
+~
+
+
+
+0 DAMDICE~
+***********************************************************************
+| Below are the Values you need to use for setting a mobs DAMDICE:    | 
+***********************************************************************
+| Lvl |     Dice      | Lvl |     Dice         | Lvl |     Dice       |
+***********************************************************************
+|  1  | 1d2+0         | 51  | 5d10+25          | 101 | 5d20+50        | 
+|  2  | 1d2+1         | 52  | 5d10+26          | 102 | 5d20+51        |
+|  3  | 1d3+2         | 53  | 5d11+26          | 103 | 5d21+51        |
+|  4  | 1d4+2         | 54  | 5d11+27          | 104 | 5d21+52        |
+|  5  | 2d3+2         | 55  | 5d11+27          | 105 | 5d21+52        |
+|  6  | 2d3+3         | 56  | 5d11+28          | 106 | 6d18+53        |
+|  7  | 2d4+3         | 57  | 5d12+28          | 107 | 6d18+53        |
+|  8  | 2d4+4         | 58  | 5d12+29          | 108 | 6d18+54        |
+|  9  | 2d5+4         | 59  | 5d12+29          | 109 | 6d18+54        |
+| 10  | 2d5+5         | 60  | 5d12+30          | 110 | 6d18+55        |
+| 11  | 3d4+5         | 61  | 5d12+30          | 111 | 6d19+55        |
+| 12  | 3d4+6         | 62  | 5d12+31          | 112 | 6d19+56        |
+| 13  | 3d5+6         | 63  | 5d13+31          | 113 | 6d19+56        |
+| 14  | 3d5+7         | 64  | 5d13+32          | 114 | 6d19+57        |
+| 15  | 3d5+8         | 65  | 5d13+32          | 115 | 6d19+57        |
+| 16  | 3d5+9         | 66  | 5d13+33          | 116 | 6d19+58        |
+| 17  | 4d4+8         | 67  | 5d14+33          | 117 | 6d20+58        |
+| 18  | 4d5+9         | 68  | 5d14+34          | 118 | 6d20+59        |
+| 19  | 4d5+9         | 69  | 5d14+34          | 119 | 6d20+59        |
+| 20  | 4d5+10        | 70  | 5d14+35          | 120 | 6d20+60        |
+| 21  | 4d5+10        | 71  | 5d14+35          | 121 | 6d20+60        |
+| 22  | 4d6+11        | 72  | 5d14+36          | 122 | 6d20+61        |
+| 23  | 4d6+11        | 73  | 5d15+36          | 123 | 6d21+61        |
+| 24  | 4d6+12        | 74  | 5d15+37          | 124 | 6d21+62        |
+| 25  | 4d6+12        | 75  | 5d15+37          | 125 | 6d21+62        |
+| 26  | 4d6+13        | 76  | 5d15+38          | 126 | 6d21+63        |
+| 27  | 4d6+13        | 77  | 5d15+38          | 127 | 6d21+63        |
+| 28  | 4d7+14        | 78  | 5d16+39          | 128 | 6d21+64        |
+| 29  | 4d7+14        | 79  | 5d16+39          | 129 | 6d22+64        |
+| 30  | 5d6+15        | 80  | 5d16+40          | 130 | 6d22+65        |
+| 31  | 5d6+15        | 81  | 5d16+40          | 131 | 6d22+65        |
+| 32  | 5d6+16        | 82  | 5d16+41          | 132 | 6d22+66        |
+| 33  | 5d6+16        | 83  | 5d17+41          | 133 | 6d22+66        |
+| 34  | 5d7+17        | 84  | 5d17+42          | 134 | 6d22+67        |
+| 35  | 5d7+17        | 85  | 5d17+42          | 135 | 6d23+67        |
+| 36  | 5d7+18        | 86  | 5d17+43          | 136 | 6d23+68        |
+| 37  | 5d7+18        | 87  | 5d18+43          | 137 | 6d23+68        |
+| 38  | 5d8+19        | 88  | 5d18+44          | 138 | 6d23+69        |
+| 39  | 5d8+19        | 89  | 5d18+44          | 139 | 6d23+69        |
+| 40  | 5d8+20        | 90  | 5d18+45          | 140 | 6d23+70        |
+| 41  | 5d8+20        | 91  | 5d18+45          | 141 | 6d24+70        |
+| 42  | 5d8+21        | 92  | 5d18+46          | 142 | 6d24+71        |
+| 43  | 5d9+21        | 93  | 5d19+46          | 143 | 6d24+71        |
+| 44  | 5d9+22        | 94  | 5d19+47          | 144 | 6d24+72        |
+| 45  | 5d9+22        | 95  | 5d19+47          | 145 | 6d24+72        |
+| 46  | 5d9+23        | 96  | 5d19+48          | 146 | 6d24+73        |
+| 47  | 5d10+23       | 97  | 5d20+48          | 147 | 6d25+73        |
+| 48  | 5d10+24       | 98  | 5d20+49          | 148 | 6d25+74        |
+| 49  | 5d10+24       | 99  | 5d20+49          | 149 | 6d25+74        |
+| 50  | 5d10+25       | 100 | 5d20+50          | 150 | 6d25+75        |
+***********************************************************************
+               		Table compiled By Terram. 
+For Immortal MOBs or any mobile higher than level 151 consult help avatar
+~
+0 RESETS~
+Syntax: RESET <number> OBJ <vnum> <location on body>    - equips last mobile
+        RESET <number> OBJ <vnum> inside <obj vnum>     - store in container
+        RESET <number> OBJ <vnum> room                  - store in room
+        RESET <number> MOB <vnum> [<max #>]             - load a mobile
+        RESET <number> DELETE                           - delete a reset
+
+RESET alone will display the resets in the current room.  The <number> will
+be displayed with this list.  Typing ? WEAR-LOC will list possible locations
+that an object can be loaded to.  The [<max #>] is the maximum number of
+mobiles allowed in this room and will default to 1 if no number is entered.
+
+For resets to be successful make sure that you add them in a logical order.
+For example if you are equiping a mobile don't load a container in the room
+and fill it with some objects and then continue equiping the mobile.  It is
+likely that resets will backfire if they are not carefully entered.
+
+If you wish to reset the room then use EDIT ROOM RESET.  
+~
+
+
+
+0 MOB_AC~
+Below is a list of MOB Armor Class. Please Follow this when making mobs:
+******************************************************************
+| Lvl |   pierce  |    bash	|     slash	|      exotic    | 
+******************************************************************
+|  1  |     95    |	95      |	95      |	95	 |          
+|  2  |     88    |     88      |       88      |       94       |    
+|  3  |     81    |	81	|       81	|       94       |	     	
+|  4  |	    75	  |     75      |	75	|       88       |	     	
+|  5  |	    70    |	70	|       70      |	85       |     		
+|  6  |     63	  |     63      | 	63	|       81       |	
+|  7  |     56    | 	56	|       56      |	81       | 	
+|  8  |     50	  |     50	|       50	|       75	 |       	
+|  9  |     44    |	44	|       44	|       75       |		
+| 10  |     40	  |     40	|       40	|       70       |		
+| 11  |     31	  |     31	|       31	|       69       |		
+| 12  |     25	  |     25	|       25	|       63       |	
+| 13  |     19	  |     19	|       19	|       63	 |       	
+| 14  |     13	  |     13	|       13	|       56	 |       	
+| 15  |      5	  |      5	|        5	|       55       |  		
+| 16  |      0	  |      0	|        0	|       50       |  		
+| 17  |     -6	  |     -6	|       -6	|       50       | 		
+| 18  |    -13	  |    -13      |      -13	|       44       |  		
+| 19  |    -19	  |    -19      |      -19      |	44       |		
+| 20  |    -25	  |    -25	|      -25	|       40       |		
+| 21  |    -31	  |    -31	|      -31	|       38       |		
+| 22  |    -38	  |    -38	|      -38	|       31	 |		
+| 23  |    -44	  |    -44	|      -44	|       31	 |		
+| 24  |    -50	  |    -50	|      -50	|       25	 |		
+| 25  |    -55	  |    -55      |      -55	|       20	 |		
+| 26  |    -63	  |    -63      |      -63      |       19	 |		
+| 27  |    -69	  |    -69	|      -69	|       19	 |		
+| 28  |    -75    |    -75	|      -75	|       13	 |	
+| 29  |    -81	  |    -81	|      -81	|       13	 |	
+| 30  |    -90	  |    -90	|      -90	|        5	 |	
+| 31  |    -94	  |    -94	|      -94	|        5	 |	
+| 32  |   -100	  |   -100	|     -100	|        0	 |	
+| 33  |   -106	  |   -106      |     -106      |      	 0	 |	
+| 34  |   -113	  |   -113	|     -113      |	-6	 |	
+| 35  |   -120	  |   -120      |     -120      |      -10       |	
+| 36  |   -125	  |   -125	|     -125	|      -13       |		
+| 37  |   -131	  |   -131	|     -131	|      -13       |		
+| 38  |   -138	  |   -138	|     -138	|      -19       |		
+| 39  |   -144	  |   -144	|     -144	|      -19	 |	
+| 40  |   -150	  |   -150	|     -150	|      -25       |		
+| 41  |   -156	  |   -156	|     -156	|      -25       |		
+| 42  |   -163	  |   -163	|     -163	|      -31	 |	
+| 43  |   -169    |   -169	|     -169	|      -31       |	
+| 44  |   -175	  |   -175	|     -175	|      -38       |	
+| 45  |   -180	  |   -180	|     -180	|      -40	 |	
+| 46  |   -188	  |   -188	|     -188	|      -44	 |	
+| 47  |   -194	  |   -194	|     -194	|      -44	 |	
+| 48  |   -200	  |   -200	|     -200	|      -50	 |	
+| 49  |   -206	  |   -206	|     -206	|      -50	 |	
+| 50  |   -215	  |   -215	|     -215	|      -55	 |	
+| 51  |   -219    |   -219	|     -219	|      -56	 |
+| 52  |   -225	  |   -225	|     -225	|      -63       |		
+| 53  |   -231	  |   -231	|     -231	|      -63       |		
+| 54  |   -238	  |   -238	|     -238	|      -69	 |	
+| 55  |   -245	  |   -245	|     -245	|      -70	 |	
+| 56  |   -250	  |   -250	|     -250	|      -75	 |	
+| 57  |   -256	  |   -256	|     -256	|      -75	 |	
+| 58  |   -263	  |   -263	|     -263	|      -81	 |	
+| 59  |   -269	  |   -269	|     -269	|      -81	 |	
+| 60  |   -275	  |   -275	|     -275	|      -90	 |	
+| 61  |   -281	  |   -281	|     -281	|      -90	 |	
+| 62  |   -288	  |   -288	|     -288	|      -94	 |	
+| 63  |   -294	  |   -294	|     -294	|      -94	 |	
+| 64  |   -300	  |   -300	|     -300	|     -100	 |	
+| 65  |   -305	  |   -305	|     -305	|     -105	 |	
+| 66  |   -313	  |   -313	|     -313	|     -106	 |	
+| 67  |   -319	  |   -319	|     -319	|     -106	 |	
+| 68  |   -325	  |   -325	|     -325	|     -113	 |	
+| 69  |   -331	  |   -331	|     -331	|     -113	 |	
+| 70  |   -340	  |   -340	|     -340	|     -120	 |	
+| 71  |   -344	  |   -344	|     -344	|     -120	 |	
+| 72  |   -350	  |   -350	|     -350	|     -125	 |	
+| 73  |   -356	  |   -356	|     -356	|     -125	 |	
+| 74  |   -363	  |   -363	|     -363	|     -131	 |	
+| 75  |   -369	  |   -369	|     -369	|     -131	 |	
+| 76  |   -375	  |   -375	|     -375	|     -138	 |	
+| 77  |   -381	  |   -381	|     -381	|     -138	 |	
+| 78  |   -388	  |   -388	|     -388	|     -144	 |	
+| 79  |   -394	  |   -394	|     -394	|     -144	 |	
+| 80  |   -400	  |   -400	|     -400	|     -150	 |	
+| 81  |   -406	  |   -406	|     -406	|     -150	 |	
+| 82  |   -413    |   -413      |     -413      |     -156       |
+| 83  |   -419	  |   -419	|     -419	|     -156	 |	
+| 84  |   -425	  |   -425	|     -425	|     -163       |	
+| 85  |   -431	  |   -431	|     -431	|     -163	 |	
+| 86  |   -438	  |   -438	|     -438	|     -169	 |	
+| 87  |   -444	  |   -444	|     -444	|     -169	 |	
+| 88  |   -450	  |   -450	|     -450	|     -175	 |	
+| 89  |   -456	  |   -456	|     -456	|     -175	 |	
+| 90  |   -463	  |   -463	|     -463	|     -181	 |	
+| 91  |   -469	  |   -469	|     -469	|     -181	 |	
+| 92  |   -475	  |   -475	|     -475	|     -188	 |	
+| 93  |   -481	  |   -481	|     -481	|     -188       |	
+| 94  |   -488	  |   -488	|     -488	|     -194	 |	
+| 95  |   -494	  |   -494	|     -494	|     -194	 |	
+| 96  |   -500	  |   -500	|     -500	|     -200	 |	
+| 97  |   -506	  |   -506	|     -506	|     -200	 |	
+| 98  |   -513	  |   -513	|     -513	|     -206	 |	
+| 99  |   -519	  |   -519	|     -519	|     -206	 |	
+| 100 |   -525	  |   -525	|     -525	|     -213	 |	
+| 101 |   -531	  |   -531	|     -531	|     -213	 |	
+| 102 |   -538	  |   -538	|     -538	|     -219	 |	
+| 103 |   -544	  |   -544	|     -544	|     -219	 | 	
+| 104 |   -550	  |   -550	|     -550	|     -225	 |	
+| 105 |   -556	  |   -556	|     -556	|     -225	 |	
+| 106 |   -563	  |   -563	|     -563	|     -231	 |	
+| 107 |   -569	  |   -569	|     -569	|     -231	 |	
+| 108 |   -575	  |   -575	|     -575	|     -238	 |	
+| 109 |   -581	  |   -581	|     -581	|     -238	 |	
+| 110 |   -588	  |   -588	|     -588	|     -244	 |	
+| 111 |   -594	  |   -594	|     -594	|     -244	 |	
+| 112 |   -600	  |   -600	|     -600	|     -250	 |	
+| 113 |   -606	  |   -606	|     -606	|     -250	 |	
+| 114 |   -613	  |   -613	|     -613	|     -256	 |	
+| 115 |   -619	  |   -619	|     -619	|     -256	 |	
+| 116 |   -625	  |   -625	|     -625	|     -263	 |	
+| 117 |   -631	  |   -631	|     -631	|     -263	 |	
+| 118 |   -638	  |   -638	|     -638	|     -269	 |	
+| 119 |   -644	  |   -644	|     -644	|     -269	 |	
+| 120 |   -650	  |   -650	|     -650	|     -275	 |	
+| 121 |   -656	  |   -656	|     -656	|     -275	 |	
+| 122 |   -663	  |   -663	|     -663	|     -281	 |	
+| 123 |   -669	  |   -669	|     -669	|     -281	 |	
+| 124 |   -675	  |   -675	|     -675	|     -288	 |	
+| 125 |   -681	  |   -681	|     -681	|     -288	 | 	
+| 126 |   -688	  |   -688	|     -688	|     -294	 |	
+| 127 |   -694	  |   -694	|     -694	|     -294	 |	
+| 128 |   -700	  |   -700	|     -700	|     -300	 | 	
+| 129 |   -706	  |   -706	|     -706	|     -300	 |	
+| 130 |   -713	  |   -713	|     -713	|     -306	 |	
+| 131 |   -719	  |   -719	|     -719	|     -306	 |	
+| 132 |   -725	  |   -725	|     -725	|     -313	 |	
+| 133 |   -731	  |   -731	|     -731	|     -313	 |	
+| 134 |   -738	  |   -738	|     -738	|     -319	 |	
+| 135 |   -744	  |   -744      |     -744	|     -319	 |	
+| 136 |   -750	  |   -750	|     -750	|     -325	 |	
+| 137 |   -756	  |   -756	|     -756	|     -325	 |	
+| 138 |   -763	  |   -763	|     -763	|     -331	 |	
+| 139 |   -769	  |   -769	|     -769	|     -331	 | 	
+| 140 |   -775	  |   -775	|     -775	|     -338	 |	
+| 141 |   -781	  |   -781	|     -781	|     -338	 |	
+| 142 |   -788	  |   -788	|     -788	|     -344	 |	
+| 143 |   -794	  |   -794	|     -794	|     -344	 |	
+| 144 |   -800	  |   -800	|     -800	|     -350	 |	
+| 145 |   -806	  |   -806	|     -806	|     -350	 |	
+| 146 |   -813	  |   -813	|     -813	|     -356	 |	
+| 147 |   -819	  |   -819	|     -819	|     -356	 |	
+| 148 |   -825	  |   -825	|     -825	|     -363	 |	
+| 149 |   -831	  |   -831	|     -831	|     -363	 |	
+| 150 |   -838	  |   -838	|     -838	|     -369	 |	
+| 151 |   -844	  |   -844	|     -844	|     -369	 |	
+| 152 |   -850	  |   -850	|     -850	|     -375	 |	
+| 153 |   -856	  |   -856	|     -856	|     -375	 |	
+| 154 |   -863	  |   -863	|     -863	|     -381	 |	
+| 155 |   -869	  |   -869	|     -869	|     -381	 |	
+| 156 |   -875	  |   -875	|     -875	|     -388	 |	
+| 157 |   -881	  |   -881	|     -881	|     -388	 |	
+| 158 |   -888	  |   -888	|     -888	|     -394	 |	
+| 159 |   -894	  |   -894	|     -894	|     -394	 |	
+| 160 |   -900	  |   -900	|     -900	|     -400	 |	
+******************************************************************
+        Table created by Terram and made pretty by Beowolf.
+~
+
+
+
+0 ITEM_LIGHT~
+.   value 0    unused
+   value 1    unused
+   value 2    hours of light available, 0 is dead, -1 or 999 is infinite            
+   value 3    unused
+   value 4    unused
+~
+
+
+
+0 ITEM_STAFF_WAND~
+.   value 0    level
+   value 1    max charges
+   value 2    current charges
+   value 3    spell name
+   value 4    unused
+
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+
+0 ITEM_SCROLL_POTION_PILL~
+.   value 0    level
+   value 1    spell name 1
+   value 2    spell name 2
+   value 3    spell name 3
+   value 4    unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+
+
+
+0 ITEM_ARMOR~
+.   value 0    ac pierce
+   value 1    ac bash
+   value 2    ac slash
+   value 3    ac exotic (magic)
+   value 4    unused
+~
+
+
+
+
+0 ITEM_WEAPON~
+.   value 0    weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+~
+
+
+
+0 WEAPON_DICE~
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+ levels:      dice             levels        dice 
+   1:         1d8              78-83:        6d14
+  2-3:        2d5              84-89:        6d15
+  4-5:        2d6              90-96:        6d16
+  6-9:        4d4              97-102:       6d17
+ 10-12:       4d5             103-108:       6d18
+ 13-15:       5d4             109-115:       6d19
+ 16-21:       5d5             116-121:       6d20             
+ 22-26:       5d6             122-127:       6d21
+ 27-31:       5d7             128-134:       6d22
+ 32-36:       5d8             135-140:       6d23
+ 37-42:       5d9             141-146:       6d24
+ 43-47:       5d10            147-153:       6d25
+ 48-50:       5d11            154-160:       6d26
+ 51-52:       6d9
+ 53-58:       6d10
+ 59-64:       6d11
+ 65-71:       6d12
+ 72-77:       6d13
+~
+
+
+
+0 ITEM_CONTAINER~
+.   value 0    weight capacity
+   value 1    flags: closeable, pickproof, closed, locked            
+   value 2    key vnum
+   value 3    unused
+   value 4    unused
+
+An up-to-date list of flags can be obtained by typing
+? CONTAINTER
+~
+
+
+
+0 ITEM_DRINK~
+.   value0    capacity
+   value 1    current quantity
+   value 2    liquid type
+   value 3    poisoned?
+   value 4    unused
+
+An up-to-date list of liquid types can be obtained by typing
+? LIQUID
+~
+
+
+
+0 ITEM_FOOD~
+.   value 0    hours of food value
+   value 1    unused
+   value 2    unused
+   value 3    poisoned?
+   value 4    unused
+~
+
+
+
+0 ITEM_MONEY~
+.   value 0    value in gold pieces
+   value 1    unused
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+
+
+0 $~
+
+
+#$

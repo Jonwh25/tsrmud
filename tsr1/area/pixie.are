@@ -1,0 +1,2287 @@
+#AREADATA
+Name        [  All  ] Pixie Forest~
+Builders    Raff~
+VNUMs       800 899
+Security    8
+End
+
+
+
+#MOBILES
+#800
+Hobbit~
+hobbit is here relaxing in his chair.~
+Hobbit is here relaxing in his chair.
+~
+Hobbit the old tired traveler is here, he is relaxing in his chair.
+He looks you up and down, then he ignores you as you are no threat
+to him, he is a small elf that packs a wolup, stories tell of him
+slaying dragons. You feel that leaving him alone would be a good idea.
+~
+elf~
+ABGT DEFHJPQTV 0 0 
+0 80 10 12d360+1800 80d100+1000 5d16+10 0
+0 0 0 0
+0 CH B DIZ
+standing standing male 500
+AHMV ABCDEFGHIJK S unknown
+#802
+Pixie Scout~
+pixie scout is here~
+Pixie Scout is here.
+~
+Small pixie scout is here, he is does not notice you as he cariies
+on with his work, you wonder if these pixies could tell you where 
+these magical weapons and armor but you notice they speak a tongue
+you do not understand. You better move on maybe someone else might
+help yah out as you move further in.
+~
+human~
+ACQT DEFJQT 0 0 
+0 40 10 10d108+662 40d100+200 5d8+20 0
+-10 -10 -10 -7
+EFKNO AFQ BC GHI
+standing standing none 30
+AHMV ABCDEFGHIJKP S unknown
+#803
+pixie guard~
+pixie guard is here~
+Pixie Guard is here.
+~
+~
+human~
+A 0 0 0 
+0 50 0 10d140+500 50d100+300 5d10+15 0
+-17 -17 -17 -7
+CEJNO ALQ BC HI
+standing standing none 0
+AHMV ABCDEFGHIJKP M unknown
+#804
+pixie scout~
+pixie scout~
+Pixie Scout is here.
+~
+You look at the pixie, then he looks at you. Then you notice that 
+he is not alone you see eyes peeking out from behind the bushes
+you better keep moving before the gang up and loot yah!!! 
+The pixie is in perfect shape and would love to fight.
+~
+human~
+AHT DFQTV 0 0 
+0 45 10 10d100+760 45d100+100 5d4+20 0
+-10 -10 -10 -4
+EFKOR ALQ BHN FI
+standing standing none 20
+AHMV ABCDEFGHIJK M unknown
+#805
+pixie guard~
+pixie guard~
+Pixie Guard is here.
+~
+Pixie guard is here, he looks you up and down. You notice he looks at 
+the other guard and then the both put there hands on there sword.
+You feel that this room is special that they stay here and protect 
+it. You here strange hum from the wrist of one of the guards.
+~
+human~
+ABGT DFQTV 0 0 
+0 50 10 10d130+700 50d100+300 5d9+20 0
+0 0 0 0
+EFGHKO AI BLQ DIN
+standing standing male 30
+AHMV ABCDEFGHIJKP S unknown
+#806
+guard pixie~
+pixie guard~
+Pixie Guard is here
+~
+You have finally made it the guard screams, but you must kill me
+first to enter the portal. You notice he is unarmed but he is 
+bulky and strong looking for an elf. He attacks you AHHHHHHHHHHH!!!!!!!
+~
+elf~
+ABFGT DEFHJPQTV 0 0 
+0 55 0 55d11+130 55d100+500 5d12+20 0
+-20 -20 -20 -8
+BEGHIKNO ALQ BH DIZ
+standing standing male 100
+AHMV ABCDEFGHIJK M unknown
+#807
+Pixie Scout~
+pixie scout~
+Pixie Scout is here.
+~
+Pixie scout a small little person, out looking for food for his queen.
+He looks you up and down, then he continues to forage for food. You 
+notice that he looks like he can handle himself as he carries a 
+formitable weapon.
+~
+elf~
+AT DEFHJPQTV -50 0 
+0 45 10 10d120+700 45d100+500 5d10+12 0
+-10 -10 -10 -5
+0 ALQ BH DIZ
+standing standing none 50
+AHMV ABCDEFGHIJK S unknown
+#808
+pixie scout~
+pixie scout~
+Pixie Scout is here.
+~
+Pixie scout is here searching for something, you notice he has a nice
+weapon. He look at you and smiles and continues back looking but keep
+and eye on you incase. 
+~
+human~
+A DEFQTV 500 0 
+0 45 10 9d45+700 45d100+1000 5d10+30 0
+-10 -10 -10 -8
+CFGHO ALQ BH DI
+standing standing none 40
+AHMV ABCDEFGHIJKP S unknown
+#809
+no name~
+pixie scout~
+Pixie Scout is here
+~
+Pixie scout is here looking for a way out, he looks you up and down 
+then he continues to look for a way out of this forest. He hide a 
+pocket knife in his pocket so you wont steel it.
+~
+human~
+AT DFQTV -500 0 
+0 45 10 10d100+500 45d100+300 5d17+40 0
+-10 -10 -10 -10
+CFGHO ALQ BH DI
+standing standing none 40
+AHMV ABCDEFGHIJKP S unknown
+#810
+bear~
+bear~
+Big Black Bear is here.
+~
+~
+bear~
+ABFGT KV 0 0 
+0 35 10 9d93+400 35d100+500 5d7+40 0
+-10 -10 -7 -4
+CDEFJNO AHI BCEI DLQ
+standing standing none 1
+AGV ABCDEFHJKUV L unknown
+#811
+pixie lookout~
+pixie lookout~
+Pixie Lookout is here sleeping.
+~
+Pixie lookout fast asleep at his post, you notice he has no weapon 
+but could very easyly kill yah. YOu think you should let him sleep
+and continue exploring else where.
+~
+human~
+ABGT DEFHJRTV 1000 0 
+0 50 10 10d169+700 50d100+500 5d11+23 0
+-10 -10 -10 -8
+DEFHJO ALQ BH DI
+standing standing none 100
+AHMV ABCDEFGHIJKP S unknown
+#812
+pixie queen~
+pixie queen~
+Pixie Queen is here sitting in her throne.
+~
+The Pixie Queen she is a elf of great stature, she notices
+you and screams for her guards, even though she looks like 
+she could handle her self pretty well. You notice that she 
+wearing jewels and fancy cloths.
+~
+elf~
+ABGT DEFHJPQTVZ -1000 0 
+0 60 30 11d200+1000 60d100+600 5d12+30 0
+-12 -12 -12 -9
+ADEFGHKO ALQ BH DIZ
+standing standing female 300
+AHMV ABCDEFGHIJKP S unknown
+#813
+bear~
+black bear~
+Black Bear is here sleeping
+~
+~
+bear~
+ABFGT DFHJRVa -1000 0 
+0 0 10 10d120+500 50d100+300 5d14+15 0
+-10 -10 -10 -9
+CDEFIJO AI BEI DH
+standing standing none 1
+AGV ABCDEFGHJKUV L unknown
+#0
+
+
+
+#OBJECTS
+#801
+Hobbit's House Key~
+house key~
+Hobbit's House Key~
+unknown~
+key BP AO
+0 0 0 0 0
+1 0 1 P
+A
+13 50
+#803
+Mailbox ~
+mailbox~
+Mailbox with Hobbit written on the side.~
+unknown~
+container A 0
+10000 0 0 10000 500
+1 0 0 P
+#806
+Eye Axe~
+eye axe ~
+Eye Axe is here.~
+unknown~
+weapon ABG AN
+axe 5 7 slice D
+30 10 200 P
+#807
+Bush~
+a small bush~
+Small Bush~
+unknown~
+container 0 0
+10000 0 0 10000 100
+1 1 0 P
+#808
+jar dead flys~
+jar of dead bugs~
+Jar of dead Bugs is here.~
+unknown~
+armor A AO
+1 1 1 1 0
+50 12 12 P
+A
+13 200
+A
+12 -100
+#809
+can beans~
+can of baked beans~
+Can of Baked Beans is here.~
+unknown~
+food 0 AO
+12 0 0 0 0
+10 5 1 P
+#810
+throne~
+queen's throne~
+Queen's Throne Chair~
+unknown~
+furniture A 0
+1 10000 50 -100 500
+1 1000 1000 P
+#812
+Tungi~
+tungi~
+Tungi is here.~
+unknown~
+weapon 0 AN
+axe 5 8 slice DH
+30 10 300 P
+#814
+Fire Bush~
+fire bush ~
+Fire bush is here.~
+unknown~
+portal 0 0
+0 0 1 866 0
+1 0 0 P
+#816
+bush~
+small bush~
+A Small Bush~
+unknown~
+container G 0
+10000 0 0 10000 100
+0 1 0 P
+#819
+no name~
+small bush~
+A small bush ~
+unknown~
+container G 0
+10000 0 0 10000 100
+1 0 0 P
+#835
+cheese~
+cheese~
+Slice of cheese~
+unknown~
+food 0 AO
+10 0 0 1 0
+1 0 0 P
+#839
+bush~
+a Small Bush~
+Small Bush~
+unknown~
+container 0 0
+10000 0 0 10000 100
+1 0 0 P
+#848
+Fire Bush~
+fire bush~
+Fire Bush~
+unknown~
+container AG 0
+10000 0 0 10000 100
+1 0 0 P
+#870
+Display Case Exhibit~
+j.r.r. tolkein exhibit~
+J.R.R. Tolkein Display Case~
+unknown~
+container A AO
+10000 0 0 10000 500
+0 10000 0 P
+#871
+Poster Lord Rings~
+lord of the rings poster~
+Lord Of The Rings Poster~
+unknown~
+jewelry AB AO
+0 0 0 0 0
+40 7 100 P
+A
+19 3
+A
+18 3
+A
+13 -10
+#874
+pixie stone~
+pixie stone~
+A Pixie Stone~
+unknown~
+armor ABG AQ
+10 10 10 5 0
+35 5 1000 P
+A
+19 3
+A
+18 3
+#875
+small bush~
+small bush~
+A Small Bush~
+unknown~
+container G 0
+10000 0 0 10000 100
+1 0 0 P
+#877
+guantlets pixie power~
+gauntlets of pixie power~
+Gauntlets Of Pixie Power~
+unknown~
+armor BFG I
+10 10 10 5 0
+35 5 1000 P
+#878
+small bush~
+small bush~
+A Small Bush~
+unknown~
+container G 0
+10000 0 0 10000 100
+1 0 0 P
+#879
+boots pixie~
+pixie boots~
+Pixie Boots~
+unknown~
+clothing AB AG
+0 0 0 0 0
+35 1 500 P
+A
+2 4
+A
+5 -2
+A
+13 25
+#880
+Exhibit~
+j.R.R. Tolken Exhibit~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#881
+small whip~
+small whip~
+Small Whip~
+unknown~
+weapon 0 AN
+whip 5 10 sting 0
+40 5 20 P
+#882
+flail mountain~
+flail of the mountain~
+Flail of the Mountain~
+unknown~
+weapon A AN
+flail 5 13 grep BF
+45 6 30 P
+#883
+pixie sword~
+pixie guard sword~
+Pixie Guard Sword~
+unknown~
+weapon B AN
+sword 5 13 slice DE
+49 10 50 P
+#884
+spear lightning~
+spear of lightning~
+Pixie Scout is here.~
+unknown~
+weapon 0 A
+exotic 5 12 stab DG
+45 4 75 P
+#885
+dagger pixie~
+pixie guard dagger~
+Pixie Guard Dagger~
+unknown~
+weapon 0 AN
+dagger 4 23 sting DE
+49 12 60 P
+#886
+mace~
+mace of pixies~
+Mace of Pixies~
+unknown~
+weapon A AN
+mace 5 12 cleave CD
+45 9 50 P
+#887
+knife pixie~
+pocket knife~
+Pixie Swiss Pocket Knife~
+unknown~
+weapon 0 AN
+exotic 5 10 pierce D
+45 7 40 P
+#0
+
+
+
+#ROOMS
+#800
+Path Near a Forest~
+At this point the path has had enough. With a terrified shudder it cowers
+to the ground, only staying here because your're standing on it. With a slight
+feeling of unease you look around noticing only a few bushes and a large
+tree. You feel you can hear the cry's of help from a thousand silent voices
+all coming from a forest to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 801
+M100 H100
+S
+#801
+Path Near a Forest~
+This seems to be a crossroad of sorts. There are exits leading in a North
+and South direction. Through the trees, a path lead North into  the 
+entrance of the Pixie Forest - an intricate maze that none have yet to
+return  from. To the south is yet another Path leading back the way you 
+came.
+~
+0 0 0
+D0
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+M100 H100
+S
+#802
+Before the Forest of the Pixie~
+You find yourself in an open expanse of a forested area. To the west 
+you can see the ice capped mountains in the distance while to the north
+is an odd forest. You remember hearing tales in your youth of a strange
+forest that contained a great cache of magical weapons and armor...
+To find such a treasure AND return with it would be an accomplishment
+the bards would sing for years!! To you east, you see a small door
+set into a hill with a mailbox just to the left of it. The
+mailbox has the name 'Hobbit' printed on it.
+~
+0 4 0
+D0
+~
+~
+0 0 803
+D1
+~
+~
+4 801 863
+D2
+~
+~
+0 0 801
+D3
+~
+~
+0 0 860
+M100 H100
+S
+#803
+Entrance to the Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 805
+D2
+~
+~
+0 0 802
+D3
+~
+~
+0 0 804
+M100 H100
+S
+#804
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 807
+D1
+~
+~
+0 0 803
+D2
+~
+~
+0 0 899
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#805
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 808
+D3
+~
+~
+0 0 803
+M100 H100
+S
+#806
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 817
+D2
+~
+~
+0 0 803
+M100 H100
+S
+#807
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 804
+M100 H100
+S
+#808
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 810
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#809
+Fire Bush ~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D3
+~
+~
+0 0 808
+M100 H100
+S
+#810
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 808
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#811
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 812
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 899
+D3
+~
+~
+0 0 810
+M100 H100
+S
+#812
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 816
+D1
+~
+~
+0 0 815
+D2
+~
+~
+0 0 811
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#813
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 899
+D2
+~
+~
+0 0 814
+D3
+~
+~
+0 0 811
+M100 H100
+S
+#814
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 813
+M100 H100
+S
+#815
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 899
+D3
+~
+~
+0 0 812
+M100 H100
+S
+#816
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 812
+M100 H100
+S
+#817
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 821
+D2
+~
+~
+0 0 806
+D3
+~
+~
+0 0 818
+M100 H100
+S
+#818
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 819
+D3
+~
+~
+0 0 820
+M100 H100
+S
+#819
+Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 818
+M100 H100
+S
+#820
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 899
+D1
+~
+~
+0 0 818
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#821
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 822
+D2
+~
+~
+0 0 817
+M100 H100
+S
+#822
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 821
+D3
+~
+~
+0 0 824
+M100 H100
+S
+#823
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 899
+D1
+~
+~
+0 0 899
+D3
+~
+~
+0 0 822
+M100 H100
+S
+#824
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 899
+D3
+~
+~
+0 0 825
+M100 H100
+S
+#825
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 824
+D3
+~
+~
+0 0 827
+M100 H100
+S
+#826
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 829
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 825
+M100 H100
+S
+#827
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 825
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#828
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 831
+D1
+~
+~
+0 0 830
+D3
+~
+~
+0 0 826
+M100 H100
+S
+#829
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 826
+M100 H100
+S
+#830
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 840
+D2
+~
+~
+0 0 899
+D3
+~
+~
+0 0 828
+M100 H100
+S
+#831
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 832
+D2
+~
+~
+0 0 828
+M100 H100
+S
+#832
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 833
+D2
+~
+~
+0 0 831
+M100 H100
+S
+#833
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 834
+M100 H100
+S
+#834
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 835
+D1
+~
+~
+0 0 833
+M100 H100
+S
+#835
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 836
+D2
+~
+~
+0 0 834
+M100 H100
+S
+#836
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 835
+D3
+~
+~
+0 0 837
+M100 H100
+S
+#837
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 836
+D3
+~
+~
+0 0 839
+M100 H100
+S
+#838
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 839
+D3
+~
+~
+0 0 836
+M100 H100
+S
+#839
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 836
+M100 H100
+S
+#840
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 841
+D3
+~
+~
+0 0 830
+M100 H100
+S
+#841
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 843
+D1
+~
+~
+0 0 844
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 842
+M100 H100
+S
+#842
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 842
+D1
+~
+~
+0 0 841
+M100 H100
+S
+#843
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises....Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D2
+~
+~
+0 0 841
+M100 H100
+S
+#844
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 845
+D3
+~
+~
+0 0 841
+M100 H100
+S
+#845
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 846
+D1
+~
+~
+0 0 847
+D3
+~
+~
+0 0 844
+M100 H100
+S
+#846
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 849
+D2
+~
+~
+0 0 845
+M100 H100
+S
+#847
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 847
+D2
+~
+~
+0 0 848
+D3
+~
+~
+0 0 845
+M100 H100
+S
+#848
+Fire Bush~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 2097160 0
+D0
+~
+~
+0 0 847
+M100 H100
+S
+#849
+Forest Cave~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 852
+D1
+~
+~
+0 0 851
+D2
+~
+~
+0 0 846
+D3
+~
+~
+0 0 850
+M100 H100
+S
+#850
+Bear Cave~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 849
+M100 H100
+S
+#851
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D3
+~
+~
+0 0 849
+M100 H100
+S
+#852
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D0
+~
+~
+0 0 853
+D2
+~
+~
+0 0 849
+M100 H100
+S
+#853
+Path Towards a Lake~
+You are on a damp path, you notice the lake to your north. You smell 
+something awful and begin to wonder what it is. You also feel as if the 
+trees are watching you. You think it might be a good idea to move on.
+~
+0 0 0
+D0
+~
+~
+0 0 854
+D2
+~
+~
+0 0 852
+M100 H100
+S
+#854
+Beach~
+The thing you weren't sure on is evident - the smell. As you make your
+way along the beach, the smell get worse. Before you lies a large Lake
+that encompasses the majority of the area. The is a small makeshift raft
+docked on the beach waiting to take you across to the small island.
+~
+0 0 0
+D1
+~
+~
+0 0 856
+D2
+~
+~
+0 0 853
+D3
+~
+~
+0 0 855
+M100 H100
+S
+#855
+Path Around The Lake~
+You notice the forest to the south, and a beautiful view of the 
+lake to the north, you notice the waves lap up onto the beach,
+there are many large rocks all around. This looks like a good
+place to take a rest.
+~
+0 65536 0
+D1
+~
+~
+0 0 854
+M100 H100
+S
+#856
+Path around the Lake~
+You stand in front of a large tree, you notice more of the hidious 
+forest to your south and to the north is a beautiful view of the
+lake. The large tree has a small hole in it, the hole resembles
+a door but you cant find a way in.
+~
+0 65536 0
+D1
+~
+~
+4 0 857
+D3
+~
+~
+0 0 854
+M100 H100
+S
+#857
+Inside a Tree~
+Allanon or any immortal entering this room this is for later
+use I will make small room house in here with several small mobs
+It is coded so that only hero's can enter for now as no mortal
+will acidently enter.
+~
+0 0 0
+D1
+~
+~
+0 0 858
+D3
+~
+~
+4 0 856
+M100 H100
+S
+#858
+Center of the Tree~
+~
+0 0 0
+D0
+~
+~
+0 0 859
+D3
+~
+~
+0 0 857
+M100 H100
+S
+#859
+Bedroom of ?~
+~
+0 512 0
+D2
+~
+~
+0 0 858
+M100 H100
+S
+#860
+Mountain Path~
+You are on a narrow winding path leading up into the snow capped mountains.
+You fear this trek may take some time, for each step you take tiny bits
+of rock crumble beneath your feet and tumble endlessly to the bottom of the
+mountain. The unsteady path seems to get more icy ahead and you can still
+make out the path at the bottom of the mountain.
+~
+0 4 0
+D1
+~
+~
+0 0 802
+D3
+~
+~
+0 0 861
+M100 H100
+S
+#861
+Mountain Path~
+Your journey is not getting easier as you make your way slowly to the
+peak. You continue to slip on the hard packed ice the high altitude's
+cold weather has produced from seemingly magic clouds that begin to enfold
+you. You see the safe refuse of a cave to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 860
+D3
+~
+~
+0 0 862
+M100 H100
+S
+#862
+Mountain Path~
+Your hands and feet go numb with rapidly dropping temperatures. Your
+breath is as visable as a dragons fire and feel yourself slowly slipping
+away into unconsciousness from the air. You think if you don't turn back
+now, a mis-step is evident!! Looking down affirms that you are very near
+the top; You best bet is to go west into the cave and leave the path north
+to a better experienced climber.
+~
+0 0 0
+D1
+~
+~
+0 0 861
+M100 H100
+S
+#863
+Hobbits Living Room~
+Numerous trinkets line the wall of this room; most of them trophies and
+memorabilia from adventures and experiences the Hobbit was a part of. A
+long table is off to the side leaving the room comfortable. You notice a
+comfy looking chair in the center.!
+~
+0 0 0
+D0
+~
+~
+0 0 864
+D1
+~
+~
+3 0 865
+D3
+~
+~
+4 801 802
+M100 H100
+S
+#864
+J.R.R. Tolkein Exhibit~
+Like other rooms, this one is beautifully furnished. A large portrait of 
+J.R.R. Tolkien and his family hangs on the East wall while to the South
+is a large bookshelf; title include, The entire Lord of the Ring series,
+The life and Story  of J.R.R. Tolkien, and 'The Quest.'
+~
+0 0 0
+D2
+~
+~
+0 0 863
+M100 H100
+S
+#865
+Kitchen~
+You have entered a messy kitchen it full of dirt 
+it looks like it not been used in years .
+Hobbit must cook and clean once a year!!!
+~
+0 32772 0
+D3
+~
+~
+3 0 863
+M100 H100
+S
+#866
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+~
+0 0 0
+D1
+~
+~
+0 0 867
+M100 H100
+S
+#867
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 868
+D1
+~
+~
+0 0 869
+D3
+~
+~
+0 0 866
+M100 H100
+S
+#868
+~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D2
+~
+~
+0 0 867
+M100 H100
+S
+#869
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D2
+~
+~
+0 0 870
+D3
+~
+~
+0 0 867
+M100 H100
+S
+#870
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 869
+D1
+~
+~
+0 0 871
+M100 H100
+S
+#871
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 872
+D3
+~
+~
+0 0 870
+M100 H100
+S
+#872
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 876
+D1
+~
+~
+0 0 873
+D2
+~
+~
+0 0 871
+M100 H100
+S
+#873
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D2
+~
+~
+0 0 874
+D3
+~
+~
+0 0 872
+M100 H100
+S
+#874
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 873
+D1
+~
+~
+0 0 875
+M100 H100
+S
+#875
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D3
+~
+~
+0 0 874
+M100 H100
+S
+#876
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D1
+~
+~
+0 0 879
+D2
+~
+~
+0 0 872
+D3
+~
+~
+0 0 877
+M100 H100
+S
+#877
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 878
+D1
+~
+~
+0 0 876
+M100 H100
+S
+#878
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D2
+~
+~
+0 0 877
+M100 H100
+S
+#879
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 884
+D1
+~
+~
+0 0 880
+D3
+~
+~
+0 0 876
+M100 H100
+S
+#880
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 881
+D2
+~
+~
+0 0 882
+D3
+~
+~
+0 0 879
+M100 H100
+S
+#881
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D1
+~
+~
+0 0 883
+D2
+~
+~
+0 0 880
+M100 H100
+S
+#882
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+0 0 880
+M100 H100
+S
+#883
+Cave~
+You have stumbled into a dark cave, you notice that there
+are yellow eyes watching you from the far end of the cave
+you feel it might be a good idea to run and hide, and hope
+that its not hungry.
+~
+0 1 0
+D3
+~
+~
+0 0 881
+M100 H100
+S
+#884
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. This area seems oddly 
+different.. Is that the glint of gold ahead?? You must be near!!
+~
+0 0 0
+D0
+~
+~
+3 0 885
+D2
+~
+~
+0 0 879
+M100 H100
+S
+#885
+Cave~
+You just walked through a magical wall, you are now in the chamber 
+of the pixie queen. The dirt has been swept against the wall to 
+allow one to walk, you notice that the cave like room branches
+off into three directions north, south, west.
+~
+0 0 0
+D0
+~
+~
+0 0 887
+D2
+~
+~
+3 0 884
+D3
+~
+~
+0 0 886
+M100 H100
+S
+#886
+Storage Room~
+You have entered the storage room, this room is devoted to
+the storage of food for the queen. There is numerous shelves
+with jars and cans. You notice a pixie lookout asleep in the 
+corner....
+.
+~
+0 0 0
+D1
+~
+~
+0 0 885
+M100 H100
+S
+#887
+Queen's Chamber~
+You have entered a nicely decorated chamber, it has silk and lots of 
+rugs. You notice that the pillows on the ground are for the pixies to
+worship there queen. You look up from the floor and notice a large
+throne made of gold, and sitting in the throne is the queen her
+self, she looks you over and calls for her guards.
+~
+0 0 0
+D2
+~
+~
+0 0 885
+M100 H100
+S
+#899
+Forest~
+You find your self in a think forest. From the distance you can hear
+unfamilar animal noises... Perhaps it would be wise to turn back?
+Tree tops obscure the suns unwelcome rays into the forest; you do how
+ever feel eyes peering at you from a distance. The lack of light in 
+this area confuses you - You think you are lost!!
+You are trapped sucker recall and try again!  HaHaHaHa!!!!!!!!!
+~
+0 4 0
+D0
+~
+~
+0 0 899
+D1
+~
+~
+0 0 899
+D2
+~
+~
+0 0 899
+D3
+~
+~
+0 0 899
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 800 spec_nasty Load to: hobbit is here relaxing in his chair.
+M 806 spec_breath_any Load to: pixie guard
+M 808 spec_nasty Load to: pixie scout
+S
+
+
+
+#RESETS
+D 0 802 1 2
+D 0 856 1 2
+D 0 857 3 2
+D 0 863 1 1
+D 0 863 3 2
+D 0 865 3 1
+D 0 884 0 1
+D 0 885 2 1
+O 0 803 0 802
+P 0 801 0 803 1
+M 0 802 5 807 1
+O 0 807 0 807
+P 0 806 0 807 1
+E 0 881 0 16
+M 0 806 1 814 1
+O 0 814 0 814
+G 0 885 0
+M 0 804 4 816 1
+E 0 882 0 16
+O 0 816 0 816
+P 0 812 0 816 1
+O 0 819 0 819
+M 0 809 4 839 1
+O 0 839 0 839
+P 0 835 0 839 1
+E 0 887 0 16
+M 0 805 2 848 1
+E 0 883 0 16
+O 0 848 0 848
+P 0 879 0 848 1
+M 0 810 1 850 1
+M 0 800 1 863 1
+O 0 870 0 864
+P 0 871 0 870 1
+O 0 875 0 875
+P 0 874 0 875 1
+M 0 808 4 875 1
+E 0 886 0 16
+M 0 807 4 878 1
+O 0 878 0 878
+P 0 877 0 878 1
+E 0 884 0 16
+M 0 813 1 883 1
+O 0 808 0 886
+M 0 811 1 886 1
+O 0 809 0 886
+M 0 812 1 887 1
+O 0 810 0 887
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

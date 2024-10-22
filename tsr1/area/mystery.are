@@ -1,0 +1,1848 @@
+#AREADATA
+Name        [       ] Resident Mystery~
+Builders    Raff~
+VNUMs       1000 1099
+Security    8
+End
+
+
+
+#MOBILES
+#1083
+pigeon~
+the homing pigeon~
+There is a homing pigeon perched here, but he doessn't look ready to serve you.
+~
+This homing pigeon used to be loyal to its master, and send messages 
+all over the world and beyond. But since his master has died, he has turned 
+to a life of drug dealing and trafficking, and his life has since gone down 
+the drain.
+~
+human~
+ABC JT 0 0 
+0 150 50 13d1166+5190 150d100+1000 6d25+75 0
+-50 -50 -50 -30
+FK AB 0 HI
+standing standing none 3000
+AHMVZ ABCDEFGHIJKP S unknown
+#1085
+Duck~
+the trained attack duck~
+There is a fierce looking duck here.
+~
+This is one mean duck. In sits in its pond, warding off all enemies that
+may come near  his prize algae. He looks dangerous, so dont be fooled by 
+that blunt looking beak.
+~
+human~
+ABF V 500 0 
+0 50 20 10d176+900 50d100+100 5d10+25 0
+-21 -21 -21 -5
+CD AB 0 I
+standing standing none 300
+AHMV ABCDEFGHIJK M unknown
+#1086
+Hairy Spider~
+a large spider~
+A large hairy spider is here.
+~
+You see a large spider deligently working on his web you feel that you
+should leave him be and carry on. 
+~
+human~
+AGQ KUV -500 0 
+0 50 20 10d176+900 50d100+100 5d10+25 0
+-21 -21 -21 -5
+CHK AB 0 HI
+standing standing none 100
+AHMPV ABCDEFGHIJKMV M unknown
+#1088
+trash moster~
+The trash monster~
+There's a moster here, and he seems to be made entirely out of garbage!
+~
+~
+human~
+ACG JZ -1000 0 
+0 0 45 13d1166+5190 150d100+1000 6d25+75 0
+-80 -80 -80 -30
+K AB 0 H
+standing standing none 100000
+AHMV ABCDEFGHIJKM M unknown
+#1093
+Merchant~
+Merchant~
+Merchant is here selling his wears.
+~
+You see a Merchant here ready to sell yah his wears.
+~
+human~
+AGS DFHK -1 0 
+0 150 100 100d100+1000 100d100+1000 100d100+1000 0
+-100 -100 -100 -100
+0 ABCD B I
+standing standing either 1000
+AHMV ABCDEFGHIJKQ M unknown
+#1096
+Ghost~
+Ghost~
+A large white floating ghost.
+~
+A large white ghost is here mocking you, he looks at you then he
+screams and runns away.
+~
+human~
+ACOS JKQU -500 0 
+0 50 25 50d10+4500 50d10+100 5d8+19 0
+-2 -2 -2 -2
+EGHS ABN 0 J
+standing standing either 60
+AEHMV ABCDEFGHIJK M unknown
+#1097
+Zombie~
+Zombie~
+Zombie is here muttering something.
+~
+A large zombie is here playing with his intestines, he notices you and gets
+a strange look in his eyes. He screams and attacks you AHHHHHHHHHH!
+~
+human~
+AFG DFJKQU -1000 0 
+0 60 30 11d221+1225 80d10+100 5d12+29 0
+-27 -27 -27 -27
+EFH AB N HI
+standing standing none 200
+AHIMV ABCDEFGHIJK M unknown
+#1098
+Fire Demon~
+Fire Demon~
+A Fire Demon is here looking after the fire in the fireplace.
+~
+A fire demon is here stoking the fire keeping it blazing bright and hot.
+He notices you but does not acknowledge you precense.
+~
+demon~
+ABGT DFIJTc 1000 0 
+0 148 15 200d40+10000 148d10+1000 30d20+50 0
+-13 -13 -13 -10
+CDEFHK ABH BHILT IN
+standing standing none 10000
+ACHMV ABCDEFGHIJKUW H unknown
+#1099
+Large Snake~
+large snake~
+A large snake sits here waiting for its next meal.
+~
+A Large Snake in here waiting for his next meal, he is looking at you with
+a strange look. You feel it would be prudent to leave.
+~
+human~
+AB HVa -1000 0 
+0 200 20 20d100+5000 190d900+300 10d20+90 0
+-100 -100 -100 -100
+ACDEFHJKMO LQ B HI
+standing standing none 500
+AHMVY ABCDEFGHIJKLQ L unknown
+#0
+
+
+
+#OBJECTS
+#1000
+Divine Power~
+divine power of the gods~
+A powerful ember glows violently here.~
+unknown~
+weapon A AN
+exotic 7 26 wrath ABD
+149 5 10000 P
+#1001
+scepter ~
+scepter of the gods~
+Scepter of the gods~
+unknown~
+light AG AO
+0 0 -1 0 0
+149 1 1000 P
+A
+3 -5
+A
+12 100
+A
+5 -10
+A
+18 20
+A
+19 20
+#1081
+pile~
+pile of gold and silver~
+A pile of gold and silver~
+unknown~
+money 0 A
+1000 900 0 0 0
+0 0 0 P
+#1082
+pigeon stone~
+pigeon stone~
+A small pigeon stone is here.~
+unknown~
+armor G AK
+-20 -20 -20 -10 0
+60 100 1000 P
+#1084
+water bottle machine~
+bottled water machine~
+Bottle water machine~
+unknown~
+drink B 0
+10000 10000 'water' 0 0
+0 0 0 P
+#1087
+garbage can helmet~
+the garbahe can helmet~
+There is a garbage can here. with eyes slits cut out of it.~
+unknown~
+armor 0 AE
+-100 -100 -100 -50 0
+90 4 1000 P
+#1088
+bottle water~
+bottled water machine~
+Bottled water machine~
+unknown~
+fountain B 0
+0 0 'water' 0 0
+0 1000 100000 P
+#1089
+orangish potion~
+orangish potion~
+Orangish potion is here.~
+unknown~
+potion G AO
+60 'create food' 'create spring' 'create food' ''
+0 0 1000 P
+#1090
+ghostly concoction~
+ghostly concoction~
+A ghostly concoction is here.~
+unknown~
+potion G AO
+60 'fly' 'sanctuary' 'pass door' ''
+0 0 1000 P
+#1091
+flaming shorts~
+flaming shorts~
+Pair of flaming shorts~
+unknown~
+container G AFO
+100000 0 0 10000 25
+100 5 1000 P
+#1092
+snake skin~
+a snake skin~
+A pile of snake skin has been left here.~
+unknown~
+armor MO ADO
+-50 -50 -50 -10 0
+100 0 10000 P
+A
+4 -5
+A
+2 -3
+A
+12 150
+#1094
+intestinal intestines intestine whip~
+the intestinal whip~
+There is a pile of mean looking intestines here, coiled up like a whip.~
+unknown~
+weapon 0 AN
+exotic 7 5 none A
+45 15 900 P
+A
+2 2
+A
+13 15
+#1095
+ghost ring~
+ghost ring~
+A ring is here but its not.~
+unknown~
+trash CEF ABO
+0 0 0 0 0
+30 1 100 P
+A
+12 -20
+A
+3 3
+A
+4 3
+A
+5 -3
+A
+5 3
+#1096
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1024
+Green Hallway~
+You are in the green hallway you see green wallpaper, green carpet and
+green curtains. To your east is the Nursery and to your west is yet another
+Hallway. And to your north you see the Tiger Room.
+~
+0 0 0
+D0
+~
+~
+0 0 1026
+D1
+~
+~
+0 0 1027
+D2
+~
+~
+0 0 1019
+D3
+~
+~
+0 0 1028
+M100 H100
+S
+#1026
+Tiger Room~
+You are in the Tiger Room its a room devoted to the heads of all diffrent
+animals killed. You see bear skin rugs and snake skin whips stuff like 
+that. Back to the south there is a strange (Green Glow).
+~
+0 0 0
+D2
+~
+~
+0 0 1024
+M100 H100
+S
+#1027
+Nursery~
+Its is quite obvious that this is the nursery. Back in the times when
+the family had small children this place was well used, it's now
+covered with dust. You see the shield room to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1024
+M100 H100
+S
+#1028
+Hallway Four~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 0 0
+D0
+~
+~
+0 0 1029
+D1
+~
+~
+0 0 1024
+D2
+~
+~
+1 0 1030
+M100 H100
+S
+#1029
+Armory~
+This is the armory, you see shelves of ammo. There is a small table
+in the centre of the room, on the table is various gun cleaning products
+used to keep the guns in the house well oiled and clean. The exits from 
+ here are only south.
+~
+0 0 0
+D2
+~
+~
+0 0 1028
+M100 H100
+S
+#1030
+Box Room Two~
+You are in the Box Room its a room devoted to unused crates and stuff 
+there are many different types of crates large ones and small ones.
+Back to you north is Hallway Four.
+~
+0 4 0
+D0
+~
+~
+1 0 1028
+M100 H100
+S
+#1031
+Upper Lobby~
+This is the upstairs lobby it is elegantly decorated with flowered
+wallpaper, table lamps sitting on well, tables. There is also plush
+carpeting all over the place giving it a downright cozy feel. The 
+great shame is the fact that there are zombies everywhere.
+~
+0 262144 0
+D1
+~
+~
+0 0 1034
+D2
+~
+~
+0 0 1032
+D3
+~
+~
+0 0 1047
+D5
+~
+~
+0 0 1000
+M100 H100
+S
+#1032
+Balcony Hallway~
+You are standing in a small hallway that leads to the main balcony, the 
+walls are done in a plain gold wallpaper. You see two glass doors that lead
+to the main balcony. You can journey forward on to the balcony or back to
+the upper lobby.
+~
+0 0 0
+D0
+~
+~
+0 0 1031
+D2
+~
+~
+1 0 1033
+M100 H100
+S
+#1033
+Balcony~
+You are on a grand balcony its got chairs for relaxing and a beautiful 
+view of the grounds, there is a large table to your left. You notice the
+only exit is back to the north.
+~
+0 262148 0
+D0
+~
+~
+1 0 1032
+M100 H100
+S
+#1034
+Hallway Five~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 262144 0
+D0
+~
+~
+0 0 1042
+D1
+~
+~
+0 0 1040
+D2
+~
+~
+0 0 1035
+D3
+~
+~
+0 0 1031
+M100 H100
+S
+#1035
+Marble Hallway~
+This marble hallway is beautiful with black and white tiles and another
+chandalier casting light of the gold wallpaper.
+~
+0 0 0
+D0
+~
+~
+0 0 1034
+D1
+~
+~
+0 0 1036
+M100 H100
+S
+#1036
+Small Hallway~
+This small hallway is elegantly decorated with gold coloured wallpaper
+there is light coming from the chandalier. The floor is covered in more 
+red plush carpet.
+~
+0 0 0
+D0
+~
+~
+0 0 1037
+D1
+~
+~
+0 0 1039
+D3
+~
+~
+0 0 1035
+M100 H100
+S
+#1037
+Small Dining Room~
+The small dining room is for two people to have a quiet meal, you see a
+small table with a setting for two. There is a small fire burning in the
+fireplace that casts a glow throughout the room.
+~
+0 0 0
+D2
+~
+~
+0 0 1036
+D3
+~
+~
+0 0 1038
+M100 H100
+S
+#1038
+Pantry Room~
+You are in the pantry it is a small room with the beautiful red carpet on t
+floor, you notice a small dumb waiter agianst the west wall. You feel that you
+are nosould not be in here its a good spot for an ambush. The exits are the way 
+you came in east.
+~
+0 0 0
+D1
+~
+~
+0 0 1037
+M100 H100
+S
+#1039
+Hallway Six~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 0 0
+D0
+~
+~
+0 0 1046
+D1
+~
+~
+0 0 1058
+D3
+~
+~
+0 0 1036
+D4
+~
+~
+0 0 1049
+M100 H100
+S
+#1040
+Armor Suit Room~
+This room is devoted to the storage and display of the old suits of
+suits of armor. You notice beautiful painting of men in there suit of
+armor on the wall between the suits. The only exit is west back to 
+the hallway.
+~
+0 0 0
+D3
+~
+~
+0 0 1034
+M100 H100
+S
+#1041
+Library~
+Book fill the massive shelves as the knowledge of the former owners
+resides in this room. You humble yourself as the shere splender of the
+books invade your mind. Your only exit from this room is back east the
+way you came in.
+~
+0 0 0
+D1
+~
+~
+0 0 1042
+M100 H100
+S
+#1042
+Upper Stair Hallway~
+This section of hall is pretty much like the rest, decorated in the
+usual mansion fashion. There are stairs leading down and exits in all
+directions.
+~
+0 0 0
+D0
+~
+~
+0 0 1043
+D1
+~
+~
+0 0 1046
+D2
+~
+~
+0 0 1034
+D3
+~
+~
+0 0 1041
+D5
+~
+~
+0 0 1009
+M100 H100
+S
+#1043
+Bedroom Hallway~
+This is the bedroom hallway, to your east is a small study, and to you west
+the upstairs bedroom. You see to the south Stairs Hallway.
+~
+0 0 0
+D1
+~
+~
+1 0 1045
+D2
+~
+~
+0 0 1042
+D3
+~
+~
+1 0 1044
+M100 H100
+S
+#1044
+Upstairs Bedroom~
+You have entered the upstairs bedroom, where the guest of the owners of 
+the house once slept. The high ceiling and chandelier show how the owners 
+thought of there guests. You only see the two exits one to the south and
+back to the hallway east.
+~
+0 0 0
+D1
+~
+~
+1 0 1043
+D2
+~
+~
+0 0 1070
+M100 H100
+S
+#1045
+The Study~
+You have entered a small study, it was most likely used by the owners
+to read in before the turned in for bed. There is a roaring fire in the
+fireplace and to lovely arm chairs with persian rug under them. 
+~
+0 0 0
+D3
+~
+~
+1 0 1043
+M100 H100
+S
+#1046
+FirePlace Room~
+You have entered the room named for the large fireplace which is against
+the east wall. There is more of that red plush carpet. The only light in
+the room is from the fire itself. There are 2 small arm chairs in a half
+circle pattern around the fireplace. The only visable exit are south and
+west back into the hallway.
+~
+0 0 0
+D2
+~
+~
+0 0 1039
+D3
+~
+~
+0 0 1042
+M100 H100
+S
+#1047
+Upper Main Dining Room~
+You have entered a room with a spenderous view of the main dining room
+below, there is more of the red plush carpet as well as beautiful oak railing.
+The light in the room is from the grand chandelier. The visable exits are
+north and east.
+~
+0 0 0
+D0
+~
+~
+0 0 1048
+D1
+~
+~
+0 0 1031
+M100 H100
+S
+#1048
+Hallway Seven~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 0 0
+D0
+~
+~
+0 0 1060
+D2
+~
+~
+0 0 1047
+D3
+~
+~
+2 0 1054
+M100 H100
+S
+#1049
+Attic~
+~
+0 262144 0
+D5
+~
+~
+0 0 1039
+M100 H100
+S
+#1050
+Secret Bookcase Entrance~
+You seem to have stumbled upon a secret passage behind the bookshelves!
+It's very dark, but not to dark that you cant see. This passage looks like
+it has not been used for years. Or maybe its not used because there was 
+something in here that detterred them from entering.
+~
+0 65544 0
+D0
+~
+~
+0 0 1051
+D1
+~
+~
+2 0 1021
+D4
+~
+~
+0 0 1054
+M100 H100
+S
+#1051
+Lower Secret Stairs~
+You seem to have stumbled across quite a beutiful staircase indeed. The
+room is circular the stairs go up and down, you feel a cold draft blowing
+up from the cellar.
+~
+0 263176 0
+D1
+~
+~
+0 0 1052
+D2
+~
+~
+0 0 1050
+D4
+~
+~
+0 0 1056
+D5
+~
+~
+0 0 1062
+M100 H100
+S
+#1052
+Hidden Plank~
+This section of the secret passage is slightly different that the rest.
+There is a huge chain on the south wall. The stone floor is clean and looks
+like its not been walked on ever. The passage continues east and west.
+~
+0 262144 0
+D1
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1051
+M100 H100
+S
+#1053
+Secret Hallway One~
+This part of the secret passage is exactly like the rest, as it is clean
+and tidy, with nothing on the smooth stone floor. However there does seem
+to be a small point of light coming from a hole in the south wall.
+~
+0 8 0
+D2
+~
+~
+1 0 1005
+D3
+~
+~
+0 0 1052
+M100 H100
+S
+#1054
+Secret Entrance~
+You seen to have stumbled upon a secret passage behind the painting.
+Its very dark , but not as dark as the rest of the house. This passage
+continues north and down.
+~
+0 0 0
+D0
+~
+~
+0 0 1055
+D1
+~
+~
+2 0 1048
+D5
+~
+~
+0 0 1050
+M100 H100
+S
+#1055
+Secret Fireplace Entrance~
+This part of the secret passage looks exactly like the rest, to the
+east is a beautiful fireplace. You see that the passage continues north 
+and south.
+~
+0 4 0
+D0
+~
+~
+0 0 1056
+D1
+~
+~
+1 0 1059
+D2
+~
+~
+0 0 1054
+M100 H100
+S
+#1056
+Upper Secret Stairway~
+You seem to have stumbled across a beautiful staircase indeed. The
+room is circular the stairs go down. You notice that the passage continues
+east.
+~
+0 262144 0
+D1
+~
+~
+0 0 1057
+D2
+~
+~
+0 0 1055
+D5
+~
+~
+0 0 1051
+M100 H100
+S
+#1057
+Secret Hallway One~
+This part of the secret passage is exactly like the rest, as it is clean
+and tidy, with nothing on the smooth stone floor. However there does seem
+to be a small point of light coming from a hole in the south wall.
+~
+0 0 0
+D2
+~
+~
+1 0 1058
+D3
+~
+~
+0 0 1056
+M100 H100
+S
+#1058
+Upper East Patio~
+The east patio old but beautifully constructed, there is a small patio
+swing to your south, also there is a large crack with a pin point of light
+against the north wall. The only light comes from the small lantern hanging 
+from the ceiling. The only exits are east back into the hallway.
+~
+0 0 0
+D0
+~
+~
+1 0 1057
+D3
+~
+~
+0 0 1039
+M100 H100
+S
+#1059
+Master Bedroom~
+You have entered the master bedroom, where the great owners of this 
+house once slept. The high ceiling and chandelier show how rich these 
+people must have been. The canopy bed shows how elegant thier taste must
+have been, and the general size of the room shows how greedy these people 
+must of been. There is a roaring fire in the fireplace to the west.
+The only exits from the room are east back into the hallway.
+~
+0 0 0
+D1
+~
+~
+1 0 1060
+D3
+~
+~
+1 0 1055
+M100 H100
+S
+#1060
+Bed Chamber Hallway~
+This is the bedchamber hallway, to your west is the master bedroom,
+and to the east is the master bathroom. There is a small portrait of 
+the family that must of once lived here.
+~
+0 0 0
+D1
+~
+~
+1 0 1061
+D2
+~
+~
+0 0 1048
+D3
+~
+~
+1 0 1059
+M100 H100
+S
+#1061
+Master Bathroom~
+This bathroom is in good shape as the kitchen downstairs. It is
+nicely decorated with blue tiles and orange curtains. The sink and
+bathtub are both clean and shiney with gold fixtures. The toilet looks to
+be in working order still. The only exit is west out into the hallway.
+~
+0 0 0
+D3
+~
+~
+1 0 1060
+M100 H100
+S
+#1062
+The Cellar Passage~
+This is the beginning of the secret passage in the cellar. It is much
+cooler down here, under the ground, but the passage walls aren't quite as
+nice and smooth as they were upstairs. Down here, they're cracked forcing
+pieces to fall off. The passage continues south from here, or up the ladder.
+~
+0 262144 0
+D2
+~
+~
+0 0 1063
+D4
+~
+~
+0 0 1051
+M100 H100
+S
+#1063
+Cellar Passage~
+The cellar passage continues here, dark and cool as it was before. The
+walls aren't in great condition and broken water pipe has forced a small
+stream to form, running south down the passage. The passage continues north
+and south.
+~
+0 8 0
+D0
+~
+~
+0 0 1062
+D1
+~
+~
+2 0 1068
+D2
+~
+~
+0 0 1064
+M100 H100
+S
+#1064
+The End of the Passage~
+You are now at the end of the cellar passage. There doesn't seem to be
+an exits, just a few cracks in the wall, and a small vent at the bottom of
+the east wall. The only obvious exits is back north down the passage.
+~
+0 262144 0
+D0
+~
+~
+0 0 1063
+D1
+~
+~
+1 0 1065
+M100 H100
+S
+#1065
+The Murky Hole~
+You seem to have stumbled upon a slippery hole, with a nice puddle of
+rainwater at the bottom. Stumbling around, you realize this must be a
+lair of some sort, the bones lying around in the stinking filth, small s
+shelves carved out of the rock face, housing bottles of blood and something
+that may have once been water. Looking up to try to find an escape is 
+hopeless. It seems you must have stumbled into something you cant quite 
+get out of.
+~
+0 262148 0
+D3
+~
+~
+1 0 1064
+M100 H100
+S
+#1066
+Kitchen~
+This is the grand kitchen of the mansion you are in. Gleaming white
+counters shine bright in the light. The linoleum is a basic white,
+and the kitchen table is made of oak. There is a fridge in the corner,
+who knows what could be inside. On the counter near the north wall of
+the kitchen, beside this is the stove. The exits are east back to the
+hall of painting and down into the basement.
+~
+0 0 0
+D0
+~
+~
+1 0 1011
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1016
+D5
+~
+~
+1 0 1067
+M100 H100
+S
+#1067
+The Basement~
+You have now entered the basement, underneath the kitchen. The musty smell
+of years hangs in your nostrils as you explore each small nook and cranny.
+It seems that this place is visited frequently, as there is foot prints
+all over the place. The exits are back up to the kitchen, east to the
+laundry room, or north to the storage room.
+~
+0 262144 0
+D0
+~
+~
+0 0 1068
+D1
+~
+~
+0 0 1069
+D4
+~
+~
+1 0 1066
+M100 H100
+S
+#1068
+The Storage Room~
+This is the storage room in the basement of the house. Cardboard boxes and
+shelves full of junk border the walls On the north wall, there is a wine
+rack that for some reason is empty. There are still a few bottles left,
+but seem to be chained to the rack, as they weren't suppost to be taken.
+The exits from this room is south .
+~
+0 8 1
+D2
+~
+~
+0 0 1067
+D3
+~
+~
+2 0 1063
+M100 H100
+S
+#1069
+The Laundry Room~
+This is the laundry room that the servents used to wash all the elegant
+clothes that this family wore.  The dryer is in one corner and there us a
+sink in the other, with a washing machine beside it.  The only exit from
+this room are west.  
+done
+~
+0 0 0
+D3
+~
+~
+0 0 1067
+M100 H100
+S
+#1070
+Guest Bathroom~
+This bathroom is all done in royal blue, you notice a large bathtub
+with glass doors, as well as toilet and sink. You notice that everything
+is beautiful, as if they were expecting someone to stay over. But as 
+there is no one around now it seems quiet. The onlt exit is back into the
+guest bedroom.
+~
+0 4 0
+D0
+~
+~
+0 0 1044
+M100 H100
+S
+#1071
+The Gravel Path~
+Now off the patio you are walking along the gravel path outside the
+house. Not much can be seen out here, as all the flora has been swept away
+by the wind and rain, and all the fauna is dead and wont grow anymore
+This path continues north and south as well as east.
+~
+0 4 0
+D0
+~
+~
+0 0 1072
+D1
+~
+~
+0 0 1073
+D2
+~
+~
+0 0 1011
+M100 H100
+S
+#1072
+Gravel Path~
+The path makes an abrupt stop, you see a large wall with a lovely rose
+bush against it, the bush looks a little out of place. The only way out
+of here is south.
+~
+0 0 0
+D0
+The bush looks out of place, the ground is distrubed and looks 
+like something has been opened maybe you can find away to open
+it up.
+~
+bush~
+0 0 3613
+D2
+~
+~
+0 0 1071
+M100 H100
+S
+#1073
+Gravel Path~
+The path takes a turn to the south here, where you can see a pond in the
+distance. All around you is lovely flowers and large trees, you wonder what 
+is making the noise in the pond to the south. The only way to find out is 
+to venture south and see what there is to see.
+~
+0 0 0
+D2
+~
+~
+0 0 1074
+D3
+~
+~
+0 0 1071
+M100 H100
+S
+#1074
+Beside the Pond~
+You are now standing beside the pond, and everything is clear view.
+It seems that the ducks aren't very normal at a closer glance. They seem to
+have set up their own little army base around the pond. Sticks and branches
+form fences around the pond, and in uniform patrol the grounds. There
+aren't much of the grounds though, you can see the whole pond right in front
+of you. It's very difficult to keep in your laugh while you look upon these
+goofy looking birds.
+~
+0 4 0
+D0
+~
+~
+0 0 1073
+M100 H100
+S
+#1075
+The Front Steps~
+Now on the threshold to the entrance of the actual house, you realize
+what grandoise place it really is. Beautifully decorated stain glass window,
+oak doors and a gold door knocker. Its really a shame that its now so
+dirty and run down, this could be an amazing warm comfortable place to live.
+You can go back to the estate grounds south or there is a door to the north.
+~
+0 0 0
+D0
+~
+~
+1 0 1000
+D2
+~
+~
+0 0 1076
+M100 H100
+S
+#1076
+The Estate Grounds~
+You are now in the grounds of the old estate. The bushes and trees
+severly overgrown and untended, the storms haven't done much for them either.
+You wonder exactly what type of creaters might be lurking in the shadows.
+You can go east down the gravel road, west to more of the eastate grounds or
+north to the front steps. You could even go back south through the gates.
+Forward is the way of the brave, backward is the way of the cowardly.
+~
+0 0 0
+D0
+~
+~
+0 0 1075
+D1
+~
+~
+0 0 1077
+D3
+~
+~
+0 0 1078
+M100 H100
+S
+#1077
+The Estate Grounds~
+The grounds have continued to decay over the years, this corner especially.
+It seems that there is nothing left, just the green grass covering the ground.
+But if you look closely, its seems the ground has been raked. There's also
+a gravel road leading north into the garage.
+~
+0 0 0
+D0
+~
+~
+1 0 1080
+D3
+~
+~
+0 0 1076
+M100 H100
+S
+#1078
+The Estate Grounds~
+The west portion of the grounds looks just about as happy as the centre.
+Everything is green and beautiful and generally green. There is one single
+daisy  in among the beauty. Who knows what kind of people live here in this
+house. Without giving it another thought, you decide to either head north
+into the garden shed or back east to the centre of the grounds.
+~
+0 0 0
+D0
+~
+~
+1 0 1079
+D1
+~
+~
+0 0 1076
+M100 H100
+S
+#1079
+Old Garden Shed~
+The door almost falls on you as you walk through it, as will the rest of
+the shed soon it seems. The four walls of the shed are covered with shelves
+that have a bit to much on them for their own good, including plant pots,
+various seeds packets and an assortment of other gardening accesories. There
+is nothing much else in this room but a bunch of garden tools. The exit
+is the way you came in.
+~
+0 0 0
+D2
+~
+~
+1 0 1078
+M100 H100
+S
+#1080
+The Garage~
+The garage dosen't look much different from the the shed on the opposite
+side of the estate, just clutered up. There's nothing of intrest in here,
+just rats and spiders. The exits are south back to the estate grounds.
+~
+0 1024 0
+D2
+~
+~
+1 0 1077
+M100 H100
+S
+#1000
+Lower Lobby~
+You are now standing in the lower lobby of the Mystery Residence. There
+is not much here besides a table with a mirror above. The floor is covered
+in red carpet. The exits are west into the main dining room, east to the
+statue room, north to the dressing room or up the stairs. As you look up 
+the stair you see a beautiful chandalier.
+~
+0 262144 0
+D0
+~
+~
+0 0 1015
+D1
+~
+~
+1 0 1001
+D2
+~
+~
+1 0 1075
+D3
+~
+~
+1 0 1018
+D4
+~
+~
+0 0 1031
+M100 H100
+S
+#1001
+Statue Room~
+You see several large statues of famous people, back to the east you see
+lower lobby and to you west you see hound of hell hallway. The hairs 
+stand up on the back of your neck as you sence a presence in the room.
+There is a strange (Red Glow) from the north.
+~
+0 4 0
+D0
+~
+~
+0 0 1002
+D1
+~
+~
+0 0 1003
+D3
+~
+~
+1 0 1000
+M100 H100
+S
+#1002
+The Red Room~
+You are in the famous red room it purpose you dont really know, you notice
+everything is red, red drapes and red carpet. There is a light radiating from
+a red light in the fixture on the wall. The only exits are back the way you
+came in.
+~
+0 264192 0
+D2
+~
+~
+0 0 1001
+M100 H100
+S
+#1003
+Hounds of Hell Hall~
+This room is full of statues of the hounds of hell, you feel as if the 
+statues are looking at you the eyes dig right into your soul. You should 
+not stay long in case they are real. To the north is Hallway One.
+~
+0 262144 0
+D0
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 1001
+M100 H100
+S
+#1004
+Hallway One~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 0 0
+D0
+~
+~
+0 0 1006
+D1
+~
+~
+0 0 1005
+D2
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 1009
+D4
+~
+~
+1 0 1008
+M100 H100
+S
+#1005
+East Patio~
+You are on the lower east patio, you notice a small patio swing to your
+right. You notice that there is a old man on the swing he is here and then 
+agian he isn't. The nly visable exit is west back into the hallway.
+~
+0 0 0
+D0
+~
+~
+1 0 1053
+D3
+~
+~
+0 0 1004
+M100 H100
+S
+#1006
+Bathroom~
+You are in the guest bathroom its a lavish bathroom with gold tap fixtures
+and soft toilet seat. You see beautiful blue and white towels hanging on the 
+east wall. You feel like maybe you have to go.
+~
+0 0 0
+D2
+~
+~
+0 0 1004
+M100 H100
+S
+#1007
+Grampa's Secret Hiding Place~
+You are in Grampa's private chamber he stored his liquor and his cash from 
+his wife. The place looks like its not been used in years there is a pile of
+gold and silver in the center of of the room, it look ripe for your taking!
+~
+0 0 0
+D4
+~
+~
+0 0 1004
+M100 H100
+S
+#1008
+Ceiling Room~
+You are in a secret compartment above Hallway One. You see an exit to the
+south. You feel like you need to go in and have a look.
+~
+0 262144 0
+D2
+~
+~
+0 0 1007
+D5
+~
+~
+1 0 1004
+M100 H100
+S
+#1009
+Hallway Two~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 8 0
+D0
+~
+~
+2 0 1012
+D1
+~
+~
+0 0 1004
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+1 0 1011
+D4
+~
+~
+0 0 1042
+M100 H100
+S
+#1010
+Hall Of Paintings~
+You are in the famous and well viewed hall of paintings. You see such
+paintings as the Mona Lisa, Lady & The Clam Shell. You feel that maybe
+putting one of these under your shirt and leaving would make you rich.
+~
+0 0 0
+D0
+~
+~
+0 0 1009
+D3
+~
+~
+0 0 1066
+M100 H100
+S
+#1011
+Patio~
+After being in the house for a while, it's certainly nice to get outside.
+A few plants pots with beautiful flowers in them are at you feet, off to
+your right you see some chairs that used for relaxing in the sun. The rear 
+exit is made from nice hard wood, it reminds you of a patio. The exits 
+are back to hallway two or west onto the back lawn.
+~
+0 262145 0
+D0
+~
+~
+0 0 1071
+D1
+~
+~
+1 0 1009
+D2
+~
+~
+1 0 1066
+M100 H100
+S
+#1012
+The Quiet Room~
+You are in a small room. There is a small bottled water machine against
+the west wall. You feel like this would be a safe place to rest.
+~
+0 1540 0
+D2
+~
+~
+2 0 1009
+M200 H200
+S
+#1013
+~
+~
+0 4 0
+M100 H100
+S
+#1015
+Dressing Room~
+This is a large room with a round sofa in the middle its more of living
+room then a dressing room but its design is for removing you outer wear
+and giving it to the lovely maids. Off to your north you see narrow hallway
+most likely leading to the coat room.
+~
+0 0 0
+D0
+~
+~
+0 0 1016
+D2
+~
+~
+0 0 1000
+M100 H100
+S
+#1016
+Narrow Hallway~
+You are in a narrow hallway you see more of the beautiful red carpet, you
+notice a nice aroma coming from the north, the light fixture on the wall 
+catches your eye and lights the room. You can continue north into the kitchen 
+or go back to the dressing room.
+~
+0 8 0
+D0
+~
+~
+0 0 1066
+D2
+~
+~
+0 0 1015
+M100 H100
+S
+#1018
+Main Dining Room~
+You are in the main dining room. You see a large table that can seat
+forty easy, each place is set and it looks like a large feast is
+is about to servered. You see a balcony above its looks down on 
+the dining room. To your north you see Hallway Three.
+~
+0 0 0
+D0
+~
+~
+0 0 1019
+D1
+~
+~
+1 0 1000
+M100 H100
+S
+#1019
+Hallway Three~
+You have entered yet another long hallway, there is more of the plush
+carpet. The only light in the room is from the chandelier hanging from
+the ceiling. The visable exits lead in all directions 'n s e w'.
+~
+0 0 0
+D0
+~
+~
+0 0 1024
+D1
+~
+~
+1 0 1020
+D2
+~
+~
+0 0 1018
+D3
+~
+~
+0 0 1021
+M100 H100
+S
+#1020
+Broom Closet~
+You are in the broom closet. You see various cleaning stuff in here 
+such as vacuum, broom, dust rags ect. You feel this would be a good
+place to rest a while.
+~
+0 263168 0
+D3
+~
+~
+1 0 1019
+M100 H100
+S
+#1021
+Corner Nook~
+You see a large grand bookshelf on the west wall it is covered with books,
+some dating back hundreds of years or more. The only exits are the way you 
+came in east back into the hallway.
+~
+0 0 0
+D1
+~
+~
+0 0 1019
+D3
+~
+~
+2 0 1050
+M100 H100
+S
+#1022
+Piano Bar~
+You have entered the private piano/bar of the owners of house. There is
+a baby grand piano in the centre of the room, against the west wall is a 
+large pool table, to the east you see a bar there is a strange mirror that
+moves around behind the bar. The only exits are north back to the armory or
+south back into the hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1019
+M100 H100
+S
+#1023
+Shield Room~
+This room is lovely, the floor is marble with large armwa in the middle.
+There are glass display cases against the walls, in the cases are old shields
+some dating back before time, according to the dates on the cases. You hear
+music from the south it sounds like piano. The exits are west back into the 
+nursery, or south into the music room.
+~
+0 0 0
+D2
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 1027
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 1096 spec_fido Load to: Ghost
+M 1097 spec_guard Load to: Zombie
+M 1098 spec_breath_fire Load to: Fire Demon
+M 1099 spec_breath_any Load to: large snake
+S
+
+
+
+#RESETS
+D 0 1028 2 2
+D 0 1030 0 2
+D 0 1032 2 1
+D 0 1033 0 1
+D 0 1043 1 1
+D 0 1043 3 1
+D 0 1044 1 1
+D 0 1045 3 1
+D 0 1048 3 2
+D 0 1050 1 2
+D 0 1053 2 1
+D 0 1054 1 2
+D 0 1055 1 1
+D 0 1057 2 1
+D 0 1058 0 1
+D 0 1059 1 1
+D 0 1059 3 1
+D 0 1060 1 1
+D 0 1060 3 1
+D 0 1061 3 1
+D 0 1063 1 2
+D 0 1064 1 1
+D 0 1065 3 1
+D 0 1066 0 1
+D 0 1066 5 1
+D 0 1067 4 1
+D 0 1068 3 2
+D 0 1075 0 1
+D 0 1077 0 1
+D 0 1078 0 1
+D 0 1079 2 1
+D 0 1080 2 1
+D 0 1000 1 1
+D 0 1000 2 1
+D 0 1000 3 1
+D 0 1001 3 1
+D 0 1004 4 1
+D 0 1005 0 1
+D 0 1008 5 1
+D 0 1009 0 2
+D 0 1009 3 1
+D 0 1011 1 1
+D 0 1011 2 1
+D 0 1012 2 2
+D 0 1018 1 1
+D 0 1019 1 2
+D 0 1020 3 2
+D 0 1021 3 2
+M 0 1097 8 1031 1
+E 0 1094 0 16
+M 0 1083 1 1033 1
+E 0 1082 0 12
+M 0 1098 1 1046 1
+E 0 1091 0 7
+M 0 1099 1 1049 1
+E 0 1092 0 5
+E 0 1000 0 16
+E 0 1001 0 17
+M 0 1096 8 1062 1
+E 0 1095 0 1
+M 0 1088 1 1065 1
+E 0 1087 0 6
+M 0 1085 6 1074 1
+M 0 1086 6 1079 1
+M 0 1093 1 1005 1
+G 0 1090 0
+O 0 1081 0 1007
+O 0 1084 0 1012
+S
+
+
+
+#SHOPS
+1093 9 10 5 33 15 100 100 0 24
+0
+
+
+
+#$

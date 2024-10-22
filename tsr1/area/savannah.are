@@ -1,0 +1,1978 @@
+#AREADATA
+Name        [ 10 20 ] The Serene Savannah~
+Builders    Terram~
+VNUMs       13100 13199
+Security    1
+End
+
+
+
+#MOBILES
+#13100
+gazelle~
+a gazelle~
+A gazelle looks about alertly.
+~
+Between occasional nips at the grass, the skittish gazelle watches
+endless savannah.  It is a beutiful creature with light tan fading into
+white and two dark brown horns.  
+~
+rabbit~
+AGHW b 100 0 
+0 12 0 4d25+124 12d10+100 3d4+6 0
+2 2 2 6
+FH R CE F
+standing standing male 0
+AGV ACDEFHJK M unknown
+#13101
+cheetah~
+a cheetah~
+A cheetah rests between meals.
+~
+A large cat is draped over a tree limb.  Its coat is a yellow moddled
+with brown spots.  It is a cheetah one of the fastest creatures in the
+world.  
+~
+cat~
+ACG FVWZ 0 0 
+0 19 1 6d41+227 19d10+100 4d5+10 0
+-1 -1 -1 -4
+FGHN 0 C 0
+resting standing male 0
+AGV ACDEFHJKQUV M unknown
+#13102
+lioness~
+a lioness~
+A lioness lounges contentedly in the waving grass.
+~
+A sleek and powerful lioness rests in the grass.  Her tan hide twitches
+as she brushes off flyes.  Although she seems content, you notice her
+watching you with interest.  
+~
+cat~
+AGW FZ 750 0 
+0 17 5 6d33+195 17d10+100 4d4+8 0
+0 0 0 5
+CFHR 0 CL 0
+standing standing female 1000
+AGV ACDEFHJKQUV M unknown
+#13103
+lion~
+a lion~
+A large lion sleeps in the hot savannah sun.
+~
+A large tan lion shakes his vast mane and settles back to sleep. 
+Occasionally a soft rumble can be heard.  His tail switches over his side
+swatting away insects.  
+~
+cat~
+ACG RZ 800 0 
+0 16 0 5d35+180 16d10+100 3d5+9 0
+-1 1 -1 6
+CFHLR 0 CI 0
+standing standing male 10000
+AGV ACDEFHJKQUV M unknown
+#13104
+cub lion~
+a lion cub~
+A playful cub is playing in the long grass.
+~
+A small lion cub sleeps blissfully in the sun.  His coat is a soft golden
+color.  Its eyes crack open, and a bit of sky blue peeks at you before
+closing sleepfully.  
+~
+cat~
+AB AYZ 400 0 
+0 14 0 5d27+151 14d10+100 3d5+7 0
+1 1 1 5
+FH 0 C I
+sleeping standing female 100
+AGV ACDEFHJKQUV S unknown
+#0
+
+
+
+#OBJECTS
+#13100
+antlers gazelle~
+a pair of antlers~
+A fine set of gazelle antlers.~
+unknown~
+pill 0 AE
+15 'sleep' 'cure poison' 'cure disease' ''
+12 5 300 P
+A
+12 -10
+A
+2 1
+#13101
+paws cheetah~
+paws of a cheetah~
+A set of sandals has been made from the paws of a cheetah.~
+unknown~
+armor 0 AG
+15 10 10 15 0
+19 3 400 P
+A
+1 -1
+A
+14 20
+A
+2 1
+#13102
+heart lion~
+a dripping heart~
+Someone has ripped the heart from a mighty lion.~
+unknown~
+pill 0 A
+20 'adrenaline control' 'enhanced strength' 'combat mind' ''
+17 1 500 P
+A
+12 -30
+A
+1 5
+#13103
+mane lion~
+a lion's mane~
+A subdued tawny lion's mane forms a comfortable collar.~
+unknown~
+armor K AC
+12 8 13 7 0
+16 5 400 P
+A
+18 -1
+A
+1 2
+#13104
+pelt cub~
+a bright yellow pelt~
+A very soft pelt from a lion cub.~
+unknown~
+clothing 0 A
+0 0 0 0 0
+14 1 1000 P
+#13105
+hide zebra~
+a zebra hide~
+A black and white striped hide was very poorly tanned.~
+unknown~
+wand 0 AO
+20 10 4 'invisibility' 0
+17 20 200 A
+#0
+
+
+
+#ROOMS
+#13100
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13175
+D1
+~
+~
+0 0 13101
+D2
+~
+~
+0 0 13112
+D3
+~
+~
+0 0 13107
+M100 H100
+S
+#13101
+Tree~
+This large knarled tree arches high over your head.  The bark has been
+roughened by heat and the wind.  The branches hang almost to the ground
+covered in thick folliage that provides welcome shade from the scorching
+savannah sun.  As you scan around you notice that the ground becomes a
+little hillier to the north.  
+~
+0 1024 3
+D0
+A well worn path winds its way among some low hills.  
+~
+~
+0 0 13111
+D1
+~
+~
+0 0 13102
+D2
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13100
+D4
+Your vision is obscured by the broad spreading branches of the tree.  
+~
+branches~
+0 0 13110
+M100 H100
+S
+#13102
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13177
+D1
+~
+~
+0 0 13103
+D2
+~
+~
+0 0 13114
+D3
+~
+~
+0 0 13101
+M0 H0
+S
+#13103
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13178
+D1
+~
+~
+0 0 13104
+D2
+~
+~
+0 0 13115
+D3
+~
+~
+0 0 13102
+M0 H0
+S
+#13104
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13179
+D1
+~
+~
+0 0 13105
+D2
+~
+~
+0 0 13116
+D3
+~
+~
+0 0 13103
+M0 H0
+S
+#13105
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13180
+D1
+~
+~
+0 0 13106
+D2
+~
+~
+0 0 13117
+D3
+~
+~
+0 0 13104
+M0 H0
+S
+#13106
+Tree~
+~
+0 0 3
+D0
+~
+~
+0 0 13181
+D1
+~
+~
+0 0 13107
+D2
+~
+~
+0 0 13118
+D3
+~
+~
+0 0 13105
+D4
+~
+~
+0 0 13108
+M0 H0
+S
+#13107
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13182
+D1
+~
+~
+0 0 13100
+D2
+~
+~
+0 0 13119
+D3
+~
+~
+0 0 13106
+M0 H0
+S
+#13108
+Tree~
+~
+0 0 0
+D4
+~
+~
+0 0 13109
+D5
+~
+~
+0 0 13106
+M0 H0
+S
+#13109
+Sky~
+~
+0 0 9
+D2
+~
+~
+0 0 13139
+D3
+~
+~
+0 0 13120
+D5
+~
+~
+0 0 13108
+M0 H0
+S
+#13110
+Sky~
+~
+0 0 9
+D1
+~
+~
+0 0 13121
+D2
+~
+~
+0 0 13130
+D5
+~
+~
+0 0 13101
+M0 H0
+S
+#13111
+Trail~
+You follow the broad path between the rolling hills.  The dust rises in
+the wind.  The sun gives off a bright light that bleaches the colors around
+you.  All seems dull, plain, quiet, excpet the wind rustling through the
+long grass.  
+~
+0 0 4
+D2
+The path disappears under the shade of a solitary tree.  
+~
+~
+0 0 13101
+D3
+~
+~
+0 0 463
+M100 H100
+S
+#13112
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13100
+D1
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13119
+M0 H0
+S
+#13113
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13101
+D1
+~
+~
+0 0 13114
+D2
+~
+~
+0 0 13123
+D3
+~
+~
+0 0 13112
+M0 H0
+S
+#13114
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13102
+D1
+~
+~
+0 0 13115
+D2
+~
+~
+0 0 13124
+D3
+~
+~
+0 0 13113
+D4
+~
+~
+0 0 13121
+M0 H0
+S
+#13115
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13103
+D1
+~
+~
+0 0 13116
+D2
+~
+~
+0 0 13125
+D3
+~
+~
+0 0 13114
+M0 H0
+S
+#13116
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13104
+D1
+~
+~
+0 0 13117
+D2
+~
+~
+0 0 13126
+D3
+~
+~
+0 0 13115
+M0 H0
+S
+#13117
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13105
+D1
+~
+~
+0 0 13118
+D2
+~
+~
+0 0 13127
+D3
+~
+~
+0 0 13116
+D4
+~
+~
+0 0 13120
+M0 H0
+S
+#13118
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13106
+D1
+~
+~
+0 0 13119
+D2
+~
+~
+0 0 13128
+D3
+~
+~
+0 0 13117
+M0 H0
+S
+#13119
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13107
+D1
+~
+~
+0 0 13112
+D2
+~
+~
+0 0 13129
+D3
+~
+~
+0 0 13118
+D5
+~
+~
+0 0 13129
+M0 H0
+S
+#13120
+Sky~
+~
+0 0 9
+D1
+~
+~
+0 0 13109
+D2
+~
+~
+0 0 13140
+D3
+~
+~
+0 0 13121
+D5
+~
+~
+0 0 13117
+M0 H0
+S
+#13121
+Sky~
+~
+0 0 9
+D1
+~
+~
+0 0 13120
+D2
+~
+~
+0 0 13141
+D3
+~
+~
+0 0 13110
+D5
+~
+~
+0 0 13114
+M0 H0
+S
+#13122
+Rapid River~
+~
+0 0 7
+D1
+~
+~
+0 0 13123
+M0 H0
+S
+#13123
+Placid River~
+~
+0 0 6
+D0
+~
+~
+0 0 13113
+D1
+~
+~
+0 0 13133
+D2
+~
+~
+0 0 13132
+D3
+~
+~
+0 0 13122
+D4
+~
+~
+0 0 13130
+M0 H0
+S
+#13124
+Savannah~
+~
+0 0 0
+D0
+~
+~
+0 0 13114
+D1
+~
+~
+0 0 13125
+M0 H0
+S
+#13125
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13115
+D1
+~
+~
+0 0 13126
+D2
+~
+~
+0 0 13134
+D3
+~
+~
+0 0 13124
+M0 H0
+S
+#13126
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13116
+D3
+~
+~
+0 0 13125
+M0 H0
+S
+#13127
+Tracks In The Mud~
+~
+0 0 2
+D0
+~
+~
+0 0 13117
+D1
+~
+~
+0 0 13128
+D2
+~
+~
+0 0 13135
+D3
+~
+~
+0 0 13135
+M0 H0
+S
+#13128
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13118
+D1
+~
+~
+0 0 13129
+D2
+~
+~
+0 0 13137
+D3
+~
+~
+0 0 13127
+M0 H0
+S
+#13129
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13119
+D2
+~
+~
+0 0 13138
+D3
+~
+~
+0 0 13128
+D4
+~
+~
+0 0 13119
+M0 H0
+S
+#13130
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13110
+D1
+~
+~
+0 0 13141
+D2
+~
+~
+0 0 13152
+D5
+~
+~
+0 0 13123
+M0 H0
+S
+#13131
+Ravine~
+~
+0 0 5
+D2
+~
+~
+0 0 13142
+D3
+~
+~
+0 0 13138
+M0 H0
+S
+#13132
+Crocodile Nest~
+~
+0 0 0
+D0
+~
+~
+0 0 13123
+D2
+~
+~
+0 0 13143
+M0 H0
+S
+#13133
+Rapid River~
+~
+0 0 7
+D1
+~
+~
+0 0 13134
+D3
+~
+~
+0 0 13123
+M0 H0
+S
+#13134
+Drinking Hole~
+~
+0 0 6
+D0
+~
+~
+0 0 13125
+D1
+~
+~
+0 0 13135
+D2
+~
+~
+0 0 13156
+D3
+~
+~
+0 0 13133
+D4
+~
+~
+0 0 13141
+M0 H0
+S
+#13135
+Drinking Hole~
+~
+0 0 6
+D0
+~
+~
+0 0 13127
+D1
+~
+~
+0 0 13127
+D2
+~
+~
+0 0 13146
+D3
+~
+~
+0 0 13134
+D4
+~
+~
+0 0 13140
+D5
+~
+~
+0 0 13187
+M0 H0
+S
+#13136
+Savannah~
+~
+0 0 2
+D1
+~
+~
+0 0 13137
+D2
+~
+~
+0 0 13147
+M0 H0
+S
+#13137
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13128
+D1
+~
+~
+0 0 13138
+D2
+~
+~
+0 0 13148
+D3
+~
+~
+0 0 13136
+M0 H0
+S
+#13138
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13129
+D1
+~
+~
+0 0 13131
+D2
+~
+~
+0 0 13149
+D3
+~
+~
+0 0 13137
+D4
+~
+~
+0 0 13139
+M0 H0
+S
+#13139
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13109
+D2
+~
+~
+0 0 13161
+D3
+~
+~
+0 0 13140
+D5
+~
+~
+0 0 13138
+M0 H0
+S
+#13140
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13120
+D1
+~
+~
+0 0 13139
+D2
+~
+~
+0 0 13150
+D3
+~
+~
+0 0 13141
+D5
+~
+~
+0 0 13135
+M0 H0
+S
+#13141
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13121
+D1
+~
+~
+0 0 13140
+D2
+~
+~
+0 0 13151
+D3
+~
+~
+0 0 13130
+D5
+~
+~
+0 0 13134
+M0 H0
+S
+#13142
+Ravine~
+~
+0 0 5
+D0
+~
+~
+0 0 13131
+D1
+~
+~
+0 0 13143
+D2
+~
+~
+0 0 13153
+D4
+~
+~
+0 0 13152
+M0 H0
+S
+#13143
+Ravine~
+~
+0 0 5
+D0
+~
+~
+0 0 13132
+D1
+~
+~
+0 0 13144
+D3
+~
+~
+0 0 13142
+M0 H0
+S
+#13144
+Ravine~
+~
+0 0 5
+D3
+~
+~
+0 0 13143
+M0 H0
+S
+#13145
+Drinking Hole~
+~
+0 0 0
+D2
+~
+~
+0 0 13155
+D3
+~
+~
+0 0 13155
+D5
+~
+~
+0 0 13186
+M0 H0
+S
+#13146
+Drinking Hole~
+~
+0 0 6
+D0
+~
+~
+0 0 13135
+D1
+~
+~
+0 0 13147
+D3
+~
+~
+0 0 13156
+D4
+~
+~
+0 0 13150
+M0 H0
+S
+#13147
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13136
+D1
+~
+~
+0 0 13148
+D2
+~
+~
+0 0 13158
+D3
+~
+~
+0 0 13146
+M0 H0
+S
+#13148
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13137
+D1
+~
+~
+0 0 13149
+D2
+~
+~
+0 0 13159
+D3
+~
+~
+0 0 13147
+M0 H0
+S
+#13149
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13138
+D2
+~
+~
+0 0 13160
+D3
+~
+~
+0 0 13148
+M0 H0
+S
+#13150
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13140
+D1
+~
+~
+0 0 13161
+D2
+~
+~
+0 0 13173
+D3
+~
+~
+0 0 13151
+D5
+~
+~
+0 0 13146
+M0 H0
+S
+#13151
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13141
+D1
+~
+~
+0 0 13150
+D2
+~
+~
+0 0 13174
+D3
+~
+~
+0 0 13152
+D5
+~
+~
+0 0 13156
+M0 H0
+S
+#13152
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13130
+D1
+~
+~
+0 0 13151
+D2
+~
+~
+0 0 13184
+D5
+~
+~
+0 0 13142
+M0 H0
+S
+#13153
+Ravine~
+~
+0 0 5
+D0
+~
+~
+0 0 13142
+D1
+~
+~
+0 0 13154
+M0 H0
+S
+#13154
+Ravine~
+~
+0 0 5
+D3
+~
+~
+0 0 13153
+M0 H0
+S
+#13155
+Lone Tree~
+~
+0 0 3
+D0
+~
+~
+0 0 13145
+D1
+~
+~
+0 0 13145
+D4
+~
+~
+0 0 13163
+D5
+~
+~
+0 0 13164
+M0 H0
+S
+#13156
+Rapid River~
+~
+0 0 7
+D0
+~
+~
+0 0 13134
+D1
+~
+~
+0 0 13146
+D2
+~
+~
+0 0 13167
+D4
+~
+~
+0 0 13151
+M0 H0
+S
+#13157
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13162
+D1
+~
+~
+0 0 13158
+D2
+~
+~
+0 0 13169
+M0 H0
+S
+#13158
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13147
+D1
+~
+~
+0 0 13159
+D2
+~
+~
+0 0 13170
+D3
+~
+~
+0 0 13157
+M0 H0
+S
+#13159
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13148
+D1
+~
+~
+0 0 13160
+D2
+~
+~
+0 0 13171
+D3
+~
+~
+0 0 13158
+D4
+~
+~
+0 0 13161
+M0 H0
+S
+#13160
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13149
+D2
+~
+~
+0 0 13172
+D3
+~
+~
+0 0 13159
+M0 H0
+S
+#13161
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13139
+D2
+~
+~
+0 0 13183
+D3
+~
+~
+0 0 13150
+D5
+~
+~
+0 0 13159
+M0 H0
+S
+#13162
+Lions' Den~
+~
+0 0 0
+D2
+~
+~
+0 0 13157
+M0 H0
+S
+#13163
+Lone Tree~
+~
+0 0 0
+D5
+~
+~
+0 0 13155
+M0 H0
+S
+#13164
+Cave~
+~
+0 0 0
+D4
+~
+~
+0 0 13155
+M0 H0
+S
+#13165
+Savannah~
+~
+0 0 2
+D2
+~
+~
+0 0 13175
+D3
+~
+~
+0 0 13172
+M0 H0
+S
+#13166
+Rapid River~
+~
+0 0 6
+D1
+~
+~
+0 0 13167
+D2
+~
+~
+0 0 13176
+M0 H0
+S
+#13167
+Rapid River~
+~
+0 0 6
+D0
+~
+~
+0 0 13156
+D2
+~
+~
+0 0 13177
+D3
+~
+~
+0 0 13166
+D4
+~
+~
+0 0 13174
+M0 H0
+S
+#13168
+Savannah~
+~
+0 0 2
+D1
+~
+~
+0 0 13169
+D2
+~
+~
+0 0 13178
+M0 H0
+S
+#13169
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13157
+D1
+~
+~
+0 0 13170
+D2
+~
+~
+0 0 13179
+D3
+~
+~
+0 0 13168
+M0 H0
+S
+#13170
+Termite Mound~
+~
+0 0 4
+D0
+~
+~
+0 0 13158
+D1
+~
+~
+0 0 13171
+D2
+~
+~
+0 0 13180
+D3
+~
+~
+0 0 13169
+D4
+~
+~
+0 0 13173
+M0 H0
+S
+#13171
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13159
+D1
+~
+~
+0 0 13172
+D2
+~
+~
+0 0 13181
+D3
+~
+~
+0 0 13170
+M0 H0
+S
+#13172
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13160
+D1
+~
+~
+0 0 13165
+D2
+~
+~
+0 0 13182
+D3
+~
+~
+0 0 13171
+M0 H0
+S
+#13173
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13150
+D1
+~
+~
+0 0 13183
+D3
+~
+~
+0 0 13174
+D5
+~
+~
+0 0 13170
+M0 H0
+S
+#13174
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13151
+D1
+~
+~
+0 0 13173
+D3
+~
+~
+0 0 13184
+D5
+~
+~
+0 0 13167
+M0 H0
+S
+#13175
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13165
+D1
+~
+~
+0 0 13176
+D2
+~
+~
+0 0 13100
+D3
+~
+~
+0 0 13182
+M0 H0
+S
+#13176
+Rapid River~
+~
+0 0 6
+D0
+~
+~
+0 0 13166
+D1
+~
+~
+0 0 13177
+D2
+~
+~
+0 0 13185
+D3
+~
+~
+0 0 13175
+D4
+~
+~
+0 0 13184
+M0 H0
+S
+#13177
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13167
+D1
+~
+~
+0 0 13178
+D2
+~
+~
+0 0 13102
+D3
+~
+~
+0 0 13176
+M0 H0
+S
+#13178
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13168
+D1
+~
+~
+0 0 13179
+D2
+~
+~
+0 0 13103
+D3
+~
+~
+0 0 13177
+M0 H0
+S
+#13179
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13169
+D1
+~
+~
+0 0 13180
+D2
+~
+~
+0 0 13104
+D3
+~
+~
+0 0 13178
+M0 H0
+S
+#13180
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13170
+D1
+~
+~
+0 0 13181
+D2
+~
+~
+0 0 13105
+D3
+~
+~
+0 0 13179
+M0 H0
+S
+#13181
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13171
+D1
+~
+~
+0 0 13182
+D2
+~
+~
+0 0 13106
+D3
+~
+~
+0 0 13180
+M0 H0
+S
+#13182
+Savannah~
+~
+0 0 2
+D0
+~
+~
+0 0 13172
+D1
+~
+~
+0 0 13175
+D2
+~
+~
+0 0 13107
+D3
+~
+~
+0 0 13181
+D4
+~
+~
+0 0 13183
+M0 H0
+S
+#13183
+Sky~
+~
+0 0 9
+D0
+~
+~
+0 0 13161
+D3
+~
+~
+0 0 13173
+D5
+~
+~
+0 0 13182
+M0 H0
+S
+#13184
+~
+~
+0 0 0
+D0
+~
+~
+0 0 13152
+D1
+~
+~
+0 0 13174
+D5
+~
+~
+0 0 13176
+M0 H0
+S
+#13185
+Rapid River~
+~
+0 0 7
+D0
+~
+~
+0 0 13176
+M0 H0
+S
+#13186
+Underwater~
+~
+0 0 0
+D0
+~
+~
+0 0 13187
+D1
+~
+~
+0 0 13187
+D4
+~
+~
+0 0 13145
+M0 H0
+S
+#13187
+Underwater~
+~
+0 0 0
+D2
+~
+~
+0 0 13186
+D3
+~
+~
+0 0 13186
+D4
+~
+~
+0 0 13135
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

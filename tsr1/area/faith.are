@@ -1,0 +1,1566 @@
+#AREADATA
+Name        [??? ???] In the Market~
+Builders    Yaso~
+VNUMs       26000 26099
+Security    1
+End
+
+
+
+#MOBILES
+#26000
+young woman~
+A young woman~
+A young woman stnads here wide eyed.
+~
+~
+human~
+A 0 1000 0 
+0 30 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing female 0
+AHMV ABCDEFGHIJK M unknown
+#26002
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 
+0 0 0 0d0+0 0d0+0 0d0+0 0
+0 0 0 0
+0 0 0 0
+standing standing none 0
+AHMV ABCDEFGHIJK M unknown
+#26053
+Forge~
+Forge~
+A tired old man floats before you.
+~
+~
+human~
+ABG DFHT -1000 0 
+0 150 1000 1000d100+300 200d200+100 100d100+50 0
+-80 -80 -80 -30
+0 AB BCDFGHIKLMOPR 0
+standing standing male 100000
+AHMV ABCDEFGHIJK L unknown
+#0
+
+
+
+#OBJECTS
+#26000
+plane wooden throne chair~
+a plain wooden throne~
+A plain wooden throne stands here alone~
+unknown~
+furniture IK 0
+1 200 144 300 400
+150 50 26000 P
+#26001
+statue sansilan saint~
+a statue of Saint Sansilan~
+A statue of Saint Sansilan stands here~
+unknown~
+trash A 0
+0 0 0 0 0
+150 300 26001 P
+#26002
+key shopkeepers daryl~
+a Key~
+A shopkeepers key lies here.~
+unknown~
+key K AO
+0 0 0 0 0
+10 2 100 P
+#26096
+painting corith Voice~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+50 1 0 7800 0
+0 0 0 P
+#26097
+painting kian coolio~
+a painting of the Prophet Kian~
+A painting of the Prophet Kian hangs here~
+unknown~
+portal 0 0
+50 1 0 10203 0
+15 0 0 P
+#26098
+table plain oaken~
+a plain oaken table~
+A plain oaken table stands here~
+unknown~
+furniture 0 0
+0 500 8192 0 0
+15 0 0 P
+#26099
+chair plain wooden~
+a plain wooden chair~
+A plain wooden chair rests here~
+unknown~
+furniture 0 0
+500 500 288 150 150
+15 0 0 P
+#0
+
+
+
+#ROOMS
+#26000
+The Temple of Faith~
+Standing high above the City of Faith on a stone platform, you can see
+forever.  Off to the west you can see a heavily wooded area.  The city
+itself spreads out to the south and east.  Four huge stone pillars rise into
+the heavens and vanish out of sight.  There is a plain wooden throne
+standing alone on this slab of stone.  No other furnature can be seen.  
+~
+0 8 1
+D2
+~
+~
+0 0 26001
+M150 H150
+S
+#26001
+The Grand steps of the Temple~
+The steps here are nearly fifty feet in length.  Each step is delicately
+carved with emblems that you don't recognize.  These grand steps have served
+Yaso for centuries.  They are his gift to his followers that they might meet
+and greet him each day.  
+~
+0 0 1
+D0
+~
+~
+0 0 26000
+D2
+~
+~
+0 0 26002
+M0 H0
+S
+#26002
+The Bottom of the Steps~
+Leaving the market and climing these stairs, you might want to ask
+yourself "am I invited to climb these stairs of fabled greatness?"  .  
+~
+0 0 0
+D0
+~
+~
+0 0 26001
+D2
+~
+~
+0 0 26003
+M0 H0
+S
+#26003
+The Market~
+~
+0 0 0
+D0
+~
+~
+0 0 26002
+D1
+~
+~
+0 0 26010
+D2
+~
+~
+0 0 26016
+D3
+~
+~
+0 0 26009
+M0 H0
+S
+#26004
+The Stedding~
+~
+0 0 0
+D2
+~
+~
+0 0 26006
+M0 H0
+S
+#26005
+A Stone Path~
+Gradualy, the path beneath your feet turns to a patchwork of granite
+stones.  Trees still grow sporatically here an there forcing up through the
+stones pushing them apart.  
+~
+0 0 0
+D1
+~
+~
+0 0 26006
+D2
+~
+~
+0 0 26014
+D3
+~
+~
+0 0 26008
+M0 H0
+S
+#26006
+The Stone Path~
+The stones underfoot seem to hold a golden glow.  The polished surface of
+each holds the image of a face.  Each face distinctly resembles a hero of
+the past.  
+~
+0 0 0
+D0
+~
+~
+0 0 26004
+D1
+~
+~
+0 0 26007
+D3
+~
+~
+0 0 26005
+M0 H0
+S
+#26007
+The Stone Path~
+Trees to your left seem to be set at an odd slant.  A soft green moss
+grows on the lower side of each.  Amongst the leaves overhead you can see a
+web of vines linking the branches together.  
+~
+0 0 0
+D1
+~
+~
+0 0 26008
+D3
+~
+~
+0 0 26006
+M0 H0
+S
+#26008
+The Stone Path~
+Here the ground rises sharply to a crest directly in front of you.  The
+slope has forced most of the granite stones to the bottom of it.  Here and
+there a few stones are missing completely.  
+~
+0 0 0
+D1
+~
+~
+0 0 26005
+D3
+~
+~
+0 0 26007
+D4
+~
+~
+0 0 26000
+M0 H0
+S
+#26009
+The Market~
+~
+0 0 0
+D1
+~
+~
+0 0 26003
+D2
+~
+~
+0 0 26015
+M0 H0
+S
+#26010
+Asmall tent~
+~
+0 0 0
+D1
+~
+~
+0 0 26011
+D2
+~
+~
+0 0 26017
+D3
+~
+~
+0 0 26003
+M0 H0
+S
+#26011
+Before the.......~
+~
+0 0 0
+D1
+~
+~
+0 0 26052
+D2
+~
+~
+0 0 26018
+D3
+~
+~
+0 0 26010
+M0 H0
+S
+#26012
+A Rutted Path~
+~
+0 0 0
+D0
+~
+~
+0 0 5062
+D2
+~
+~
+0 0 26019
+M0 H0
+S
+#26013
+Near a Large Stone~
+The path here splits around a monsterous stone formation.  Though it
+looks too large to be a single stone, you can see no visible partitions in
+its sruface.  There is a small carving on the back side of its girth. 
+Almost life size, there is an image of a man.  His Eyes are staring intently
+into yours.  He wears long robes and has shoulder length hair.  
+
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 26020
+D1
+~
+~
+0 0 26014
+D2
+~
+~
+0 0 26020
+M0 H0
+S
+#26014
+A Mystic Grove~
+This area is in shadow.  The huge rock formation to your rear is hiding
+the low sun from view.  The trees again seem to slant to hide the heavenly
+sky further darkening the area.  
+~
+0 0 0
+D0
+~
+~
+0 0 26005
+D1
+~
+~
+0 0 26013
+D3
+~
+~
+0 0 26013
+M0 H0
+S
+#26015
+The Market~
+~
+0 0 0
+D0
+~
+~
+0 0 26009
+D1
+~
+~
+0 0 26016
+D2
+~
+~
+0 0 26024
+D3
+~
+~
+0 0 26051
+M0 H0
+S
+#26016
+The Plaza~
+~
+0 0 0
+D0
+~
+~
+0 0 26003
+D1
+~
+~
+0 0 26017
+D2
+~
+~
+0 0 26025
+D3
+~
+~
+0 0 26015
+M0 H0
+S
+#26017
+~
+~
+0 0 0
+D0
+~
+~
+0 0 26010
+D1
+~
+~
+0 0 26018
+D2
+~
+~
+0 0 26026
+D3
+~
+~
+0 0 26016
+M0 H0
+S
+#26018
+Before the...~
+~
+0 0 0
+D0
+~
+~
+0 0 26011
+D1
+~
+~
+0 0 26053
+D2
+~
+~
+0 0 26027
+D3
+~
+~
+0 0 26017
+M0 H0
+S
+#26019
+A Rutted Path~
+~
+0 0 0
+D0
+~
+~
+0 0 26012
+D2
+~
+~
+0 0 26028
+M0 H0
+S
+#26020
+A Mystic Grove~
+Oddly, the trees here are planted on both sides of the path to better
+luminate the path.  The sky can be clearly seen, and what a sky it is. 
+Cloudless and bright, even the birds seek the ground to better view there
+own habitat.  
+~
+0 0 0
+D0
+~
+~
+0 0 26013
+D1
+~
+~
+0 0 26021
+M0 H0
+S
+#26021
+A Mystic Grove~
+A stand of trees directly in front of you holds your attention.  It seems
+set by the gods.  The components of this artistic statement of biological
+making were surely well thought out by the Gods themselves.  A single tree
+sits to the rear while other smaller brush, one with shockingly red
+blossoms, fill out the picture.  
+~
+0 0 0
+D2
+~
+~
+0 0 26029
+D3
+~
+~
+0 0 26020
+M0 H0
+S
+#26024
+A Shadey Corner~
+~
+0 0 0
+D0
+~
+~
+0 0 26015
+D1
+~
+~
+0 0 26025
+M0 H0
+S
+#26025
+The Market Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 26016
+D1
+~
+~
+0 0 26026
+D3
+~
+~
+0 0 26024
+M0 H0
+S
+#26026
+~
+~
+0 0 0
+D0
+~
+~
+0 0 26017
+D1
+~
+~
+0 0 26027
+D3
+~
+~
+0 0 26025
+M0 H0
+S
+#26027
+The front of the...~
+~
+0 0 0
+D0
+~
+~
+0 0 26018
+D1
+~
+~
+0 0 26054
+D3
+~
+~
+0 0 26026
+M0 H0
+S
+#26028
+A Rutted Path~
+~
+0 0 0
+D0
+~
+~
+0 0 26019
+D2
+~
+~
+0 0 26039
+M0 H0
+S
+#26029
+A Mystic Grove~
+The fog that was more of a comfort than anything else now has a haunting
+aura about it.  The path did fork back there.  You wonder if this could be
+the correct path.  Even in its haunting state the grove is still so
+captivating that it takes your breath away.  
+~
+0 0 1
+D0
+~
+~
+0 0 26021
+D2
+~
+~
+0 0 26041
+M0 H0
+S
+#26030
+A Bend in the Path~
+The path turns to the east here.  The floor of this mystic grove is
+entirely covered in leaves.  The earth is soft and black.  The smell of
+growth is strong in your nose.  
+~
+0 0 0
+D0
+~
+~
+0 0 26048
+D1
+~
+~
+0 0 26031
+M0 H0
+S
+#26031
+A Grove in Sansilan~
+Trees nearly two-hundred feet in height dot the landscape.  The lowest
+branches are at least fifty feet of of the ground.  The trunks are as big
+around as six men.  The path is still recognizable through the maze of
+massive trunks.  
+~
+0 0 0
+D2
+~
+~
+0 0 26043
+D3
+~
+~
+0 0 26030
+M0 H0
+S
+#26032
+Arydal Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 26033
+D3
+~
+~
+0 0 26078
+M0 H0
+S
+#26033
+A Pass~
+~
+0 0 1
+D1
+~
+~
+0 0 26034
+D3
+~
+~
+0 0 26032
+M0 H0
+S
+#26034
+A Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 26035
+D3
+~
+~
+0 0 26033
+M0 H0
+S
+#26035
+A Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 26036
+D3
+~
+~
+0 0 26034
+M0 H0
+S
+#26036
+Rolling Hills~
+~
+0 0 0
+D1
+~
+~
+0 0 26037
+D3
+~
+~
+0 0 26035
+M0 H0
+S
+#26037
+A Rocky Hillside~
+~
+0 0 0
+D1
+~
+~
+0 0 10001
+D3
+~
+~
+0 0 26036
+M0 H0
+S
+#26038
+A Road~
+~
+0 0 0
+D1
+~
+~
+0 0 26039
+M0 H0
+S
+#26039
+The Meeting~
+~
+0 0 0
+D0
+~
+~
+0 0 26028
+D1
+~
+~
+0 0 26040
+D2
+~
+~
+0 0 26046
+D3
+~
+~
+0 0 26038
+M0 H0
+S
+#26040
+End Road~
+~
+0 0 0
+D1
+~
+~
+0 0 26067
+D3
+~
+~
+0 0 26039
+M0 H0
+S
+#26041
+A Mystic Grove~
+The ground here slopes gently downward.  The trees are anoying loud in
+there rustling.  The ground cover amongst the trees is so thick you think
+twice about leaving the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 26029
+D1
+~
+~
+0 0 26042
+D3
+~
+~
+0 0 26042
+M0 H0
+S
+#26042
+A Mystic Grove~
+A dark fog is permiating the area.  It hangs low to the ground and seems
+to have not a grey cast, but almost bright white instead.  Your feet are
+warmed by it.  
+~
+0 0 1
+D0
+~
+~
+0 0 26044
+D2
+~
+~
+0 0 26044
+D3
+~
+~
+0 0 26041
+M0 H0
+S
+#26043
+A Grove in Sansilan~
+The grove is getting thicker with the giant trees.  The sky is once again
+hidden from your view.  In the dark shade your eye catches a face here and
+there among the trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 26031
+D2
+~
+~
+0 0 26045
+M0 H0
+S
+#26044
+A Mystic Grove~
+The trees now definately have eyes.  One inparticular catches your eye
+off to your left.  The branches here seem lower though still out of reach. 
+The whole grove seems to be leaning in on you.  
+~
+0 0 1
+D0
+~
+~
+0 0 26042
+D1
+~
+~
+0 0 26045
+D3
+~
+~
+0 0 26045
+M0 H0
+S
+#26045
+A Grove in Sansilan~
+More mystic trees cover the floor of the grove now.  It is hard to move
+among them.  The sence of being watched is growing and your sure now, that
+the trees MUST have eyes if not heads and arms and the like.  
+~
+0 0 0
+D0
+~
+~
+0 0 26043
+D2
+~
+~
+0 0 26031
+D3
+~
+~
+0 0 26044
+M0 H0
+S
+#26046
+A Rutted Path~
+~
+0 0 0
+D0
+~
+~
+0 0 26039
+D2
+~
+~
+0 0 26047
+D3
+~
+~
+0 0 26092
+M0 H0
+S
+#26047
+A Rutted Path~
+~
+0 0 0
+D0
+~
+~
+0 0 26046
+D2
+~
+~
+0 0 26091
+D3
+~
+~
+0 0 26089
+M0 H0
+S
+#26048
+A Narrow Path in Sansilan~
+Here, the path narrows and the canopy of trees is nearly gone.  The sky
+above seems different.  The clouds have a strange aura about them.  
+~
+0 0 0
+D0
+~
+~
+0 0 26049
+D2
+~
+~
+0 0 26030
+M0 H0
+S
+#26049
+Near A Huge Statue~
+The canopy of trees over head is thinning though still shades you from
+the warmth of the sun.  A huge statue stands alone set into some underbrush.
+~
+0 0 0
+D1
+~
+~
+0 0 26050
+D2
+~
+~
+0 0 26048
+M0 H0
+S
+#26050
+Under the Canopy~
+The trees to either side of you arch over your head creating a beautifull
+canopy of foliage.  The shade is complete and a small wind blows cooling
+your neck.  
+~
+0 0 0
+D1
+~
+~
+1 0 26051
+D3
+~
+~
+0 0 26049
+M0 H0
+S
+#26051
+The Gates of Sansilan~
+~
+0 0 0
+D1
+~
+~
+0 0 26015
+D3
+Two Huge wooden doors stand here mounted into the stone wall.  The wall is carved with vines and leaves of every make.
+~
+gate~
+1 0 26050
+M0 H0
+S
+#26052
+The Shop~
+~
+0 0 0
+D2
+~
+~
+0 0 26053
+D3
+~
+~
+0 0 26011
+M0 H0
+S
+#26053
+The Shop~
+~
+0 8 0
+D0
+~
+~
+0 0 26052
+D3
+~
+~
+0 0 26018
+M25 H25
+S
+#26054
+The Shop~
+~
+0 0 0
+D1
+To the east you see a small door.  
+~
+~
+1 26002 26055
+D3
+~
+~
+0 0 26027
+M0 H0
+S
+#26055
+Back Room~
+~
+0 0 0
+D3
+~
+~
+1 0 26054
+M0 H0
+S
+#26056
+The Companion~
+This is a small tavern where the Faithfull can often be found gathering. 
+The walls are plain with many windows.  A small bar lies on the far wall. 
+The bar itself has a bronze bar running the length of it.  Small stools are
+arranged haphazardly near it.  Some plain wooden chairs sit scattered around
+three Huge wooden tables.  
+~
+0 0 1
+M0 H0
+S
+#26057
+A bend in the path~
+~
+0 0 0
+D1
+~
+~
+0 0 26058
+D2
+~
+~
+0 0 26062
+M0 H0
+S
+#26058
+A path through the forest~
+~
+0 0 1
+D1
+~
+~
+0 0 3532
+D3
+~
+~
+0 0 26057
+D5
+~
+~
+0 0 9800
+M0 H0
+S
+#26059
+~
+~
+0 0 0
+D1
+~
+~
+0 0 26060
+M0 H0
+S
+#26060
+~
+~
+0 0 0
+D3
+~
+~
+0 0 26059
+M0 H0
+S
+#26061
+A dirt path~
+~
+0 0 0
+D0
+~
+~
+0 0 26079
+D2
+~
+~
+0 0 26066
+M0 H0
+S
+#26062
+A path through the forest~
+~
+0 0 0
+D0
+~
+~
+0 0 26057
+D2
+~
+~
+0 0 26068
+M0 H0
+S
+#26063
+~
+~
+0 0 0
+D1
+~
+~
+0 0 26064
+D2
+~
+~
+1 0 26069
+M0 H0
+S
+#26064
+~
+~
+0 0 0
+D1
+~
+~
+0 0 26065
+D2
+~
+~
+1 0 26070
+D3
+~
+~
+0 0 26063
+M0 H0
+S
+#26065
+~
+~
+0 0 0
+D2
+~
+~
+1 0 26071
+D3
+~
+~
+0 0 26064
+M0 H0
+S
+#26066
+A dirt path~
+~
+0 0 0
+D0
+~
+~
+0 0 26061
+D2
+~
+~
+0 0 26072
+M0 H0
+S
+#26067
+~
+~
+0 0 0
+D3
+~
+~
+0 0 26040
+M0 H0
+S
+#26068
+A newly cut path through the forest~
+~
+0 0 0
+D0
+~
+~
+0 0 26062
+D2
+~
+~
+0 0 26073
+M0 H0
+S
+#26069
+~
+~
+0 0 0
+D0
+~
+~
+1 0 26063
+D1
+~
+~
+0 0 26070
+M0 H0
+S
+#26070
+~
+~
+0 0 1
+D0
+~
+~
+1 0 26064
+D1
+~
+~
+1 0 26071
+D2
+~
+~
+1 0 26075
+D3
+~
+~
+0 0 26069
+M0 H0
+S
+#26071
+~
+~
+0 0 0
+D0
+~
+~
+1 0 26065
+D2
+~
+~
+1 0 26076
+D3
+~
+~
+1 0 26070
+M0 H0
+S
+#26072
+A muddy path~
+~
+0 0 0
+D0
+~
+~
+0 0 26066
+D2
+~
+~
+0 0 26077
+M0 H0
+S
+#26073
+A newly cut path through the forest~
+~
+0 0 0
+D0
+~
+~
+0 0 26068
+D2
+~
+~
+0 0 26078
+M0 H0
+S
+#26074
+~
+~
+0 0 0
+D1
+~
+~
+0 0 26075
+M0 H0
+S
+#26075
+~
+~
+0 0 1
+D0
+~
+~
+1 0 26070
+D1
+~
+~
+1 0 26076
+D3
+~
+~
+0 0 26074
+M0 H0
+S
+#26076
+~
+~
+0 0 0
+D0
+~
+~
+1 0 26071
+D3
+~
+~
+0 0 26075
+M0 H0
+S
+#26077
+A soggy river bank~
+~
+0 0 1
+D0
+~
+~
+0 0 26072
+D2
+~
+~
+0 0 9775
+M0 H0
+S
+#26078
+A newly cut path through the forest~
+~
+0 0 0
+D0
+~
+~
+0 0 26073
+D1
+~
+~
+0 0 26032
+D2
+~
+~
+0 0 3529
+M0 H0
+S
+#26079
+A sharp turn in the path~
+~
+0 0 0
+D1
+~
+~
+0 0 26080
+D2
+~
+~
+0 0 26061
+M0 H0
+S
+#26080
+Main Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 26081
+D3
+~
+~
+0 0 26079
+M0 H0
+S
+#26081
+Main Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 26082
+D3
+~
+~
+0 0 26080
+M0 H0
+S
+#26082
+Main Eastern Road~
+~
+0 0 0
+D1
+~
+~
+0 0 1701
+D3
+~
+~
+0 0 26081
+M0 H0
+S
+#26089
+~
+~
+0 0 0
+D0
+~
+~
+0 0 26092
+D1
+~
+~
+0 0 26047
+M0 H0
+S
+#26090
+Near McLean Falls~
+~
+0 0 0
+D2
+~
+~
+0 0 26093
+M0 H0
+S
+#26091
+Next to McLean Falls~
+~
+0 0 0
+D0
+~
+~
+0 0 26047
+D2
+~
+~
+0 0 26095
+M0 H0
+S
+#26092
+~
+~
+0 0 0
+D1
+~
+~
+0 0 26046
+D2
+~
+~
+0 0 26089
+M0 H0
+S
+#26093
+In a breezy forest~
+~
+0 0 1
+D0
+~
+~
+0 0 26090
+D1
+~
+~
+0 0 26094
+M0 H0
+S
+#26094
+On Clear Creek Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 26095
+D3
+~
+~
+0 0 26093
+M0 H0
+S
+#26095
+Near the CLear Creek Bridge~
+~
+0 0 1
+D0
+~
+~
+0 0 26091
+D3
+~
+~
+0 0 26094
+M0 H0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 26050 1 1
+D 0 26051 3 1
+D 0 26054 1 2
+D 0 26055 3 2
+D 0 26063 2 1
+D 0 26064 2 1
+D 0 26065 2 1
+D 0 26069 0 1
+D 0 26070 0 1
+D 0 26070 1 1
+D 0 26070 2 1
+D 0 26071 0 1
+D 0 26071 2 1
+D 0 26071 3 1
+D 0 26075 0 1
+D 0 26075 1 1
+D 0 26076 0 1
+O 0 26000 0 26000
+O 0 26001 0 26049
+M 0 26053 1 26053 1
+M 0 26053 1 26053 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

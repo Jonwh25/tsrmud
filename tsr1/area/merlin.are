@@ -1,0 +1,695 @@
+#AREADATA
+Name        [       ] Fortress~
+Builders    Raff~
+VNUMs       700 799
+Security    8
+End
+
+
+
+#MOBILES
+#700
+Hobbit~
+hobbit is here~
+Hobbit is here relaxing in his chair.
+~
+Hobbit the old tired traveler is here, he is relaxing in his chair.
+He looks you up and down, then he ignores you as you are no threat
+to him, he is a small elf that packs a wolup, stories tell of him 
+slaying a dragons. You feel that leaving him alone would be a good idea.
+~
+human~
+AT DFHTV 0 0 
+0 80 0 12d360+1800 80d100+1000 5d16+10 0
+-35 -35 -35 -15
+BCEFHIK CH B DI
+standing standing male 100
+AHMV ABCDEFGHIJK S unknown
+#787
+guard dog~
+a gaurd dog~
+A rabid guard dog growls at you.
+~
+A big athletic looking dog crouches as though to spring.
+~
+dog~
+ACFG HNUd -600 0 
+0 82 50 50d10+10000 82d10+100 8d6+32 0
+0 0 0 0
+CDFHLPQR BD J F
+standing standing either 0
+AGV ACDEFHJKUV L unknown
+#788
+Fire~
+The Fire~
+A bright fire is burning with a fierce heat.
+~
+You shield your eyes from the bright fire. Watch out or you may get burnt.
+~
+human~
+ABC F -200 0 
+0 80 35 50d10+29464 80d10+100 8d6+28 0
+-10 -10 -10 -5
+DH AB H I
+standing standing either 20
+ACHMV ABCDEFGHIJK M unknown
+#789
+armourer orc~
+Merlin's Armourer~
+A strong looking Orc is here cleaning weapons.
+~
+The armourer is a trusted friend of Merlin. In fact they grew up together.
+Both were members of Tribbles mage school.
+~
+orc~
+ABF CDHJ -1000 0 
+0 80 36 13d2+37 80d10+100 56d22+1000 0
+-34 -34 -34 -24
+DEFHIKN AB CQ HJS
+standing standing male 100
+AHMV ABCDEFGHIJK M unknown
+#791
+snake charmer~
+a snake charmer~
+A snake charmer is om the rack.
+~
+The snake charmer tried to sweet talk Merlin into letting him stay in 
+his fortress. Merlin is a bit of a snake, but did not fall victum to the
+charmers sweet talk.
+The snake charmer smiles painfully.
+~
+human~
+ABCHS H -178 0 
+0 83 47 50d10+9500 83d10+100 8d6+28 0
+0 0 0 0
+F AB N J
+standing standing male 20
+AHMV ABCDEFGHIJK M unknown
+#792
+nazgul~
+a nazgul~
+A large fierce nazgul hovers over head.
+~
+You see a large fierce nazgul, it looks friendly but you see a weird glint 
+in his eyes. You feel you better leave it alone its master may not like you  
+looking at it.
+~
+demon~
+AI JSTVc -200 0 
+0 79 36 57d10+9900 72d10+100 12d10+34 0
+-47 -47 -47 -32
+CDELN LQ BFHILT N
+standing standing either 0
+AHMV ABCDEFGHIJK M unknown
+#793
+arlua girlfriend~
+Merlin's girlfriend~
+Arlua is sat on the bed reading a book.
+~
+A beautiful dark-elf mage giggles.
+Arlua and Merlin were once great enemies, unable to overcome Merlin by
+force Arlua changed her tactics. Merlin thinks he won the fight because
+she backed down, it is strange how she now always get her own way !
+~
+elf~
+ABFR DEFHJPQ -1000 0 
+0 91 0 56d22+10428 91d10+100 13d2+37 0
+-35 -34 -39 -38
+BFK 0 B OZ
+standing standing female 400
+AHMV ABCDEFGHIJKM M unknown
+#797
+dawn warrior~
+a dawn warrior~
+A dawn warrior stands here guarding the gateway to Merlins fortress.
+~
+A huge warrior with bulging musles grins, you wonder where such a
+brute came from. Merlin summoned him from the dawn of time to protect
+his fortress.
+~
+orc~
+AB HJ 0 0 
+0 90 0 56d22+10359 90d10+100 13d2+36 0
+-3 -3 -3 -3
+DF 0 CQ JS
+standing standing male 20
+AHMV ABCDEFGHIJKM H unknown
+#798
+small boy~
+small boy~
+A small boy says "Hello, how can I help you?"
+~
+A small boy straightens his back as you look at him.
+He greets you quickly with a big smile, he looks friendly, but
+then you notice the strange glint in his eye.
+A small boy is in execellent condition.
+~
+human~
+AB 0 1000 0 
+0 50 69 16d12+56 100d100+1000 100d20+19000 0
+-100 -100 -100 -100
+CD CDEFQ 0 0
+standing standing male 0
+AHMV ABCDEFGHIJK M unknown
+#799
+Arlua~
+Arlua the mistress.~
+Arlua is sat on the bed reading a book.
+~
+Arlua and Merlin were once great enemies, unable to overcome Merlin 
+by force Arlua changed her tactics. Merlin thinks he won the fight
+because she backed down, it is strange how she now always get her
+own way!
+Merlin's mistress is in excellent condition.
+~
+human~
+AT 0 500 0 
+0 0 0 50d10+9500 90d10+100 8d6+28 0
+-10 -10 -10 -10
+DEF ABCF BCF HI
+standing standing female 0
+AHMV ABCDEFGHIJK M unknown
+#0
+
+
+
+#OBJECTS
+#700
+scroll tightly rolled~
+tightly rolled scroll~
+A tightly rolled scroll is here.~
+unknown~
+scroll AB AO
+160 'shield' 'stone skin' 'flesh armor' ''
+1 1 1 P
+#701
+scroll cancelation~
+inverted scroll~
+Piece of Paper.~
+unknown~
+scroll AB AO
+160 'stone skin' 'flesh armor' 'ectoplasmic form' ''
+1 0 3000 P
+#702
+jerky~
+beef jerky~
+Beef jerky~
+unknown~
+food A AO
+5 0 0 0 0
+1 1 1 P
+#703
+bag~
+a bag~
+A small bag~
+unknown~
+container ABG AK
+1 0 0 1 1
+1 1 1 P
+#781
+saddle~
+old leather saddle~
+Old Leather Saddle~
+unknown~
+saddle J AL
+0 0 0 0 0
+60 5 100 P
+#782
+vipers coiled~
+(Deadly) Coiled Vipers~
+A Viper hisses and spits at you.~
+unknown~
+armor AB AI
+18 16 17 12 0
+78 12 23000 P
+A
+12 40
+A
+3 1
+A
+5 1
+#783
+pile of gold~
+a pile of gold.~
+A pile of gold.~
+unknown~
+money 0 A
+1000 0 0 0 0
+0 0 0 P
+#784
+axe~
+an axe~
+A rusty axe has been left here.~
+unknown~
+weapon EHIJM AN
+axe 15 6 none C
+81 38 9000 P
+A
+18 2
+A
+19 2
+#785
+long black whip skin~
+a long black whip~
+The skin of long dead snake is coiled on the floor.~
+unknown~
+weapon CFJ AN
+whip 15 6 slash A
+90 12 33000 P
+A
+2 2
+A
+1 1
+A
+12 12
+#786
+collar~
+a studded leather collar~
+A studded collor~
+unknown~
+armor HO AC
+15 15 15 5 0
+60 10 1000 P
+A
+3 -2
+A
+18 5
+A
+19 5
+#790
+magical mist~
+a swirling magical mist~
+A magical mist swirls round the room.~
+unknown~
+armor A AF
+18 25 24 28 0
+90 0 0 P
+A
+12 70
+#794
+key~
+a key~
+You see an important key!~
+unknown~
+key 0 A
+0 0 0 0 0
+0 10 0 P
+#795
+chest~
+a strong looking chest~
+You see a large, strong chest inscribed with magic runes here.~
+unknown~
+container B 0
+10 ABCD 794 0 0
+90 0 10000 P
+#796
+shorts~
+leather shorts~
+A offensive smell permeates from a large pair of shorts.~
+unknown~
+armor 0 AF
+25 24 26 18 0
+90 9 1000 P
+A
+19 5
+A
+18 5
+#797
+rose~
+```1---,-'-`````0@``~
+```1---,-'-`````0@``~
+unknown~
+treasure 0 AEO
+0 0 0 0 0
+150 0 1000 P
+A
+14 -300
+A
+18 100
+A
+19 100
+E
+rose~
+This rose is beautiful, Raff gave this rose to Silvermist the
+first time he met her, and it represents his affection for her.
+~
+#798
+quest pumpkin~
+```!quest`` ```8pumpkin``~
+```!Quest`` ```8Pumpkin`` is here.~
+unknown~
+container ABT AO
+10000 0 0 10000 300
+0 0 0 P
+#799
+golden chain and locket~
+golden chain and locket~
+Golden Chain and Locket is on the ground.~
+unknown~
+jewelry AB AC
+0 0 0 0 0
+153 0 1000 P
+A
+19 100
+A
+18 100
+A
+1 10
+A
+5 10
+A
+4 10
+A
+3 10
+A
+2 10
+E
+locket~
+Inside this lovely locket is a picture of Raff and SilverMist on
+there wedding day, they are such a lovely couple. The love 
+eminating from this locket is very great you better hold close to
+your heart.
+~
+#0
+
+
+
+#ROOMS
+#700
+The Perilous Causeway~
+You pick your way across a narrow causeway which heads north towards a
+large set of doors built into the mountainside, and back south towards some
+grassy plains.  The rocky scree is insecure and you lose your foothold
+several times.  The mountain looms over you and the sense of impending doom
+is overwhelming to you.  
+~
+0 8 5
+D0
+The towering rocky doors loom ahead of you.
+~
+~
+0 0 701
+D1
+~
+~
+0 0 3052
+D2
+A small opening seems to lead into a small cave...
+~
+~
+0 0 715
+M0 H-10
+S
+#701
+The Entrance Hall~
+You stand in a large room with steal pegs along one wall, the floor is
+of cold grey stone. There is a large ornate door way to your north. 
+A strange smell floats in from the west. The south wind blows in from
+the open arch.
+~
+0 0 0
+D0
+~
+~
+1 0 702
+D2
+~
+~
+0 0 700
+D3
+~
+~
+0 0 711
+M100 H100
+S
+#702
+The Main Hall~
+A homely looking place with with a blazing fire burning to the north.
+A large portrait with a golden frame is on the wall next to a large
+tapestry. There are some dark wooden doors to the east.
+~
+0 0 1
+D0
+~
+~
+0 0 704
+D1
+~
+~
+1 0 705
+D2
+~
+~
+1 0 701
+M100 H100
+S
+#703
+~
+~
+0 4 0
+M100 H100
+S
+#704
+The Fire Place~
+You are in a fire place made from roughly hewn stone, blackened with
+ash and soot. There is a funny smell, a bit like roast pork. Smoke
+from the bright fire gushes up the chimney.
+The chimney looks quiet thin.@
+~
+0 8 0
+D2
+~
+~
+0 0 702
+D4
+~
+~
+0 0 706
+M100 H100
+S
+#705
+Stairs~
+You are in a dark stairway. The stone stairs spiral upwards.
+There are faint signs of movement from the north.
+The only way out of this dreary place is up the stairs or back 
+to the west.
+~
+0 9 0
+D3
+~
+~
+1 0 702
+D4
+~
+~
+2 0 707
+M100 H100
+S
+#706
+Up The Chimney~
+You are up the chimney. You are now stuck there is no exit you 
+might of thought to read the sign "The Chimney Looks Quite Thin"
+before going up.
+~
+0 262149 0
+M100 H100
+S
+#707
+The Landing~
+You are standing on the landing, There is a dwarf skin rug
+beneath your feet, the beard is still attached.
+You think to yourself 'I hope Merlin is not a home'.
+The flameing tourchs on the wall give off little light.
+There are two door one to the north and one to the south.
+~
+0 1 0
+D0
+~
+~
+0 0 708
+D2
+~
+~
+0 0 709
+D5
+~
+~
+2 0 705
+M100 H100
+S
+#708
+The Bed Chamber~
+You are in a well furnished room. There are arrow slits faceing out
+to the east is a cactus. In the centre of the room is a large four
+poster bed. Its has been recently made. There is a large mat which
+looks a little out of place
+~
+0 0 0
+D2
+~
+~
+0 0 707
+D5
+~
+~
+0 0 710
+M100 H100
+S
+#709
+Torture Chamber~
+You are in a modern looking torture chamber.
+There is a rack and some thumb screws.
+The wall are nicely tiled with human flesh.
+On the floor is blood and half dead rats.
+~
+0 0 0
+D0
+~
+~
+0 0 707
+M100 H100
+S
+#710
+The Armoury~
+You have entered a large room stacked from floor to ceiling
+with weapons. Merlin likes to have a large range at his disposal.
+To the south lies a well concealed door.
+~
+0 263168 0
+D0
+~
+~
+0 0 716
+D2
+~
+~
+0 0 705
+D4
+~
+~
+0 0 708
+M100 H100
+S
+#711
+Merlin's Stables~
+You are in a large dark room. The smell of rotting straw is so over
+powering that you feel sick. Set into the walls are some strong iron
+rings, it looks as though at some time a great beast was housed here.
+~
+0 4101 1
+D1
+~
+~
+0 0 701
+M100 H100
+S
+#712
+Store Room~
+You are in a store room, there is litter strewed all over the place
+and several old iron rings on the wall. 
+~
+0 262148 0
+M100 H100
+S
+#715
+Cave~
+You have entered a cave that is full or loose stones which have fallen
+from the ceiling.  You notice that the cave continues to the north as well
+as back to the south.  You wonder if it is safe to proceed of if the ceiling
+will continue to fall on top of you.  There is a strange damp smell that
+almost makes you sick which seems to radiate from the limy, sticky goo that
+you have stepped into.  Thoughts race through your mind as to what it could
+be that reakes so terrible.  
+~
+0 0 0
+E
+floor~
+The slimly goo in which you foot is submerged into is the remains of what
+looks to be the inards of someone, or something.  They seem to have been
+here for quite some time, in order for such a mess of maggots to have found
+a marvolous home.  
+~
+D0
+~
+~
+0 0 700
+D2
+~
+~
+0 0 6159
+M100 H100
+S
+#716
+Back Room~
+This is Merlin's private weapons room.  The walls are full of cases which
+hold the priceless weapons he has made of stolen in his years of
+adventuring.  You notice that each weapon is glowing or humming, giving some
+hint to its magical properties.  There is an outline of what appears to be a
+mithril door to the north, however its appearence makes you believe that it
+isn't of this plane.  
+~
+0 0 0
+E
+wall~
+The walls are lined with cases that hold each weapons securly with a
+forceshield of magic.  The weapons look eligant indeed, worthy of such a
+respected and powerful sorcerer.  
+~
+D0
+~
+~
+0 0 13233
+D2
+The door leads back into the Armory where Merlin has some of his
+collection on sale.  
+~
+~
+0 0 710
+M100 H100
+S
+#0
+
+
+
+#SPECIALS
+M 700 spec_nasty Load to: hobbit is here
+M 793 spec_cast_mage Load to: Merlin's girlfriend
+M 797 spec_guard Load to: a dawn warrior
+M 799 spec_nasty Load to: Arlua the mistress.
+S
+
+
+
+#RESETS
+M 0 797 1 701 1
+E 0 796 0 7
+M 0 787 1 702 1
+M 0 788 1 704 1
+E 0 786 0 3
+O 0 795 0 706
+P 0 783 0 795 1
+O 0 795 0 706
+P 0 783 0 795 1
+M 0 793 1 708 1
+E 0 790 0 7
+E 0 785 0 16
+M 0 791 1 709 1
+E 0 794 0 17
+E 0 782 0 10
+M 0 789 1 710 1
+E 0 784 0 16
+M 0 798 1 711 1
+O 0 781 0 711
+M 0 792 1 712 1
+M 0 792 1 712 1
+S
+
+
+
+#SHOPS
+798 0 4 0 0 0 100 100 24 24
+0
+
+
+
+#$
