@@ -1,0 +1,1313 @@
+#AREA   {PROTO} Yrinthi Tomb of Artaeum~
+
+
+
+#VERSION 1
+#AUTHOR Yrinthi~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51205825
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#11303
+bat~
+A bat~
+A bat flies right above your head.
+~
+A small hairy bat flies about in the darkness.
+~
+1 34078720 -30 C
+21 0 0 5d10+400 4d4+6
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+10 0 0 0 0 0 0 0
+#11306
+nightcrawler~
+A Nightcrawler~
+A huge Nightcrawler scurries across the floor.
+~
+A rather large nightcrawler scurries around in this part of the cavern.  He appears to be quite at home here.
+~
+1 35749888 -30 C
+21 0 0 5d10+400 4d4+6
+10 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+10 0 0 0 0 0 0 0
+#11309
+frog~
+A frog-like creature~
+A strange creature lunges from the pool of water.
+~
+This is an odd creature.  It looks much like a frog but a bit larger.  It
+opens it mouth and a pair of fangs are exposed
+~
+35 201326592 -250 C
+22 0 0 5d10+450 3d6+6
+15 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+12 0 0 0 0 0 0 0
+#11312
+scorpion~
+A Scorpion~
+A large scorpion roams across the floor.
+~
+A large scorpion roams around the room.  The scorpion's stinger rises up over its body and drips of poison.
+~
+65 2130440 0 C
+21 0 0 5d10+400 4d4+6
+25 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11321
+rag figure~
+A ragged figure~
+A ragged figure lunges out from the shadows.
+~
+This form is ragged and dangerous looking.  It appears to be some form of
+a human long removed from society.  Several strange sounds come from the
+figures mouth and he spits on the floor.
+~
+262179 98304 -250 C
+22 0 0 5d10+400 4d4+7
+100 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+10 0 0 0 0 0 0 0
+#11323
+mud~
+A Mud monster~
+A mud monster rises up from the muddy pool.
+~
+Upon entering the room, several forms rise up out of the mud to meet your eyes.
+~
+3 100663808 -250 C
+23 0 0 5d10+500 2d10+6
+20 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+12 0 0 0 0 0 0 0
+#11325
+fish~
+A savage fish~
+A savage fish jumps up from the waters.
+~
+This is one of several fish swimming in the area.  It has large teeth
+poking out of its mouth.  It swimms around the water playfully.
+~
+3 134742016 -200 C
+27 0 0 6d12+703 2d12+8
+5 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+10 0 0 0 0 0 0 0
+#11333
+dark figure shadow~
+A dark figure~
+A dark figure leaps out of the shadows.
+~
+A dark figure leaps from the shadows.  He wears a tattered robe with
+strage markings.  The dark shadow chants and mumbles strange incantations.
+~
+3 102859272 0 C
+27 0 0 6d12+703 2d12+8
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+15 0 0 0 0 0 0 0
+#11338
+Kheld ghost hunter~
+Kheld the Ancient Hunter of Fulkum~
+A ghostly form of the hunter Kheld floats here.
+~
+The ghost of Kheld floats in front of you.  He is known for his
+superior hunting skills as well as his ability to fight.  His keen eyes look
+sharply at you.
+~
+16451 36176416 -500 C
+31 0 0 9d77+470 5d6+18
+200 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11339
+Sherik~
+Sherik, the Ancient Warrior of Jhalem~
+A ghostly form of the warrior Sherik floats here.
+~
+~
+16451 0 -800 C
+33 0 0 10d61+430 5d6+20
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11340
+Grathon~
+Grathon, the Ancient Warrior of Hakon~
+A ghostly form of the warrior Grathon floats here.
+~
+~
+16451 69206016 1000 C
+31 0 0 10d61+420 0d0+0
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11341
+zantantholos~
+Zantantholos the Acient Wizard of Krimal~
+A ghostly form of the wizard Zantantholos floats here.
+~
+This appears to be the fable wizard Zantantholos.  You have heard of
+his discoveries in the arcane arts of necromancy.  You wonder if he is able
+to summon such power beyond his grave, 
+~
+213059 268960288 -1000 C
+29 0 0 9d61+420 5d6+15
+300 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11342
+Hephix~
+Hephix, the Ancient Warrior of Lokad~
+A ghostly form of the warrior of the warrior Hephix floats here.
+~
+~
+16451 0 -900 C
+32 0 0 10d61+422 5d6+22
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11343
+Kalmox warrior~
+Kalmox the Executioner~
+A ghostly form of the ancient warrior Kalmox floats here.
+~
+~
+16451 371195904 1000 C
+34 0 0 10d61+420 5d6+20
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11346
+wyvern~
+A Wyvern~
+A large wyvern lies here.
+~
+A large wyvern claims this part of the alcove as his home.  He is a deep
+purple in color.  By the look of body it can be seen he has survived many
+battles.
+~
+35 524328 0 C
+24 0 0 5d10+550 2d10+10
+250 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#11300
+Pestilence~
+The Brutal Axe of Pestilence ~
+~
+(null)~
+5 87 8193
+0 8 8 0
+10 500 50
+A
+1 2
+A
+2 2
+A
+3 2
+A
+5 2
+A
+4 2
+A
+18 200
+A
+19 200
+A
+17 -500
+#11301
+bush~
+A large bush~
+A large bush lies here along side the mountain.~
+(null)~
+12 0 0
+0 0 0 0
+500 0 0
+E
+bush~
+As you look closer at the bush you notice it has been rumaged through. 
+Perhaps something lies within this great plant.   
+~
+#11302
+'branch leaves'~
+Several branches and leaves lie here~
+Several branches and leaves lie here~
+(null)~
+13 0 0
+0 0 0 0
+100 0 0
+#11303
+rock~
+A boulder~
+A huge boulder lies towards the rear of the small cavern.~
+(null)~
+13 0 0
+0 0 0 0
+500 0 0
+#11309
+'pool water'~
+Pool of water~
+Among the stalagmites lies a pool of water.~
+(null)~
+25 0 0
+-1 1000 0 0
+100 0 0
+#11333
+dagger~
+a small dagger~
+Desc A short dagger lies here.~
+(null)~
+5 327 8193
+0 10 3 11
+5 250 25
+#11334
+bag soul~
+Bag of Souls~
+A huge bag lies here, a stagnant aroma filters from it.~
+(null)~
+15 16777236 2049
+1000000 0 0 100000
+50 1000 100
+#11338
+tomb crypt~
+Kheld's Tomb~
+A tomb lies here along the back wall of the room.~
+(null)~
+15 20 0
+0 0 0 0
+100 0 0
+#11339
+tomb crypt~
+crypt of Sherik~
+A tomb lies off to the right side od this small room.~
+(null)~
+15 20 0
+0 0 0 0
+100 0 0
+#11340
+tomb crypt~
+the Crypt of Grathon~
+A tomb made of slate lies in the middle of the room.~
+(null)~
+15 20 0
+0 0 0 0
+100 0 0
+#11341
+crypt tomb~
+crypt of Zantantholos~
+A tomb floats here in the center of the room.~
+(null)~
+15 21 0
+0 0 0 0
+100 0 0
+#11342
+crypt tomb~
+crypt of Hephix~
+A tomb lays in the middle of the room.~
+(null)~
+15 21 0
+0 0 0 0
+100 0 0
+#11343
+crypt tomb~
+the Crypt of Kalmox~
+A large onyx tomb lies in the middle of the room.~
+(null)~
+15 20 0
+0 0 0 0
+100 0 0
+#0
+
+
+#ROOMS
+#11300
+End of the trail~
+The trail makes another turn on the journey through the mountains, and
+comes to a sudden stop.  The path appears to end right here at an
+outcropping.  Apparently, there is no other way out but the way in.  
+ 
+Along the outcrop lies a huge full leafy bush.
+~
+0 4 0
+S
+#11301
+Inside the huge bush~
+Several prickly branches block all passage in every imaginable direction,
+closing in on the rapidly shrinking safe spot among them.  Wickedly barbed
+thorns drip blood from previous victims' passage, although the density of
+the leaves and branches makes it hard to see if anything lies within this
+painful little alcove.  The tighter the branches entwine, the less visible
+the exits seem to become.
+~
+0 513 0
+D0
+~
+~
+35 0 11302
+S
+#11302
+Entrance to a small cavern.~
+The thornbush parts to reveal a small cavern, recently used by the looks
+of the footprints in the dust on the floor.  A largish boulder rests against
+the far wall, next to which are several obscure writings or carvings, which
+line the walls like fine spiderwebs.  The writing within the carvings is
+faded from years of neglect, blending into the cracks and chips in the stone
+walls.
+~
+0 1 0
+D2
+~
+~
+35 0 11301
+D5
+~
+wooden door~
+35 0 11303
+E
+boulder~
+This boulder is actually quite large.  As you approach it you find that
+you can walk behind it.  As you walk around the boulder you notice some form
+of a wooden door on the ground.   
+~
+S
+#11303
+A stone staircase~
+A roughly hewn staircase comes to a halt here, descending from above. 
+The light trickling down the steps is engulfed by the vast darkness to the
+east, where the stairway spirals downward once again.  A stale wind moans
+forlornly, carrying with it an additional scent of vintage mold.
+~
+0 1 0
+D1
+~
+~
+0 0 11304
+D4
+~
+~
+35 0 11302
+S
+#11304
+Darkness~
+A strange wind or force blows through the cavern, consuming all light. 
+The images and shadows fade into darkness, becoming as one in the blackness
+around.  All walls feel the same, all directions become the same, in the
+passage into the abyss.
+~
+0 0 0
+D3
+~
+~
+0 0 11303
+D5
+~
+~
+0 0 11305
+S
+#11305
+A hard stone floor~
+The hard surface of a stone floor rushes up at you with a loud SMACK!  As
+you land.  Gear lies partially broken and scattered across the floor from
+previous such landings.  The cool tiled floor collects itself into the form
+of a short hallway, filled with an odd musty smell and enough dust to cast a
+grey haze upon everything.  The grey becomes more of a yellowish-white to
+the north, from a distant light.
+~
+0 1 0
+D0
+~
+~
+0 0 11306
+S
+#11306
+A dark hallway~
+This is the end of the dark hallway.  To the east is an arched doorway. 
+A dark glowing light appears to emit from beyond the doorway.  Upon the
+floor are several tiny footprints outlined in dust and mold spores.
+~
+0 1 0
+D1
+~
+~
+0 0 11307
+D2
+~
+~
+0 0 11305
+S
+#11307
+A large cavern~
+The darkness suddenly expands in all directions, lit by an eerie dim glow
+coming off of the very rock of the cavern itself.  Stalagmites form an odd
+obstacle course in the chamber, while long daggers of stalactites dangle
+overhead.  A narrow path weaves its way around the stalagmites to the north
+and the east.
+~
+0 0 0
+D0
+~
+~
+0 0 11308
+D1
+~
+~
+0 0 11310
+D3
+~
+~
+0 0 11306
+S
+#11308
+A large cavern~
+This appears to be the northwestern area of the cavern.  The walls here
+are quite solid.  This part of the cavern is free of any stalagmites or
+stalactites.  But the walls forbid any movement less from the south or the
+east.
+~
+0 0 0
+D1
+~
+~
+0 0 11309
+D2
+~
+~
+0 0 11307
+S
+#11309
+A large cavern~
+This is the northeast croner of the cavern.  Here the stalagmites and
+stalactites are larger.  One group of stalagmites are arranged in a circle. 
+This circle has now become a pool of water.  The humidity in this part of
+the cavern is rather high and a bit uncomfortable.
+~
+0 0 0
+D2
+~
+~
+0 0 11310
+D3
+~
+~
+0 0 11308
+S
+#11310
+A large cavern~
+This is another section of the cavern.  The clutter of rock and debris
+along the floors and walls obstruct most vision beyond here.  A very faint
+musky draft drifts in from the south, sending the droplets of water from
+overhead into a steady rhythm of droplets to the north.  Westward, a narrow
+path threads itself through the needles of rocks and stalagmites.
+~
+0 0 0
+D0
+~
+~
+0 0 11309
+D2
+~
+~
+0 0 11311
+D3
+~
+~
+0 0 11307
+S
+#11311
+A large cavern~
+The clutter of the cavern leaves a winding trail in its wake, twisting
+and turning in upon itself to lead in nearly every direction.  The draft
+from beyond the caves is shifting direction irregularly, followed by
+additional new sounds, barely audible with the noise of water droplets in
+the background.  The strange noises fade into the darkness beyond, far ahead
+into the obstacle course within the chamber.
+~
+0 0 0
+D0
+~
+~
+0 0 11310
+D1
+~
+~
+0 0 11312
+S
+#11312
+A large cavern~
+This appears to be the end of the cavern.  The draft becomes stronger,
+and cooler, to the east -- where a stone archway awaits.  Light emanates
+from the walls all around, however faint, illuminating just enough of the
+surroundings to reveal the archway as the only other exit.
+~
+0 0 0
+D1
+~
+~
+0 0 11313
+D3
+~
+~
+0 0 11311
+S
+#11313
+The Cross Halls~
+This is a rather tall, square room of sorts.  From here there are exits
+in each of the cardinal directions.  A torch burns on each wall here,
+bearing the much needed light.  The structure of this rom appears excellent,
+unlike the cavern foundation among the corridors beyond.  All exits from
+here lead into darkness, obscuring any view into the rest of the cave, and
+leading many a traveler astray.
+~
+0 0 0
+D0
+~
+~
+0 0 11318
+D1
+~
+~
+0 0 11322
+D2
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11312
+S
+#11314
+The Southern Hallway~
+This is the beginning of the southern hallway.  It appears to be chiseled
+from the rocks themselves, and again there is a fine film of dust upon the
+floor.  The western wall appears to contain a small opening of sorts, but
+other than that the hallway continues to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11315
+D3
+~
+~
+0 0 11344
+S
+#11315
+The Southern Hallway~
+The hallway begins to dim darkly before you.  The walls are still well
+defined and quite solid.  Before what little light remaining within the
+corridor dies completely, the odd glow reveals practically no evidence of
+life or use in recent times.  A gentle breeze from the south brings more of
+a reminder of the clinging dampness in the air.
+~
+0 0 0
+D0
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11316
+S
+#11316
+The Southern Hallway~
+Further along the southern hallway, the once solid floor begins to soften
+under your feet.  Mud builds up on your feet, making strange sucking and
+squishy noises.  The floor slants downward ever so slightly, sloping ahead
+into the unknown.  Rivulets of water mix with the mud, making the floor all
+the more slippery.
+~
+0 0 0
+D0
+~
+~
+0 0 11315
+D2
+~
+~
+0 0 11317
+S
+#11317
+The Southern Hallway~
+The muddy floor, the extreme darkness, and oppressing humidity of the air
+blend into one offensive element here.  Without warning, the floor shifts
+downward, causing you to fall on your ass and slide right into a wall! 
+Apparently the southern route is not an option, although the darkness has
+stolen away most signs of entrances or exits here.
+~
+0 524289 0
+D0
+~
+~
+0 0 11316
+D5
+~
+~
+0 0 11323
+S
+#11318
+The Northern Hallway~
+This is the beginning of the northern hallway.  The huge stone walls
+contain the remains of several different items, including shields bearing
+ancient crests of unknown heraldry.  The litter on the floor here appears to
+be the remains of tattered tapestries and other decorative items long since
+deteriorated from time.
+~
+0 0 0
+D0
+~
+~
+0 0 11319
+D2
+~
+~
+0 0 11313
+S
+#11319
+The Northern Hallway~
+This section of the northern hallway really doesn't look much different
+from the other hallways, rather unremarkable overall.  Again, the floor is
+littered with all kinds of fallen decorations.  From the looks and quality
+of the remnants of tapestries, and discarded items, a royal family once
+lived here.  A partially carved image on the wall indicates what might be
+some sort of throne room in the vicinity.
+~
+0 0 0
+D0
+~
+~
+0 0 11320
+D2
+~
+~
+0 0 11318
+S
+#11320
+The Northern Hallway~
+The neverending hallway continues straight along into the dimness, where
+fallen debris makes passage as difficult as the previous sections of the
+passage.  Yet, for all the finery of the litter, none of it is in condition
+to be sold for silver or gold.  The wreckage shows only slight hints of the
+splendor of what this place must have been like long ago.  Further to the
+north, the passage dims even more.
+~
+0 0 0
+D0
+~
+~
+0 0 11321
+D2
+~
+~
+0 0 11319
+S
+#11321
+The cave in~
+This is the end of the northern hallway, where the darkness coalesces
+into what may as well be a tangible pool.  The rubble and scraps of
+tapestries entangle themselves around your legs, sending you sprawling --
+into a cave-in.  Apparently the route to whatever chambers lie beyond here
+have long since been sealed off, and the only other exit is back in the
+opposite direction.
+~
+0 0 0
+D2
+~
+~
+0 0 11320
+E
+rubble~
+The rubble is scattered everywhere.  You look towards the cave in for a
+possible way through but see none.  
+
+~
+S
+#11322
+The Stone Door~
+A massive stone door stands here, nearly indistinguishable from the rest
+of the wall, blending in perfectly but for a few cracks here and there
+around the edges.  The remains of several etchings cover the stone slab,
+from top to bottom.  Broken picks and shovels lie piled in a heap before the
+door, the only evidence of the many failed attempts to access what lies
+beyond here.
+~
+0 0 0
+D3
+~
+~
+0 0 11313
+S
+#11323
+A Muddy Pool~
+As you climb down the hole you slip and fall into a small pool of muddy
+water.  The sound of running water somewhere nearby echoes off the walls. 
+Everything inside this room seems more earthy than the ones above.
+~
+0 1 0
+D0
+~
+~
+0 0 11324
+D4
+~
+~
+0 0 11317
+S
+#11324
+Mud Slide~
+Once again, you lose your footing, this time winding up dragged into a
+river!  The water carries you to the east, where the light in the halls
+vanishes faster than a snuffed out candle.
+~
+0 0 0
+D5
+~
+~
+0 0 11325
+S
+#11325
+Waterfall~
+The river plunges down, dropping you into a small pool of water before
+you are thrust upon a small spit of land.  The water continues to fall, but
+there is no evidence of where it flows away to from here.  Once again the
+walls here are chiseled solid rock.  A slight opening has been carved away
+to the north, into the ever-present darkness.
+~
+0 0 0
+D0
+~
+~
+0 0 11326
+D4
+~
+~
+0 0 11324
+S
+#11326
+A Dark Entrance~
+Just on the other side of an entrance into the darkness, strange sounds
+begin to revertebrate off the walls -- but they might be just the waterfall
+in the passage beyond.  Or maybe not.  The small room turns to the east to
+reveal a stone archway.  Other than that, there appears to be no other
+exits.
+~
+0 524289 0
+D1
+~
+~
+0 0 11327
+D2
+~
+~
+0 0 11325
+S
+#11327
+The Hall~
+The stone archway leads into a large hall of sorts, expanding all around.
+The low ceiling presses close, as if the chamber was more suited for pixies
+or halflings!  Although the room continues to fan out, the sheer
+spaciousness of the place makes it difficult for any traveler to determine
+what lies within it.
+~
+0 524288 0
+D0
+~
+~
+0 0 11328
+D1
+~
+~
+0 0 11330
+D2
+~
+~
+0 0 11332
+D3
+~
+~
+0 0 11326
+S
+#11328
+The Hall~
+This appears to be the corner of the hall.  This end of the hall is
+quieter, although the ground is much more cluttered.  Cobwebs and dust cover
+the remains of the deteriorated objects.  There could not possibly be
+anything of worth in this mess!
+~
+0 524289 0
+D1
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11327
+S
+#11329
+The Hall~
+This is the northern wall of the hall.  Debris lies scattered along the
+floor, all of which has long since lost any worth.  A slight breeze roams in
+from the east -- or was that something else?  The hall grows slightly warmer
+here, more noticeable than the other sections.
+~
+0 524289 0
+D1
+~
+~
+0 0 11333
+D2
+~
+~
+0 0 11330
+D3
+~
+~
+0 0 11328
+S
+#11330
+The Hall~
+This is near roughly the midpoint of the eastern wall.  All the floor in
+the hall seems to have been swept bare of all things, collecting more of the
+usual dust and mold.  On occasion, a small spider comes out of a crack in
+the floor, crawling south, where a faint moan rises and falls on the stale
+air.
+~
+0 524289 0
+D0
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11327
+S
+#11331
+The Hall~
+This end of the hall looks as though it was once well traveled.  The
+floor is quite smooth although it is very dusty.  The sounds of moaning are
+a bit stronger here.  They seem to originate to the east.
+~
+0 524289 0
+D0
+~
+~
+0 0 11330
+D1
+~
+~
+0 0 11334
+D3
+~
+~
+0 0 11332
+S
+#11332
+The Hall~
+This section of the hall is completely bare.  And with the darkness and
+no known maps of the passageways or tales of what lies here, there doesn't
+seem to be much reason to look further into it.  The hall arcs around to the
+north and east.
+~
+0 524289 0
+D0
+~
+~
+0 0 11327
+D1
+~
+~
+0 0 11331
+S
+#11333
+A small alcove~
+This is a small offshoot of the hall.  The room is squite small, and more
+or less nondescript.  Everything is the same monotonous color, texture,
+scent -- until that creature in the shadows leaps out at you!
+~
+0 524289 0
+D3
+~
+~
+0 0 11329
+S
+#11334
+Entrance to the Crypts~
+A huge cast iron gate towers here imposingly.  From the looks of it, the
+decor appears to be "early graveyard" style.  Beyond the cold gates come
+several moans of agony and pain.  This is definitely not an inviting place. 
+By all the indications, more than a few travelers have passed through here
+quickly.
+~
+0 0 0
+D2
+~
+~
+35 0 11335
+D3
+~
+~
+0 0 11331
+S
+#11335
+Crypts of the Ancients~
+This appears to be a hallway of sorts, stretching into the unknown. 
+Arches span across to the left and the right, into adjoining chambers. 
+Moans of agony and distress crescendo and descrescendo within those rooms,
+caused by some unknown force.
+~
+0 0 0
+D0
+~
+~
+35 0 11334
+D1
+~
+~
+0 0 11341
+D2
+~
+~
+0 0 11336
+D3
+~
+~
+0 0 11338
+S
+#11336
+Crypt of the Ancients~
+The hallway, if that is indeed what it can be called, continues here. 
+Dark arches of black marble lead off to the left and right.  From the looks
+of it, either one may lead to more crypts.
+~
+0 0 0
+D0
+~
+~
+0 0 11335
+D1
+~
+~
+0 0 11342
+D2
+~
+~
+0 0 11337
+D3
+~
+~
+0 0 11339
+S
+#11337
+Crypt of the Ancients~
+This appears to be the end of the dark hallway.  Again there are crypts
+located to the left and right.  The sounds of long drawn out moans appears
+to come from all directions here.
+~
+0 9 0
+D0
+~
+~
+0 0 11336
+D1
+~
+~
+0 0 11343
+D3
+~
+~
+0 0 11340
+S
+#11338
+Crypt of Kheld~
+This appears to be a crypt containing Kheld the Great Hunter.  The walls
+contain images of several large game as well as the faces of several people.
+It appears Kheld once hunted more than just animals.  The sounds of moaning
+comes from all directions in this room.
+~
+0 0 0
+D1
+~
+~
+0 0 11335
+S
+#11339
+The Crypt of Sherik~
+This musky room contains the tomb of Sherik the Fiend.  The room is dark
+and smells of rotten flesh.  A small group of rats scury off into a hole
+towards the west wall.
+~
+0 1 0
+D1
+~
+~
+0 0 11336
+S
+#11340
+Crypt of Grathon~
+This crypt contains the tomb of Grathon the Slaughterer.  It is rumored
+that he once fought alongside Cepheid.  But that is just lore, probably. 
+This room is much like the other explored crypts, although it appears to
+have a deep red glow to it.
+~
+0 0 0
+D1
+~
+~
+0 0 11337
+S
+#11341
+Crypt of Zantanthalos~
+Upon entering the crypt, a strange glowing mist flows from the marble
+tomb.  The walls contain arcane symbols and seem to shift in form slightly. 
+Just enough to make the casual observer dizzy.  The sarcophagus in the
+middle of the room appears to float above the floor, making no contact with
+it.  Instead of the usual drowning rooms, this chamber seems to emite more
+of a chant of some kind.
+~
+0 1 0
+D3
+~
+~
+0 0 11335
+S
+#11342
+Crypt of Hephix~
+This crypt is a bit brighter than the others seen in the same area.  The
+tomb itself fluoresces, giving off an eerie glow and eliminating almost all
+shadows.  Strange wispy gray moss dangles from the ceiling, like the hair of
+some ancient hag.
+~
+0 1 0
+D3
+~
+~
+0 0 11336
+S
+#11343
+Crypt of Kalmox~
+This is the resting place of Kalmox, an ancient warrior who once delt
+pain to the many dwarves and humans within these very mountains.  A large
+casket lays here as his final resting place.  Other than that the room lies
+bare, less the fungus which has grown in abundance along the ceiling and the
+walls.
+~
+0 1 0
+D3
+~
+~
+0 0 11337
+S
+#11344
+~
+This is the entrance to a small alcove.  A rustling of noise comes from
+further within the filthy alcove, echoing off the walls.  The area is filled
+with a unique foul odor, of undeterminable origin.  The alcove continues on
+to the west or south.
+~
+0 0 0
+D1
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11347
+S
+#11345
+~
+This is the southern corner of the alcove.  The rustling sound is now
+louder.  The source seems to be westward from here.  Several bones litter
+the floor, scattered in disarray.  And, from the looks of it, none of those
+bones appear to be recognizable.
+~
+0 0 0
+D0
+~
+~
+0 0 11344
+D3
+~
+~
+0 0 11346
+S
+#11346
+~
+Here in the southern corner of the alcove, footing becomes increasingly
+difficult, as the number of bones lying on the ground multiply.  A hulking
+form in the corner picks up a particularly juicy femur bone, then tosses it
+aside, snarling and eyeing you hungrily!
+~
+0 0 0
+D0
+~
+~
+0 0 11347
+D1
+~
+~
+0 0 11345
+S
+#11347
+~
+This is the northern corner of the alcove.  The rustling sound is now
+much stronger.  The source appears to be originating from the south of here.
+Several bones lie on the floor and in the corner lies a pile of more bones. 
+The origins of these bones are as much of a mystery as the origin as the
+others lying around in the same location.
+~
+0 0 0
+D1
+~
+~
+0 0 11344
+D2
+~
+~
+0 0 11346
+S
+#0
+
+
+#RESETS
+O 1 11301 0 11300
+O 1 11302 0 11301
+D 1 11301 0 1
+O 1 11303 0 11302
+D 1 11302 2 1
+D 1 11302 5 1
+M 1 11303 5 11303
+D 1 11303 4 1
+M 1 11306 1 11306
+M 1 11303 1 11308
+M 1 11303 1 11308
+O 1 11309 0 11309
+M 1 11309 1 11309
+M 1 11306 1 11310
+M 1 11312 1 11312
+M 1 11312 1 11312
+M 1 11312 1 11312
+M 1 11312 1 11312
+M 1 11312 1 11316
+M 1 11312 1 11316
+M 1 11303 1 11319
+M 1 11321 1 11321
+M 1 11321 1 11322
+M 1 11323 1 11323
+M 1 11323 1 11323
+M 1 11323 1 11323
+M 1 11323 1 11324
+M 1 11323 1 11324
+M 1 11325 1 11325
+M 1 11333 1 11333
+D 1 11334 2 1
+D 1 11335 0 1
+M 1 11338 1 11338
+O 1 11338 0 11338
+M 1 11339 1 11339
+O 1 11339 0 11339
+M 1 11340 1 11340
+O 1 11340 0 11340
+M 1 11341 1 11341
+O 1 11341 0 11341
+M 1 11342 1 11342
+O 1 11342 0 11342
+M 1 11343 1 11343
+O 1 11343 0 11343
+M 1 11346 1 11346
+M 1 11306 1 11347
+M 1 11303 1 11347
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

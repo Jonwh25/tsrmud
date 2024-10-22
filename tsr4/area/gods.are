@@ -1,0 +1,435 @@
+#AREA   Gods~
+
+
+
+#VERSION 1
+#AUTHOR ROD~
+
+#RANGES
+0 60 0 60
+$
+
+#RESETMSG A low humming noise can be heard.~
+
+#FLAGS
+0
+
+#ECONOMY 0 45000000
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#1200
+mobile~
+a mobile~
+A mobile is here.
+~
+~
+1073741825 0 0 C
+1 50 0 0d0+0 0d0+0
+100 4000
+112 112 0
+13 13 13 13 13 13 0
+0 0 0 0 0
+3 0 0 0 131073 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#1200
+immortal board~
+the immortal board~
+The Immortal Board is standing here.~
+~
+12 0 0
+0 0 0 0
+1 10 1
+#1201
+admin board~
+The Admin Board~
+A huge pillar with ancient writing rises from the ground before you.~
+~
+12 0 0
+0 0 0 0
+1 10 1
+#1202
+builder board~
+The Builder Board~
+A board with notes on it is behind the bar.~
+~
+12 0 0
+0 0 0 0
+1 10 1
+#1203
+sword belt~
+A jewel encrusted sword belt~
+A jewel encrusted sword belt is laying on the ground.~
+~
+61 3 2049
+0 0 0 0
+1 0 0
+#1210
+Diamond Earring~
+A Diamond Earring~
+A solitary diamond earring lies on the floor before you.~
+~
+9 1 65537
+35 35 0 0
+1 0 0
+A
+18 5
+A
+19 6
+#1211
+Shield Legends~
+The Shield of Legends~
+A legendary shield lays here glowing brightly.~
+~
+9 65 2561
+50 50 0 0
+1 0 0
+A
+19 8
+A
+18 7
+A
+27 128
+A
+27 32
+#1212
+Dragonscale Pants~
+DragonScale Pants~
+A pair of pants made of scales lays here before you. ~
+~
+9 0 33
+35 35 0 0
+5 0 0
+A
+22 10
+A
+23 10
+A
+56 205
+A
+24 10
+#1213
+Flaming Bracers~
+a pair of Flaming Bracers~
+A pair of bracers lie here engulfed by fire.~
+~
+9 3 4097
+40 40 0 0
+2 0 0
+A
+1 3
+A
+27 1
+A
+13 200
+A
+12 200
+A
+56 88
+#1214
+Dragon Tooth Sword~
+The Dragon Tooth Sword~
+A sword made of a dragon's tooth lays here.~
+~
+5 3 24577
+12 1 140 1
+5 0 0
+A
+18 10
+A
+19 10
+A
+12 250
+A
+13 250
+A
+30 26
+#1215
+Black Mirror~
+a Black Mirror~
+You can barely see your reflection within this darkened glass.~
+~
+13 8263 1
+0 0 0 0
+1 0 0
+#1216
+Glass Orb~
+a Glass Orb~
+A transparent ball lays here~
+~
+13 8257 1
+0 0 0 0
+1 0 0
+#1217
+Rune Journal~
+Journal of Runes.~
+A book full of strange writting lies here open to prying eyes.~
+~
+13 8257 1
+0 0 0 0
+1 0 0
+#1218
+Platinum Egg oval~
+Platinum Egg~
+An oval-shaped object lays on the ground before you.~
+~
+13 8194 1
+0 0 0 0
+1 0 0
+#1219
+Crown Madness Golden~
+The Crown of Madness~
+A golden crown eminating an eerie glow lays here.~
+~
+13 8199 1
+0 0 0 0
+1 0 0
+#1250
+dirt earth brown~
+dirt~
+Some freshly tilled brown earth.~
+~
+13 65 1
+0 0 0 0
+10 1 0
+E
+dirt earth~
+The scent of freshly tilled earth surrounds this rich brown loam.
+A feeling of power eminates from it.  You get a vague impression
+of the surrounding lands while near the earth.
+~
+E
+plant shrub~
+A nice large plant with big wide leaves that seem to have a waxy 
+surface. It gives off a pleasant green odor.  It rests in a big
+orange ceramic pot.
+~
+#1251
+globe~
+earth globe~
+A globe formed of muddy brown crystal rests firmly on the ground.~
+~
+8 65 1
+0 0 0 0
+9000 10000 10000
+E
+globe crystal~
+The faint smell of tilled earth hovers in the air.  The globe is made
+of a muddy brown crystal.  Faint etched lines cover the surface of
+the globe.  While a dark green light shines faintly from its center.
+~
+E
+lines etched surface~
+Looking closer you are surprised to note that the lines are actually
+a map of the entire realms.  However there is very little detail to
+the map.
+~
+#1252
+brown eye~
+brown eye~
+A brown gem made of crystal.  ~
+~
+9 9 131073
+1 1 0 0
+3 100 10
+A
+56 91
+A
+37 -10
+#0
+
+
+#ROOMS
+#1200
+The Parlour of the Immortals~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace. 
+ 
+~
+0 3153924 0
+S
+#1201
+The Admin Bar & Grill.~
+You stand in a cozy room built for the Admins of this world. All the
+Ancient gods come here to chat of old times and laugh about foolish
+mortals who died at their hands. You see pictures on a dart board
+of Elias, Cerebus, Milamber, and a few others too ugly to place
+a picture of here. The Gods take great pleasure in throwing darts
+and spells at those pictures.
+~
+0 3146252 0
+E
+fireplace~
+The fireplace contains a nice warm fire.
+~
+E
+rug~
+It sure does look inviting.
+~
+E
+chair~
+It looks very comfortable.
+~
+S
+#1202
+The Builders Parlor of Relaxation.~
+You stand in a lavish room full of huge fluffy sofas and chairs.
+In the northern end of the room is a large, white, marble bar where
+those who create the world may get a drink and share ideas. At the 
+eastern side of the room is a large pool of steamy water where some
+creators like to rest.
+~
+0 1073741828 1
+S
+#1207
+In Memory of Baldr~
+You find yourself walking the sea shore at sunset.  Soft, soothing mist curls
+contentedly around your ankles.  A cool salt breeze lifts your hair and
+pastes tendrils of hair to your cheeks.  The sounds of the water pound and
+roar in your ears.  Waves rise up and break in front of you, their foam gently
+tugging at you, tempting you, begging you to walk out into their depths.
+Someone has written in the sand the words, "We love you Baldr" and placed
+delicate blue and green sea shells all around.  
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 1222
+> entry_prog 100~
+if issound($n)
+mpechoat $n HIHO!!!!
+else
+mpechoat $n DOH!
+endif
+~
+|
+S
+#1208
+Dreamerie~
+The sensation you feel upon entering this room is wholly ethereal. Each step
+you take provides you with a soft 'sussssss' sound. Sepha's room is changeable.
+One moment, you'll see a bedroom, and be able to sit upon the soft furs there,
+the next moment, you are in a ballroom. The hazy edges around everything there
+gives truth to the dream. It makes you feel this is, indeed, merely a dream.
+One one wall, though, despite what the rest of the room looks like, is a large
+bookshelf. Most of the pages of these books are empty. Some are not. A table
+and chair sits by this bookshelf, though the style of it alters as the room
+does.
+~
+0 1073741828 1
+S
+#1209
+Knaff's cool room.~
+~
+0 1073741828 1
+S
+#1210
+Ra's Chamber of Light.~
+You stand in a amazingly huge room. A large crystal chandiller hangs
+from the arched ceiling like a silent watcher on a hill. Rows of huge
+metalic torches line the walls burning with a purple hue. To the back
+of the room is a large oak desk. On the desk is a huge pile of scrolls
+and parchments. The floor of the room is adorned with crimson colored
+carpet. All around you is fine luxury.
+~
+0 1073742340 1
+S
+#1213
+Hell.~
+Now, you've done it... the gods must have truly forsaken you, to have sent
+you straight to hell!! It is highly advised to wait here to make your
+appeal to the wrath of the gods,,, or face being damned to hell
+for all eternity. The fires of the room burn with a great intensity
+making your eyes burn and your flesh blister and bubble.
+~
+0 3154052 1
+S
+#1220
+Floating in a void~
+~
+0 1073741828 1
+S
+#1222
+Beowolf's Evil Room.~
+An upside-down head sways back and forth before you. A tattered young
+boy hangs from a meat hook cruelly pierced through his spine, his dead
+eyes and mouth are open, and his intestines are hanging out of his
+body dripping with blood. The room is filled with small children and
+people of all ages hanging from the cold cruel iron. A small alley cat
+sways back and forth, its neck pierced, and blood dripping from its 
+blood soaked fur. Another young boy is still alive, struggling in vein,
+his wrists have huge gashes and his blood creates a red ocean of beauty.
+The boys screams are like pure Music to your ears. Naked and wide-eyed
+a little girl is huddled cowering in the corner holding her dirty dolly
+with passion. A huge spider crawls over her beaten, blood-smeared face
+getting stuck in the white goop, which appears to be splotches on her 
+body. You feel a good feeling burning inside your chest like an orgasm 
+from all this ravishing beauty. This is the closest you've ever come to
+the essence of life. You ask what love is? This is love...
+~
+0 1073742340 1
+D2
+~
+~
+0 -1 1207
+D5
+~
+~
+0 -1 9302
+> speech_prog 100 cool kickin rock~
+if issound($n)
+mpechoat $n !!MUSIC(Tsr/4mtking V=100)
+endif
+~
+|
+S
+#1230
+Rahvan's Thrown Room~
+You are in the middle of a well lit room.  You cannot see the walls
+where ever they are.  There is a gold trimmed red carpet lining a path
+to a massive thrown.  The rug is surounded on both sides by marble
+statues and golden trinkets.  The thrown is emmence.  There are
+hundereds of stairs before the thrown.  You are at the bottom.
+~
+0 1073783820 0
+S
+#1250
+Terram's Cave~
+Colored light covers everything as you enter this large cave.  The 
+ceiling is made of thousands of gems.  The floor is soft rich brown
+loam.  The walls are living trunks of trees, interlaced with climbing
+ivys.  Setting in one corner is a low table on a woven rug.  The 
+opposite corner has a base for something made of solid granite.
+~
+0 1073742852 1
+S
+#0
+
+
+#RESETS
+O 1 1200 1 1200
+O 1 1201 1 1201
+O 1 1202 1 1202
+O 0 1251 1 1250
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

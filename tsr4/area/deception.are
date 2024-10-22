@@ -1,0 +1,3015 @@
+#AREA   The Shadow Castle~
+
+
+
+#AUTHOR Remik~
+
+#RANGES
+35 50 0 60
+$
+
+#RESETMSG Hollow screams fill the air as Deception grows stronger.~
+
+#FLAGS
+0 30
+
+#ECONOMY 0 932736450
+
+#MOBILES
+#4600
+Smokebox~
+a newly created Smokebox~
+Some god abandoned a newly created Smokebox here.
+~
+~
+129 131072 1000 C
+1 0 -1 0d0+0 0d0+0
+100000000 0
+8 8 0
+20 20 13 20 20 20 20
+0 0 0 0 0
+0 24 0 0 1 1 0
+85 65 0 0 0 0 0 0
+#4601
+Devoid~
+Devoid~
+Devoid is here, waiting to transport you.
+~
+You see the Seeker of Truth before you.
+~
+1073741825 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 1 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 524288 1 0
+0 0 0 2048 0 0 4 0
+#4602
+New~
+a newly created New~
+Some god abandoned a newly created New here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4603
+Rahl~
+Rahl~
+Rahl the shopkeeper stands here, waiting for your command.
+~
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+57 0 0 0 1629514611 1629514610 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+say Greetings, $n.  Welcome to the Torture Techneik.
+bow $n
+mpechoat $n Type 'list' for all the available equipment to buy.
+say Hope that what I have fills your needs.
+mpechoat $n Your attention is directed towards a note on the wall.
+~
+|
+#4604
+Cloaked Warrior~
+The Cloaked Warrior~
+A cloaked warrior stands here, ready to aid.
+~
+A sturdy trap of sharply spiked jaws is pretty much concealed by the
+earth.  The trap stirs slightly when you enter which alerts you to its
+presence.  Thoughts of what those cruel jaws could do to a foot or leg cause
+you to approach it with extreme caution.
+~
+262403 33620008 -200 S
+52 0 0 10d162+901 5d10+24
+35 0
+8 8 0
+#4605
+Inktar the Portalman~
+Inktar~
+A large man stands here, staring intently at you.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+say Greetings, $n.  I am here to aid your journeys.
+mpechoat $n Choose one of the following cities:
+mpechoat $n Darkhaven, City of Shadows, New Thalos, Malathar, Thenia.
+mpechoat $n Say your destination and Inktar will transport accordingly.
+say Where is it you wish to travel, $n?
+emote crosses his hands in anticipation of your command.
+~
+> speech_prog p Darkhaven~
+say Farewell, and good day, $n.
+emote waves his arms in an arcane fasion.
+mpechoat $n A shimmering blue portal arises before your very eyes.
+nod
+mptransfer $n 21000
+mpat 21000 mpforce $n look
+~
+> speech_prog p City of Shadows~
+say Farewell, and good day, $n.
+emote waves his arms in an arcane fasion.
+mpechoat $n A shimmering blue portal arises before your very eyes.
+nod
+mptransfer $n 8768
+mpat 8768 mpforce $n look
+~
+> speech_prog p New Thalos~
+say Farewell, and good day, $n.
+emote waves his arms in an arcane fasion.
+mpechoat $n A shimmering blue portal arises before your very eyes.
+nod
+mptransfer $n 9506
+mpat 9506 mpforce $n look
+~
+> speech_prog p Malathar~
+say Farewell and good day, $n.
+emote waves his arms in an arcane fasion.
+mpechoat $n A shimmering blue portal arises before your very eyes.
+nod
+mptransfer $n 408
+mpat 408 mpforce $n look
+~
+> speech_prog p Thenia~
+say Farewell, and good day, $n.
+emote waves his arms in an arcane fasion.
+mpechoat $n A shimmering blue portal arises before your very eyes.
+nod
+mptransfer $n 1925
+mpat 1925 mpforce $n look
+~
+|
+#4606
+Kintar~
+Kintar~
+Kintar stands here, waiting to assist you.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+say Hello, $n.  If you have a room, I can tranfer you.
+mpechoat $n To do this, type 'Yes' to be transfered by Kintar.
+mpechoat $n Otherwise, exit east.
+say Do you wish to enter your room, $n?
+twid
+~
+> speech_prog p Yes~
+if name($n) == Galdar
+mpechoat $n You will now be transfered to your room, $n.
+say Good day, $n.
+wave $n.
+mptransfer $n 4679
+mpat 4679 mpforce $n look
+endif
+~
+|
+#4607
+Erzebet~
+Erzebet~
+Erzebet is Scholar is here, teaching languages.
+~
+This has to be one of the most beautiful women in these Realms, both inside
+and out. Her eyes have a sparkle of amusement and her face an easy smile.
+She knows you are admiring her, and she does not seem to mind. She is
+comfortable and confident that the picture she makes is breath taking. Her
+voice at last breaks the spell. Her voice is like satin, you can hardly
+wait for your lessons to begin. Any reason to hear her speak the tongues
+foreign to your ears.
+~
+1048579 4194472 0 C
+5 16 5 1000d1+0 1d6+3
+50 450
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 671871 1 0
+0 0 3 0 1059840 0 0 0
+> all_greet_prog 100~
+say Greetings, $n.  I look forward to our lessons.
+say What is it that you would like to learn today?
+smile $n
+~
+|
+#4608
+A skeleton~
+A skeleton~
+A large, rotting skeleton hovers above the Throne of Remik.
+~
+You look upon an ancient skeleton. It is rumored that those of Chaos used to
+be trained and given practices with a certain skeleton on a Throne...
+~
+131139 3145736 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 35655936 0
+> all_greet_prog 100~
+say Leave now, or die!
+behead $n
+~
+|
+#4610
+Lexa~
+Lexa the Castle Brewer~
+Lexa the Castle Brewer
+~
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+15 15 15 15 15 15 15
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#4611
+Remik~
+a newly created Remik~
+Some god abandoned a newly created Remik here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4612
+Lerak~
+a newly created Lerak~
+Some god abandoned a newly created Lerak here.
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4613
+Loci~
+Loci~
+A small Halfling named Loci stands here.
+~
+~
+131075 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+3 3 0 0 131073 1 0
+50 50 0 0 1056768 0 0 0
+> all_greet_prog 100~
+chuckle
+say And welcome, $n.  He, he.  I hope my weapons will serve you well.
+gig
+say This one is my favorite!  See!  See!  Look!  Look!  This one!
+emote points vigorously to a wicked dagger in the glass case.
+rgrin
+say Choose and make my master happy.
+hop
+mpechoat $n You see a small note on the glass case.
+~
+|
+#4619
+An animated skeleton~
+an animated skeleton~
+An pile of bones comes to life and attacks!
+~
+It feels no pain, and hacks at you ruthlessly.
+~
+225 34636321 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 131 0 0 0 65 524291
+> all_greet_prog 100~
+muhaha
+say Your soul is mine!  Orders of Remik!
+~
+|
+#4620
+Statue of Dalos~
+Statue of Dalos~
+The Statue of Dalos stands here.
+~
+~
+3 4194472 1000 C
+25 0 94 30000d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 0
+0 0 0 0 0
+0 6 0 0 1 1 0
+0 0 0 0 1058816 0 0 0
+> all_greet_prog 100~
+mpechoat $n  The Statue of Dalos starts to move!  It has become alive!
+say Greetings, $n.  Let me heal you.
+mpechoat $n The Statue of Dalos stops moving and has regained its solid shape.
+~
+|
+#4623
+Rahl the Shadow~
+Rahl the Shadow~
+Rahl floats here, awaiting your order.
+~
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+57 0 0 0 1629514611 1629514610 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+say Welcome to the Torture Techneik, $n
+say What is it that I can do for you?
+mpechoat $n You focus your attention on a small note on the wall.
+~
+|
+#4650
+Garou~
+Garou, the shopkeeper~
+Garou, the shopkeeper stands here
+~
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 2 6
+0 0 2047 0 3156992 0 48 3
+#4660
+Kentei~
+Kentei the Trainer~
+A huge man stands here, waiting to train the deceptive.
+~
+A huge man stands here in black robes.  His cloaked face gives him the 
+appearance of death.
+~
+1027 4194344 0 C
+50 0 0 1d1+30000 5d100+800
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+0 0 2047 0 3156992 0 0 0
+> all_greet_prog 100~
+say Welcome, $n.  Are you ready to train?
+cackle
+~
+|
+#4661
+Pasha~
+Pasha the Cook~
+Pasha stands here, taking your oder.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+bow $n
+say I am delighted that you have entered.  My thanks, $n.
+smile $n
+mpechoat $n The dazzling smells of the room put you into a daze.
+~
+|
+#4670
+A riding horse~
+A black horse~
+A black riding horse perks up at you.
+~
+A strong, proud, and properly groomed manor horse meets your gaze.
+You are just dying for a ride, aren't you?
+~
+262145 40 200 C
+5 0 1 9d3+100 3d3+2
+1000 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+86 3 0 0 1919251567 1919251566 0
+0 0 66621 0 0 0 0 0
+#4671
+A big kangaroo~
+A big kangaroo~
+A large brown kangaroo is hoping towards you.
+~
+Playful.  Yeah.  Right.  When this big brown gets near you it'll put a hurting
+on you like you wouldn't believe.  Thankfully, though, he has been trained to
+obey those with the mark of the Deceptive.
+~
+262145 0 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4672
+A large slider~
+A huge slider~
+A huge slider stands here, waiting to be mounted.
+~
+Staggeringly huge, this slider could take you out in one bite of its immense
+jaws.  The slider has been trained, however, to obey those of Deception.
+~
+5505025 24580 -750 S
+5 11 0 50d10+11100 7d8+43
+7700 0
+8 8 0
+#4673
+A shadow~
+A shadow~
+A shadow floats about the room.
+~
+The Shadow is vaguely humanoid. Two glowing pinpoints look at you.
+~
+101 42 -1000 C
+40 0 0 0d0+0 0d0+0
+45 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#4674
+Richard Rahl~
+a newly created None~
+Some god abandoned a newly created None here.
+~
+~
+1 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4690
+Nyril~
+Nyril the Wizard~
+Nyril the shopkeeper stands here.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+50 0 -300 1d1+30000 20d100+100
+700000 0
+8 8 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 3 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+say Welcome to my dominion, $n.
+mpechoat $n Your attention is caught by a small note by Nyril.
+~
+|
+#0
+
+
+#OBJECTS
+#4600
+Dagger butt whore~
+Dagger of Deception~
+Dagger of Deception~
+~
+5 0 8193
+0 0 0 0
+1 0 0
+#4601
+key~
+a newly created ke~
+Some god dropped a newly created ke here.~
+~
+9 0 16385 40
+0 0 0 0
+1 0 0
+#4602
+Focus Medallion~
+a brown cloak~
+A brown cloak lies here.~
+~
+9 256 5
+0 0 0 0
+1 0 0
+A
+18 40
+A
+19 40
+A
+5 10
+A
+4 10
+A
+31 10
+A
+2 10
+#4603
+Hand of Death~
+Hand of Death~
+A long, wicked dagger lies here~
+~
+5 0 8193
+0 0 0 0
+1 0 0
+#4604
+~
+a glowing purple potion~
+A glowing purple potion has been carelessly left here.~
+~
+10 65 1
+25 15 -1 -1
+2 6500 650
+#4605
+Chest of Galdar~
+Chest of Galdar~
+A large wooden chest lies here.~
+~
+15 1073758208 0
+1000000 0 0 1000000
+16960 0 0
+#4606
+Mad Whip~
+The Mad Whip~
+A thick, blue whip lies here.~
+~
+5 8192 8193
+0 7 5 0
+5 5000 500
+A
+13 15
+A
+2 2
+A
+3 -2
+#4607
+~
+a newly created ~
+~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#4608
+Dagger of Deception~
+Dagger of Deception~
+A long, black dagger lies here.~
+~
+5 8193 8193
+0 6 25 0
+10 10000 1000
+A
+19 5
+A
+18 5
+A
+1 -2
+A
+30 -1
+#4609
+An Arcane Chest~
+An Arcane Chest~
+A rugged, strapped chest lies here.~
+~
+15 262144 0
+100000 1 0 0
+50 500 50
+E
+chest~
+You several words carved on the Arcane Chest.  This is what you see:
+ 
+Dreamwalker = open                             Dalos = close
+~
+> speech_prog p Dreamwalker~
+mpforce $n open chest
+mpechoat $n The Arcane Chest glows a brilliant `8red`6.
+mpforce $n l in chest
+~
+> speech_prog p Dalos~
+mpforce $n close chest
+mpechoat $n The Arcane Chest fades back to its original color.
+~
+|
+#4610
+Deception Pit~
+the donation pit~
+A huge donation pit stands in the middle of the room.~
+~
+15 0 0
+2147483647 0 0 0
+1 0 0
+#4611
+corpse~
+A rotted corpse~
+A near rotted corpse lies here~
+~
+15 0 0
+5 0 0 0
+1 0 0
+#4612
+Doll of Remik~
+Doll of Remik~
+A plush doll lies here.~
+~
+8 1 0
+0 0 0 0
+1 0 0
+#4613
+Throne of Remik~
+Throne of Remik~
+The Throne of Remik stands here~
+~
+12 2 0
+0 0 0 0
+1 0 0
+#4614
+Statue~
+a newly created Statue~
+Some god dropped a newly created Statue here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#4615
+Fountain of Eternal Youth~
+a fountain~
+A black marble fountain spews water forth here.~
+~
+25 0 0
+50 50 0 0
+500 3000 300
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#4616
+A humble bed~
+A humble bed~
+A humble looking bed awaits you.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+bed~
+It is very comfortale looking, made with silk sheets and all.
+~
+#4617
+An Ornate Desk~
+an Ornate Desk~
+An Ornate Desk rests here.
+~
+~
+12 1 0
+0 0 0 0
+10000 0 0
+E
+desk~
+This desk looks FAR too heavy to move...
+~
+#4618
+Short Sword of Backstab~
+the Short Sword of Backstab~
+A sleek black blade is humming here.~
+~
+5 8258 8193
+100 10 3 2
+10 30000 3000
+A
+2 2
+A
+19 7
+A
+18 5
+A
+32 20
+A
+3 -2
+A
+5 -2
+A
+13 -30
+#4619
+~
+a newly created ~
+Some god dropped a newly created  here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#4620
+Sword of Stars~
+the Sword of Stars~
+A black hilted sword with stars on the blade lies here.~
+~
+5 8259 8193
+100 17 3 6
+15 100000 10000
+A
+19 10
+A
+18 -2
+A
+13 -30
+A
+12 -30
+A
+25 -2
+A
+31 -3
+A
+1 3
+#4621
+Nether Plate~
+Nether Plate~
+A humming black body of armor rests here.~
+~
+9 8258 9
+22 22 22 22
+1 30000 3000
+A
+1 2
+A
+13 25
+A
+4 -2
+A
+12 -25
+A
+27 1
+A
+40 -5
+#4622
+Boots of Balance~
+Boots of Balance~
+A pair of soft leather boots stand here.~
+~
+9 8194 65
+21 21 21 21
+1 10000 1000
+A
+2 2
+A
+14 75
+A
+36 20
+A
+40 20
+A
+34 -20
+A
+44 -20
+#4623
+Hand of Death~
+Hand of Death~
+A deadly, black glove rests here.~
+~
+9 1073750016 129
+13 13 14 13
+3 7000 700
+A
+12 70
+A
+13 60
+A
+19 3
+A
+19 -3
+A
+18 3
+A
+3 -2
+A
+1 -2
+A
+2 -2
+#4624
+Disc of Pain~
+Disc of Pain~
+A small, jagged disc hovers here~
+whirl~
+5 8193 8193
+0 6 9 0
+1 15000 1500
+E
+Disc of Pain~
+Disc of Pain
+~
+E
+Disc of Pain~
+Disc of Pain
+~
+A
+1 1
+A
+18 5
+A
+19 4
+A
+3 -2
+#4625
+Doll of Remik~
+Doll of Remik~
+A plush doll lies here.~
+~
+9 8193 16385
+0 20 0 20
+1 1000 100
+A
+5 -1
+#4626
+Tattoo of Orion~
+Tatoo of Orion~
+A black tattoo with Orion lies here.~
+~
+9 8448 257
+22 23 22 22
+5 8000 800
+A
+4 3
+A
+31 3
+A
+3 3
+A
+45 -50
+A
+34 -50
+A
+51 -50
+#4627
+potion5~
+a newly created potion5~
+Some god dropped a newly created potion5 here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#4628
+Burden of Judgement~
+the Burden of Judgement~
+A radiating light hovers here.~
+~
+1 8192 1
+0 0 999 0
+1 500 50
+#4629
+Visor of Elighntenment~
+the Visor of Enlightenment~
+A blue glowing visor has been left here.~
+~
+9 8192 131073
+0 10 0 0
+1 1000 100
+#4630
+Circles of Truth~
+the Circles of Truth~
+A gleaming pair of black earring lie here.~
+~
+9 8192 65537
+0 10 0 0
+1 1000 100
+#4631
+Blade Saw~
+A Blade Saw~
+A saw for fixing 'blades is here.~
+~
+5 0 8193
+0 0 100 100
+1 0 0
+#4632
+Scroll of Identify~
+A scroll of identify~
+A scroll of identify is lying on the ground.~
+~
+2 8192 16385
+10 53 -1 -1
+1 500 50
+#4633
+globe judgement deception~
+The glowing Globe of Judgement~
+A glowing sphere hovers here.~
+~
+1 8193 1
+0 0 -1 0
+1 100 10
+> wear_prog 100~
+mpechoat $n You feel the world illuminate around you.
+~
+> remove_prog 100~
+mpechoat $n You feel the world dissapear in the shadows.
+~
+|
+#4634
+translucent gel armor deception~
+(Translucent) A thick Gel of Armor~
+(Translucent) A thick gel lies here.~
+~
+9 8448 9
+10 10 0 0
+1 500 50
+> wear_prog 100~
+mpechoat $n The Gel forms perfectly around your body, protecting you from harm.
+~
+> remove_prog 100~
+mpechoat $n The Gel disembodies you and you feel more vulnerable.
+~
+|
+#4635
+deception boots lies~
+The Boots of Lies~
+Some sleek black boots lie here.~
+~
+9 8451 65
+10 10 0 0
+1 250 25
+A
+36 5
+A
+14 20
+A
+1 -1
+> wear_prog 100~
+mpechoat $n You feel yourself becoming more stealthy.
+~
+> remove_prog 100~
+mpechoat $n You feel less stealthy.
+~
+|
+#4636
+circles tainted truth deception earrings~
+Earrings named the 'Circles of Tainted Truth'~
+Some earrings, wickedly black, lie here.~
+~
+9 8449 65537
+10 10 0 0
+1 100 10
+> wear_prog 100~
+mpechoat $n Your knowledge of Deception and lies grow.
+~
+> remove_prog 100~
+mpechoat $n You feel more prone to telling the truth and spreading good will.
+~
+|
+#4637
+goggles~
+a newly created goggles~
+Some god dropped a newly created goggles here.~
+~
+13 1073741824 0
+0 0 0 0
+1 0 0
+#4638
+longsword deception hilted shadowbringer~
+A pulsing longsword named 'Shadowbringer'~
+A pulsing red longsword named 'Shadowbringer' lies here.~
+~
+5 8462 8193
+100 10 1 1
+1 800 80
+> wear_prog 100~
+mpechoat $n You feel the power of Deception coursing through your veins.
+~
+> greet_prog 100~
+mpechoat $n A tingle is felt in 'Shadowbringer' as it spots fresh blood.
+~
+> remove_prog 100~
+mpechoat $n You feel your power of Deception wilt into kindness.
+~
+|
+#4639
+deception dagger backstab~
+The Blade of Backstab~
+A wickedly jagged dagger lies here.~
+~
+5 532746 8193
+100 10 1 11
+1 800 80
+> wear_prog 100~
+~
+> wear_prog 100~
+mpechoat $n Your thoughts clear as your purpose becomes clear.
+~
+> remove_prog 100~
+mpechoat $n Your thoughts clutter as your purpose withers.
+~
+|
+#4640
+deception nunchaku iniquity~
+The Nunchaku of Iniquity~
+A pair of Numchaku lie here, waiting to be used.~
+~
+5 8458 8193
+100 10 1 7
+1 800 80
+> wear_prog 100~
+mpechoat $n The need for a kill throbs in your head.
+~
+> remove_prog 100~
+mpechoat $n Your anger dies and you feel rather warm and loving.
+~
+|
+#4641
+lance deception brute power~
+the Lance of Brute Power~
+A glowing lance lies here.~
+~
+5 532745 8193
+100 18 3 8
+1 800 80
+A
+25 -3
+A
+18 28
+A
+19 20
+> wear_prog 100~
+mpechoat $n Your head booms with the words 'I bring the Dawn of your Death'.
+~
+> remove_prog 100~
+mpechoat $n Your head quiets as the voices go away.
+~
+|
+#4642
+deception cloth circle r~
+A small cloth circle~
+A small cloth circle with an 'R' and the cross stitchings of the Deception symbol lies here.~
+~
+13 1 16385
+0 0 0 0
+1 0 0
+> drop_prog 100~
+mpechoat $n You leave your mark of death.
+~
+|
+#4650
+Secret of the Phantom~
+Secret of the Phantom~
+A pitch black potion lies here.~
+none~
+10 8192 16385
+20 225 -1 -1
+1 400 200
+#4651
+Vial of Safety~
+Vial of Safety~
+A milky white potion lies here on the ground.~
+~
+10 8192 16385
+50 14 43 36
+1 400 50
+#4652
+Vial of Demonskin~
+Vial of Demonskin~
+Some god dropped a newly created name here.~
+~
+10 8192 16385
+20 212 -1 -1
+1 400 40
+#4653
+Wits of Dragon~
+Wits of Dragon~
+A green potion lies here on the ground.~
+~
+10 8192 16385
+20 227 -1 -1
+1 300 30
+#4654
+Sphere of Eldritch~
+Sphere of Eldrith~
+A blue potion lies here on the ground.~
+~
+10 8192 16385
+20 207 -1 -1
+1 400 40
+#4655
+Vial of Meliorate~
+Vial of Meliorate~
+A clear vial lies on the ground.~
+~
+10 8192 16385
+20 15 -1 -1
+1 500 50
+#4656
+Staff of Strength~
+Staff of Strength~
+A red, vibrating staff lies here.~
+~
+4 8192 16385
+20 3 3 39
+1 900 90
+#4657
+Pill of Osmosis~
+Pill of Osmosis~
+A translucent pill awaits your mouth.~
+~
+26 8192 16385
+20 74 -1 -1
+1 300 30
+#4658
+Pill of Detection~
+Pill of Detection~
+A mutil-colored pill lies here.~
+~
+26 8192 16385
+50 44 19 77
+1 900 90
+#4659
+Blood of Remik~
+Blood of Remik~
+A red vial of Remik's blood lies here.~
+~
+10 8192 16385
+30 43 35 14
+1 900 90
+#4660
+Potion1~
+a newly created Potion1~
+Some god dropped a newly created Potion1 here.~
+~
+10 0 16385
+10 210 -1 -1
+1 0 0
+#4661
+Potion2~
+a newly created Potion2~
+Some god dropped a newly created Potion2 here.~
+~
+10 0 0
+0 -1 -1 -1
+1 0 0
+#4670
+salted fish~
+salted fish~
+Salted fish~
+~
+19 8192 1
+8 0 0 0
+1 10 1
+#4671
+~
+a dark potion~
+A dark potion rests here.~
+~
+10 1073741826 1
+10 16 16 43
+1 0 0
+#4672
+road kill pie~
+road kill pie~
+Some nasty pie rots here.~
+~
+19 8192 1
+5 0 0 0
+1 20 2
+#4673
+load of bread~
+a loaf of bread~
+A scrumptious loaf of bread lies here, making your taste buds swirl.~
+~
+19 8192 1
+4 0 0 0
+2 5 15
+#4674
+chocolate cake~
+a chocolate cake~
+A large chocolate cake awaits someone to eat it.~
+~
+19 8192 16385
+10 0 0 0
+1 20 15
+#4675
+chocolate milk~
+a carton of chocolate milk~
+A big carton of chocolate milk lies here, ready to be chugged.~
+~
+17 8192 1
+30 30 10 0
+2 5 4
+#4676
+Elixer of Malice~
+An Elixer of Malice~
+A humming black potion lies here.~
+~
+10 8192 16385
+30 225 29 -1
+1 1000 100
+#4677
+Tonic of Need~
+Tonic of Need~
+A blue potion lies here.~
+~
+10 8192 16385
+30 36 56 -1
+1 1000 100
+#4678
+Cure all Spirit~
+Cure all Spirit~
+A green potion lies here.~
+~
+10 8192 16385
+30 43 35 -1
+1 1000 100
+#4679
+True Sight~
+True Sight~
+A red potion lies here.~
+~
+10 8192 16385
+30 19 44 -1
+1 1000 100
+#4680
+Tonic of Refresh~
+Tonic of Refresh~
+A blue tonic lies here.~
+~
+10 8192 1
+50 81 81 81
+1 1500 150
+#4681
+Levitation Elixir~
+Levitation Elixir~
+A potion is hovering here.~
+~
+10 8192 1
+50 56 -1 -1
+1 300 30
+#4682
+Brew of Heal~
+Brew of Heal~
+A wonderful red brew lies here.~
+~
+10 8192 1
+50 61 61 61
+1 1500 150
+#4683
+Cure all Spirit~
+Cure all Spirit~
+A blue spirit lies here.~
+~
+10 8192 1
+50 14 35 43
+1 900 90
+#4684
+True Sight~
+True Sight~
+A green potion lies here.~
+~
+10 8192 1
+50 44 19 -1
+1 900 90
+#4685
+Bless of Remik~
+Bless of Remik~
+A powerful pill lies here.~
+~
+26 8192 1
+50 3 29 -1
+1 600 60
+#4686
+Pill of Sanctuary~
+Pill of Sanctuary~
+A white pill lies here.~
+~
+26 8192 1
+50 36 206 -1
+1 600 60
+#4687
+Caplet of Armor~
+Caplet of Armor~
+A small caplet lies here.~
+~
+26 8192 1
+50 207 221 88
+1 1200 120
+#4688
+Power Tablet~
+Power Tablet~
+A glowing tablet lies here.~
+~
+26 8192 1
+50 39 225 74
+1 1000 100
+#4689
+potion10~
+a newly created potion10~
+Some god dropped a newly created potion10 here.~
+~
+2 1073741824 0
+0 -1 -1 -1
+1 0 0
+#4690
+Scroll of Need~
+Scroll of Need~
+A scroll lies here~
+~
+2 65 16385
+50 36 29 207
+2 6500 650
+#4691
+Scroll of Recall~
+Scroll of Recall~
+A Scroll of Recall has been left here.~
+~
+2 8256 1
+1 42 -1 -1
+1 200 20
+#4692
+Liar's Cloak~
+Liar's Cloak~
+A black glowing cloak floats here.~
+~
+9 1 1025
+20 20 0 0
+1 0 0
+A
+2 2
+A
+5 -2
+A
+32 10
+A
+56 29
+#4693
+Cloak of Lies~
+Cloak of Lies~
+A wickedly black cloak lies here.~
+~
+9 0 1025
+20 20 0 0
+1 0 0
+A
+2 2
+A
+32 10
+A
+36 10
+A
+14 -50
+A
+31 -2
+A
+25 -4
+A
+2 4
+#4694
+Mirror Pool~
+Mirror Pool.~
+A shimmering pool is drawing your attention.~
+~
+15 0 0
+100 0 1 18150
+1 0 0
+E
+mirror pool water~
+Water, remarkably clear despite the muddy rivulets which feed it, forms a 
+flat circular pool in the center of the cavern.  As you gaze at the pool,
+you reflection seems to twist and darken.  Grinning, it beckons, and you feel 
+drawn towards the pool.  The pool ripples and clears, and your reflection 
+returns to normal.  Or did it ever really change.. ?
+~
+#4695
+Deception Board~
+The Deception Board~
+The Deception Board stands here with the latest news.~
+~
+35 0 0
+0 0 0 0
+1 0 0
+#4696
+A large wooden table~
+A large wooden table~
+A large wooden table is situated here in the room.~
+~
+12 0 0
+2 1000 8200 10
+1 0 0
+#4697
+A stone bench~
+A stone bench~
+A large stone bench stands here, waiting to be used.~
+~
+12 0 0
+100 1000 9362 50
+1000 1000 100
+#4698
+Cloak of Lies~
+Cloak of Lies~
+A wicked black cloak is glowing here.~
+~
+9 2097409 1025
+0 0 0 0
+1 0 0
+A
+2 4
+A
+36 20
+A
+25 -2
+A
+3 -2
+A
+45 -2
+A
+39 -8
+> wear_prog 100~
+mpechoat $n The $o begins to hum with vigor.
+mpechoat $n You feel much more dexterous and sneaky.
+~
+> remove_prog 100~
+mpechoat $n The $o stops humming and lies silent.
+mpechoat $n You feel less dexterous and sneaky.
+~
+|
+#4699
+switch~
+a newly created switch~
+Some god dropped a newly created switch here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#4600
+Entrance to Deception Castle~
+You stand in the center of a very large room.  The mists of the shadows still
+linger around you.  As you look around you notice that the room would be dead
+black were it not for the four torches in the corners of the room.  The torches
+make the room flicker with light, distorting your shadow.  The walls, floor, 
+and ceiling are made of a dark gray stone.  Running your hand along the cracks
+in the floor, you can feel the cold, polished stone and the wear from footsteps
+past.  A large wooden door faces you to the north.  Engraved on it are the
+ancient carvings of Deception.  Touching the engravings bring flashes to your
+head.  Memories your have never experienced come forth in a ravish fury.
+The room spins with the thoughts and the wild light dancing about you.  Beyond
+the door, lies your home:  The Shadow Castle.
+~
+0 12 0
+D0
+~
+door~
+1 -1 4610
+D2
+~
+~
+0 -1 22037
+E
+door~
+You see ancient engravings on the large wooden door facing you.  When you 
+touch them, you get a feeling of fear as flashes of memories of you have
+never witnessed pass your mind.
+~
+> act_prog p door~
+mpechoat $n Wild thoughts pass your mind.   In them you see the Dreamwalker.
+mpechoat $n Never before have you felt such fear.
+mpechoat $n The death of Chaons fill your head as you remember Remik's past.
+~
+|
+S
+#4601
+In the Meat Tunnel~
+This room, as odd as it already is, is in a cylidrical shape.  The dark blue
+light that surrounds you making it hard to see.  One thing, however, you
+cannot miss.  The smooth, cylinder shaped room is made of glass, or what
+semms to be glass.  On the other side of the glass you can see an ocean of
+flesh.  It slowly wiggles its way along, reaching an unknown destination.
+Blood pockets form and reform, exploding again and again, covering the glass
+around you.  The door behind you has closed and will not open again.  To the
+north you see the same as here.
+~
+0 4 0
+D0
+~
+~
+0 -1 4602
+D2
+~
+door~
+3 -1 4600
+S
+#4602
+In the Meat Tunnel~
+This room is no different from the rest of the tunnel.  The glass seems alive
+with the flesh.  It writhes and wiggles, pushing forward.  You cannot even
+begin to phathom where all this flesh is coming from.  The meat tunnel
+continues north and south, with seemingly no end.
+~
+0 4 0
+D0
+~
+~
+0 -1 4603
+D2
+~
+~
+0 -1 4601
+S
+#4603
+In the Meat Tunnel~
+The room is crawling.  Alive.  Meat squirms all about, slowly moving north
+into the next room, past the door.  Fortunately, though, it seems as if the
+glass is stronger than it looks, keeping you seperated from the fresh flesh.
+Blood pockets explode every couple of seconds, making you feel faint.  You try
+not to look, but how can you not?  The entire room is decorated with it.
+There is a dim light coming from under the door in front of you.  To the south
+you see an endless hallway of flesh.
+~
+0 0 0
+D0
+~
+door~
+1 -1 4604
+D2
+~
+~
+0 -1 4602
+S
+#4604
+Meat Box~
+This room has changed shape.  No longer is it cyclidrical, but now it is box
+shaped.  The flesh has changed its course as well, making a turn east of you.
+Light is almost completely contained from the door on your left, but some
+does manage to escape.  The door behind you has closed and cannot be reopened.
+Looks as if you have to choose a direction.
+~
+0 0 0
+D1
+~
+~
+0 -1 4605
+D3
+~
+~
+0 -1 4606
+E
+To the north you see the smokebo~
+To the north you can see the smokebox
+~
+S
+#4605
+Intersection~
+Blackness evelops you.  All you can see are shadows casted by the faint light 
+from the south.  Not only can you barely see, there is no sound, other than
+that of the living flesh crawling all around you.  To the north lies the
+entrance to a cave of some sort.  To the south the Meat Tunnel continues along
+with a faint light.
+~
+0 6 0
+D3
+~
+~
+0 -1 4604
+S
+#4606
+Smokebox~
+You enter this room wondering what the light could be radiating from.
+Focusing again, you take a fresh look around the room.  There's the source.
+A Smokebox.  Its square mass is twisting, turning, screaming.  In your entire
+life you have never been so awed and frightened.  Its endless chaos is its
+sheer beauty.  Its white light threatens to consume you.  Souls writhe from
+its mass.  Millions of eyes develop from its core.  Screams fill your head.
+The ache hurts.  You feel as if your head will explode.  Your ears begin to
+bleed.  Terrified now more than before, you quickly search for the exits.
+Either back to the east, to the Meat Box, or to the south, towards the
+darkness.
+~
+0 0 0
+D1
+~
+~
+0 -1 4604
+S
+#4610
+Just inside Deception Castle~
+You stand in the center of a very large room that looks much like a cavern.
+Torches fall in line, the best they can, across the jagged walls of the room.
+Centering your attention are the message board and the shimmering pool that
+lie directly in front of you.  The light reflecting off the pool make its cool
+waters return a perfect reflection.  Above the torches you notice a large room
+that contains two edges, one in the center and another to the right.  It looks
+as though, it may be a room on an existing second story.  North of here is a
+room that could contain a way to explore more.  To the east and west of you, 
+the actual constructed part of the castle begin.  This room, for some reason
+had never gotten finished, it looks like.  Below your feet and slightly south,
+is another exit, into what looks to be another cavern.  Your eyes are drawn in
+all directions in hopes of directing you.
+~
+0 262156 0
+D0
+~
+~
+0 -1 4613
+D1
+~
+~
+0 -1 4611
+D3
+~
+~
+0 -1 4612
+D5
+~
+~
+0 -1 4678
+S
+#4611
+Lava Hallway~
+This hallway is simply amazing.  You wonder to yourself how such a grand place
+could have been constructed.  Below your feet is a pool of molten lava.  The 
+heat rises from the lava, warming you from the cold sky you can see above.
+A small, thin section roughly two feet in distance has been torn.  Large purple
+clouds race against the sky as lighting flashes.  The stone path that you walk
+on over the lava has been carved to create an intricate design.  The walls
+adjacent to this path look to be made of a gray stone and contain a small
+'R' evenly spaced along its borderlines.  The hallway continues to the east 
+and west from here.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4630
+D3
+~
+~
+0 -1 4610
+S
+#4612
+Lava Hallway~
+The actual constuction of the castle has begun here.  The hallway you now 
+stand in is rather amazing.  Below your feet is a pool of molen lava.  Crossing
+the lava is an intricate stone path in which you now stand.  To the west the
+lava disappears down but continues to the east.  To your right and left are 
+gray stone walls that have been marked with the insignia of the Dreamwalker.
+Farther up the walls, you notice a small ceiling of sorts.  A section, 
+identical to the one you stand on, has been carved from the ceiling to give
+way to the outside Realms.  Lighting and other fierce elements rage against 
+the dark purple clouds.  Looking back into the room and deciding on a direction
+you notice steam rising from the lava, warming you from the cold room. East
+this hallway continues and west lies a large cavern of the unfinished portion
+of The Shadow Castle.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4610
+D3
+~
+~
+0 -1 4622
+S
+#4613
+Stone staircase~
+A large staircase climbs before your very eyes.  The thick, polished stone
+rises upwards to the second level.  The edges of the stairs are still very
+sharp, indicating that this is a fairly new addition to the Castle.  The walls
+are dimly lit by the torches lining them.  Exits lead up the staircase and
+to the south to the cavern.
+~
+0 262152 0
+D2
+~
+~
+0 -1 4610
+D4
+~
+~
+0 -1 4614
+S
+#4614
+Hexagonal Room~
+You are now standing before a set of declining stairs.  Torches line the exit
+down making it rather visible.  As the stairs are lit, so is the room that you
+now stand in.  The room, you notice, is shaped much like a hexagon.  Indeed
+such an odd design to have in a castle like this, but it is no matter.
+The torches that line the wall reflect and illuminate the walls rather well,
+giving off an abundance of light.  Exits to the east and west exist here, past
+your field of vision.  However, you do notice that to the east a warm glowing
+seems to be apparent and the the exit to the west looks to be a hallway.  The
+archways that lead to either direction are exact and replicate each other
+perfectly.
+~
+0 8 0
+D1
+~
+~
+0 -1 4615
+D3
+~
+~
+0 -1 4616
+D5
+~
+~
+0 -1 4613
+S
+#4615
+Glow~
+You enter upon the room with the warm glow.  There are no flickering torches
+as you could have guessed before entering in.  The source of the glow, to you,
+in unknown, but seems to engulfing you.  The glow gathers power and rises and
+then falls, with every beat of your heart.  The shadows grow on the wall as the
+glow takes the down beat and threatens to trap you.  Just before they can, it
+returns to the up beat and the shadows fade.  The glow of the room makes it 
+rather hard to stay awake, as it repetition seems to bet affecting you.  You
+now stand here, half awake, nodding off unwillingly.  Before you close your
+eyes, you notice a small outline on the northern wall, that could contain 
+a second exit, as opposed to the one you just entered to the west.
+~
+0 262152 0
+D0
+~
+~
+2048 -1 4617
+D3
+~
+~
+0 -1 4614
+E
+outline~
+A small outline is here on the wall.  Looks to be like a secret entrance but
+you cannot be sure because of the odd lighting in the room.
+~
+> act_prog p arrives~
+mpechoat $n You start to feel dizzy.  You think you might fall..
+mpforce $n sleep
+mpdream $n You are suddenly aware that the Dreamwalker is with you.
+mpforce $n wake
+mpechoat $n You are suddenly awaken by a sharp light in your dream.
+~
+|
+S
+#4616
+Hallway in Deception~
+The hallway you now stand in is rather large.  The archway to the east brings
+entrance to this rather large corridor.  Walking along, taking note of the
+familiar gray stone, you feel uneasy as the floor beneath you shifts.  Looking
+down to see the cause, you notice nothing.  As you further your walk, you 
+notice the feeling again.  You bend down to feel the floor, hoping to reach
+some answers to this.  As you glide your hand along the smooth ground, you 
+feel the stone heaving up and down, much like it were breathing.  Looking
+around rather suspicously you take notice of the two exits:  East and north.
+East is the hexagon room while north of here, the passage continues.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4618
+D1
+~
+~
+0 -1 4614
+> act_prog p arrives~
+mpechoat $n The stones under your feet begin to shift..
+~
+|
+S
+#4617
+Throne of Remik~
+You stand in the center of a dark room with stale air.  Torches light all that
+you see.  In the back, center, sits a tall, elegant throne.  Torchlight dances
+and flares off of the carved, gold gargoyles, snakes, and shadow beings that
+cover every inch of this statley structure.  A canopy draped with heavy red
+brocade and trimmed with gold tassels is jutting overhead.  The throne itself
+is sitting atop three square, white marble platforms that serve as steps.  The
+whole thing is massive and imposing.  Tufted blue velvet cover the seat, the 
+back, and tops the arms.  This is certainly a stark contrastion to the rest
+of this castle.  The flicker of the torch light gives life to hundreds of
+shadows that dance about you.  In front of the throne lies a small, plush doll.
+Its striking features give it away instantly.  A doll of Remik.  Its black
+eyes and long, black hair are its tell-tale points.  The exit to the south
+seems to be the only exit.  The glow of the southern room makes you cringe
+from the pain that it brings you.
+~
+0 8 0
+D2
+~
+~
+0 -1 4615
+S
+#4618
+Hallway in Deception~
+The hallway continues here to the north and south.  As the hall before you
+was shifting, is continues.  Now, more than before, though, it seems to have
+taken on a much more life-like shift.  You are constanly being pushed up and
+down slightly by the constant changes in the floor as your head rises above
+and below the level of torches that line the walls.  Nothing other than the
+constant breathing of the pass catches your attention.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4619
+D2
+~
+~
+0 -1 4616
+> act_prog p arrives~
+mpechoat $n The stones under your feet move slightly.
+~
+|
+S
+#4619
+Hallway in Deception~
+The hallway that you are passing through still has the breath of life.  Small
+passes of air trickle from the floor, rising up your body.  The constant
+shifting is getting rather rhythmic and is rather nerving.  You still notice
+nothing of consequence as you pass through the halls.  Exits from here exist
+to the south and east.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4620
+D2
+~
+~
+0 -1 4618
+> act_prog p arrives~
+mpechoat $n The ground shifts slightly under your footsteps.
+~
+|
+S
+#4620
+Hallway in Deception~
+The corridor you are passing through has ceased its breathing and now lies
+still.  The torches that were once lining the walls, are now gone as the only
+light you can now see are the distant torches to the west as well as some
+other light coming from the east.  To the east, lies an opening to a rather
+large room.  What it is filled with and its purpose are unknown, but you shall
+be enlightened should you decide to continue east.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4621
+D3
+~
+~
+0 -1 4619
+S
+#4621
+Meeting Chambers~
+You are now inside a very large room.  Many torches, you notice, span the
+long walls of the chamber.  The eastern wall holds a window into the outside
+world.  Peering out, you see the dark purple clouds of the Realms racing 
+across the sky.  Focusing your attention back to the room, you notice a fabric
+banner of blue that touches all four walls.  Its ancient writings match those
+on the entrance door and looking at them produces the same results.  In the
+center of the room stands a huge wooden table.  Two torches burn brightly in 
+the center of the table, making it possible to see the grains and knots of the
+wood.  Outside of the table rests a large stone bench, obviously for use with
+the table.  These are the meeting grounds for the Castle, as you think to 
+yourself.  The only exit from here is to the west, back into the dark hallway.
+~
+0 262152 0
+D3
+~
+~
+0 -1 4620
+E
+Eastern~
+-------------------------
+Links: | = north, south
+       \ = up, down
+       - = east, west
+-------------------------
+ 
+-----------------------------------------------Merlin's-----------------------
+|                                                 |                          |
+|             /North Plains-     Mirkwood-     Malathar                      |
+| Pall Harbor                       |\            |                          |
+|                                   | Underdark   |                          |
+|             \Divided Souls-    Thenia        Tull Manor                    |
+|             /                     |                                        |
+|              Sea Tunnels       Unholy Grounds-      Keep of Mahn Tor       |
+------------------------------------------------------------------------------
+~
+E
+eastern ~
+Links: | = north, south|
+       \ = up, down    |
+       - = east, west  |
+------------------------
+ 
+                                                   Merlin's
+                                                      |
+         North Plains-      Mirkwood\-             Malathar
+                               |   Underdark          |
+         Div Souls-         Thenia                 Tull Manor
+             \                 |
+         Sea Tunnels        Unholy Grounds-        Keep of Mahn-Tor
+~
+E
+southern~
+------------------------
+Links: | = north, south
+       \ = up, down
+       - = east, west
+------------------------
+ 
+--------------------------------Mriswith Bay----------------------------------
+|            Tivrek river      |            |       Tarang River             |
+|                             |              |                               |
+|                            |                |                              |
+|                Thalos   ---                  --- Isles of Pirate Lords     |
+|                  /        |                                           -    |
+|              Old Thalos   |                                 Cavers of Chaos|
+|                           |                                                |
+|               Coven    ------    Mystic Landscapes                         |
+|                            |                                               |
+|                             |                                              |
+|                              |                                             |
+------------------------------------------------------------------------------
+                                |
+                         Seas of Serenity
+~
+E
+western~
+-----------------------
+Links: | = north, south
+       \ = up, down
+       - = east, west
+-----------------------
+ 
+------------------------------------------------------------------------------
+                               Sands of Sorrow
+                                     |
+Dragon Tower- High Tower of Sorcery- Bay of D'hara
+                                     |
+                                 Ciq's Chamber-    Scottish Highlands-\
+                                                                  Underworld
+------------------------------------------------------------------------------
+~
+E
+central~
+--------------------------
+Links: | = north, south
+       \ = up, down
+       - = east, west
+       * = portal
+--------------------------
+ 
+------------------------------Wyvern Tower------------------------------------
+|                                  |                                         |
+|            Warkeep-          Darkhaven*      * Elemental Canyon            |
+|                                -/|                   |                     |
+|             Graveyard/Redferns  Cry Lake             |                     |
+|                                  |                   |                     |
+|        Lotus and Kendermoore-  |                     |       Dwarven       |
+|                             City of Shadows          |         |           |
+|                 Haon Dor-        |            -Holy Grove    New Thalos    |
+|                   |        Sea of Mist                                     |
+|                Llangir                                                     |
+------------------------------------------------------------------------------
+~
+S
+#4622
+Lava Hallway~
+The corridor you stand in still catches you off in its grand form.  Below you
+still lies the lava pool with the delicate gray stone path that covers it.
+The warmth of the lava feels rather good against the cold of the room.  From
+here you can travel north where more of the hallway greets you, or the the
+east from whence you came.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4623
+D1
+~
+~
+0 -1 4612
+S
+#4623
+Lava Hallway~
+This hallway still amazes you.  You think to yourself that it must have taken
+nine lifetimes to build a place as extravegant as this.  The lava below you
+quietly flows to the north.  Occasionally it bubbles up, rupturing, spilling
+itself back into the pool.  The pattern has again changed, but still exists.
+An entrance to your west stands, lava flowing away from it.  To the north the
+hallway continues.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4624
+D2
+~
+~
+0 -1 4622
+D3
+~
+~
+0 -1 4631
+S
+#4624
+Lava Hallway~
+This hallway still exists in all its granduer.  The gentle flow of the lava
+makes an apparent stop.  It disappears downward, past your sight of vision.
+The stone pattern on the ground has changed once again, but still matches the
+pattern of the stitching of stone against the sky.  The hallway makes an
+ubrupt stop, changing its course northeast in a diagonal shift.  You peer in
+that direction and notice that no lava exists there.  The patterns on the
+ground have also disappeared.  To the south, the hallway continues.  The
+northeast looks to have a new theme.  To the west of here you can smell the
+baking of fresh bread and cake.
+~
+0 8 0
+D2
+~
+~
+0 -1 4623
+D3
+~
+~
+0 -1 4666
+D6
+~
+~
+0 -1 4625
+S
+#4625
+Shadow Hallway~
+This territory is vastly different from what you see to the southwest of you.
+This room is dark and cold.  The gap in the ceiling above shows the outside
+world.  Torches line the wall, but they are few in number.  One thing that
+stands out, however, are the large moving shadows.  You really didnt notice
+them at first, but they have made their presence known.  They dance about you,
+poking at your soul.  A hollow howl is heard and echos again and again off the
+stone walls.  You feel a warm fluid run down your leg.  To the east is more
+of this horrible hallway and to the southwest you can see flowing lava and
+intricate stone patterns lining the ground.  On the southeast wall, a noticable
+line has been carved.  It looks much like an exit of some sort.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4626
+D8
+~
+~
+2056 -1 4645
+D9
+~
+~
+0 -1 4624
+E
+line~
+A small line to the southeast has been outlined.  It looks much to be like a
+secret entrance.  Its so dark, however, you cannot tell for sure.
+~
+S
+#4626
+Shadow Hallway at stairs~
+A set of stairs have become visible.  You peer over to them, but you cannot 
+see more than three feet past the initial step due to an improper amount of
+light.  A few torches line the wall here and there, but not enough to see well.
+The shadows that you have been seeing cross your path several times and you
+swear that they are breathing on you, sending cold chills downd your back.
+To the east and west this hallway continues.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4627
+D3
+~
+~
+0 -1 4625
+D5
+~
+~
+0 -1 4633
+S
+#4627
+Shadow Hallway~
+This territory is vastly different from what you see the the southeast of you.
+This room is dark and cold.  The gap in the ceiling above shows the outside
+world.  Torches line the wall, but they are few in number.  One thing that
+stands out, however, are the large moving shadows.  You really didnt notice
+them at first, but they have made their presence known.  They dance about you,
+poking at your soul.  A hollow howl is heard and echos again and again off the
+stone walls.  You feel a warm fluid run down your leg.  To the west is more
+of this horrible hallway and to the southeast you can see flowing lava and
+intricate stone patterns lining the ground.
+~
+0 262152 0
+D3
+~
+~
+0 -1 4626
+D8
+~
+~
+0 -1 4628
+S
+#4628
+Lava Hallway~
+This hallway still exits in all its grandeur.  The gentle flowing lava makes
+an appearant stop.  It disappears downward, past your sight of vision.  The
+stone pattern on the ground has changed once again, but still matches the
+patten near the ceiling.  The hallway makes and abrupt stop, changing course
+northwest in a diagonal shift.  You peer in that direction and notice that no
+lava exits there and that patterns on the ground have disappeared.  To the
+south the hallway continues and to the northwest a new theme occurs.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4680
+D2
+~
+~
+0 -1 4629
+D7
+~
+~
+0 -1 4627
+S
+#4629
+Lava Hallway~
+This hallway is rather amazing.  You think to yourself whether Remik, himself,
+created this area or if it was former Deception members long dead.  The lava
+below you flows quietly to the north.  Occasionally it bubbles up, spilling 
+itself back in the fiercly hor pool.  The stone pattern on the floor has 
+changed yet again, but still exists.  And entrance to the east exists as the
+hallway continues north and south.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4628
+D1
+~
+~
+0 -1 4632
+D2
+~
+~
+0 -1 4630
+S
+#4630
+Lava Hallway~
+This hallway is truely amazing.  Below you is a pit of molten lava.  Crossing
+the lava is an intricate stone path.  Above you the ceiling has an open gap
+about two feet wide.  Along the gap is the same patter as below you.  It
+crosses the sky, blocking some of the purple storm clouds out of clear view.
+To your west you see more of this wonderful hallway.  To the north the hallway
+changes a bit, but the theme is kept.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4629
+D3
+~
+~
+0 -1 4611
+S
+#4631
+Magical Shop~
+You stand in the center of a rather small room.  With the wishes of Remik,
+Nyril downswized his production of potions and came up with the essentials.
+Large stone shelves line the wall, looking rather bare, with the new space.
+In front of you stands a large stone counter with a brilliant polished top
+to it.  Behind the counter stands ol' Nyril.  Next to him, on the wall, you
+spot a note.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4623
+E
+note~
+Scroll of Identify ----------------------- Identify objects
+Scroll of Recall ------------------------- Your way back to the Castle
+Elixer of Malice ------------------------- Shadowform, Invis
+Tonic of Need ---------------------------- Sanctuary, Fly
+Cure all Spirit -------------------------- Remove Curse, Cure Poison
+True Sight ------------------------------- Detect Hidden, Detect Invis
+~
+S
+#4632
+Fit of Deception~
+You have entered a rather large room entitled the 'Fit of Deception'.  Here
+you can buy the lastest gear for Deception followers.  The walls and ceiling
+boast the 'R' of Remik and the sect symbol.  'Tis said that the items in this
+room were forged by the hands of Remik himself, adding the quality and 
+precision to the entailorments.  Looking about the room you notice the polished
+stone floor and the amazing relflection it gives off.  Taking notice, you also
+see the outline to a door built into the floor itself.  More than likely the
+resting place for Rahl, the shopkeeper.  Rahl stands here, waiting to assist 
+you in whatever it is you might need.  A note hanging from the wall on your
+right side catches your attention.
+~
+0 262152 0
+D3
+~
+~
+0 -1 4629
+E
+note~
+Globe -------------------- Light
+Gel ---------------------- Breastplate
+Boots -------------------- Footwear
+Earrings ----------------- Earwear
+~
+S
+#4633
+Torture Techneik~
+You stand at the bottom of a set of winding stairs.  Two torches are in within
+your visibility.  The walls, floor, and ceiling are made of stone, much like
+the rest of the castle, but it is obvious that much less attention was put
+into the dungeons.  The air in this spot is awfully cold.  The exits from here
+as far as you can tell are to the east, west, and of course, up.
+~
+0 262156 0
+D1
+~
+~
+0 -1 4634
+D3
+~
+~
+0 -1 4640
+D4
+~
+~
+0 -1 4626
+S
+#4634
+Torture Techneik~
+Two torches are within your line of sight.  You can now see a dark chamber
+to the east of you.  Its cage door stands wide open, assuring you that nothing
+living dwells in there.  As you stand here, scaning for exits, you begin to
+feel the ground heave slightly.  It rises and falls systematically, almost as
+if it were breathing.  You dont even want to begin to imagine what it could be.
+To the south you can see more of this dank hallway.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4641
+D2
+~
+~
+0 -1 4635
+D3
+~
+~
+0 -1 4633
+S
+#4635
+Torture Techneik~
+This hallway, much to your suprise, is rather well lit.  You think to yourself
+that the cause of this is the alignment of the torches.  Gray stone lines your
+vision as you search for all exits.  North and south seem to be your only 
+options.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4634
+D2
+~
+~
+0 -1 4636
+S
+#4636
+Torture Techneik~
+This room, much like the others, is very cold and damp.  On top of this,
+there is only one visible torch.  This place is starting to get to you.
+Already you start to feel down and helpless.  You wonder how the prisoners
+could hold out for very long.  This place is horrible.  Regaining your senses,
+you look around to the exits.  North looks to have more of this hallway.  To
+the east you can see what looks to be an empty cell.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4635
+D1
+~
+~
+0 -1 4642
+D3
+~
+~
+0 -1 4637
+S
+#4637
+Torture Techneik~
+Two torches are within your visibility.  The walls, floor, and ceiling are
+made of stone, much like the rest of this haunted castle.  You can tell,
+however, that much less attention was put down here then the rest of the
+castle.  The air in this spot seems awfully cold.  The exits from here as far
+as you can tell are to the east and west, which look to be more hallway.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4636
+D3
+~
+~
+0 -1 4638
+S
+#4638
+Torture Techneik~
+Two torches are within your line of sight.  You can now see a dark chamber
+to the west of you.  Its door has been swung wide open, assuring you that
+no one living dwells in there.  As you stand here, looking for exits, you can
+feel the ground lifting lightly.  Its rising falls slightly and then rises
+again, much like breathing.  You can't even phathom why.  To the west you can
+see an empty chamber.  To the north and east you see more of this hallway.
+~
+0 262156 0
+D0
+~
+~
+0 -1 4639
+D1
+~
+~
+0 -1 4637
+D3
+~
+~
+0 -1 4643
+S
+#4639
+Torture Techneik~
+This hallway, much to your suprise is well lit.  For what reason is unknown
+but who cares, really?  You can see your breath rise in the cold air.  Is it
+really that cold down here?  To the north and south the hallway continues.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4640
+D2
+~
+~
+0 -1 4638
+S
+#4640
+Torture Techneik~
+Two torches are within your line of sight.  You can now see a dark chamber
+to the west of you.  Its door stands wide open, assuring you that no person
+alive dwells in there.  As you stand here, looking for the exits, you can feel
+the ground lifting lightly.  Its rising falls slightly and then rises again,
+as if it were breathing.  You don't even want to begin to know what it is.
+To the west you can see a chamber.  To the south and east you see more of this
+hallway.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4633
+D2
+~
+~
+0 -1 4639
+D3
+~
+~
+0 -1 4644
+S
+#4641
+Chamber Cell~
+This cell is very small.  Its cant be more than four by four with a six foot
+ceiling.  A single torch hangs here, illuminating the damp, stone floor.  The
+only exit from here is back to the west.
+~
+0 262152 0
+D3
+~
+~
+0 -1 4634
+S
+#4642
+The Pit~
+Whoah!  Be careful!  The room is nothing more than a bottomless pit.  A huge
+black void fill the room.  This is the donation room for the Castle.  Be
+generous to your fellow brothers and sisters and give all you can.  Its much
+appreciated.
+~
+0 786440 0
+D3
+~
+~
+0 -1 4636
+S
+#4643
+Empty Cell~
+This cell is very small.  It cant be more than four by four with a six foot
+ceiling.  A single torch rests in here, illuminating the damp, stone floor.
+The only exit from here is back to the east.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4638
+S
+#4644
+Torture Chamber~
+This is disgusting!  This small, compacted, room contains a rotting corpse.
+Strands of flesh look as if to be escaping from the skeleton frame.  The smell
+is beyond belief. So much for torture if you cant keep the victim alive, you
+think.  A single torch rests in here, illuminating the stank body.  The only
+exit here is back to the east.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4640
+S
+#4645
+Secret Hallway~
+You have found a secret hallway.  This hallway is quite dark and damp.  The
+floor is no longer stone, but wood.  Your stepping along it makes hollow
+footsteps.  You see that this hallway continues south and east.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4646
+D2
+~
+~
+0 -1 4648
+D7
+~
+~
+2048 -1 4625
+S
+#4646
+Secret Hallway~
+This hallway is quickly getting darker.  Its a good thing that you have a
+light.  You walk over the damp wood, making it creak twice.  This hallway
+continues east and west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4647
+D3
+~
+~
+0 -1 4645
+S
+#4647
+Secret Hallway~
+Darker yet, it seems that the hallway has ended its eastern walk.  The wet
+wood now faces south, which seems to be the only direction that you can go,
+besides back.
+~
+0 262152 0
+D2
+~
+~
+0 -1 4649
+D3
+~
+~
+0 -1 4646
+S
+#4648
+Dead End~
+The wooden floor you are walking on meets a stone wall to the south.  No
+obvious exits here but the way that you came.
+~
+0 8 0
+D0
+~
+~
+0 -1 4645
+S
+#4649
+Secret Hallway at stairs~
+The secret hallway you were so clever to have found has come to an abrupt
+stop.  The wooden floor has been replaced with wooden stairs that trail
+upward as far as you can see.  Torches line the stairs, giving you additional
+light.  The only exit besides up is back north.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4647
+D4
+~
+~
+0 -1 4650
+S
+#4650
+On the stairs~
+This is quite an impressive staircase.  Never before you have seen this many
+stairs in your entire life.  The wood is getting drier the higher you climb.
+Torches line the sides, emitting a perfect amount of light.  Your journey
+either continues up or down from here.
+~
+0 262152 0
+D4
+~
+~
+0 -1 4651
+D5
+~
+~
+0 -1 4649
+S
+#4651
+On the stairs~
+More stairs.  You are finally getting tired of this climb.  The wooden stairs
+are completly dry now.  Torches decrease in number slightly, but not enough
+to darken the room to a detectable degree.  The stairs continue up and down.
+~
+0 262152 0
+D4
+~
+~
+0 -1 4652
+D5
+~
+~
+0 -1 4650
+S
+#4652
+Deception Ring~
+You look all around.  You can see exits to the east, west, down, and to the
+south.  The only entrance, however, that attracts your attention is the one
+leading south into an open room.  Torches line the wall both east and west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4664
+D2
+~
+~
+0 -1 4663
+D3
+~
+~
+0 -1 4653
+D5
+~
+~
+0 -1 4651
+S
+#4653
+Deception Ring~
+This is a plain hallway.  Everything is made of wood.  Torches line the halls
+with flickering light.  Shadows dance about you.  For some reason, these
+shadows do not frighten you.  In fact, they seem to put you at ease.  You feel
+closer to the world up here in the Deception Ring.  Exits continue east and
+west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4652
+D3
+~
+~
+0 -1 4654
+S
+#4654
+Deception Ring~
+Torches line the walls.  This area section of the hallway is different from the
+rest in only one aspect.  On the far wall, little red 'R's are displayed on
+the wall.  These are centered on the wall and are spaced evenly though out.
+You can either exit to the east or follow the 'R's to the south.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4653
+D2
+~
+~
+0 -1 4655
+S
+#4655
+Deception Ring~
+Another section of wooden hallway.  The shadows are more abundant here.  You
+can faintly see the little red 'R's on the wall.  Exits are to the north
+and south.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4654
+D2
+~
+~
+0 -1 4656
+S
+#4656
+Deception Ring~
+Fewer shadows can be seen here.  It must be the increase in torches.  Why there
+are more here, you are not sure.  You can see a path of little red 'R's follow
+the wall to the north.  To the east you can see more section of this vast,
+wooden hallway.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4655
+D1
+~
+~
+0 -1 4657
+S
+#4657
+Deception Ring~
+This is a plain hallway.  Everything is made of wood.  Torches line the halls
+with a flickering light.  Shadows dance about you.  For some reason, these
+shadows do not frighten you.  In fact, they seem to put you at ease.  You feel
+closer to the world up here in the Deception Ring.  Exits continue east and
+west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4658
+D3
+~
+~
+0 -1 4656
+S
+#4658
+Deception Ring~
+You look at around.  You can see exits to the east, west and to the north.
+The only exit that really attracts your attention, however, is the one to the
+north.  Torches line the walls both east and west
+~
+0 262152 0
+D0
+~
+~
+0 -1 4663
+D1
+~
+~
+0 -1 4659
+D3
+~
+~
+0 -1 4657
+S
+#4659
+Deception Ring~
+You walk along this hallway seeing little more than wood.  Once in awhile you
+will notice a shadow come and go, but rarely much else.  The hallway continues
+to the east and west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4660
+D3
+~
+~
+0 -1 4658
+S
+#4660
+Deception Ring~
+Shadows pass freely here.  There must be millions in this place, you think
+to yourself.  A small pattern of 'R's are begun on the wall following north.
+The other exit is to the west.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4661
+D3
+~
+~
+0 -1 4659
+S
+#4661
+Deception Ring~
+Another section of the wooden hallway.  The shadows are more abundant here.
+You can faintly see the little red 'R's on the wall.  Exits are to the north
+and south.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4662
+D2
+~
+~
+0 -1 4660
+S
+#4662
+Deception Ring~
+Torches line the walls.  This section of the hallway different from the rest
+in only one aspect.  On the far wall, little red 'R's are displayed on the 
+wall.  These are centered on the wall and are spaced evenly though out.  You
+can either exit to the west or follow the 'R's to the south.
+~
+0 262152 0
+D2
+~
+~
+0 -1 4661
+D3
+~
+~
+0 -1 4664
+S
+#4663
+Center of Deception Ring~
+This room is extravagent.  If it werent for the wood walls and floor, it
+would be one of the finest in the Realms.  A large statue of Dalos, Remik's
+father, stands here.  A few feet in front of the statue lies the Fountain
+of Adinfinitum.  This sacred water is here for all of Deception to drink.
+The flicker of the torches create shadows of all sorts.  They dance around,
+joyus that they have found the Deception Ring.  You suddenly feel at ease
+with the shadows.  You feel one with them.  They move in and out of your body.
+You can feel them as they move through, taking your breath.  What an exquisit
+feeling.  You never want to leave.
+~
+0 262152 0
+D0
+~
+~
+0 -1 4652
+D2
+~
+~
+0 -1 4658
+S
+#4664
+Deception Ring~
+You walk along this hallway seeing little more than wood.  Once in awhile you
+will notice a shadow come and go, but rarely much else.  The hallway continues
+to the east and west.
+~
+0 262152 0
+D1
+~
+~
+0 -1 4662
+D3
+~
+~
+0 -1 4652
+S
+#4666
+Pasha's Eatery~
+You stand in the center of a very warm and comforting room.  The smell of fresh
+bread and fish fills the air.  On the wall is a note of all the items you can
+buy here.  Why deny yourself food any longer?  Indulge.
+~
+0 262156 1
+D1
+~
+~
+0 -1 4624
+E
+note~
+*********************** Pasha's Eatery *************************
+ 
+For sale:
+ 
+Delicious and warm are my chocolate cakes.
+A small pie made of fresh road kill.  Mmmmm.
+Some fresh salted fish from the surrounding moat.
+Some fresh baked bread.
+Some cold chocolate milk to wash all the food down.
+~
+S
+#4678
+Room of Portals~
+The room of portals doesnt look much like a room of portals, you think to
+yourself.  Looks much more like a small cave.  You are in a Castle, you think.
+The jagged black walls around you give off the smell of coal.  Torches line
+the walls to give make visibility better.  The light gives way to a man,
+Inktar as he is known, the Portalman.  It is said that he has certain powers
+that will allow you to travel to certain spots.  The only exit that exists
+without the help of Inktar is up.
+~
+0 262156 0
+D4
+~
+~
+0 -1 4610
+S
+#4679
+Room of Galdar~
+You enter your room and notice the Light of Remik floating above you.  This
+tiny whisp of light illuminates the room perfectly for many activities such
+as writing, eating, studying, and praying.  Below the light and in front of 
+you is a rather humble bed, but with silk sheets.  You know from past
+experience that this bed has provided many a slumber.  Hanging above the bed
+is a wild tie dyed tapestry.  The tapestry made by yourself, includes the
+insignia of Deception and the red 'R' of Remik.  Next to your bed lies a chest
+that holds your belongings.  The other side of your bed contains a small
+ornate desk for your personal business.  All in all, you are rather proud of
+your room.
+~
+0 1073741824 1
+D5
+~
+~
+0 -1 4610
+> all_greet_prog 100~
+mpechoat $n The Light of Remik glows silently above you.
+mpechoat $n A huge tapestry above your bed draws your attention.
+ 
+mpechoat $n Welcome to your room, $n.
+~
+|
+S
+#4680
+Torture Techneik~
+Upon entering this room, you cant help but notice the glare of light coming
+from the weapons.  Weapons of every sort line the walls, as you can see.  'Tis
+said that the weapons on the walls were used by the ancient Chaon that Remik
+killed in his quest to track Beowolf.  In front of you, and slightly south, 
+stands a huge glass case, containing the weapons for sale.  Behind the case,
+grining mischeviosly, is a small Halfling.  On the case, off to the right, is
+a small note.
+~
+0 1073741832 0
+D3
+~
+~
+0 -1 4628
+E
+note~
+Shadowbringer ----------------- Longsword
+Backstab ---------------------- Dagger
+Nunchaku ---------------------- Flail
+Lance ------------------------- Lance
+~
+S
+#0
+
+
+#RESETS
+D 0 4600 0 0
+D 0 4601 2 1
+D 0 4603 0 0
+O 1 4694 1 4610
+M 1 4619 13 4613
+M 1 4619 13 4614
+M 1 4608 1 4617
+O 1 4612 1 4617
+O 1 4613 1 4617
+M 1 4619 13 4620
+O 1 4697 1 4621
+O 1 4696 1 4621
+M 1 4673 13 4623
+M 1 4673 13 4623
+M 1 4673 13 4628
+O 1 10 1 4631
+P 0 3 1 0
+O 1 17 1 4631
+O 1 15 1 4632
+O 1 10 1 4632
+P 0 3 1 0
+P 1 4693 1 0
+O 1 17 1 4632
+M 1 4673 13 4634
+M 1 4673 13 4634
+M 1 4673 13 4635
+M 1 4673 13 4637
+M 1 4673 13 4637
+M 1 4673 13 4637
+M 1 4619 13 4639
+M 1 4619 13 4639
+M 1 4673 13 4639
+M 1 4619 13 4639
+M 1 4619 13 4640
+M 1 4619 13 4640
+M 1 4619 13 4640
+M 1 4619 13 4640
+M 1 4619 13 4643
+M 1 4619 13 4644
+M 1 4619 13 4644
+O 1 4611 1 4644
+M 1 4673 13 4645
+M 1 4673 13 4648
+M 1 4673 13 4652
+M 1 4620 1 4663
+O 1 4615 1 4663
+O 1 10 1 4666
+P 0 3 1 0
+O 1 17 1 4666
+M 1 4605 1 4678
+O 1 10 1 4680
+O 1 17 1 4680
+S
+
+
+#SHOPS
+ 4603    0  0  0  0  0   100   0         0 23    ; Rahl
+ 4610    0  0  0  0  0   120  90         0 23    ; Lexa the Castle Brewer
+ 4611    0  0  0  0  0   120  90         0 23    ; a newly created Remik
+ 4612   10  0  0  0  0   120  90         0 23    ; a newly created Lerak
+ 4613    0  0  0  0  0   100   0         0 23    ; Loci
+ 4623    0  0  0  0  0   120  90         0 23    ; Rahl the Shadow
+ 4650    0  0  0  0  0   120  90         0 23    ; Garou, the shopkeeper
+ 4661    0  0  0  0  0   100   0         0 23    ; Pasha the Cook
+ 4690    0  0  0  0  0   100   0         0 23    ; Nyril the Wizard
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  4619 spec_cast_undead
+M  4620 spec_cast_adept
+S
+
+
+#$

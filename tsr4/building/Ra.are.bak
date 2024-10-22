@@ -1,0 +1,63 @@
+#AREA   {PROTO} Ra's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Ra~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#14600
+joint~
+A big fat kindbud joint~
+A big fat kindbud joint has been left behind.~
+~
+30 1074003968 16385
+10 10 0 0
+1 10 1
+#14601
+kindbud~
+A stash of kindbud~
+A bag of kindbud lays on the ground forgotten~
+~
+32 1073741824 1
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

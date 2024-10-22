@@ -1,0 +1,73 @@
+#AREA   {PROTO} Mortak's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Mortak~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#10500
+Road to Chamerone~
+This road is made from cobblestones of every color.  The stones have been
+smoothed, perhaps for centuries, by river water.  The cracks between stones
+have been filled with sand, which makes the road excellent for travelling, 
+and it serves its purpose well.  Merchants fill the street with their
+carts, heading for the town in the distance.  A few people who
+obviously aren't merchants also travel the road.  More move towards
+the town than away.  The sound of horse hooves and a variety of
+pleasant smells fill the air.
+~
+0 1073741824 1
+D3
+~
+w west~
+0 -1 10501
+S
+#10501
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+e east~
+0 -1 10500
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

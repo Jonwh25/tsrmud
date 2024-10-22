@@ -1,0 +1,1898 @@
+#AREA   Eastern Wastes~
+
+#VERSION 1
+
+#AUTHOR Remik~
+
+#RANGES
+5 25 0 60
+$
+
+#RESETMSG Silence becomes the air around you.~
+
+#FLAGS
+0
+
+#ECONOMY 0 5016000
+
+#CLIMATE 0 0 0
+
+#HELPS
+0 $~
+
+#MOBILES
+#1000
+skeleton frame~
+A skeleton frame~
+The frame of a skeleton lies here, guarding the sect area.
+~
+A large skeleton frame lies here, peaceful.  It looks much larger than a human
+but slightly smaller than the average troll.
+~
+67 4202496 0 C
+15 0 0 0d0+0 0d0+0
+2000 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 33555184 3
+#1001
+Adept of Raff~
+Adept of Raff~
+An adept of Raff hovers here.
+~
+~
+99 4718720 -1000 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1107574784 540676
+#1002
+A pile of animal bones~
+A pile of animal bones~
+A pile of animal bones lie here, scattered.
+~
+~
+67 4194304 0 C
+12 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 33554445 2
+#1003
+puss pocket~
+A puss pocket~
+A pocket of puss is oozing white goo.
+~
+~
+3 4198400 0 C
+5 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 264192 524288
+> all_greet_prog 100~
+say Bluraha eerafhe numbloes aewrrjjetnt
+drool
+emote oozes white goo on your walkwear.
+~
+|
+#1004
+a horde of rats~
+A horde of rats~
+A horde of rats climb over your feet.
+~
+~
+3 512 0 C
+8 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 5 2
+> all_greet_prog 100~
+emote smells your feet and scurries back ready to fight.
+~
+|
+#0
+
+
+#OBJECTS
+#1000
+A mound of dirt~
+A mound of dirt~
+A small mound of dirt and sand rests here.~
+~
+13 0 0
+0 0 0 0
+400 0 0
+E
+dirt~
+You see a small mound of dirt and sand here.  Sifting your hands through it,
+you notice its high red color and the dry, course feel to it.
+~
+#1001
+A small pile of bones~
+A small pile of bones~
+A small pile of bones are scattered here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+E
+bones~
+A small pile of bones resembling the shape of a human lie here.
+~
+#1002
+A crushed pillar~
+A crushed pillar~
+A crushed white pillar is lying in pieces.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+E
+pillar~
+A crushed pillar is scattered in pieces, lying in several differnt places.
+~
+#1003
+A shimmering pool~
+A shimmering pool~
+A shimmering pool echos the sounds of a dripping.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+E
+pool~
+A deep blue shimmering pool rests here.  Its waters ripple slightly as the
+water from above hits it dead center.
+~
+#1004
+A soft bed~
+A soft bed~
+A string of soft beds line the walls.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#1005
+A statue~
+A statue of the Sun Goddess~
+A statue of the Sun Goddess stands here.~
+~
+37 0 0
+0 0 0 0
+1 0 0
+> pull_prog 100~
+mpmload 201
+~
+|
+#1006
+A creaking gate~
+A creaking gate~
+A creaking gate swings in the shifts of the wind.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+gate~
+A small creaking gate swings back and forth here, gaurding the pass to the
+graveyard.
+~
+#1007
+tombstone~
+A tombstone~
+A worn tombstone stands solemly here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#1008
+scraps~
+Scraps~
+Scraps from various metals and woods are sprawled out.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+#1009
+A coil of rope~
+coil of rope~
+A long coil of rope.~
+~
+15 4 1
+100 0 0 10
+100 1 0
+#1010
+A battered mace~
+A battered mace~
+A battered mace lies here.~
+~
+13 0 8193
+0 0 0 0
+1 0 0
+> wear_prog 100~
+mpechoat $n You feel that this mace is rather unusable.
+~
+|
+#1011
+A broken sword~
+A broken sword~
+A broken sword sits here.~
+~
+13 0 8193
+0 0 0 0
+1 0 0
+> wear_prog 100~
+mpechoat $n This sword feels rather unusable.
+~
+|
+#1012
+Shards of glass~
+Shards of Glass~
+Some shards of glass illuminate the area.~
+~
+5 0 8193
+2 6 8 11
+5 0 0
+#1013
+A patch of grass~
+A patch of grass~
+A small patch of grass lives here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#1014
+A patch of weeds~
+A patch of weeds~
+A patch of weeds grows next to a patch of grass.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#1015
+wildflowers flowers~
+wild flowers~
+A bunch of pretty wild flowers is here.~
+~
+13 1024 16401
+0 0 0 0
+1 10 1
+E
+wild flowers~
+These wild flowers are really pretty.
+Just like the flowers you would wear in your hair.~
+#1016
+bushes~
+A bush~
+A bush grows here.~
+~
+13 1024 16401
+0 0 0 0
+1 10 1
+#1017
+a pile of gold~
+A pile of coins~
+A large heap of gold lies here.~
+~
+20 0 1
+0 10000 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#1000
+On the Edge of Waste~
+Standing on a spot of land, that doesnt look completly bare and uninhibited,
+but certainly noteworthy, you notice that this is a rather ubrupt ending to
+this paticular type of forest.  The area that you are coming upon looks rather
+isolate and desert-like which contrasts the deep green forest to your west.
+Far, far to the east you notice some high rises, but cannot focus well enough
+to seem them fully to distinguish them.  As far as you can see, however, you
+notice nothing that really catches the eye, as the desert runs into a thin line
+along the horizon.  Continue east into this wasteland or west into the forest
+are about your only choices of travel.
+~
+0 4 11
+D1
+~
+~
+0 -1 1001
+D3
+~
+~
+0 -1 8903
+S
+#1001
+Further into the Waste~
+You have now entered upon the grim of this area.  No longer are the fresh 
+grass, tall trees, and vibrant wildlife of the Holy Grove visable.  Now, only
+a wide, infinate wasteland.  This place can be none other than the Eastern
+Wastes.  Not much is known about the wastes, other than this was the dwelling
+of the Sect of Oblivion headed by Raff.  This place has always been but was
+once occupied with the home of Oblivion members.  That, however, was put to
+and end by an alliance between Variant and Beowolf.  From here you can travel
+south or back to the west, to the brink of life.
+~
+0 4 11
+D2
+~
+~
+0 -1 1002
+D3
+~
+~
+0 -1 1000
+S
+#1002
+Eastern Wastes~
+A small mound of sand and dirt has emerged after much time of travel.  This
+mound, is the first site of notice since you left the Holy Grove.  As it is
+said, there isnt much in the Eastern Wastes to look at other than the dry,
+cracked land, which isnt too terribly exciting.  However, further to the east
+should be the ruins of the Oblivion Sect.  From here the wasteland leads to
+the north and east.
+~
+0 4 11
+D0
+~
+~
+0 -1 1001
+D1
+~
+~
+0 -1 1003
+E
+mound~
+Before you stands a small mound of dirt.  Completely smooth all over, with
+sprinkles of dust here and there upon it.
+~
+S
+#1003
+Eastern Wastes~
+Entering upon the void of this land, you come across nothing of importance.
+Cracks in the dry land of the Wastes, make your way as you travel along.  The
+red of the soil hints that there is an unnatural balance of iron in dirt.
+Why and how this is possible you really do not know, but the red doesnt end
+within eyeshot.  From here you can continue to the east or to the west.
+~
+0 4 11
+D1
+~
+~
+0 -1 1004
+D3
+~
+~
+0 -1 1002
+E
+dirt~
+Looking at the dirt you notice is unnatural red in color.  You sift the soil
+and sand through your hands and feel its dry and course texture.  It must be
+really high in iron content, you conclude.
+~
+S
+#1004
+Eastern Wastes~
+Delving further into the void of this wasteland, you are choked with the fear
+that there may be no ruins out here and that this land will continue forever
+in all directions, barring escape.  The land is so lifeless and dead, it is
+unimaginable to have even a drop of life out here.  The red of the soil and
+grains of sand lead to all directions from here.
+~
+0 4 1
+D0
+~
+~
+0 -1 1005
+D1
+~
+~
+0 -1 1011
+D2
+~
+~
+0 -1 1008
+D3
+~
+~
+0 -1 1003
+S
+#1005
+Eastern Wastes~
+You feel youself loosing what was once your sanity.  The boredom of this
+place is rotting your brain.  For miles and miles at a stretch you will
+notice nothing but the same patterns over and over.  The red of the soil and
+its cracked, hard texture, due to a severe lack of moisture make up about 
+ninty percent of your field of vision.  You pray to see a mound or something
+of consequence for it would be something new and different.  North and south
+of here continue the vast wasteland.
+~
+0 4 11
+D0
+~
+~
+0 -1 1006
+D2
+~
+~
+0 -1 1004
+> all_greet_prog 100~
+mpechoat $n Your mind swirls with thoughts of water.
+~
+|
+S
+#1006
+Further into the Wastes~
+You are now an infinate miles from home it seems.  How you will find your
+way back you are not sure.  As far as you can see in all directions you see
+nothing but the same thing.  This place was hit hard, obviously, from the
+magic of the warriors of this land during the war.  Water is about the only
+thing on your mind about now, as your mouth turns very dry.
+~
+0 4 11
+D0
+~
+~
+0 -1 1007
+D2
+~
+~
+0 -1 1005
+S
+#1007
+Eastern Wastes~
+You have journeyed to a small patch of rocks.  This, other than the mound of
+land you saw earlier, is the most exciting event to mind after entering this
+baren waste.  The rocks, like the rest of this place, look to be dried out and
+cracked, ready to turn into dust and dirt as well.  From here you can venture
+north and south into more of the Wastes.
+~
+0 4 11
+D0
+~
+~
+0 -1 1006
+D2
+~
+~
+0 -1 1006
+S
+#1008
+Eastern Wastes~
+Continuing into the red sea of dirt, you take a rest and grasp your breath.
+Looking around, you spot nothing of importance, as usual, and sigh to
+yourself.  How this place came to be, right off the edge of a forest, you
+will never quite understand.  From here you can exit north or south into more
+of the nothingness of the Eastern Wastes.
+~
+0 4 11
+D0
+~
+~
+0 -1 1004
+D2
+~
+~
+0 -1 1009
+S
+#1009
+Eastern Wastes~
+You feel youself loosing what was once your sanity.  The boredom of this
+place is rotting your brain.  For miles and miles at a stretch you will
+notice nothing but the same patterns over and over.  The red of the soil and
+its cracked, hard texture, due to a severe lack of moisture make up about
+ninty percent of your field of vision.  You pray to see a mound or something
+of consequence for it would be something new and different.  North and south
+of here continue the vast wasteland.
+~
+0 4 11
+D0
+~
+~
+0 -1 1008
+D2
+~
+~
+0 -1 1010
+S
+#1010
+Eastern Wastes~
+You have journeyed to a small patch of rocks.  This, other than the mound
+of land you saw earlier, is the most exciting event to mind after entering this
+baren waste.  The rocks, like the rest of this place, look to be dried or
+cracked, ready to turn into dust and dirt as well.  From here you can venture
+north and south into more of the Wastes.
+~
+0 4 1
+D0
+~
+~
+0 -1 1009
+D2
+~
+~
+0 -1 1009
+S
+#1011
+Before an Entrance~
+You are overwhelmed with joy for you see the first signs of the ruins to the
+east!  You finally notice something other than the cracked land and infinate
+swirl of desert land.  From here you can journey towards the ruins and 
+investigate, or journey back to the west, in to the wasteland.
+~
+0 4 11
+D1
+~
+~
+0 -1 1012
+D3
+~
+~
+0 -1 1004
+S
+#1012
+Just Before the Archway~
+Scattered bones and small rocks litter the area.  The bones, surely from the
+war that ended Raff's life, still continue to exist here, though rather 
+rotted and old.  Some small stones also make the area from the archway to the
+east.  For the first time, you can actually see and envision what the 
+conditions were like to those in the sect of Oblivion.  Back west is the
+Entrance to the Sect and to the east you can enter the Archways of Oblivion.
+~
+0 4 11
+D1
+~
+~
+0 -1 1013
+D3
+~
+~
+0 -1 1011
+S
+#1013
+Archways of Oblivion~
+Standing before you are the ruins of a tremendous expanse of carved stone.
+One half still stands with many scratches and cuts, looking to fall any moment,
+while the left half is lying on the ground, scattered.  Pillars made of a white
+marble also lie here, on the ground, crushed from the fall they obviously took.
+Two sets of skeletons lie here, lying to either side of the archway, guarding
+your passage.  Continuing east means your entrance into the actual sect area
+of Oblivion and back west you can traverse to just before the archways.
+~
+0 4 11
+D1
+~
+~
+0 -1 1014
+D3
+~
+~
+0 -1 1012
+S
+#1014
+Long Hallway~
+You now stand in the center of a long hallway.  To either side of you, you
+can see a rough, carved stone wall.  Both sides have holes and scratches from 
+the steel of swords and the magic of mages.  Under your feet you notice that
+the floor is half and half of a polished marble and of the desert sand.  Time
+has done as much destuction to this place as the war, it seems.  The cracked
+floor and sand lead to the east and west.
+~
+0 4 11
+D1
+~
+~
+0 -1 1015
+D3
+~
+~
+0 -1 1013
+S
+#1015
+Long Hallway~
+Standing in the center of a long hallway, again, you notice that the walls here
+are much less intact then the previous walls to the west.  They rise slightly
+higher than four feet off of the ground, while the rest lie behind, to the 
+south, in ruins, rotting for eternity.  What a battle this must have been.
+Sand trickles into your footwear as you continue along.  The stone wall opens
+up into an archway that leads into all directions from here.  However, to the
+south, nothing more than a foot of wall stands.  That wing of the hallway must
+have been completely destroyed.  So, from here you can head to the east, north,
+or back into the long hallway to the west.
+~
+0 4 11
+D0
+~
+~
+0 -1 1016
+D1
+~
+~
+0 -1 1021
+D3
+~
+~
+0 -1 1014
+S
+#1016
+Mountain Entrance~
+You stand at the base of a reddish-gray mountain, its peek hidden by the 
+clouds.  The walls of the hallway stand no more than two feet high behind you
+as you look around for something in the sect area of worth.  The reddish
+mountain before you, stares you down, and makes you feel fear for the first 
+time.  From here you can head north or south.
+~
+0 4 11
+D0
+~
+~
+0 -1 1017
+D2
+~
+~
+0 -1 1015
+S
+#1017
+Another Long Hallway~
+You now stand inside of the mountain in a great vaulted cavern.  The walls
+about you are covered in a smooth gray stone.  It seems that this area is
+in tact and saved from time and the war.  Above, in the mountain is a crack
+from which water is being spewed.  In front of your feet, stands a shimmering
+pool which echos like a strange heartbeat with the trickling water.  For the
+first time since the Holy Grove, you feel a small, cool breeze of mountain
+fresh air as you feel much relieved.  From here are four exits.  South is from
+the way you came, to the north is the Sun Room, to the east is the Animal Room,
+while the Hospital Room stands to the west.
+~
+0 4 0
+D0
+~
+~
+0 -1 1019
+D1
+~
+~
+0 -1 1020
+D2
+~
+~
+0 -1 1016
+D3
+~
+~
+0 -1 1018
+> act_prog p arrives~
+mpechoat $n A small trickle of water hits the pool from above.
+mpechoat $n A small breeze cools your body from the desert heat.
+~
+|
+S
+#1018
+Old Hospital Room~
+As you enter the room, you notice a string of soft beds.  Looks like a rather
+nice place to sleep were it not for the pile of bones on every bed.  This
+room must have been occupied rather heavily and the patients left to die
+when the clerics who ran this, died it battle.  Nothing more than the bed
+and bones catches your eye in this room and the thought of these few dozen
+sickly dying together in misery.  Back east is the only way out.
+~
+0 4 0
+D1
+~
+~
+0 -1 1017
+E
+beds~
+You notice that all on the beds lies a perfect skeleton frame.
+~
+S
+#1019
+Sun Room~
+When you walk into this room you are almost blinded by a golden light.  You
+recover quickly, but not before you can determine the source.  It seems to be
+coming from nowhere and everywhere all at the same time.  You feel warmth and
+comfort coming from the small statue near the center of the room that looks to
+be shaped like a Sun Goddess.  This room, you are sure, was not affected by the
+war.
+~
+0 4 0
+D2
+~
+~
+0 -1 1017
+> act_prog p arrives~
+mpechoat $n You lose your sight for a second before rubbing out the flash.
+~
+> act_prog p pulls~
+mlmload 201
+~
+|
+S
+#1020
+Kennel~
+Upon entering this room, you are astounded by the number of animal bones you
+see.  The entire floor and wall is littered with the mangle of bones and 
+scraps of dead animals.  It is said that this is where Raff had his most
+glorious kills.  Back west is the only visible exit.
+~
+0 4 0
+D3
+~
+~
+0 -1 1017
+S
+#1021
+Long Hallway~
+You are now standing in the middle of the longest hallway in this once
+thriving kill cult.  Stone walls arch their way up, six feet at estimate, and
+end in a sudden rip.  The arch, where the two stone walls met, has fallen and
+lies scattered on the ground.  Huge marble white pillars lie here has well,
+having fallen in the fight that ended the reign of this place.  Exits here
+go east and west.
+~
+0 4 11
+D1
+~
+~
+0 -1 1022
+D3
+~
+~
+0 -1 1015
+S
+#1022
+Long Hallway~
+Traversing along, you cross a gigantic pillar in your path.  Its marble white
+polish seems to gleam in the light.  To either side of you stand the carved
+stone walls, erected yet in their destructed state.  The marble floor you
+travel on is also torn and gashed, with sand seeping through most parts.
+From here you can travel east and west.
+~
+0 4 1
+D1
+~
+~
+0 -1 1023
+D3
+~
+~
+0 -1 1021
+S
+#1023
+Intersection in the Long Hallway~
+Standing here, you notice that this is an intersection.  Four arches stand 
+here in rather mint shape, despite the rest of this ghost area.  Sand,
+however, has not failed to break through the magnificent white floor and has
+taken up a rather large portion of the walkway.  To the north you see some 
+tombstones and to the south an oaken walkway.  East and west of here, the 
+hallway continues its long stretch.
+~
+0 4 11
+D0
+~
+~
+0 -1 1025
+D1
+~
+~
+0 -1 1026
+D2
+~
+~
+0 -1 1024
+D3
+~
+~
+0 -1 1022
+S
+#1024
+Oaken Hallway~
+You now realize the full destruction of this place.  Though this hallway is
+rather intact, you can now see several directions now and see the chaos this
+place is in.  Where there were once walls, now stands nothing.  Walls that
+separated the different themes and areas to this place, are now all strewn
+together.  This hallway, was supposedly the hallway and balcony of Silvermist.
+This can never be known again, for the surrounding area has been completely
+destroyed.  Small scraps of wood and other objects such as brass, silver, gold,
+copper, and platinum lie here.  Exits from here are north and east.
+~
+0 4 11
+D0
+~
+~
+0 -1 1023
+D1
+~
+~
+0 -1 1027
+S
+#1025
+Graveyard~
+Creaking open and closed with the wind, a small gate swings here.  Looking
+around, you notice the small tombstones of this place.  A sign exists here
+to the left side as you pass some larger tombstones.  The smell of the
+Graveyard makes this place practically unbearable.  This is a rather small
+plot of land and contains no visible exits besides the one you came into.
+~
+0 4 11
+D2
+~
+~
+0 -1 1023
+E
+sign~
+R.I.P to the members of the Oblivion Sect.
+~
+S
+#1026
+Old Shadows Walk~
+This was once the Shadows Walk.  A green lighted chamber with warts on the 
+walls.  The warts were said to be people's souls, only to be released when the
+last soul in the Realms was crushed by an Oblivion faithful.  However, since
+the last Oblivion was crushed from the Realms, the warts have grown into
+balloon sized puss pockets.  The once green chamber turned red when the
+sect died and failed to exist.  From here you can exit east, west, south, or
+down into a dank hallway.
+~
+0 4 11
+D1
+~
+~
+0 -1 1028
+D2
+~
+~
+0 -1 1027
+D3
+~
+~
+0 -1 1023
+D5
+~
+~
+0 -1 1038
+S
+#1027
+Practice Room~
+This must have been the practice room.  In here you find several lenghts of
+rope and metal used for weight lifting.  On the other side of the room you
+are pleased to find some weapons that the Oblivions used.  They, however, 
+looked trashed and unusable.  From here you can exit north, east or west 
+through the broken walls.
+~
+0 4 11
+D0
+~
+~
+0 -1 1026
+D1
+~
+~
+0 -1 1030
+D3
+~
+~
+0 -1 1024
+S
+#1028
+Shadows Walk~
+You are no longer sure that this is a hallway that leads to rooms more than
+this is now a random slew of rooms that were meant to be apart, but are now
+joined together from the lack of walls.  This room, part of the Shadows
+Hallway, is the last such room you see of this sort around.  In all directions
+you can travel, each looking different.
+~
+0 4 11
+D0
+~
+~
+0 -1 1029
+D1
+~
+~
+0 -1 1031
+D2
+~
+~
+0 -1 1030
+D3
+~
+~
+0 -1 1026
+S
+#1029
+Northern Museum Room~
+This room, much like the other parts of the museum room has had its cases
+broken and shattered on the sandy floor.  Sparkles from the grains of sand
+mix well with the shards of glass.  From here you can venture either east or
+back to the south.
+~
+0 4 11
+D1
+~
+~
+0 -1 1032
+D2
+~
+~
+0 -1 1028
+S
+#1030
+Southern Museum Room~
+You are now is a small museum.  This room, unlike the others for the most part
+has a full floor left and even shows off its shine in the light.  The glass
+from the displayes however, is all over the floor and the items that were once
+in the display cases were looted or destroyed.  From here you can travel in
+all directions minus south.
+~
+0 4 11
+D0
+~
+~
+0 -1 1028
+D1
+~
+~
+0 -1 1033
+D3
+~
+~
+0 -1 1027
+S
+#1031
+Long Hallway~
+You begin a new journey in this hallway.  It looks much like the long hallway
+towards the entrance of this area, but this section is much more damaged.  The
+walls to either side of you are standing about two feet high as the entire
+walkway around is littered in rocks and various other debris.  From here you
+can venture south, east and west.  The exit to the north is too heavily 
+covered to even attempt to exit that direction.
+~
+0 4 11
+D1
+~
+~
+0 -1 1034
+D2
+~
+~
+0 -1 1033
+D3
+~
+~
+0 -1 1028
+S
+#1032
+Eastern Museum Room~
+This entire room is in shambles.  Rocks and sand rule the room, as the tiles
+from the marble white floor have been ripped apart and whipped across the
+room.  A huge pile of rocks stand to the south, blocking that exit from
+travel.  You can, however, go east or west from here.
+~
+0 4 1
+D1
+~
+~
+0 -1 1035
+D3
+~
+~
+0 -1 1029
+S
+#1033
+Southeastern Museum Room~
+Where the floor and walls to this museum are, you are not quite sure.  Glass
+and sand alike spread over the floor like a warm blanket.  The display cases
+that were once here are no longer, and the objects inside have been either
+looted or destroyed.  Nothing was left in this area really.  The war must have
+been really severe.  From here you can exit in any direction but south.
+~
+0 4 11
+D0
+~
+~
+0 -1 1031
+D1
+~
+~
+0 -1 1036
+D3
+~
+~
+0 -1 1030
+S
+#1034
+End of Ruins~
+You have just stumbled upon the end of the sect area.  The walls here stand
+a little more than one foot off of the ground, as rocks have been spewn 
+everywhere.  The floor no longer exists here, just the baren floor of the
+Eastern Wastes.  From here you can venture south to another room; to the 
+north; to yet another room; west back into the sect area; or east into the
+Eastern Wastes.
+~
+0 4 11
+D0
+~
+~
+0 -1 1035
+D1
+~
+~
+0 -1 1046
+D2
+~
+~
+0 -1 1036
+D3
+~
+~
+0 -1 1031
+S
+#1035
+End of Ruins~
+This is where the sect area stops and the Eastern Wastes pick up.  The room 
+you now stand in is barely discernable from the Wastes that lie to the east.
+The crumbled rock walls that were once here stand less than a foot off the 
+ground.  Exits from here are back to the west and to the south, across the
+hall.
+~
+0 4 11
+D2
+~
+~
+0 -1 1034
+D3
+~
+~
+0 -1 1032
+S
+#1036
+End of Ruins.~
+You now stand before a huge mass of stone and brick, all piled on top of
+one another.  Where it used to stand before its wreckage was erect and a 
+massive stone wall to keep intruders out of the sect of Oblivion.  Now, it
+stands no more and keeps nothing from passing through its destruction.  Small
+wisps of sand cross your feet as you notice the Eastern Wastes, again.  How
+this place was to thrive in an area like this, is beyond anyones imagination.
+~
+0 4 11
+D0
+~
+~
+0 -1 1034
+D1
+~
+~
+0 -1 1037
+D3
+~
+~
+0 -1 1033
+S
+#1037
+Eastern Wastes~
+Walking along the baron ground of the Eastern Wastes, you notice in the far
+east a small road.  Maybe not even a road, but a pass.  Whatever it is, it is
+more than you have seen in the Wastes themselves besides an occasional rock
+or dirt mound, and the ruins of the Oblivion Sect, of course.  Looking down,
+again, you take special notice to see that the ground isnt as badly cracked
+and dry here as it was to the west, before the ruins.
+~
+0 4 11
+D0
+~
+~
+0 -1 1046
+D1
+~
+~
+0 -1 1048
+D3
+~
+~
+0 -1 1033
+S
+#1038
+Catacombs~
+You have just plunged into the once horrific catacombs of Oblivion.  Rough
+walls are formed to either side.  This hallway, unlike the others in this area
+are in tip-top shape and are probably very close to original state.  The 
+scurry of small feet and small chirps of a small animal catch your attention.
+From here you can climb back up or enter further into the catacombs by moving
+east.
+~
+0 4 13
+D1
+~
+~
+0 -1 1039
+D4
+~
+~
+128 -1 1026
+S
+#1039
+Further into the Catacombs~
+This room is much like the last in many respects.  The hall is still in rather
+mint condition and has many of the same smells and sights as it did before
+when Raff was still alive.  The sounds of the small animal(s) that you heard
+before are still here and have grown a little louder.  From here you can
+continue east or west.
+~
+0 4 13
+D1
+~
+~
+0 -1 1040
+D3
+~
+~
+0 -1 1038
+S
+#1040
+Further into the Catacombs~
+The hallway has made a small turn, but not off the same east to west path.
+It remains in perfect condition you notice, as you run your hand along the
+grainy texture of the course walls.  Further to the east you can travel into
+the depths of the catacombs or you can travel back west now, while its safe.
+~
+0 4 13
+D1
+~
+~
+0 -1 1041
+D3
+~
+~
+0 -1 1039
+S
+#1041
+Further into the Catacombs~
+Continuing along your path, you come across some small furry rats.   Its feels
+like there are close to a dozen scampering on your feet.  A murky green glow
+is beginning to form to the east as you continue in the depths of the 
+catacombs.  East and west are your choices of directions.
+~
+0 4 13
+D1
+~
+~
+0 -1 1042
+D3
+~
+~
+0 -1 1040
+S
+#1042
+Further into the Catacombs~
+A small green aura has presented itself and begins to swirl about your body.
+Its feels rather cool and makes your clothes damp to the touch.  Above your
+head is a pinpoint of light with a thin stream of sand slipping from above.
+Its almost as if you could climb your way up into the outside world from here.
+It might even be a good idea, seeing as how this hallway seems to have some
+of its old magic still present.
+~
+0 4 13
+D1
+~
+~
+0 -1 1043
+D3
+~
+~
+0 -1 1041
+D4
+~
+~
+128 -1 1056
+S
+#1043
+Further into the Catacombs~
+Ascending your way through this hallway, you notice your lower half of your
+body is missing.  The darkness is swelling and is getting thicker to the 
+touch.  Perhaps going back now would be a good idea.  Suidials can continue
+east, while the rest will head back west while they have a chance.
+~
+0 4 13
+D1
+~
+~
+0 -1 1044
+D3
+~
+~
+0 -1 1042
+S
+#1044
+Further into the Catacombs~
+A haze of green and black surround your body and begin to illuminate your
+every move.  A bellowing dark voice is pounding in your head that your death
+is just ahead.  A small swarm of flies emerge from the east and begin to
+attack..
+~
+0 4 13
+D1
+~
+~
+0 -1 1045
+D3
+~
+~
+0 -1 1043
+S
+#1045
+Death~
+You feel your body being consumed and a voice rings out..
+ 
+"You had your chance.  Now your death."
+~
+0 6 13
+S
+#1046
+Eastern Wastes~
+Walking along, you notice off to the far east a dirt road, or pass.  Seems a
+rather odd place to be traveling, you think, in the middle of a wasteland
+like this.  Whatever it is, you will surely investigate, for it has your
+curiosity at this point.  Looking down, again, you take special notice to see
+that the ground isnt as badly cracked and dry here as it was to the west, 
+before the ruins.
+~
+0 4 11
+D1
+~
+~
+0 -1 1047
+D2
+~
+~
+0 -1 1037
+D3
+~
+~
+0 -1 1034
+S
+#1047
+On a Trail~
+Wanting to see the source of the pass, you hurridly chase what it is you think
+to be a road and end up here.  A small and tight line of pebbles, small rocks,
+and clumps of dirt have been arranged here and form a line facing to the east
+and west.  One line only, too.  No opposing line to make it an actual pass;
+just a line, perhaps leading to something.  From here you can follow the line
+to the north or south or head to the west into the Wastes.
+~
+0 4 11
+D0
+~
+~
+0 -1 1055
+D2
+~
+~
+0 -1 1048
+D3
+~
+~
+0 -1 1046
+S
+#1048
+On a Trail~
+Hurridly getting to the bottom of this, you follow what it is you think to be
+a small trail and find this line of small rocks, pebbles, and clumps to dirt.
+It leads a trail to the north and south from what you can tell.  In every
+direction from here, you notice nothing of consequence.
+~
+0 4 11
+D0
+~
+~
+0 -1 1047
+D1
+~
+~
+0 -1 1058
+D2
+~
+~
+0 -1 1049
+D3
+~
+~
+0 -1 1037
+S
+#1049
+Passageway Down~
+Traveling along, you come across a hole.  Not a huge cavern, or canyon, but
+a traversable passageway down.  Small hand and feel holes have already been
+engraved into the hard, cracked dirt.  Travelind down this may not be the
+best idea you ever had.  However, there was a trail that lead up to it..
+or was it, perhaps, away from it.  From here you can head north or down into
+the small pass.
+~
+0 4 11
+D0
+~
+~
+0 -1 1048
+D5
+~
+~
+0 -1 1050
+S
+#1050
+In a Passage~
+This passageway, as you notice, is getting harder and harder to travel.  The
+hand and footholds are getting shallow and much less frequent.  Hopefully, as
+you are traveling down, or up, you dont loose your footing.  Passing through,
+you can see the different colors of the soil, if you can even call it that.
+From here the way is up or down.
+~
+0 16779268 1
+D4
+~
+~
+0 -1 1049
+D5
+~
+~
+0 -1 1051
+S
+#1051
+In a Passage~
+Your arms and legs begin to ache with the pain that this passage is giving you.
+Passing through it, you make several clumps of dirt loosen and fall down.
+Looking up, you see a small pinpoint of light, which is the Eastern Wastes.
+Looks as if you have traveled somewhere around one hundred yards now.  The
+holds here seem rather sturdy and frequent.  From here it is either up or down.
+~
+0 16779268 1
+D4
+~
+~
+0 -1 1050
+D5
+~
+~
+0 -1 1053
+S
+#1052
+Trap Room~
+Damn, that was close.  The entire area that you were just in, collapsed.  The
+tunnel has closed and looks now like the rest of this place.  You, however,
+made it to a small area, six by six in dimention and are glowing from your
+good luck.  Perhaps Rhylus had a hand in your fortune.  Peering about, you
+notice a large heap of gold!  Behind the gold, on the dirt, a message has been
+scribed in.
+~
+0 4 13
+E
+message~
+Before you stands a small fortune.  It was all that I had left from the old
+days.  The Oblivion Sect is no longer.  My brothers, my sisters.. ohh.. the
+sight of it all.  There was some sort of an alliance brought against us via
+Beowolf and Variant.  Raff and the others will killed.  The entire place was
+run to the ground.  Somehow, I escaped and with my shovel, dug this in hopes
+of fleeing here until it was time for me to pass.
+ 
+Being a Cleric in faith, before I die, I will use the last of my power to
+allow you a way out.  The travel up the passage should be rather hard and
+unstable, for it was done in haste.  Please, take the gold before you go, and
+deliver the message about the Sect.  Please.. others must know.
+ 
+To exit, clap your hands together and say my name, Ecin.  This will allow you
+exit from here.
+~
+> speech_prog 100 Ecin~
+mpechoat $n A blinding light hits you as you fall.
+mpforce $n sleep
+mptransfer $n 249
+~
+|
+S
+#1053
+In a Tunnel~
+The small passageway that lead down has now crossed paths with this rather
+tight tunnel.  The tunnel, made of mud and dirt, has to be unstable.  Millions
+of pounds of dirt top this small tunnel.  How it hasnt fallen atop of you, 
+already or to the others that have passed here, it is a wonder.  A small clump
+of dirt hits your head as you notice a stream of dirt falling behind you.
+~
+0 4 13
+D2
+~
+~
+0 -1 1054
+D4
+~
+~
+0 -1 1051
+S
+#1054
+In a Passage~
+The stream of dirt that you last saw, began to pick up and almost forced you
+into here.  You hear a low rumble and feel a slight shake.  As you are crawling
+along, you feel the rumbling and the shaking becoming more and more violent.
+Dirt and mud begins to crash suddenly behind and in front of you!  More and 
+topples down as a sudden rush begins to fill your body.  To the southeast
+is your only hope.  If indeed you are not fast enough, you will surely be 
+buried here for all eternity.
+~
+0 4 13
+D0
+~
+~
+0 -1 1053
+D8
+~
+~
+0 -1 1052
+S
+#1055
+On a Trail~
+Continuing along this small path of rocks and other small items, you begin to
+feel weary.  The long hard haul seems to multiply from the desert heat.  Up
+ahead you notice a large mound of dirt and sand.  From here you can exit north
+or south.
+~
+0 4 11
+D0
+~
+~
+0 -1 1056
+D2
+~
+~
+0 -1 1047
+S
+#1056
+Large Mound~
+You have entered upon atop the large mound.  The slight feeling of sinking
+seems to scare you at first, but you find that you can shift your weight to
+prevent the sinking.  Staring down at your feel, you notice a thin stream of
+sand traveling in a small line north and then dissapearing down.  Perhaps there
+is something down there.  From here you can exit north to the Wastes or back
+south to the trail.
+~
+0 4 11
+D0
+~
+~
+0 -1 1057
+D2
+~
+~
+0 -1 1055
+D5
+~
+~
+2048 -1 1042
+S
+#1057
+End of the Trail~
+The trail ends here.  To the north, off of the trail, a small patch of gate
+looks to be containing something.  Perhaps it is just the heat playing tricks
+on your mind, but perhaps not.  A slow pick of wind makes you tremble at the
+slight comfort of the feel.
+~
+0 4 11
+D0
+~
+~
+0 -1 1080
+D2
+~
+~
+0 -1 1056
+S
+#1058
+End of Wastes~
+Your travels have taken you this far and you have not fared yet.  The infinate
+wasteland that you travel has taken its toll, but here you stand.  A large,
+vast land to the north emerges, taking on the looks of life and maybe even 
+some water.  Thankfully, you think to yourself, you have made it though and
+you make a mental note not to ever have to come though here again if you have
+a choice.
+~
+0 4 11
+D1
+~
+~
+0 -1 1062
+D3
+~
+~
+0 -1 1048
+S
+#1059
+Floating in a void~
+~
+0 4 1
+D1
+~
+~
+0 -1 1062
+D3
+~
+~
+0 -1 1058
+S
+#1060
+Floating in a void~
+~
+0 4 1
+D1
+~
+~
+0 -1 1061
+D2
+~
+~
+0 -1 1062
+S
+#1061
+Floating in a void~
+~
+0 4 1
+D2
+~
+~
+0 -1 1063
+D3
+~
+~
+0 -1 1060
+S
+#1062
+Dragonreach~
+Small trickles of water emerge from the vast ocean to the east.  The ground,
+while not the kind of climate you would expect from an area so close to a
+sea, isnt complete bare.  Small signs of life have attained a home.  Small
+patches of grass and weeds have rooted and have prospered here.
+~
+0 4 1
+D1
+~
+~
+0 -1 1070
+D3
+~
+~
+0 -1 1058
+S
+#1063
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1061
+D1
+~
+~
+0 -1 1070
+D2
+~
+~
+0 -1 1065
+D3
+~
+~
+0 -1 1062
+S
+#1064
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1062
+D1
+~
+~
+0 -1 1065
+S
+#1065
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1063
+D3
+~
+~
+0 -1 1064
+S
+#1066
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1066
+D2
+~
+~
+0 -1 1060
+S
+#1067
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1067
+D2
+~
+~
+0 -1 1061
+S
+#1068
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1064
+D2
+~
+~
+0 -1 1068
+S
+#1069
+Floating in a void~
+~
+0 4 1
+D0
+~
+~
+0 -1 1065
+D2
+~
+~
+0 -1 1069
+S
+#1070
+Before Dock of Dragonreach Sea~
+The baren land you were once just traveling on has erupted in a fresh smelling
+grass plain.  Some small flowers and small bushes can be seen, as well.  The
+Dock of the Dragonreach Sea is just to the east with the Eastern Wastes to the
+west of here.
+~
+0 4 1
+D1
+~
+~
+0 -1 10114
+D3
+~
+~
+0 -1 1062
+S
+#1071
+Floating in a void~
+~
+0 4 1
+S
+#1072
+Floating in a void~
+~
+0 4 1
+S
+#1073
+Floating in a void~
+~
+0 4 1
+S
+#1074
+Floating in a void~
+~
+0 4 1
+S
+#1075
+Floating in a void~
+~
+0 4 1
+S
+#1076
+Floating in a void~
+~
+0 4 1
+S
+#1077
+Floating in a void~
+~
+0 4 1
+S
+#1078
+Floating in a void~
+~
+0 4 1
+S
+#1079
+Floating in a void~
+~
+0 4 1
+S
+#1080
+A Mirage~
+As you near closer to the gate, you see that the image wavers in the extreme
+heat.  Your thought that it was a mirage is becoming more and more a reality.
+As you focus your attention on the image more and more, the world around you
+begins to shift and change.  A cool breeze touches your sweat-coverd face
+as the smell of autumn fills your nose.  With every new step, something 
+changes.  You look back and no longer see the Eastern Wastes.
+~
+0 4 1
+D0
+~
+~
+0 -1 800
+D2
+~
+~
+0 -1 1057
+S
+#1081
+Floating in a void~
+~
+0 4 1
+S
+#1082
+Floating in a void~
+~
+0 4 1
+S
+#1083
+Floating in a void~
+~
+0 4 1
+S
+#1084
+Floating in a void~
+~
+0 4 1
+S
+#1085
+Floating in a void~
+~
+0 4 1
+S
+#1086
+Floating in a void~
+~
+0 4 1
+S
+#1087
+Floating in a void~
+~
+0 4 1
+S
+#1088
+Floating in a void~
+~
+0 4 1
+S
+#1089
+Floating in a void~
+~
+0 4 1
+S
+#1090
+Floating in a void~
+~
+0 4 1
+S
+#1091
+Floating in a void~
+~
+0 4 1
+S
+#1092
+Floating in a void~
+~
+0 4 1
+S
+#1093
+Floating in a void~
+~
+0 4 1
+S
+#1094
+Floating in a void~
+~
+0 4 1
+S
+#1095
+Floating in a void~
+~
+0 4 1
+S
+#1096
+Floating in a void~
+~
+0 4 1
+S
+#1097
+Floating in a void~
+~
+0 4 1
+S
+#1098
+Floating in a void~
+~
+0 4 1
+S
+#1099
+Floating in a void~
+~
+0 4 1
+S
+#0
+
+
+#RESETS
+O 1 1000 1 1002
+O 1 1001 1 1012
+M 1 1000 2 1013
+M 1 1000 2 1013
+O 1 1002 1 1013
+O 1 1003 1 1017
+O 1 1004 1 1018
+O 1 1005 1 1019
+M 1 1002 1 1020
+O 1 1002 1 1021
+O 1 1002 1 1022
+O 1 1008 1 1024
+O 1 1006 1 1025
+O 1 1007 1 1025
+M 1 1003 1 1026
+O 1 1009 1 1027
+O 1 1010 1 1027
+O 1 1011 1 1027
+O 1 1012 1 1029
+O 1 1012 1 1030
+O 1 1008 1 1031
+O 1 1012 1 1033
+M 1 1004 1 1041
+O 1 1017 1 1052
+O 1 1000 1 1056
+O 1 1013 1 1062
+O 1 1014 1 1062
+O 1 1015 1 1070
+O 1 1016 1 1070
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

@@ -1,0 +1,1328 @@
+#AREA   The Underworld~
+
+
+
+#AUTHOR Variant~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51300000
+
+#MOBILES
+#600
+Dymeir mage~
+Dymeir~
+Dymeir, Lord of Darkness
+~
+Dymeir, ancient enemy of the Shaikari, leader of the lost race of Chaon. 
+He seems to be a shadow given form, and darkness radiates from him,
+seemingly flowing from his body.  The unrelenting darkness of his cloaked
+face is pierced only by two dim yellow orbs which stare out from beneath the
+hood at you.  Instinctively, you shiver as the eyes seem to peel away layer
+after layer of your soul.  You feel something cold and slippery move in your
+mind, as a low chuckle rolls out from unseen lips.
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#602
+cerebus jerk~
+Cerebus~
+Cerebus, the Wooden is here.
+~
+Cerebus whines too much and charms weak mobs to show off his prowess.  In
+reality he is just plain annoying.  Although not entirely unlikable, he just
+plain gets up your nose sometimes so you just have to stomp him.  But he
+also uses the classic 'Zman Deletion Threat' gambit, which of course makes
+him a target for ridicule.  Oh well.  Maybe someday he will grow up, and
+learn to respect those around him.  We can only hope.
+~
+1 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#666
+odysseus Bartender~
+Odysseus~
+Odysseus, Sacker of Cities is here happily tending bar.
+~
+After his many journeys across the changing world, Odysseus was
+eventually elevated to a position of great honor among the gods.  Odysseus,
+Sacker of Cities became Odysseus, Bartender of the Gods.  And an excellent
+job he does as well.  He has to to keep the Norse happy with their wild
+parties.  He often has to step in and break up fights between the noble Odin
+and the usually drunk Zeus when Ra isn't around.  It takes a very brave man
+to step between Odin and his quarry, not to mention to restrain a sloshed
+Zeus.  He and Heimdall have much in common, and they frequently sing epic
+songs together.  Odysseus of the nimble wit has proven his worth time and
+again, and holds a place of great respect in the hearts of the Gods.
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#600
+crusader sword paragon~
+Crusader~
+A bright silver longsword is here, issuing wisps of mist.~
+~
+5 64 1
+0 200 1 0
+100 2 0
+A
+19 20
+A
+12 1000
+A
+13 1000
+#601
+book atrus paragon~
+the Book of Atrus~
+The Book of Atrus is here, containing all the ancient knowledge.~
+~
+9 64 1
+50 50 50 50
+1 1 0
+A
+17 -20
+A
+19 10
+A
+18 10
+A
+12 1000
+A
+13 1000
+#602
+violets~
+a Bunch of Violets~
+A bunch of beautiful violets are here, smelling of lavender.~
+~
+13 0 1
+0 0 0 0
+1 1 0
+#603
+silver ring~
+a silver ring~
+A silver ring is here, engraved with mystic runes of sanctity.~
+~
+9 1 0
+20 20 20 20
+1 100 10
+E
+runes~
+Bethany, I wish you great joy and happiness. All my love, Jason.
+~
+A
+3 5
+#604
+ring silver~
+a silver ring~
+A silver ring is here, engraved with runes of protection.~
+~
+9 64 1
+20 20 20 20
+1 1 0
+#605
+ankh paragon~
+an Ankh~
+An Ankh is here, on a long golden chain.~
+~
+9 64 5
+20 20 20 20
+1 0 0
+A
+18 20
+A
+12 1000
+A
+19 20
+#606
+glowing moonstone paragon~
+a glowing moonstone~
+A glowing moonstone is here, faintly radiating magic.~
+~
+1 64 1
+0 0 -999 0
+1 0 0
+#607
+armor aiakides gold paragon~
+the Armor of Aiakides~
+A wondrous set of golden armor is here, covered with intricate designs.~
+~
+9 64 1
+300 300 300 300
+10 1 0
+A
+17 -20
+A
+18 20
+A
+19 20
+A
+13 1000
+A
+12 1000
+#608
+gloves spiked paragon~
+spiked gloves~
+A set of gloves with spikes grafted to the back of the hand.~
+~
+9 0 1
+20 20 20 20
+10 0 0
+A
+18 20
+A
+19 20
+A
+12 1000
+#609
+sign no giggling~
+a sign~
+A large NO GIGGLING sign is here, mounted on a small wooden post.~
+~
+13 0 1
+0 0 0 0
+1 -10000 -1000
+#610
+cloak sith paragon~
+the Cloak of Sith~
+A long cloak is here, its edges swirling like mist.~
+~
+9 64 1025
+30 30 30 30
+10 10 1
+A
+13 1000
+A
+12 1000
+#611
+crown stars paragon~
+the Crown of Stars~
+A crown fashioned of delicate mithril is here, gleaming brightly~
+~
+9 64 17
+20 20 20 30
+10 10000 1000
+#612
+no name~
+a huge pile of cash~
+A mound of gold as tall as you are is here.~
+~
+20 0 1
+0 0 0 0
+1 0 0
+#613
+no name~
+a skeleton~
+A ancient skeleton is here, covered with the dust of several centuries.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#614
+hand~
+the hand~
+A skeleton with a shattered ribcage.~
+~
+15 0 0
+0 1 0 0
+1 0 0
+E
+hand~
+The hand clutches a small black object, about the size of a tinderbox. It 
+appears to be made of a red veined black marble.
+~
+#615
+key~
+the eder tomahn key~
+A red-streaked black stone is here, bevel edged and thick.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#616
+belt green knight paragon~
+the Belt of the Green Knight~
+A deep green belt, long enough to wrap around twice.~
+~
+9 64 1
+0 0 0 0
+10 100 10
+A
+2 2
+A
+3 2
+A
+4 2
+A
+5 2
+A
+18 10
+A
+19 10
+#617
+moongate~
+a moongate~
+A shimmering moongate is here, radiating light.~
+~
+12 64 1
+0 0 6 601
+10 0 0
+#618
+rubber widget wedge bob~
+a Rubber widget~
+A nondescript wedge of rubber is here.~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+widget~
+This is one of the six most useless items in the cosmos.
+~
+#619
+boomerang bent bob~
+the Boomerang of No Return~
+A dented boomerang is here, lying in the dust.~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+boomerang~
+This is one of the six most useless items in the cosmos.
+~
+#620
+wand no use bob~
+the Wand of No Apparent Use~
+A wand is here, splintering slightly.~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+wand~
+This is one of the six most useless items in the cosmos.
+~
+#621
+lantern bob~
+the Solar Powered Lantern~
+A lantern is here, glowing brightly in the daylight~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+lantern~
+This is one of the six most useless items in the cosmos.
+~
+#622
+rakalite green sphere bob^~
+the Rakalite~
+A green glowing sphere veined with black~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+rakalite~
+This is one of the six most useless items in the cosmos.
+~
+#623
+ABBA CD bob~
+the Best of ABBA CD~
+A CD is here, still in its original packaging~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+cd~
+This is one of the six most useless items in the cosmos.
+~
+#624
+ring d'ni~
+a Silver Ring of D'ni~
+A silver ring engraved with runes of protection~
+~
+9 524288 1
+5 5 5 5
+10 10 1
+A
+18 5
+A
+19 5
+#625
+gold ring d'ni~
+the Gold Ring of D'ni~
+A golden ring engraved with runes of warding~
+~
+9 524288 1
+7 7 7 7
+1 1 0
+A
+18 7
+A
+19 7
+#626
+ring dymeir sith~
+the Ring of Dymeir~
+A black ring with a silver eagle device upon it.~
+~
+9 64 0
+10 10 10 10
+23 2300 230
+A
+18 5
+A
+19 5
+A
+1 2
+#627
+jelly baby~
+a jelly baby~
+A small jelly candy in the shape of a rotund child.~
+~
+19 0 1
+40 0 0 0
+1 5 0
+#628
+sword of decay acheron~
+Acheron, the Sword of Decay~
+An ancient sword with a black metal blade glowing with power.~
+~
+5 16 8193
+0 50 5 0
+100 5000 500
+#629
+armor truth~
+Armor of Truth~
+Tarnished silver armor, etched with ancient heraldry.~
+~
+9 532544 9
+200 200 200 200
+100 1000 100
+A
+18 50
+A
+19 50
+#630
+defender sword paragon~
+Defender~
+A sword with a wide red blade, carved with runes of protection.~
+~
+5 64 8193
+0 200 1 6
+10 50000 5000
+A
+17 -500
+A
+18 50
+A
+19 50
+#631
+bag~
+the bag of heads~
+A large canvas bag filled with spherical objects.~
+~
+15 0 1
+1000000 0 0 100000
+10 0 0
+#632
+potion regeneration strife~
+a potion of regeneration~
+A bubbling purple potion, in a strong crystal vial.~
+~
+10 64 0
+100 -1 -1 -1
+10 100000 10000
+#633
+chair comfy~
+a comfy chair~
+A comfy wooden chair is here, waiting for your ass.~
+~
+12 0 1
+1 1000 16 0
+10 0 0
+#634
+obsidian greaves paragon~
+obsidian greaves~
+A shiny set of greaves made of obsidian.~
+~
+9 64 1
+10 10 10 10
+100 10 1
+#635
+potion ardor breath strife~
+breath of ardor~
+A dark purple liquid in a glass sphere.~
+~
+10 64 0
+130 201 -1 -1
+10 1000 100
+#636
+wrath coriander strife~
+the Wrath of Coriander~
+A smooth silver vial stoppered tightly with a cork.~
+~
+10 524288 0
+150 -1 -1 -1
+10 10000 1000
+#637
+potion aegis strife~
+an Aegis potion~
+A silvery blue potion in a black vial.~
+~
+10 64 0
+150 -1 -1 22
+10 2000 200
+#640
+dried rabbit meat~
+dried rabbit meat~
+Some sort of dried meat is on the ground here.~
+~
+19 0 1
+50 0 0 0
+1 40 4
+#641
+metal flask water~
+a metal flask~
+A small metal flask filled with fresh water.~
+~
+17 0 1
+100 100 0 0
+1 30 3
+#649
+erebus obsidian blade~
+Erebus, the Obsidian Blade~
+A black blade inlaid with silver runes of arcane power.~
+Erebus's dark light seeps up their swordarm~
+5 532504 8193
+100 50 5 3
+10 5000 500
+A
+19 10
+A
+18 10
+#650
+robe sage aradael~
+robes of the sage~
+Long flowing blue robes, adorned with silver weave.~
+~
+9 64 0
+500 500 500 500
+10 100 10
+#651
+staff cabrius aradael~
+the Staff of Cabrius~
+A thick wooden staff made of rich mahogany, topped with a large silver sphere.~
+~
+5 524288 1
+0 400 10 0
+10 100 10
+#652
+aradael pouch runes~
+a rune pouch~
+A small purple pouch, tied with a golden string.~
+~
+15 64 0
+1000000 1 0 10000
+100 1000 100
+#696
+shield large steel shard~
+the large steel shield (shard)~
+A large, steel shield is on the floor.~
+~
+9 64 0
+12 11 11 12
+120 10000 1000
+A
+18 10
+A
+19 10
+#697
+wedding dress white~
+a white satin wedding dress~
+A long white satin wedding dress, trimmed with delicate lace.~
+~
+12 524288 1
+0 0 0 0
+10 10000 1000
+#698
+garter wedding silk~
+a white silk garter~
+A white silk garter is here, worn high up on the thigh.~
+~
+12 0 1
+0 0 0 0
+10 0 0
+#699
+ring silver~
+a silver engagement ring~
+A beautiful mithril ring, inlaid with runes of devotion~
+~
+9 0 1
+0 0 0 0
+100 1000 100
+#0
+
+
+#ROOMS
+#600
+Nexus~
+This room is constructed of a material similar in consistency and color
+to a sand dollar.  It is strangely porous, and shaped in regular overlapping
+layers that stretch from the ceiling to the floor.  The walls slope gently
+down to meet the upturned floor, creating a flattened sphere with you at its
+center.  Light seems to stream down from above, though there is no
+discernable source.  There is no furniture, but the floor is slightly
+spongy, creating a comfortable surface to sit upon.
+~
+0 2052 0
+S
+#601
+Darkened Chamber~
+This room is lit only by the shimmering gate that is at the center of the
+chamber.  At the center of the circle of crumbling stones, the mystical
+portal throws shifting shadows on the irregular walls.  It is as if the
+stones are clutched by a gigantic shadowy hand, its sharp fingers
+disappearing into the darkness of the high vaulted ceiling.  There is barely
+enough light to pick out faded runes etched into the stones, ancient magic
+that must be several centuries old.  The language is lost on you, as is the
+function of this place.  There is a thick layer of dust upon the floor, and
+it is certain that no one has disturbed this place for quite some time.  A
+crude tunnel has been carved into the wall to the south, leading off into
+the darkness.
+~
+0 8 0
+D2
+~
+~
+0 0 602
+S
+#602
+Inside the Tunnel~
+The tunnel seems to have been crudely carved by some sort of magical force,
+for there are no signs of tunnel supports or irregular walls that would make
+a manual excavation. The tunnel slopes slightly downwards to the south,
+disappearing into darkness. To the north, the tunnel widens into a huge 
+chamber, from which emanates a ghostly blue light.
+~
+0 1 0
+D0
+~
+~
+0 0 601
+D2
+~
+~
+0 0 603
+S
+#603
+Inside the Tunnel~
+The roughly hewn walls begin curving slightly west here, marking a turn
+in the tunnel's direction. As a result, the end of the tunnel is lost around 
+the curve to the south. To the north however, there is a strange blue glow
+which throws faint shadows on the walls.
+~
+0 1 0
+D0
+~
+~
+0 0 602
+D2
+~
+~
+0 0 604
+S
+#604
+Curving Tunnel~
+The tunnel curves in earnest here, disappearing into darkness to the west, 
+and leading off to a faint glow to the north. The gentle bend in the tunnel
+is perfect, adding further to the suspicion that the tunnel was excavated by
+magical rather than manual means. There are still no signs of tunnel supports
+or pick axe scrapings, so either the engineer who planned these catacombs was
+brilliant, or he was a powerful wizard. The fact that the magic has lasted
+for as long as these tunnels have existed is nothing short of astounding
+and makes you wonder who was capable of such an amazing feat.
+~
+0 1 0
+D0
+~
+~
+0 0 603
+D3
+~
+~
+0 0 605
+S
+#605
+Sloping Tunnel~
+The tunnel continues onward to the west, sloping downwards like a giant 
+wormhole cut through the solid rock. Oddly, a cool wind can be felt lightly
+upon your face, issuing forth from deeper within the earth. The air smells 
+fresh, as opposed to the musty unfamiliarity of the remainder of the tunnel.
+For some reason, your light source flickers, as if some magic of the tunnel
+was interfering with it. The darkness intensifies as the catacombs continue.
+~
+0 1 0
+D1
+~
+~
+0 0 604
+D3
+~
+~
+0 0 606
+S
+#606
+Inside the Tunnel~
+Your light source visibly dims as you enter this section of corridor.  It
+is barely sufficient to illuminate a carving on the tunnel's wall.  It is a
+large rune, approximately three hands across, and two hands high.  It is of
+the same ancient tongue as the other inscriptions you have seen in these
+chambers, and seems to radiate a raw magical force.  Your skin tightens and
+itches slightly as the hairs on the back of your neck stand up on end.  The
+catacombs continue to the east, and to the south, from which direction a
+breeze lightly blows.  A dim light shines from a room to the north.
+~
+0 1 0
+D0
+~
+~
+0 0 607
+D1
+~
+~
+0 0 605
+D2
+~
+~
+0 0 608
+E
+rune~
+The rune is about three hands wide, and two hands tall, though you hesitate
+to touch it. It radiates raw magical force on a very basic, though extremely
+powerful level. The ancient word may be a rune of binding, connecting the
+enchantment to the tunnel, but without more evidence of the lost tongue, 
+there is no way to be sure. The power, though aged is still amazingly strong.
+~
+S
+#607
+Chamber of the Catacombs~
+The tunnel widens slightly here, forming a chamber approximately six paces
+across. There are several small shelves around the edge of the room, forming
+platforms to sleep upon. This appears to be some sort of rest stop in the
+subterannian passageways. Directly above your head, a glowing stone is set 
+into the ceiling, its fading magic still faintly illuminating the chamber.
+Around the border of the room, there is a three inch band of the ancient script
+that is rampant in these tunnels. It circles the room, broken only by the 
+room's entrance to the south.
+~
+0 4 0
+D2
+~
+~
+0 0 606
+S
+#608
+Inside the Tunnel~
+A rumbling can be faintly felt through the walls and floor as you
+progress deeper into the tunnel, which slopes sharply downwards here.  The
+wind that blows through the rest of the catacombs is swifter here, tugging
+at your hair lightly as it blows from the west, and whispering through the
+caverns to the north.
+~
+0 1 0
+D0
+~
+~
+0 0 606
+D3
+~
+~
+0 0 609
+S
+#609
+Inside the Tunnel~
+The rumbling has elevated to an audible level, a deep resounding noise that 
+penetrates the rock of the tunnel, and the soles of your feet. It appears to
+be coming from the west, where the tunnel continues into the darkness. Also
+from this direction comes the breeze of fresh air that is such an anomoly in
+this underground world. As a distinct opposite, nothing but silence can be 
+detected from the passage to the east.
+~
+0 1 0
+D1
+~
+~
+0 0 608
+D3
+~
+~
+0 0 610
+S
+#610
+End of the Tunnel~
+This room reverberates with the sounds of thunder, as if a herd of horses
+were stampeding directly to the south. The sound is unending however, and there
+is no way that mere horses could create this sort of power. The noise is 
+near deafening, and blocks out all other noise in the tunnels. To the south
+there is a crack in the wall, which glimmers with a dim light. The crack 
+outlines the inside of a concealed door, on the other side of which lies the
+source of the noise. Wind howls through the crack, pulling at your clothing
+gently and streaming off down the corridor to the east.
+~
+0 1 0
+D1
+~
+~
+0 0 609
+D2
+~
+concealed~
+33 0 611
+S
+#611
+Wall of Water~
+Directly before you is a solid wall of falling water, whose spray quickly
+soaks you to the bone. You are standing on a narrow ledge, about a handspan
+wide, beyond which the water falls another sixty or seventy feet to an 
+underground lake below. Such a fall would invariably be fatal, as would the
+sudden stop at the end. On the wall to the east, there is a semi-regular 
+series of small pits, that could easily serve as hand and foot holds without
+drawing attention to themselves as being such. Unfortunately, hanging out
+precariously above the water and using the holds, slick with spray from the
+falls, is not a prospect which appeals to you.
+~
+0 4 0
+D0
+~
+concealed~
+33 0 610
+D1
+~
+~
+0 0 612
+S
+#612
+Clinging to the Cavern Wall~
+Precariously hanging from several concealed hand and footholds, your
+surroundings are not foremost on your mind.  However, the scenery around you
+is breathtaking.  The falls arc down from the west, falling a full two
+hundred feet to the lake below.  Light streams from the fall's head,
+illuminating the immense underground cavern that you are in.  Stalactites
+hang from the ceiling and in some places stretch all the way to the lake's
+bed, forming giant pillars that support the ceiling.  The cavern is several
+hundred feet across, and seems to be spanned by a massive stone bridge which
+begins on a cliff to the east.
+~
+0 4 0
+D1
+~
+~
+0 0 613
+D3
+~
+~
+0 0 611
+S
+#613
+Clinging to the Cavern Wall~
+Your grip on the cavern wall is precarious, but firm. The pattern of hand
+and footholds continues to the west towards the falls, and to the east to
+a cliff from which an immense stone span arches out across the underground
+lake, disappearing into the gloom at the other end of the cavern to the
+south. Directly across from the span is a large archway, marking the opening
+to a large tunnel which disappears into the cavern wall to the north.
+~
+0 4 0
+D1
+~
+~
+0 0 614
+D3
+~
+~
+0 0 612
+S
+#614
+The Edge of the Lake~
+You stand atop a rocky ledge on the shore of an underground lake.  To the
+west falls cascade two hundred feet to the lake below, throwing up a mist
+that catches the sunlight as it streams down to light the waters depths. 
+Directly to the south, an immense span of stone arches out over the lake,
+supported by colossal pillars that juts from the lake's surface.  The span,
+seemingly cut from a single stone, stretches several hundred feet to the
+other side of the lake, where another tunnel disappears into the far wall. 
+It is a marvel of construction, made with the same ancient magic as the rest
+of the underworld.  The same magic responsible for the twelve foot archway
+to the north, marking the opening of a vaulted passage that stretches away
+from you into the cavern wall.
+~
+0 8 0
+D0
+~
+~
+0 0 615
+D2
+~
+~
+0 0 630
+D3
+~
+~
+0 0 613
+S
+#615
+Vaulted Corridor~
+This corridor is twelve feet tall, and extends beyond the reach of your light
+source's feeble illumination. The once smooth walls have been pitted and
+scarred by all manner of instruments. In places, the ceiling has collapsed
+into small piles of debris which partially block the corridor, but it is not
+impassable. The tunnel continues to the north beyond the rubble, and seems to
+be in no better shape. To the south, the corridor ends in a large open
+cavern, lit by some overhead source.
+~
+0 1 0
+D0
+~
+~
+0 0 616
+D2
+~
+~
+0 0 614
+S
+#616
+Vaulted Corridor~
+The corridor continues onward here, into the darkness to the north, and 
+towards a dim light to the south. The corridor is strewn with rubble from 
+collapsed portions of ceiling and walls, and the walls are pitted and scored
+as if they had been subjected to bashing. In several places, there are large
+runes that have been partially destroyed, their ancient etchings having lost
+whatever power they might have had. Your light has diminished to the strength
+of an evening sun, throwing long shadows in the echoing corridor.
+~
+0 1 0
+D0
+~
+~
+0 0 617
+D2
+~
+~
+0 0 615
+S
+#617
+Vaulted Corridor~
+A thick dust has settled over every surface here, covering walls, floor
+and rubble alike.  A huge mound of debris is piled against the west wall,
+making passage through the corridor near impossible.  You must climb over
+the mound, nearly touching the ceiling to get through.  The fact that your
+light is only giving off as much light as a candle does not aid your footing
+any.  The corridor continues into darkness to the north, and towards a
+cavern to the south.
+~
+0 1 0
+D0
+~
+~
+0 0 618
+D2
+~
+~
+0 0 616
+D3
+~
+hidden~
+3 0 619
+S
+#618
+Collapsed Corridor~
+The ceiling of the corridor has collapsed here, blocking the passage
+completely. The walls are badly gouged and scratched, as if the destruction
+were intentional. It seems that whoever caused this collapse, didn't want
+whatever was on the other side to get out.. or didn't want anything on this
+side to get in.
+~
+0 1 0
+D2
+~
+~
+0 0 617
+S
+#619
+Roughly Hewn Tunnel~
+This tunnel is less than four feet tall, and is obviously not of the same
+construction as the rest of the corridor. This detour around the blockage was
+hidden for some reason beneath the rubble, and twists through the rock
+haphazardly. Whoever made this tunnel did not have the same resources as the
+original creators. The tunnel winds away to the north.
+~
+0 1 0
+D0
+~
+~
+0 0 620
+D1
+~
+~
+3 0 617
+S
+#620
+Roughly Hewn Tunnel~
+The hastily dug tunnel narrows to less than three feet here, forcing you
+to crawl to continue.  The floor of the tunnel is littered with broken stone
+and dust, making your passage uncomfortable at best.  The passage makes a
+sharp turn, one end winding away to the west, the other disappearing to the
+south.  The bend is so sharp, it requires several seconds of maneuvering to
+work your armor and weapons through the corridor.
+~
+0 1 0
+D2
+~
+~
+0 0 619
+D3
+~
+~
+0 0 621
+S
+#621
+Roughly Hewn Tunnel~
+The narrow tunnel curves sharply again here, one end disappearing to the
+north, and the other to the south. The walls are rocky and are covered in all
+manner of gouges and scrapes, layered over with a thick layer of dust and
+dirt, and yet caked in dark lettering are words scrawled hastily in the
+common tongue. The lettering appears to be done in blood.
+~
+0 1 0
+D0
+~
+~
+0 0 622
+D1
+~
+~
+0 0 620
+E
+lettering~
+B E W A R E    T H E   H A N D    T H A T   T A K E S
+ 
+ 
+~
+S
+#622
+Roughly Hewn Tunnel~
+The tunnel bottlenecks here, narrowing to a passage barely three feet across,
+and half again as tall. Added to the difficulty of passage, it makes a sharp
+right angle turn here, forcing you to work your way around the corner to 
+proceed. The tunnel widens to the east, forming a passage that bores through
+the rock in a near perfect line. To the south, the passage narrows further,
+and disappears around a corner.
+~
+0 1 0
+D1
+~
+~
+0 0 623
+D2
+~
+~
+0 0 621
+S
+#623
+Roughly Hewn Tunnel~
+The tunnel continues here, winding deeper into the rock to the west, 
+disappearing into the ominous darkness there. The tunnel narrows in that
+direction, as if the rock itself was moving to prevent your passage. To the
+east the tunnel bores a straight passage back towards the vaulted corridor.
+~
+0 1 0
+D1
+~
+~
+0 0 624
+D3
+~
+~
+0 0 622
+S
+#624
+Roughly Hewn Tunnel~
+The tunnel seems to be a normal excavation, such as you would find in an
+everyday mine. However, in this place of magic and grand structures, the plain
+walls of the tunnel are somewhat of an oddity. At the very least they are
+out of place, but what is the tunnel's function? The tunnel progresses
+to the east and west, continuing deeper into the rock.
+~
+0 1 0
+D1
+~
+~
+0 0 625
+D3
+~
+~
+0 0 623
+S
+#625
+Roughly Hewn Tunnel~
+A vague sensation of dread overcomes you for a moment as you pass into this
+section of the tunnel, but it passes momentarily. Whether it was a
+supernatural effect, or simply due to the prolonged constriction of the
+tunnel, you do not know. The tunnel bores into the darkness of the rock
+to the west. To the east, the tunnel ends in what appears to be a vaulted
+corridor, of a much more ancient and ornamental design.
+~
+0 1 0
+D1
+~
+~
+0 0 626
+D3
+~
+~
+0 0 624
+S
+#626
+Vaulted Corridor~
+The vaulted corridor that stretches away from you to the north, terminates
+abruptly in a blockage that stretches from floor to ceiling, cutting off
+this portion of the passage from the remainder to the south. The walls are
+heavily pitted and gouged, as if the collapse of the ceiling were an 
+intentional occurrence. On the wall is a large rune that has been partially
+obliterated by what appears to be a clawed hand. Half buried under the 
+rubble is a humanoid skeleton, one arm reaching back over its skull as if
+trying to pull itself free. To the west is a rough tunnel that bores its
+way into the rock, stretching out of sight.
+~
+0 1 0
+D0
+~
+~
+0 0 627
+D3
+~
+~
+0 0 625
+S
+#627
+Vaulted Corridor~
+The vaulted corridor has an eerie stillness, as if it has been untouched by
+time or the elements for many thousands of years. The air is stale, and the
+floor is covered with a thin layer of dust that has remained undisturbed since
+the collapse of the corridor to the south. Rubble has been strewn across the 
+hall, both gouged from the walls of the corridor, and scattered from the
+cave in. A thin layer of dust has settled over everything, and seems not to
+have been disturbed for ages. On the floor before you are a pair of skeletons
+locked in a mortal embrace. One still has a skeletal grip on the hilt of a 
+rusted sword, that protrudes through the hollow ribcage of the other. The
+second clutches the handle of a pick axe which has its point buried in the
+first skeletons skull.
+~
+0 1 0
+D0
+~
+~
+0 0 628
+D2
+~
+~
+0 0 626
+S
+#628
+Vaulted Corridor~
+The silence of the corridor is near complete, the air is totally stagnant.
+There is no change, nothing to disturb the rest of the fallen that lie all
+around you. Your steps echo in the massive corridor, breaking the eerie
+stillness. The corridor stretches out to the south, and opens up into an
+extremely dark room to the north. The skeletons seem to increase in number as
+you move in that direction, falling off rapidly to the south.
+~
+0 1 0
+D0
+~
+~
+0 0 629
+D2
+~
+~
+0 0 627
+S
+#629
+Darkened Chamber~
+This rougly circular chamber seems to be sapping the illumination of your
+light source, throwing much of the chamber into total darkness.  From what
+you can make out, the walls are covered with runes, most of which have been
+obliterated.  Still standing in the center of the room are the broken
+fragments of a stone circle, the twisted remnants of a once powerful magic. 
+Scattered across the floor of the chamber are shards of the stone that have
+been smashed by some force, destroying the focus for the gate.  The once
+towering stone columns lie in ruin amidst the remnants of what appears to be
+a great struggle.  Skeletons half buried amongst the rubble are clothed in
+the remnants of their once strong armor, now mostly worn away by the sands
+of time.  Their heraldry long since worn away, there is no clue as to the
+cause of this battle, or who was it's eventual victor.  A vaulted corridor
+stretches away from the cavern, leading to the south.
+~
+0 1 0
+D2
+~
+~
+0 0 628
+E
+skeleton~
+The skeleton with the shattered ribcage lies on the ground with one arm
+outstretched over its skull. You notice that there is an object clutched in its
+fleshless hand.
+~
+S
+#630
+On the Span~
+You are on a stone span that arcs out over the underground lake,
+supported on great pillars of granite that disappear into the blue water
+some eighty feet below.  Light from the waterfall's mouth illuminates your
+path, and reveals the obvious age of the structure.  Luckily, it still seems
+solid.  Along the edges of the bridge are narrow bands of the pervasive
+runes that the ancient builders inscribed on all of their handiwork.
+~
+0 8 0
+D0
+~
+~
+0 0 614
+D2
+~
+~
+0 0 631
+S
+#631
+On the Span~
+You stand at the highest point in the massive arch of stone, and from
+your position, the view of the lake is breathtaking.  The lake laps gently
+against the stone supports approzimately a hundred feet below you.  The
+stone seems not to have eroded even slightly, despite the many years of wear
+they must have suffered.  It is a testament to the impressive skills of the
+lost race of the Underworld.  The span continues to the north and south, the
+underground highway disappearing in both directions into a solid wall of
+rock.
+~
+0 8 0
+D0
+~
+~
+0 0 630
+D2
+~
+~
+0 0 632
+S
+#632
+On the Span~
+~
+0 8 0
+D0
+~
+~
+0 0 631
+S
+#666
+The Tavern of the Gods~
+This room is filled with immortals of various pantheons.  Thor shares a
+tankard of ale with Dionysis while Set and Osiris play darts against
+Heimdall and Shiva.  At the far wall, Odysseus is behind the bar mixing
+drinks for the heavenly hosts.  Ra steps between an angry Odin and a drunk
+Zeus, attempting to prevent a horrible altercation, and Raiden and Athena
+drag a drunk Bacchus from the establishment, while Hermes looks on shaking
+his head.
+~
+0 4 0
+S
+#667
+Darkness~
+~
+0 4 0
+S
+#697
+Unmarked Grave~
+~
+0 4 0
+S
+#698
+Prison of the Damned~
+This room is composed of the meshing of stactites and stalagmites grown
+together after countless aeons.  It creates the uncomfortable effect of jaws
+closed around you.  There are faint noises of water dripping and the echoes
+of bats in the distance.  There is no visible door and the space between the
+rocks is far too small to squeeze through.  It seems that you are trapped.
+~
+0 4 0
+S
+#699
+The Armory~
+This room is dark except for the lit weapons and armor that are on
+display on the walls.  The raiments of war are obviously ancient, though
+seem to be in excellent repair.  You are unsure if this is a museum, or if
+these objects are actually used by someone.  The glittering metal of swords
+and armor all bear unfamiliar heraldry, and long forgotten runes of power. 
+There is a sense of a great latent force here, which emanates from the
+darkness around you.  All in all, this place is as unnerving as it is
+fascinating.
+~
+0 2052 0
+S
+#0
+
+
+#RESETS
+D 0 610 2 0
+D 0 611 0 0
+D 0 617 3 1
+D 0 619 1 1
+O 1 613 1 629
+O 1 614 1 629
+P 0 615 1 0
+M 1 666 1 666
+O 1 633 1 666
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

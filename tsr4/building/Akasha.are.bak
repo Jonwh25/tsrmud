@@ -1,0 +1,1165 @@
+#AREA   {PROTO} Akasha's area in progress~
+
+#VERSION 1
+
+#AUTHOR Akasha~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 0 0 0
+
+#HELPS
+0 $~
+
+#MOBILES
+#10600
+Shadow Child~
+a newly created Shadow Child~
+Some god abandoned a newly created Shadow Child here.
+~
+~
+1073741825 0 0 C
+15 0 0 0d0+0 0d0+0
+150 0
+112 112 2
+20 13 13 13 13 13 13
+0 0 0 0 0
+0 2 0 0 1 1 0
+0 0 0 0 0 0 176 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#10600
+Akasha's Room of Love~
+The lights in this room are almost nonexistent, with the exception of
+a multitude of candles burning sliently around the room.  In the middle
+of the room stands an exquisitly crafted four-poster bed with a shear
+white bed curtain surrounding it and dark green silk sheets.  The bed
+looks rather comfortable.  To the left of the bed sits a night stand that
+is bearen except for a white lace napkin and a lonely silver picture frame.
+In this frame seems to be a happy couple, a closer look proves it to be
+the infamous Beowolf and Akasha herself.  This must be an old picture, for
+Beowolf long ago decided that he was not one for love, and in this decision
+destroyed any humanity that Akasha had left in her shriveled, blackened
+heart, if one could call it that.  She is what mortals would call,
+the Shadows.  And one can never escape the Shadows...a Shadow follows your
+every move and is always with you.  As so is Akasha.
+~
+0 1073741828 1
+S
+#10601
+The Shadows~
+As you begin to explore the area, you notice that there are people all
+all around you.  You hear them talking, yelling screaming...but when you
+try to focus on them, they seem to disappear.  Wierd.  You notice that there 
+are shadows of all sorts of people, but noone to cast those shadows around
+you.  Maybe that is why this place is called The Shadows.
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10607
+D2
+~
+~
+0 -1 10602
+D5
+~
+~
+0 -1 10642
+S
+#10602
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10601
+D1
+~
+~
+0 -1 10604
+D3
+~
+~
+0 -1 10603
+S
+#10603
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10605
+D1
+~
+~
+0 -1 10602
+S
+#10604
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10606
+D2
+~
+~
+0 -1 10611
+D3
+~
+~
+0 -1 10602
+S
+#10605
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10608
+D2
+~
+~
+0 -1 10603
+S
+#10606
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10609
+D2
+~
+~
+0 -1 10604
+S
+#10607
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10609
+D2
+~
+~
+0 -1 10601
+D3
+~
+~
+0 -1 10608
+S
+#10608
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10610
+D1
+~
+~
+0 -1 10607
+D2
+~
+~
+0 -1 10605
+S
+#10609
+The Shadows~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10606
+D3
+~
+~
+0 -1 10607
+S
+#10610
+The Shadows~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10608
+D3
+~
+~
+0 -1 10612
+S
+#10611
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10604
+D1
+~
+~
+0 -1 10614
+S
+#10612
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10610
+D3
+~
+~
+0 -1 10613
+S
+#10613
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10612
+D2
+~
+~
+0 -1 10615
+S
+#10614
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10615
+D3
+~
+~
+0 -1 10611
+S
+#10615
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10613
+D3
+~
+~
+0 -1 10614
+D5
+~
+~
+0 -1 10616
+S
+#10616
+The Shadows~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10617
+D3
+~
+~
+0 -1 10630
+D4
+~
+~
+0 -1 10615
+S
+#10617
+The Shadows~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10616
+D2
+~
+~
+0 -1 10624
+D3
+~
+~
+0 -1 10629
+S
+#10618
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10619
+D2
+~
+~
+0 -1 10623
+S
+#10619
+The Shadows~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10620
+D2
+~
+~
+0 -1 10622
+D3
+~
+~
+0 -1 10618
+S
+#10620
+The Shadows~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10621
+D3
+~
+~
+0 -1 10619
+S
+#10621
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10620
+D3
+~
+~
+0 -1 10622
+S
+#10622
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10619
+D1
+~
+~
+0 -1 10621
+D3
+~
+~
+0 -1 10623
+S
+#10623
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10618
+D1
+~
+~
+0 -1 10622
+D3
+~
+~
+0 -1 10624
+S
+#10624
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10617
+D1
+~
+~
+0 -1 10623
+D3
+~
+~
+0 -1 10625
+S
+#10625
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10624
+D3
+~
+~
+0 -1 10626
+S
+#10626
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10628
+D1
+~
+~
+0 -1 10625
+S
+#10627
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10628
+D4
+~
+~
+0 -1 10640
+S
+#10628
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10631
+D2
+~
+~
+0 -1 10626
+D3
+~
+~
+0 -1 10627
+S
+#10629
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10630
+D1
+~
+~
+0 -1 10617
+S
+#10630
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10616
+D2
+~
+~
+0 -1 10629
+S
+#10631
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10632
+D2
+~
+~
+0 -1 10628
+S
+#10632
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10631
+D3
+~
+~
+0 -1 10633
+S
+#10633
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10632
+D4
+~
+~
+0 -1 10637
+S
+#10634
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10636
+D2
+~
+~
+0 -1 10635
+S
+#10635
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10634
+D1
+~
+~
+0 -1 10637
+S
+#10636
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10637
+D3
+~
+~
+0 -1 10634
+S
+#10637
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10636
+D3
+~
+~
+0 -1 10635
+D5
+~
+~
+0 -1 10633
+S
+#10638
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10640
+D2
+~
+~
+0 -1 10639
+S
+#10639
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10638
+D3
+~
+~
+0 -1 10641
+S
+#10640
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10641
+D3
+~
+~
+0 -1 10638
+D5
+~
+~
+0 -1 10627
+S
+#10641
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10640
+D1
+~
+~
+0 -1 10639
+S
+#10642
+Floating in a void~
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 10601
+D5
+~
+~
+0 -1 10643
+S
+#10643
+Floating in a void~
+~
+0 1073741824 1
+D4
+~
+~
+0 -1 10642
+S
+#10644
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10656
+D1
+~
+~
+0 -1 10660
+D2
+~
+~
+0 -1 10664
+D3
+~
+~
+0 -1 10659
+S
+#10645
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10646
+S
+#10646
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10647
+D3
+~
+~
+0 -1 10645
+S
+#10647
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10646
+D2
+~
+~
+0 -1 10651
+S
+#10648
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10649
+D2
+~
+~
+0 -1 10654
+S
+#10649
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10650
+D2
+~
+~
+0 -1 10655
+D3
+~
+~
+0 -1 10648
+S
+#10650
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10656
+D3
+~
+~
+0 -1 10649
+S
+#10651
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10647
+D1
+~
+~
+0 -1 10652
+D2
+~
+~
+0 -1 10656
+S
+#10652
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 10657
+D3
+~
+~
+0 -1 10651
+S
+#10653
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10654
+S
+#10654
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10648
+D1
+~
+~
+0 -1 10655
+D3
+~
+~
+0 -1 10653
+S
+#10655
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10649
+D3
+~
+~
+0 -1 10654
+S
+#10656
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10651
+D1
+~
+~
+0 -1 10657
+D2
+~
+~
+0 -1 10660
+S
+#10657
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10652
+D2
+~
+~
+0 -1 10661
+D3
+~
+~
+0 -1 10656
+S
+#10658
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10659
+D2
+~
+~
+0 -1 10662
+S
+#10659
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10644
+D2
+~
+~
+0 -1 10663
+D3
+~
+~
+0 -1 10658
+S
+#10660
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10656
+D1
+~
+~
+0 -1 10661
+D3
+~
+~
+0 -1 10644
+S
+#10661
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10657
+D3
+~
+~
+0 -1 10660
+S
+#10662
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10658
+D1
+~
+~
+0 -1 10663
+D2
+~
+~
+0 -1 10668
+S
+#10663
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10659
+D2
+~
+~
+0 -1 10669
+D3
+~
+~
+0 -1 10662
+S
+#10664
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10644
+D1
+~
+~
+0 -1 10665
+D2
+~
+~
+0 -1 10670
+S
+#10665
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10666
+D2
+~
+~
+0 -1 10671
+D3
+~
+~
+0 -1 10664
+S
+#10666
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 10667
+D2
+~
+~
+0 -1 10672
+D3
+~
+~
+0 -1 10665
+S
+#10667
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 10666
+S
+#10668
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10662
+D1
+~
+~
+0 -1 10669
+S
+#10669
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10663
+D2
+~
+~
+0 -1 10673
+D3
+~
+~
+0 -1 10668
+S
+#10670
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10664
+D1
+~
+~
+0 -1 10671
+S
+#10671
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10665
+D1
+~
+~
+0 -1 10672
+D3
+~
+~
+0 -1 10670
+S
+#10672
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10666
+D3
+~
+~
+0 -1 10671
+S
+#10673
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10669
+D2
+~
+~
+0 -1 10674
+S
+#10674
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 10673
+D1
+~
+~
+0 -1 10675
+S
+#10675
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 10674
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

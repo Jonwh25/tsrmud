@@ -1,0 +1,3241 @@
+#AREA   {PROTO} Jacinth City from Mythos~
+
+
+
+#VERSION 1
+#AUTHOR (null)~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 0 0 0
+
+#MOBILES
+#11900
+Alexandre~
+Alexandre~
+{BAlexandre is pantomiming here.{x
+~
+{cThe young man wears plain clothes and does not stand up to his full
+height.  His profession is certainly not fighting from the looks of him.  He
+seems much more interested in getting the point across in his story than he
+does in raising a sword to anyone, yet one can tell by looking closer that
+he has seen his share of battles.  {x
+~
+4194371 0 0 C
+24 0 0 5d10+550 2d10+7
+50 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11901
+Jesarai~
+Jesarai~
+{RJesarai, always observing, is here.{x
+~
+{bThe woman wears flowing clothes that make her body to appear without
+beginning or end.  She wears much jewlery, though none of it is worth too
+much.  Her fingers are adorned with rings.  She knows most people in the
+city and is the gossip of the town, but only to her friends and the locals
+of the town.  Those new to Belkarth Guard she watches with a wary eye and an
+interested mind.  {x
+~
+131139 65604 0 C
+22 0 0 5d10+400 2d8+5
+40 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11902
+Carlethia~
+Carlethia~
+{YCarlethia waits to tell her story here.{x
+~
+{gThe aged woman stands here, face sagging and wrinkled but wise even
+beyond her many years.  Her clothes and her actions are from a time
+seemingly long ago but in the scheme of things it was just yesterday that
+she was born.  Her eyes tell of a wisdom and sagacity and the stories told
+of her suggest that she is perhaps one of the grandest story tellers in the
+land.  She speaks in a voice barely above a whisper but most who crowd about
+her soften their own voices and their rustlings to hear the words she has to
+tell.  {x
+~
+65603 128 0 C
+20 0 0 4d10+360 2d7+5
+75 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11903
+Balicio~
+Balicio~
+{CBalicio and his puppet are here.{x
+~
+{rThe man is here with his puppet that is almost like part of his body
+because it has been with him for so long.  The serious expression on his
+face hints of the horror and despair he has seen and felt in his life.  His
+eyes are deep and full of emotion and the only way the man knows to let it
+out is to tell his story.  He tells it through his puppet to detatch himself
+from the story but it is clear that his story means much to him.  {x
+~
+67 8260 -700 C
+26 0 0 5d10+650 5d4+7
+50 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11904
+Leai~
+Leai~
+{GLeai smiles at those who pass by.{x
+~
+{MThe young girl stands here with two braids in her hair, obviously put in
+by herself or a young friend as they are uneven and ragged.  She smiles
+sweetly and fold her hands piously as she looks for the next person who
+might stop and listen to her story.  Her clothes are like her hair;
+apparently she dressed herself as well.  The words of her story roll off her
+tongue as the passers by ask the question of her about the tale she loves to
+tell.  {x
+~
+524355 2097220 1000 C
+19 0 0 3d9+333 2d7+4
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11905
+Tisanie~
+Tisanie cloaked~
+{BThe cloaked one, Tisanie, hides in the shadows.{x
+~
+{cThe black cloak swirls around the body of the one concealing itself. 
+There is a story to tell even in the blackness that encompasses this one. 
+It is not easy to entice the story from this mysterious one, but once the
+story starts it rolls on languidly to its end.  A pair of dark eyes stare
+out from beneath the cloak and then are concealed again just as quickly as
+they appeared.  The shadows again seek to consume the storyteller.  {x
+~
+262211 65536 0 C
+26 0 0 5d10+600 3d7+7
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11906
+Shealisa~
+Shealisa~
+{CThe magics swirl about Shealisa.{x
+~
+{gEverything about the young woman here is flowing.  Her clothes swirl
+about her feet and up her body making it difficult to determine where they
+end and where she begins.  The magics seem to come to her with ease and
+without effort from her.  Her hair flows down about her shoulders like a
+waterfall cascading softly down her back.  Even the words that caress her
+lips are like honey, sliding out with ease.  The story she tells comes from
+the heart no matter how many times it is recited.  {x
+~
+131139 64 800 C
+24 0 0 5d10+500 4d4+6
+10 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11907
+Cissie~
+Cissie~
+{MCissie is hiding in the skirts of her mother.{x
+~
+{y The little girl is nearly hidden in the skirts of her mother.  She
+speaks every now and again, but her voice is so small it is almost missed by
+all.  She watches, wide-eyed, the people who pass by and is a learner.  She
+learns from those who are around her and soaks in all she hears with
+interest, sorting through the information for the parts that might be of
+use to her one day.  She smells like a boquet of flowers and her hair is
+tinged a slight reddish color from the sun.  {x
+~
+262211 98344 0 C
+20 0 0 3d9+333 2d8+5
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11908
+Laelila~
+Laelila mother~
+{RLaelila, Cissie's mother, is here.{x
+~
+{gThe woman standing here appears to be hiding something in her skirts. 
+When the crowds lessen, if one looks very close, they see a pair of bright
+eyes peeking out of the dress and that is when it becomes evident that the
+woman is not alone.  Her hair is not too long but its beauty makes up for
+the fact that it is shorter than most.  The impression is given that all she
+does is for convenience sake.  She has learned over time that taking care of
+a young child is a full time job and in order to do it well she made some
+sacrifices.  She waits patiently for those who pass to ask about Rhylus.  {x
+~
+131139 16484 500 C
+25 0 0 5d10+550 3d6+6
+15 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11909
+Giver~
+giver~
+{MThe nameless giver gives money to those in need.{x
+~
+{rThe young girl watches people as they pass and her heart bleeds for those
+in need.  She saved money all her life so that she might be able to help
+others.  She herself is dressed poorly and not armored at all.  She carries
+no weapons as all she finds she sells in exchange for more money to give to
+those in need.  {x
+~
+67 40 200 C
+21 0 0 5d10+400 5d4+6
+75 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11910
+Belmathazar~
+Belmathazar~
+{RBelmathazar stands here waiting to train.{x
+~
+{bThe man who stands here is extremely large.  He has trained the wildest
+animals in all the Realms and has scars up and down his arms and legs to
+show it, as well as one large scar that crosses the whole left side of his
+face.  His gaze is full of experience and his hands are strong and welcoming
+to those who wish to learn.  Any who come to defile his place of teaching
+are likely to face his wrath and ire.  {x
+~
+16778819 0 0 C
+34 0 0 10d10+1300 4d7+11
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11911
+Armeni~
+Armeni~
+{BArmeni sits here unnoticed by the unobservant.{x
+~
+{bThe little boy in black does not lift his head, yet out of the corner of
+his eye he watches those who pass.  He uses all of his senses to judge if
+those passing deserve more than a single thought.  He smells the unfamiliar
+in the air when a visitor walks by and he hears the heavy footsteps of those
+who hurry past.  He listens, smells, and waits for the person to come by who
+might wish to hear his story and then he beckons to them quietly with a bit
+of psionics.  {x
+~
+524355 65568 0 C
+19 0 0 3d9+360 2d8+5
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11912
+Lucian~
+Lucian~
+{GLucian waits to sell you his wares.{x
+~
+{mThe man here is not in the business to make money but to see that the
+travelers who enter his store receive the help that they need.  He takes
+special care to keep items on hand that could be useful to the adventurer
+and is always willing to show off his wares before selling them.  He has no
+qualms about lifting a finger to protect his store if it is under attack and
+so he is always a bit wary of strangers.  {x
+~
+16777283 0 0 C
+34 0 0 10d10+1300 4d7+11
+100 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11913
+Ricandros~
+Ricandros chef~
+{YRicandros is busy with his food.{x
+~
+{bThe man standing here takes a moment to look up at he hears footsteps in
+the door.  When he turns around, the picture is almost comical.  The man is
+covered from head to foot in flour, blood from the meats he cuts, and other
+spices and such from his hard work.  He brushes a bit of crumbs from his
+beard before he is ready to help the customer standing before him.  {x
+~
+16777283 0 0 C
+34 0 0 10d10+1300 4d7+11
+100 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11914
+Gwendydar~
+Gwendydar armorer~
+{CGwendydar is here waiting to sell his armor.{x
+~
+{cThe man standing behind the counter is dressed in rich decorative armor. 
+It fits his body perfectly and it is obvious that it was made for him and no
+one else.  He is working on another special order piece of armor at the
+moment but as soon as he hears voices and someone entering he looks up from
+his work to help the prospective customer.  {x
+~
+16777283 0 0 C
+34 0 0 10d10+1300 4d7+11
+100 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11915
+Jymallin~
+Jymallin weapons~
+{RJymallin waits here to show his weapons.{x
+~
+{gThe first thing that is noticable about the man shaping the weapons is
+that he is covered in weapons himself.  Most are decorative in nature, the
+handles of the weapons designed just so in order to fit his hand perfectly. 
+They are crafted with much care.  He has a few at his waist as well as some
+that are hidden beneath his meager clothes.  This is a man who is confident
+with his weapons.  He is certain he will kill before he has need of the
+armoring and so he takes no precautions in that way.  He hears another
+customer arrive and he walks languidly over to help the individual.  {x
+~
+16777283 0 0 C
+34 0 0 10d10+1300 4d7+11
+100 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11916
+Chrystar~
+Chrystar~
+{GChrystar is pouring over a diagram.{x
+~
+{bThe young man stands looking over a diagram that was drawn by Gwendydar
+learning its exactness in the hopes that he might replicate the design
+himself.  He fingers the leather, the lace and the other tools used by his
+mentor and smiles to himself as a picture of what he will create comes to
+his mind.  He is almost in a trance when he hears footsteps approaching him
+and he startles before he speaks to the traveler who has entered in.  {x
+~
+17301571 32 200 C
+29 0 0 6d12+928 4d6+8
+10 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11917
+Celantios~
+Celantios~
+{RCelantios looks about with a blank expression.{x
+~
+{cThe old man here has a depth in his eyes that is only seen in those who
+have been around and learned much in their time alive.  His eyes take on an
+eerie sadness as he delves into the story for those who inquire.  His
+clothes are the essentials and nothing more.  He is not one to believe in
+frivolity or fancy things.  He is happy being alive and being who he is
+though his past is not one of which he is proud.  {x
+~
+131139 40 0 C
+27 0 0 5d10+650 2d12+8
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11918
+Isanthar~
+Isanthar~
+{GIsanthar looks at the hexagon intently.{x
+~
+{cStanding here to tell the story of Cepheid is a man much like him; a
+warrior at heart but learning some of the magics out of necessity.  He is
+also a man who has lost a love and who mourns this lost but goes on with
+life because he must.  Most sense that in his story lies a warning though he
+never comes right out to say it.  His hair brushes his shoulders and his
+tired eyes close when he finishes his tale.  He turns away from the crowd
+who beckons in order to rest, not physically, but emotionally.  He is
+drained.  {x
+~
+524355 128 -300 C
+29 0 0 6d12+928 4d6+8
+20 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11919
+Galethrial~
+Galethrial~
+{GGalethrial tugs gently on the sleeves of those who pass.{x
+~
+{cThe woman who stands here is decidely different from the others in town. 
+She is not human like most who reside here.  Her features give her away as
+does her accent.  She is not a foreginer in this town but her family is not
+from Belkarth Guard.  Her demeanor is soft and quiet yet the story she tells
+is told with fervor and excitement.  There is something about this woman
+that entices those about her to listen to what she has to say and regard it
+as important.  {x
+~
+4259907 512 500 C
+28 0 0 6d12+778 5d4+7
+10 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11920
+Ascania~
+Ascania~
+{MAscania stands here, her hands clasped behind her back.{x
+~
+{gThe woman's red hair streams down her back.  She looks out from
+underneath it with a come hither glance.  Her clothes are provocative and
+enticing revealing just enough to make the men who pass her by take a second
+glance which is what she desires to do.  She is very approachable and has a
+set response when she is asked for dinner: "Only if you'll listen to my
+story," she says.  By the time the story is finished, most are too
+mezmerized to even remember then promise and they walk away in a daze.  {x
+~
+4194371 0 600 C
+24 0 0 5d10+500 2d10+7
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11921
+Garminch~
+Garminch~
+{BGarminch does his best to catch the attention of those who pass.{x
+~
+{rThis man looks older than his years.  His hair is thinning and his face
+is pale and fragile in appearance.  He doesn't hear as well as he once did
+and his sight is failing as well, yet he still remembers the story passed on
+to him from his grandfather and still tells it with the same intent that he
+did when he was but a child.  The man looks tired and weary but that never
+stops him from doing what he feels he must do.  He trudges onward telling
+all who will listen.  {x
+~
+4194371 2097152 -500 C
+29 0 0 6d12+853 4d6+8
+14 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11922
+Kalaria~
+Kalaria~
+{RThe young woman, Kalaria, hums a tune here.{x
+~
+{cThe young woman has a voice to match her soft and wispy apperance.  She
+is usually humming a tune just beneath the din of the crowd.  She walks
+softly and wears little armor because those of the city protect her very
+carefully.  She is considered a treasure by many and is protected by most in
+the city as she protects those whom she loves.  She has not seen enough of
+the world yet to become cynical and harsh like most and she tells her story
+with the naivete of a child.  {x
+~
+4194371 16488 1000 C
+25 0 0 5d10+600 3d7+7
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11923
+Kaylina~
+Kaylina~
+{CKaylina welcomes visitors here with open arms.{x
+~
+{rThe young woman standing in the plain house fits well as she is plain
+herself.  She seems to care little for decoration or things of a frivolous
+nature.  She has the necessities as does her daughter who she cares for
+dearly.  She has no money and lives day to day but has many friends who
+constantly drop in to be sure that she has what she needs.  None of her
+possessions are her own and she treats them accordingly, giving to all who
+have need and caring for those who have less than she does.  She is a true
+and kind spirit.  {x
+~
+16777283 16576 1000 C
+24 0 0 5d10+550 2d10+7
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11924
+Karlyshia~
+Karlyshia~
+{BKarlyshia looks up adoringly at her mother.{x
+~
+{mThe young girl is dressed in the same outfit as her mother, but scaled
+down to her size.  From the look in her eyes it is obvious that she thinks
+the world of her mother and wishes to be like her.  She putters about the
+house, waiting on the visitors, offering them food and drinks while her own
+stomach is rubbling from the meager breakfast that she gobbled down.  She is
+neat and tidy as is the rest of the house.  It is sure that she respects
+herself, her possessions, but most of all her mother.  {x
+~
+16777283 128 800 C
+19 0 0 3d9+333 2d8+5
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11925
+Shandireth~
+Shandireth~
+{CShandireth casts spells on the wounded and weary here.{x
+~
+{bThe healer mutters a few incantations here and there, taking a breath to
+see who and what is about the town.  This man knows much about the
+happenings of the town because often people come here to rest and to chat
+with others.  He is not known to be a gossip.  People trust him deeply.  At
+first glance, one would not consider this gentleman to be a healer as he
+does not look like anything special but deep in his eyes there is a magic
+like none other.  {x
+~
+71303235 128 0 C
+34 0 0 10d10+1300 4d7+11
+30 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11926
+Tcharia~
+Tcharia~
+{BTcharia sings a gentle song.{x
+~
+{c Music seems to pervade this woman and her very being.  Music comes and
+sits at her feet and she gives it voice in ways that are barely imagined. 
+Her eyes show the sadness that fails to express itself in her music.  Her
+ears drink in the sounds around her, always searching for another who shares
+her adoration and love for the arts.  She is an uncommon sort and is
+tolerated by most but accepted by few.  She is who she is and refuses to be
+less.  {x
+~
+16777283 128 0 C
+34 0 0 10d10+1300 4d7+11
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11927
+A Belkarth Guard~
+A Belkarth Guard~
+{CA Belkarth Guard{x
+~
+{rThe guard stands with a solemn expression on his face.  He has only one
+thing on his mind, protection of the city and there is nothing anyone can do
+to deter him from that.  He never smiles while working and does not show
+even a hint of emotion in his demeanor.  He is a serious man, or at least
+serious about his work.  {x
+~
+4718661 2113600 1000 C
+34 0 0 10d10+1400 4d7+11
+10 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11928
+Dynithius~
+Dynithius~
+{BDynithius warns those who pass this way.{x
+~
+{rCloaked all in black, this man stands here to pass out warnings to all
+those who follow in the footsteps of Raff.  It seems odd warning coming from
+one as evil as himself, but only one who is truly evil can know the dangers
+therein.  His face is covered but the voice is not ashamed to speak of the
+wrongs he has committed and the consequences that befell him because of his
+actions.  He is one to be thanked and revered by one and all for his act of
+repentance in his final hours.  {x
+~
+4194371 4 -1000 C
+29 0 0 6d12+853 4d6+8
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11929
+Allaneth~
+Allaneth~
+{YAllaneth pretends he is Allanon here.{x
+~
+{bThe young boy is here dressed like his idol, Allanon.  His mother named
+him after the man and he has been enthralled with him since he was old
+enough to understand who Allanon was.  His armor is almost falling off of
+his body because it is too large and the sword he wields is almost as big as
+he is.  It looks like a child's toy at first, but one slice with it would
+show differently.  The boy is not a skilled fighter yet, but he is not
+afraid to try out his skills against any who declare themselves evil.  {x
+~
+4194371 16452 0 C
+24 0 0 5d10+550 2d10+7
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11930
+Charilla~
+Charilla~
+{YCharilla tells the story of Remik for those who will listen.{x
+~
+{gThe figure stands here in long flowing white robes.  She is almost
+priestly in appearance.  She constantly admires the mural of Remik and her
+intensity shows that the picture holds more meaning for her than she is
+willing to let on.  She listens to the conversations around her and when
+something is mentioned that she knows something about she ventures a word or
+two.  Otherwise, she remains silent and watching.  {x
+~
+4194371 2097152 0 C
+31 0 0 10d10+1000 6d4+9
+0 0
+112 112 2
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11931
+novice psionicist~
+novice psionicist~
+{cThe novice psionicist is here studying.{x
+~
+{rThe novice psionicst stands here paging through the books with intensity.
+The novice spends much of his time looking through the books, memorizing
+spells, and learning all he can.  Others walk in and out of the room, but
+almost never does he look up from his studies.  {x
+~
+65 64 500 C
+29 0 0 5d10+550 2d10+7
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11932
+master psionicist~
+master psionicist~
+{GThe master psionicist casts spells here with ease.{x
+~
+{bThe master psionicist spends his days looking over the shoulders of the
+novice psionicists.  He uses the powers of the mind with ease and everywhere
+he goes, things seem to bend at his will.  The novices look up to him with
+awe and amazement, always seeking to learn something from him.  {x
+~
+65 2097280 300 C
+34 0 0 10d10+1300 4d7+11
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11933
+Chalentaria~
+Chalentaria~
+{RThe monster of the darkness, Chalentaria, reaches out from the worst of nightmares to attack.{x
+~
+{rThis creature of the night, the undead one, protects the labyrinth-to-be.
+He tolerates the presence of none and is not happy about any intruders.  He
+doesn't play favorites to those who are like him and he attacks on sight all
+who enter his domain.  {x
+~
+16417 2097152 -1000 C
+34 0 0 10d10+1300 4d7+11
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11934
+snarling dog~
+snarling dog~
+{RSnarling Dog{x
+~
+{bThe dog does not take a moment to size up its company but rather lunges
+without conscience.  His own thought is to protect the house he is charged
+with protecting.  He is a beautiful dog, or at least he would be were he
+sitting peaceful and not in a rage as he is at this moment.  {x
+~
+33 67108872 0 C
+29 0 0 6d12+853 4d6+8
+0 0
+112 112 1
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#11935
+small child~
+small child~
+{GThe small child stands here with a smile upon her face.{x
+~
+{yThe young child is a happy and carefree.  She is responsible enough to be
+left alone to watch over the affairs of the house and cute enough to attract
+many visitors.  Everyone once in a while the neighbors come to check on her,
+but never with reason as she takes care of what needs to be cared for
+without prompting.  She is smart and precocious and from humble beginnings. 
+She vows to make something of herself one day.  {x
+~
+3 16384 1000 C
+19 0 0 3d9+333 2d8+5
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#11900
+Belkarth Fountain~
+belkarth fountain~
+{BBelkarth Fountain is gurgling here.{x~
+(null)~
+25 0 0
+999 999 0 0
+1000 0 0
+#11901
+shabby tunic~
+shabby tunic~
+{GThe rumpled tunic lies discarded on the ground.{x~
+(null)~
+9 4096 9
+0 0 0 0
+20 100 10
+#11902
+slender mace~
+slender mace~
+{CThe slender mace does its best to protect those who choose it.{x~
+(null)~
+5 0 8193
+0 3 10 0
+50 100 10
+#11903
+plain clothes~
+plain clothes~
+{MThese clothes are plain, yet neat in appearance.{x~
+(null)~
+9 1024 9
+0 0 0 0
+30 75 7
+#11904
+kitchen knife~
+kitchen knife~
+{CA freshly sharpened kitchen knife is ready to slice meat, butter bread, or kill if necessary.{x~
+(null)~
+5 1024 1
+0 5 5 0
+30 75 7
+#11905
+small plain clothes~
+small plain clothes~
+{CThese clothes too little to fit any but a small child and while they are plain they are very neat.{x~
+(null)~
+9 1024 9
+0 0 0 0
+20 50 5
+#11906
+tiny sandals~
+tiny sandals~
+{GThese tiny sandals could only fit on the smallest of feet.{x~
+(null)~
+9 1024 65
+0 0 0 0
+35 500 50
+A
+14 25
+A
+2 1
+A
+5 -1
+A
+13 -25
+#11907
+statue~
+statue~
+{RA large statue with glowing eyes guards the doorway.{x~
+(null)~
+13 3 32768
+0 0 0 0
+1000 0 0
+#11908
+rug~
+rug~
+{BThe ornate rug draws the eye being bold and colorful though the careful observer notices a slight wrinkle.{x~
+(null)~
+12 0 32768
+0 0 0 0
+70 0 0
+E
+wrinkle~
+You notice the wrinkle in the rug, and if you look closer, your eyes
+would fall upon a bump in the rug.  
+~
+E
+wrinkle~
+You notice the wrinkle in the rug, and if you look closer, your eyes would fall upon a bump in
+the rug.
+.f
+~
+E
+bump~
+You investigate the bump.  It appears that there is a door leading down.
+~
+E
+wrinkle~
+You notice the wrinkle in the rug, and if you look closer, your eyes
+would fall upon a bump in the rug.  
+~
+#11909
+shovel~
+shovel~
+{BA shovel covered in dirt is in the corner.{x~
+(null)~
+5 512 8193
+0 3 11 0
+60 200 20
+#11910
+revealing blouse~
+revealing blouse~
+{YThe cleavage of any woman is quite clear when wearing this revealing blouse.{x~
+(null)~
+9 0 9
+0 0 0 0
+20 75 7
+#11911
+short skirt~
+short skirt~
+{RThe tiny, short skirt rides high up the legs and caresses the legs softly when worn.{x~
+(null)~
+9 0 33
+0 0 0 0
+30 75 7
+#11912
+shimmering necklace~
+shimmering necklace~
+{yThe necklace shimmers in the sunlight, catching the eye of any onlookers.{x~
+(null)~
+9 0 5
+0 0 0 0
+10 1000 100
+A
+5 1
+A
+1 -1
+#11913
+detailed chainmail armor~
+intricate chainmail~
+{MThe chainmail of the Belkarth Guards is intricate and detailed, like most of their work.{x~
+(null)~
+9 0 9
+0 0 0 0
+150 200 20
+#11914
+signet ring~
+signet ring~
+{MThe signet ring glints and sparkles on the ground.{x~
+(null)~
+9 0 3
+0 0 0 0
+10 200 20
+#11915
+learned sword~
+sword of the Learned~
+{RThis is a sword only to be used by those deemed "learned" by the elders in Belkarth Guard.{x~
+(null)~
+5 0 1
+0 5 7 0
+50 2000 200
+A
+19 8
+A
+18 -5
+#11916
+swirling cape~
+swirling cape~
+{GThe long flowing cape would almost touch the ground if worn and it brings to mind a picture of a swirling mist.{x~
+(null)~
+9 262144 1025
+0 0 0 0
+30 100 10
+#11917
+flaming arrows~
+flaming arrows~
+{RThe arrows are hot to the touch and lie here burning constantly.{x~
+(null)~
+8 1024 16385
+0 0 0 0
+50 100 10
+#11918
+elvish bow~
+elvish bow~
+{CThe bow lying here is finely crafted from the horn of an elk and is commonly used by elves.{x~
+(null)~
+5 1024 8193
+0 3 9 0
+60 1500 150
+A
+18 2
+A
+18 4
+#11919
+platinum chainmail~
+platinum chainmail~
+{YThe chainmail of platinum glistens in the sunlight spectactularly.{x~
+(null)~
+9 0 9
+0 0 0 0
+200 100 10
+#11920
+shield psionicist's crest~
+psionicist's crest~
+{CThe crest of the psionicist is bestowed upon those proven themselves worthy of that honor and it looks out of place on the ground.{x~
+(null)~
+9 32 512
+0 0 0 0
+90 1500 150
+A
+1 1
+A
+2 -1
+#11921
+mindspike~
+mindspike~
+{RThis sword reaches out to touch the minds of those it strikes with a fiercness and almost insanity.{x~
+(null)~
+5 0 8192
+0 6 5 0
+60 100 10
+#11922
+shirt necessity~
+shirt of necessity~
+{YThe shirt lies forlornly on the ground and it is not a wonder.  A shirt like this is nothing more than a shirt of necessity.{x~
+(null)~
+9 0 9
+0 0 0 0
+20 100 10
+#11923
+pants patched~
+patched pants~
+{BThe pants look worn and overused but still cared for as the patches in the knees show.{x~
+(null)~
+9 0 33
+0 0 0 0
+30 100 10
+#11924
+belt rope~
+rope belt~
+{GThe snake-like rope is still on the ground waiting to be touched or picked up.{x~
+(null)~
+9 0 2049
+0 0 0 0
+10 100 10
+#11925
+cloak night black~
+cloak of the night~
+{RThe cloak, black as night, almost fades into the darkness, but those quick with their eyes spot it lying on the ground.{x~
+(null)~
+9 0 1025
+0 0 0 0
+50 50 5
+#11926
+hood~
+shadowy hood~
+{BThe shadows reveal to those who watch closely a hood and then snatch it away just as quickly.{x~
+(null)~
+9 0 17
+0 0 0 0
+10 50 5
+#11927
+flowing skirt long~
+long flowing skirt~
+{CThis long skirt that blows in the wind and flows when worn on the legs has many folds in which to hide things.{x~
+(null)~
+15 8192 33
+1000 4 0 60
+20 100 10
+#11928
+bronze bangle~
+bronze bangle~
+{GThe bangle clatters about on the ground as the bronze highlights shimmer in the light.{x~
+(null)~
+9 0 4097
+0 0 0 0
+20 75 7
+#11929
+swirling mists~
+swirling mists~
+{YThe mists swirl about here and those who a measure of swiftness can gather the mists about themselves.{x~
+(null)~
+9 0 1025
+0 0 0 0
+5 1000 100
+A
+2 1
+A
+1 -1
+#11930
+puppet~
+puppet~
+{YThe puppet opens its mouth and magically the room is all aglow.{x~
+(null)~
+1 1 16385
+0 0 0 0
+50 75 7
+#11931
+wispy veil~
+wispy veil~
+{RThis short, wispy veil is long enough to cover a face and even hair if it is not too long.{x~
+(null)~
+9 32 17
+0 0 0 0
+5 100 10
+#11932
+bead necklace~
+bead necklace~
+{BThe beads lying here are tinged with many different colors and look disconnected at first glance, but a closer look shows a carefully and handmade necklace.{x~
+(null)~
+9 0 5
+0 0 0 0
+10 75 7
+#11933
+white gloves~
+white gloves~
+{WThese gloves lie useless on the ground, waiting for hands that know how to bring them to life for their proper use.{x~
+(null)~
+9 0 129
+0 0 0 0
+10 100 10
+#11934
+specialty~
+tap~
+{RThe tap is here flowing constantly with the local specialty in drinks.{x~
+(null)~
+25 0 0
+999 999 0 0
+1 0 0
+#11935
+encompassing clothes~
+encompassing clothes~
+{CThe clothes lie limply on the ground, but when worn, they encompass and almost swallow a person whole.{x~
+(null)~
+9 0 9
+0 0 0 0
+20 75 7
+#11936
+jeweled necklace~
+jeweled necklace~
+{YThe jeweled necklace glimmers brightly in the light, almost blinding.{x~
+(null)~
+8 0 5
+0 0 0 0
+2 100 10
+#11937
+gold bracelet~
+gold bracelet~
+{MThe simple gold bracelet reflects the faces of those who look into it.{x~
+(null)~
+9 0 4097
+0 0 0 0
+20 75 7
+#11938
+ruby ring~
+ruby ring~
+{RThe ruby rings are ones from a generation long past, yet they still remain.{x~
+(null)~
+8 0 3
+0 0 0 0
+5 75 7
+#11939
+long straight gown~
+long, straight gown~
+{CThis long gown is from a time long ago and is not much more than a memory.{x~
+(null)~
+9 0 9
+0 0 0 0
+50 50 5
+#11940
+braided whip~
+braided whip~
+{GThis whip, braided by hand, is finely crafted with love and care.{x~
+(null)~
+5 0 8193
+0 5 4 0
+50 50 5
+#11941
+white robe~
+white robe~
+{WThe robe lying on the ground is white and covers the length of an average size person.{x~
+(null)~
+9 0 1025
+0 0 0 0
+30 100 10
+#11942
+dagger hope~
+dagger of hope~
+{CThe dagger here is a magical dagger,  full of the hopes and dreams of the young in the city of Belkarth Guard.{x~
+(null)~
+5 0 8193
+0 5 6 0
+50 100 10
+A
+19 3
+A
+18 5
+A
+1 -1
+A
+2 1
+#11943
+oversized armor~
+oversized armor~
+{BThis armor looks a bit oversized which is perhaps the reason no one is wearing it.{x~
+(null)~
+9 0 9
+0 0 0 0
+100 75 7
+#11944
+child's sword~
+child's sword~
+{RThis sword is child sized but just as deadly as a grown person's sword.{x~
+(null)~
+5 0 8193
+0 5 5 0
+50 75 7
+#11945
+psionicist's book~
+psionicist's book~
+{YThis book looks harmless enough, but in a push comes to shove situation, it could come in handy.{x~
+(null)~
+5 0 8193
+0 3 10 0
+50 100 10
+#11946
+golden bell~
+golden bell~
+{YThe only purpose of the golden bell that lies here is to call the master psionicists for help.  This is a bell that the novices use when they have a question.{x~
+(null)~
+9 0 16385
+0 0 0 0
+20 1500 150
+A
+2 -1
+A
+1 -1
+A
+3 1
+A
+4 1
+#11947
+aura wisdom~
+aura of wisdom~
+{RThis aura pulls itself to those who are wise.{x~
+(null)~
+9 2 65537
+0 0 0 0
+1 2000 200
+A
+2 -1
+A
+13 -25
+A
+3 1
+A
+4 1
+#11948
+belt seniority~
+belt of seniority~
+{BThis belt holds with it a show of senority in the guild of psionistry.{x~
+(null)~
+9 0 2049
+0 0 0 0
+20 200 20
+#11949
+helm of psionics~
+helm of psionics~
+{CAfter a long climb, it is nice to find a helm that might help in a quest to be a better psionicist.{x~
+(null)~
+9 0 17
+0 0 0 0
+30 2000 200
+A
+1 -1
+A
+3 1
+#11950
+handmade shield~
+handmade shield~
+{BThis shield was loving handmade by someone who obviously has a vested interest in the art of producing armor.{x~
+(null)~
+9 0 513
+0 0 0 0
+50 100 10
+#11951
+oat bread~
+oat bread~
+{GThe scent of freshly baked bread wafts through the air as eyes fall upon this delight made of oat.{x~
+(null)~
+19 0 1
+0 0 0 0
+10 50 5
+#11952
+handcrafted platemail~
+handcrafted platemail~
+{GThis platemail, handcrafted with loving care, is here waiting on its finishing touches.{x~
+(null)~
+9 0 9
+0 0 0 0
+600 100 10
+#11953
+sharp cheese~
+sharp cheese~
+{YA rat lies in wait hoping to get his paws on this piece of sharp cheese.{x~
+(null)~
+19 0 1
+0 0 0 0
+20 50 5
+#11954
+sausage links~
+sausage links~
+{BThe snake-like links of sausage lie here waiting to be devoured.{x~
+(null)~
+19 0 1
+0 0 0 0
+30 50 5
+#11955
+bottle brandy~
+bottle of brandy~
+{RThis bottle of brandy could warm a person on a cold and dark night.{x~
+(null)~
+17 0 1
+20 20 0 0
+20 75 7
+#11956
+jug water~
+jug of water~
+{BThe stone jug of water looks quenching for the weary traveler.{x~
+(null)~
+17 0 1
+20 20 0 0
+30 75 7
+#11957
+star wisdom~
+star of wisdom~
+{YA bright and shining star brings wisdom to those who embrace it.{x~
+(null)~
+1 1 16385
+0 0 0 0
+10 1000 100
+A
+1 -1
+A
+4 1
+#11958
+leather bag~
+leather bag~
+A bag of well-tooled leather lays here on the ground.~
+(null)~
+15 0 16385
+20 0 0 1000
+20 75 7
+#11999
+no name~
+(no short description)~
+(no description)~
+(null)~
+13 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#11900
+{WFountain{x~
+This center, buzzing with motion, is evidently the crux of the city. 
+People stand about drinking, chatting, and discussing the goings on of the
+city.  The streets are lined with gold on either side and the sidewalks are
+platinum.  It is evident that the city is rich and not just in their
+economy.  Sights and sounds bombard the fountain and its surroundings, and
+it is almost too much to bear but the quieter streets nearby, beckon.
+~
+0 0 0
+D0
+~
+~
+0 0 11918
+D1
+~
+~
+0 0 11917
+D2
+~
+~
+0 0 11924
+D3
+~
+~
+0 0 11901
+S
+#11901
+{WWay of the Wise{x~
+The journey into town is no less magnificant than the fountain square. 
+The peoples of the town recount to you stories of time long past.  These are
+tales of wars and death, victories and praise.  Wonderment is abounding in
+the city.  To the north lies a home of a mother and daugther who live alone.
+Those of the city care for them and their home is a place of protection from
+the evils of the world told in the stories of the townspeople.
+~
+0 0 0
+D0
+~
+~
+0 0 11920
+D1
+~
+~
+0 0 11900
+D3
+~
+~
+0 0 11902
+S
+#11902
+{WWay of the Wise{x~
+The journey down the road leads past many persons filled with knowledge. 
+One of the men of the city stops those who walk by and begins to weave the
+tale of the fall of Cepheid.  He tells how Cepheid was once in line for the
+role of High Priest of Thallin, seeking truth only later to learn how one of
+his own, Palidor, had betrayed him.  The man goes on to tell how in the end,
+Cepheid was tossed into the Labyrinth of Cassios.  The man trails off and
+before you have a chance to ask a question the man has gone on his way
+again.
+~
+0 0 0
+D1
+~
+~
+0 0 11901
+D2
+~
+~
+0 0 11921
+D3
+~
+~
+0 0 11903
+S
+#11903
+{WIntersection of Wise and Ancients'{x~
+An intersection of two roads and a woman are here.  The woman's eyes call
+out to those traversing the streets.  If one were to listen to the tale she
+had to tell they would hear a sad story, one of a man named Krager.  The
+woman tells how he was sent on a mission to kill only to learn that the
+lives he was taking were those of innocent people.  This thought comes to
+his mind as a scene plays out before him of rape and murder.  Krager looks
+into the eyes of the innocent woman and rescues her from the hands of those
+who will kill her.  They go on to have a child they call Variant, but Krager
+dies at the hands of his own men.  The story is a sad one until Variant's
+voice booms into your ears, "Welcome to the Realms".
+~
+0 0 0
+D1
+~
+~
+0 0 11902
+D2
+~
+~
+0 0 11904
+D3
+~
+~
+35 0 11932
+S
+#11904
+{WThe Ancients' Way{x~
+As the street takes a turn, the scenery begins to change a bit.  You see
+the Spire looming in the distance.  It is a grand Spire.  A middle-aged
+elvish woman pulls the sleeves of those who past close enough to her in
+order to get their attention.  She asks, "Care you to know what ever became
+of Cepheid?"  She goes on to tell the tale of Cepheid.  He was in the
+Labyrinth for over 5000 years and much had changed but the language of the
+elves had remained nearly the same so he inquired of the elves what had
+happened.  He decided that his new place was among Retribution and fought
+against the forces of Oblivion for a time, but with more intensive study he
+changed his mind.  He was wrong to abandon Thallin and his beliefs so he
+turned his forces again to fighting for Strife and to make Strife a powerful
+force to be reckoned with.
+~
+0 0 0
+D0
+~
+~
+0 0 11903
+D2
+~
+~
+0 0 11905
+S
+#11905
+{WThe Ancients' Way{x~
+The knowledge of the psioncists fill the air and the sounds of
+spellcasting are all around.  At first glance, it would appear that the town
+has grown crazy.  People wave their hands about calling on their gods and
+chanting phrases that to the untrained ear sound like babble.  In the center
+of the road is a hexagon.  One man stands in the middle of it and if you
+listen closely you can hear him tell a story of Cepheid and a hexagon. 
+Cepheid was not one who starved for magics.  He preferred to live and die by
+the sword, yet to call back Thallin he knew would take drastic measures.  In
+order to accomplish this task he had to kill all standing in his way,
+including one he cared for dearly, Mira.  Then, there were rituals, words,
+incantations and the hexagon.  At first it seemed as if nothing had
+happened, but then out of the air, Thallin appeared.  The magic has worked
+its course and Thallin had returned.
+~
+0 0 0
+D0
+~
+~
+0 0 11904
+D2
+~
+~
+0 0 11906
+S
+#11906
+{WThe Ancients' Way{x~
+The sounds of voices surrounding all speak the same: "The Psioncist's
+Spire, very close, east of here."  It is as if all energies in the city are
+focused to the center of learning and all energy that isn't focused in that
+direction should be according to the people's of the town.  All traffic
+heads towards the college, but no traffic out.  It is as if those who travel
+that way never come back.  The streets are no longer paved with gold. 
+Instead, there are words inscribed in them.  They all have a story to tell
+and one could learn volumes just by standing in the streets reading.  The
+traffic does not allow for those who stand around and so the traveler either
+moves along or moves out of the way.
+~
+0 0 0
+D0
+~
+~
+0 0 11905
+D1
+~
+~
+0 0 11907
+D2
+~
+~
+0 0 11933
+S
+#11907
+{WPsionicist's Way{x~
+This spot in the city is unlike any other anywhere in town.  It is a
+place of nothingness, blackness, ash, destruction and decay.  It is very out
+of place in the spotless, clean city and the thought crosses most minds of
+why and how did this place become as it is.  The only other thing of notice
+is a man here whose soul purpose is to warn those who are foolish.  He tells
+the story of Raff.  Raff was a man who killed his father and all those about
+him.  He killed many gods until Ao finally stopped him and scattered his
+parts to the wind.  Then, one day, Ao brought him back and the only thing
+that Raff leaves in his wake today is what is seen here.  The warning is
+that those who follow such a path will reap the same destruction and
+blackness that Raff does.
+~
+0 0 0
+D1
+~
+~
+0 0 11908
+D3
+~
+~
+0 0 11906
+S
+#11908
+{WPsionicist's Way{x~
+Just south of this place lies the entrance to the Psionicist's Spire.  It
+is a house and college of teaching and learning.  This is a city that
+believes that knowledge is the key to success.  The entrance way greets
+those who cross it by its exotic marble columns and grand archway. 
+Sometimes learning is intentional and sometimes accidental but either way,
+according to the people of the town, it is a good thing.  A statue is here
+to illustrate the point and the name Draven is scribed underneath it.  There
+is also a short story scribed beneath it for those who look very close.
+~
+0 0 0
+D1
+~
+~
+0 0 11909
+D2
+~
+~
+0 0 11940
+D3
+~
+~
+0 0 11907
+E
+story~
+Draven was a man of much pain.  The pain so overwhelmed him that he went
+crazy, so some say, and killed his mother and his father.  He killed many in
+his madness.  One day Sapphon came to him explaining to him that his deeds
+helped to keep the balance of the Realms.  This knowledge, not sought, but
+accepted, helped Draven to come to terms with himself and his deeds.  No one
+knows how he achieved immortality though some venture to guess, but to this
+day he is known as the Lord of Free Will.  
+~
+S
+#11909
+{WPsionicist's Way{x~
+The walls of the Spire continue alongside the road, as amazing as ever. 
+The road in front of the Spire is fit for a king in appearance and in
+cleanliness.  This is the high classed part of town.  Though all sorts of
+people traverse these roads, few people can call this street home.  The
+knowledgable and those less fortunate all come here seeking to enhance their
+minds and their magic.  This place is dedicated to the memory of Allanon and
+his thirst for knowledge.  A small boy, dressed in oversized armor and
+holding a sword in his hand says, "I'm Allanon, protector of the good and
+just".  He goes on to tell how Allanon was found and asked to unite many
+clans under him for the purpose of killing the Chaons and Beowolf.  After
+the war and his measured success he was exalted to a higher power and is
+worshiped to this day by many.
+~
+0 0 0
+D0
+~
+~
+0 0 11925
+D1
+~
+~
+0 0 11910
+D3
+~
+~
+0 0 11908
+S
+#11910
+{WPsionicist's Way{x~
+Psioncist's Way continues on just outside the Psioncist's Spire.  People
+on the streets practice their newly learned skills.  The walls of the
+building tower above those who walk past.  There is a grand mural on the
+wall depicting Remik and his involvement in the People's Alliance.  The
+mural shows that the People's Alliance played a big part in the history of
+Belkarth Guard.  A figure in long white flowing robes speaks of Remik and
+tells the story of the Alliance.  The People's Alliance was backed by the
+Psionicist's Spire who taught them the art of psionics and empowering
+objects.  Remik, as part of this alliance, traveled with the Chaon, masking
+himself as one of their own and then crushing them from inside.  All was
+good until one day, Anacreon exerted control over Remik and he spilled the
+plans of the Alliance to Anacreon.  Anacreon then sent the word out to his
+leaders of the Chaon army and killed Remik.  With Remik's medallion, he
+miraculously lived and went to try to stop the messages from being delivered
+but he was too late and the Alliance was dead.  To this day he still hunts
+Beowolf and the Chaons, but with a new power, immortality.
+~
+0 0 0
+D1
+~
+~
+0 0 11911
+D3
+~
+~
+0 0 11909
+S
+#11911
+{WPsionicist's Way{x~
+The Psionicist's Spire has been reached at last.  It is the home of much
+learning and teaching.  The skills of the psionics are taught and learned
+here, passed down from one person to the next.  It is even more magnificant
+in person than it was in the distance.  The intricate designs that are woven
+throughout the door are detailed and exact.  A guard stands nearby making
+sure that the sanctity of the Spire is not compromised and that those inside
+are not brought to harm.  Looking up, one follows the tower of the Spire up
+into the clouds, unable to even find the top.  To climb the stairs inside
+must be some task, but whatever is at the top is surely worth it to those
+who make the trek.
+~
+0 0 0
+D1
+~
+~
+0 0 11912
+D2
+~
+~
+0 0 11926
+D3
+~
+~
+0 0 11910
+S
+#11912
+{WThe Way of the Gods{x~
+The Psioncist's Spire is to the west.  The street here is well traveled
+and busy.  The crowd shuffles along those who do not keep up with the quick
+pace.  The smell of magic lingers in the air and the sounds of teaching can
+be heard not too far away.  The tellers of stories are numerous on this
+street.  One of these, a little girl, no more than 10, stops those who pass
+by to tell them the story of Variant.  Variant is the son of Krager and
+Jessica, learned in the art of psionics and the magic of the Chaon.  Variant
+fought the forces of Chaon and in so doing eventually came face to face with
+Beowolf.  One of Variant's followers made a diversion and he slipped into
+the Wildgate.  There was a battle in the Wildgate between Variant and Dymeir
+ending with Dymeir trapped in the Wildgate.  Once Dymeir finally escaped
+with the help of Beowolf, Ao made Variant immortal so that he could protect
+the Wildgate and locate Dymeir, thus the beginning of Variant's role as a
+god to the Realms.
+~
+0 0 0
+D0
+~
+~
+0 0 11913
+D2
+~
+~
+0 0 11959
+D3
+~
+~
+0 0 11911
+S
+#11913
+{WThe Way of the Gods{x~
+The Spire seems to grow taller with every step closer to it as it looms
+and casts a shadow on all it surveys.  The people in the streets move
+quickly.  The precious metals making up this road feel almost like ice
+underneath the feet and in order not to fall, it takes concentration and
+effort for most.  There is a man working a small wooden puppet attached to
+strings sitting on the side of the road.  He moves the puppet to tell a
+story; the story how Beowolf came to be.  There was one called Zyfain who
+was worried that there was not enough Chaos so he decided to create some of
+his own.  The only way he knew to do this was by draining off life force
+which also drains part of the victim's soul.  In order to do this he created
+Beowolf out of shale in his likeness.  He trained him in the arts of magic
+first and then blades as he improved.  In their last battle, Beowolf almost
+killed Zyfain until he realized he had hurt his father and was concerned. 
+Zyfain took the opportunity to teach Beowolf his final lesson: Never let
+emotions get in the way of victory.  Beowolf went along creating Chaos in
+his wake until one day Dymeir confronted Beowolf with his real purpose in
+existing: to breed Chaos for Zyfain himself.  Once Beowolf learned this he
+killed his father and thus Beowolf came to be part of these Realms.
+~
+0 0 0
+D0
+~
+~
+0 0 11914
+D2
+~
+~
+0 0 11912
+S
+#11914
+{WThe Way of the Gods{x~
+The city changes as a new road is approached.  The street is name The Way
+of the Gods because those who linger on the road are the ones who have
+studied the Gods and their history.  They are eager to share this knowledge
+with others in the hopes of instilling insight and foresight into those who
+traverse the Realms.  It is the choice of all who pass to listen or to
+ignore the information given though most who come to Belkarth Guard come for
+some sort of training.  An aged woman stands on the corner seeking to tell
+the story of Ao and his depature.  If you listen closely, you can hear her
+say these words in a hushed whisper: Ao was one of three children and the
+only one who survived after the three children battled between themselves. 
+Ao, in his life, learned a lesson of balance and how important it was, in
+his view, to keep the Realms safe.  He also, wanted to follow the path of
+his father to a higher spiritual level.  Once he finally felt that the
+Realms were balanced enough to stay for a very long time, he left the Realms
+to achieve this spiritual level of being and very few claim to have seen or
+heard from him since.
+~
+0 0 0
+D0
+~
+~
+0 0 11915
+D2
+~
+~
+0 0 11913
+S
+#11915
+{WIntersection of Wise and Gods'{x~
+The town moves faster here at the intersection and it is almost a
+struggle to move around the people without redirecting your path again to
+avoid another person.  An older lady sits at the corner of the road
+observing all who pass her gaze.  She was a teller of fortunes but now she
+soaks in the past, desiring to learn from the mistakes of those who came
+before her and making others aware.  There is a sign on the side of the road
+directing all who gaze on it to the Psionicist's Spire, the college and
+center of learning.
+~
+0 0 0
+D1
+~
+~
+35 0 11931
+D2
+~
+~
+0 0 11914
+D3
+~
+~
+0 0 11916
+E
+sign~
+For all who seek knowledge and guidance:  Psionicist's Spire to the South
+~
+S
+#11916
+{WWay of the Wise{x~
+As the journey along the street continues, the people walk by with a
+quest in their hearts and a quickness in their steps.  People come from all
+over to learn the ways of the Psionicists and to learn the stories of a time
+from long ago.  A young man stands on the side of the road pantomiming a
+story.  Those who take time to try to understand hear a tale of the God of
+Faith.  It is a tale of great joy to those who hold out any faith.  The man
+pantomimes how a beggar boy was saddened day after day as the stale bread
+was given to the birds and he was left to hunger but the god changed a
+baker's heart one day and he began to feed the loaves to the boy, took him
+in and learned that he had a talent for carving.  The young beggar, and the
+lives of many others were changed by this one.  The young man scratches in
+the dirt just off to the side of the road the letters to form Yaso.  The
+details come together and the God of Faith is revealed.
+~
+0 0 0
+D0
+~
+~
+0 0 11975
+D1
+~
+~
+0 0 11915
+D2
+~
+~
+0 0 11923
+D3
+~
+~
+0 0 11917
+S
+#11917
+{WWay of the Wise{x~
+As the traveler continues upon the path, the street remains the same. 
+The people of the city are meticulous about upkeep.  It seems that they are
+meticulous about most everything.  A very young woman approaches those who
+walk by, hardly more than a teenager herself, but with a grand story to
+tell.  She tells the story of Thallin and his fall.  She tells how he has
+been known as the God of Truth yet Ao learned that he was manipulating the
+sides of good and evil for Strife.  Ao did not approve of this and so there
+was a battle.  A huge earthquake caused Thallin's castle to fall and crush
+him, but those who really knew Thallin understood that they would see him
+again.  She looks over her shoulder as if expecting Thallin to appear at any
+minute and then scurries away to her tasks for the day.
+~
+0 0 0
+D0
+~
+~
+0 0 11922
+D1
+~
+~
+0 0 11916
+D3
+~
+~
+0 0 11900
+S
+#11918
+{WWounds are Healed{x~
+This room is a haven to the weary and hurting traveller.  The walls are
+blue and the floor seems to melt beneath those who choose to rest here. 
+There is a smell of blood in the air accompanied by a strange silence. 
+Moans of pain are heard all around but they are quickly dispelled by the
+presence of one who knows, a healer who stands here before you.  There is a
+sense that there is another one who has magical abilities lurking nearby but
+it is difficult to sense the exact direction.
+~
+0 1024 0
+D0
+~
+~
+35 0 11919
+D1
+~
+~
+0 0 11974
+D2
+~
+~
+0 0 11900
+D3
+~
+~
+0 0 11973
+S
+#11919
+{WResting in Silence{x~
+The room here is quiet.  The voices and noises of the city and of the
+Realms can still be heard but they seem very far away.  The walls shut and
+the door shut out the roughness of all the is happening outside and the only
+things evident to those in this room are the others in the room with them. 
+There are no windows and only one door, the same one used to enter the room.
+The walls are pale and nondistracting.  The room exists only for the purpose
+of relaxing and meditating.  Oftentimes, the spellcasters of the Realms come
+here to rest.
+~
+0 1024 0
+D2
+~
+~
+35 0 11918
+S
+#11920
+{WHouse of Protection{x~
+The house is warm and inviting, drawing those in from the streets.  This
+is the home of a mothr and daughter whose father died while she was but a
+baby.  The city cares for their needs.  They have ample food and clothing,
+comfortable beds for themselves and they scraped together money in order to
+buy a spare bed for any visitors who might cross their path.  The smell of
+warm soup wafts towards the door arousing the hunger of the neighbor hood
+animals.  The general feeling of this place is that anyone who needed a
+place to stay would always be welcome here.  The woman invites you to sit
+down and have a bowl of soup with her and her daughter before you have to
+continue your journey.
+~
+0 0 0
+D2
+~
+~
+0 0 11901
+S
+#11921
+{WHouse of the Unstable{x~
+Flanking either side of the door are two wooden statues of creatures only
+imagined.  In the center of the room is a grand rug that draws the eye
+immediately.  It is covered with the same images of the creatures that were
+on the statue as well as pictures of humans gutted and gored.  The careful
+observer notices a wrinkle in the rug while the others merely glance past. 
+There are other bloody images along the wall.  Someone took a lot of time to
+dream up this measure of depravity.
+~
+0 0 0
+D0
+~
+~
+0 0 11902
+D5
+~
+~
+35 0 11963
+E
+bump~
+You investigate the bump.  It appears that there is a door leading down.
+ 
+~
+E
+wrinkle~
+You notice the wrinkle in the rug and as you look closer your eyes
+fall upon a bump in the rug.
+~
+E
+rug~
+You notice a slight wrinkle in the rug.
+~
+S
+#11922
+{WHouse of Disarray{x~
+This is the home of the woman who tells the story of Thallin.  She lives
+in disarray and the house shows that quite clearly.  She also lives in fear.
+As is the custom of the town, her door is left open, but she has a dog that
+guards the house viciously and there is nothing of value out in sight. 
+There is a piece of stone lying on a desk near the door and when you ask her
+sister, what it is, she tells you that it is a stone from the castle that
+fell and crushed Thallin.  This stone gives them hope for a new tomorrow and
+a brighter day.
+~
+0 0 0
+D2
+~
+~
+0 0 11917
+S
+#11923
+{WHome of a Local{x~
+The first thing of note in the room are all the carvings spread about. 
+These look like the work of the young beggar boy that Yaso helped.  They are
+intricate and detailed.  The child in the room notices the attention paid to
+the figures and says, "Pretty they are.  Grandad made".  The room is quite
+plain otherwise and the humble background of the family is evident in the
+way the items are handled with tender loving care.  A shrine is in the
+corner of the room and the name Yaso is below it.  The impact Yaso had on
+this family screams out from every corner.
+~
+0 0 0
+D0
+~
+~
+0 0 11916
+S
+#11924
+{WCenter Street{x~
+This street is almost empty.  It is rarely used by those who live in the
+town and there are no shops on this road to attrack visitors either.  The
+street itself is made up of bricks instead of cobblestone or precious metals
+like the other streets in town.  In fact, the only way the street seems to
+fit into town is that it is as clean and neat as the rest of town. 
+Unbeknownst to those unfamiliar with this road, this is where many secret
+meetings are held in the town and where shady and even those deals not so
+shady are made.  This is also a place where people come to dream about the
+future and reminisce about the past.
+~
+0 0 0
+D0
+~
+~
+0 0 11900
+D2
+~
+~
+0 0 11925
+S
+#11925
+{WCenter Street{x~
+As Center Street comes to an end, the Psioncist's Spire draws closer. 
+The gathering on this street is sparse compared to Psioncist's Way just
+ahead.  The smell of spellcasting hangs in the air from a spellcasting
+lesson being taught just off to the side of the road.  Knowledge emitted
+from the Spire fills up all the spaces not occupied by people walking the
+streets.  Hunger to learn is seen in the eyes of those who walk by and heard
+in the quickness of their steps toward the college.  The street continues on
+to the north and the south.
+~
+0 0 0
+D0
+~
+~
+0 0 11924
+D2
+~
+~
+0 0 11909
+S
+#11926
+{WEntrance to Psionicist's Spire{x~
+This is the second entrance and the second checkpoint in the Spire. 
+There are many such checkpoints within the Spire but this is one of the most
+important.  The Spire is only open to those seeking knowledge or seeking to
+bestow knowledge that could be benificial to the Spire.  The entrance way
+smells of sandalwood and there is a hint of some other spice in the air. 
+The floors are a mirror-like substance that reflects the faces that enter
+the Spire.  Judgement falls quickly here and without hesitation.
+~
+0 0 0
+D0
+~
+~
+0 0 11911
+D2
+~
+~
+0 0 11927
+S
+#11927
+{WMeditation and Relaxation{x~
+This is the place where the weary psioncists come to renew their spirits
+and train their thoughts towards the magics again.  It is quiet in here
+which is a big change from the rest of Spire, filled with teaching, learning
+and endless chattering.  The walls of the room have colors that seemingly
+flow into one another, relaxing those who watch them intently.  In one
+corner of the room, there is a tank of water that produces bubbles from
+nowhere.  The bubbles rise to the top of the water very slowly.  There is a
+light shining on the water that changes colors and intensity as the mood of
+the room changes.  This room is the perfect room to enter at the end of a
+long and tedious day.
+~
+0 0 0
+D0
+~
+~
+0 0 11926
+D3
+~
+~
+0 0 11928
+S
+#11928
+{WHallway of the Damned{x~
+The hallway is lined with pictures of those who have fallen from grace in
+the Spire.  There are those who have forgotten what it means to thirst for
+knowledge and crave learning.  The pictures show these people at the times
+of their death; some hung, some tortured, some starved, some beaten and left
+to die slowly.  Those of the Spire dislike war and killing, but they detest
+those who have forgotten their reason for being and joining with them.  This
+is where people are brought to be warned and chastised for their behavior in
+hopes that they might turn around and be the man or woman they once were.
+~
+0 0 0
+D1
+~
+~
+0 0 11927
+D3
+~
+~
+0 0 11929
+S
+#11929
+{WMeeting Room{x~
+This is the perfunctory meeting room of the Spire.  The actual meeting
+room is hidden away but this one is here for looks and show.  There is a
+small table with four chairs around it.  A few pieces of parchment and a
+quill lie on the table waiting to be used in case of an emergency meeting. 
+There are drawings and paintings on the wall of notorious and special people
+from the past years.  The picture that really catches the eye is the one of
+Qmtarr.  The frame tells the story of Qmtarr and how he came to be a god in
+the Realms.  A number of those in the Spire worship Qmtarr as they believe
+him to be very powerful in his role of DreamWeaver.
+~
+0 0 0
+D1
+~
+~
+0 0 11928
+D3
+~
+~
+0 0 11930
+E
+format~
+~
+E
+frame~
+Qmtarr comes from a town called J'Har.  One day, his town, much to his
+chagrin was destroyed by the wildgate as it ripped through the town,
+destroying it and pulling him through.  He found himself in the Realms and
+quickly found his place among the group called Rebellion.  He fell in love
+with Kaitlyn, who became leader of the Realms, but there was much arguing
+and tension between them.  This arguing, one day, caused Kaitlyn to leave
+and Qmtarr was very sad.  His sadness helped him to see how he was wrong in
+his fighting and arguing all the time.  One day, Bryelle, the goddess of
+Rebellion, told Qmtarr that her time was finished and that she was leaving
+the Realms.  She left Qmtarr to lead Rebellion and gave him the gift of
+immortality in parting.  And so, Qmtarr came to be as he is to this day, the
+DreamWeaver.  
+~
+E
+frame~
+~
+S
+#11930
+{WWinding Staircase{x~
+A circular staircase with ivory banisters leads up to the libraries of
+the Spire.  The intricateness of the carvings on the banisters is not lost
+on the majority of those who pass through the room and certainly not those
+who place their hands on the banister for the first time.  The stairs
+themselves look like marble, though they are made of a different, unknown
+material.  Heading north leads back towards the entrance of the Spire and to
+the East leads further down the hallway into other parts of the college.
+~
+0 0 0
+D0
+~
+~
+0 0 11940
+D1
+~
+~
+0 0 11929
+D4
+~
+~
+0 0 11964
+S
+#11931
+{WEntrance to Belkarth Guard{x~
+Before the travelers who pass this way stands the city of Belkarth Guard.
+It is home to the fabled Psioncist's Spire, a scholar's paradise.  People of
+all kinds fill the streets before you, the majority of whom seek some
+measure of knowledge.  Those who live here have many stories to tell and
+they gladly share them with anyone who will listen.  These stories are
+stories from the past.  Stories that made the Realms what it is today.
+~
+0 0 0
+D3
+~
+~
+35 0 11915
+S
+#11932
+{WLeaving Belkarth Guard{x~
+The road that leads from Belkarth's Guard is short and quiet, but it
+gives the traveler time enough to think on what was said and heard in town
+as well as to digest the stories that were told.  There is a choice at the
+end of the path and the traveler is forced to make a decision: head back
+into town for more learning or choose one of three paths.  The roads are
+merely labeled Beowolf, Allanon and Draven.  The sign hammered into the
+ground next to the words might help those who pass this way to make a more
+informed decision about the path they will choose.  The message from the
+city is more than clear.  The path that each person chooses in life is
+mirrored by others who have walked the path before us.  This step out into
+the world is very vital and it could mean life or death.
+~
+0 0 0
+D0
+~
+~
+0 0 11960
+D1
+~
+~
+35 0 11903
+D2
+~
+~
+0 0 11962
+D3
+~
+~
+0 0 11961
+E
+sign~
+To follow the path of Draven, head west.  To follow the path of Allanon, 
+head north.  To follow the path of Beowolf, head south.  
+~
+E
+sign~
+To follow the path of Variant, head west.  To follow the path of Rhylus, head north.  To follow the path of Thallin, head east.
+~
+E
+sign~
+To follow the path of Variant, head south.  To follow the path of Rhylus, head west.  To follow
+the path of Thallin, head north.  To learn more of these people, head east to Belkarth's Guard.
+~
+E
+sign~
+To follow the path of Variant, head south.  To follow the path of Rylus,
+head west.  To follow the path of Thallin, head north.  To learn more
+of these individuals, head east back to Belkarth's Guard.
+~
+S
+#11933
+{WThe Ancients Way{x~
+The swelling of the crowds lessen the further you are away from the
+Spire.  There are still people milling about, heading towards the
+marketplace to buy the necessities of life.  Story tellers lurk, but not as
+many as in the northern part of town.  Streets here are less ornate, but
+still well-kempt and proper.  The smell of baked goods wafts in from the
+south and the din of voices clangs in from the north.  There is not much
+worthy of remark here.
+~
+0 0 0
+D0
+~
+~
+0 0 11906
+D2
+~
+~
+0 0 11934
+S
+#11934
+{WThe Ancients' Way{x~
+The sounds of the marketplace grow with each step.  Every now and again,
+a word or two can be understood but it is still a short distance away.  The
+smell of fresh leather is evident now.  An older gentlemen stops those in
+the street who will listen.  He announces himself as a descendant of Elias. 
+He goes on to tell a story of the time that Variant worked together with
+Beowolf.  Of course, Beowolf wanted something in exchange.  Variant agreed
+to do as Beowolf wished if he would only help him defeat the armies of Raff
+and Raff himself.  So Beowolf killed off his armies and while he was doing
+so, Variant took care to kill Raff and banished him "Back to the hell which
+spawned you."  Variant was left to his victory, wondering when Beowolf would
+call down this favor from him and what it might be.
+~
+0 0 0
+D0
+~
+~
+0 0 11933
+D2
+~
+~
+0 0 11935
+S
+#11935
+{WThe Ancients' Way{x~
+The cries of the merchants grow stronger with every step, the words from
+their lips clear now.  The clanging of the hammers against metal grows and
+echoes off the cobblestone path.  The Psionicist's Spire looms to the north
+and even so far away, there are still those with a story to tell.  A child
+dressed all in black sits on the ground ignoring those who pass by, but he
+has learned much in his short time of being.  If one were to stop and ask
+him he would tell of the falling of the Triad.  The three: Draven, Allanon
+and Beowolf made up the Triad.  Draven, the seeker of balance, who
+questioned his beliefs one day because of Thallin and then went mad, killing
+and destroying all in his path, including Allanon, was the first.  Beowolf,
+the second sought out Variant to repay the favor he owed and asked him to
+kill Draven for all he had done and much to Variant's dismay, he followed
+through.  Then Beowolf was distraught because his plans were foiled.  He
+could not reach the Wildgate, thus the falling of the Triad.
+~
+0 0 0
+D0
+~
+~
+0 0 11934
+D2
+~
+~
+0 0 11936
+S
+#11936
+{WIntersection of Ancients' and Merchant{x~
+The merchants are just out of reach now.  The sounds of the merchants
+declaring their prices ring through the air.  "Come one, come all.  The
+prices are low and the time is short."  Behind the tops of the tallest
+merchant's building, the Spire is still easy to see.  The cobblestone
+streets are more difficult to walk upon than the streets of northern
+Belkarth Guard yet the people are as friendly as ever.  Everyone is eager to
+lend a hand and offer directions to those visiting the town and they seem
+proud to live in this city.
+~
+0 0 0
+D0
+~
+~
+0 0 11935
+D1
+~
+~
+0 0 11938
+D3
+~
+~
+35 0 11937
+S
+#11937
+{WLeaving Belkarth from the South{x~
+Here stands the gate to the city of Belkarth Guard, home of the fabled
+Psioncist's Spire.  Many scholars have passed these gates before and many
+who seek to gain knowledge will pass these gates in the future.  The gate
+looms overhead, but it is small compared to the Spire.  This gate leads into
+the city directly into the market.  If one were to head north, they might
+happen upon the Spire.
+~
+0 0 0
+D1
+~
+~
+35 0 11936
+S
+#11938
+{WMerchant Street{x~
+The sounds that have been growing are louder now.  Just north, the
+clanking and clacking of the armory is heard.  A merchant stands at the
+counter offering his wares for sale.  The smell of leather and chainmail
+attack the nostrils.  The street continues on to other stores and merchants.
+The man who runs the armory lives just south of here and his house is open
+as well.
+~
+0 0 0
+D0
+~
+~
+0 0 11939
+D1
+~
+~
+0 0 11941
+D2
+~
+~
+0 0 11944
+D3
+~
+~
+0 0 11936
+S
+#11939
+{WArmoury{x~
+The sights and smells assault those who wander into the armory.  All
+around are different sorts of protection for any size, shape and breed of
+adventurer.  Some of the armor is so odd that it is hard to imagine what
+sort of creature would wear it.  There is a certificate on the wall that
+says, "Gwendydar, apprentice to Sythaline.  Graduated with honors".  The
+certificate confirms the handiwork seen with the eyes and it is easy to see
+that hard work and plenty of time and attention are given to each piece of
+equipment in the store.
+~
+0 0 0
+D2
+~
+~
+0 0 11938
+S
+#11940
+{WPsionicist's Spire{x~
+The entrance to the Psioncist's Spire is bedecked with all sorts of odd
+markings in different languages.  There are murals of spell casting all
+about this room and below each are instructions for how to cast them and the
+effects that each has.  The floor is made of some type of strange tiling
+that has the words of scrolls of old written on them.  Even if those who
+entered the Spire never talked to a soul, as long as they could read, they
+would learn volumes.  There is a burning smell like a spell gone wrong
+creeping in from the outdoors.  The hall continues further into the spire
+towards the south and outside to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 11908
+D2
+~
+~
+0 0 11930
+S
+#11941
+{WMerchant Street{x~
+To the south are the sounds of swords being sharpened and the smells of
+the fires that mold them to the desired shape of the creator.  Two men stand
+in the street here fighting and trying out their new purchases.  Both raise
+their swords, clinking and smashing together.  After a gruling match, they
+call it a draw and declare their weapons excellently crafted.  They walk
+down the streets happy with the purchases they have made and ready to go
+hunt for their families.  Just north of here lies the home of the weapon
+crafter and it is open to all who dare enter.
+~
+0 0 0
+D0
+~
+~
+0 0 11945
+D1
+~
+~
+0 0 11943
+D2
+~
+~
+0 0 11942
+D3
+~
+~
+0 0 11938
+S
+#11942
+{WWeapons{x~
+The weapon shop is teaming with action: wheels spinning to sharpen
+blades, fires blazing in order to melt the metal and shape it accordingly,
+orders being shouted and orders being taken.  Along the walls hang some
+finished products that are for sale.  There are daggers, maces, whips,
+swords and a few weapons that most have only heard tale of and never seen. 
+One can buy most anything here if the price is right.
+~
+0 0 0
+D0
+~
+~
+0 0 11941
+S
+#11943
+{WMerchant Street{x~
+The scents careening towards the streets at this juncture are most
+staggering.  The yelps, whinnies, cries and other assorted sounds of animals
+can be heard from the north.  From the south, a voice rises, "Sit, stay,
+good boy.  Now for the real test.  Kill".  The scratching, clawing and cry
+are testament to the fact that the animal has learned its lesson well. 
+Heading into the training grounds for the animals might not be such a
+fabulous idea, but then again, one could learn a lot from a person who can
+teach an animal to kill.
+~
+0 0 0
+D0
+~
+~
+0 0 11946
+D1
+~
+~
+0 0 11949
+D2
+~
+~
+0 0 11948
+D3
+~
+~
+0 0 11941
+S
+#11944
+{WHome of Gwendydar{x~
+Entering the home of Gwendydar one notices all sorts of odd contraptions.
+Some are stretching leather for pieces of armor, others link chain for chain
+mail.  Hammers and various tools abound and lie about the house in disarray.
+There are no pictures on the wall and no paintings.  Nothing of asthetic
+value has made its way into this home.  Instead, it is filled with the
+workings of a master of his art, the art of making equipment for others.  A
+young boy, no more than thirteen sits in the room with a drawing and work of
+his own.  "My name is Chrystar and I am Gwendydar's apprentice", he says. 
+There is a strength and a pride in his voice that only comes from one who
+has worked hard to reach where he is.
+~
+0 0 0
+D0
+~
+~
+0 0 11938
+S
+#11945
+{WHome of Weapons{x~
+The home of the weapon maker is filled with all sorts of weapons.  In the
+back corner of his home he has sectioned off an area where fighting takes
+place.  This is where he tries out his newest creations in order to see if
+they have the sort of quality that he demands from his weapons.  The weapons
+on display are for show, though they could kill if ever put to the test. 
+These are in stark contrast to the weapons he normally sells that are only
+made for killing and are not decorative at all.  This is the house of a
+skilled man who most would not dare to cross.
+~
+0 0 0
+D2
+~
+~
+0 0 11941
+S
+#11946
+{WPet Store{x~
+The pet store is filled with assorted cages, animals, and training
+devices.  A man stands behind the counter waiting to serve those who need
+one of his trained killers.  A warning is posted on the wall.  This is one
+place where there is no room for barganing.  The high price charged for each
+of these animals is well worth the expense in the eyes of the Master
+Trainer.  No one lingers long in the store.  Business is done and then
+people leave; at least those who have some aptitude in dealing with others.
+~
+0 0 0
+D2
+~
+~
+0 0 11943
+D4
+~
+~
+35 0 11947
+E
+warning~
+This animals are trained killers.  I will not be held responsible for any
+killing they do to those who purchase them or others.  Consider yourself
+forewarned.  
+~
+S
+#11947
+{WPound{x~
+~
+0 0 0
+D5
+~
+~
+35 0 11946
+S
+#11948
+{WTraining Arena{x~
+Sweat and blood push through the senses and make themselves apparent
+above all else.  There are three corners being used by trainers all teaching
+animals how to behave in different situations.  The animals are all chained
+and bound so as not to attack without provokation.  That is a good thing,
+since the wild look in their eyes shows that they would devour the first
+thing that walked past if they had any chances to do so.  There are numerous
+people gathered watching the training and searching for the best creature to
+serve them that they might buy when the time comes.
+~
+0 0 0
+D0
+~
+~
+0 0 11943
+S
+#11949
+{WMerchant Street{x~
+Bread crumbs litter the cobblestone here and the fact that there is a
+store filled with food nearby for the locals is a happy thing for them.  The
+smells of baking bread, fresh cut meats, and other equally tantalizing
+treats fills the air.  It is a pleasant change from the scent of dung from
+the animals next door.  People linger in the doorway and just about the shop
+waiting for the freshest goods to come available.
+~
+0 0 0
+D0
+~
+~
+0 0 11950
+D1
+~
+~
+0 0 11952
+D2
+~
+~
+0 0 11951
+D3
+~
+~
+0 0 11943
+S
+#11950
+{WFood Store{x~
+The smells on the street outside are nothing compared to the ones in the
+store.  There is a silver platter on the top of the counter where people can
+taste the newest creation from the shop.  There are slabs of raw meat
+hanging just behind the counter where the traveler can pick the one he
+wants.  The baked goods are all displayed neatly where anyone who wishes can
+choose at will.  The man asks politely, "How may I help you?  "
+~
+0 0 0
+D2
+~
+~
+0 0 11949
+S
+#11951
+{WChef's Home{x~
+The house is a grand mess.  It's a wonder anyone can walk through the
+door with all the clutter spread about.  There is a thin layer of flour over
+all the clutter and stains of blood on the floor.  It is not a difficult
+thing to deduce that the man who works at the food shop owns this home, if
+one could even call it a home.  There are also all sorts of utensils spread
+about, most noticeable the butcher knife with blood covering it.  The sounds
+of a dying animal reach the doorway.  Another animal has been killed for
+nourishment, but by the looks of that butcher knife, most people would not
+want to cross the owner of this house.
+~
+0 0 0
+D0
+~
+~
+0 0 11949
+S
+#11952
+{WMerchant Street{x~
+The road begins to change here as a different part of town looms ahead. 
+Just to the south lies a general store where all the items needed for day to
+day adventuring are located.  Just to the north is the home of the owner of
+the general store.  There is a little girl holding out a cup full of money. 
+At first glance, she looks like a typical beggar girl, but the words out of
+her mouth show different.  "If you need some money, adventurer, please take
+a few coins.  If you don't, please leave it for someone who does."  How odd!
+Not a beggar, but a giver.  This city sure does take care of its own and its
+visitors, too.
+~
+0 0 0
+D0
+~
+~
+0 0 11953
+D1
+~
+~
+0 0 11955
+D2
+~
+~
+0 0 11954
+D3
+~
+~
+0 0 11949
+S
+#11953
+{WThe Tidy Home{x~
+The home of the owner of the general store is just as tidy as the store
+itself.  Everything has its place.  The owner has marked lines on the
+cabinets and labeled them to show just where each can, book and nick-nack
+should go.  There is a sign by the door that says, "Please do not touch
+anything that is not yours."  Evidenced by the neatness of the house, the
+sign is enforced.  Those who enter the house often wonder to themselves what
+the enforcement is and why it is so very important to give everything a
+place.  Those who enter would certainly be wise to leave the house as
+spotless as it is.
+~
+0 0 0
+D2
+~
+~
+0 0 11952
+S
+#11954
+{WGeneral Store{x~
+The general store is a very tidy and organized shop.  All the items hang
+on the wall by category, then by size, shape and lastly color.  There is an
+assortment of lights, flasks, rope, and other useful items.  There are many
+other visitors wandering about the store with packs and sacks trying to
+choose the most economical and helpful materials for their trips.  The
+floors in here are stained with the blood of those who have adventured
+throughout the Realms and lived to tell about it.
+~
+0 8 0
+D0
+~
+~
+0 0 11952
+S
+#11955
+{WIntersection of the Street of the Gods and Merchant Way{x~
+The town changes at this intersection drastically.  The change from the
+marble and precious metals on the Street of the Gods to the cobblestone and
+lackluster appearance of Merchant Street.  It is evident that the people
+care for their town, because even the cobblestone roads are clean and neat
+for the most part.  This part of town is not neglected, it is just a bit
+different.  Those who head north, head towards the tall Psioncist's Spire
+and those who head west head towards the shops of the town.
+~
+0 0 0
+D0
+~
+~
+0 0 11957
+D1
+~
+~
+35 0 11956
+D3
+~
+~
+0 0 11952
+S
+#11956
+{WEntering Belkarth from the South{x~
+The entrance to the southern part of Belkarth Guard welcomes those who
+enter with a grand archway covered in picture stories.  If one looks close
+enough he can follow the lines of history along the archway.  The stories
+portrayed are the handiwork of a great artist because no other would be able
+to tell the story so well without words.  The town is evidently one that
+takes pride in itself and in learning all it can about the past in order to
+keep history from repeating itself time and again.  The Psionicist's Spire
+is clearly visible from here and it is a magnificant sight to behold.  Those
+who desire knowledge are drawn to it almost like zombies.
+~
+0 0 0
+D3
+~
+~
+35 0 11955
+S
+#11957
+{WThe Way of the Gods{x~
+There are many who come to Belkarth Guard seeking out knowledge but a few
+happen here by mere chance; some would call it luck.  The glory of the city,
+the majesty of the Spire, the fact that the air is okay to breath can all be
+attributed in some fashion to this factor some call luck and though few know
+him and even fewer still understand him, there is a God of this luck.  A
+picture is carved into the sidewalk here of a very short man walking along
+and a comet striking down an army in his wake.  A little girl looks up at
+you and says, "Rhylus".  Her mother is standing nearby to explain.  Luck
+follows Rhylus and no one will say if it is good or bad, but most will say
+some of both.  One day Rhylus was walking past the armies of Chaon and a
+meteor came down, striking the army and killing a large number of them.  A
+voice came to him thanking him for his help and he has been an immortal to
+this day.
+~
+0 0 0
+D0
+~
+~
+0 0 11958
+D2
+~
+~
+0 0 11955
+S
+#11958
+{WThe Way of the Gods{x~
+The crowds have lessened a bit and the sounds of the market place are
+beginning to become clearer.  The Spire still appears large even though it
+is some distance away.  The street here has the word "Bryelle" inscribed in
+it and off to the left of the word is a statuette of a beautiful woman.  A
+young lady dressed in long flowing garments begins to speak of Bryelle
+remembering her fondly and speaking of the deeds she did to help the Realms
+and to make it what it is today.  It all started with the destruction
+Beowolf was causing.  Out of the destruction he felt the blast of a
+psionicist only to note that the blast came from inside a burning house.  He
+went inside to find the mentalist and find a baby instead.  He did not know
+why he saved her but he raised her as his daughter.  He intended to do as
+Zyfain had done with him; use her then discard her.  He had his trusted
+teach her in all the ways of magic, swords and of course fostered her
+psionics.  Once she was learned he had her use the absorption spell to
+increase the power of the Chaons until one day she cast the ritual and saw
+images of the cruelty of her own father.  That very night she ran away and
+has rebelled against him to this day.  She vowed to slay her father and
+avenge the lives of those he had taken and still does to this day.
+~
+0 0 0
+D0
+~
+~
+0 0 11959
+D2
+~
+~
+0 0 11957
+S
+#11959
+{WThe Way of the Gods{x~
+The search for truth permiates the city.  The seeking of knowledge is
+first in the minds of nearly all who abide here and those who visit as well.
+Thus the story of Thallin is told time and time again like the fairy tale
+many wish it was but the nightmare it truly is to those who seek truth. 
+There are many who tell the story but few who tell it better than the one
+who stands at this corner.  The cloaked one tells the story in a voice
+without gender or familiarity.  He tells how Thallin was the God of Truth
+until one day, Thallin's anger got the best of him and he killed all those
+who followed Palidor, the one who had perverted the truth of Thallin.  That
+day, Palidor made Thallin doubt.  From that day on, Thallin watched the
+Realms with interest and saw the truth he had so believed in turn to more
+and more doubt.  He learned that when two people share different beliefs it
+causes Strife and so he decided he would foster Strife instead of truth as a
+final twist of irony and so it goes even to this day.
+~
+0 0 0
+D0
+~
+~
+0 0 11912
+D2
+~
+~
+0 0 11958
+S
+#11960
+{WAllanon's Destination{x~
+~
+0 4 0
+S
+#11961
+{WDraven's destination{x~
+~
+0 4 0
+S
+#11962
+{WBeowolf's destination{x~
+~
+0 4 0
+S
+#11963
+{WLabyrinth to be{x~
+The room is dark, dank and musty.  The smell of wet dirt fills the air. 
+The walls and floors are all mud.  The man has been digging a hole in the
+ground, a hole that leads to nowhere.  This looks like the beginnings of a
+hand made Labyrinth.  There is a shovel in the corner with dirt still on it.
+Before you have a chance to finish taking in the room about you a giant
+creature, the very same one pictured in the paintings above, takes you in
+its claws and begins to maul you.  The only apparent way out is the way that
+you came in.  The hope that the door above is still open hangs in the air
+about you.
+~
+0 0 0
+D4
+~
+~
+35 0 11921
+S
+#11964
+{WWinding Staircase{x~
+The staircase is exactly the same as the one leading up from below. 
+There is a window here looking out over Belkarth Guard.  From this height,
+one can see the square where the merchants sell their wares, the street
+where the ancients are spoken of and the street where the gods are spoken of
+as well.  One can even see as far as the gates of the city if they looked
+very hard, but not much beyond that.
+~
+0 0 0
+D0
+~
+~
+0 0 11965
+D1
+~
+~
+0 0 11967
+D4
+~
+~
+0 0 11966
+D5
+~
+~
+0 0 11930
+S
+#11965
+{WPsionics Library{x~
+This is the beginnings of the libraries in the Spire.  This library in
+particular specializes in the books of magic, specifically the magic of
+psionics.  Those who come here to learn this power of the mind usually have
+some talent or aptitude in this area of learning as psionics is clearly not
+for everyone.  After much reading and studying, those with no ability in
+this area are still unable to control the magic of psionics while others
+study a very short while and learn it rapidly.  There is a teacher of the
+magics here as well.
+~
+0 0 0
+D2
+~
+~
+0 0 11964
+S
+#11966
+{WStaricase Continues{x~
+From this view point it is possible to see all the way to the edges of
+Belkarth Guard.  The sellers in the marketplace are visible selling their
+wares.  The city gates towering over the people of the city are glistening. 
+The tellers of stories and the people walking the streets of town are
+visible as well.  Even the water pouring down through the fountain can be
+seen from this height and distance.  It would not be wise to lean too far
+out the window at this height.
+~
+0 0 0
+D4
+~
+~
+0 0 11971
+D5
+~
+~
+0 0 11964
+S
+#11967
+{WGod's Library{x~
+The library of the Gods is ever changing.  New scrolls are constantly
+being added as the Gods do things worthy of noting.  The scrolls go back to
+the time of Aradael, the great sage and forward all the way to the present. 
+There are even some scrolls of prophecy and prediction about the future
+though they come with a warning that they may or may not be factual.  There
+is a table and some chairs where one can puruse the scrolls and a an expert
+on the gods is always on hand to answer any questions that those who visit
+may have about the scrolls or about the Gods.
+~
+0 0 0
+D1
+~
+~
+0 0 11968
+D3
+~
+~
+0 0 11964
+S
+#11968
+{WAncient's Library{x~
+Herein lies the scrolls of those dead and gone.  This is where the
+history of the Realms and the Realms beyond lies.  Unlike the library of the
+Gods, most of the information in here is unchanging.  Every so often, new
+facts are uncovered by researchers and these are added and scrolls are
+changed, but for the most part, the information in this library stays the
+same.  Like the other libraries of history, this library has an expert who
+can answer questions about the scrolls and explain missing pieces of the
+scrolls as well.
+~
+0 0 0
+D1
+~
+~
+0 0 11969
+D3
+~
+~
+0 0 11967
+S
+#11969
+{WLibraries of Magic{x~
+The library of magic is filled with thousands of books all filled with
+spells, explanation of spells, and the effects that they have on others. 
+This is the library for all magics except psionics as there is a whole
+separate library for that.  There are books on the spells of clerics and the
+magic of healing as well as books on the spells of mages and their more
+offensive magic.  Warnings come with all of these books that only trained
+magicians should attempt to delve in such matters.  Like the other
+libraries, there is an expert on the magics here to answer questions of
+those who have a misunderstanding of issues.
+~
+0 0 0
+D0
+~
+~
+0 0 11970
+D3
+~
+~
+0 0 11968
+S
+#11970
+{WLibraries of the Sword{x~
+The library of the sword is over run with books on sword fighting, the
+use of daggers and other hand to hand combat excercise techniques.  There
+are books written on those who have failed in this art and the tragedy that
+befell them as well as books written by those who have succeeded and how
+others might succeed in the same fashion.  The expert on sword fighting
+issues a warning to all that enter this library that it should be used with
+extreme caution.  Only those with talent and proper training should attempt
+to use the books for fighting purposes.
+~
+0 0 0
+D2
+~
+~
+0 0 11969
+S
+#11971
+{WUpward still{x~
+The staircase continues upward and looking out the window here one can
+see even beyond the gates of Belkarth Guard.  The Realms looms out below and
+the people in the city look like tiny mice of different colors as they are
+so far away now.  The Realms doesn't look as large or as terrifying as it
+does to some when in its midst.  It is easy to be removed and distant when
+this far away from the action in the center of the Realms.
+~
+0 0 0
+D4
+~
+~
+0 0 11972
+D5
+~
+~
+0 0 11966
+S
+#11972
+{WTop of the Spire{x~
+Looking out of the winow from this height can be unnerving.  The Realms
+is almost invisible through all the clous at this height.  What one can
+see, if they look very har, are the edges of the Realms, the trees marking
+the edges and the rivers flowing about to show where the Realms ends and
+another land begins.  The air in the top of the Spire is thin and it is
+harder to breathe this high up in the Spire.  The only option now is to head
+back down the same way the adventurer arrived.
+~
+0 0 0
+D5
+~
+~
+0 0 11971
+S
+#11973
+{WSurrounding Sound{x~
+Music fills the room consistently.  This is where the bards meet to share
+and improve their skills.  For this reason, the sounds of outside are shut
+out except for the sounds of music which of course are always welcomed.  The
+room itself has a mural on the wall of musical instruments, many of which
+only exist in pitctures.  The room is always filled with lutes, flutes,
+harps and many musical instruments for people that do not have their own or
+cannot carry theirs about all the time.  All are welcome in this place
+whether to appreciate the music or make the music.
+~
+0 0 0
+D1
+~
+~
+0 0 11918
+S
+#11974
+{WDonations{x~
+This is the place in Belkarth Guard that has been designated by the
+people as a place for helping others.  Those who have more give to those by
+leaving swords, clothes, food, and other assorted items here.  Those who
+have less come to this place to reclaim these things in the good faith that
+they will one day come back to this place to return that which they have
+borrowed or used in the name of improving themselves.
+~
+0 0 0
+D3
+~
+~
+0 0 11918
+S
+#11975
+{WThe Local Pub{x~
+A simple pub with about.  Few comfortable chairs as well as a table is
+here.  The pub is out of place in the town and is rarely visited by the
+locals.  It is here more for the security of the visitors who come here than
+the people who inhabit the town.  The pub has some games scattered a These
+are all games of wit enjoyed by the townspeople and played for fun, but
+those who do not enjoy such mind stimulating activities may be bored by
+them.  The drinks flow and the talk continues throughout the night in the
+local pub and people come and go with ease.
+~
+0 0 0
+D2
+~
+~
+0 0 11916
+S
+#0
+
+
+#RESETS
+O 1 11900 0 11900
+M 1 11921 1 11902
+E 1 11902 0 16
+E 1 11901 0 5
+M 1 11920 1 11903
+E 1 11912 0 3
+E 1 11911 0 7
+E 1 11910 0 5
+M 1 11927 8 11903
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+D 1 11903 3 1
+M 1 11919 1 11904
+E 1 11917 0 17
+E 1 11918 0 16
+E 1 11916 0 12
+M 1 11918 1 11905
+E 1 11919 0 5
+E 1 11921 0 16
+E 1 11920 0 11
+M 1 11928 1 11907
+E 1 11926 0 6
+E 1 11925 0 12
+M 1 11927 8 11908
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+M 1 11929 1 11909
+E 1 11944 0 16
+E 1 11943 0 5
+M 1 11930 1 11910
+E 1 11942 0 16
+E 1 11941 0 12
+M 1 11927 8 11911
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+M 1 11904 1 11912
+E 1 11906 0 8
+E 1 11905 0 5
+M 1 11903 1 11913
+E 1 11930 0 17
+E 1 11902 0 16
+E 1 11901 0 5
+M 1 11902 1 11914
+E 1 11940 0 16
+E 1 11939 0 5
+M 1 11901 1 11915
+E 1 11938 0 1
+E 1 11938 0 2
+E 1 11937 0 15
+E 1 11937 0 14
+E 1 11936 0 4
+E 1 11936 0 3
+E 1 11935 0 5
+M 1 11927 8 11915
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+D 1 11915 1 1
+M 1 11900 1 11916
+E 1 11933 0 9
+E 1 11903 0 5
+M 1 11922 1 11917
+E 1 11932 0 3
+E 1 11931 0 6
+E 1 11903 0 5
+M 1 11925 1 11918
+D 1 11918 0 1
+D 1 11919 2 1
+M 1 11923 1 11920
+E 1 11904 0 16
+E 1 11903 0 5
+M 1 11924 1 11920
+E 1 11906 0 8
+E 1 11905 0 5
+O 1 11907 0 11921
+O 1 11907 0 11921
+O 1 11908 0 11921
+D 1 11921 5 1
+M 1 11934 1 11922
+M 1 11935 1 11923
+E 1 11906 0 8
+E 1 11905 0 5
+M 1 11927 8 11925
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+D 1 11931 3 1
+D 1 11932 1 1
+M 1 11917 1 11934
+E 1 11924 0 13
+E 1 11923 0 7
+E 1 11922 0 5
+M 1 11911 1 11935
+E 1 11925 0 12
+E 1 11926 0 6
+M 1 11927 1 11936
+D 1 11936 3 1
+D 1 11937 1 1
+M 1 11914 1 11939
+G 1 11935 0
+G 1 11924 0
+G 1 11905 0
+G 1 11903 0
+M 1 11915 1 11942
+G 1 11940 0
+G 1 11942 0
+G 1 11902 0
+G 1 11944 0
+M 1 11916 1 11944
+E 1 11952 5 5
+E 1 11950 11 11
+D 1 11946 4 1
+D 1 11947 5 1
+M 1 11910 1 11948
+M 1 11913 1 11950
+G 1 11955 0
+G 1 11954 0
+G 1 11953 0
+G 1 11951 0
+M 1 11912 1 11954
+G 1 11958 0
+G 1 11956 0
+G 1 11957 0
+M 1 11927 8 11955
+E 1 11915 0 16
+E 1 11914 0 2
+E 1 11913 0 5
+D 1 11955 1 1
+D 1 11956 3 1
+M 1 11907 1 11957
+E 1 11906 0 8
+E 1 11905 0 5
+M 1 11908 1 11957
+E 1 11927 0 7
+E 1 11928 0 15
+M 1 11906 1 11958
+E 1 11929 0 12
+M 1 11905 1 11959
+E 1 11926 0 6
+E 1 11925 0 12
+O 1 11909 0 11963
+M 1 11933 1 11963
+E 1 11909 0 16
+D 1 11963 4 1
+M 1 11932 6 11964
+E 1 11948 0 13
+E 1 11947 0 18
+M 1 11931 6 11965
+E 1 11946 0 17
+E 1 11945 0 16
+M 1 11932 6 11965
+E 1 11948 0 13
+E 1 11947 0 18
+M 1 11932 6 11967
+E 1 11948 0 13
+E 1 11947 0 18
+M 1 11931 6 11968
+E 1 11946 0 17
+E 1 11945 0 16
+M 1 11932 6 11969
+E 1 11948 0 13
+E 1 11947 0 18
+M 1 11931 6 11970
+E 1 11946 0 17
+E 1 11945 0 16
+O 1 11949 0 11972
+M 1 11926 1 11973
+O 1 11934 0 11975
+S
+
+
+#SHOPS
+ 11912    1 17 15 13  2   105 100         0 23    ; Lucian
+ 11913   19 19 19 19  0   135 130         0 23    ; Ricandros chef
+ 11914    9  9  9  9  0   105 100         0 23    ; Gwendydar armorer
+ 11915    5  5  5  5  0   155 150         0 23    ; Jymallin weapons
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

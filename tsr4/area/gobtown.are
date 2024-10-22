@@ -1,0 +1,4090 @@
+#AREA   Goblin Town~
+
+
+
+#AUTHOR Terram~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 53131508
+
+#MOBILES
+#4500
+goblin~
+a weany goblin~
+A small green goblin is waddling along.  
+~
+A warty green goblin hurries along.  The goblin smells terrible.  It is
+hunched over like it is use to humiliation and abuse.  Its pale red eyes
+notice you then drop to the ground in front of it.
+~
+197 33554944 -500 S
+70 1 0 11d300+1560 5d14+35
+20 0
+8 8 0
+#4501
+leader goblin~
+The Goblin Leader~
+A goblin leader lays careful plans.
+~
+A large (for a goblin) greenish brown, pock marked goblin meets you stare
+in a challenge.  The goblin leader spit some foul mixture that stains the
+floor and watches you very carefully.
+~
+135 512 -550 S
+75 2 0 11d345+1735 5d15+37
+100 0
+8 8 0
+#4502
+kobold kobolds kob~
+a kobold horde~
+A hundred kobolds tear at each other and run about like mad dogs.
+~
+A horde of kobolds are gathered here.  From the look of their frenzied
+antics, it is probably not by choice.  The small brown creatures could
+actually be a danger in this large number.
+~
+101 75530752 -750 S
+67 20 0 11d354+1775 5d15+38
+2 0
+8 8 0
+#4503
+mold brown fuzzy~
+some brown fuzzy mold~
+The piles of garbage are covered in brown fuzzy mold.
+~
+The entire dump is covered with a brown fuzzy mold.  It seems to decay
+the slop very rapidly.  You almost gag on the scent coming form the mold.
+~
+35 310444033 -250 S
+74 -1 0 11d336+1700 2d15+30
+2000 0
+8 8 0
+#4504
+gawrl man~
+Gawrl~
+Gawrl leans against the counter of his pet shop.
+~
+Gawrl is an bear of a man in size and about as ugly.  Scars criscross his
+face.  He is wearing a old suit of chainmail that he uses when feeding his
+pets.
+~
+3 4194304 -300 S
+76 0 0 11d354+1775 5d15+38
+100 0
+8 8 1
+#4505
+borax black smith~
+Borax~
+Borax the blacksmith pounds away at his forge.
+~
+Borax is a tall, dark, and large man.  His arms and chest are huge from
+his daily work as a blacksmith.  He is covered in smoke and grim.  The
+blacksmith's ears have a slight point to them.  Maybe the rummors about him
+being of orgeish ancestory are right.
+~
+3 4194864 -200 S
+82 30 0 12d378+2000 5d16+41
+1000 0
+8 8 1
+#4506
+Jerica supply~
+Jerica~
+Jerica is sorting through her supplies.
+~
+Jerica owns and runs the supply store.  Jerica is well muscled but still
+pretty.  Her hair is black as are her eyes.  She smiles at you, but it says
+watch your step!
+~
+3 6291472 200 S
+85 25 0 12d406+2115 5d17+42
+1000 0
+8 8 2
+#4507
+kep chi exotic~
+Kep Chi~
+Kep Chi watches over the exotic wares.
+~
+Kep Chi's skin is dusty brown.  Eerie purple eyes weigh you purse as he
+offers you his exotic wears.  The cloak of Kep Chi covers the body and head
+completely.  The face seems to altar even as you watch.
+~
+3 56 0 S
+80 20 0 12d360+1920 5d16+40
+1000 0
+8 8 0
+#4508
+snot scott~
+Scott~
+Scott the Snotling slides some gruel to you.
+~
+Scott is a small, wrinkles, stinky snotling.  He is covered in rags.  How
+he managed to open this store is a mystery even to the town people.
+~
+3 278921728 450 S
+74 50 0 11d336+1700 5d15+37
+200 0
+8 8 1
+#4509
+fischer fence~
+Fischer the Fence~
+Fischer the Fence is envolved in a shady deal.
+~
+Fischer the Fence is tall and gangly with dirty blond hair.  His eyes are
+keen and deep blue.  He offers a wide selection of "purqured" objects.
+~
+1074003971 66092 -600 S
+89 25 0 12d445+2270 5d18+44
+2000 0
+8 8 1
+#4510
+grandma marge~
+Grandma Marge~
+Grandma Marge is selling her vegtables.
+~
+Grandma Marge is a small old lady.  She often smiles but her frown is
+terrifing.  Marge offers some of the best vegtables in the land.  You
+suddenly notice her pointed ears.  An old elf?
+~
+3 553755280 300 S
+78 1 0 11d373+1845 5d10+39
+100 0
+8 8 2
+#4511
+aprentice~
+apprenctice mage~
+An apprentice shows you the wonders of the store.
+~
+A young mage works off the debt of apprenticeship by working in this
+store.  The apprentice is wear black robes.  As he points something out, you
+notice the stains of ink and other unguessed substances.
+~
+3 16 -650 S
+77 2 0 11d363+1810 5d15+3
+1000 0
+8 8 0
+#4512
+scribe young~
+young scribe~
+A young scribe has fallen alseep at the counter.
+~
+A young over worked scribe is resting at the counter.  Their are bags
+under the eyes of the apprentice and looks like the apprentice is nodding
+off to sleep.  You do notice that the hand of the apprentice is on a knife
+the whole time you are in the store.
+~
+131 131120 250 S
+81 5 0 12d369+1960 5d16+40
+1000 0
+8 8 0
+#4513
+verias shop tailor~
+Verias the tailor~
+Verias sits on a high stool sewing away contentedly.
+~
+Now you have seen everything!  A green skinned goblin sewing.  The
+amazing thing is that his work is fabulous.  Verias could easily get twice
+or more for his clothing in a big city.
+~
+3 4194916 0 S
+89 25 0 12d445+2270 5d18+44
+100 0
+8 8 1
+#4514
+big bob~
+Big Bob~
+Big Bob is beating up his trainees.
+~
+Big Bob is a BIG man.  And old too!  Big Bob is nearly bald and skin is
+very wrinkled and weathered from years of rough living.  Even so, his arms
+are still strong and his eye keen.
+~
+403177987 553648168 0 S
+150 100 0 13d1166+5190 6d25+75
+10 0
+8 8 1
+#4515
+koblin patrol~
+koblin patrol~
+A patrol of Koblin hunger for garbage.
+~
+A pack of half goblin half kobolds roam the streets.  They are a putrid
+greenish brown with dog like faces and pointed ears.  Even at this distance
+they reek.
+~
+69 1081896 -350 S
+50 1 0 10d169+920 5d10+25
+0 0
+8 8 0
+#4516
+master caravan~
+caravan master~
+A caravan master is hoping for a safe journey.
+~
+The caravan master is sitting here getting everything organized for his
+caravan.  The caravan master's skin is a deep brown from many years in the
+open.  The caravan master is wearing fine yet functional cloths.
+~
+3 524320 20 S
+82 5 0 12d378+2000 5d16+41
+750 0
+8 8 1
+#4517
+guard ogre~
+an ogre guard~
+An ogre guard glares at you hatefully.
+~
+A green hunched over ogre leers at you.  The ogre's muscles bulge as it
+shifts slightly.  You wonder when was the last time the grey uniform it is
+wearing was cleaned.
+~
+3 552 -780 S
+135 10 0 12d1023+4390 6d23+67
+450 0
+8 8 0
+#4518
+leader ogre~
+an Ogre Leader~
+An ogre leader fumes and rages.
+~
+At one time this mighty creature was the leader of this town.  Now he
+fumes in his estate at the factions that divide his town and weaken it.
+~
+35 67109408 -800 S
+137 15 0 13d972+4490 6d23+68
+2000 0
+8 8 1
+#4519
+prisoner~
+a prisoner~
+A prisoner mopes about his bad luck.
+~
+The prisoner crouches in a corner holding a scrap of food.  His loincloth
+is dirty and his hair tangled.  The prisoner is covered in bruises.
+~
+133 16777216 -450 S
+70 1 0 11d300+1560 5d14+35
+0 0
+8 8 1
+#4520
+guard prison~
+a prison guard~
+A prison guard casually watches the cells.
+~
+A prison guard wears a more or less clean grey uniform.  He actually
+looks some what respectable.  You have been in this town way too long.
+~
+16777217 32 -10 S
+74 4 0 11d336+1700 5d15+37
+300 0
+8 8 1
+#4521
+soldier krosian~
+a krosian guard~
+A Krosian Guard looks around with disgust.
+~
+A Krosian guard stand straight and tall in his blue and silver uniform. 
+His armor and weapons are well cared for, but you can tell he is wondering
+what he did to get this duty.
+~
+65 32 250 S
+75 10 0 11d345+1735 5d15+37
+100 0
+8 8 1
+#4522
+knight krosian~
+a Knight of Krosian~
+A Knight of Krosian paces back and forth.
+~
+A knight of Krosian looks very worried.  The knight continues to pace and
+seem lost in thought.  The knight looks up at you suddenly and says, "Can
+you find the captain for us?"
+~
+524291 36 800 S
+76 30 0 11d354+1775 5d15+38
+200 0
+8 8 0
+#4523
+master house~
+master of the house~
+The master of the house offers you his beauties.
+~
+The master of the house is a good looking chap.  He wears the finest
+silks.  The master assures you of the quality of the entertainment you will
+recieve.  Around his neck you notice a symbol of the sect of Free Will.
+~
+3 275251752 600 S
+129 5 0 12d934+4085 6d22+64
+300 0
+8 8 1
+#4524
+courtasean~
+a courtasean~
+A courtasean beckons you towards her.
+~
+A blue eyed beauty smiles at you.  She is only wearing a smooth silk
+robe.  The courtasean is watching you intently.
+~
+3 524320 400 S
+127 1 0 12d905+3985 6d21+35
+0 0
+8 8 2
+#4525
+gargoyle gar~
+a gargoyle~
+A gargoyle hunches by the entrance.
+~
+The grey gargoyle is solid stone and magically animated.  Very little can
+get through their stony hides.  They hold perfectly still but you can still
+sense it watching you.
+~
+67 570949688 0 S
+150 20 0 13d1166+5190 6d25+75
+0 0
+8 8 0
+#4526
+captain knight peasant~
+a knight in hiding~
+A large peasant is helping others.
+~
+Watching this man you notice the when he moves he jingles and he winces
+with each jingle.  His movements are also those of one with self confidence.
+His hands are those of a knight.  Why is he here?
+~
+67108867 160 999 S
+135 25 0 12d1023+4390 6d23+67
+0 0
+8 8 1
+#4527
+thief~
+a thief~
+A thief skulks in the shadows.
+~
+You are surprised you noticed the thief.  He blends in very well with the
+people of this area.  The thief looks dangerous with his knives and stealthy
+movement.
+~
+65 1147392 -560 S
+76 2 0 11d354+1775 5d15+38
+0 0
+8 8 1
+#4528
+assassin~
+an assassin~
+An assassin lunges at you.
+~
+Cloaked in brown and black you face a trained assasin from the thieves
+guild.  This one is goblin kin with a poisonous bite.  Best to stay away.
+~
+16777249 33653280 -750 S
+125 10 0 12d887+3885 6d21+62
+200 0
+8 8 0
+#4529
+guild master thieves ~
+the Guildmaster of Thieves~
+The Guild master organizes a theft.
+~
+A large person draped in thick robes stands here.  Although the robes
+hide the identity, you can feel the power eminated from this person.  You
+suddenly realize why it is a bad thing to cross the guild master of thieves.
+~
+1 541224 -850 S
+138 5 0 13d987+4545 6d23+69
+50000 0
+8 8 2
+#4530
+crooked caravan master~
+a crooked caravan master~
+A caravan master goes over some facts and figures.
+~
+This fellow seems like a nice enough person.  He is working away quit
+dilegently at a tablet.  The caravan master has good quality cloths and is
+well groomed.
+~
+129 0 -450 S
+130 3 0 12d949+4135 6d22+65
+10 0
+8 8 1
+#4531
+barmaid maid~
+a barmaid~
+A barmaid slams down your order.
+~
+A harried looking barmaid hurries around with a laden tray.  She is not
+the best looking person you have seen, but the other patrons seems to enjoy
+harassing her.
+~
+16777345 0 -350 S
+70 2 0 11d300+1560 5d14+35
+10 0
+8 8 2
+#4532
+bartender tender~
+a bartender~
+A bartender mixes some foul drink.
+~
+You are looking at a tough man.  He is know for his drinks far and wide. 
+Well at least as far as the other side of town.  The bartender is very
+scared from both cuts and burns.
+~
+3 32 -550 S
+72 1 0 11d318+1630 5d14+36
+200 0
+8 8 1
+#4533
+bouncer~
+a bouncer~
+A bouncer makes sure no trouble occurs.
+~
+The bouncer is a very large man.  He has short black hair and piercing
+green eyes.  He works part time at the black smiths to keep fit.
+~
+16777217 1048608 -350 S
+80 10 0 12d360+1920 5d16+40
+10 0
+8 8 1
+#4534
+dealer~
+a dealer~
+A dealer is shuffling a stack of plaques.
+~
+The dealer is a pretty female.  She is very capable at the game and keeps
+it running smoothly.  She has black hair and large brown eyes.  She is
+wearing a silk dress.
+~
+3 40 -650 S
+78 2 0 11d373+1845 5d16+39
+200 0
+8 8 2
+#4535
+gambler~
+a gambler~
+A gambler stares at his plaques.
+~
+This gambler is wearing some very fine clothing.  He has long brown hair
+and squinty blue eyes.  You wonder how he got the money to play here.
+~
+197 524288 -100 S
+74 2 0 11d336+1700 5d15+37
+150 0
+8 8 1
+#4536
+noble fop krosian ~
+a krosian noble~
+A Krosian noble is losing at plaques.
+~
+A fine clean shaven man looks over his plaques.  He is wearing a fine
+royal blue dublet and hose.  His hair is a clean blonde and his eyes
+are blurred from alcohol.
+~
+65 272629760 220 S
+81 7 0 12d369+1960 5d15+40
+10 0
+8 8 1
+#4537
+sewer dweller~
+a sewer dweller~
+A sewer dweller looks for prey.
+~
+A black lizard like creature scans the surroundings.  Suddenly it stands
+on two hind legs and exhales a bit of green gas into a hole.  A rat falls
+from a small opening and is quickly devoured.  You notice stubs that at one
+time might have been wings.  It reminds you of a small black dragon.
+~
+16777253 34079275 0 S
+137 11 0 13d972+4490 6d23+68
+0 0
+8 8 0
+#4538
+high priest~
+a high priest~
+A high priest of Beowolf instigates evil acts.
+~
+The grin from the high priestess of Beowolf fills you with chills.  Long
+black hair and black soulless eyes compliment the sun browned skin to give
+her an other wordly beauty and a look of pure evil.
+~
+66563 33554620 -999 S
+145 30 0 13d1089+4915 6d24+72
+1000 0
+8 8 2
+#4539
+acolyte~
+an acolyte of Beowolf~
+An acolyte of Beowolf prays for evil insight.
+~
+A man in black robes walks among the holy petitioners.  The man's head is
+shaved bald, marking him as an acolyte.  Cruel black eyes stare into
+compelling you to worship evil.
+~
+3 16388 -900 S
+135 4 0 12d1023+4390 6d23+67
+300 0
+8 8 1
+#4540
+Priest~
+a Priest of Draven~
+A priest of Draven watches over the worshipers.
+~
+The priest of Draven seems concerned.  His brow is furrowed and he looks
+like he slept in his robes.  His hair is begining to grey but his eyes are
+still a strong blue.
+~
+65539 196 0 S
+130 7 0 12d949+4135 6d22+65
+10 0
+8 8 1
+#4541
+Judge~
+a Judge of Draven~
+One of Draven's Judges decides a persons guilt.
+~
+Wearing a grey robe of a judge is a hard faced man.  His brown eyes
+pierce you to the soul.  His short hair is a dark brown and he wears a beard
+as well.
+~
+3 524388 0 S
+131 10 0 12d963+4185 6d22+65
+0 0
+8 8 1
+#4542
+priest warrior~
+a warrior priest~
+A warrior priest of Allanon is bestowing a blessing.
+~
+The warrior priest is holding a small ceremony for the few practitoners
+in the city.  The priest is hard and determined.  The priest is constantly
+scanning for trouble.
+~
+67174403 0 1000 S
+132 50 0 12d978+4235 6d22+66
+0 0
+8 8 0
+#4543
+mage trainer~
+a mage trainer~
+A trainer for the mage guild instructs aprrentices.
+~
+Bussling about, this female mage teaches all the apprentices.  Her hair
+is grey and her eyes are a pale blue.  She is wearing the robes of a master
+mage.
+~
+132099 524336 -650 S
+127 0 0 12d905+3985 6d21+60
+30000 0
+8 8 2
+#4544
+thief trainer~
+old thief trainer~
+A bent old man trains thieves.
+~
+A large white beard flows down this bent old man's chest.  He has slate
+grey eyes and what little hair is lift is snowy white.  His hands move with
+amazing agility and his eyes are still very keen.
+~
+263171 0 200 S
+126 0 0 12d891+3935 6d21+63
+10 0
+8 8 1
+#4545
+psionicist trainer~
+a psionist trainer~
+A young psionicist trains students.
+~
+Wearing the symbol of Beowolf, the founder of psionics, this master
+teaches others in the use of psionics.  Her hair is a dark hazel as are her
+eyes.  A perfectly bland look maskes her face so you have no idea what she
+is thinking.
+~
+1027 524320 -750 S
+128 0 0 12d920+4035 6d21+60
+100 0
+8 8 2
+#4546
+lesser mage~
+a lesser mage~
+A lesser mage practices the art of illusion.
+~
+A student in the robes of a journey man concentrates hard upon his
+studies.  The mage has sandy brown hair and a darkly tanned face and hands.
+~
+16777217 32 50 S
+77 1 0 11d363+1810 5d15+38
+100 0
+8 8 1
+#4547
+psionicist lesser~
+a lesser psionicist~
+A lesser psionicist meditates and learns the power of the mind.
+~
+Even thou the the psionicist's eyes are closed you can still feel
+yourself being watched by her.  Her hair is blond almost white and her skin
+is pale, an oddity in these parts.
+~
+16777217 524288 -150 S
+76 3 0 11d354+1775 5d14+38
+100 0
+8 8 2
+#4548
+high mage~
+the high mage~
+The high mage of Goblin Town looks for an answer.
+~
+This old man with his twin breaded beard and grey slate mustache is still
+as active as he was in his youth.  This master mage is reading a note and
+writing something to another peice of parchment.
+~
+3 0 -675 S
+139 10 0 13d1150+5135 6d24+74
+3000 0
+8 8 1
+#4549
+high psionicist~
+the high psionicist~
+The high psionicist of Goblin Town plans the downfall of lessers.
+~
+This woman is surprisingly fit for a psionicist.  Her hair is just
+starting to silver and is cut short.  Her eyes are a piercing blue.  She
+appears to be writing a letter but stops when you look at her.
+~
+3 524336 -895 S
+140 10 0 13d1015+4650 6d23+70
+3000 0
+8 8 2
+#4550
+guardian haven~
+a haven guardian~
+A guardian of this haven protects his fellow members.
+~
+This tall scarred demon has seen many battles.  He wears a large symbol
+of his organization.  His long greenish blond hair is braided in a fighters
+knot.
+~
+67633155 269058744 0 S
+140 15 0 13d1015+4650 6d23+70
+0 0
+8 8 1
+#4551
+beggar~
+a beggar~
+A poor destitue beggar eeks out a living on the streets.
+~
+This poor soul is so covered in grime that you can not tell the persons
+sex ...  Or race.  It holds its hands up to you, begging for a scrap.
+~
+69 293634568 10 S
+71 1 0 11d309+1595 5d14+35
+10 0
+8 8 0
+#4552
+gutter rats kids~
+some gutter snipes~
+A group of gutter snipes roams the streets.
+~
+A group of unwashed raggedy children roam the streets.  The harague
+others and beg for money and food.  There clothes look a little odd. 
+Looking closer you notice symbols of Allanon and Draven!!
+~
+193 568 501 S
+70 2 0 11d300+1560 5d13+32
+100 0
+8 8 0
+#4553
+tradesman trade~
+a tradesman~
+A tradesman hurries along on some task.
+~
+The tradesman looks exhausted.  He has large bags under his eyes and his
+hair has a hint of grey.  He is hurrying somewhere, probably to work or back
+to his family.
+~
+193 33554432 -250 S
+73 1 0 11d327+1665 5d15+36
+175 0
+8 8 1
+#4554
+guard caravan~
+a caravan guard~
+A caravan guard patrols the area.
+~
+This sun bronzed woman is a well trained warrior.  Her face is weatherd
+and rough from the outdoors life of the caravan.  Her brown eyes watch you
+warily as she continues her patrol.
+~
+524291 33554464 0 S
+75 7 0 11d345+1735 5d15+37
+0 0
+8 8 2
+#4555
+guards caravan~
+most of the caravan guards~
+A group of guards protect the caravan.
+~
+As you watch the caravan you notice the large amount of well trained
+guards: some are resting, others patroling, and even a few training with
+weapons.
+~
+3 33554464 0 S
+150 25 0 13d1166+5190 6d25+75
+1000 0
+8 8 0
+#4556
+kobold~
+a single kobold~
+A small kobold runs through the streets.
+~
+A single kobold runs from shadow to shadow.  Its dog like face marked by
+pain and suffering.  Its red eyes glint with cleverness.
+~
+4456613 293700096 -645 S
+40 -5 0 10d108+662 5d8+20
+0 0
+8 8 0
+#4557
+spellbound elf~
+a spellbound elf~
+A elf is helpless to control his own body.
+~
+This poor elf's face is locked in visage of horror.  The eyes dart widely
+from side to side, you realize that only the eyes are controlled by the soul
+in the body.  Some other force controls the rest of the body.
+~
+35 654410256 835 S
+136 -1 0 13d958+4440 6d23+68
+0 0
+8 8 1
+#4558
+boulder~
+A giant boulder~
+A giant boulder can easily crush you.
+~
+Slate grey with two slits of Jade for Eyes.  This creature will make a
+snack of you.  You notice the poisonous gasses from the bowels of the earth
+seeping from his mouth.
+~
+35 271179904 0 S
+160 50 0 13d1166+5190 10d25+100
+100000 0
+8 8 0
+#4559
+camel~
+a camel~
+A camel spits at your.
+~
+A dusty old camel plods across the sand.  Its eyes a sad brown.  The hump
+of its back sags to the side.  A gurgle of saliva rising warns you away.
+~
+257 33554464 0 S
+70 1 0 11d300+1560 5d14+35
+0 0
+8 8 0
+#4560
+spy beggar~
+a grey beggar~
+A beggar keeps a sharp watch on the street.
+~
+This beggar leans casually against a door to the north.  As you watch a
+person walks up and mumbles something to the beggar and enters the door. 
+The beggar goes back to watching the street.
+~
+3 66080 -350 S
+137 0 0 13d972+4490 6d23+68
+100 0
+8 8 1
+#4561
+outcast sentry~
+a human sentry~
+A sentry paces outside the gate.
+~
+A thin man with a mismatched set of armor watches you carefully.  You
+notice a large scar on his forhead.  His hair is dark black as are his eyes.
+A scared and calloused hand caresses the hilt of his sword.
+~
+3 524840 0 S
+140 15 0 13d1015+4650 6d23+70
+100 0
+8 8 1
+#4562
+sentry ~
+a demon sentry~
+A sentry watches the entrance to the building.
+~
+A thin demon looks alertly around.  He wears simple black robes. 
+Occasionally the clink of armor comes to your ears as he shifts around.  His
+face is plain and near featureless and passes from your memory the moment
+you look away.
+~
+3 269058616 -500 S
+140 15 0 13d1015+4650 6d23+70
+100 0
+8 8 1
+#4563
+scout professional~
+a professional scout~
+A professional scout keeps an eye on the surroundings.
+~
+Wearing faded tans this man seems to disappear into the wall he is
+leaning against.  His face is rugged from a lot of exposure to the elements.
+Although his eyes are mear slits you get the distinct impression that he is
+watching you very carefully.
+~
+3 623160 500 S
+140 15 0 13d1015+4650 6d23+70
+100 0
+8 8 1
+#4564
+scout leader~
+a Scout Leader~
+A scout leader considers an offer.
+~
+The old man leans back in his chair and considers the papers before him. 
+As he gazes at the papers with his clear blue eyes you realize he is
+watching you very closely from the corner of his vision.
+~
+1539 128 0 S
+150 30 0 13d1166+5190 6d25+75
+100 0
+8 8 1
+#4576
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#4500
+well hole~
+a rickety well.~
+This well is more a hole in the ground than a well.~
+~
+25 0 0
+30 5 0 0
+100 10 1
+#4501
+moldy bread~
+a moldy bread~
+This bread might be edible.~
+~
+19 0 1
+3 0 0 1
+1 10 1
+#4502
+krosian plate~
+krosian chest plate~
+A set of fine Krosian plate is crafted of the highest quality iron.~
+~
+9 1 0
+200 100 150 75
+100 10000 1000
+#4503
+dagger assasin~
+assasin dagger~
+An assasin's dagger cuts up anyone that is too close.~
+~
+5 32 1
+0 6 21 0
+10 10000 1000
+#4504
+caravan tent key~
+tent key~
+A beautiful brass key is wrapped in colorful silk.~
+~
+18 0 1
+0 0 0 0
+10 100 10
+E
+silk~
+The silk is a soft pink.  The silk looks just like a piece from a caravan
+master's tent.  
+~
+#4505
+pole key~
+twisted pole~
+A small pole of iron is twisted in a bizarre shape.~
+~
+18 0 1
+0 0 0 0
+1 500 50
+#4506
+pass key~
+caravan pass~
+A caravan pass is used to leave a caravan gate and travel with the caravan.~
+~
+18 0 1
+0 0 0 0
+1 100 10
+#4507
+pass key~
+caravan pass~
+A caravan pass is used to travel with a caravan from a caravan gate.~
+~
+18 0 1
+0 0 0 0
+1 150 15
+#4508
+pass key~
+caravan pass~
+A caravan pass is used to travel with a caravan from the caravan gate.~
+~
+18 0 1
+0 0 0 0
+1 75 7
+#4509
+loin cloth key~
+a loin cloth~
+This loin cloth is oddly shaped and has wierd holes.~
+~
+18 0 1
+0 0 0 0
+10 1000 100
+E
+holes~
+These holes seem to have a vague pattern.  Looking closer you notice that
+smudges of dirt actually have goblin numbers next to them.  This must be a
+pattern for openning a secret door.  
+~
+#4510
+hammer smith~
+a smith's hammer~
+A very large and heavy hammer is made for shapping metal in a smith's hands.~
+~
+5 4 0
+0 6 14 0
+100 1000 100
+#4511
+order opal gem~
+the order opal~
+The fabled order opal shines brightly.~
+~
+12 1 0
+0 0 0 0
+5 20000 2000
+A
+4 3
+A
+3 3
+A
+12 -60
+A
+14 -60
+A
+18 6
+#4512
+chain old chainmail~
+old chainmail~
+A suit of old chainmail has seen better days.~
+~
+9 0 1
+10 20 75 50
+35 100 10
+#4513
+stamp caravan~
+caravan stamp~
+A stamp used to make caravan passes sits idle.~
+~
+8 0 1
+0 0 0 0
+1 2000 200
+#4514
+seal krosian~
+krosian Seal~
+The Royal Krosian Seal gives authority to its bearer.~
+~
+8 0 1
+0 0 0 0
+1 1000 100
+#4515
+signet ring~
+a signet ring~
+You see a signet ring for the Krosian nobility.~
+~
+12 0 1
+0 0 0 0
+1 400 40
+#4516
+key triangle~
+a triangle of wire~
+This triangle of wire is used to open a trap door.~
+~
+18 0 1
+0 0 0 0
+1 100 10
+#4517
+medallion circle master~
+master medallion~
+This circle of gold is the symbol of a master of a guild.~
+~
+12 1 1
+0 0 0 0
+1 1000 100
+A
+12 50
+A
+5 -1
+#4518
+sewer parchment~
+a torn parchment~
+This ripped up piece of parchment has a map of the sewers.~
+~
+12 1048576 1
+0 0 0 0
+1 1000 100
+E
+map~
+Thief's Entrance
+                            |
+Prison Entrance ____________|
+                          Secret Room
+     Beowolf's Temple-----|
+                          |
+                          Psionicist Guild
+ 
+"Use the bricks marked by the loin cloth"
+"To unlock the secret door on one side"
+"Use the picture to unlock the other side"
+~
+#4519
+jeweled letter opener~
+a jeweled letter opener~
+This letter opener is the guild masters symbol.~
+~
+8 0 1
+0 0 0 0
+5 1000 100
+A
+2 3
+#4520
+funny picture~
+a funny picture~
+This is a picture of shapes and lines.  ~
+~
+18 0 1
+0 0 0 0
+10 1000 100
+E
+shapes~
+The shapes almost make a pattern like bricks or something.  
+~
+#4521
+tunnel wire~
+piece of wire~
+A small length of wire with a hook on one end.~
+~
+18 0 1
+0 0 0 0
+10 500 50
+E
+hook~
+This hook would probably open a catch in a trap door.  
+~
+#4522
+symbol tunnel~
+a holy symbol~
+This holy symbol is oddly shaped and has a hook on the bottom.~
+~
+18 0 1
+0 0 0 0
+10 750 75
+E
+hook~
+This symbol looks like it would fit in a slot to open a secret door.  
+~
+#4523
+gossip~
+a bit of gossip~
+A bit of gossip has a tale to be seen.~
+~
+26 0 1
+50 72 33 17
+1 500 50
+E
+tale~
+The town is currently broken up.  Various factions are trying to get
+conrtol.  Including the Thief's Guild, The priesthood of Beowolf and the
+Caravaneers.  
+~
+#4524
+magic aura~
+glowing aura~
+A palable magical aura surround this person.~
+~
+9 1 1
+10 10 10 100
+10 1000 100
+A
+1 -2
+A
+2 -2
+A
+12 50
+#4525
+sash symbols~
+a magical sash~
+This sash is covered in magical symbols~
+~
+9 64 0
+5 6 4 30
+1 500 50
+A
+5 -1
+A
+12 10
+#4526
+ring lesser~
+a ring of lesser rank~
+This bronze ring symbolizes the rank of lesser mage.~
+~
+9 64 0
+4 4 4 10
+1 675 67
+A
+18 -1
+A
+12 10
+#4527
+sandals~
+soft sandals~
+A set of sandals of soft doe skin.~
+~
+9 64 1
+4 4 4 8
+5 545 54
+A
+14 10
+A
+5 -1
+#4528
+staff power~
+a staff of power~
+This staff glows with unearthly magical power.~
+~
+4 1 0
+140 3 3 -1
+25 10000 1000
+A
+3 2
+A
+12 50
+A
+4 -1
+A
+5 -1
+A
+1 -1
+#4529
+red ring power~
+red ring of power~
+This reddish ring of power feeds on light.~
+~
+3 4 0
+145 2 2 25
+2 10000 1000
+A
+12 50
+A
+4 2
+A
+2 -2
+#4530
+sing symbol meditation~
+singing symbol~
+This symbol sings a quiet mandta of meditation.~
+~
+9 2 0
+2 6 5 10
+3 785 78
+A
+3 2
+A
+4 2
+A
+12 50
+A
+18 -2
+A
+19 -2
+A
+1 -1
+#4531
+black scull cap~
+a black scull cap~
+A dark black scull cap sticks to the persons head.~
+~
+9 4 0
+5 10 8 25
+5 845 84
+A
+4 1
+A
+3 1
+A
+1 -3
+A
+12 25
+#4532
+spear goblin~
+a goblin spear~
+This stone tipped spear was carefully crafted by a goblin craftsmaster.~
+~
+5 262144 1
+0 6 12 11
+7 475 47
+#4533
+hob nailed boots~
+hobnailed boots~
+These hobnailed boots are caked in dust and mud.~
+~
+9 0 1
+7 15 10 5
+25 1095 109
+A
+19 7
+A
+18 1
+A
+2 -3
+#4534
+green silken sleeves~
+green silken sleeves~
+These fine silken sleeves are amazingly resistant.~
+~
+9 0 1
+30 3 25 15
+2 1100 110
+A
+18 3
+A
+2 3
+A
+3 -2
+#4535
+gaudy quartz ring~
+quartz ring~
+A guady ring of brass set with a large quartz gem.~
+~
+3 64 1
+80 5 3 44
+15 750 75
+A
+4 1
+#4536
+brown silk robe~
+brown silk robe~
+A dusty brown silk robe is very well made.~
+~
+12 262144 1
+0 0 0 0
+5 40000 4000
+A
+12 20
+A
+3 2
+A
+4 2
+A
+19 -4
+A
+18 -4
+A
+5 2
+#4537
+flowery apron~
+a flowery apron~
+A apron has carefully embrodired flowers on it.~
+~
+9 262144 1
+5 3 10 6
+3 1255 125
+A
+1 -2
+A
+14 -50
+A
+2 2
+A
+5 2
+A
+18 5
+#4538
+grey velvet dress~
+a simple grey dress~
+This grey velvet dress was made with the utmost care.~
+~
+12 262144 1
+0 0 0 0
+20 20000 2000
+A
+18 -5
+A
+4 2
+A
+2 3
+#4539
+boots leather~
+sturdy leather boots~
+This pair of leather boots are looking a little worn.~
+~
+9 262144 1
+7 50 10 7
+15 575 57
+A
+14 10
+A
+3 -1
+A
+19 5
+#4540
+tan axe~
+a tan axe~
+This tan colored axe is a tool and a weapon for a caravaneer.~
+~
+5 0 1
+0 6 12 0
+15 955 95
+A
+12 -50
+A
+19 3
+A
+18 3
+A
+1 1
+A
+14 10
+#4541
+woolen tunic~
+a simple tunic~
+This woolen tunic shows the stains of much wear.~
+~
+12 262144 1
+0 0 0 0
+5 300 30
+A
+12 -20
+A
+4 1
+A
+2 1
+A
+1 1
+#4542
+money belt~
+a leather belt~
+This leather belt has a opening on the inside to store small items.~
+~
+15 262144 1
+20 1 0 0
+5 850 85
+#4543
+black silk scarf~
+a black silk scarf~
+This black silk scarf can easily be pulled up to hide the face.~
+~
+9 4 0
+15 10 100 20
+4 15000 1500
+A
+4 -4
+A
+19 5
+A
+3 5
+#4544
+black leather pants~
+dark black pants~
+These black leather pants seem to suck in the light.~
+~
+9 4 0
+75 25 80 20
+20 1325 132
+A
+1 1
+A
+5 -3
+A
+2 10
+#4545
+halabred~
+a krosian halabred~
+The sunlight glints off the sharp edge of this halabred.~
+~
+5 1024 1
+0 6 13 0
+20 1095 109
+#4546
+black gloves thin~
+thin black gloves~
+These gloves give full control of the hand yet offer excellent protection.~
+~
+9 4 0
+10 5 45 20
+3 1100 110
+A
+12 -10
+A
+2 2
+#4547
+priest robe scarlet~
+a scarlet robe~
+A priest of Beowolf's scarlet robe hangs on a hook.~
+~
+9 4 0
+30 40 35 55
+5 1300 130
+A
+2 -1
+A
+12 50
+#4548
+holy aura~
+a holy aura~
+The weight of belief rests around the object with a holy aura~
+~
+9 1 0
+30 40 30 50
+25 0 0
+A
+1 -2
+A
+4 5
+A
+12 20
+#4549
+unholy mitre~
+unholy mitre~
+This mitre is used by the high priests of Beowolf.~
+~
+5 4 0
+0 6 24 0
+5 0 0
+A
+2 -2
+A
+12 50
+A
+14 -100
+A
+19 5
+A
+18 5
+#4550
+burden judgement~
+the burden of judgement~
+The burden of judgement is not a light burden.~
+~
+12 2 0
+0 0 0 0
+200 10000 1000
+A
+3 5
+A
+4 5
+A
+18 5
+A
+19 2
+A
+2 -2
+#4551
+light truth~
+the light of truth~
+The light of truth guides those who follow Draven.~
+~
+1 64 0
+0 0 100 0
+5 1255 125
+A
+18 10
+A
+3 1
+A
+12 50
+A
+5 -1
+A
+14 -50
+#4552
+shield light~
+shield of light~
+This shield is made of pale yellow light crafted by a high priest of Allanon.~
+~
+9 1 0
+40 20 30 50
+25 1545 154
+A
+4 2
+A
+18 3
+A
+12 -30
+#4553
+inspiration~
+an inspiration~
+This priceless inspiration encourages you to build.~
+~
+3 1 0
+90 2 1 -1
+50 0 0
+#4554
+krosian arm bracer~
+krosian arm bracers~
+Finely crafted bracers of Krosian iron protect the flesh very well.~
+~
+9 1024 1
+35 10 40 25
+25 1775 177
+A
+2 -1
+A
+18 2
+#4555
+steel glaive~
+sharp steel glaive~
+This steel glaive is specially crafted by the mages and the blacksmith.~
+~
+5 2 0
+0 6 23 0
+35 4535 453
+A
+19 10
+A
+18 4
+A
+1 2
+A
+2 -1
+A
+12 -30
+#4556
+ornate key~
+an ornate key~
+This ornate key can open the way to interesting adventures.~
+~
+18 0 1
+0 0 0 0
+2 1000 100
+#4557
+banded mail krosian~
+krosian banded mail~
+The Krosian banded mail is exceptionally well crafted.~
+~
+9 1024 1
+20 35 25 15
+45 795 79
+A
+18 5
+A
+1 -1
+A
+2 2
+#4558
+disintary yellow pill~
+yellow disintary pill~
+This yellow pill looks hardly edible.~
+~
+26 0 1
+90 43 -1 72
+1 750 75
+#4559
+piss mug~
+cracked mug~
+This cracked mug is filled with Blye's Piss, a local beer.~
+~
+17 32768 0
+10 10 3 1
+10 450 45
+#4560
+prison key~
+a crude prison key~
+This iron key is very crudely made.~
+~
+18 0 1
+0 0 0 0
+1 100 10
+#4561
+guard table~
+guard table~
+This table contains a variety of prisoners' possesion.~
+~
+15 0 0
+100 0 0 50
+1000 1000 100
+#4562
+old chair~
+old chair~
+This old chair looks like it will fall apart if touched.~
+~
+12 2097152 1
+2 1000 18448 250
+50 4500 450
+#4563
+town old~
+old map~
+This is an old map of Goblin Town before the war.~
+~
+12 0 1
+0 0 0 0
+1 1075 107
+E
+map~
+North Gate
+  Leadership Jewler    Wealthy  |
+             |________|---------|Guilds
+              |   Trainer       |
+             _|______|          |
+                     |__________|
+                     |     City Hall
+                    Town Park
+~
+#4564
+mulled wine mug~
+steaming mug~
+This mug is filled with mulled wine.~
+~
+17 0 1
+20 20 2 0
+5 250 25
+#4565
+roast chicken~
+roast chicken~
+This roast chicken smells wonderful and the skin is only slightly burnt.~
+~
+19 0 1
+100 0 0 1
+1 355 35
+#4566
+black oak wand~
+black oak wand~
+This stick of black oak is inscribed with silver.~
+~
+3 64 1
+100 3 1 -1
+3 1050 105
+#4567
+black ash staff~
+black ash staff~
+This ash staff sucks in light.~
+~
+4 4 0
+95 5 2 25
+5 3985 398
+#4568
+tattered picture~
+a tattered picture~
+This old piece of parchment contains a hand drawn portrait.~
+~
+8 524288 1
+0 0 0 0
+1 0 0
+E
+portrait~
+A thin man sits on a boulder of grantite.  His face is slightly lined and
+weather from long exposer to wind and sun.  His eyes are a dark blue like
+the evening sky.  A brown beard streaked with white hangs down his chest. 
+His long hair blows gently in a wind.  
+This portrait is of Terram from many years ago.
+~
+#4570
+gossip~
+a bit of gossip~
+You overhear a snatch of juicy gossip.~
+~
+10 0 1
+50 72 17 33
+1 100 10
+E
+gossip~
+The caravan masters sell passes to join the caravans via the private
+gates.  Except one.  That weasal has the ear of the Guildmaster.  He even
+has a key!  
+~
+#4571
+horn depths~
+a giant horn~
+The horn of the depths rests heavily on the dry earth.~
+~
+3 64 1
+50 5 2 -1
+25 6000 600
+#4572
+scroll ratty~
+a ratty scroll~
+A ratty old scroll slowly browns with age.~
+~
+2 1048576 1
+150 -1 -1 59
+1 2000 200
+#4573
+greeves goblin grey~
+a set of grey greeves~
+A dented pair of greeves of goblin make need some repair.~
+~
+9 1048576 1
+40 20 100 75
+6 1000 100
+A
+5 2
+A
+1 -1
+#4574
+pin~
+pin~
+A small straight  pin sticks in a piece of fabric.~
+~
+13 4 1
+0 0 0 0
+1 0 0
+A
+2 -1
+A
+12 20
+#0
+
+
+#ROOMS
+#4500
+Tunnels~
+On the the west, north and east walls of this tunnel are sets of
+shackles.  From one a skeletal hand still hangs, held together by dried
+tendons.  A large amount of knawed bones cover the floor.  Surprisingly
+there is no rotted fabric as if the corpses where naked.  Looking closer at
+the bones you are slightly relived to find out that most of the bones are
+horse or cow.
+~
+0 1 0
+D2
+~
+~
+0 0 4527
+D4
+~
+~
+7 4521 4583
+S
+#4501
+Temple to Draven~
+You enter a large squat temple.  The murals show individual honor as well
+as victories lead by Draven.  Upon the left side is the judgment chair,
+where judges of Draven hear the pleas of those arrested and pass judgment, a
+sign on the wall shows all judgments.  The insence calms you and soothes
+you, making it easy for self reflection.
+~
+0 8 0
+D2
+~
+~
+1 0 4505
+E
+sign~
+Most of the judgments are just common thefts.  However you do note that
+the capture of a corrupt caravan master is required.  The exotic wares
+dealer has been empoered to give money for the capture of the caravan
+master's seal.  Getting the seal will effectively ruin the caravan master.  
+~
+S
+#4502
+Temple to Beowolf~
+This grand temple is dedicated to the evil and perveristy of Beowolf. 
+The walls are covered with stomache churning pictures of the abyss.  The
+floor is a mosiac of the power of the psionist.  Reliefs on the ceiling show
+the early conquests of evil.  Black and red mats are spread across the
+floor.  On many of the mats are worshipers from all classes and races.
+~
+0 8 0
+D0
+~
+~
+1 0 4503
+D2
+~
+~
+1 0 4541
+S
+#4503
+Inner Sacntum~
+Murals of the greatest atrocities of the wars cover the walls.  The
+ceiling is dominated by a rendition of Midgaard being sucked into the abyss.
+On the back wall is an altar with a idol of Beowolf done in cold black onyx.
+The altar is stained brown with dries blood.  A variety of priestly 'tools'
+are in a black oak cabinet against the side wall.
+~
+0 8 0
+D2
+~
+~
+1 0 4502
+D5
+~
+trap~
+7 4522 4596
+E
+cabinet~
+With all the mystical symbols and palable evil on on the cabinet, you
+decide to leave the cabinet alone.  
+~
+E
+altar~
+Looking closely you notice the the stone is scratched near the base of
+the altar.  Perhaps the altar hides a trap door.  
+~
+S
+#4504
+Shrine of Allanon~
+You enter the small hidden shrine of Allanon.  A sense of relief and
+safety washes over you.  Some pictures of Allanon leading the forces of
+goodness to victory hang on the walls.  Against the back wall is a small
+altar to Allanon.  There are a couple small pallets against the wall for
+those in need.  A few worshipers sneak in as you look around.
+~
+0 1024 0
+D1
+~
+~
+3 0 4517
+E
+altar~
+The altar is simple but you see that everyone treats it with extreme
+reverence.  
+~
+S
+#4505
+Prison~
+You have wandered into the prison.  The ceiling is two stories up. 
+Against the east wall are two platforms which allow people to shoot out the
+arrow slits.  The north wall is dominated my a set of large open doors that
+leads into the temple of Draven.  The south has a small door as well.  The
+east wall has a two tables flanking another door.
+~
+0 8 0
+D0
+~
+~
+1 0 4501
+D1
+~
+~
+3 0 4537
+D2
+~
+~
+1 0 4511
+D3
+~
+~
+7 4560 4506
+E
+table~
+It looks like people are gambling over some belongings.
+~
+E
+platform~
+These platforms all a clear firing arc across the whole room and out into
+the street.  
+~
+S
+#4506
+Prison~
+You enter a dark stinking pit.  A bit of light streams through from the
+main guard room.  You see cells filled with pitiful wenches.  The low moans
+from the prisoners echos of the high arched ceilings.  Although the prison
+just recently opened it seems to have filled quickly.
+~
+0 1 0
+D0
+~
+~
+7 4560 4507
+D1
+~
+~
+7 0 4505
+D2
+~
+~
+7 4560 4510
+D3
+~
+~
+3 0 4509
+S
+#4507
+Prison~
+This pest hole is filled with weeping peasants protesting their
+innocence.  A set of shakles hanging on the wall are a reminder to any that
+cause trouble.  This is by far the cleanest of the cells.  There is new
+piles of straw and two chamber pots.  This must be the place where people
+going to trial wait.
+~
+0 1 0
+D0
+You notice the one of the piles of straw is against the back wall, away
+from all the others.  
+~
+crack~
+3 0 4508
+D2
+~
+~
+7 0 4506
+S
+#4508
+Tunnels~
+You crawl along a tunnel dug through dirt and rock.  As you go along a
+bit of dirt falls from the ceiling.  You wonder if you would ever be found
+if the ceiling caved in.  You hear some scurings and wonder what is down
+here with you.  After what seems like forever the passage way ends in a
+blank wall like it began.
+~
+0 1 0
+D2
+~
+crack~
+3 0 4507
+D5
+Under a bit of sand you find a wooden trap door.  
+~
+trap~
+3 0 4599
+S
+#4509
+Prison~
+You enter a large plain grey stone cell.  The walls are thick enough to
+block out all but the loudest cries for help.  The stink is an over powering
+stench of sweat, fear, and bodily waste.  A ticket of straw serves as the
+one bed for this large cell.  There is also only one bucket.
+~
+0 1 0
+D1
+~
+~
+3 0 4506
+S
+#4510
+Prison~
+This little cell stinks or mildew and waste.  There are some chains
+against the back wall but they look like they have never been used.  In one
+corner is a bucket, the other has a bit of straw.  This room is very dark,
+the only light is the dim light of torches that the guards carry.
+~
+0 1 0
+D0
+~
+~
+7 0 4506
+E
+bucket~
+You suddenly realize that this is the only container in the room.  You
+wonder whether it is for waste or water ...  Or both.  
+~
+S
+#4511
+Barracks~
+You enter a cool room.  There are no windows, only arrow slits.  The bed
+line both sides of the room.  People relax while waiting for their shift. 
+Near the doors other soldiers repair their weapons.  The north door opens
+into the prison.  The south door opens into the Krosian Embassy courtyard.
+~
+0 8 0
+D0
+~
+~
+1 0 4505
+D2
+~
+~
+1 0 4516
+S
+#4512
+Charred Corpse Club~
+This room is filled with smoke from both a large fire and many of the
+patrons enjoying a pipe.  A couple of chickens are being roasted over the
+fire.  The floor has some loose straw covering it.  Tables are scattered at
+random across the floor.  In the back is a counter with many types of
+locally available beverages.
+~
+0 8 0
+D1
+~
+~
+3 0 4513
+D3
+~
+~
+0 0 4586
+S
+#4513
+Back Room~
+This room is filled with tuns of wine and kegs of ale.  There is a simple
+table in the back with some half chopped up vegtables on it.  You hear
+people from the south and the main room to the west.  You also notice some
+bottles which must contain local vintages, Goblin Grog, Orge Blood, and
+Mell's Moonshine.  Most of them are covered in dust as if they have not been
+touched in some time.
+~
+0 8 0
+D0
+~
+~
+3 0 4514
+D2
+~
+~
+0 0 4515
+D3
+~
+~
+3 0 4512
+D5
+~
+~
+7 0 4525
+S
+#4514
+Gambling Den~
+This small room contains a single table.  Around the table are some
+people in wealthy attire.  Priestly lights glow in the corners of this room
+providing nice even lighting.  A very complicated game of plaques is being
+played at this table.  A large pot of gold coins sits in the middle of the
+table.
+~
+0 8 0
+D2
+~
+~
+3 0 4513
+S
+#4515
+Gambling Den~
+The air is very heady here.  Insence burns in one corner and mixed with a
+haze of smoke coming from the pipes of the people in the room.  There are
+four tables here.  At each one people are playing plaques and other games of
+chance.  The people running the tables take a cut from each game, especially
+the games that have the most sloshed players.
+~
+0 8 0
+D0
+~
+~
+0 0 4513
+S
+#4516
+Noble Embassy~
+You enter the inner court yard of the Krosian Embassy.  You notice a lot
+of recent work.  There are new cobbles on the ground.  The walls have all
+been repaired and whitewashed.  To the south is the main building of the
+Embassy.  The barracks makes the north wall of this court yard.  The west
+wall is part of the recently built prison.
+~
+0 0 1
+D0
+~
+~
+1 0 4511
+D1
+~
+~
+3 0 4536
+D2
+~
+~
+3 0 4517
+S
+#4517
+Noble Embassy~
+The walls are covered in velvet.  Crossed swords and shields hang on the
+walls.  This is the recieving room for those who wish to beseach the embassy
+of the kingdom of Krosian.  There are a couple padded chairs and benches for
+petetioners along the walls.  There are presently no petitioners in this
+room.
+~
+0 8 0
+D0
+~
+~
+3 0 4516
+D3
+~
+~
+3 0 4504
+S
+#4518
+The Dump~
+This part of town has been abandoned for good reason.  Very few of the
+buildings are standing.  Bodily waste as well as food scraps lay in piles. 
+The buzzing of the flys never ends.  You have a hard time keeping your
+stomache steady.  You seen an occasional dog or kobold fighting for scraps.
+~
+0 0 1
+D0
+~
+~
+0 0 4536
+D1
+A line of partially fallen in buildings marks the eastern boundry of the
+dump.  
+~
+~
+3 0 4520
+S
+#4519
+The Refuge~
+You have entered the refuge.  This is the place where those who have no
+where else to go find themselves.  The many rooms of this building are
+filled with the poor and the sick.  Many of them tend to each others needs. 
+In the center of the main room is a large fire around which people roast
+rats and less distinguishable things.  On either side of the door are two
+large stone gargoyles.  Legend has it that during the war the gargoyles
+animated to protect this group of houses from the forces of Beowolf.
+~
+0 8 0
+D2
+~
+~
+0 0 4595
+S
+#4520
+Kobold Pen~
+The stench of shit and decay is overpowering!  Decaying flesh and
+vegitation litter the floor.  The crying of babies, the yelping of adults,
+and screams of pain assult your ears.  You begin to wonder what type of
+nightmare you walked in on.  Walking carefully you note that this entire
+room is made of stone, even the roof.
+~
+0 1 0
+D1
+~
+~
+3 0 4523
+D3
+~
+~
+3 0 4518
+D5
+~
+~
+7 4521 4598
+S
+#4521
+Goblin House~
+This room is in decent shape.  Other than piles of flea riden tattered
+blankets on the floor this room is clean and in good repair.  The walls are
+caulked and some wall hangangs add some decoration.  From the west comes the
+faint scent of decay.  The sound of goblin talk comes from the south.
+~
+0 1 0
+D1
+~
+~
+3 0 4590
+D2
+~
+~
+0 0 4522
+D3
+~
+~
+0 0 4523
+S
+#4522
+Goblin House~
+The floor is littered with wood shavings and shards of rock.  This room
+is filled with solid wooden tables.  You see goblins working at most of the
+tables.  At one table the goblins are carving toys and at another they are
+smoothing a table legs.  At a big table near the center of the room a group
+of goblins is slowly carving a marble table top.
+~
+0 1 0
+D0
+~
+~
+0 0 4521
+D3
+~
+~
+0 0 4524
+S
+#4523
+Goblin House~
+This room smells slightly of decay.  There are long counters against each
+wall and a smokey fire in the center of the room.  There is a refuse heap in
+the corner.  A goblin walks in with a platter fills it from the heap and
+walks out a gain.  With a sinking feeling you realize that is not refuse but
+food for the goblins.  You can faintly hear some yammering from the west.
+~
+0 0 0
+D1
+~
+~
+0 0 4521
+D3
+~
+~
+3 0 4520
+S
+#4524
+Goblin House~
+Golden Lanterns light this room.  A large marble table fills the room. 
+On the walls are some beautiful pictures.  Against the back wall is a pile
+of silks and pillows.  An open trunk of cloths sits near it.  Spread across
+the table are charts and letters written in goblin.
+~
+0 0 0
+D1
+~
+~
+0 0 4522
+E
+table~
+You can not seem to make out anything from what you see.  
+~
+S
+#4525
+Hidden Room~
+This sub basement is surprisingly dry and clean.  Padded chairs and
+pillows sit near the middle.  The stone floor is covered by a thick woolen
+rug.  Very fine wines sit in fancy wine racks along the north and east
+walls.  A trap door is clearly visible in the south west corner.  A ladder
+leans against the wall underneath it.
+~
+0 8 0
+D2
+~
+~
+6 4520 4528
+D3
+~
+~
+6 4509 4527
+D4
+~
+~
+7 0 4513
+S
+#4526
+Tunnels~
+A multitude of tunnels meet in this cavern.  Some are no bigger than a
+fist others large enough for a dragon.  The floor is covered by a couple
+feet of water.  Occasionaly you notice a white fish swimming along.  After a
+bit of careful exploration you find that most of the tunnels go back no more
+than 100 feet back.
+~
+0 1 1
+D1
+~
+~
+0 0 4527
+D2
+~
+~
+0 0 4598
+D3
+~
+~
+0 0 4599
+S
+#4527
+Tunnels~
+This large tunnel slowly winds its way upwards.  The walls slowly weep
+water into the passageway.  Spiders and rats scuttle away before you.  The
+tunnel levels off and the walls become fitted stone.  Then after no more
+than 50 feet the tunnels slopes back down into the bedrock.
+~
+0 1 0
+D0
+~
+~
+0 0 4500
+D1
+~
+~
+6 4509 4525
+D3
+~
+~
+0 0 4526
+S
+#4528
+Tunnels~
+This passageway winds through the black stone heart of the town. 
+Stagnant water stand in pools as the tunnel descends.  Occasionly you come
+across knawed bones and piles of rotting rags.  You hear rats scattering
+before you.  The tunnel starts to dry as the tunnel begins to slope upwards.
+~
+0 1 0
+D0
+~
+~
+6 4520 4525
+D2
+~
+~
+0 0 4597
+D3
+~
+~
+0 0 4596
+S
+#4529
+Caravan Square~
+Dust is every where as well as the smell of animals.  You see camels,
+horses, mules, and much stranger animals.  Boxes and bundles are unloaded
+and loaded from various carts.  All along the edge of the square are large
+tents that the caravan masters own.  All agree that the caravans have
+brought in more people and trade to the town.
+~
+0 0 1
+D0
+~
+~
+0 0 4531
+D1
+~
+~
+0 0 4530
+D2
+~
+~
+0 0 4533
+D3
+~
+~
+0 0 4537
+S
+#4530
+Caravan Square~
+You are on the eastern side of the square.  A caravan is sitting here. 
+It looks like is is ready to leave.  Although there is less activity on this
+side of the square, there is just as much dust.  Many people come here to
+gawk at the animals.  Some search out the caravan masters, either for items
+of particular interest or to join a caravan out of this town.
+~
+0 0 1
+D0
+~
+~
+0 0 4534
+D2
+~
+~
+0 0 4532
+D3
+~
+~
+0 0 4529
+S
+#4531
+Caravan Way~
+You enter a cool green tent.  The silk walls and curtains are slightly
+dappled and they give an impression of leaves.  A bird cage sits behind a
+potted shrubbery.  A bed roll of silk and wool is spread across the floor. 
+Against the back wall is a fancy writing desk.  This is by far the plainest
+of the tents but it is very relaxing.
+~
+0 8 1
+D2
+~
+~
+0 0 4529
+E
+bird~
+A pale yellow songbird adds a bit of music to the room.  If you slit your
+eyes you can almost immagine yourself in a forest.  
+~
+E
+desk~
+On the desk is a caravan schedule.  It shows that a caravan is in the
+process of leaving from the west caravan gate.  
+~
+S
+#4532
+Caravan Square~
+You enter a dusty blue silk tent.  The tend provides some welcome shade
+and also lets you get out of the dust.  This tent seems rather quiet.  There
+is a large cot against the back wall.  A clothes chest is under the cot.  On
+a nicely carved desk near the entrance is a schedule for this caravan.
+~
+0 8 1
+D0
+~
+~
+0 0 4530
+E
+chest~
+It is a plain clothes chest with nothing of interest.
+~
+E
+desk~
+The schedule shows that a caravan belonging to this master, will not be
+arriving for another couple weeks.  
+~
+E
+schedule~
+This schedule shows the comings and goings of caravans owned by this
+master.  Nothing is scheduled for the next couple of weeks.  
+~
+S
+#4533
+Caravan Square~
+A slight breeze ruffles the orange silks of this tent.  This tent is very
+neat.  The pillows are laid in an orderly pile and the bead is made.  A desk
+is resting near the center of the room.  The breeze stirs the hanging guaze
+curtains.  You notice a tub of bronze hidden in the corner.
+~
+0 8 1
+D0
+~
+~
+0 0 4529
+E
+desk~
+The desk is a simple but well made affair.  The grain shows up very well
+from the dark wood.  There is an ink pot and other writing materials neatly
+aranged in the corner.  The center of attention is the caravan schedule. 
+The schedule shows that a caravan will be leaving from the south gate some
+time soon.  
+~
+E
+tub~
+This tub is very simple but it is still a luxury in this dusty town.  You
+notice that there is a fire pit under the tub to heat up the water.  
+~
+S
+#4534
+Caravan Square~
+This tent is done in a pale pink.  There are some very fine woven rugs
+covering the floor.  An inticately carved bed rests against the back of the
+tent.  Guassy curtains hang from the ceiling, stopping dust from entering
+and noise from leaving.  A small desk with a marble top is against the west
+wall.
+~
+0 8 1
+D1
+Examining the curtain you see it covers a wooden door with a intricate
+brass lock.  
+~
+curtain~
+39 4504 4535
+D2
+~
+~
+0 0 4530
+E
+desk~
+Looking at the desk you see a travel log.  Looking at the log you see
+that there should be a caravan arriving through the east gate today.  
+~
+S
+#4535
+Caravan Square~
+There are a rainbow of silk pillows covering the floor.  The walls have
+some very murals.  The back corner has a beautiful carved desk and cabinet. 
+There are no windows but there is a shelf for a lamp near the door.  The
+wooden door to the east is very solid.  The air smells faintly of inscence
+or possibly a drug.
+~
+0 1 0
+D3
+~
+~
+39 0 4534
+E
+cabinet~
+Inside the cabinet you find a bunch of documents.  You realize these are
+the cargos and the prices of the other caravans.  Why would they be here? 
+Searching a little more you find a letter.  The broken wave seal is a tg. 
+The letter says come to my hall when you have information on the tunnels or
+a way to kill the other Masters.  
+~
+E
+desk~
+This beautiful desk contains nothing but an ink well.  
+~
+S
+#4536
+Caravan Lane~
+This is very odd.  Just to the south the dumb starts, which you can tell
+by both sight and scent.  But to the west is the Embassy of Krosian with its
+beautiful rebuilt walls, and soldiers in shining armor.  The street is
+nearly deserted except for a couple goblins carring trash towards the south.
+You notice that very few of them seem to come back out.
+~
+0 0 0
+D0
+~
+~
+0 0 4537
+D2
+~
+~
+0 0 4518
+D3
+~
+~
+3 0 4516
+S
+#4537
+Caravan Lane~
+You walk a long a narrow lane.  Vendors hawk their wares and people hurry
+along on unknown business.  Most them seem to be hurring to the north or
+east.  To the east is the large open Caravan Square.  To the west is a large
+newly repaired building, it is the prison.  Arrow slits watch over the
+street above the doors.
+~
+0 0 1
+D0
+~
+~
+0 0 4538
+D1
+~
+~
+0 0 4529
+D2
+~
+~
+0 0 4536
+D3
+~
+~
+3 0 4505
+E
+arrow~
+You see the glint of metal and realize that this street is being watched
+carefully.  
+~
+S
+#4538
+Temple Way~
+To the west is the squat bulk of the temple of Draven.  Temple Way runs
+east from here.  North and south runs Caravan Lane.  From the south a breeze
+carries a slightly nauseating smell.  As the breeze switches direction you
+faintly sniff perfume from the north.
+~
+0 0 1
+D0
+~
+~
+0 0 4542
+D1
+~
+~
+0 0 4539
+D2
+~
+~
+0 0 4537
+S
+#4539
+Temple Way~
+The road is not too bad, there are even some more or less level stones. 
+This road runs more or less east and west.  In the distance to the west you
+see the small temple to Draven, to the east rising above the other buildings
+is the temple to Beowolf.  To the south is a large building with a dirty
+silk sceen as a door.
+~
+0 0 1
+D0
+~
+~
+1 0 4571
+D1
+~
+~
+0 0 4540
+D2
+~
+~
+0 0 4564
+D3
+~
+~
+0 0 4538
+S
+#4540
+Temple Way~
+The road is not too bad here.  It is more or less level and not too much
+dust.  A small two story shop selling parchment and other writing supplies
+is to the north.  The ring of the forge is easily heard from the smokey
+building to the south.  The road goes east and west.  You can see the temple
+of Beowolf towering to the north east.
+~
+0 0 1
+D0
+~
+~
+0 0 4565
+D1
+~
+~
+0 0 4541
+D2
+~
+~
+0 0 4569
+D3
+~
+~
+0 0 4539
+S
+#4541
+Temple Way~
+The road does not seem to kick up as much dirt here.  There is even a
+poor atempt at cobbels.  To the north is a large temple to Beowolf.  A
+steady stream of people go in and out the front door.  To the south is a
+wreck that was once the city hall.  The building is closed up and it does
+not look very stable.  The road goes both west and east.
+~
+0 0 1
+D0
+~
+~
+1 0 4502
+D1
+~
+~
+0 0 4554
+D3
+~
+~
+0 0 4540
+S
+#4542
+Caravan Way~
+The dusty road curves its way among the buildings.  To the south is the
+busy center of town.  The road turns to the west to enter the slums of the
+town.  (Theres a difference?)  Quite a ruckess is coming from the north. 
+Above the door is the sign of a arena.  To the east is a surprisingly well
+restored building.  It is three stories tall and looks very sturdy and
+clean.
+~
+0 0 1
+D0
+~
+~
+1 0 4584
+D1
+You catch a faint wisp of perfume and soft music from the east.  
+~
+~
+0 0 4557
+D2
+~
+~
+0 0 4538
+D3
+~
+~
+0 0 4543
+S
+#4543
+Caravan Way~
+The dusty road continues between run down buildings.  A few huddled forms
+hurry along.  The setting sun casts long dark shadows.  Occasionally you see
+a form move in the shadows.  As the sun sets the town actually begins to
+look better as cracks and decay are hidden.
+~
+0 0 1
+D1
+~
+~
+0 0 4542
+D2
+~
+~
+1 0 4573
+D3
+~
+~
+0 0 4544
+S
+#4544
+Caravan Way~
+With very little fanfare Caravan Way comes to an end.  To the west stands
+the west caravan gate.  To the north runs a small alley between abandoned
+buildings that leads deeper into the slums.  Caravan Way begins or ends
+here, depending on how you look at it, but the road stretches off to the
+east into the better part of town.  A tall building with a few burn marks is
+to the south.  Looking closer you see a sign of a pot of gruel over the
+door.
+~
+0 0 1
+D0
+~
+~
+0 0 4545
+D1
+~
+~
+0 0 4543
+D2
+~
+~
+0 0 4570
+S
+#4545
+Broken Way~
+This little alley twists and turns between the falling down buildings of
+the slums.  Beggars crowd the buildings and gangs of kids wander the
+streets.  Anyone is a target here.  To the north and west are partially
+rebuilt buildings.  Occasionally a tradesman wanders by guarding his purse
+or looking for workers.
+~
+0 0 1
+D0
+~
+~
+0 0 4594
+D1
+~
+~
+0 0 4546
+D2
+~
+~
+0 0 4544
+D3
+~
+~
+0 0 4595
+S
+#4546
+Broken Way~
+The buildings grow closer together blocking much of the light of day. 
+Watching closely you realize that this stretch of alley is occupied by small
+scurrying creatures and diseased beggars.  The stench of decay and waste is
+bad.  You are surprised to see an occasional tradesman or beggar bring food
+and water to one of the suffering.
+~
+0 0 1
+D0
+~
+~
+0 0 4547
+D3
+~
+~
+0 0 4545
+S
+#4547
+Broken Way~
+This alley runs through what was once a richer area.  Many of these
+buildings have walls around them and small yards.  On the hill to the east
+is the old Manor, you have heard that the front gate on Goblin Gang Way has
+not been opened in years.
+~
+0 0 1
+D0
+~
+~
+0 0 4549
+D1
+~
+~
+3 0 4548
+D2
+~
+~
+0 0 4546
+D3
+~
+~
+3 0 4593
+S
+#4548
+Slums~
+This broken down old building is surprisingly clean.  You notice a large
+bread oven and a broken counter.  Scanning around you realize this must have
+been a large kitchen and bakery.  Looking out a window in the east you guess
+it was probably for the old manor.  The roof still looks pretty solid and
+you wonder there is no evidence of any of the beggars sleeping here.
+~
+0 8 1
+D1
+~
+~
+3 0 4575
+D3
+~
+~
+3 0 4547
+S
+#4549
+Break Way~
+This little alley twists between the old buildings in the slums.  Many
+old buildings are closed up but some poor work slowly at repairing some of
+the buildings.  To the north is town wall the surrounds the town.  The north
+gate is to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 4550
+D2
+~
+~
+0 0 4547
+S
+#4550
+The Northern Gate~
+You stand under the simple wooden gate.  A few farmers and other people
+wander in and out of town.  The road stretches north across the grasslands.
+To the south is Goblin Town.  This town is slowly rebuilding after the war. 
+Surprisingly the goblinoids and humans have been working together to restore
+the town.
+~
+0 0 1
+D0
+~
+gate~
+1 0 4592
+D1
+~
+~
+39 463 463
+D2
+~
+~
+0 0 4551
+D3
+~
+~
+0 0 4549
+S
+#4551
+Goblin Gangway~
+Above the dust rising from the street are the town walls.  Although the
+city was over run during the wars, the walls are still in good shape.  The
+north gate is the only public entrance to this city.  To the east is the
+open market where farmers and crafters come to sell product.  A few of the
+houses to the west have been taken over by farmers that do not trust being
+outside the city walls.
+~
+0 0 1
+D0
+~
+~
+0 0 4550
+D1
+~
+~
+0 0 4568
+D2
+~
+~
+0 0 4552
+S
+#4552
+Goblin Gangway~
+The old buildings in this neighborhood are in bad shape.  To the west is
+the old manor house on the hill.  It use to be owned by one of the most
+influential merchant in the land.  That was all before the wars of course. 
+Many of these old buildings are closed up and have not been lived in since
+the war.
+~
+0 0 1
+D0
+~
+~
+0 0 4551
+D2
+~
+~
+0 0 4553
+D3
+A tall strong wall runs along the street.  There is one fancy gate but it
+has long been sealed.  
+~
+~
+7 0 4575
+S
+#4553
+Goblin Gangway~
+You walk along the dust filled street.  The air is hot and damp.  The
+odor of unwashed bodies and animal waste assalts your nostrils.  Over the
+tops of the buildings to the west rises the large Temple of Beowolf.  To the
+north is the old upperclass part of town and the one real road out of town. 
+To the south are some shops and taverns.
+~
+0 0 1
+D0
+~
+~
+0 0 4552
+D1
+~
+~
+0 0 4555
+D2
+~
+~
+0 0 4554
+S
+#4554
+Temple Way~
+The Temple Way intersects Goblin Gangway.  A wide mix of people travel
+though this intersection.  You see goblins and humans, tradesman and
+priests, and even some members of other races and occupations.  North and
+south along Goblin Gangway are guild halls and one of the better bars in
+town.
+~
+0 0 1
+D0
+~
+~
+0 0 4553
+D1
+~
+~
+0 0 4566
+D2
+~
+~
+0 0 4586
+D3
+~
+~
+0 0 4541
+S
+#4555
+Slit Street~
+Slit Street is no more than a dark alley crunched between buildings.  You
+have heard rummors that this is a dangerous area.  To the south is a
+building that looks more like a fort.  A stone wall surrounds the building
+and you see occasional guards move in the shadows.  To the north is a run
+down old building with the faded sign of a locksmith over the door.
+~
+0 0 1
+D0
+~
+~
+0 0 4581
+D1
+~
+~
+0 0 4556
+D2
+~
+~
+0 0 4572
+D3
+~
+~
+0 0 4553
+S
+#4556
+Slit Street~
+Slit Street ends in a cul de sac.  There are a few blood stains around
+and a lot of trash.  You can easily imagine people being chased in here and
+beaten or robbed.  A sign with a freshly painted white picket fence hangs
+above the door.  You notice a few shapes lurking in the shadows.
+~
+0 1 1
+D2
+~
+~
+0 0 4563
+D3
+~
+~
+0 0 4555
+S
+#4557
+House of Pleasure~
+This room is done in reds and purples.  A soft smoke wafts about, dulling
+the senses.  The walls are covered by beautiful emboirdered silks.  Large
+velvet cushions rest on the floor.  A rosewood desk sits in the corner.  A
+sweeping stairway leads up to a room upstairs.  A billowing red curtain
+covers a door to the east.
+~
+0 0 0
+D0
+~
+~
+1 0 4574
+D1
+~
+~
+7 4556 4558
+D3
+~
+~
+0 0 4542
+D4
+~
+~
+7 4556 4559
+S
+#4558
+House of Pleasure~
+This rooms is warm and damp.  The floor is plain wood.  In the center of
+the room is a large brass tub standing over a fire.  Waves of steam roll
+from the tub and a pleasant herbal smell relaxes you muscles.  There are
+thick rich towels siting on the bench to one side.  A simple matress sits at
+the back of the room.
+~
+0 0 0
+D3
+~
+~
+7 4556 4557
+S
+#4559
+House of Pleasure~
+This room is taken up by a very large bed with an actual feather
+mattress.  A guaze curtain hangs around the bed alowing you to glimpse only
+shapes behind it.  Large velvet and silk pillows cover the floor of the
+room.  A silken dressing stand partisians off one corner of the room.
+~
+0 0 0
+D5
+~
+~
+7 4556 4557
+S
+#4560
+Gawrl's Guardians~
+This room smells of sweat and of animals.  The door in the back is
+slightly open and you catch glimses of many normal and exotic animals.  A
+stone counter seperates you from the cages in back.  Near the door you see a
+couple of oddly shaped prods.  There are a few saddles hanging from pegs on
+the wall.
+~
+0 4096 0
+D3
+~
+~
+0 0 4590
+S
+#4561
+~
+~
+0 4 0
+S
+#4562
+Miss Cellainous' Magic~
+This wooden building has a slate roof.  From the rafters are hung
+incenses and herbs.  Beautiful cases line the walls containing wands and
+staffs of powers.  Along the back wall are nitches for scrolls and books.  A
+set of fine chairs are aranged around a low table.  A "U" shaped counter
+allows customers to view the items with out getting too close to them.
+~
+0 8 0
+D1
+~
+~
+0 0 4589
+S
+#4563
+Picket Fence~
+This room is divided into two areas.  The front area has designs for
+wooden and metal fences and even a metal topped wall.  There is a sign near
+the door.  If you go around the pictures into the back you enter a very
+different area.  In cases along the back are various pieces of jewelry and
+gems.  You wonder what this store really offers.
+~
+0 8 0
+D0
+~
+~
+0 0 4556
+E
+sign~
+Proud designers of the Fortifications of Goblin Town.  
+~
+S
+#4564
+Exotic Wares~
+You enter a dim building.  Incense tickles your nose.  You see items from
+all over scattered around this store.  Some of the items, like a set of
+antique swords are in mint condition.  But in the corner you see a chair
+that is beginning to fall apart.  Trash and treasures are hidden in this
+room.
+~
+0 8 0
+D0
+~
+~
+0 0 4539
+S
+#4565
+The Scroll Shop~
+You entire a run down little shop.  The walls are covered with nitches
+that contain scrolls and papers and even a book or two.  A solid wood
+counter with many ink stains seperates you from the scrolls.  You have heard
+some gossip that no one has seen the owner of this store for years and that
+it is run by his apprentice.
+~
+0 8 0
+D2
+~
+~
+0 0 4540
+S
+#4566
+Verias' Velvet~
+The walls are covered in fine hangings.  The floor is covered with a
+beautiful rug.  Many finely carved chests stand open showing colored silks,
+soft velvets and comfy wools.  A silken partian stands in the back to let
+customers try on their clothes.  A table off to one side has knives and
+needles and a half finished dress.
+~
+0 8 0
+D3
+~
+~
+0 0 4554
+S
+#4567
+Liberated Surplus ~
+Supplies of all kinds line the walls and tables of this store.  Suits of
+armor rest in boxes along the walls.  Light sources rest against water
+skins.  Uniforms sit in rumpled heaps.  The walls of this building are good
+solid stone and the roof has been recently thatched.  The floor is swept
+clean and a single rug is near the door.  A bit disorganised but still a
+well kept store.
+~
+0 0 0
+D3
+~
+~
+0 0 4587
+S
+#4568
+Open Market~
+At the corner of the north and east walls of the town is an open air
+market.  A wide collection of farmers and crafters sell their goods from
+baskets or simple tables.  Here a goblin sells finished cabinets, there a
+young man sells fire wood, and over there a couple of farm wives are selling
+pies.
+~
+0 0 1
+D2
+~
+wall~
+3 0 4583
+D3
+~
+~
+0 0 4551
+S
+#4569
+The Smithy~
+Smoke stings your eyes and tickles your nose.  The dense black plumes of
+smoke are coming from a large fire pit in the center of the room.  You see a
+large anvil to one side of the pit.  The ringing of a metal against metal
+reverberates in your head.  Many items are sitting in piles waiting to be
+repaired or finished.
+~
+0 8 0
+D0
+~
+~
+0 0 4540
+S
+#4570
+Scott's Soup Kitchen~
+This building is need of a lot of repair.  The back wall has scorch marks
+up the length and a bit of charring near the bottom.  A grungy table runs
+down the middle of the room.  Cracked grey stone benches provide the only
+seating.  A large cauldron bubbles over a fire near the back wall.  The
+stink is terrible.
+~
+0 262144 0
+D0
+~
+~
+0 0 4544
+S
+#4571
+Demon Home~
+This building is a way house for demons.  The building is in good repair.
+All the windows have iron shutters and the door is of iron banded oak.  In
+the back room is a small chapel to various demon lords.  There are simple
+beds and chairs in the side rooms for people that want sanctuary.
+~
+0 8 0
+D2
+~
+~
+1 0 4539
+S
+#4572
+The Human Haven~
+This building is almost a fort.  The walls are all good solid stone.  The
+windows hardly more than arrow slits.  A stout fence surrounds this building
+keeping out those who do not belong.  Extra rooms and beds are always
+available for those who seek the shelter.  The main room has a large table
+for meals and planning sessions.
+~
+0 8 0
+D0
+~
+~
+0 0 4555
+S
+#4573
+The Scout Station~
+This building is build strong and solid.  Numerous rooms are available
+for scouts resting inbetween missions.  From the center of the building
+rises a slim tower which is used to watch for approaching caravans and
+bandits.  A board near the door posts opennings in caravans.
+~
+0 8 0
+D0
+~
+~
+1 0 4543
+S
+#4574
+The Vampire's Retreat~
+This suite of rooms is laviously decorated with a thick rugs and
+beautiful carvings.  Rich tapestries depicting Vampires engaged in the
+throws of feeding.  The rooms are set up for studing, relaxing, and private
+matters.  There is also a small library containing a surprising amount of
+ancient books.
+~
+0 1 0
+D2
+~
+~
+1 0 4557
+S
+#4575
+Fancy Manor~
+You wander through a very fancy manor.  This was once the house off an
+influencial man.  After the dark captured this town an Ogre took the manor. 
+The ogre took control of the city and ran it from this house.  The front
+gate to the east has long since been sealed, but a back door to the west
+through the old kitch is still open.
+~
+0 8 0
+D0
+~
+~
+0 0 4576
+D1
+~
+~
+7 0 4552
+D3
+~
+~
+3 0 4548
+S
+#4576
+Fancy Manor~
+You are in a very fancy study.  There are beautiful hardwood cabinets.  A
+huge black oak desk dominates the room.  There is a paper and ink pot on the
+table.  The shutters are closed and light is provided by a beautiful
+candalabra near the edge of the desk.  But the scent does not seem right, it
+smells like Ogre!
+~
+0 8 0
+D2
+~
+~
+0 0 4575
+E
+paper~
+Source-
+Please bring me the keys to the tunnels.
+I will pay well for them, as always.
+I WILL REGAIN CONTROL OF THIS TOWN!
+ 
+The rest of the page is too blury to read.
+~
+E
+cabinet~
+These finely carved cabinets contain notes and even a book or two.  In
+one cabinet between the windows are a few clay sculptures.  You then notice
+the magic symbols glowing a soft silver and decide to leave it all alone.  
+~
+S
+#4577
+Mage Guild~
+A large arching hall is filled with apprentices practicing and sages
+teaching.  The walls are smooth black stone and the floor is a black stone
+as well.  All the tables and chairs are made of black oak and ash. 
+Flickering touches and candles offer plenty of light with only the arches
+hidden in shadow.
+~
+0 0 0
+D2
+~
+~
+0 0 4579
+S
+#4578
+Psionicist Guild~
+A mind numbing insence fills the room with dense smoke.  The quiet
+recitation of mantras adds a gentle hum in the back ground.  The walls seem
+to absorb the light.  Inlaid into the floor in bronze is the symbol of
+Beowolf.  Scattered across the floor are students and teaches learning to
+master the powers of the mind.
+~
+0 1 0
+D3
+~
+~
+0 0 4579
+S
+#4579
+Guild Rooms~
+Hanging black curtains with silver symbols devide this room into many
+sections.  Behind some you glimse workbenches, others have beds and others
+appear to be empty.  A large stone table stands near the western door.  A
+few journey men and apprentices relax around the table.
+~
+0 8 0
+D0
+~
+~
+0 0 4577
+D1
+~
+~
+0 0 4578
+D2
+~
+~
+3 0 4580
+D3
+~
+~
+0 0 4589
+D5
+~
+~
+7 4522 4597
+S
+#4580
+Guild Headquarters~
+Rich black velvets and slippery black silks cover this room.  The walls
+are hidden behind the cloaking black cloth.  Sewn into the Suther wall
+hanging are the symbols for the mage and psionicist guild.  A round black
+stone table sits in the center of the room.  Many plush chairs circle the
+table.  A single pale sheet of paper sits near one of the chairs.
+~
+0 0 0
+D0
+~
+~
+3 0 4579
+E
+paper~
+It is a simple letter that states: Kill that thieving guildmaster and
+bring to our trainers, his jeweled letter opened as proof.  Continue the
+search for a way into their guild hall undetected.  P&M 
+~
+S
+#4581
+Thieves Den~
+You enter a small shop.  There are no windows and the ceiling is rather
+low.  You see a few apprentices learning the skills of openning and fixing
+locks.  Some men walk in and out of the room, watching over everything.  The
+counter has a large cluster of locks in excellent condition.
+~
+0 8 0
+D0
+~
+~
+0 0 4583
+D1
+~
+~
+7 4505 4582
+D2
+~
+~
+0 0 4555
+S
+#4582
+Guildmaster's Study~
+Lavish wall hangings cover the walls.  A gold and crystal chandilier has
+magical lights.  A large marble topped desk sits across one corner facing
+the door.  A large padded chair is behind the desk.  Two wobbly plain wooden
+chairs face the desk.  A beautiful green rug covers most of the floor.
+~
+0 0 0
+D3
+~
+~
+7 0 4581
+E
+desk~
+On the desk is a set of orders for the destruction of the other
+Guildmasters and that the reward will be given for the guildmaster necklaces
+at the Fence.  
+~
+S
+#4583
+Thieves Den~
+This room looks a little like a baracks.  Many straw thickets are along
+the walls in neat rows.  Near each thicket is a small clothes chest. 
+Blankets and other wash are in a pile near the door.  A table and two long
+benches run up the middle of the room.  A large stone cabinet sits in the
+far corner.
+~
+0 8 0
+D0
+~
+~
+3 0 4568
+D2
+~
+~
+0 0 4581
+D5
+~
+~
+7 4521 4500
+E
+cabinet~
+The finely crafted stone cabinets has a complicated lock on it, luckily
+some one left it open.  Looking closer you see jars of poisons and a few
+poisonous spiders and insects.  
+~
+S
+#4584
+Bash Course Training~
+You are standing in a large sturdy building.  Many people are stretching
+out and involved in a variety of exercises.  The walls have a few sets of
+wooden training weapons.  To the west is a pit of sand that is separated by
+a couple row of benches.  The air is filled with the scent of blood and
+sweat.
+~
+0 8 1
+D2
+~
+~
+1 0 4542
+D3
+~
+~
+0 0 4585
+E
+rack~
+Examining the rack closer you notice that there are hidden blades the
+will spring out at unsuspecting hands.  You would hate to have the job of
+cleaning these weapons.  
+~
+E
+weapons~
+These finely crafted wooden weapons seem unused but surprisingly not
+dusty.  The rack holding them seems very solid if a little bulky for the
+task.  
+~
+E
+benches~
+These are plain rough hewn benches.  You do notice that most of them have
+blood stains.  
+~
+S
+#4585
+Training Pit~
+This is a large room.  The west side of the room has a sand floor the
+east smooth stone floor.  Along the walls are racks of weapons.  You notice
+an occasional red stain on the stone floor.  There are a few people involved
+in a practice bout in the sand.
+~
+0 0 0
+D1
+~
+~
+0 0 4584
+S
+#4586
+Goblin Gangway~
+Just to the north is the intersection with temple way and the Temple of
+Beowolf is clearly visible in all its dark glory.  A waft of cooking chicken
+and ale reaches your nose.  To the east is one of the better taverns in
+town, The Charred Corpse Club.  To the west is the abandoned (and
+condemened) city hall.  As you watch part of the roof caves inward.
+~
+0 0 1
+D0
+~
+~
+0 0 4554
+D1
+~
+~
+0 0 4512
+D2
+~
+~
+0 0 4587
+S
+#4587
+Goblin Gangway~
+Tradesman both human and non walk into various shops and homes on both
+sides of the street.  A store on the east side catches your attention, it
+has a sign over the door with a shield painted on it.  The bray of donkeys
+and the pleas of beggars fill the air.
+~
+0 0 1
+D0
+~
+~
+0 0 4586
+D1
+~
+~
+0 0 4567
+D2
+~
+~
+0 0 4588
+S
+#4588
+East Caravan Gate~
+Goblin Gangway continues it both north and south.  But to the east is an
+intricate craved gateway.  On the other side you can see a caravan slowly
+approaching the city.  To the west are a couple small shops and houses.  A
+few of the scouts arrive at the gate.  They touch the gate with something
+and the gate unlocks.
+~
+0 0 1
+D0
+~
+~
+0 0 4587
+D2
+~
+~
+0 0 4589
+S
+#4589
+Goblin Gangway~
+Goblin Gangway runs north and south through the town.  The people that
+walk along this section look more respectable.  It could be that most of
+them are wearing the robes of tradesman and mages.  To the west is a shop
+selling items of magic that find there way to town.  To the east is the
+guild of Mages and Psionicists.  The building is build of black granite.
+~
+0 0 1
+D0
+~
+~
+0 0 4588
+D1
+~
+~
+0 0 4579
+D2
+~
+~
+0 0 4590
+D3
+~
+~
+0 0 4562
+S
+#4590
+South Caravan Gate~
+To the south is a large intricately carved gate.  On the other side you
+see a caravan forming up.  The air is filled with dust and sound.  To the
+east is a large building in good shape.  You catch sight of a goblin looking
+out one of the windows.  The sounds of brays and growls can be heard coming
+from the shop to the east.  Goblin Gangway heads north into the rest of the
+town.
+~
+0 0 1
+D0
+~
+~
+0 0 4589
+D1
+~
+~
+0 0 4560
+D3
+~
+~
+3 0 4521
+S
+#4591
+North Road~
+The dirt road wanders about as it goes north for many days.  There are
+still many farms along the road.  Some of the farms buildings have palisades
+around them.  You also notice that many of the buildings have burn marks on
+them.  You wonder what attacks the farms now that the goblins are helping
+the humans?
+~
+0 0 2
+D2
+~
+~
+0 0 4592
+S
+#4592
+North Road~
+The north road is hard packed dirt that turns to a muddy mess when it
+storms.  Many farms cluster along the road.  These farms provide the food
+for the town.  To the south are the town walls and the only public gate. 
+The wind whistles unblocked across the fields and the plains beyond.
+~
+0 0 2
+D0
+~
+~
+0 0 4591
+D2
+~
+~
+1 0 4550
+S
+#4593
+Slums~
+Many people huddle in this building.  At first you can not tell anything
+above the babble of the people and their constantly moving bodies.  The
+stench of this many people in one room is overpowering.  Then you notice the
+well in the back of the room.  You wonder who made this well in the middle
+of the slums inside a building.
+~
+0 8 0
+D1
+~
+~
+3 0 4547
+S
+#4594
+Slums~
+This modest buildings provides a place to hide from the rain and the heat
+of the day.  The roof has been rethatched and missing planks replaced.  At
+the back of the building is a pile of planks and stones and thatch for
+repairing buildings.  If the beggars continue to repair these buildings they
+may be able to sell them one day.
+~
+0 8 1
+D2
+~
+~
+0 0 4545
+S
+#4595
+Slums~
+The shack is in good shape and you see evidence that someone has patched
+up walls and floors.  The stone floor has some new flagstones and the walls
+are freshly caulked.  The smell of unwashed bodies is strong.  The straw
+thickets look fresh and clean.  There is also a large passage way leading
+north through a couple of buildings.
+~
+0 0 1
+D0
+This passage way looks as if someone cut out the walls that sperated the
+houses.  You see the glow of a fire and the babble of voices from the end of
+the passageway.  
+~
+~
+0 0 4519
+D1
+~
+~
+0 0 4545
+S
+#4596
+Tunnels~
+A long obsidian staircase descends from the ceiling.  The walls are lined
+with stone crypts and open nitches.  Bones and rags rest in heaps scattered
+along the passageway.  Must and decay tickle your nose.  Water oozes from
+the walls.  You hear the chittering of rats among the bodies.
+~
+0 1 0
+D1
+~
+~
+0 0 4528
+D4
+~
+~
+7 4522 4503
+S
+#4597
+Tunnels~
+Wisps of webbing brush against your face.  You feel something crawling
+through your hair.  In the distance you hear the sound of something
+rustling.  Water slowly drips from the ceiling of the tunnel.  This tunnel
+has carved out of the black bedrock under the town.  A shiny black spiral
+staircase rises up to the roof.
+~
+0 1 0
+D0
+~
+~
+0 0 4528
+D4
+~
+~
+7 4522 4579
+S
+#4598
+Tunnels~
+As you travel along this tunnel you notice that it is not the same
+workmanship of the other tunnels.  The tunnel is much newer.  The passage is
+also much higher at its southern end.  Water streams down the sides of the
+tunnel at its lower end.  You faintly smell decaying garbage along the
+entire length of the tunnel.
+~
+0 1 0
+D0
+~
+~
+0 0 4526
+D4
+You notice a cunningly designed stone trap door.  You might have missed
+it if you had not seen the decaying leaf of lettuce sticking out of one
+side.  
+~
+trap~
+7 4521 4520
+S
+#4599
+Tunnels~
+This damp tunnel is hardly large enough for a human to crawl along.  It
+appears to have been dug out by something with large claws.  Because the
+furrows of the claws can still be seen in the rock.  A small trickle of
+water runs down the center of the tunnel slowly eroding the floor.
+~
+0 1 0
+D1
+~
+~
+0 0 4526
+D4
+~
+~
+3 0 4508
+S
+#0
+
+
+#RESETS
+D 1 4500 4 2
+D 1 4503 5 2
+D 1 4504 1 1
+D 1 4505 1 1
+D 1 4505 3 2
+D 1 4506 0 2
+D 1 4506 1 2
+D 1 4506 2 2
+D 1 4506 3 1
+D 1 4507 0 1
+D 1 4507 2 2
+D 1 4508 2 1
+D 1 4508 5 1
+D 1 4509 1 1
+D 1 4510 0 2
+D 1 4512 1 1
+D 1 4513 0 1
+D 1 4513 3 1
+D 1 4513 5 2
+D 1 4514 2 1
+D 1 4516 1 1
+D 1 4516 2 1
+D 1 4517 0 1
+D 1 4517 3 1
+D 1 4518 1 1
+D 1 4520 1 1
+D 1 4520 3 1
+D 1 4520 5 2
+D 1 4521 1 1
+D 1 4523 3 1
+D 1 4525 4 2
+D 1 4534 1 2
+D 1 4535 3 2
+D 1 4536 3 1
+D 1 4537 3 1
+D 1 4547 1 1
+D 1 4547 3 1
+D 1 4548 1 1
+D 1 4548 3 1
+D 1 4550 1 2
+D 1 4552 3 2
+D 1 4557 1 2
+D 1 4557 4 2
+D 1 4558 3 2
+D 1 4559 5 2
+D 1 4568 2 1
+D 1 4575 1 2
+D 1 4575 3 1
+D 1 4579 2 1
+D 1 4579 5 2
+D 1 4580 0 1
+D 1 4581 1 2
+D 1 4582 3 2
+D 1 4583 0 1
+D 1 4583 5 2
+D 1 4590 3 1
+D 1 4593 1 1
+D 1 4596 4 2
+D 1 4597 4 2
+D 1 4598 4 2
+D 1 4599 4 1
+O 1 4560 0 4500
+M 1 4541 1 4501
+E 1 4550 0 3
+M 1 4540 1 4501
+E 1 4548 0 12
+E 1 4551 0 18
+M 1 4539 1 4502
+E 1 4547 0 5
+G 1 4522 0
+M 1 4538 1 4503
+E 1 4548 0 12
+E 1 4549 0 16
+M 1 4542 1 4504
+E 1 4552 0 11
+E 1 4548 0 12
+O 1 4561 0 4505
+P 1 4560 0 4561
+M 1 4521 4 4505
+M 1 4520 4 4505
+M 1 4519 7 4507
+M 1 4519 3 4509
+M 1 4519 2 4510
+E 1 4509 0 13
+M 1 4521 4 4511
+M 1 4527 4 4512
+M 1 4533 1 4512
+M 1 4532 1 4512
+G 1 4570 0
+G 1 4565 0
+G 1 4564 0
+M 1 4531 2 4512
+M 1 4533 2 4513
+M 1 4534 1 4514
+G 1 4516 0
+M 1 4536 1 4514
+G 1 4515 0
+M 1 4534 2 4515
+M 1 4535 3 4515
+E 1 4542 0 13
+M 1 4522 1 4517
+E 1 4557 0 5
+M 1 4503 2 4518
+M 1 4525 1 4519
+G 1 4511 0
+M 1 4526 1 4519
+E 1 4502 0 5
+E 1 4554 0 10
+G 1 4514 0
+M 1 4502 5 4520
+M 1 4500 5 4522
+E 1 4532 0 16
+E 1 4533 0 8
+M 1 4500 2 4523
+M 1 4501 1 4524
+E 1 4535 0 1
+E 1 4534 0 10
+E 1 4573 0 7
+G 1 4521 0
+M 1 4537 1 4526
+G 1 4518 0
+M 1 4554 3 4529
+E 1 4540 0 16
+O 1 4500 0 4529
+M 1 4555 1 4530
+M 1 4554 1 4530
+E 1 4539 0 8
+E 1 4540 0 16
+M 1 4516 4 4531
+G 1 4507 0
+M 1 4516 3 4532
+M 1 4516 4 4533
+G 1 4508 0
+M 1 4516 4 4534
+G 1 4506 0
+M 1 4530 1 4535
+G 1 4513 0
+G 1 4505 0
+M 1 4551 6 4536
+M 1 4527 4 4537
+M 1 4515 2 4538
+M 1 4562 1 4539
+M 1 4563 1 4543
+M 1 4553 3 4544
+E 1 4553 0 6
+M 1 4556 1 4546
+G 1 4504 0
+O 1 4520 0 4548
+M 1 4521 4 4550
+E 1 4545 0 16
+M 1 4521 6 4551
+M 1 4551 1 4553
+M 1 4561 1 4555
+M 1 4560 1 4555
+M 1 4556 2 4555
+M 1 4527 4 4556
+E 1 4546 0 9
+M 1 4528 1 4556
+M 1 4523 1 4557
+G 1 4556 0
+M 1 4524 2 4558
+M 1 4524 2 4559
+M 1 4504 1 4560
+E 1 4512 0 5
+M 1 4559 4 4561
+M 1 4511 1 4562
+G 1 4567 0
+G 1 4566 0
+G 1 4571 0
+M 1 4509 1 4563
+M 1 4507 1 4564
+E 1 4536 0 5
+G 1 4562 0
+M 1 4512 1 4565
+G 1 4563 0
+G 1 4572 0
+O 1 4574 0 4566
+M 1 4513 1 4566
+E 1 4538 0 5
+G 1 4538 0
+G 1 4536 0
+M 1 4506 1 4567
+G 1 4533 0
+G 1 4512 0
+G 1 4542 0
+M 1 4510 1 4568
+G 1 4523 0
+G 1 4558 0
+M 1 4505 1 4569
+E 1 4510 0 16
+G 1 4510 0
+G 1 4540 0
+G 1 4573 0
+M 1 4551 5 4570
+M 1 4508 1 4570
+G 1 4559 0
+G 1 4558 0
+G 1 4501 0
+M 1 4550 4 4571
+M 1 4564 1 4573
+M 1 4550 1 4574
+M 1 4517 3 4575
+E 1 4555 0 16
+M 1 4518 1 4576
+M 1 4517 3 4576
+M 1 4546 1 4577
+E 1 4526 0 1
+E 1 4525 0 13
+M 1 4543 1 4577
+E 1 4524 0 12
+M 1 4545 1 4578
+E 1 4530 0 3
+M 1 4547 1 4578
+E 1 4527 0 8
+M 1 4546 3 4579
+E 1 4526 0 1
+M 1 4547 3 4579
+E 1 4531 0 6
+G 1 4522 0
+M 1 4549 1 4580
+E 1 4517 0 4
+E 1 4530 0 3
+E 1 4529 0 2
+M 1 4548 1 4580
+E 1 4517 0 3
+E 1 4524 0 12
+E 1 4528 0 17
+M 1 4527 2 4581
+M 1 4544 1 4581
+M 1 4529 1 4582
+E 1 4519 0 16
+E 1 4543 0 3
+E 1 4544 0 7
+M 1 4528 1 4582
+E 1 4503 0 16
+M 1 4528 3 4583
+E 1 4503 0 16
+M 1 4514 1 4585
+E 1 4503 0 16
+M 1 4553 4 4587
+E 1 4541 0 5
+M 1 4554 4 4588
+E 1 4539 0 8
+M 1 4500 2 4590
+M 1 4553 1 4592
+O 1 4500 0 4593
+M 1 4551 7 4593
+M 1 4552 3 4594
+M 1 4551 4 4594
+M 1 4527 2 4595
+M 1 4551 2 4595
+M 1 4557 1 4597
+S
+
+
+#SHOPS
+ 4504    0  0  0  0  0   150  50        11 22    ; Gawrl
+ 4505    5  9  0  0  0   150  25        11 22    ; Borax
+ 4506    9  1 17 15  0   110  75         8 19    ; Jerica
+ 4507    5 12 13  8  0   130  65         0  6    ; Kep Chi
+ 4508   19 17 26  0  0   105 100         1 23    ; Scott
+ 4509   13  8 15 32  0   300  90         0  6    ; Fischer the Fence
+ 4510   26 19  0  0  0   100  95         5 13    ; Grandma Marge
+ 4511    4  3 10  2  0   250  50         0 23    ; apprenctice mage
+ 4512    2 28 13  0  0   150  75         0 23    ; young scribe
+ 4513   27 11  0  0  0    75  10         0 23    ; Verias the tailor
+ 4516   18  0  0  0  0   1000  10         1 10    ; caravan master
+ 4518   18  0  0  0  0   500 250        12 15    ; an Ogre Leader
+ 4523   18  0  0  0  0   200  10        18 24    ; master of the house
+ 4532   19 17 10  0  0   200  10         0 23    ; a bartender
+ 4543   18  8  0  0  0   100  90         1 23    ; a mage trainer
+ 4545    8 18  0  0  0   150 100         1 23    ; a psionist trainer
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  4502 spec_fido
+M  4503 spec_breath_gas
+M  4509 spec_thief
+M  4511 spec_cast_mage
+M  4514 spec_guard
+M  4515 spec_janitor
+M  4519 spec_thief
+M  4520 spec_guard
+M  4521 spec_guard
+M  4522 spec_guard
+M  4523 spec_thief
+M  4524 spec_thief
+M  4525 spec_guard
+M  4526 spec_cast_adept
+M  4527 spec_thief
+M  4529 spec_thief
+M  4537 spec_breath_gas
+M  4538 spec_cast_cleric
+M  4539 spec_cast_cleric
+M  4540 spec_cast_cleric
+M  4542 spec_cast_adept
+M  4543 spec_cast_mage
+M  4544 spec_thief
+M  4546 spec_cast_mage
+M  4547 spec_cast_undead
+M  4548 spec_cast_mage
+M  4554 spec_guard
+M  4556 spec_fido
+M  4558 spec_breath_gas
+M  4561 spec_guard
+S
+
+
+#$

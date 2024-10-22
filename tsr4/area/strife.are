@@ -1,0 +1,1383 @@
+#AREA   The City of Strife~
+
+
+
+#AUTHOR Thallin~
+
+#RANGES
+30 50 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 51196570
+
+#MOBILES
+#28000
+obsidian golem~
+the obsidian golem~
+A tall obsidian figure is here, standing astride the path.
+~
+A massive sculpted form of obsidian is here, towering over you.  It's
+dark shadow seems bright in comparison to the ebon glare of the golem.  Its
+eyes, little more than two black pits in the crude face, seem locked onto
+you, following your every movement with grim determination.  A dark magic
+seems to radiate from it, almost choking the breath from your body...
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#28001
+Skrin tall~
+A Beastly Skrin~
+A beastly Skrin slips from the shadows.
+~
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#28002
+Heart Hound heart hound~
+A Heart Hound~
+A brownish Heart Hound is here, licking an open wound.
+~
+~
+1 0 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#28004
+blood fly~
+A Blood Fly~
+A Blood Fly hovers here near your head.
+~
+~
+1 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#28000
+altar black obsidian~
+an obsidian altar~
+A massive obsidian slab, carved with runes of gathering.~
+~
+12 16 0
+1 1000000 8192 200
+1 0 0
+#28001
+Ra~
+a Large Iron Rod~
+A Large Iron Rod with an eye engraved on one end rest here.~
+~
+5 32 1
+0 2 24 0
+10 20000 2000
+A
+1 4
+A
+4 4
+A
+3 4
+A
+18 4
+A
+19 4
+A
+13 50
+A
+2 -4
+#28002
+big stick~
+buh~
+Buh~
+~
+5 16 0
+0 3 12 0
+1 10000 1000
+#28003
+Ceremonial robes~
+black Ceremonial Robes~
+A set of Ceremonial robes are here.~
+~
+9 0 1
+-100 -100 -100 -100
+1 50000 5000
+#28004
+KMFDM~
+a Sack of Nails~
+A Sack of Nails rests here.~
+~
+5 16 0
+0 5 45 0
+1 500000 50000
+A
+4 -3
+A
+3 -3
+A
+13 50
+A
+19 20
+A
+18 20
+#0
+
+
+#ROOMS
+#28000
+Gathering Circle~
+The trees of this area seem to have burned away, stumps and all, leaving
+the ground nothing more than earth and ash.  Carved into the ground is an
+elaborate series of channels and grooves, generally organized around a
+hexagonal pattern within a large circle about thirty feet across.  The
+surrounding forest is silent, as if no creature dared to approach.  Around
+the edge of the circle are six jagged, twisted obsidian shards, reaching
+towards the heavens.  They stand at the six points of the hexagon, and
+vibrate ever so slightly.  Twenty feet tall, and jet black, they give you an
+ominous feeling of trepidation.  At the center of the room is a great slab
+of obsidian, carved with ancient runes of channeling and power.  The runes
+that cover the altar appear to be coated with a dried, dark substance.  A
+fresh trail provides escape to the south.
+~
+0 4 0
+D0
+~
+~
+0 0 28009
+D1
+~
+~
+0 0 28020
+D2
+~
+~
+0 0 28010
+D3
+~
+~
+0 0 28019
+S
+#28001
+Pain Plaza~
+~
+0 4 0
+S
+#28002
+Among the Shadows~
+As you step into the shadows your eyes snap shut for there is nothing
+for them to behold.  Not darkness, not extremely bright light, but utter
+nothingness.  When your eyes snap shut a whole world explodes within the
+sonfines of your mind filling it to the bursting point with countless 
+millions of shadows all screaming demands and wishes.  There cries fill
+your ears and were there anyone standing with you they could hear the
+screams.  Not from your mouth, but through your ears.  So loud and angry
+are they that your eardrums reverberate there screaching voices out 
+into the nothing.  The eyes of the shadows burn wholes in the very fabric
+of your mind, scarring it for all eternity.  You will not soon forget this
+trip into the Shadow's realm.
+~
+0 0 1
+D1
+~
+Shadow shadow shadows~
+65 -1 28040
+> act_prog ~
+>act_prog p arrives
+mpechoat $n Welcome to the Shadows youngling
+~
+|
+S
+#28003
+In Pain Square~
+~
+0 0 0
+D0
+~
+~
+0 0 28010
+D2
+~
+~
+33 0 28061
+S
+#28004
+A Forest Path~
+This path leads away from the Grove.  Far into the north you see a green
+glow.  A low rumble shakes the ground beneath your feet.  Forest animals run
+for cover.  Perhaps you should do the same.
+~
+0 0 0
+D0
+~
+~
+0 0 28083
+S
+#28009
+In Pain Square~
+To the south you see the fabled Gathering Circle.  There Master Thallin
+made his return from the depths of the Underworld.
+~
+0 0 1
+D0
+~
+~
+0 0 28037
+D2
+~
+~
+0 0 28000
+S
+#28010
+In Pain Square~
+~
+0 0 0
+D0
+~
+~
+0 0 28000
+D2
+~
+~
+0 0 28003
+S
+#28013
+The Boundary~
+The Green light surounds you.  Glancing quickly from left to right your
+eye catches movement everywhere.  When you try to focus on one object
+however, everything goes still.  The landscape is barren.  There are shapes
+looming here and there but nothing is material or familiar.
+~
+0 8192 0
+D0
+~
+~
+0 0 28023
+D1
+~
+~
+0 0 28014
+D3
+~
+~
+0 0 28024
+S
+#28014
+The Boundary~
+The Green light surounds you here.  A buzzing, like a thousand
+bumblebees, fills your ears.  The air around you slides greasily past you
+leaving your skin slippery.
+~
+0 8192 1
+D0
+~
+~
+0 0 28024
+D1
+~
+~
+0 0 28032
+D3
+~
+~
+0 0 28013
+S
+#28018
+In Pain Square~
+~
+0 0 0
+D1
+~
+~
+0 0 28019
+S
+#28019
+In Pain Square~
+~
+0 0 0
+D1
+~
+~
+0 0 28000
+D3
+~
+~
+0 0 28018
+S
+#28020
+In Pain Square~
+~
+0 0 0
+D3
+~
+~
+0 0 28000
+S
+#28022
+The Boundary~
+The green light moves in tightening it's grip on you.  You are left with
+a feeling of loss, and at the same time a feeling of acceptance.  The mist
+has turned to a heavy rain.  Without looking you feel a presence directly
+behind you.
+~
+0 8192 1
+D1
+~
+~
+0 0 28023
+D3
+~
+~
+0 0 28065
+S
+#28023
+The Boundary~
+The green light seems to be toying with your vision.  Large forms dart
+from shadow to shadow never seen.  Your head aches with the buzzing sound
+that is growing in intensity every minute that you stand still.  A gentle
+mist begins to wet your skin.
+~
+0 8192 0
+D0
+~
+~
+0 0 28033
+D1
+~
+~
+0 0 28024
+D3
+~
+~
+0 0 28022
+S
+#28024
+The Boundary~
+The flat black ground extends as far as your eye can see.  The material
+beneath your boots is not mud but a black slime.  The stench is horrible. 
+The green light still presses in on your form drawing the very life from
+your soul.
+~
+0 8192 0
+D1
+~
+~
+0 0 28013
+D3
+~
+~
+0 0 28023
+D5
+~
+slime~
+3 0 28062
+S
+#28032
+The Boundary~
+The green light is all around you now.  A buzzing sound threatens to tear
+apart your head with it's power.  The ground slopes harshly here.  Near the
+bottom the ground cannot be seen at all.
+~
+0 8192 0
+D0
+~
+~
+0 0 28063
+D1
+~
+~
+0 0 28033
+D3
+~
+~
+0 0 28014
+S
+#28033
+The Boundary~
+The green light pushes in on you from all sides.  The ground shakes with
+the power of this area.  Near what looks to have once been a tree, you see a
+pair of golden eyes shinning back at you.
+~
+0 8192 0
+D0
+~
+~
+0 0 28014
+D1
+~
+~
+0 0 28034
+D3
+~
+~
+0 0 28032
+S
+#28034
+The Boundary~
+Green light surounds you entirely now.  In every direction you see only
+despair.  The low rumble threatens to snap your sanity every instant.  The
+ground has changed.  Where there once was black scortched earth, now lies
+only a black slime.  It is to thin and sickly to be mud.
+~
+0 8192 0
+D1
+~
+~
+0 0 28057
+D3
+~
+~
+0 0 28033
+S
+#28036
+~
+~
+0 0 0
+D1
+~
+~
+0 0 28037
+S
+#28037
+In Pain Square~
+The scortched earth here seems to eminate a deep red glow.  The air is cold
+and cutting against your exposed flesh.  The wall of the building to the 
+north is cold and black.  It seems to be cut from a single block of pitch
+black stone.  Every inch of its surface is covered with deeply carved runes
+of power.  One symbol stands out in grey among the intricate web of 
+power runes.  It is repeated more times than you care to count.  It looks
+vaguely like an eight laid on its side.  It is the symbol for infinity.
+The carving is not only on the wall but seems to spill off onto the ground
+at its base.  The grooves and swirles continue for a number of feet away
+from the structure itself.  A small trickle of water can be seen gathering
+in some of the deeper runes carved into the ground.  The water is blood red
+and seems to contain flecks of gold or silver, which, you cannot tell.
+There is no plantlife at all here.  The only signs of life are the structures
+that must have been built by the greatest artisans to ever walk these realms.
+The water is now slowly overfilling the deep grooves cut in the ground and
+is beginning to ooze toward your feet.  It smells of urine and rust and does
+not seep into the ground but skates on the surface as if afraid to touch it.
+To the north, set into the black wall, is a huge Iron gate.  The bars to
+each side are set into the charred stone.  Nothing but forboding darkness
+can be seen through the bars.
+~
+0 0 0
+D0
+Through the Gate
+~
+gate bars~
+1 -1 28040
+D1
+~
+~
+0 0 28038
+D2
+~
+~
+0 0 28009
+D3
+~
+~
+0 0 28036
+E
+ed gate~
+The bars of the gate, at both sides, are set deeply into the stone of
+the structure.  Through them can be seen nothing but forboding darkness.
+The bars appear to be fighting to hold back the Evil within.
+~
+S
+#28038
+~
+~
+0 0 0
+D3
+~
+~
+0 0 28037
+S
+#28040
+Hall to The Resting Chambers~
+This hall is dimly lit by a lantern hanging on an iron ring to your right.
+It burns slowly and unevenly casting dancing shadows all about you.  The 
+wall above the flame is colored black with the soot of whatever oil is
+being burned in the lantern.  In the black stain someone has drawn the symbol
+for infinity revealing the same black stone underneath.
+~
+0 0 0
+D0
+~
+~
+0 0 28041
+D2
+~
+~
+1 0 28037
+D3
+~
+Shadow shadow shadows~
+65 -1 28002
+E
+Shadow shadows~
+The shadows cast by the lantern seem alive.  They whisper for you to 
+walk among them and learn there secrets.
+~
+S
+#28041
+The Resting Chambers~
+~
+0 0 1
+D0
+~
+~
+0 0 28042
+D2
+~
+~
+0 0 28040
+D5
+~
+~
+7 0 28047
+S
+#28042
+The Resting Chambers~
+~
+0 0 0
+D0
+~
+~
+0 0 28043
+D2
+~
+~
+0 0 28041
+D5
+~
+~
+7 0 28046
+S
+#28043
+The Resting Chambers~
+~
+0 0 0
+D2
+~
+~
+0 0 28042
+D5
+~
+~
+0 0 28045
+S
+#28045
+~
+~
+0 0 0
+D4
+~
+~
+0 0 28043
+S
+#28046
+~
+~
+0 0 0
+D4
+~
+~
+7 0 28042
+S
+#28047
+~
+~
+0 0 0
+D4
+~
+~
+7 0 28041
+S
+#28048
+Near a Wall of Green Light~
+The wall of green light seems thinner here.  On the other side you can
+see forms moving here and there.  One form in particular is standing very
+near the wall.  It is looking directly at you.
+~
+0 0 3
+D0
+~
+~
+0 0 28022
+D1
+~
+~
+0 0 28049
+D3
+~
+~
+0 0 28066
+S
+#28049
+Near a Wall of Green Light~
+The swamp-like ground here is allowing your feet to sink deeply into it
+as you stand gazing at the wall before you.  A few skelital remains of large
+rodents can be seen here and there protruding from the surface of the
+sludge.  The green light seems to be calling you forward, willing your feet
+to move.
+~
+0 0 3
+D0
+~
+~
+0 0 28023
+D1
+~
+~
+0 0 28050
+D3
+~
+~
+0 0 28048
+S
+#28050
+Near a Wall of Green Light~
+Without warning the ground below your feet gives way.  You sink waste
+deep in sludge.  The wall before you lets out a deep rumble and the
+intensity of the light surges for a brief moment.  When it returns to its
+normal state you notice a form move quickly to the south out of view.
+~
+0 0 3
+D0
+~
+~
+0 0 28024
+D1
+~
+~
+0 0 28051
+D3
+~
+~
+0 0 28049
+S
+#28051
+Near a Wall of Green Light~
+Standing atop a small rise you notice that the earth near where the wall
+touches it is scortched and black.  It is not soggy like where you now
+stand, but dry.  A wild animal calls from somwhere behind you.
+~
+0 0 3
+D0
+~
+~
+0 0 28013
+D1
+~
+~
+0 0 28052
+D3
+~
+~
+0 0 28050
+S
+#28052
+Near a Wall of Green Light~
+Before you is a sheet of green light.  A fog hugs the ground and swirls
+about your feet.  The wall extends off into the distance to your right and
+left.
+~
+0 0 3
+D0
+~
+~
+0 0 28014
+D1
+~
+~
+0 0 28053
+D3
+~
+~
+0 0 28051
+S
+#28053
+Near a Wall of Green Light~
+A large wall of green light rises up to the heavens.  No end can be seen
+in any direction other than wehr eit touches the earth.  A single dead and
+rotting tree stands alone in this desolate place.
+~
+0 0 3
+D0
+~
+~
+0 0 28032
+D1
+~
+~
+0 0 28054
+D3
+~
+~
+0 0 28052
+S
+#28054
+Near a Wall of Green Light~
+The swamp around your ankles is emitting a horrible odor.  You begin to
+feel a bit light headed.  The green wall before you seems to be wavering
+ever so slightly.
+~
+0 0 3
+D0
+~
+~
+0 0 28033
+D1
+~
+~
+0 0 28055
+D2
+~
+~
+0 0 28067
+D3
+~
+~
+0 0 28053
+S
+#28055
+Near a Wall of Green Light~
+The green wall near you is not as thick as you first thought.  A rock
+rests half in and half out of the Boundary.  Where the wall touches the
+surface of the rock you can see its thickness.  Not even three hands thick
+is the wall.
+~
+0 0 3
+D0
+~
+~
+0 0 28034
+D1
+~
+~
+0 0 28056
+D3
+~
+~
+0 0 28054
+S
+#28056
+Near a Wall of Green Light~
+Power pulling you toward the wall draws your attention.  Looking closer
+into its green maw, you notice a ghostly from of a loved one beckoning for
+you to come closer.  A large bird swoops down and flies through the
+shimmering wall.  A loud squak is heard from the other side, then silence.
+~
+0 0 0
+D0
+~
+~
+0 0 28057
+D1
+~
+~
+0 0 28059
+D3
+~
+~
+0 0 28055
+S
+#28057
+The Boundary~
+The surface you walk upon now is solid stone.  Still slick with the slime
+the covered the ground before, it is not all that stable.  The green light
+continues to follow you like a shadow.  There are still no landmarks of
+note, just repeated greyness.
+~
+0 8192 0
+D0
+~
+~
+0 0 28013
+D1
+~
+~
+0 0 28058
+D3
+~
+~
+0 0 28034
+S
+#28058
+The Boundary~
+The slime beneath your boots has gotten deeper.  It reaches nearly to
+your knee.  The very ground shakes with the buzzing sound that eminates from
+nowhere.  A large rock outcroping rises up to your left.
+~
+0 8192 0
+D0
+~
+~
+0 0 28032
+D1
+~
+~
+0 0 28063
+D3
+~
+~
+0 0 28057
+S
+#28059
+Near a Wall of Green Light~
+Standing here gazing at the shimmering surface of the Boundary you see a
+slight reflection of yourself there.  Studying it, you find that it is not
+just a reflection, but a distorted version of the truth.  You have no hair
+and your skin is old an wrinkled.  Death awaits you on the other side.
+~
+0 0 3
+D0
+~
+~
+0 0 28058
+D1
+~
+~
+0 0 28064
+D3
+~
+~
+0 0 28056
+S
+#28060
+Nearing the depths of Strife~
+~
+0 0 0
+D0
+~
+~
+0 0 28061
+D2
+~
+~
+0 0 28062
+S
+#28061
+The Gates of Strife~
+Tall, polished steal gates rise before you.  You stand before your 
+reflection.  Your own eyes gaze back at you questioning your strength
+and commitment.  THe solid steel gates seem to be at least 1 foot thick.
+Near the ground a fine green mist seeps through the opening at the base of
+the gates.  The black stone wall that surrounds the depths of Strife span
+into the distance to your right and left and disapear.
+~
+0 0 6
+D2
+~
+~
+0 0 28060
+E
+Gates steel~
+The gates themselves are impossible to look at.  You can see only what
+is reflected in them.  Almost mirror like they have no appearance of their
+own only that of their surroundings.
+~
+> act_prog p arrives~
+mpechoat $n Welcome to the Depths of Strife
+if clan($n) == strife
+ mpopenpassage 28061 28000 up
+ mpechoat $n Welcome home.  Serve Him Well.
+if clan($n) == deception
+ mpopenpassage 28061 28000 up
+ mpechoat $n Serve Us well, Prince of lies.
+endif
+endif
+~
+|
+S
+#28062
+~
+~
+0 0 1
+D0
+~
+~
+0 0 28060
+D4
+~
+~
+3 0 28024
+S
+#28063
+The Boundary~
+A seemingly endless see of black and grey, the Boundary leaves you with
+an empty feeling.  All around you are forms that can't be seen, and when you
+do catch one it is only a painfull image of a loved one in pain.  The green
+light surrounding you begins to undulate as you move forward.
+~
+0 8192 0
+D0
+~
+~
+0 0 28057
+D1
+~
+~
+0 0 28065
+D3
+~
+~
+0 0 28058
+S
+#28064
+Near a Wall of Green Light~
+Walking nearer the wall here you hear sounds ffrom inside the Boundary. 
+Voices call to you.  They invite you in, telling you of the peace you will
+know once you enter.  The voices are backed with a low humming, like a
+thousand bumblebeas.
+~
+0 0 3
+D0
+~
+~
+0 0 28063
+D1
+~
+~
+0 0 28066
+D3
+~
+~
+0 0 28059
+S
+#28065
+The Boundary~
+Your head feels on the verge of ripping open from the sound bludgening
+your ears.  Just when you think you cant take anymore, it softens ever so
+slightly.  They greyness around you is complete.  No color can be seen
+anywhere save the green light encompasing you.
+~
+0 8192 0
+D0
+~
+~
+0 0 28058
+D1
+~
+~
+0 0 28022
+D3
+~
+~
+0 0 28063
+S
+#28066
+Near a Wall of Green Light~
+A looming wall of green light rises up before you extending into the sky
+above.  Fallen logs from this side of the wall prtrude nearly to the wall
+but are cut of, or rather clawed off before touching it.  Some form of
+energy seems to be eminating from the wall.
+~
+0 0 3
+D0
+~
+~
+0 0 28065
+D1
+~
+~
+0 0 28048
+D3
+~
+~
+0 0 28064
+S
+#28067
+Through the Swamp~
+The sludge beneath your feet is beginning to thicken into a dark balck
+paste.  Fallen trees lie all about creating the illusion of a lsight tilt to
+the world as if you were walking on its side.
+~
+0 0 3
+D0
+~
+~
+0 0 28054
+D2
+~
+~
+0 0 28068
+S
+#28068
+Through the Swamp~
+The sky above is masked from view by a thick bank of fog that hangs just
+above your head.  The Illusion of a low ceiling is created, thus causing you
+to lower your head regardless of how rediculas it seems.  The sorrow
+surrounds you completeley.  It pulls at your will and drains you of your
+strength.
+~
+0 0 3
+D0
+~
+~
+0 0 28067
+D2
+~
+~
+0 0 28069
+S
+#28069
+Through the Swamp~
+The water has grown more solid as you move north.  Fewer and fewer
+animals can be seen swimming or scurring about.  A high, throaty call echos
+throughout the swamp.  Far to the north you can see a glowing green light.
+~
+0 0 3
+D0
+~
+~
+0 0 28068
+D2
+~
+~
+0 0 28070
+S
+#28070
+The Swamp~
+One very large tree lies directly in front of you.  On its exposed side
+you can see numerous claw marks.  There is a slight path left in the water
+leading north.  It is nearly as wide as three men.
+~
+0 0 3
+D0
+~
+~
+0 0 28069
+D2
+~
+~
+0 0 28071
+S
+#28071
+The Swamp~
+An odor, not a pelasant one, rolls from the water beneath your feet. 
+Your boots are beginning to fade from the acids contained in the water. 
+Looking quickly about you notice that to your right and left the waters
+appear to get much deeper.  You doubt that Either direction would last long,
+if traveled.
+~
+0 0 3
+D0
+~
+~
+0 0 28070
+D2
+~
+~
+0 0 28072
+S
+#28072
+The Swamp~
+The swamp around you seems to move on its own.  Watching the water you
+notice that there is no current, yet Patches of its surface slide in various
+directions.  Small creatures can be seen swimming just below the surface. 
+None of them look like eany fish you have ever seen.
+~
+0 0 3
+D0
+~
+~
+0 0 28071
+D1
+~
+~
+0 0 28073
+S
+#28073
+The Swamp~
+Floating happily along the surface off the water you see, to your horror,
+the skelital remains of a human like form.  The bones are picked clean and
+in some places you can see that the bone itself has been ground away leaving
+sharp filed points.
+~
+0 0 3
+D0
+~
+~
+0 0 28078
+D2
+~
+~
+0 0 28078
+D3
+~
+~
+0 0 28072
+S
+#28074
+The Swamp~
+The area surrounding you seems to have a slight pinkish glow to it.  The
+wate, that was until now, calm, is rolling gently as if disturbed from
+below.  Where a tree can be found its roots are dangerously exposed.  It is
+a wonder anything can live here.
+~
+0 0 3
+D0
+~
+~
+0 0 28079
+D1
+~
+~
+0 0 28075
+D2
+~
+~
+0 0 28079
+D3
+~
+~
+0 0 28076
+S
+#28075
+The Swamp~
+A small outcropping stands here only waist high.  From the side poor what
+looks to be fairly clean water.  It runs in a trickle down the surface of
+the rock finally reaching its stagnent resting place.  Here it will rest for
+probably the rest of its existance without ever moving.
+~
+0 0 3
+D0
+~
+~
+0 0 28080
+D1
+~
+~
+0 0 28076
+D3
+~
+~
+0 0 28074
+S
+#28076
+The Swamp~
+Small objects are being hurled at you from the shadows.  NOt hurting you
+in anyway, but unnerving all the same.  As you catch on that just bounced
+off of your forehead, you see that it is a small rock, only more spongy. 
+Low giggles can be heard from beyond your field of vision.
+~
+0 0 3
+D1
+~
+~
+0 0 28074
+D2
+~
+~
+0 0 28081
+D3
+~
+~
+0 0 28075
+S
+#28077
+The Swamp~
+This odd landscape is fooling your sence of distance and direction.  What
+seemed only feet away often takes you hours to reach.  A large tree seen in
+the distance seems to float across the horizon.  It was probably just
+another trick of this cursed swamp.
+~
+0 0 3
+D0
+~
+~
+0 0 28077
+D2
+~
+~
+0 0 28077
+S
+#28078
+The Swamp~
+Flying low, a giant bird slides silently over you.  As it passes over its
+shadow is cast on the water.  Glancing at it you notice that in the shadow,
+you can see a rider atop the beast flying overhead.  When you crane your
+neck skyward to confirm the shadowhowever, There seems to be no rider at all
+atop the huge flying beast.
+~
+0 0 3
+D0
+~
+~
+0 0 28073
+D1
+~
+~
+0 0 28079
+D2
+~
+~
+0 0 28073
+D3
+~
+~
+0 0 28081
+S
+#28079
+The Swamp~
+An ear-splitting bang is heard just to the north.  The ground shakes
+violently and a few birds take flight to your left.  Glancing in the
+direction of the disturbance, you see a bright haze of red hovering just
+above the ground.
+~
+0 0 3
+D0
+~
+~
+0 0 28074
+D2
+~
+~
+0 0 28074
+D3
+~
+~
+0 0 28078
+S
+#28080
+The Swamp~
+No matter how hard you try you cannot focus on the object to the west. 
+It moves, cat-like, from place to place.  Even when standing still it
+fidgets, not giving you the chance to stare openly at it.  Somthing swims
+past your foot.  When you look back up , the object you were watching is
+gone.
+~
+0 0 3
+D1
+~
+~
+0 0 28081
+D2
+~
+~
+0 0 28075
+S
+#28081
+The Swamp~
+Entering this swamp you notice that rather than there being a stadard
+pasty substance forming the water it is made up of a scum floating on top of
+what could be called water.  Beneath the water is a mudlike substance,
+however the layers keep themseleves seperate.
+~
+0 4 3
+D0
+~
+~
+0 0 28076
+D1
+~
+~
+0 0 28078
+D2
+~
+~
+0 0 28082
+D3
+~
+~
+0 0 28080
+S
+#28082
+Nearing the Swamp~
+As you move northward, you feel the air around you grow moist.  Your skin
+feels slimey to the touch, as does the very air around you.  The ground has
+grown spongy and darker in color.  The smell is horrid.
+~
+0 0 3
+D0
+~
+~
+0 0 28081
+D2
+~
+~
+0 0 28083
+S
+#28083
+A Wet Trail~
+The trees around you are large and moss covered.  Nearly ever exposed
+inch of them are covered with a thick dark-green moss.  Poking it with a
+stick you realize that it must be at least 6 inches thick.
+~
+0 0 3
+D0
+~
+~
+0 0 28082
+D2
+~
+~
+0 0 28004
+S
+#28084
+Among the Shadows~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+O 1 28000 1 28000
+M 1 28002 4 28013
+D 0 28024 5 1
+M 1 28001 4 28032
+M 1 28001 4 28034
+D 0 28041 5 2
+D 0 28042 5 2
+D 0 28046 4 2
+D 0 28047 4 2
+M 1 28002 4 28055
+M 1 28002 4 28055
+M 1 28002 4 28055
+M 1 28001 4 28058
+M 1 28000 1 28061
+D 0 28062 4 1
+M 1 28001 4 28063
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

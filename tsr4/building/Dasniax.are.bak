@@ -1,0 +1,1534 @@
+#AREA   {PROTO} Dasniax's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Dasniax~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#14800
+Center of Waters Gate~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14801
+D1
+~
+~
+0 -1 14804
+D2
+~
+~
+0 -1 14806
+D3
+~
+~
+0 -1 14808
+D6
+~
+~
+0 -1 14803
+D7
+~
+~
+0 -1 14809
+D8
+~
+~
+0 -1 14805
+D9
+~
+~
+0 -1 14807
+S
+#14801
+Merchants Way~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14802
+D2
+~
+~
+0 -1 14800
+S
+#14802
+Merchants Way~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14875
+D2
+~
+~
+0 -1 14801
+D3
+~
+~
+0 -1 14810
+S
+#14803
+Mame Pass~
+~
+0 1073741824 1
+D6
+~
+~
+0 -1 14873
+D9
+~
+~
+0 -1 14800
+S
+#14804
+Smithies Alley~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14828
+D3
+~
+~
+0 -1 14800
+S
+#14805
+Convoy's Alley~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14827
+D7
+~
+~
+0 -1 14800
+S
+#14806
+Main Street~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14800
+D2
+~
+~
+0 -1 14817
+S
+#14807
+Cork Street~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14818
+D6
+~
+~
+0 -1 14800
+S
+#14808
+Sailors Lane~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14800
+D3
+~
+~
+0 -1 14815
+S
+#14809
+Floaters Walkway~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14810
+D8
+~
+~
+0 -1 14800
+S
+#14810
+Floaters Walkway~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14802
+D2
+~
+~
+0 -1 14809
+D3
+~
+~
+0 -1 14811
+S
+#14811
+Floaters Walkway~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14810
+D3
+~
+~
+0 -1 14812
+S
+#14812
+Floaters Walkway~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14811
+D2
+~
+~
+0 -1 14813
+S
+#14813
+Sailors Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14812
+D2
+~
+~
+0 -1 14814
+D3
+~
+~
+0 -1 14816
+S
+#14814
+Sailors Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14813
+D1
+~
+~
+0 -1 14815
+S
+#14815
+Sailors Lane~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14808
+D3
+~
+~
+0 -1 14814
+S
+#14816
+Waters Gate Pier~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14813
+S
+#14817
+Main Street and Cork Street~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14806
+D1
+~
+~
+0 -1 14819
+D3
+~
+~
+0 -1 14818
+S
+#14818
+Cork Street~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14807
+D1
+~
+~
+0 -1 14817
+S
+#14819
+Main Street and Chillington Way~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14826
+D2
+~
+~
+0 -1 14820
+D3
+~
+~
+0 -1 14817
+S
+#14820
+Chillington Way~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14819
+D2
+~
+~
+0 -1 14821
+S
+#14821
+Corner of Monet and Chillington Way~
+Here Monet meets with Chillington Way in a cascade of greens and yellows.  This
+intersection almost seems to glow.  The buildings here seem to also reflect
+the brightness of the roads.  Being built of white type stones.  On the sides
+of the roads there are spaces that only water run through.  The houses just
+seem to float along here, and the only entrance to any of them are through
+planks.  North is Chillington Way, and back east continues Monet.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14820
+D1
+~
+~
+0 -1 14822
+S
+#14822
+Western Monet~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14823
+D3
+~
+~
+0 -1 14821
+S
+#14823
+Western Monet and Breakers Pass~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14824
+D1
+~
+~
+0 -1 14868
+D3
+~
+~
+0 -1 14822
+S
+#14824
+Breakers Pass~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14825
+D2
+~
+~
+0 -1 14823
+S
+#14825
+Main Street and Breakers Pass~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14864
+D2
+~
+~
+0 -1 14824
+D3
+~
+~
+0 -1 14826
+S
+#14826
+Main Street and Convoy~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14827
+D1
+~
+~
+0 -1 14825
+D3
+~
+~
+0 -1 14819
+S
+#14827
+Convoy Street~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14828
+D2
+~
+~
+0 -1 14826
+D3
+~
+~
+0 -1 14805
+S
+#14828
+Convoy Street~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14827
+D3
+~
+~
+0 -1 14804
+D6
+~
+~
+0 -1 14829
+S
+#14829
+Convoys Corner~
+~
+0 1073741828 1
+D6
+~
+~
+0 -1 14830
+D9
+~
+~
+0 -1 14828
+S
+#14830
+Convoys Cornor~
+~
+0 1073741828 1
+D6
+~
+~
+0 -1 14831
+D9
+~
+~
+0 -1 14829
+S
+#14831
+Convoys Cornor~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14832
+D2
+~
+~
+0 -1 14834
+D9
+~
+~
+0 -1 14830
+S
+#14832
+Convoy Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14833
+D3
+~
+~
+0 -1 14831
+S
+#14833
+Lanton Lane and Convoy Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14859
+D2
+~
+~
+0 -1 14838
+D3
+~
+~
+0 -1 14832
+S
+#14834
+Short Alley~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14831
+D2
+~
+~
+0 -1 14835
+S
+#14835
+Cherry Street~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14834
+D1
+~
+~
+0 -1 14836
+S
+#14836
+Cherry Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14839
+D3
+~
+~
+0 -1 14835
+S
+#14837
+Elac Alley~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14860
+D2
+~
+~
+0 -1 14855
+S
+#14838
+Lanton Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14833
+D2
+~
+~
+0 -1 14839
+S
+#14839
+Lanton lane and Cherry Street~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14838
+D1
+~
+~
+0 -1 14854
+D2
+~
+~
+0 -1 14840
+D3
+~
+~
+0 -1 14836
+S
+#14840
+Lanton Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14839
+D2
+~
+~
+0 -1 14841
+S
+#14841
+Main Street and Lanton Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14840
+D1
+~
+~
+0 -1 14849
+D2
+~
+~
+0 -1 14842
+D3
+~
+~
+0 -1 14867
+S
+#14842
+Lanton Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14841
+D2
+~
+~
+0 -1 14843
+S
+#14843
+Intersection of Monet and Lanton Lane~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14842
+D1
+~
+~
+0 -1 14844
+D3
+~
+~
+0 -1 14871
+S
+#14844
+Monet Street~
+The only people along Monet now head east towards the Art Gallery.  Its a
+wonder that so many are around the building itself.  The road is still green,
+as the sun glints off blindingly.  Every once in awhile you hear an
+undistinguishable scream from the west.  Monet continues west and east from
+here.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14845
+D3
+~
+~
+0 -1 14843
+S
+#14845
+Monet Street~
+The street here is crowded with people heading in and out of the store to the
+north.  A sign above the store reads, "Art Gallery of Waters Gate".  The
+building is desinged in different colors of the same bricks used on the roads.
+Giving the structure a definite detached look.  The road from here continues
+east and west along Monet.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14891
+D1
+~
+~
+0 -1 14846
+D3
+~
+~
+0 -1 14844
+S
+#14846
+Monet Street~
+Just as deserted as the rest of Monet, the stones just aren't as welcoming.
+Noises drift in from the east where people are standing about.  The air here
+is somewhat thicker with the smell of paint.  Rushing past you is a young man
+with an easle and canvas straped across his back.  There are only two ways to
+go from here.  To the west, where people clammer around a small building, and
+back east towards Waters Gate Road.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14847
+D3
+~
+~
+0 -1 14845
+S
+#14847
+Monet Street~
+The bricks along this road are a sickly green.  The buildings don't look as
+they have been measured to an equality as the other streets do.  The people
+along the street all carry packs across their backs, and a few with brushes
+at their sides.  The wind seems to howl a little more when walking down this
+street.  The road continues west down Monet, and back east towards the Waters
+Gate Road.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14848
+D3
+~
+~
+0 -1 14846
+S
+#14848
+Waters Gate Road and Monet Street~
+The green stones of Monet and the white of Waters Gate does not make such
+an idealic setting.  Very few people travel this road, and all seem to be
+sceptical of the others around them.  The buildings down Monet seem darker and
+somewhat more sinister than the ones percieved down the other roads.  From this
+point one has the choice of going down Monet or to continue north along Waters
+Gate.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14889
+D3
+~
+~
+0 -1 14847
+S
+#14849
+Main Street~
+The ditches along the road are now full of water, and barely any land can be
+seen.  The road has not changed from the light blue bricks.  People still crowd
+the streets, playing music and games.  Every so often you see a person carrying
+a net attached to a pole walk along one of the ditches.  Main Street continues
+west to Lanton Lane.  It also goes east back to what seems to be a large party.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14850
+D3
+~
+~
+0 -1 14841
+S
+#14850
+In front of the Green Lizard~
+It is just as loud here as it was at the square dance.  People seem to crowd
+around the entrance to the north.  There is a sign that hangs outside the
+building marking it as the Green Lizard Pub.  A strange name for a pub, but
+the people here sure don't seem to mind it.  The road seems to be getting
+softer along here, and ditches have been started between the road and the
+houses.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14892
+D1
+~
+~
+0 -1 14851
+D3
+~
+~
+0 -1 14849
+S
+#14851
+Main Street~
+Along this portion of Main Street people are streeming lanterns together.
+They are setting up post and blocking off a square.  Some carpenters build what
+looks to be a makeshift stage to the north.  A band of musicians sit off to the
+right playing different types of music.  Children and parents alike dance in
+groups or in a couple.  To the west continues Main Street, and to the east is
+Waters Gate Road.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14852
+D3
+~
+~
+0 -1 14850
+S
+#14852
+Main Street~
+Music hangs in the air like a thick fog.  Laughter and screams of children
+playing come from all around.  A couple by the corner of a house to the north
+kiss with no apparent worries.  Guards walk the streets with smiles more than
+the serious pace that is commonly associated with them.  To the west is seems
+to be more of the same, and east is Waters Gate Road.
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14853
+D3
+~
+~
+0 -1 14851
+S
+#14853
+Waters Gate Road and Main Street~
+The intersection of Main Street and Waters Gate Road is filled with traffic.  
+Children run around having mock wars with each other.  Their parents off to
+the side under some shade talking with friends and family.  The people of 
+Waters Gate seem to have no worries.  The bricks color for Main Street is a
+light blue.  Perhaps this has something to do with the mood of the people here?
+As with the other streets of Waters Gate, the two roads join here making
+a spiral pattern.  From here one can go west down Main Street, or continue
+on Waters Gate Road.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14888
+D2
+~
+~
+0 -1 14889
+D3
+~
+~
+0 -1 14852
+S
+#14854
+Cherry Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14855
+D3
+~
+~
+0 -1 14839
+S
+#14855
+Cherry Street and Elac Alley~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14837
+D1
+~
+~
+0 -1 14856
+D3
+~
+~
+0 -1 14854
+S
+#14856
+Cherry Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14857
+D3
+~
+~
+0 -1 14855
+S
+#14857
+Cherry Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14858
+D3
+~
+~
+0 -1 14856
+S
+#14858
+Waters Gate Road and Cherry Street~
+Coming to the intersection of Cherry and Waters Gate brings another unusual
+surprise to the craftmanship put into every stone.  The stones from Cherry 
+street are red, and the white ivory of Waters Gate road produce an unknown
+beauty.  The colored stones make a swirling pattern, meeting in the middle.
+From this vantage point you can continue on Waters Gate road, or go west
+down Cherry street.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14887
+D2
+~
+~
+0 -1 14888
+D3
+~
+~
+0 -1 14857
+S
+#14859
+Convoy Street~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14860
+D3
+~
+~
+0 -1 14833
+S
+#14860
+Convoy and Elac~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14861
+D2
+~
+~
+0 -1 14837
+D3
+~
+~
+0 -1 14859
+S
+#14861
+Convoy Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14862
+D3
+~
+~
+0 -1 14860
+S
+#14862
+Convoy Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14863
+D3
+~
+~
+0 -1 14861
+S
+#14863
+Waters Gate Road and Convoy Street~
+Convoy Street and Waters Gate Road meet every standard of what the road should
+look like.  Convoy street, covered with golden bricks is laid just as well as
+any other.  The cost and time it took must have been horendous to the city.
+The only difference besides color in the Convoy street bricks is a sigil that
+seems litteraly part of the rock itself.  It shows a pirate and a serpent in
+them.  People rush along, barely seeming to notice the bricks as they have been
+around well befor themselves.  There are no structure down Convoy Street.
+Just Merchants selling their wares, and caravans making their way to Waters
+Gate Center.  From there is access to the Floating Merchants, and the pier to
+ship their goods around the world.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14887
+D3
+~
+~
+0 -1 14862
+S
+#14864
+Main Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14865
+D3
+~
+~
+0 -1 14825
+S
+#14865
+Main Street and Lorks Way~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14866
+D2
+~
+~
+0 -1 14872
+D3
+~
+~
+0 -1 14864
+S
+#14866
+Main Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14867
+D3
+~
+~
+0 -1 14865
+S
+#14867
+Main Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14841
+D3
+~
+~
+0 -1 14866
+S
+#14868
+Western Monet~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14869
+D3
+~
+~
+0 -1 14823
+S
+#14869
+Western Monet and a Short Alley~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14872
+D1
+~
+~
+0 -1 14870
+D3
+~
+~
+0 -1 14868
+S
+#14870
+Western Monet Street~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14871
+D3
+~
+~
+0 -1 14869
+S
+#14871
+Western Monet Street~
+Comming this far down Monet shows the road in a different aspect.  The road,
+wich seems to be floating on top of water is a little more busy down here. 
+Mainly with children playing in the water.  Every once in awhile you here a
+scream come from the parents of the children to clear the water for a minute.
+The only guess to why they would do that is perhaps the serpents depicted in
+the gates.  Further west one can see the intersection of a short alley and
+monet, and east monet meets Lanton Lane.
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14843
+D3
+~
+~
+0 -1 14870
+S
+#14872
+Short Alley~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14865
+D2
+~
+~
+0 -1 14869
+S
+#14873
+Mame Pass~
+~
+0 1073741828 1
+D6
+~
+~
+0 -1 14874
+D9
+~
+~
+0 -1 14803
+S
+#14874
+Mame Pass~
+~
+0 1073741828 1
+D7
+~
+~
+0 -1 14877
+D9
+~
+~
+0 -1 14873
+S
+#14875
+Merchants Way~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14880
+D2
+~
+~
+0 -1 14802
+S
+#14876
+Merchants Circle~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14878
+D2
+~
+~
+0 -1 14875
+S
+#14877
+Merchants Circle~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14881
+D3
+~
+~
+0 -1 14878
+D8
+~
+~
+0 -1 14874
+S
+#14878
+Merchants Circle~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14879
+D1
+~
+~
+0 -1 14877
+D3
+~
+~
+0 -1 14876
+S
+#14879
+Merchants Circle~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14882
+D1
+~
+~
+0 -1 14881
+D2
+~
+~
+0 -1 14878
+D3
+~
+~
+0 -1 14880
+S
+#14880
+Merchants Circle~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14884
+D1
+~
+~
+0 -1 14879
+D2
+~
+~
+0 -1 14875
+D3
+~
+~
+0 -1 14885
+S
+#14881
+Merchants Circle~
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14883
+D1
+~
+~
+0 -1 14886
+D2
+~
+~
+0 -1 14877
+D3
+~
+~
+0 -1 14879
+S
+#14882
+Shop #3~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14879
+S
+#14883
+Shop #4~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14881
+S
+#14884
+Shop #2~
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14880
+S
+#14885
+Shop #1~
+~
+0 1073741828 1
+D1
+~
+~
+0 -1 14880
+S
+#14886
+Shop #5~
+~
+0 1073741828 1
+D3
+~
+~
+0 -1 14881
+S
+#14887
+Waters Gate Road North~
+This portion of Waters Gate road is the same as the others.  Its white ivory
+bricks layed out perfectly.  The sun, when rising or setting, turns the stones
+a gold color.  It is no longer a mystery of why Waters Gate has untold riches.
+There is more activity on this path heading north to Convoy.  People carrying
+packages of all descriptions and sizes seem to be making there way there.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14863
+D2
+~
+~
+0 -1 14858
+S
+#14888
+Entrance of Waters Gate~
+The road here is made of an ivory looking stone.  Each stone is perfectly
+placed adjacant to every other stone.  It must have taken a long time to lay
+the stones perfectly.  There are only three ways you can go from here.  There
+there is the gate from wich all travelers seemingly enter this city.  To the
+north and south is Waters Gate road.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14858
+D1
+~
+gate~
+3 -1 14890
+D2
+~
+~
+0 -1 14853
+S
+#14889
+Waters Gate Road~
+Here the ivory colored stone is the same as befor.  Methodicaly placed, and
+perfectly shaped to be a replica of the others.  There seems to be less traffic
+to this section of the road.  Seemingly the more important roads are to the
+north.  From here though, one can go south to the intersection of Monet and
+Waters Gate.
+~
+0 1073741828 1
+D0
+~
+~
+0 -1 14853
+D2
+~
+~
+0 -1 14848
+S
+#14890
+Befor a Large Gate~
+The trail you have taken ends here befor a large set of ivory gates.  The
+ivory seems to shed some soft white light.  There is some large writing carved
+into the top of the gate, reading Waters Gate.  Also carved within the ivory
+gates are what looks to be snakes of some kind fighting humanoid figures.  It
+must be depicting the land as it was befor it turned into the city of Waters
+gate.
+~
+0 1073741828 1
+D3
+~
+gate~
+16777219 -1 14888
+S
+#14891
+Art Gallery of Waters Gate~
+Now one sees why people very rarely frequent this part of town.  Waters Gate
+a city built on trade and pirates look down upon artists.  This is the one
+place in the town one might find art.  There are more people here than in the
+streets.  Seems this is not merely a gallery, but also a place to rest and
+grab a quick cup of coffe befor going back out in the elements.
+~
+0 1073741828 1
+D2
+~
+~
+16777216 -1 14845
+S
+#14892
+The Green Lizard~
+Entering a crowded pub is one things, but this place is much bigger than it
+looked from the outside.  The bar lines the western wall, and there are more
+places to sit than what the building looks it can hold.  On all the walls there
+are pictures depicting green lizards eating snakes of all kinds.  In a corner
+a wandering minstrel plays a tune for the pub befor taking a drink from his own
+cup.  The only way out of here is south, back into Main Street.
+~
+0 1073741828 1
+D2
+~
+~
+0 -1 14850
+S
+#14893
+Floating in a void~
+~
+0 1073741828 1
+S
+#14894
+Floating in a void~
+~
+0 1073741828 1
+S
+#14895
+Floating in a void~
+~
+0 1073741828 1
+S
+#14896
+Floating in a void~
+~
+0 1073741828 1
+S
+#14897
+Floating in a void~
+~
+0 1073741828 1
+S
+#14898
+Floating in a void~
+~
+0 1073741828 1
+S
+#14899
+Floating in a void~
+~
+0 1073741828 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

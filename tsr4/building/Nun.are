@@ -1,0 +1,411 @@
+#AREA   {PROTO} Remik's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Remik~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#14900
+glowing orb~
+a small orb of light~
+A glowing orb of light hovers just above the ground.~
+~
+1 1 1
+0 0 -1 0
+1 30 3
+#14901
+minor bag of holding~
+a minor bag of holding~
+A simple bag of black cloth has been left here.~
+~
+15 0 16385
+75 1 0 1
+1 50 5
+#14902
+simple banded mail~
+simple banded mail~
+A light and simple band of mail lies here.~
+~
+9 0 9
+1 1 0 0
+1 45 4
+#0
+
+
+#ROOMS
+#14900
+Entry Chamber~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14901
+D1
+~
+~
+0 -1 14903
+D2
+~
+~
+0 -1 14924
+D3
+~
+~
+0 -1 14902
+S
+#14901
+Entry Chamber~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14906
+D1
+~
+~
+0 -1 14905
+D2
+~
+~
+0 -1 14900
+D3
+~
+~
+0 -1 14904
+S
+#14902
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14900
+S
+#14903
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 14900
+S
+#14904
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14907
+D1
+~
+~
+0 -1 14901
+S
+#14905
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14921
+D3
+~
+~
+0 -1 14901
+S
+#14906
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14901
+S
+#14907
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14910
+D1
+~
+~
+0 -1 14909
+D2
+~
+~
+0 -1 14904
+D3
+~
+~
+0 -1 14908
+S
+#14908
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14907
+S
+#14909
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 14907
+S
+#14910
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14913
+D1
+~
+~
+0 -1 14912
+D2
+~
+~
+0 -1 14907
+D3
+~
+~
+0 -1 14911
+S
+#14911
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14910
+S
+#14912
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 14910
+S
+#14913
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14914
+D1
+~
+~
+0 -1 14915
+D2
+~
+~
+0 -1 14910
+S
+#14914
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14913
+S
+#14915
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14916
+D1
+~
+~
+0 -1 14917
+D3
+~
+~
+0 -1 14913
+S
+#14916
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14915
+S
+#14917
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14918
+D1
+~
+~
+0 -1 14919
+D3
+~
+~
+0 -1 14915
+S
+#14918
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14917
+S
+#14919
+Floating in a void~
+~
+0 1073741824 1
+D1
+~
+~
+0 -1 14920
+D3
+~
+~
+0 -1 14917
+S
+#14920
+Floating in a void~
+~
+0 1073741824 1
+D3
+~
+~
+0 -1 14919
+S
+#14921
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14905
+D3
+~
+~
+0 -1 14922
+S
+#14922
+Floating in a void~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14923
+D1
+~
+~
+0 -1 14921
+S
+#14923
+Floating in a void~
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 14922
+S
+#14924
+Entrance to the Tower of Flesh~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14900
+D2
+~
+~
+0 -1 14925
+S
+#14925
+Walkway to the Tower of Flesh~
+Herein lies the short walkway to the infamous Tower of Flesh.  From
+this distance, the tower looks much like a simple, thin structure that
+reaches far into the eternally blackened sky.  A vast plain littered 
+with mangled, distorted corpses fills much of an onlookers peripheral
+view.  A thick blanket of what looks to be a combination of tattered
+skin, disembowled insides, and fragmented skeletons leads up to the
+front of the entrace to the Tower of Flesh.  The buiding itself looks
+to be made of a corroded iron gridwork that spans the entire height of
+the structure.  Muffled but horrifc screams, coupled with movement
+across the entire tower suggests that the walls themselves are alive!
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14924
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

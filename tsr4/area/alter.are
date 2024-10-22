@@ -1,0 +1,2002 @@
+#AREA   Adalaid~
+
+#VERSION 1
+
+#AUTHOR Thallin~
+
+#RANGES
+10 35 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 52200775
+
+#CLIMATE 0 0 0
+
+#HELPS
+0 $~
+
+#MOBILES
+#15000
+ghost form~
+A ghostly form~
+A ghostly form wanders here
+~
+Looking at this ghostly form you notice that on his face he wears a grin.  His cloths, though one time grand, are now in tatters.
+~
+193 3145738 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#15001
+king maelstrom man~
+King Maelstrom of Adalaid~
+King Maelstrom of Adalaid is floating here with a grin.
+~
+King Maelstrom is wearing his fine robes this day.  His face is what you
+might expect from a king.  His features are chissled and his shoulders are
+wide.  This man is surely a king.
+~
+67 2097280 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#15002
+soldier rotting~
+A rotting soldier~
+A rotting soldier melts here
+~
+~
+195 256 0 C
+22 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 32 0
+#15003
+boney guest~
+A boney guest~
+A Boney guest rests here.
+~
+~
+97 544 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 4128 2
+#15004
+stealthy spider~
+A huge stealthy spider~
+A huge stealthy spider clings to the wall here.
+~
+~
+199 66080 0 C
+28 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 524320 2
+#15005
+skeletal humanoid skull~
+A skeletal humanoid~
+A skeletal humanoid is here gazing at the once beautifull garden.
+~
+~
+131141 66056 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 1 2
+#15006
+david seeker~
+David the Seeker~
+David the Seeker stands here waiting patiently.
+~
+~
+99 66216 0 C
+32 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 0 1
+#15007
+Drathen butcher~
+Drathen the Butcher~
+Drathen the Butcher stands here bloody.
+~
+~
+71 672 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 1
+#15008
+wanderer lonely ghost~
+a Ghostly wanderer~
+A Ghostly wanderer stands here lonely.
+~
+~
+197 3145770 0 C
+23 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+84 0 0 0 1 1 0
+0 0 0 0 0 0 4128 2
+#15009
+rotting horse~
+A rotting horse~
+A rotting horse stands here chewing on its hoof
+~
+~
+195 32 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 262145 2
+#0
+
+
+#OBJECTS
+#15000
+Quartz ring~
+a ring made of quartz~
+A ring made of Quartz lies here discarded.~
+~
+1 0 1
+0 0 -1 0
+1 10000 1000
+#15001
+aspen leaf key~
+an aspen leaf made of gold.~
+Laying here in the dirt you see a small aspen leaf~
+~
+18 256 1
+0 0 0 0
+1 0 0
+#15002
+callandor sword saangreal~
+a sword that is not a sword~
+THe blade appears to be made of a clear stone~
+~
+5 1 0
+0 100 1 3
+5 100000 10000
+#15003
+fountain statue~
+the fountain~
+An ornately carved fountain Dominates the garden~
+~
+25 4096 0
+0 0 0 0
+500 100000 10000
+#15004
+mirror~
+a mirror~
+A very large metal mirror is mounted here.~
+~
+13 0 0
+0 0 0 0
+6 50 5
+E
+mirror~
+You see your reflection...what did you expect?
+~
+#15005
+slab quartz~
+a slab of quartz stands here.~
+A slab of quartz is built into the wall here.~
+~
+13 0 0
+0 0 0 0
+50 50 5
+E
+slab~
+This slab of Quartz is built into the wall.  You can see light coming
+through from the other side.  This would have been a perfect way
+to light a castle during the day.
+~
+#15006
+light scone torch~
+a torch scone~
+A torch scone is here set into the wall.~
+~
+1 0 16385
+0 0 20 0
+1 1 0
+#15007
+oven black~
+an oven~
+An oven blackened from years of use is here.~
+~
+13 0 0
+0 0 0 0
+50 10 1
+E
+oven~
+The handles on the oven are made of a familiar bronze.  The oven itself
+is covered in a thick layer of soot.
+~
+#15008
+cutting block~
+a cutting block~
+A cutting block sits here in all its splendor.~
+~
+15 0 0
+50 0 0 50
+1 50 5
+#15009
+blood knife dagger~
+the blood knife~
+The blood knife~
+~
+5 1 8193
+0 3 12 2
+3 250 25
+#15010
+A cherry wood podium~
+a cherry wood podium~
+A cherry wood Podium~
+~
+15 0 0
+50 1 0 0
+50 0 0
+#15011
+key cherry wood~
+a cherrywood key~
+A cherrywood key~
+~
+18 0 1
+0 0 0 0
+1 1 0
+#15012
+wand crooked~
+a crooked wand~
+A Crooked wand~
+~
+3 0 16385
+10 20 10 -1
+3 250 25
+'shield'
+#15013
+ring bronze huge~
+a huge Bronze ring~
+A huge bronze ring about the length of your finger is here.~
+~
+9 0 3
+-1 -1 -1 2
+2 3000 300
+A
+1 1
+A
+18 1
+A
+19 3
+A
+2 -2
+#15014
+shield spider scale~
+a Spider scale shield~
+A spider scale shield lies here discarded.~
+~
+9 512 513
+-5 -5 -5 -5
+4 500 50
+A
+3 3
+A
+2 -1
+A
+5 -1
+#15015
+hook magical~
+magical hook~
+Magical Hook~
+~
+15 2 0
+10000 0 0 10000
+1 100 10
+E
+hook~
+This is a magical hook it will clean what ever is put on 
+it, Garison made and awful mess so he invented this so he
+look good incase a good looking god droped over. It is 
+covered with dust now and most likely does not work!
+~
+#15016
+dagger drivin~
+a driven dagger~
+A driven dagger is here.~
+~
+5 32768 8193
+0 6 6 11
+5 1000 100
+#15017
+hole magic~
+a hole ~
+A hole rests here.~
+~
+15 0 1
+500 0 0 500
+1 10000 1000
+#15018
+small glass key~
+a small glass key~
+A small glass key rests here~
+~
+18 128 1
+0 0 0 0
+1 20 2
+#0
+
+
+#ROOMS
+#15000
+The top of a narrow tunnel~
+This tunnel is very narrow It is only wide enough for one person to pass
+at a time.  Your shoulders are rubbing the sides of it as you shimmie down. 
+The smell of cold earth is strong in your nose.  Roots are poking through
+the walls of the passage, making it even harder for you to pass through this
+narrow slip of a passage.
+~
+0 1 0
+D4
+~
+~
+0 -1 12037
+D5
+~
+~
+0 0 15001
+S
+#15001
+At the bottom of a narrow tunnel~
+The walls of the tunnel are opening up slightly.  Peering down below you,
+you can see what appears to be a large opening of sorts.  The roots in the
+walls of the passage are lessening in number making it easier to move.  The
+smell of the earth is getting stronger.
+~
+0 1 0
+D4
+~
+~
+0 0 15000
+D5
+~
+~
+0 0 15002
+S
+#15002
+An opening~
+You are standing at the bottom of the tunnel.  Dirt continues to cascade
+from above.  The doors to your right and left are carved with beautifull
+designs of a great battle.  The archway directly in front of you is also
+handcarved.  Through the archway you see what appears to be a courtyard.
+~
+0 1 0
+D0
+~
+~
+0 0 15003
+D1
+A huge door stands here with a large crack down its center.
+~
+~
+7 0 15004
+D4
+~
+~
+0 0 15001
+S
+#15003
+South entrance to the gardens~
+From this vantage point you can see most of the Gardens in all there
+splendor.  The ground is a soft very black earth.  The smell of fertile
+ground is strong in your nose.
+~
+0 1 0
+D0
+~
+~
+0 0 15008
+D1
+~
+~
+0 0 15006
+D2
+~
+~
+0 0 15002
+S
+#15004
+~
+~
+0 4 0
+D3
+~
+~
+7 0 15002
+S
+#15005
+~
+~
+0 4 0
+S
+#15006
+South-east corner~
+In this corner of the Gardens the walls of the castle are totally covered
+in dead vines.  A pile of dried leaves has built up in the corner oas a
+result of the swirling winds that once blew in this garden.
+~
+0 1 0
+D0
+~
+~
+0 0 15009
+D3
+~
+~
+0 0 15003
+S
+#15007
+West entrance to the gardens~
+Before you stands another exit from the gardens.  Peering through the
+large archway you can see a hallway.  Torch scones on the wall light the
+passage fairly well.  The scones are the first sign of living things that
+you have seen.
+~
+0 8 0
+D0
+~
+~
+0 0 15010
+D1
+~
+~
+0 0 15008
+D3
+~
+~
+0 0 15021
+S
+#15008
+The center of the gardens~
+The center of the garden is dominated by a huge ornately carved fountain.
+In the center of the fountain stands a statue of the king that once ruled
+this castle.  There is an inscription on the front of the statue.
+~
+0 262144 1
+D0
+~
+~
+0 0 15011
+D1
+~
+~
+0 0 15009
+D2
+~
+~
+0 0 15003
+D3
+~
+~
+0 0 15007
+S
+#15009
+East entrance to the gardens~
+Standing on an east-west path you notice that it leads from the garden in
+both directions.  The path fades into the darknes through similar archways.
+~
+0 0 0
+D0
+~
+~
+0 0 15012
+D1
+~
+~
+0 0 15013
+D2
+~
+~
+0 0 15006
+D3
+~
+~
+0 0 15008
+S
+#15010
+North-west corner of the gardens~
+This corner of the garden is almost bare.  The only thing that attracts
+your eye is a single still living red rose planted in the black earth.
+~
+0 0 0
+D1
+~
+~
+0 0 15011
+D2
+~
+~
+0 0 15007
+S
+#15011
+North entrance to the gardens~
+Standing in front of the northern archway you realize that this castle is
+very, very, ancient.  The carvings are of humans but they look, somehow,
+different.
+~
+0 0 0
+D0
+~
+~
+0 0 15029
+D1
+~
+~
+0 0 15012
+D2
+~
+~
+0 0 15008
+D3
+~
+~
+0 0 15010
+S
+#15012
+North-east corner~
+This corner is mostley in shadow.  There is a large stone balcony twenty
+feet above your head.  The flowers that would have grown here must have
+florished in the cool shade.
+~
+0 0 0
+D2
+~
+~
+0 0 15009
+D3
+~
+~
+0 0 15011
+S
+#15013
+Eastern hallway~
+This hall seems to be very common for such a large castle.  You can see
+doors on both sides of the hall ahead of you.
+~
+0 4 0
+D1
+~
+~
+0 0 15014
+D3
+~
+~
+0 0 15009
+S
+#15014
+More of the Eastern hallway~
+Yes, you decide that this is definately a visitors wing.  Being so close
+to the gardens.  The King and Queen would want there visitors to see its
+beauty.
+~
+0 4 0
+D0
+~
+~
+35 0 15019
+D1
+~
+~
+0 0 15015
+D2
+~
+~
+35 0 15017
+D3
+~
+~
+0 0 15013
+S
+#15015
+The hallway~
+Faced with a dead end you decide that the builders of this castle were
+definately thinking of funtion when designing.
+~
+0 4 0
+D0
+~
+~
+35 0 15020
+D1
+~
+~
+35 0 15016
+D2
+~
+~
+33 0 15018
+D3
+~
+~
+0 0 15014
+S
+#15016
+A room at the end~
+This guest rom was clearly meant for more distinguised visitors.  Being
+at then end of the hallway would let him be seen by all of the other guest
+coming and going to and from his rooms.
+~
+0 0 0
+D3
+~
+~
+35 0 15015
+S
+#15017
+Guest room two~
+This room has no windows though you feel a slight breeze on your cheek
+from above.  There is what loks like a bed in one corner and a small
+writting desk in the other.
+~
+0 0 0
+D0
+~
+~
+35 0 15014
+S
+#15018
+Guest room four~
+This room looks much like the other guest rooms.  The floor here however
+is not the same plain stone but rather a smoother, almost quartz-like, one.
+~
+0 0 0
+D0
+~
+~
+33 0 15015
+S
+#15019
+Guest room one~
+The walls of this room are covered with fine paintings.  The colors are
+faded but you can still see them for there true quality.
+~
+0 0 0
+D2
+~
+~
+35 0 15014
+S
+#15020
+Guest room three~
+This room has no bed though there is a large pile of blankets against one
+wall.  The desk in the corner is a broken heap.  The walls are bare except
+for a single painting of a woman.
+~
+0 0 0
+D2
+~
+~
+35 0 15015
+S
+#15021
+The western hallway~
+This hall looks less used than the other portions.  The stone floor still
+bares the natural mark of the stone as apposed to the smoothness of the
+other halls.
+~
+0 4 0
+D1
+~
+~
+0 0 15007
+D3
+~
+~
+0 0 15022
+S
+#15022
+More of the western hallway~
+The rough stone continues as the flooring for this hall.
+~
+0 1 0
+D0
+~
+~
+35 0 15025
+D1
+~
+~
+0 0 15021
+D2
+~
+~
+35 0 15027
+D3
+~
+~
+0 0 15023
+S
+#15023
+The hallway~
+~
+0 1 0
+D0
+~
+~
+39 15018 15024
+D1
+~
+~
+0 0 15022
+D2
+~
+~
+35 0 15026
+D3
+~
+~
+35 0 15028
+S
+#15024
+Guest room Five~
+The walls here are set at odd angles as though the room itself is
+collapsing.  This room is still bare of furniture.  However, you see a small
+hole at the rear of the room.  A gentle breeze blows in your direction from
+it.  The air smells not like fresh, outdoor air, but rather stale stagnent
+air.
+~
+0 1 0
+D2
+~
+~
+39 0 15023
+S
+#15025
+Guest room one~
+This room is absolutely bare.  You wonder if the makers of the castle had
+time to finish it or not.
+~
+0 1 0
+D2
+~
+~
+35 0 15022
+S
+#15026
+Guest room Four~
+This guest room is rather ugly.  The walls are not just stone, but worn
+stone that leaves the walls looking bare and used.
+~
+0 0 0
+D0
+~
+~
+35 0 15023
+S
+#15027
+Guest room two~
+Curiously enough this room is also bare to the stone.
+~
+0 1 0
+D0
+~
+~
+35 0 15022
+S
+#15028
+The western guestroom~
+This is the Westernmost room of the castle.
+~
+0 1 0
+D1
+~
+~
+35 0 15023
+S
+#15029
+The Breezway~
+This room was surely an awe-inspiring one.  You can invision nobles
+walking to the dinning room through this very breezway.
+~
+0 4 0
+D0
+~
+~
+0 0 15031
+D2
+~
+~
+0 0 15011
+S
+#15030
+Near a large mirror~
+Placed on one wall of this corner you see a very large mirror.  You
+wonder at the placement of such a mirror.  It seems to be placed so that
+anyone passing it would have no choice but to view themselves in all of
+their splendor, or lack thereof.
+~
+0 0 0
+D0
+~
+~
+0 0 15034
+D1
+~
+~
+0 0 15031
+S
+#15031
+The Grand Hall~
+The change in the flooring material is the first thing that you notice in
+this room.  All of the previous rooms and coridoors have had either earthen
+or plain stone flooring.  This Room is laid all in a perfect marble stone,
+the equal of which you have never seen.
+~
+0 0 0
+D0
+~
+~
+0 0 15033
+D1
+~
+~
+0 0 15032
+D2
+~
+~
+0 0 15029
+D3
+~
+~
+0 0 15030
+S
+#15032
+Near a cloak room~
+Spiderwebs cover most of the floor and walls.  The slight smell of mildew
+permiates the area.
+~
+0 1 0
+D0
+~
+~
+33 0 15035
+D3
+~
+~
+0 0 15031
+S
+#15033
+On a Grand staircase~
+It seems to you that this entire staircase is carved out of a single
+piece of perfect marble.  Even the floor to which it is connected seems to
+be a part of the same stone.
+~
+0 1 0
+D2
+~
+~
+0 0 15031
+D4
+~
+~
+0 0 15082
+S
+#15034
+A passage~
+You are standing in a rather plain passage.  The floor is still made of
+the same fine marble of the grand hall.
+~
+0 0 0
+D1
+~
+~
+0 0 15093
+D2
+~
+~
+0 0 15030
+S
+#15035
+The coat closet~
+There are hooks lining all three walls of this long closet.  The darkness
+here is complete.  The hooks are made of bronze...  Strange.
+~
+0 0 0
+D2
+~
+~
+33 0 15032
+S
+#15036
+Another corner~
+This corner is somewhat dirty.  There are small pieces of paper and
+other debris littering the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 15048
+D1
+~
+~
+0 0 15037
+S
+#15037
+A bright hallway~
+This hallway looks much like any other hallway.  The walls are plain and interspersed with torch scones.
+~
+0 0 0
+D1
+~
+~
+0 0 15038
+D3
+~
+~
+0 0 15036
+S
+#15038
+A bright hallway~
+Directly in front of you, you see what appears to be a make-shift window.
+The corridoor leads both east and west from here.
+~
+0 0 0
+D1
+~
+~
+0 0 15039
+D2
+~
+~
+0 0 15093
+D3
+~
+~
+0 0 15037
+S
+#15039
+A bright hallway~
+The hallway continues still dimly lit from the make-shift window.
+~
+0 8 0
+D1
+~
+~
+0 0 15040
+D3
+~
+~
+0 0 15038
+S
+#15040
+A corner~
+Faced with a Y in the passage, you notice two doors to the east.  To the
+north you smell freshly baking bread.
+~
+0 8 0
+D0
+~
+~
+0 0 15049
+D1
+~
+~
+0 0 15041
+D3
+~
+~
+0 0 15039
+S
+#15041
+Near some rooms~
+The floor of this hall is littered with paper.  Spaced evenly are a few
+torch scones.  The scones are made from the same soft bronze you have seen
+throught the castle.
+~
+0 0 0
+D0
+To the north you see a rather common door.
+~
+~
+35 0 15050
+D1
+~
+~
+0 0 15042
+D3
+~
+~
+0 0 15040
+S
+#15042
+Near more rooms~
+You are standing at the end of this hallway.  There are doors directly in
+front of you and to your right.  The floor is even more densly covered in
+paper.
+~
+0 0 0
+D1
+To the east you see another common door.  The knob on the door is made of bronze.
+~
+~
+35 0 15043
+D2
+To the south you see yet another common door.
+~
+~
+35 0 15046
+D3
+~
+~
+0 0 15041
+S
+#15043
+An empty room~
+Another empty room...  The floor here is inlaid with carvings.  Near the
+center you can see an Eye carved with care.
+~
+0 8 0
+D1
+~
+~
+0 0 15044
+D3
+~
+~
+35 0 15042
+S
+#15044
+Cages~
+The room smells of animal waste.  Here and there can be found remnants of 
+old wire cages.  The nobility must have been ask to keep there odd animal
+companiouns here while visiting.
+~
+0 0 0
+D3
+~
+~
+0 0 15043
+S
+#15045
+The Bedchamber~
+No bed is in view.  A desk is the only furnishing you see.  The walls are
+covered with wooden pannels but most are rotten and lying on the floor.
+~
+0 0 0
+D1
+~
+~
+0 0 15046
+S
+#15046
+The waiting room~
+Here you see four chairs line the left wall.  There is a narrow hallway
+leading to where you can't tell.  The doorway you came through appears grand
+enough, with some carving on the trim.
+~
+0 0 0
+D0
+~
+~
+35 0 15042
+D3
+~
+~
+0 0 15045
+S
+#15047
+A weapons closet~
+Empty weapon racks made of Oak line the walls here.  To your left, a shield 
+lies broken in shards.  Near the rear of the room stands a table and chair.
+~
+0 0 0
+D1
+~
+~
+33 0 15048
+S
+#15048
+Before another closet~
+To the west you see a large closet.  The walls and floor here are scared from
+what looks like large sharp weapons being lugged about carelessly.
+~
+0 0 0
+D0
+~
+~
+0 0 15053
+D2
+~
+~
+0 0 15036
+D3
+~
+~
+33 0 15047
+S
+#15049
+Servenats hall~
+This hallway is much more narrow than previous ones.  The smell of bread
+continues to pull you northward.
+~
+0 0 0
+D0
+~
+~
+0 0 15055
+D1
+To the east you see a small door, obviously meant to not be noticed.
+~
+~
+35 0 15050
+D2
+~
+~
+0 0 15040
+S
+#15050
+A huge room~
+You are standing in a huge room.  The walls are nearly 50 fee apart, and
+the ceiling is as high.  What lived in here you don't want to know.
+~
+0 0 0
+D1
+~
+~
+0 0 15051
+D2
+~
+~
+35 0 15041
+D3
+~
+~
+35 0 15049
+S
+#15051
+The other side~
+You are standing on the other side of this huge room.  There is a door
+on your left, facing the opposite wall.
+~
+0 0 0
+D3
+~
+~
+0 0 15050
+S
+#15052
+A weapons closet~
+This closet stands bare to the back where a tabel and chair stnad alone.
+Set on the table are the remnants of a chess board.  No pieces are in view.
+~
+0 0 0
+D1
+~
+~
+33 0 15053
+S
+#15053
+Outside the Weapons closet~
+On your left is a huge statue of a robed figure.  Its face can't be seen though his shoulders attest to his power.
+~
+0 0 0
+D0
+~
+~
+0 0 15065
+D1
+~
+~
+33 0 15054
+D2
+~
+~
+0 0 15048
+D3
+~
+~
+33 0 15052
+S
+#15054
+~
+~
+0 0 0
+D3
+~
+~
+33 0 15053
+S
+#15055
+Before another door~
+To your left you see another set of double doors.  The stone wall in
+front of you is covered with a beautifull tapestry.  The colors used remind
+you of fall.
+~
+0 0 0
+D0
+To the north you see a set of double doors.  On each is carved the 
+figure of a goose.
+~
+~
+33 0 15069
+D2
+~
+~
+0 0 15049
+S
+#15056
+By another bunk~
+~
+0 0 0
+D0
+~
+~
+0 0 15060
+D1
+~
+~
+0 0 15057
+S
+#15057
+Between bunks~
+~
+0 0 0
+D0
+~
+~
+0 0 15061
+D1
+~
+~
+0 0 15058
+D3
+~
+~
+0 0 15056
+S
+#15058
+By a bunk~
+Next to this tidy bunk you see a piar of soliders boots resting there.
+~
+0 262144 0
+D0
+~
+~
+0 0 15062
+D3
+~
+~
+0 0 15057
+S
+#15059
+The stables~
+As you step into the stabels your foot is greeted by some admiring horse
+flop.  The walls here are not of stone but wood.
+~
+0 8 0
+D0
+~
+~
+0 0 15073
+D1
+~
+~
+0 0 15060
+S
+#15060
+Entrance to the stables~
+Now you understand why these barracks smell so much like sewage.  They
+are connected to the stables in a very direct way.
+~
+0 0 0
+D0
+~
+~
+0 0 15074
+D1
+~
+~
+0 0 15061
+D2
+~
+~
+0 0 15056
+D3
+~
+~
+0 0 15059
+S
+#15061
+Center of the Barracks~
+Standing in the center of this room you can see a hole in the dome high
+above.  Though no light shines through a mist hangs in the air near the
+opening.
+~
+0 0 0
+D0
+~
+~
+0 0 15075
+D1
+~
+~
+0 0 15062
+D2
+~
+~
+0 0 15057
+D3
+~
+~
+0 0 15060
+S
+#15062
+The barracks~
+Upon entering this room you see many beds laid out in perfect order. 
+Obviously this is the barracks for whatever form of army this castle once
+employed.
+~
+0 8 0
+D0
+~
+~
+0 0 15076
+D1
+~
+~
+0 0 15063
+D2
+~
+~
+0 0 15058
+D3
+~
+~
+0 0 15061
+S
+#15063
+Before the Barracks~
+Yes, infact your nose is stinging now with the foul sent of gas and
+sweat.  The hallway has norrowed to let only two humans pass at once.
+~
+0 0 0
+D1
+~
+~
+0 0 15064
+D3
+~
+~
+0 0 15062
+S
+#15064
+Hall to the barracks~
+The odor is geting stronger as you move west.  You wonder what died in
+there.
+~
+0 0 0
+D1
+~
+~
+0 0 15065
+D3
+~
+~
+0 0 15063
+S
+#15065
+Another corner~
+Your nose sences a foul oder coming from the west.  This hallway is
+common, though well kept.
+~
+0 0 0
+D1
+~
+~
+0 0 15066
+D2
+~
+~
+0 0 15053
+D3
+~
+~
+0 0 15064
+S
+#15066
+Exit from the dinning hall~
+Exiting the dinning room through another large archway you notice that
+the ardhway itself is actually two trees grontogether at the top.  The trunk
+you can see firmly planted in the earth.  THe stone is cut out on the floor
+around the trunks.
+~
+0 8 0
+D0
+~
+~
+0 0 15077
+D1
+~
+~
+0 0 15067
+D3
+~
+~
+0 0 15065
+S
+#15067
+At a podium~
+From this vantage point a speaker could address everyone at the table
+without difficutly.  The wall behind you is made enirely of slabs of quartz.
+The podium behind wich you stand is made form a deep cherry wood.
+~
+0 8 1
+D1
+~
+~
+0 0 15068
+D3
+~
+~
+0 0 15066
+S
+#15068
+Entrance to the dinning hall~
+From this vantage point you can see the entire dinning room, consisting
+of A huge table and a single podium.  The southern wall is all made of the
+same quarts slab you saw earlier.  The chamber is lit naturally.
+~
+0 0 0
+D0
+~
+~
+0 0 15079
+D1
+~
+~
+33 0 15069
+D3
+~
+~
+0 0 15067
+S
+#15069
+The serving hallway~
+The ground here is littered with small animal bones and discarded scraps
+of cloth.
+~
+0 0 0
+D1
+~
+~
+0 0 15070
+D2
+~
+~
+33 0 15055
+D3
+~
+~
+33 0 15068
+S
+#15070
+Entrance to the kitchens~
+As you walk into this room you are bombarded with smells of freshly baked
+bread.  There is a large oven set into one corner of the kitchen.  There is
+a small bank of smoke hovering just below the ceiling.
+~
+0 4 0
+D0
+~
+~
+0 0 15080
+D1
+~
+~
+0 0 15071
+D3
+~
+~
+0 0 15069
+S
+#15071
+By the ovens~
+Standing here you can feel the heat eminating from the huge oven in front
+of you.  Most of the walls and surrounding ceiling are black from years of
+use.
+~
+0 0 0
+D0
+~
+~
+0 0 15081
+D3
+~
+~
+0 0 15070
+S
+#15072
+The stables~
+Here can be seen a faint trickle of light comming from above.  The roof
+here is made of earth rather than the stone of a building.
+~
+0 0 0
+D1
+~
+~
+0 0 15073
+S
+#15073
+By some stalls~
+There are three stalls here.  The posts that make them up are almost
+completely rotten.  There is a rotten bag of oats hanging on a peg to your
+left.
+~
+0 0 0
+D2
+~
+~
+0 0 15059
+D3
+~
+~
+0 0 15072
+S
+#15074
+By another bunk~
+This bunk is less tidy than the others.  This soldier must have had a
+hard life dealing with ridicule from his peers.
+~
+0 0 0
+D1
+~
+~
+0 0 15075
+D2
+~
+~
+0 0 15060
+S
+#15075
+Between bunks~
+Standing between two bunks you can see that these soldiers would have
+known each other very well indeed.  There is no room for anything more than
+what must be done.
+~
+0 0 0
+D1
+~
+~
+0 0 15076
+D2
+~
+~
+0 0 15061
+D3
+~
+~
+0 0 15074
+S
+#15076
+By a bunk~
+The bunk next to you is a tidy one.  The only blemish you see is a rotted
+finger laying on the spread.
+~
+0 0 0
+D2
+~
+~
+0 0 15062
+D3
+~
+~
+0 0 15075
+S
+#15077
+The end of a huge table~
+From this end o the table you notice that the base of the table is indeed
+two tree trunks, not cut, but grown from the ground.
+~
+0 0 0
+D1
+~
+~
+0 0 15078
+D2
+~
+~
+0 0 15066
+S
+#15078
+More table~
+At the center of the table you see more closely the candelabra and the
+dagger forced into the wood of the table.
+~
+0 8 0
+D1
+~
+~
+0 0 15079
+D3
+~
+~
+0 0 15077
+S
+#15079
+Near a huge table~
+Looking down the length of this table you see that it could seat nearly
+50 people without difficulty.  The table is currently unset.  The only
+objects on the table are a single candelabra and a dagger set firmly into
+the center.
+~
+0 0 0
+D2
+~
+~
+0 0 15068
+D3
+~
+~
+0 0 15078
+S
+#15080
+Near a cutting block~
+The floor beneath the block is stained pink from years of animal blood
+being poored there.  One wall has an empty spice rack.
+~
+0 2097152 1
+D1
+~
+~
+0 0 15081
+D2
+~
+~
+0 0 15070
+S
+#15081
+An empty corner~
+There is nothing in this corner.  Thats odd...
+~
+0 0 0
+D2
+~
+~
+0 0 15071
+D3
+~
+~
+0 0 15080
+S
+#15082
+Top of the Stairs~
+This grand staircase obviously leads to someone of importance.  The
+banisters of the staircase wrap around and create a three sided square to
+encase it.
+~
+0 0 0
+D1
+~
+~
+0 0 15084
+D3
+~
+~
+0 0 15083
+D5
+~
+~
+0 0 15033
+S
+#15083
+To the left of the stairs~
+This side of the staircase looks less used.  The rail here is more intact
+then on the other side.  The space from this side to the other is nearly 30
+feet.
+~
+0 8 0
+D1
+~
+~
+0 0 15082
+D2
+~
+~
+0 0 15085
+S
+#15084
+The Royal hallway~
+Leaving the staircase in this direction you notice a door over yonder.
+~
+0 0 0
+D2
+~
+~
+0 0 15087
+D3
+~
+~
+0 0 15082
+S
+#15085
+Near the appartments~
+Down the hall to your right is a very large set of doors.  The Rail on
+your left over looks the staircase.
+~
+0 0 0
+D0
+~
+~
+0 0 15083
+D1
+~
+~
+0 0 15086
+S
+#15086
+Before the Bedroom doors~
+Standing in front of two huge oaken doors, you once again wonder at the
+type of people that once lived here.
+~
+0 4 0
+D1
+~
+~
+0 0 15087
+D2
+~
+~
+33 0 15089
+D3
+~
+~
+0 0 15085
+S
+#15087
+Near Royal bedchamber~
+Leaning over the rail to peer down into the stairwell you notice a
+beautifull design in the pattern on the floor below.  It looks like a human
+face.
+~
+0 0 0
+D0
+~
+~
+0 0 15084
+D3
+~
+~
+0 0 15086
+S
+#15088
+On the Bed~
+You are standing on what was surely the royal bed.  Though the mattress
+rotted it still supports your weight.
+~
+0 0 0
+D1
+~
+~
+0 0 15089
+S
+#15089
+Entrance to the bedchamber~
+These appartments are lavishly decorated.  Even though they decor is
+mostly rotted clean away, you can still see the craft for its beauty.
+~
+0 0 0
+D0
+~
+~
+33 0 15086
+D1
+~
+~
+0 0 15090
+D3
+~
+~
+0 0 15088
+S
+#15090
+Near a balcony~
+Confronted with an exterior exit on the second level of this castle you
+are confused.  How can you exit out from the second level?
+~
+0 0 0
+D2
+~
+~
+0 0 15091
+D3
+~
+~
+0 0 15089
+S
+#15091
+A balcony~
+Of course!  A balcony.  Looking out over the gardens that you passed
+through earlier you see then for what they truely are.  A map of the
+surrounding areas.  The paths in the garden forn what appear to you as
+roads.
+~
+0 1 0
+D0
+~
+~
+0 0 15090
+D5
+~
+~
+0 0 15012
+S
+#15092
+Garison's Work Room~
+You have entered a large room, it has been dug out of pure code.
+There are many hints to who it belongs to, one is the cigar butt's left 
+on the ground, the other is the change of clothes left hanging on a 
+magical hook floating in mid-air this room is most definatly Garison's.
+There is also a magical portal that leads to the Chamber of Garison,
+but alas there is a sign that reads "Temperarly Out Of Order". Hehheheheheheh.
+~
+0 4 0
+S
+#15093
+Underneeth the Staircase~
+From this vantage point, you can see that yes indeed this whole chamber
+is made from a single slab of marble.
+~
+0 0 0
+D0
+~
+~
+0 0 15038
+D3
+~
+~
+0 0 15034
+S
+#0
+
+
+#RESETS
+M 1 15000 4 15000
+M 1 15001 1 15001
+D 0 15002 1 2
+D 0 15004 3 2
+O 1 15003 1 15008
+M 1 15000 4 15010
+M 1 15000 4 15012
+M 1 15005 1 15012
+E 1 15013 1 1
+M 1 15000 4 15012
+D 0 15014 0 1
+D 0 15014 2 1
+D 0 15015 0 1
+D 0 15015 1 1
+D 0 15015 2 1
+M 1 15003 5 15016
+D 0 15016 3 1
+D 0 15017 0 1
+M 1 15003 5 15018
+E 1 15014 1 11
+M 1 15003 5 15018
+E 1 15014 1 11
+M 1 15003 5 15018
+E 1 15014 1 11
+D 0 15018 0 1
+D 0 15019 2 1
+M 1 15003 5 15020
+D 0 15020 2 1
+O 1 15006 1 15021
+O 1 15006 1 15022
+D 0 15022 0 1
+D 0 15022 2 1
+D 0 15023 0 2
+D 0 15023 2 1
+D 0 15023 3 1
+O 1 15017 1 15024
+D 0 15024 2 2
+M 1 15008 3 15025
+M 1 15008 3 15025
+D 0 15025 2 1
+D 0 15026 0 1
+M 1 15008 3 15027
+D 0 15027 0 1
+D 0 15028 1 1
+O 1 15004 1 15030
+D 0 15032 0 0
+D 0 15035 2 0
+O 1 15005 1 15038
+M 1 15002 6 15040
+O 1 15006 1 15041
+D 0 15041 0 1
+O 1 15006 1 15042
+D 0 15042 1 1
+D 0 15042 2 1
+D 0 15043 3 1
+D 0 15046 0 1
+D 0 15047 1 0
+D 0 15048 3 0
+D 0 15049 1 1
+D 0 15050 2 1
+D 0 15050 3 1
+D 0 15052 1 0
+D 0 15053 1 0
+D 0 15053 3 0
+D 0 15054 3 0
+D 0 15055 0 0
+M 1 15002 6 15066
+M 1 15002 6 15067
+O 1 15010 1 15067
+P 0 15012 1 0
+M 1 15009 1 15068
+D 0 15068 1 0
+D 0 15069 2 0
+D 0 15069 3 0
+M 1 15006 1 15071
+O 1 15007 1 15071
+M 1 15002 6 15075
+M 1 15002 6 15078
+O 1 15016 1 15078
+M 1 15002 6 15079
+M 1 15007 1 15080
+E 1 15011 1 18
+O 1 15008 1 15080
+P 0 15009 1 0
+M 1 15004 1 15084
+E 1 15018 1 18
+D 0 15086 2 0
+D 0 15089 0 0
+O 1 15015 1 15092
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  15001 spec_cast_mage
+M  15004 spec_poison
+S
+
+
+#$

@@ -1,0 +1,877 @@
+#AREA   House of Lies~
+
+#VERSION 1
+
+#AUTHOR Remik~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Hollow screams can be heard coming from the flesh of the walls.~
+
+#FLAGS
+0
+
+#ECONOMY 0 68000505
+
+#CLIMATE 0 0 0
+
+#HELPS
+0 $~
+
+#MOBILES
+#900
+Dalos~
+Dalos~
+The statue of Dalos stands here, looking upon his sons altar.
+~
+~
+67 4194344 0 C
+50 0 0 0d0+0 100d1+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 8192 0 1879447817 0
+> all_greet_prog 100~
+mpechoat $n The statue of Dalos comes alive!
+say Greetings, $n.  I'm here to heal you.  Come rest awhile.
+mpechoat $n The statue of Dalos reforms into its original self.
+~
+> speech_prog p mana~
+c 'restore mana' $n
+~
+> speech_prog p armor~
+c 'armor' $n
+~
+> speech_prog p bless~
+c 'bless' $n
+~
+> speech_prog p heal~
+c 'heal' $n
+~
+> speech_prog blindness~
+c 'cure blindness' $n
+~
+> speech_prog p curse~
+c 'remove curse' $n
+~
+> speech_prog p poison~
+c 'cure poison' $n
+~
+|
+#901
+a silent figure~
+A silent figure~
+A silent figure stands here, waiting for your sale.
+~
+~
+3 4194344 0 C
+51 0 -300 1d1+30000 20d100+100
+700000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 1 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+emote sweeps his arms to his sides.
+emote points to two individual items that he has for sale right now.
+bow
+~
+|
+#902
+The beholder~
+The beholder~
+A beholder hovers here, waving its tenticals.
+~
+~
+3 4718632 0 C
+51 0 -300 1d1+30000 20d100+100
+700000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 1 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+emote blinks, but continues to stare with the other seven eyes.
+glare $n
+~
+|
+#903
+Lone Figure~
+A lone figure~
+A silent figure stands here, pointing out objects.
+~
+Before you see a huge Elven Mage.  His black eyes go well with his long black
+hair.  His attire is also completely black.  The only thing that stands out
+among the black his his gleaming white teeth, splotted with red.  You wonder
+from what.  No matter.  This Elf is here to sell you goods.
+~
+3 4194344 0 C
+51 0 -300 1d1+30000 20d100+100
+700000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 1 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+mpechoat $n This creature will transport you out of the house.
+mpechoat $n You have one of five places you can go.  These five are:
+mpechoat $n Mystic Landscapes, Scottish Highlands, CoS, Malathar, or Darkhaven.
+mpechoat $n Say the place you want to go, and the creature will transport.
+~
+> speech_prog p malathar~
+mpechoat $n The silent man waves his arms as a blue vortex consumes you.
+mptransfer $n 401
+~
+> speech_prog p mystic~
+mpechoat $n The silent figure crosses his arms as a green vortex engulfs you.
+mptransfer $n 1800
+~
+> speech_prog p scottish~
+mpechoat $n The lone figure salutes as you are surrounded by a white light.
+mptransfer $n 4203
+~
+> speech_prog p cos~
+mpechoat $n Your eyes are shut, as a hazel fire consumes you.
+mptransfer $n 8768
+~
+> speech_prog p darkhaven~
+mpechoat $n A swarm of yellow fills your vision as the lone man hisses.
+mptransfer $n 21000
+~
+|
+#904
+Lich~
+A death lich~
+A lich crouches on the counter, eating a arm.
+~
+~
+3 4194344 0 C
+51 0 -300 1d1+30000 20d100+100
+700000 0
+112 112 1
+18 18 18 18 13 13 18
+0 0 0 0 0
+1 0 0 0 1 1 6
+0 0 2047 0 3156992 0 48 3
+> all_greet_prog 100~
+emote chomps on the arm of a soldier. 
+mmm
+burp
+~
+|
+#905
+Light~
+A wall of light~
+A wall of light glows here, waiting to incumber you with knowledge.
+~
+A huge man stands here in black robes.  His cloaked face gives him the 
+appearance of death.
+~
+1049603 4194344 0 C
+51 0 0 1d1+30000 5d100+800
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+0 0 2047 0 3156992 0 0 0
+> all_greet_prog 100~
+mpechoat $n The souls of Old Deception greet you on your way in.
+~
+|
+#906
+werebat~
+a werebat~
+A werebat hovers in silence, awaiting his masters command.
+~
+~
+3 4718600 0 C
+48 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+23 3 0 0 135679255 135679255 5
+0 0 0 0 0 0 2057 0
+> act_prog ~
+if isfight == $n
+scream
+mpkill $n
+~
+|
+#907
+Necromancer~
+A Necromancer~
+An undead Necromancer stands here, hoarding his army.
+~
+~
+3 4194856 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 5
+0 0 0 0 0 0 1646285072 16391
+> all_greet_prog 100~
+if clan($n) == Deception
+say Welcome, $n.  Hail to Lord Remik and Thallin!
+unlock north
+open north
+bow
+say Enjoy your stay at the House of Lies.
+endif
+if clan($n) == Strife
+say Welcome, $n.  Hail to Lord Remik and Thallin.
+unlock north
+open north
+bow
+say Enjoy your stay at the house of Lies.
+endif
+if clan($n) != Deception
+if clan($n) != Strife
+say You made a big mistake, $n!  Meet your death!
+mpkill $n
+mpforce werebat mpkill $n
+mpforce 2.werebat mpkill $n
+mpforce 3.werebat mpkill $n
+mpforce 4.werebat mpkill $n
+mpforce 5.werebat mpkill $n
+endif
+endif
+~
+|
+#0
+
+
+#OBJECTS
+#900
+recall scroll~
+A recall scroll~
+A recall scroll has been dropped here.~
+~
+2 8192 1
+10 -1 -1 -1
+1 50 5
+'word of recall' 'NONE' 'NONE'
+#901
+scroll identity~
+A scroll of identify~
+A scroll of identify has been dropped here.~
+~
+2 8192 1
+10 -1 -1 -1
+1 50 5
+'identify' 'NONE' 'NONE'
+#902
+Twisted Truth~
+Twisted Truth~
+A spinning vortex hovers next to you.~
+~
+1 8192 16385
+0 0 -1 0
+1 100 10
+#903
+Silence~
+Silence~
+A void hovers next to your chest.~
+~
+9 8195 9 1
+10 10 0 0
+1 500 50
+#904
+False Hopes~
+False Hopes~
+A pair of soft, black boots hover here.~
+~
+9 8195 65
+10 10 0 0
+1 249 24
+#905
+Pain~
+Pain~
+A wicked set of hoops hover here.~
+~
+9 8195 65537
+10 10 0 0
+1 100 10
+#906
+Blackened Heart~
+Blackened Heart~
+A wicked longsword awaits to be wielded.~
+~
+5 8203 8193
+100 10 1 1
+1 800 80
+#907
+Jagged Fang~
+Jagged Fang~
+A jagged fang is here, looking for a master.~
+~
+5 8203 8193
+100 10 1 11
+1 800 80
+#908
+Brain Masher~
+Brain Masher~
+A huge club waits to be wielded.~
+~
+5 8203 8193
+100 10 1 7
+1 800 80
+#909
+Grave Consequences~
+Grave Consequences~
+A very long pole has been stabbed into the ground.~
+~
+5 8203 8193
+100 10 1 0
+1 800 80
+#910
+dark canteen~
+a dark canteen~
+A dark canteen lies discarded on the ground.~
+~
+17 8192 1
+100 100 0 0
+1 50 5
+#911
+soldiers leg~
+a soldiers leg~
+A soldiers leg has been left here.~
+~
+19 8192 1
+50 100 0 0
+1 30 3
+#912
+some brains~
+brains of a rebellion lackey~
+The brains of a rebellion lackey lie here.~
+~
+19 8192 1
+50 38 0 0
+1 30 3
+#913
+heart burger~
+a heart burger~
+A heart in between two buns lies here.~
+~
+19 8192 1
+80 100 0 0
+1 30 3
+#914
+A soldiers arm~
+A soldiers arm~
+A soldiers arm~
+~
+19 0 1
+45 100 0 0
+1 30 3
+#915
+The Board of Lies~
+The Board of Lies~
+The Board of Lies is here for you to post information on.~
+~
+35 0 0
+0 0 0 0
+1000 0 0
+#916
+Altar to Remik~
+The Altar of Remik~
+The Altar of Remik stands here.~
+~
+12 2 0
+0 0 0 0
+1 0 0
+#917
+~
+an Ornate Desk~
+An Ornate Desk rests here.
+~
+~
+12 1073741825 0
+0 0 0 0
+10000 0 0
+E
+desk~
+This desk looks FAR too heavy to move...
+~
+#918
+Throne of Remik~
+The Throne of Remik~
+The Throne of Remik stands here in all its glory.~
+~
+12 2 0
+0 0 0 0
+1000 0 0
+#919
+A key~
+A key~
+A key~
+~
+18 0 1
+803 0 0 0
+1 0 0
+#920
+the Visor of Trickery~
+the Visor of Trickery~
+A wicked black visor lies here.~
+~
+9 256 131073 1
+20 20 0 0
+1 10000 5000
+A
+56 205
+A
+18 6
+A
+19 6
+A
+31 -6
+A
+25 -6
+#0
+
+
+#ROOMS
+#900
+Graveyard~
+The smell of autumn fills the air.  Leaves, touching all colors of the
+spectrum fill view.  A small, worn picket fence has been assembled in 
+a rectangle shape, focusing attention to what lies inside:  A graveyard.
+Graves, monuments, tombs, all on display.  Some reach higher than ten
+feet tall while others strive to make it past one foot.  The gray of the
+cemetary contrasts greatly with the changing of the seasons, making the
+sight all the more grand.  Slowly, the image that is seen is broken.
+Cracks of black void reach out and destroy the picture that was once here.
+~
+0 7348228 1 4 801 0
+D2
+~
+~
+0 -1 280
+S
+#901
+Entrance to the Tower~
+The black void again cracks, this time forming an area much different than
+the autumned season that last appeared.  Where there were tombs and graves
+before now lie bones and corpses.  Reaching out of your view is a giant, black
+colossus of Remik.  This doom-impending tower stands over two hundred feet 
+tall and fourth as wide.  Remik, clad in a corpse colored cloak, stands admist
+a great battlefield, torn with death.  A large stone door in Remiks left leg
+can be made out.  A possible entrance, you would imagine.
+~
+0 3153920 1
+D0
+~
+~
+0 -1 902
+S
+#902
+The Base of the Tower~
+The base of the colossus reveals the material that the outside of the tower
+is made from.  A very hard, black stone.  The stone itself looks very polished
+and gleams brightly from the slightest of light.  The stone door in the left
+leg of the tower is stands slightly taller than ten feet, and half that in
+width.  A very large carving has been placed into the door, and even from the
+untrained eye, it can be recognized as the insignia of Deception.  From here,
+the only other exit other than into the colossus is back south, further away
+from the tower of Remik.
+~
+0 3153920 1
+D0
+~
+~
+7 919 903
+> leave_prog 100~
+mpforce necro close north
+mpforce necro lock north
+~
+|
+S
+#903
+Main Hall~
+Stepping through the door, it can be noted that the dimensions on the outside
+do not reflect the dimensions on the inside.  Outside, the colossus seemed 
+rather large, however, on the inside, it seems much bigger.  This single room
+must be well over five times its actual size on the outside.  Roughly the room
+itself seems about one hundred by one hundred square feet.  This magical room
+may seem rather dull in color, but does not lack in description.  All colors
+conform to a grayscale:  The walls and floor being of a black color dotted with
+various shades of gray.  The walls however, do not draw attention because of
+their color.  They draw attention from the fact that they seem alive.  Spinless
+bodies, mutilated parts, and bones pile on top of each other to form the walls
+and floor of the House of Lies.  The figures stand still, but look have a look
+of desperation and need.  They look as if they are trying to escape but have
+been damned for eternity by being buried here.  An open passage to the east
+and west trail off from here, as well as a staircase to the north.
+~
+0 3153924 0
+D1
+~
+~
+0 -1 904
+D2
+~
+~
+3 919 902
+D3
+~
+~
+0 -1 905
+D4
+~
+~
+0 -1 906
+S
+#904
+Clerical Hall~
+The smooth black stone that was evident in the former room snakes its way into
+here.  The colors of the polished stone change, however.  As if in some form
+of transformation, the black stone with gray dots conform to a new pattern of
+dark red stone with yellow spots.  In the center of the room, an alter stands,
+erecting itself over ten feet in height, near half the distance to the ceiling.
+A rather ornate looking statue stands before the alter, as if looking down 
+upon it.  The statue, recognized as Dalos, was Remiks father before Beowolf
+had slain him.  The grand nature of the room almost forces anyone who walks in
+to bow their head in homage.  The only exit from here is west.
+~
+0 3153924 0
+D3
+~
+~
+0 -1 903
+S
+#905
+Altar to Remik~
+A rather large altar to Remik stands in the center of the room.  The altar,
+a shade of corpse blue, stands out well against the black and red stone of the
+House.  The altar, constucted to shape the true form of Remik, shows off the 
+newly scarred flesh of his brand:  an infinity sign.  Remik, standing more
+than fifteen feet in height, is wraped in a shroud of death.  Spirits, shadows,
+and phantasmal figures swirl around his body, making one smooth spiral about 
+his cloaked figure.  The figures in the wall seem even more disturbed in this
+room than in the Main Hall.  The only exit from here is east.
+~
+0 3153924 0
+D1
+~
+~
+0 -1 903
+S
+#906
+Stairs~
+A very steep set of stairs make their way up the leg of the colossus. Hundreds
+of stairs make almost a vertical climb to the next level.  They sheer height
+and space of the stairs make the staircase seem forever.  The smooth black 
+stone of the walls make the stairs rather dark, bringing a horrible detail to
+attention.  Screaming.  All about, coming from the walls, and the stairs as
+feet step upon them, horrific cries of pain wail in your ears.  Up and down
+seem to be the only exits from here.
+~
+0 3153924 0
+D4
+~
+~
+0 -1 907
+D5
+~
+~
+0 -1 903
+S
+#907
+Second Level~
+This level, much like the Main Hall, has black stone walls, and floor. 
+Polished and gleaming the smallest detail, the writing bodies contained within
+wail in pain, asking to be freed, as they reach for your body.  The floor,
+no longer very stable, has taken upon some rather odd dimensions.  It rises and
+falls, as if breathing, making several spots very unstable.  From this hellish
+room, exits lead down, east, west, and up.
+~
+0 3153924 0
+D1
+~
+~
+0 -1 908
+D3
+~
+~
+0 -1 909
+D4
+~
+~
+0 -1 910
+D5
+~
+~
+0 -1 906
+S
+#908
+Cloaked Magic~
+Upon entering this room, a glowing ball of light appears.  The room, formerly
+black, shines with an evil aura.  The light, changing its radiation and color
+every blink, flickers on and off, revealing the contents of the room.  A
+shopkeeper, cloaked in silence, stands near the back of the room, sweeping his
+arms to his sides, displaying in full all that he has to offer.  He motions
+with a single finger the individual items he has for sale right now.  The only
+exit from here is to the west.
+~
+0 3153924 0
+D3
+~
+~
+0 -1 907
+S
+#909
+Cloaked Tools~
+This room, much like many of the others, has walls made of a hard stone, 
+writhing and wiggling with bodies of those fallen before Remik and the Old
+Deception.  However, towards the back of the room, the floor rises at a ninety
+degree angle, creating a wall five feet high.  It continues back and looks much
+like the counter of a shopkeepers den.  Behind the counter, a large beholder
+hovers. Its tenticals and seven or eight eyes look at nothing but you, almost
+looking past you, as if they can see into your soul.  Something looks to have
+been scratched on to the wall to the right, next to the only exit leading east.
+~
+0 3153924 0
+D1
+~
+~
+0 -1 907
+E
+scratch something words~
+Twisted Truth         =  Light
+Silence               =  Breastplate
+False Hopes           =  Boots
+Pain                  =  Earrings
+Blackened Heart       =  Longsword
+Jagged Fang           =  Dagger
+Brain Masher          =  Mace
+Grave Consequences    =  Lance
+~
+S
+#910
+Stairs~
+Again, very steep steps make their way up and down the torso of the colossus.
+The stairs seem hundreds in pair, doubling again when you reach the top.  Even
+though your feet are hitting stone, cries of pain burst your eardrums.  Outside
+of the wailing, nothing can be heard.  What makes it worse are the close walls,
+making the experience three times as loud.
+~
+0 3153924 0
+D4
+~
+~
+0 -1 911
+D5
+~
+~
+0 -1 907
+S
+#911
+Third Level~
+Upon entering the third level of the House of Lies, the hollow screaming that
+could once be heard has stopped.  Instead, a dead silence has taken its place,
+as a mist of black fog rises from the floor.  No longer do the walls contain 
+lifeless bodies of the dead, but now contain plain black stone.  A room to the
+east and west exit from here, as well as another staircase leading upward.
+~
+0 1076895744 0
+D0
+~
+~
+0 -1 916
+D1
+~
+~
+0 -1 912
+D2
+~
+~
+0 -1 917
+D3
+~
+~
+0 -1 913
+D4
+~
+~
+0 -1 914
+D5
+~
+~
+0 -1 910
+S
+#912
+Portal Room~
+Char black stone covers the entire room.  From head to toe, you see nothing
+but the black soot of ashes.  A single figure stands in the pile of soot.
+He does no move or speak.  He only performs the bidding of you, a Deception
+Master.  This creature is said to be a creation made by Remik himself, in an
+attempt to replicate life.  This experiment gone wrong now fulfills his master
+by transporting his followers to their choice of destination.
+~
+0 1076895744 0
+D3
+~
+~
+0 -1 911
+S
+#913
+Body Parts~
+The third level hall pales in comparison to this room when it comes to an evil
+design.  The walls, floor, and shopkeepers counter all contain the fresh blood
+and bones of victims.  A million screams doubling over again and again cry out
+to listening ears.  On top of the counter, munching on a soldiers arm, is a 
+lich.  His empty eye sockets fix on you briefly, before he continues his lunch.
+~
+0 1076895744 0
+D1
+~
+~
+0 -1 911
+> rand_prog 50~
+mpechoat $n The lich chomps on the arm of a soldier.
+~
+|
+S
+#914
+Stairs~
+It is a short climb to the top, and a short dive to the bottom of this set of
+stairs.  The black luster of the stairway gleams, as you can see shadow
+creatures passing in, over, and under you.  Looking either way, you can see
+nothing on either end of the staircase, as both are pitch black.  Near the top
+of the stairs, however, a powerful humming noise can be heard.
+~
+0 1076895744 0
+D4
+~
+~
+0 -1 915
+D5
+~
+~
+0 -1 911
+S
+#915
+Throne of Remik~
+You stand in the center of a dark room with stale air.  Torches light all that
+you see.  In the back, center, sits a tall, elegant throne.  Torchlight dances
+and flares off of the carved, gold gargoyles, snakes, and shadow beings that
+cover every inch of this statley structure.  A canopy draped with heavy red
+brocade and trimmed with gold tassels is jutting overhead.  The throne itself
+is sitting atop three square, white marble platforms that serve as steps.  The
+whole thing is massive and imposing.  Tufted blue velvet cover the seat, the
+back, and tops the arms.  The room, taking on the motif from the second level,
+boasts death and dying in the walls and floor.  While on the second level the
+bodies were still and inanimate, this floor, however, has motion, as well as
+live screams.  A sick and uneasy feeling comes to mind when seeing all of
+this.  The only exit from here is down.
+~
+0 1076895744 0
+D5
+~
+~
+0 -1 914
+> act_prog p throw~
+~
+> act_prog p throw~
+mpechoat $n You suck!!!
+~
+|
+S
+#916
+Dead Knowledge~
+Before entering this room, it appeared as black as night.  The second a foot
+had touched the perimiters of the room, it lit up.  As clear as day, the room
+that now stands in your vision is much like a dream.  The walls and floor are
+much like the rest of the House, but floating about the room are the spirits
+of former Deception members.  They welcome you with a quick salute and a grin.
+The spirits float all about, touching and spinning at the sight of you.  In
+front of you, and the main point of this room is a radiating wall of light.
+Your mind booms with a terrible voice, as you know this is where you can learn
+the skills and spells of those before you.
+~
+0 1073741824 1
+D2
+~
+~
+0 -1 911
+S
+#917
+Donation Pit~
+Upon entering this room, you nearly fall into a large, black void of fog.
+The void looks to hold an unlimited amount of space.  Inside you can see
+various things, floating atop the pit, waiting to be taken.  The only exit from
+here is north, in the the third level hall.
+~
+0 1074266112 1
+D0
+~
+~
+0 -1 911
+S
+#0
+
+
+#RESETS
+M 1 907 1 902
+G 1 919 1
+E 1 12012 1 16
+M 1 906 5 902
+M 1 906 5 902
+M 1 906 5 902
+M 1 906 5 902
+M 1 906 5 902
+D 0 902 0 2
+O 1 915 1 903
+D 0 903 2 1
+M 1 900 1 904
+O 1 916 1 905
+M 1 901 1 908
+G 1 900 1
+G 1 901 1
+M 1 902 1 909
+G 1 909 1
+G 1 908 1
+G 1 907 1
+G 1 906 1
+G 1 905 1
+G 1 904 1
+G 1 903 1
+G 1 902 1
+M 1 903 1 912
+M 1 904 1 913
+G 1 910 1
+G 1 913 1
+G 1 912 1
+G 1 911 1
+O 1 918 1 915
+M 1 905 1 916
+S
+
+
+#SHOPS
+ 901    0  0  0  0  0   100   0         0 23    ; A silent figure
+ 902    0  0  0  0  0   100   0         0 23    ; The beholder
+ 904    0  0  0  0  0   120   0         0 23    ; A death lich
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  900 spec_cast_adept
+S
+
+
+#$

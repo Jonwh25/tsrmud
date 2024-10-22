@@ -1,0 +1,36 @@
+#DEITY
+Filename		test.dty~
+Name		Test~
+Description	The deity of experimentation, Test, hovers through the cosmos, testing
+the rigors and boundaries of his Codex.  It is in a state of constant
+chaotic evolution, its attributes changing to suit a particular forray
+into the inexplicable.  Only the most foolhardy adventurers worship the
+often devastating effects of Test and his brother, Crash.
+~
+Alignment		-200
+Worshippers	1
+Flee		0
+Kill		0
+Kill_magic	0
+Sac		0
+Bury_corpse	0
+Aid_spell		0
+Aid		0
+Steal		0
+Backstab		0
+Die		0
+Dig_corpse	0
+Scorpse		399
+Savatar		600
+Sdeityobj		499
+Srecall		401
+Race		-1
+Class		-1
+Element		0
+Sex		-1
+Avatar		0
+Deityobj		0
+Affected		0
+End
+
+#END

@@ -1,0 +1,161 @@
+=== Vnum Assignments
+
+00  limbo.are    
+01  newgate.are     - Stock    
+02  newbie.are      - Remik
+03  plains.are      - Stock
+04  chaoscaves.are  - Beowolf 
+05  kivitz.are 	    - Remik
+06  underwld.are    - Variant
+07  merlin.are      - Raff 
+08  astral.are 	    - Stock            
+09  lies.are        - Remik
+10  wastes.are      - Remik 
+11  serenity.are    - Raff 
+12  gods.are        - Stock  
+13  hitower.are     - Stock
+14  hitower.are     - Stock
+15  srefuge.are	    - Stock
+16  wyvern.are      - Stock
+17  wyvern.are      - Stock
+18  mystic.are      - Silvermist 
+19  remik2.are      - Remik             
+20  pixie.are       - Stock
+21  unholy.are      - Stock
+22  draconia.are
+23  
+24  manor.are       - Stock
+25  sylvain.are     - Terram
+26  
+27  
+28  
+29  
+30  
+31  
+32 
+33 
+34  chapel.are       - Stock
+35  midennir.are     - Stock
+36  grave.are        - Stock
+37  
+38  
+39      
+40      
+41     
+42              
+43  apex.are	    - Variant
+44            
+45  gobtown.are     - Terram
+46  deception.are   - Remik
+47              
+48              
+49              
+50   
+51       
+52  thalos.are     - Stock 
+53     
+54            
+55     
+56            
+57             
+58              
+59              
+60  haon.are     
+61  haon.are     
+62              
+63  
+64              
+65  dwarven.are  
+66  daycare.are  
+67              
+68  catacombs.are
+69              
+70  sewer.are    
+71  sewer.are    
+72  sewer.are    
+73  sewer.are    
+74  sewer.are    
+75              
+76              
+77              
+78    
+79  redferne.are 
+80    
+81  seatun.are   - Terram 
+82             
+83    
+84            
+85             
+86  shadows.are   
+87  shadows.are 
+88  mirkwood.are              
+89  grove.are   
+90  savannah.are 
+91    
+92  canyon.are   - Stock
+93  mansion.are  - Beowolf
+94  
+95  Build.are
+96  
+97  
+98  export.are           
+99  tree.are
+100
+101 
+102           
+103 newacad.are          
+104 newacad.are
+105 mortak.are       - Mortak
+106 akasha.are	     - Akasha
+107 anqet.are        - Anqet
+108 anqet.are        - Anqet
+109 anqet.are        - Anqet
+110
+111 
+112
+113 yrinthi.are      - Yrinthi
+114 remik.are        - Remik
+115 alter.are        - Thallin
+116 
+117 
+118
+119 Cirianna.are     - Cirianna (Jacinth)
+120 
+121 
+122
+123 
+124 
+125
+126 
+127 
+128 
+129 
+130 
+131
+132
+133
+134  ciquala.are
+135  ambush.are   
+136
+137
+138  skazoy.are     - Sepha 
+139  Khnemu.are      - Khnemu
+140  under.are      - ?
+141 
+142  franorst.are   - Sepha
+143
+144  Thallin.are    - Thallin
+145
+146  Beowolf.are    - Beowolf
+147  Xalgaroth.are  - Xalgaroth (Stunty)
+148  Dasniax.are    - Dasniax (Isaac)
+156  caverns.are
+157  warkeep.are    - Stock
+210  newdark.are    - Stock
+211  newdark.are    - Stock
+212  newdark.are    - Stock
+213  newdark.are    - Stock
+214  newdark.are    - Stock
+248  gallery.are    - Stock
+280  strife.are     - Thallin
+290  coven.are

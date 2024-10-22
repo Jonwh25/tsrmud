@@ -1,0 +1,1557 @@
+#AREA   Chaos Mansion~
+
+
+
+#AUTHOR Beowolf~
+
+#RANGES
+10 60 10 60
+$
+
+#RESETMSG You hear the sounds of marching men echo through the halls.~
+
+#FLAGS
+0 5
+
+#ECONOMY 0 31251240
+
+#MOBILES
+#9300
+Dell shopkeeper~
+Dell Avern~
+Dell is here writing a new scroll.
+~
+~
+2115 56 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 1056768 0 446705664 278532
+> all_greet_prog 100~
+if issound($n)
+mpechoat $n !!SOUND(Tsr/Shopkeeper V=100)
+endif
+~
+|
+#9301
+Katie~
+A beautiful woman named Katie~
+Katie the Chaos Healer is here healing people.
+~
+~
+2115 8216 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 1 0 0 1 1 0
+0 0 0 0 1056768 0 446697472 802816
+#9302
+Abria~
+Abria Kalipsta~
+Abria is here reading a book.
+~
+~
+67 8216 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 7 0 0 1 1 0
+0 0 0 0 0 0 8388784 524291
+#9303
+royal guard chaos~
+A Royal Guard of Chaos~
+The Royal Guardian of Chaos stands here sharpening his sword.
+~
+~
+67 8200 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 240 524291
+#9304
+Duncan~
+Duncan Stronghand~
+Duncan is here repairing some armor.
+~
+~
+2115 56 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 446705664 278532
+#9305
+General Tulan~
+General Tulan~
+General Tulan is here looking the hall over.
+~
+~
+67 8 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1008 524295
+#9306
+Shamel~
+Shamel Strix~
+Shamel is here sewing a shirt.
+~
+~
+67 0 0 C
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 65 2
+#9307
+Abram~
+Abram Strix~
+Abram is here smiling as he works on some armor.
+~
+~
+67 40 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 2098160 802823
+#9308
+Horned Demon~
+A Demon~
+A Demon from the Outer Planes is here with an evil smile upon his face.
+~
+~
+99 34078776 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+90 3 0 0 1818575905 1818575904 0
+0 0 0 0 0 0 44055539 524295
+#9309
+Ghelst~
+Ghest~
+Ghelst is here instructing students the ways of Chaos.
+~
+~
+1049667 56 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 933886 1 0
+0 0 0 0 1056768 0 446705664 278532
+#9310
+guard dog~
+The Guard Dog of Chaos~
+A large pitbull covered in spikes and Chaos armor is growling at you.
+~
+~
+129 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+30 3 0 0 1728065907 1728065906 0
+0 0 0 0 0 0 1 0
+#9311
+hell hound~
+A hell hound~
+An evil dog with glowing red eyes is here snarling at you.
+~
+~
+129 0 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+30 3 0 0 1728065907 1728065906 0
+0 0 0 0 0 0 1 0
+#9312
+nightmare horse~
+A Nightmare~
+A nightmare is here breathing fire out of its nose.
+~
+~
+262273 34078744 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+86 3 0 0 543518313 543518313 0
+0 0 0 0 0 0 268435493 2
+#9313
+black dragon~
+A black dragon of Chaos~
+A black dragon of Chaos is looking at you with vile yellow eyes.
+~
+~
+262145 36184064 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+31 0 0 0 1879074163 1879074162 0
+0 0 0 0 0 0 2144647 0
+#9314
+Ivan~
+Ivan~
+Ivan is here to sell you a pet.
+~
+~
+67 8 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 240 16387
+#9315
+shayla~
+Shayla~
+Shayla is here cooking for her husband.
+~
+~
+67 512 0 C
+17 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 2161 524290
+#9316
+chaos foot soldier~
+A foot soldier of Chaos~
+A foot soldier of Chaos is here sharpening his sword.
+~
+~
+67 0 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1008 524291
+#9317
+archer~
+A Chaos archer~
+A archer of Chaos is here stringing his bow.
+~
+~
+67 0 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1008 524291
+#9318
+bruxel shopkeeper~
+Bruxel~
+Bruxel is here polishing a wicked looking bastard sword.
+~
+~
+67 40 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 2098160 802823
+#9319
+chaos elite guard~
+An elite guard of Chaos~
+An elite guard of Chaos is here studying sword techniques.
+~
+~
+67 0 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1008 524291
+#9320
+Avery bartender~
+Avery the barkeep~
+Avery the barkeep is here polishing down the bar.
+~
+~
+67 40 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 2098160 802823
+#9321
+blaze warrior~
+Blaze "Death Keeper"~
+Blaze is here telling stories of long ago.
+~
+~
+67 0 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 0 0 1008 524291
+#9322
+chaos cook~
+A Chaos cook~
+A short and fat Chaos cook is here preparing food.
+~
+~
+67 512 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 4 0 0 1 1 0
+0 0 0 0 0 0 2161 524290
+#9323
+elyssra shopkeeper~
+Elyssra~
+Elyssra is here delivering food from table to table.
+~
+~
+67 40 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 3 0 0 1 1 0
+0 0 0 0 1056768 0 2098160 802823
+#9324
+tyro summoner~
+Tyro~
+Tyro the Demon Summoner is here learning new summon spells.
+~
+~
+67 128 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 276825072 720899
+#0
+
+
+#OBJECTS
+#9300
+scroll recall~
+A recall scroll~
+A recall scroll has been dropped here.~
+~
+2 0 1
+10 42 -1 -1
+1 50 5
+#9301
+scroll identify~
+A scroll of identify~
+A scroll of identify has been dropped here.~
+~
+2 0 1
+10 53 -1 -1
+1 50 5
+#9302
+prism chaos~
+A glowing prism of Chaos~
+A glowing triangle of great power lies on the floor.~
+~
+1 0 16385
+0 0 -1 0
+1 100 10
+#9303
+black breastplate chaos~
+The black breastplate of Chaos~
+A black breastpate with the Chaos symbol is laying on the ground.~
+~
+9 3 9
+10 10 0 0
+1 500 50
+#9304
+black boots chaos~
+The black boots of Chaos~
+A pair of black leather boots are here enscribed with the Chaos markings.~
+~
+9 3 65
+10 10 0 0
+1 249 24
+#9305
+skull chaos earring~
+A skull earring~
+A earring shaped in a skull lies forgotten on the ground.~
+~
+9 3 65537
+10 10 0 0
+1 100 10
+#9306
+black long sword ~
+A black longsword of Chaos~
+A longsword made for a follower of Chaos is here.~
+~
+5 11 8193
+100 10 1 1
+1 800 80
+#9307
+skull hilted dagger chaos~
+A skull-hilted dagger of Chaos~
+A skull-hilted dagger of Chaos lays on the ground.~
+~
+5 11 8193
+100 10 1 11
+1 800 80
+#9308
+flail chaos~
+The flail of Chaos~
+A Chaotic flail lays forgotten on the ground.~
+~
+5 11 8193
+100 10 1 7
+1 800 80
+#9309
+chaos lance~
+The Chaos lance~
+A long lance of Chaos lies here.~
+~
+5 11 8193
+100 10 1 0
+1 800 80
+#9310
+dark canteen~
+A dark canteen ~
+A dark canteen lies discarded on the ground.~
+~
+17 0 1
+100 100 0 0
+1 50 5
+#9311
+steak~
+A juicy steak~
+A juicy steak is rotting on the ground.~
+~
+19 0 1
+50 100 0 0
+1 30 3
+#9312
+loaf bread~
+A loaf of bread~
+A loaf of bread is starting to get mold on the ground.~
+~
+19 0 1
+50 38 0 0
+1 30 3
+#9313
+plate cicken noodles~
+A plate of chicken and noodles~
+A plate of chicken and noodles is on the ground! Pick em up!~
+~
+19 0 1
+80 100 0 0
+1 30 3
+#9314
+bowl chili~
+A bowl of chili~
+A hot bowl of chili is on the ground.~
+~
+19 0 1
+45 100 0 0
+1 30 3
+#9315
+bottle ale~
+A bottle of stout ale~
+A bottle of stout ale is on the ground.~
+~
+17 0 1
+100 100 3 0
+1 50 5
+#9316
+bottle rum~
+A bottle of rum~
+A bottle of rum is laying on the ground.~
+~
+17 0 1
+100 100 4 0
+1 50 5
+#9317
+frosty cold beer~
+A frosty mug of beer~
+A frosty mug of beer is laying on the ground.~
+~
+17 0 1
+100 100 1 0
+1 50 5
+#9318
+Averys surprize~
+Avery's Surprize~
+A cup full of Avery's Special drink is sitting on the ground.~
+~
+17 0 1
+100 100 8 0
+1 50 5
+#9319
+bottle whiskey~
+A bottle of whiskey~
+A bottle of whiskey is sitting on the ground.~
+~
+17 0 1
+100 100 5 0
+1 50 5
+#9320
+chaos warboard~
+The Chaos Warboard~
+The Warboard of Chaos is here for you to post information on.~
+~
+35 0 0
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#9300
+Secret Chambers.~
+The room is covered in dust and cobwebs. Magical torches burn with
+an errie green flame on the north and west walls. A large oak table
+covered in ancient maps and tactical battle plans sits in the middle
+of the room. There are two chairs on each side. Apparently this room
+was used long ago so that the leader of Chaos and the second general
+could discuss battle plans. The engravings of Beowolf's powerful symbol,
+the crying eye under a upside down crescent moon and surrounded by 
+a triangle is pulsing on the ground.
+~
+0 0 1
+D1
+~
+wall~
+11 -1 9301
+D2
+~
+wall~
+11 -1 9305
+S
+#9301
+General Zeerith's Office.~
+You stand in a huge lavish room. Large ornate tapestrys cover the walls
+all around you. A large canopy bed sits along the northern part of this
+room. There is a elaborate oak desk of fine quality along the south wall
+that is covered in maps and papers concerning the plans of Chaos. You
+notice the strange ceiling above. There seems to be some kind of magic
+that displays dragons soaring over you in the sky! A low fire burns in
+the west wall. A pair of double steel doors are to the east.
+~
+0 8192 1
+D1
+~
+doors~
+3 -1 9302
+D3
+~
+wall~
+11 -1 9300
+S
+#9302
+The Audience Hall.~
+This room is very large and lavishly decorated. A plush red carpet is
+under you. There are tapestrys depecting many great wars that the armies
+of Chaos won. You see one tapestry depecting a glowing portal which is
+high above what looks to be a old city. That must have been the city of
+New Midgaard that Beowolf destroyed. A pair of magical torches are hung
+on the northern and eastern walls. They burn with an errie blue light.
+A large plush couch sits along the northern wall. A pair of double 
+steel doors is to your west.
+~
+0 0 1
+D2
+~
+~
+0 -1 9307
+D3
+~
+doors~
+3 -1 9301
+S
+#9303
+The Vault.~
+This large room is very unremarkable. The room is lit with magical 
+torches along the north, west and eastern walls. They glow with an
+errie blue light. You see lots of weapon racks around the room and
+chests which contain clothing and supplies. Apparently this is where
+the army of Chaos donates any weapons or pieces of armor that they
+have no use of. Everything lies on the floor in a nice heap for the
+army to choose from. 
+~
+0 8192 1
+D2
+~
+~
+0 -1 9308
+S
+#9304
+Shopkeepers Room. (change name)~
+~
+0 4 1
+S
+#9305
+General Sarus's Chambers~
+A large statue of Beowolf dominates this room. The statue is made 
+of pure gold and shows Beowolf in full plate armor and wielding his
+large two handed sword, Purger. A large marble desk sits against
+the wall where Sarus makes his plans for conquest in this realm. A
+large crack runs along the north wall.
+~
+0 8192 1
+D0
+~
+wall~
+11 -1 9300
+D1
+~
+doors~
+3 -1 9306
+S
+#9306
+The Honor Hall.~
+You are in the western part of the honor hall. The wall to the north
+contains a small abbey where a statue of Beowolf stands. He stands 
+proudly with a long bastard sword drawn, and to the side of him. The
+statues eyes seem almost lifelike. A torch next to the statue on the
+north wall provides the light in this room. The hall continues to the
+east. A strange red hall lies to the south and a large arched doorway
+lies to the west.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9307
+D2
+~
+~
+0 -1 9311
+D3
+~
+doors~
+3 -1 9305
+S
+#9307
+The Honor Hall.~
+This hallway is has a very magical feel to it. Large torches with green
+flames illuminate the hall. A large open archway towers to the north and
+another one to the east. There is a set of heavy double doors to your
+south. The floor contains the names of various members of this mighty
+sect thus reminding you that you can earn your place of glory here.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9302
+D1
+~
+~
+0 -1 9308
+D2
+~
+doors~
+3 -1 9312
+D3
+~
+~
+0 -1 9306
+S
+#9308
+Altar to Beowolf.~
+You are before the mighty altar to Beowolf. A huge black marble altar
+sits perfectly aligned in the center of this magnificent room. The
+altar seems to have a life of its own as lightning dances around it.
+Above you is no roof but a night sky full of bright stars and the
+two moons of some strange place. Its not a sky from these realms...
+~
+0 8192 1
+D0
+~
+~
+0 -1 9303
+D1
+~
+~
+0 -1 9309
+D2
+~
+~
+0 -1 9313
+D3
+~
+~
+0 -1 9307
+S
+#9309
+Dell's Place.~
+You are in a small room filled with the smell of sulpher and various 
+other herbs used in the creation of making potions. You sense powerful
+magic at work in this room. A large black marble counter stands to your
+right where you may buy potions. A small door is to the north.
+~
+0 8192 1
+D3
+~
+~
+0 -1 9308
+S
+#9310
+Guest's Chambers.~
+You are in a lavishly decorated room. A plush red carpet is under you.
+The room is full of very eloquant furnature. There is a large plush
+couch and a large queen size bed in the room. A low fire burns in the
+fireplace making this a very comfortable room.
+~
+0 8192 1
+D1
+~
+doors~
+3 -1 9311
+S
+#9311
+Deven's Hall.~
+You are in a room where the sounds of men and womens screams fill your
+ears. The floor is red and the walls seem to be bleeding! This hall
+was constructed in remembrance of one of Beowolf's most elite men who
+followed Beowolf with all his heart. The honor hall is to the north and
+the demon hall is to the south. A large door stands to the west.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9306
+D2
+~
+~
+0 -1 9317
+D3
+~
+doors~
+1 -1 9310
+S
+#9312
+General Gath's Chambers.~
+The room is full of swords and other various devices of war. A large
+marble desk sits against the south wall where Gath makes his plans
+to further the progress of Chaos. Large tapestries adorn the room 
+showing the great sect of Chaos.
+~
+0 8192 1
+D0
+~
+doors~
+1 -1 9307
+S
+#9313
+Library of Chaos.~
+You are in a large room filled with rows and rows of bookshelves. Many
+ancient tomes can be found here detailing the history of the Chaos sect
+and of the mighty lord Beowolf. There are several large tables where you
+may sit and read any of the tomes in this vast library. Read and learn
+well for in the end knowledge will be our secret weapon.
+~
+0 0 1
+D0
+~
+~
+0 -1 9308
+S
+#9314
+Entrance into Chaos Mansion.~
+You are in a large hallway leading into the Chaos Mansion. It is here
+where the members of the Chaos sect come to live, learn, and practice
+the ways of Chaos. A large tapestry is on the northern wall depicting
+the great lord Beowolf with a large sword at his hip. A large doorway
+leads out to the east where it will take you to the Outer planes. If
+you are a mortal please stay inside for this door was made for the
+demons who live outside...
+~
+0 8192 1
+D1
+~
+doors~
+3 -1 9315
+D9
+~
+~
+0 -1 9319
+S
+#9315
+Outer Planes.~
+The ground here is oozing with slime and bugs of unknown origin. All 
+around you are demons and horrid looking creatures. A strange mist
+surrounds this place and to the west is a tall magnificent looking 
+mansion. This could only be the work of a god to put it here in such
+a evil place...
+~
+0 8192 1
+D3
+~
+doors~
+3 -1 9314
+S
+#9316
+Duncan's Repair Shop.~
+This room is filled with intense heat given off by the hot forge. A
+large iron anvil rests next to this great forge. It is here that the
+members of Chaos come to get their weapons repaired. The floor here is
+made of hard stone. The only exit is east through the doorway.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9317
+S
+#9317
+The Hall of Demons.~
+This hall is decorated by large statues of winged demons. The eyes of
+the demons glow with an unearthy red hue. They seem to almost be alive.
+A large glowing sphere is clutched in one of the demons hands providing
+a magical light to the room. A large doorway leads to the west and another
+is to your south. You may go north to Deven's Hall or go east through this
+strange hallway.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9311
+D1
+~
+~
+0 -1 9318
+D2
+~
+~
+0 -1 9322
+D3
+~
+~
+0 -1 9316
+S
+#9318
+The Hall of Demons.~
+This hall contains a pair of demon skulls which glow with a divine aura.
+The mouths seem to chant arcane words which you can't understand. A few
+torches provide the light for this hallway. There is a door to the south
+and the hall continues to the west and the east.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9319
+D2
+~
+doors~
+3 -1 9323
+D3
+~
+~
+0 -1 9317
+S
+#9319
+The Hall of Demons.~
+The hallway is dark and errie here. The floor of the hall contains
+clawed demon hands rising out of the floor. Its an errie sight to
+behold. A large tapestry depicting the lord Beowolf is to the east
+while a door leads to the south. The Hallway continues to the west.
+The entrance to the mansion is to the northeast and to the southeast
+are the stairs that lead upstairs.
+~
+0 0 1
+D1
+~
+tapestry~
+11 -1 9320
+D2
+~
+~
+0 -1 9324
+D3
+~
+~
+0 -1 9318
+D6
+~
+~
+0 -1 9314
+D8
+~
+~
+0 -1 9325
+S
+#9320
+A long forgotten room.~
+This room is filled with dust and cobwebs. Apparently this used to be
+a room used to practice some dark arcane ritual. The altar now stands
+in the middle of the room cacked with dried blood. You also notice a
+strange painting of Bryelle on the northern wall of this room.
+~
+0 0 1
+D3
+~
+tapestry~
+11 -1 9319
+S
+#9321
+Abram and Shamel's Home.~
+The room is lit by a low burning fire burning in a small fireplace in
+the northern wall. A large bearskin rug rests on the floor. A few 
+chairs and other bits of furniture sit about the room. There is a bed
+in a small alcolve in the southern wall.
+~
+0 4 1
+S
+#9322
+Abram's Armor.~
+A blazing fire and the sound of metal on metal marks this room as
+the armor shop. There are suits of armor and various other items
+of interest on display about the room. This is where the great sect
+of Chaos comes to get special armor. There is a door to the west.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9317
+S
+#9323
+Guest Chambers.~
+You are in a lavishly decorated room. A plush blue carpet is under you.
+The room contains various pieces of expensive furniture. There is a 
+large round oak table in the center of the room. There are several 
+beds in this room. This room appears to be a meeting chamber for the
+generals of Chaos to meet and stay the night if neccessary.
+~
+0 0 1
+D0
+~
+doors~
+1 -1 9318
+S
+#9324
+A Summoning Room.~
+A great evil feeling fills your very soul as you look upon this room.
+There is a large pentagram enclosed by a circle on the floor. The 
+pentagram appears to be drawn in fresh blood. At the point of each tip
+of the star is a white burning candle. The only exit is north.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9319
+S
+#9325
+Spiral Stone Stairway.~
+You are at the bottom of what appears to be a large stone stairway. 
+Apparently the stairway is stone and winds its way upwards. There are
+torches on the walls as the stairs travel upwards. There are several
+tapestries on the walls depecting several wars in which the sect
+of Chaos have influenced. The only exit is to the northwest or you
+may go up following this stairway.
+~
+0 8192 1
+D4
+~
+~
+0 -1 9351
+D7
+~
+~
+0 -1 9319
+S
+#9326
+Hall of Training.~
+You are in a large hallway where you see many devices used to train the
+warriors and other classes of Chaos. There are mages practicing spells
+as well as warriors fencing each other. It is here that members of Chaos
+come to learn new things. You may leave the training hall by going southeast.
+~
+0 8192 1
+D8
+~
+~
+0 -1 9332
+S
+#9327
+Petshop~
+You are in the Exotic Petshop of the Chaos sect. It is here where the
+members of Chaos come to buy unique pets to help them in their journeys
+throughout the realms. The store smells of various animals and a counter
+is before you where a sign hangs. You may leave this shop through the 
+south entrance.
+~
+0 12288 1
+D2
+~
+~
+0 -1 9333
+S
+#9328
+PetShop Backroom.~
+You stand in the backroom of the pet store for the Chaos sect. You
+should probablly get out of here as fast as you can because all the
+pets in here are getting pretty pissed off...
+~
+0 4 1
+S
+#9329
+Empty.~
+~
+0 4 1
+S
+#9330
+Bruxel and Shayla's Home.~
+~
+0 4 1
+S
+#9331
+Soldiers Quarters.~
+This is a large soldiers quarters where the soldiers in the army of
+Chaos come to rest up before and after battles. It is a very nice room
+which can house up to twenty men. There are large bunkbeds in the room and
+tall storage lockers next to each bed where the soldiers may store their
+own private things. A large archway leads to the south.
+~
+0 8192 1
+D1
+~
+door~
+3 -1 9332
+D2
+~
+~
+0 -1 9336
+S
+#9332
+Hall of Victory.~
+The walls of this hall glow with a heavenly glow. There is a large glowing
+portal not too far off to the east of here. There is a small alcolve in
+the north wall where there is a small statue of a troll. The rumor is
+that the troll once commanded an entire army of Chaos and was chosen
+by Beowolf himself. The hall continues to the east and south. A large
+door is to the west. You may go northwest where you can practice.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9333
+D2
+~
+~
+0 -1 9337
+D3
+~
+door~
+1 -1 9331
+D7
+~
+~
+0 -1 9326
+S
+#9333
+Hall of Victory.~
+The walls of this hall are glowing with an unholy glow. They are lit
+by the swirling vortex to the south of you. The vortex is constantly
+changing colors. The hall continues to the west and the east and a
+room to the north is where you may obtain pets.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9327
+D1
+~
+~
+0 -1 9334
+D2
+~
+~
+0 -1 9338
+D3
+~
+~
+0 -1 9332
+S
+#9334
+Hall of Victory.~
+The hallway here is lit by a circle of hovering wax candles that form
+a circle. The candles are high in the air and just seem to float. A
+large sword floats in the center of the candle ring its point facing
+you. The hallway continues to the south and the west.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9335
+D2
+~
+~
+0 -1 9339
+D3
+~
+~
+0 -1 9333
+S
+#9335
+Bruxel's Weaponshop.~
+The room is large and spacious. A huge fire is in a bellows where the
+owner of this shop is busy working on creating magnificent weapons for
+the mighty sect of Chaos. A small wooden counter is to your right and to
+the north is a large oak door. 
+~
+0 8196 1
+D3
+~
+~
+0 -1 9334
+S
+#9336
+Soldiers Quarters.~
+This is a large soldiers quarters where the soldiers in the army of
+Chaos come to rest up before and after battles. It is a very nice room
+which houses about twenty men. There are large bunkbeds in the room and
+tall storage lockers next to each bed where the soldiers may store 
+their own private things. A large archway leads to the north.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9331
+D1
+~
+door~
+3 -1 9337
+S
+#9337
+Hall of Victory.~
+The hall is very unremarkable here with its stone floor and the same
+torches that are hung on the eastern wall. There is a tall arched door
+to the west where you can hear the sounds of several men talking. The
+hall continues to the north and the south.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9332
+D2
+~
+~
+0 -1 9343
+D3
+~
+door~
+1 -1 9336
+S
+#9338
+A Swirling Vortex.~
+A huge swirling vortex is here in this room. Its multitude of colors
+assults your eyes as you recognise this to be the Chaos portal. You
+may travel to various places in the realms through this portal. A
+blue ripple to your north leads to the Chaos Mansion. 
+~
+0 8192 1
+D0
+~
+~
+0 -1 9333
+D1
+~
+~
+0 -1 9501
+D2
+~
+~
+0 -1 1312
+D3
+~
+~
+0 -1 8768
+D4
+~
+~
+0 -1 21000
+D5
+~
+~
+0 -1 14000
+S
+#9339
+Hall of Victory.~
+The hallway here is very unremarkable. The floor is made of fine black
+marble which is very smooth. A large alcolve is in the western wall 
+where there is a large statue of a huge sword. The sword looks almost
+real. A large doorway is to the east and the hall continues to the
+north and the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 9334
+D1
+~
+door~
+3 -1 9340
+D2
+~
+~
+0 -1 9345
+S
+#9340
+Master Bedroom.~
+You are in a HUGE master bedroom. It is here that Beowolf stays when 
+he resides in the Chaos Mansion. There are lavish decorations all around
+you. A large canopy bed sits along the northern wall. There are various
+plush couches and other items of furniture around the room as well. You
+also see a glass door that leads out onto a balcony to the east and a door
+to the south. The main entrance of the room is to the west.
+~
+0 0 1
+D1
+~
+~
+0 -1 9341
+D2
+~
+~
+0 -1 9346
+D3
+~
+door~
+1 -1 9339
+S
+#9341
+A Balcony.~
+You stand outside in cool night air. Below you is the vast abyss but
+for some odd reason it looks like its just another view of a world
+far away. You can see countless worlds below you. A night sky hovers
+in the air above where two large full moons shine in the darkness.
+~
+0 0 1
+D3
+~
+~
+0 -1 9340
+S
+#9342
+Hall of Victory.~
+The hallway is dim as the torches in the north wall burn low. There is
+a small window to the west where you see demons and other creatures of
+the Abyss outside. You hear the cheerful laughter of a bar coming from
+the south. The hall continues to the east.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9343
+D2
+~
+~
+0 -1 9347
+S
+#9343
+Hall of Victory.~
+The hallway has a few tapestries here depecting huge men dressed in
+full battle armor on the south wall. The hallway branches in three
+directions here: north, west, and east. A large magical orb provides
+this hallway with its light.
+~
+0 0 1
+D0
+~
+~
+0 -1 9337
+D1
+~
+~
+0 -1 9344
+D3
+~
+~
+0 -1 9342
+S
+#9344
+Hall of Victory.~
+The hallway is long and a large wall blocks your way to the north. A
+small alcolve in the north wall is home to a large statue of a winged
+dragon. The dragon is made of fine gold and its eyes are made of rubys.
+You smell the smells of fine food to the south. The hall continues to
+the west and the east.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9345
+D2
+~
+~
+0 -1 9349
+D3
+~
+~
+0 -1 9343
+S
+#9345
+Hall of Victory.~
+The hallway is lit here with two magical torches which burn with a bright
+green flame. They are mounted on the easten wall. A large doorway is to
+the south where you hear strange chanting. The hallway continues to the
+north and the west. The stairway that leads to the first floor is to
+the southeast of you.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9339
+D2
+~
+door~
+3 -1 9350
+D3
+~
+~
+0 -1 9344
+D8
+~
+~
+0 -1 9351
+S
+#9346
+A Walk-In Closet.~
+This is a giagantic walk in closet. It is filled with various shoes,
+boxes, and articles of clothing. A large chair sits in the room where
+you may sit while you put on shoes. There isn't anything else that is
+too remarkable about this closet. The door is to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 9340
+S
+#9347
+Avery's Bar.~
+The smells of stale beer and sweat fill the air of this small bar.
+A large bar fills the center of the room in a circular arc with tall
+barstools that surround it. There are several tables throughout the
+room which have the soldiers of Chaos sitting on them. 
+~
+0 8192 1
+D0
+~
+~
+0 -1 9342
+S
+#9348
+A Kitchen.~
+The smells of fresh baking breads and fine food assult your nose 
+in this room. There are several large cooking ovens here where the
+cooks work hard to cook the meals that feed the army of Chaos. The
+only way out of the room is to the east.
+~
+0 8192 1
+D1
+~
+~
+0 -1 9349
+S
+#9349
+Mess Hall.~
+The sounds of several score of men and women eating and drinking
+fill the air here. There are several waiters and waitresses serving
+food throughout the room. The room is festive and there is a large
+statue of Beowolf in the middle of the room to boost morale. You
+see several waitesses enter and leaving through a western door.
+~
+0 8192 1
+D0
+~
+~
+0 -1 9344
+D3
+~
+~
+0 -1 9348
+S
+#9350
+A Summoner's Room.~
+The room is filled with arcane writing on the walls and the floor. There
+is a triangle with a star inside of it on the floor. At the point of
+each triangle is a small burning white candle. A small bed lies in the
+northern part of the room. It must be where the summoner sleeps before
+he casts his summoning spells.
+~
+0 8192 1
+D0
+~
+door~
+3 -1 9345
+S
+#9351
+A Stairway.~
+You are at the top of a large stone stairway. The stone stairway winds
+its way down to the first floor. There are several torches along the
+walls here to illuminate the room. There are several tapestries on the
+walls depecting several prominent members of the sect of Chaos. You
+may travel northwest into the second floor of this great mansion or
+descend these stairs to the first floor.
+~
+0 8192 1
+D5
+~
+~
+0 -1 9325
+D7
+~
+~
+0 -1 9345
+S
+#0
+
+
+#RESETS
+D 0 9300 1 1
+D 0 9300 2 1
+D 0 9301 1 1
+D 0 9301 3 1
+D 0 9305 0 1
+D 0 9305 1 1
+D 0 9307 2 1
+D 0 9310 1 1
+D 0 9314 1 1
+D 0 9318 2 1
+D 0 9339 1 1
+D 0 9345 2 1
+M 1 9301 1 9308
+M 1 9302 1 9313
+M 1 9303 1 9315
+D 0 9315 3 1
+M 1 9304 1 9316
+M 1 9305 1 9319
+D 0 9319 1 1
+M 1 9306 1 9321
+M 1 9308 1 9324
+M 1 9309 1 9326
+M 1 9310 1 9328
+M 1 9311 1 9328
+M 1 9312 1 9328
+M 1 9313 1 9328
+M 1 9314 1 9327
+M 1 9315 1 9330
+M 1 9316 1 9331
+M 1 9317 1 9331
+D 0 9331 1 1
+M 1 9319 1 9336
+D 0 9336 1 1
+M 1 9322 1 9348
+M 1 9324 1 9350
+D 0 9350 0 1
+M 1 9300 1 9309
+G 1 9300 1
+G 1 9301 1
+M 1 9307 1 9322
+G 1 9302 1
+G 1 9303 1
+G 1 9304 1
+G 1 9305 1
+M 1 9318 1 9335
+G 1 9306 1
+G 1 9307 1
+G 1 9308 1
+G 1 9309 1
+M 1 9323 1 9349
+G 1 9310 1
+G 1 9311 1
+G 1 9312 1
+G 1 9313 1
+G 1 9314 1
+M 1 9320 1 9347
+G 1 9315 1
+G 1 9316 1
+G 1 9317 1
+G 1 9318 1
+G 1 9319 1
+M 1 9321 1 9347
+O 1 9320 1 9302
+D 0 9302 3 1
+D 0 9306 3 1
+S
+
+
+#SHOPS
+ 9300    0  0  0  0  0   120  90         0 23    ; Dell Avern
+ 9307    0  0  0  0  0   120  90         0 23    ; Abram Strix
+ 9314    0  0  0  0  0   120  90         0 23    ; Ivan
+ 9318    0  0  0  0  0   120  90         0 23    ; Bruxel
+ 9320    0  0  0  0  0   120  90         0 23    ; Avery the barkeep
+ 9323    0  0  0  0  0   120  90         0 23    ; Elyssra
+0
+
+
+#REPAIRS
+ 9304    0  9  5         100   1         0 23    ; Duncan Stronghand
+0
+
+
+#SPECIALS
+M  9301 spec_cast_adept
+S
+
+
+#$

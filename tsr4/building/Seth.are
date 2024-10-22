@@ -1,0 +1,219 @@
+#AREA   {PROTO} Thallin's area in progress~
+
+
+
+#VERSION 1
+#AUTHOR Thallin~
+
+#RANGES
+0 0 0 0
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 2 2 2
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#14400
+A bloody rib bone~
+A bloody rib bone~
+A bloody bone rests here creating a pool of dark blood.~
+~
+18 1074003968 16385
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#14400
+The Cathedral of Bones~
+~
+0 1074798593 0
+D0
+~
+~
+0 -1 14401
+S
+#14401
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14402
+D2
+~
+~
+0 -1 14400
+S
+#14402
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14403
+D2
+~
+~
+0 -1 14401
+S
+#14403
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14404
+D2
+~
+~
+0 -1 14402
+S
+#14404
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14405
+D2
+~
+~
+0 -1 14403
+S
+#14405
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14406
+D2
+~
+~
+0 -1 14404
+S
+#14406
+The Bone Hall~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14407
+D2
+~
+~
+0 -1 14405
+S
+#14407
+The Hall of Bones~
+~
+0 1073741824 1
+D0
+~
+~
+0 -1 14408
+D2
+~
+~
+0 -1 14406
+S
+#14408
+An Arch of Bones~
+~
+0 1073741824 1
+D2
+~
+Bones bone~
+1063 14400 14407
+S
+#14409
+Floating in a void~
+~
+0 1073741824 1
+S
+#14410
+Floating in a void~
+~
+0 1073741824 1
+S
+#14411
+Floating in a void~
+~
+0 1073741824 1
+S
+#14412
+Floating in a void~
+~
+0 1073741824 1
+S
+#14413
+Floating in a void~
+~
+0 1073741824 1
+S
+#14414
+Floating in a void~
+~
+0 1073741824 1
+S
+#14415
+Floating in a void~
+~
+0 1073741824 1
+S
+#14416
+Floating in a void~
+~
+0 1073741824 1
+S
+#14417
+Floating in a void~
+~
+0 1073741824 1
+S
+#14418
+Floating in a void~
+~
+0 1073741824 1
+S
+#14419
+Floating in a void~
+~
+0 1073741824 1
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

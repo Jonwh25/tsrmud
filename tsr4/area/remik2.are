@@ -1,0 +1,835 @@
+#AREA   {10 99} Remik   City of the Nine Moons~
+
+#VERSION 1
+
+#AUTHOR Remik~
+
+#RANGES
+0 65 0 65
+$
+
+#FLAGS
+0
+
+#ECONOMY 0 0
+
+#CLIMATE 0 0 0
+
+#HELPS
+0 $~
+
+#MOBILES
+#1900
+shadow swirl dark~
+A mass of dark wind~
+A swirl of dark air moves about, constantly changing its form.
+~
+A mass of dark air swirls about, changing its shape and form every so
+often.  Its mass feels like air and sounds like a whisper from the wind. 
+What form of being is this?  Or is it at all?
+~
+1 1048584 0 C
+100 0 0 1d1+10000 1d1+500
+0 0
+112 112 0
+0 0 0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#1900
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1901
+S
+#1901
+Screaming Gate~
+The Gate of the Nine Moons stands here, rightfully dubbed.  The walls and
+towers of the surrounding city are all grey stone or weathered wood, minus
+the gate here.  Carved from blood red stone, a depicted screaming face juts
+from the gate and greets all of those entering.  It fiercly stands out with
+the color motif of the walls of the city, making its presence all the more
+greater.  The gates are regularly guarded by a pair of guards dressed in
+thick grey chain mail.  The Avenue of the Nine Moons begins just north of
+here while a path to outside world lies south.
+~
+0 0 0
+D0
+~
+~
+0 0 1904
+D1
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 1902
+S
+#1902
+Nine Moons South Gate~
+~
+0 0 0
+D1
+~
+~
+0 0 1901
+S
+#1903
+Nine Moons South Gate~
+~
+0 0 0
+D3
+~
+~
+0 0 1901
+S
+#1904
+Avenue of the Nine Moons~
+The Avenue of the Nine Moons begins here - or rather, ends here,
+depending upon the direction a berk is headed.  Grey stone tiles the ground
+in all directions.  The Avenue continues north/south from here while
+Razorvine Way begins to the west and Ringward Circle to the east.  Doting
+the edges of those streets are what look to be residential buildings which
+make up the border of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 1907
+D1
+~
+~
+0 0 1906
+D2
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 1905
+S
+#1905
+Razorvine Way~
+~
+0 0 0
+D0
+~
+~
+0 0 1910
+D1
+~
+~
+0 0 1904
+S
+#1906
+Ringward Circle~
+Ringward Circle, as they call it, is a long and winding road that doesnt
+look much like a circle at all.  The busy atmosphere of this paticular
+section of road is complimented by the hundreds of buildings and homes that
+cluster and define the street.  Grey stone heads north from here to continue
+Ringward Circle as well as west where it turns into the Avenue of the None
+Moons.  Either direction, north or west, are obtainable.
+~
+0 0 0
+D0
+~
+~
+0 0 1909
+D3
+~
+~
+0 0 1904
+S
+#1907
+Avenue of the Nine Moons~
+Clustered from both the east and the west, the Avenue of the Nine Moons
+is home to buildings and homes of many sizes.  Not only do the buildings
+make space a luxury, people of every sort pass up and down the avenue,
+heading about their way.  Of those people, not a single person can be seen
+sporting anything more than dull and mundane colors.  They match the grey
+stone and weathered wood of the city quite well.  From here, a berk can
+travel north or south.
+~
+0 0 0
+D0
+~
+~
+0 0 1908
+D2
+~
+~
+0 0 1904
+S
+#1908
+Avenue of the Nine Moons~
+~
+0 0 0
+D0
+~
+~
+0 0 1913
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1907
+S
+#1909
+Ringward Circle~
+Ringward Circle wraps its way around building after building twisting
+every which way.  Grey, wooded buildings heavily populate this section of
+the road and only one place really stands out among the bunch.  To the
+northern side of the road looks to be the side of a tavern.  Piles of trash
+and other such items litter the side of the building, ommiting a rotten
+stench.  However much it may smell, no one seems to mind more than a little.
+Ringward heads east and south from this spot.
+~
+0 0 0
+D1
+~
+~
+0 0 1922
+D2
+~
+~
+0 0 1906
+S
+#1910
+Corner of Razorvine Way and Shadow Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1939
+S
+#1911
+~
+~
+0 0 0
+D3
+~
+~
+0 0 1908
+S
+#1912
+Dead End at Razorvine Way~
+~
+0 0 0
+D2
+~
+~
+0 0 1910
+S
+#1913
+Avenue of the Nine Moons~
+~
+0 0 0
+D0
+~
+~
+0 0 1915
+D2
+~
+~
+0 0 1908
+D3
+~
+~
+0 0 1914
+S
+#1914
+~
+~
+0 0 0
+D1
+~
+~
+0 0 1913
+S
+#1915
+Avenue of the Nine Moons~
+~
+0 0 0
+D0
+~
+~
+0 0 1916
+D2
+~
+~
+0 0 1913
+S
+#1916
+Corner of Avenue of the Nine Moons and The Mundane Straight~
+~
+0 0 0
+D0
+~
+~
+0 0 1919
+D1
+~
+~
+0 0 1917
+D2
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1918
+S
+#1917
+Ringward Circle~
+~
+0 0 0
+D1
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1930
+D3
+~
+~
+0 0 1916
+S
+#1918
+The Mundane Straight~
+~
+0 0 0
+D1
+~
+~
+0 0 1916
+D2
+~
+~
+0 0 1931
+S
+#1919
+Avenue of the Nine Moons~
+~
+0 0 0
+D0
+~
+~
+0 0 1920
+D2
+~
+~
+0 0 1916
+S
+#1920
+Avenue of the Nine Moons~
+~
+0 0 0
+D0
+~
+~
+0 0 1921
+D2
+~
+~
+0 0 1919
+S
+#1921
+Entrance to the Court of the Nine Moons~
+~
+0 0 0
+D2
+~
+~
+0 0 1920
+S
+#1922
+Ringward Circle~
+Grey, weathered wood and grey stone buildings litter the street, defining
+and shaping its course.  Persons of many races swarm up and down the
+Ringward Circle, going about their business.  The grey of the sky only
+worsens the fact that this place lacks any color.  From here, a berk can
+traverse Ringward north or west.
+~
+0 0 0
+D0
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1909
+S
+#1923
+Ringward Circle~
+Ringward Circle continues its oddly warped streets to the east and south
+from here.  Buildings of every size litter the street.  Seems the street has
+been defined more from the buildings than the buildings being defined by the
+street.  Residence and commerce alike stand out along the grey tile of the
+circle, weaving this way and that.  Races of every kind head busily on their
+way through the cluster.
+~
+0 0 0
+D1
+~
+~
+0 0 1924
+D2
+~
+~
+0 0 1922
+S
+#1924
+Ringward Circle~
+Ringward has reached the eastern most portion of its tour and heads only
+north and west here.  The dull grey tile of the circle can barely been seen
+through the hundreds of feet that trample over it.  To the north of this
+spot, a tavern can be spotted.  People move steadily in and out of the doors
+and back upon their way.  North and west can be traveled from here.
+~
+0 0 0
+D0
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1923
+S
+#1925
+Ringward Circle~
+~
+0 0 0
+D0
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1928
+S
+#1926
+Ringward Circle~
+~
+0 0 0
+D2
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1927
+S
+#1927
+Ringward Circle~
+~
+0 0 0
+D1
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1929
+D3
+~
+~
+0 0 1917
+S
+#1928
+~
+~
+0 0 0
+D1
+~
+~
+0 0 1925
+S
+#1929
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1927
+S
+#1930
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1917
+S
+#1931
+The Mundane Straight~
+~
+0 0 0
+D0
+~
+~
+0 0 1918
+D3
+~
+~
+0 0 1932
+S
+#1932
+The Mundane Straight~
+~
+0 0 0
+D1
+~
+~
+0 0 1931
+D2
+~
+~
+0 0 1933
+S
+#1933
+The Mundane Straight~
+~
+0 0 0
+D0
+~
+~
+0 0 1932
+D3
+~
+~
+0 0 1934
+S
+#1934
+The Mundane Straight~
+~
+0 0 0
+D1
+~
+~
+0 0 1933
+D3
+~
+~
+0 0 1935
+S
+#1935
+Corner of Damned Road and The Mundane Straight~
+~
+0 0 0
+D0
+~
+~
+0 0 1942
+D1
+~
+~
+0 0 1934
+D2
+~
+~
+0 0 1936
+S
+#1936
+Corner of Damned Road and Judgement Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 1935
+D1
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1937
+D3
+~
+~
+0 0 1947
+S
+#1937
+Corner of Shadow Lane and Damned Road~
+~
+0 0 0
+D0
+~
+~
+0 0 1936
+D1
+~
+~
+0 0 1938
+S
+#1938
+Shadow Lane~
+~
+0 0 0
+D1
+~
+~
+0 0 1939
+D3
+~
+~
+0 0 1937
+S
+#1939
+Shadow Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 1940
+D1
+~
+~
+0 0 1910
+D3
+~
+~
+0 0 1938
+S
+#1940
+~
+~
+0 0 0
+D2
+~
+~
+0 0 1939
+S
+#1941
+~
+~
+0 0 0
+D3
+~
+~
+0 0 1936
+S
+#1942
+Corner of Damned Road and Bloodwater Street~
+~
+0 0 0
+D2
+~
+~
+0 0 1935
+D3
+~
+~
+0 0 1943
+S
+#1943
+Bloodwater Street~
+~
+0 0 0
+D1
+~
+~
+0 0 1942
+D3
+~
+~
+0 0 1944
+S
+#1944
+Corner of Sins of the Flesh and Bloodwater Street~
+~
+0 0 0
+D0
+~
+~
+0 0 1949
+D1
+~
+~
+0 0 1943
+D2
+~
+~
+0 0 1945
+S
+#1945
+Sins of the Flesh~
+~
+0 0 0
+D0
+~
+~
+0 0 1944
+D2
+~
+~
+0 0 1946
+S
+#1946
+Corner of Sins of the Flesh and Judgement Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 1945
+D1
+~
+~
+0 0 1947
+S
+#1947
+Judgement Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 1948
+D1
+~
+~
+0 0 1936
+D3
+~
+~
+0 0 1946
+S
+#1948
+~
+~
+0 0 0
+D2
+~
+~
+0 0 1947
+S
+#1949
+Sins of the Flesh~
+~
+0 0 0
+D2
+~
+~
+0 0 1944
+D3
+~
+~
+0 0 1950
+S
+#1950
+Sins of the Flesh~
+~
+0 0 0
+D1
+~
+~
+0 0 1949
+D3
+~
+~
+0 0 1951
+S
+#1951
+Sins of the Flesh~
+~
+0 0 0
+D0
+~
+~
+0 0 1952
+D1
+~
+~
+0 0 1950
+D2
+~
+~
+0 0 1953
+S
+#1952
+Nine Moons West Gate~
+~
+0 0 0
+D2
+~
+~
+0 0 1951
+S
+#1953
+Nine Moons West Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 1951
+S
+#0
+
+
+#RESETS
+M 1 1900 1 1900
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+S
+
+
+#$

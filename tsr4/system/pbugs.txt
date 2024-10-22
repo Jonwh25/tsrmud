@@ -1,0 +1,11 @@
+[ 1210] Ra: (12/03):  sac to Thoric
+[  107] Gyrik: (12/06):  slist just scrolls down really fast, appreciate to fix fer people who use raw telnet
+[10303] Nicol: (12/06):  as a pkiller i can't enter dark haven except with a recall scroll
+[10325] Delicose: (12/14):  'config - autoloot' turns autoexit off instead of autoloot.
+[10325] Delicose: (12/14):  However, 'config -autoloot' turns off autoloot.
+[ 2457] Delicose: (12/14):  'Mount' doesn't appear to work.
+[  120] Ruun: (12/28):  Pixie mages can't seem to get the key to enter mudschool from Quercusi.
+[21051] Ruun: (12/29):  Object 'a hoop of flowing water' is a boat, with wear location:  finger (a boat?)
+[  119] Rusticor: (12/30):  Pixie Rangers can't get the key from Quercusi to enter the game.
+[10383] Shayol: (01/15):  Just too mention, whenever I attack my prompt goes back to the default prompt instead of my custom prompt.
+[10319] Shayol: (01/15):  Just another suggestion... the dark colors are very hard to read (blue) mabye want to change them.

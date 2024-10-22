@@ -1,0 +1,4032 @@
+#AREA   The Caverns of Chaos~
+
+#VERSION 1
+
+#AUTHOR Beowolf~
+
+#RANGES
+15 50 0 65
+$
+
+#RESETMSG An errie breeze brushes your skin sending a shiver down your spine.~
+
+#FLAGS
+0 8
+
+#ECONOMY 0 51301950
+
+#CLIMATE 1 3 4
+
+#HELPS
+0 $~
+
+#MOBILES
+#400
+Stephan~
+Stephan~
+Stephan the crazy Irishman stands here.
+~
+You see a red bearded man. His shaggy hair is also red and he wears a
+grey kilt and robe. It wouldn't be wise to fight this madman because
+IRELAND IS HIS ISLAND!!
+~
+131137 4194848 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 2047 0 0 0 0 0
+#401
+Guide~
+Guide~
+The guide of the path stands here.
+~
+You see a strange looking elven female. This is the guide to Chaos.
+~
+131137 4194856 0 C
+17 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1765 0 0 0 0 0
+#402
+Reflection~
+Reflection~
+Your reflection is here staring at you.
+~
+You look deep at your reflection. How odd this one seems to be alive!
+~
+193 4194856 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1735 0 0 0 0 0
+#403
+ManScorpian scorpian ~
+Manscorpian~
+A HUGE, part man, part scorpian screams!
+~
+You look at a part man part scorpian. WOAH!
+~
+193 4194344 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1765 0 0 0 0 0
+#404
+Goblin King~
+The Goblin King~
+The King of the Goblins rests here.
+~
+You look upon the proud Goblin King. He looks a little too proud. You wonder
+what he is up to.
+~
+193 4194856 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1765 0 0 0 0 0
+#405
+Drider~
+Drider~
+A large drider stands here!
+~
+You see a part drow and part spider. What a nasty combination!
+~
+193 4194344 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#406
+Spectre~
+Spectre of Chaos~
+The Spectre of Chaos floats here.
+~
+You look at a transparent being. Robes of the preistly nature cover its
+gaseous form.
+~
+193 4194856 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#407
+Nymph~
+A Nymph~
+You see a very alluring Nymph here!
+~
+You look upon the most beautiful person you have ever seen!
+~
+193 4194344 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#408
+Crystal Ooze~
+Crystal Ooze~
+A Crystal Ooze is here.
+~
+You see a ooze, how else can you describe it. oooze!
+~
+1 4194344 0 C
+37 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#409
+Guard~
+Chaos Guard~
+The Guard of Chaos is here.
+~
+You see a proud Guard of Chaos. This Guard is trained in Chaos!
+~
+131139 4194856 0 C
+32 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#410
+Chaos Cleric Daemonis~
+Daemonis~
+You see Daemonis the Cleric of Chaos here.
+~
+You look upon a huge beast of a man. He radiates a pure evil nature about
+him. This man could be a god...
+~
+193 4194860 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#411
+Ghostly Cook~
+Ghostly Cook~
+You see a ghostly cook floating here.
+~
+You see right though this cook. This cook is wierd!
+~
+97 5243432 0 C
+22 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#412
+Cleric Guard Ryeal~
+Ryeal~
+A Cleric of Chaos guard named Ryeal stands here.
+~
+You look upon this proud guard of Chaos and notice a twinkle in his 
+mischievious eyes. He grins at you.
+~
+131267 4194344 0 C
+27 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#413
+Student Chaos~
+Student of Chaos~
+A student of Chaos stands here.
+~
+You see a dedicated student full of determination that someday he will 
+understand Chaos.
+~
+193 0 0 C
+21 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1703 0 0 0 0 0
+#414
+Selina~
+Selina~
+You see Selina the beautiful woman of Chaos.
+~
+You look upon a beautiful woman. She has long blonde hair and crystal blue
+eyes. Her smile lights up a room and she is very happy. She stands 4'6" and
+is so CUTE!!!
+~
+193 4194856 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#415
+Ian MacGregor~
+Ian MacGregor~
+You see Ian MacGregor the fine scotsman of Chaos here.
+~
+Ah lad. You look upon Scotlands finest piper. Ian has been playing the 
+bagpipes ever since he was a child. Aye , he has lad. He has been a 
+member of Chaos for years.
+~
+97 512 0 C
+30 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#416
+lock gold~
+Lock Lurker~
+You see a pile of 'lock' gold here.
+~
+You look at all the gold! wow! then you notice that it has a curved stinger
+and claws like a scorpian!
+~
+67 4194314 0 C
+17 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#417
+Headmaster Kierkian~
+Headmaster Kierkian~
+The Ghost of Kierkian, the headmaster floats here.
+~
+You look upon what appears to be a ghost of Kierkian. This was once the
+headmaster of Chaos. Guess Chaos decided he looked better as a Ghost!
+~
+65 3146280 0 C
+46 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#418
+Cyric the shopkeeper~
+Cyric~
+Cyric the Shopkeeper is here polishing a wicked shortsword.
+~
+You look upon what appears to be a shopkeeper. This one seems different 
+though. It is like he is a god...
+~
+131267 4194856 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#419
+Bhaal the barkeep~
+Bhaal~
+A mighty barkeep named Bhaal stands here.
+~
+You look upon a dark mysterous man. He has raindrops tattooed on his head.
+~
+131267 512 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#420
+Skeleton~
+Skeleton~
+A skeleton hovers above the throne here.
+~
+You look upon an ancient skeleton. It is rumored that those of Chaos used to
+be trained and given practices with a certain skeleton on a Throne...
+~
+131139 3145736 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#421
+Personal Servant~
+Personal Servant~
+A servant of Chaos is here.
+~
+You look upon a well diciplined servant of Chaos. This one used to serve a
+goddess.
+~
+193 4194856 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#422
+Giant Rat~
+Giant Rat~
+A giant rat is here munching on some bones.
+~
+You see a HUGE rat! it is the biggest you have ever seen! quick kill it
+before it kills you!
+~
+65 0 0 C
+11 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 164 0 0 0 0 0
+#423
+Water Beast~
+Water Beast~
+A Water Beast looks at you and grins.
+~
+The water beast says 'To get out you must die. May I do the honor?' You 
+look closer at the beast and decide it is quite capable of killing you.
+~
+129 4194856 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#424
+Baeleron scotsman~
+Baeleron of Scotland~
+A proud scotsman named Baeleron is here playing his bagpipes.
+~
+You look upon a fine piper. He is proud of his scottish heritage and
+enjoys to wrack havioc upon people.
+~
+195 4194856 0 C
+38 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1766 0 0 0 0 0
+#425
+Magic Lion~
+Magic Lion~
+You see a magical Lion licking its paws.
+~
+You look upon a great beast. This magical beast protects its owner at all 
+times.
+~
+67 4194856 0 C
+21 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 0 0
+#426
+Kelven guard~
+Kelven~
+Kelven the guard stands here.
+~
+You look upon a fine beast. You notice that the guards eyes are hollow!
+~
+131139 8744 0 C
+48 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#427
+Battlemaster Brandon~
+Battlemaster Brandon~
+The great battlemaster Brandon is here flexing his muscles.
+~
+You look upon a beast of a man. He has long hair and scars cover his
+body and face. He is truly a battle hardened man.
+~
+131139 4194856 0 C
+28 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#428
+Zombie~
+Zombie~
+A zombie is lumbering around here.
+~
+You see a green-skinned humanoid. The smell is unbearable.
+~
+193 552 0 C
+18 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#429
+Hologram~
+Hologram~
+A hologram floats here.
+~
+You look at a magnificent likeness of a famous giant warrior.
+~
+193 2097672 0 C
+38 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#430
+Zyrin~
+Zyrin~
+Zyrin the student of Chaos is here.
+~
+You look at Zyrin and realize he is very, very young. He must be very worthy
+for Chaos.
+~
+193 512 0 C
+26 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#431
+Skeletal rat~
+Skeletal rat~
+A skeletal rat is here.
+~
+You look at a rat that is a skeleton..how odd.
+~
+225 1049096 0 C
+16 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 133 0 0 0 0 0
+#432
+transparent cook~
+Transparent cook~
+A transparent cook is here cooking dinner.
+~
+You think you see someone cooking but you see right through it!
+~
+131139 5243432 0 C
+23 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#433
+Weaponskeeper~
+Weaponskeeper~
+You see a weaponskeeper here.
+~
+A muscular man with scars on his face glares at you.
+~
+195 4194856 0 C
+23 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#434
+Poltergist~
+Poltergist~
+A poltergist is here throwing things at you!
+~
+You see a fierce poltergist. THis one has an attidude and seems to not
+like you very much.
+~
+193 3146248 0 C
+33 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#435
+Quickblade smith~
+Quickblade~
+A proud smith named quickblade is here.
+~
+You see a proud weaponsmith and smith here smiling and saying 'Death is
+for those who stand to block Chaos.'
+~
+67 552 0 C
+26 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1735 0 0 0 0 0
+#436
+Lord Banshril~
+Lord Banshril~
+Lord Banshril stands here studying the statue.
+~
+You see a man who has worked his whole life studying Chaos and Magic.
+~
+131139 4194856 0 C
+45 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#437
+unseen servant~
+Unseen Servant~
+You think you see an unseen servant but aren't sure.
+~
+You see the outline of what appears to be a person but you really can't 
+tell what it is you are looking at.
+~
+195 554 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#438
+Young mage~
+Young mage~
+A young mage sits here learning about Chaos and magic.
+~
+You see a curious mage who wants to learn everything he can about Chaos 
+and magic.
+~
+67 5242892 0 C
+25 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#439
+Bloodbane~
+Bloodbane~
+A HUGE demonlord named Bloodbane stands here.
+~
+You look upon the great demonlord of chance. This demon is very famous.
+Does he remind you of anyone?
+~
+67 5243432 0 C
+40 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1050275 0 0 0 0 0
+#440
+Alchemist~
+Alchemist~
+An alchemist is here mixing chemicals.
+~
+You see a wise female mage. She is very pretty but you realize that she
+likes to play with chemicals cause that is what she does best.
+~
+195 552 0 C
+17 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 67271 0 0 0 0 0
+#441
+Lanfear~
+Lanfear~
+A beautiful mage named Lanfear is here.
+~
+This woman commands great power. You fear to make her angry.
+~
+67 520 0 C
+17 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 231 0 0 0 0 0
+#442
+Lord Daagar~
+Lord Daagar~
+Lord Daagar is here casting spells.
+~
+You look upon the new headmaster of the mages school of Chaos magic.
+~
+67 512 0 C
+50 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 1767 0 0 0 0 0
+#443
+Rainbow elemental~
+Rainbow elemental~
+You see a Rainbow elemental here.
+~
+You look upon rainbows of bright color and begin to get very dizzy!
+~
+193 1049128 0 C
+28 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#444
+Shadow~
+Shadow~
+You see a shadow here.
+~
+You look into the darkness....
+~
+67 1048586 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 0 0 0 0 0 0
+#445
+Monkey~
+the Monkey of Chaos~
+A Monkey of Chaos is here laughing at you.
+~
+You see a bright and happy monkey. This is truly what Chaos is all about. 
+This Monkey knows what he is doing. That is why he is Chaotic. What a 
+funny monkey! You better watch it or he will climb up on your back and 
+people will say, "Hey! You have a monkey on your back!"
+~
+193 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+112 112 1
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 231 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#400
+Guidebook~
+a guidebook~
+A small interesting looking book is here.~
+~
+8 8192 1
+10 8 8 7
+10 500 50
+A
+13 25
+#401
+Quarterstaff~
+a Quarterstaff~
+An old magical stick floats here.~
+~
+5 1 8192
+8 6 6 7
+10 1000 100
+#402
+Glass sword~
+the Glass Sword~
+A sword made of glass is lying here.~
+~
+5 16 8193
+1 6 5 1
+10 1000 100
+#403
+Boots of Speed~
+boots of Speed~
+A pair of Magic boots are glowing here.~
+~
+9 16 65
+8 8 7 8
+20 1000 100
+A
+14 50
+A
+2 2
+#404
+Hand Crossbow~
+hand Crossbow~
+A light hand crossbow is on the floor here.~
+~
+5 2 8193
+0 1 60 0
+20 5000 500
+#405
+Frost Brand~
+frost Brand~
+The Frost Brand is humming here.~
+~
+5 2 8193
+2 8 8 10
+15 10000 1000
+A
+18 2
+#406
+Purple torch~
+purple torch~
+A bright purple torch is burning on the floor.~
+~
+1 8193 1
+0 0 100000 0
+5 100 10
+#407
+wooden chest~
+wooden chest~
+A wooden chest sits here.~
+~
+15 0 0
+1000 1 0 0
+1 0 0
+#408
+GOLD~
+gold Coins are here.~
+A heap of GOLD is here!~
+~
+20 0 1
+55643 0 0 0
+1 55643 5564
+#409
+Water Ring~
+water Ring~
+An ancient ring lies forgotten on the ground.~
+~
+9 1073741888 3
+8 8 8 10
+5 2000 200
+A
+3 2
+A
+12 50
+#410
+Boots of the Planes~
+boots of the Planes~
+A pair of Evil looking boots have been left here.~
+~
+9 32 65
+7 7 6 7
+20 1000 100
+A
+5 2
+A
+18 2
+#411
+Sleek elbow-length gloves~
+sleek elbow-length gloves~
+A pair of sleek gloves are here.~
+~
+9 2 129
+5 5 7 10
+5 2000 200
+A
+13 50
+A
+25 20
+#412
+Heart Seeker~
+heart Seeker~
+A weapon rests against the wall covered in blood.~
+~
+5 16 8193
+1 2 40 6
+20 20000 2000
+A
+19 3
+#413
+Axe of Rage~
+axe of Rage~
+An axe rests here fuming with RAGE!~
+~
+5 2 8193
+5 2 25 3
+20 1000 100
+#414
+Golden Armplates~
+golden Armplates~
+A rune encrusted set of gold armplates are here.~
+~
+9 2 257
+7 8 9 10
+10 1000 100
+A
+1 2
+A
+19 2
+#415
+Golden Legplates~
+golden Legplates~
+Magical legplates hum powerfully here.~
+~
+9 1 33
+7 8 9 10
+10 1000 100
+A
+13 20
+A
+21 4
+#416
+Javelin~
+javelin~
+A Javelin rests against the wall here.~
+~
+5 2 8193
+32 2 25 11
+10 1222 122
+#417
+Scarab of insanity~
+scarab of insanity~
+An INSANE peice of jewelery is here.~
+~
+9 2 5
+7 7 7 8
+5 5000 500
+A
+2 2
+A
+13 65
+A
+3 -4
+#418
+Robe of Knowledge~
+robe of Knowledge~
+The all knowing robe floats here.~
+~
+9 1 9 140
+5 8 8 8
+15 20000 2000
+A
+3 2
+A
+12 100
+#419
+Gold tierra~
+gold tierra~
+A jewel enrusted tierra is resting gently on the ground.~
+~
+9 1 17
+10 10 8 8
+10 22500 2250
+A
+4 2
+A
+9 10
+#420
+Low-cut dress~
+low-cut dress~
+A Low-cut dress is looking good here.~
+~
+9 2 9 38
+7 7 7 7
+8 1220 122
+A
+6 1
+A
+25 10
+#421
+Ruby ring~
+ruby ring~
+An expensive ring lays here.~
+~
+9 1 3
+6 6 6 6
+1 5000 500
+A
+13 50
+A
+19 3
+#422
+Diamond engagement ring~
+diamond engagement ring~
+A beutiful heart shaped ring of promise is here.~
+~
+8 1 3
+5 5 5 5
+1 5550 555
+A
+18 1
+#423
+Jewel encrusted dagger~
+jewel encrusted dagger~
+A thieves dream weapon is here.~
+~
+5 2 8193
+2 7 8 11
+25 10000 1000
+#424
+cabinet~
+cabinet~
+A tall cabinet is here.~
+~
+15 1 0
+100 13 6707 0
+1 0 0
+#425
+Black Chainmail~
+black Chainmail~
+EVIL looking chainmail is here.~
+~
+9 17 9 160
+8 8 8 8
+20 23399 2339
+A
+1 2
+A
+13 50
+#426
+Amulet of the Planes~
+amulet of the Planes~
+You see something here but you don't see it.~
+~
+9 1 5
+8 8 8 8
+8 3200 320
+A
+18 3
+A
+19 2
+#427
+Spider Bracelet~
+spider Bracelet~
+A spider is here...or is it a spider?~
+~
+9 1 4097
+6 5 6 10
+5 21000 2100
+A
+12 20
+#428
+Desk~
+desk~
+A fancy desk is here.~
+~
+15 1 0
+100 13 6709 0
+1 0 0
+#429
+Robe of blending~
+robe of blending~
+You see something in here but aren't sure what.~
+~
+9 1 1025
+6 7 7 10
+10 20000 2000
+A
+2 3
+A
+14 30
+A
+37 10
+A
+14 -20
+#430
+Crystal decanter~
+crystal decanter~
+You see a Crystal decanter here.~
+~
+15 1 1
+100 13 6710 0
+1 0 0
+#431
+French maid outfit~
+french maid outfit~
+A fancy French maid outfit is here.~
+~
+9 1 9
+6 7 7 6
+5 8888 888
+A
+6 1
+A
+21 10
+#432
+Plaid Kilt~
+plaid Kilt~
+You see a kilt lying here.~
+~
+9 1 2049 80
+7 6 7 7
+10 6700 670
+A
+12 70
+#433
+Bagpipes~
+bagpipes~
+You see a wonderful set of bagpipes here.~
+~
+8 1 16385
+7 7 7 0
+5 6700 670
+A
+4 1
+A
+13 40
+#434
+ThunderStaff~
+thunderStaff~
+You see a staff of the gods here.~
+~
+5 1 8193
+8 1 40 6
+10 8888 888
+#435
+Shrunken Head~
+shrunken Head~
+You see a shrunken head here.~
+~
+9 8193 2049 5
+7 5 5 5
+5 878 87
+A
+7 2
+A
+23 5
+#436
+Monkey's paw~
+monkey's paw~
+You see the foot of a Monkey here.~
+~
+9 8193 5
+5 5 5 5
+5 900 90
+A
+12 30
+#437
+Shadow slippers~
+shadow slippers~
+You see a pair of black slippers.~
+~
+9 8193 65
+5 5 5 5
+5 1000 100
+A
+13 25
+#438
+Magic Bag~
+magic bag~
+You see a magic bag here.~
+~
+15 8193 16385
+1000 0 0 0
+5 300 30
+#439
+Potion labeled "POOF".~
+potion labeled "POOF".~
+A strange looking potion is here.~
+~
+10 8193 1
+40 -1 -1 -1
+10 1000 100
+'teleport' 'NONE' 'NONE'
+#440
+Potion labeled "there".~
+potion labeled "there".~
+A wierd potion is here.~
+~
+10 8193 1
+40 -1 -1 -1
+10 1000 100
+'invis' 'protection' 'NONE'
+#441
+Jose Cuervo~
+jose Cuervo~
+A bottle of Jose Cuervo is here.~
+~
+17 8193 1
+100 2 5 0
+2 50 5
+#442
+Icehouse beer~
+icehouse beer~
+A icy cold Icehouse beer is here.~
+~
+17 8193 1
+100 5 1 0
+2 50 5
+#443
+Molson X~
+molson X~
+A cold Molson X beer is here.~
+~
+17 8193 1
+100 3 1 0
+2 50 5
+#444
+Bud Dry~
+bud Dry~
+A Bud Dry is here waiting for you.~
+~
+17 8193 1
+100 5 1 0
+2 50 5
+#445
+Rum & Coke~
+rum & Coke~
+A glass of Rum & Coke waits to be drank.~
+~
+17 8193 1
+100 2 8 0
+2 60 6
+#446
+Water Dagger~
+water Dagger~
+A dagger from the water is here.~
+~
+5 1 8193
+2 6 8 11
+5 10000 1000
+#447
+Magical bagpipes~
+magical bagpipes~
+A set of magic bagpipes are here.~
+~
+5 1 8193
+0 1 60 7
+10 10000 1000
+#448
+Kilt of insanity~
+kilt of insanity~
+You see a strange kilt here.~
+~
+9 1 2049 208
+8 8 8 0
+10 19191 1919
+A
+3 -2
+A
+13 40
+#449
+Silver spade~
+silver spade~
+A Silver spade is here.~
+~
+5 1 8193
+3 1 52 2
+10 1050 105
+#450
+Eye of charm~
+eye of charm~
+You see an eye staring at you.~
+~
+9 1 131073
+8 8 8 8
+2 5555 555
+A
+12 45
+A
+13 -30
+#451
+Glowing coin~
+glowing coin~
+A glowing coin has been left here.~
+~
+1 1 1
+0 0 100000 0
+5 100 10
+#452
+Dented platemail~
+dented platemail~
+A set of dented platemail is here.~
+~
+9 1 9
+8 8 8 8
+40 1000 100
+A
+11 50
+A
+14 -50
+A
+17 4
+#453
+Bloody Boots~
+bloody Boots~
+A pair of bloody boots are here.~
+~
+9 1 65
+7 7 7 7
+5 8000 800
+A
+18 -2
+A
+19 2
+#454
+Aprin~
+aprin~
+An Aprin lays folded here.~
+~
+9 1 2049
+7 7 7 9
+10 555 55
+A
+2 2
+#455
+Smith's Hammer~
+smith's Hammer~
+Smith's Hammer is resting here.~
+~
+5 1 8193
+6 1 68 7
+16 23211 2321
+#456
+target~
+target~
+A target is here for practice.~
+~
+15 1 0
+100 13 6708 0
+1 0 0
+#457
+Irelands Kilt~
+irelands Kilt~
+You see Irelands Kilt here.~
+~
+9 1 2049 208
+10 9 9 10
+23 54545 5454
+A
+12 20
+A
+13 20
+A
+18 4
+#458
+Crazymans Sword~
+crazymans Sword~
+You see a sword of a crazyman!~
+~
+5 1 8192
+16 8 8 3
+25 55555 5555
+A
+18 2
+A
+19 4
+#459
+Halberd of Might~
+halberd of Might~
+You see a mighty halberd here.~
+~
+5 1 8193
+8 1 72 3
+15 25000 2500
+A
+19 3
+#460
+The Shield of Darkness~
+the Shield of Darkness~
+A Evil shield is here.~
+~
+9 17 513
+8 9 9 9
+10 12000 1200
+A
+2 3
+A
+18 2
+#461
+Amulet of the stars~
+amulet of the stars~
+You see the night inside the amulet on the ground.~
+~
+9 1 5
+5 5 5 7
+5 1000 100
+A
+9 1
+A
+12 20
+#462
+Jade Ring~
+Jade ring~
+A beautiful Jade ring is here.~
+~
+9 1 3
+5 5 5 5
+3 5000 500
+A
+5 2
+#463
+White silk dress~
+white silk dress~
+A white silk dress is here.~
+~
+9 1 9 164
+10 9 9 10
+10 50000 5000
+A
+12 100
+A
+13 -100
+#464
+Wand of command~
+wand of command~
+You see a powerful looking wand here.~
+~
+3 1 16385
+41 10 7 -1
+1 10000 1000
+'gas breath'
+#465
+Daagar's gloves~
+daagar's gloves~
+You see Lord Daagar's gloves here.~
+~
+9 1 129
+12 12 12 12
+10 65555 6555
+A
+12 100
+A
+13 100
+#466
+Guiness Beer~
+guiness beer~
+A bottle of Guiness is here.~
+~
+17 8193 1
+100 3 3 0
+3 50 5
+#467
+skeleton key~
+skeleton key~
+A small key is here.~
+~
+18 1 1
+0 0 0 0
+1 10 1
+#468
+Black key~
+black key~
+A black key is here.~
+~
+18 1 1
+0 0 0 0
+1 10 1
+#469
+Gold key~
+gold key~
+A gold key is here.~
+~
+18 1 1
+0 0 0 0
+1 10 1
+#470
+Silver Key~
+silver key~
+A silver key is here.~
+~
+18 1 1
+0 0 0 0
+1 10 1
+#471
+standard lager~
+standard lager~
+A bottle of standard lager is here.~
+~
+17 8193 1
+100 3 3 0
+3 50 5
+#472
+Bottle magic pills~
+bottle of magic pills~
+A bottle of magic pills is here.~
+~
+26 1 1
+40 -1 -1 -1
+3 1000 100
+'enchant weapon' 'kindred strength' 'pass door'
+#473
+Ribeye steak~
+ribeye steak~
+A juicy ribeye steak is here.~
+~
+19 1 1
+24 0 0 0
+1 100 10
+#474
+Potion of command~
+potion of command~
+A potion of command is here.~
+~
+10 1 1
+45 -1 -1 -1
+1 1000 100
+'ventriloquate' 'sanctuary' 'charm person'
+#475
+Lots of Gold~
+lots of gold~
+You see a heap of gold!~
+~
+20 1 1
+70000 0 0 0
+1 70000 7000
+#476
+Death key~
+death key~
+The key to death is here.~
+~
+18 1 1
+0 0 0 0
+1 0 0
+#0
+
+
+#ROOMS
+#400
+Path to Chaos~
+You walk on a very dangerous path. This is the path to Chaos. A 
+path that not too many walk down. This path is dark and errie. You wonder
+if you will ever return from this path. The trees on both sides seem to
+be alive and trying to grab you. The earth upon which you walk seems to
+be waiting for your corpse...
+~
+0 524288 5
+D0
+You see the rugged path continue north.
+~
+~
+0 -1 401
+D2
+~
+~
+0 -1 22025
+S
+#401
+Path to Chaos~
+You stand on a old overgrown path. The trees are old and rotting and
+the ground is hard and brittle. You see a large cave opening up ahead and 
+wonder if this is where Chaos is.
+~
+0 524288 5
+D0
+You see a cave to the North.
+~
+~
+0 -1 402
+D2
+You see the path of Chaos to the south.
+~
+~
+0 -1 400
+S
+#402
+The Cave of Fate~
+You stand inside the cave of Fate. The walls glow brightly with the
+illumination of thousends of stars glowing from a nonexistent ceiling. You
+seem to be in a different realm. This may be your last chance to leave this
+place alive!
+~
+0 0 5
+D2
+You see the path to Chaos to the south.
+~
+~
+0 -1 401
+D5
+You may go down into the Realm of Chaos.
+~
+~
+0 -1 403
+S
+#403
+Falling to Chaos!!!~
+Suddenly you F
+                       A
+                          L
+                             L
+
+                                D
+                                O
+                                W
+                                N
+                                
+You hit the Ground with a HUGE THUD!!! You have landed in a strange glowing
+room. The whole room glows RED!!! Looks like you have entered Chaos! You 
+see a large SIGN floating in the air.
+~
+0 8 0
+D5
+Looks like the only way in or out is down...
+~
+~
+0 -1 404
+E
+sign~
+.    *---------------------------------------------------------*
+     |                                                         |
+     |              WELCOME MORTAL TO CHAOS!!!                 |
+     |    +                                               +    | 
+     |   +++      You have taken the first step to       +++   |
+     |    +       Understanding Chaos and the Laws        +    |
+     |    I       which Chaos thrives on. May you         I    |
+     |    I       find your Visit...                      I    |
+     |    I                  Chaotic!                     I    |
+     |    I                                               I    |
+     |    I       (This area inspired by Jean Rabe)       I    |
+     |    I       (and Norm Ritchie. -Created by)         I    |
+     |            (Beowolf.)                                   |      
+     *---------------------------------------------------------* 
+~
+S
+#404
+The Hall of Mirrors~
+You suddenly find yourself in a brightly lit room surrounded
+by hundreds of people. You feel dizzy and disoriented, and the last 
+thing you remember is the feeling of being somehow pulled into that
+hideous reflection. As your eyes adjust to the brightness, you realize
+that you are actually in a room filled with mirrors, and the other
+figures you thought you saw are only reflections.
+~
+0 8 0
+D0
+You see something to the north.
+~
+~
+0 -1 404
+D1
+You see something to the east.
+~
+~
+0 -1 404
+D2
+You see something to the south.
+~
+~
+0 -1 405
+D3
+You see something to the west.
+~
+~
+0 -1 404
+S
+#405
+Hall of Mirrors~
+You suddenly find yourself in a brightly lit room surrounded 
+by hundreds of people. You feel dizzy and disorientated, and the 
+last thing you remember is the feeling of being somehow pulled into 
+that hideous reflection. As your eyes adjust to the brightness, you
+realize that you are actually in a room filled with mirrors, and the
+other figures you thought you saw are only reflections.
+~
+0 8 0
+D0
+You see something to the North.
+~
+~
+0 -1 406
+D1
+You see something to the east.
+~
+~
+0 -1 404
+D2
+You see something to the south.
+~
+~
+0 -1 404
+D3
+You see something to the west.
+~
+~
+0 -1 405
+S
+#406
+The Nightbreed.~
+You exit the rooms of Mirrors and stand in a dark, dark room.
+Your nose is assaulted by the smell of rotting flesh that hangs in the
+air. Suddenly you feel the brush of a body against you and without notice
+something comes ALIVE!!!
+~
+0 1 0
+D1
+You see an Exit to the east.
+~
+~
+0 -1 407
+D2
+You see the Hall of Mirrors to the south.
+~
+~
+0 -1 405
+S
+#407
+Hall of Souls~
+You stand in the Hallway of Souls. You smell death and decay all
+around you. You feel as though you are being watched... 
+A Sign floats in the air here.
+~
+0 1 0
+D1
+You see a door to the east.
+~
+~
+0 -1 408
+D2
+You see a door to the south.
+~
+~
+0 -1 409
+D3
+You see a door to the west.
+~
+~
+0 -1 406
+E
+sign~
+.     *-----------------------------------------------------*
+      |                                                     |
+      |       *Chaos is what you just experienced...        |
+      |       *Chaos is what you fear...                    |
+      |       *Chaos is confusion...                        |
+      |                     -Beowolf                        |
+      *-----------------------------------------------------*
+~
+S
+#408
+Room of Adjustment.~
+In contrast to the Hall of Mirrors, this room is gloomy and
+dark. As your eyes adjust to the dim and misty light radiating from
+the walls, you see a very large room. Your attempts to orient yourself
+to your surroundings are cut short by the sight of movement in the far
+corner.
+~
+0 1 0
+D3
+You see a door west.
+~
+~
+0 -1 407
+E
+corner~
+You see small markings in the corner..."Death to Paladins."
+~
+S
+#409
+Register yerself!~
+This huge rectangular room is hung with pictures of Drow, lined up
+along all the walls. All of the dark elves appear to be wearing the same
+clothing: a plain, unadorned tunic. There is a door in the west wall directly
+opposite your position, and there seems to be something written on the
+wall.
+~
+0 1 0
+D0
+You see a door to the north.
+~
+~
+0 -1 407
+D3
+You see a doorway to the west.
+Iron door~
+~
+1 -1 410
+E
+wall~
+The inscription says 'State your buisness and enter.'
+~
+S
+#410
+The Mist~
+There seems to be a strange black mist obscuring this area, but
+through the mist you can see that the room is filled with glowing green
+webs. You have no time to ponder the significance of these observations,
+as you are suddenly attacked!
+~
+0 8 0
+D3
+You see a door to the west.
+~
+~
+0 -1 411
+S
+#411
+The Dark Hallway~
+There seems to be laughter coming from somewhere around you, but
+where you can't tell. The hallway is littered with skeletons and torn 
+flesh from many kinds of creatures. What a vile hallway!
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+0 -1 410
+D2
+You see a door to the south.
+~
+~
+0 -1 412
+D3
+You see a door to the west.
+~
+~
+3 1 413
+S
+#412
+The Dark Hallway~
+There seems to be laughter coming from all around you, but from
+where you can't tell. The hallway is littered with skeletons and torn
+flesh from many kinds of creatures. What a vile hallway!
+~
+0 8 0
+D0
+You see a door to the north.
+~
+~
+0 -1 411
+D2
+You see a door to the south.
+~
+~
+0 -1 419
+D3
+You see a door to the west.
+~
+~
+3 1 414
+S
+#413
+Ghostly Temple~
+This area was obviously a temple, and there is still a massive
+altar against the center of the north wall. Midway between the altar and
+the other three walls, the room is divided on three sides by massive floor
+to ceiling columns. It is lit by two huge braziers, which burn with a 
+flickering purple flame, even though no fuel is visible, and appear to give
+off no heat. In fact, this room is noticeably colder than the hallway from
+which you just entered. The room is huge, and there appear to be no exits
+other than the doorway behind you.
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+3 1 411
+S
+#414
+Entry to the Baths~
+This large room is decorated with carvings of young elves playing
+in pools of steaming water. It seems strangely pleasant and quiet here. 
+Two stairways exit through the north wall, one on the west and one north.
+On the floor before each of the staircases is a strange marking.
+~
+0 8 0
+D0
+You see a door to the north.
+~
+~
+3 1 416
+D1
+You see a door to the east.
+~
+~
+3 1 412
+D3
+You see a door to the west.
+~
+~
+3 1 415
+E
+markings~
+.    Northern marking     OOO
+                        O     O
+                        o     o     (Females Only)
+                          OOO
+                           o
+                         ooooo
+                           o
+                           o
+     
+     Western marking                   OOO
+                                     O     O
+                                     o     o   (Males Only)
+                                       OOO
+                                          o   o 
+                                            o  o 
+                                           o o  o
+~
+S
+#415
+Dressing Room~
+You are in a softly lit room. There are comfortable benches along
+the walls and shelves for clothing and possessions. The mirrors on the wall
+are quite small, but then again men don't look at the mirror all day.
+~
+0 8 5
+D1
+You see a door to the east.
+~
+~
+0 -1 414
+D3
+You see a door to the west.
+~
+~
+0 -1 417
+S
+#416
+Dressing Room.~
+You are in a softly lit room. There are comfortable benches along
+the walls and shelves for clothing and possessions. The mirrors on the wall
+are quite large and an assortment of brushes and make-up line a counter.
+~
+0 8 5
+D2
+You see a door to the south.
+~
+~
+0 -1 414
+D3
+You see a door to the west.
+~
+~
+0 -1 417
+S
+#417
+A Pleasant Refuge~
+This room is immense and looks like a park. The lighting is warm and
+subdued, like a spring evening. The ground is covered with a green mossy
+growth that seems soft enough to fall asleep on, and there is even a fountain
+with a statue of a centaur. The pillars supporting the roof have been carved
+into the shapes of nymphs and dyads, and the entire room looks completely
+inviting.
+~
+0 8 5
+D0
+There is a door to the north.
+~
+~
+0 -1 416
+D1
+There is a door to the east.
+~
+~
+0 -1 415
+D3
+There is a gateway to the west.
+~
+~
+0 -1 418
+S
+#418
+The Baths~
+You can see very little in this room but clouds of fog, far denser
+than the mist which seems to permeate every inch of these corridors. The
+room is pleasantly warm and steamy, and you can smell water. Judging by the
+echo of your footsteps, the room is quite large.
+~
+0 8 5
+D1
+You see a gateway to the east.
+~
+~
+0 -1 417
+S
+#419
+The Dark Hallway.~
+You stand in a huge hallway. This hallway is different than the 
+others. This one is lit on both sides by burning torches, which have a
+blue flame. The floor seems to be made of black marble and the hall seems
+to be in very good condition.
+~
+0 8 0
+D0
+You see a hallway to the north.
+~
+~
+0 -1 412
+D1
+You see a door to the east.
+~
+~
+1 1 420
+D2
+You see a hallway to the south.
+~
+~
+0 -1 421
+D3
+You see a doorway to the west.
+~
+~
+3 1 422
+S
+#420
+Shadowy Dining Hall~
+You stand in an immense dining hall. This room is 60' x 140' and
+is lined with stone tables and attached benches. In the center of the
+room is a huge statue of a Cleric holding a brass staff. The floor is
+dirty and scuffed.
+~
+0 8 0
+D0
+You see a door to the north.
+~
+~
+3 1 431
+D2
+You see a doorway to the south.
+~
+~
+0 -1 432
+D3
+You see a door to the west.
+~
+~
+3 1 419
+S
+#421
+The Dark Hall~
+The hall here gets wider and is supported by huge columns on both
+sides. The hall is lit by torches which burn a blue color. The floor is
+made from fine black marble and is shiney.
+~
+0 8 0
+D0
+You see a hallway to the north.
+~
+~
+0 -1 419
+D1
+You see a hallway to the east.
+~
+~
+0 -1 423
+D2
+You see an Iron door to the south.
+~
+~
+3 1 424
+D3
+You see a Black door to the west.
+~
+~
+3 1 425
+S
+#422
+Shop of Chaos.~
+Welcome to the Shop of Chaos! You have come to the right place! This
+shop is unlike any you have ever seen in your life. All along the walls are
+Pictures of the most Famous people of Chaos. You look up and notice that 
+there isn't a ceiling! What you see instead sends shivers down your spine.
+You see an immense black sky that streches for eternity. You see stars and
+Huge winged black Dragons in the sky. Many swirling lights, the portals of
+Chaos, hang in the air. You feel dizzy by the immense blackness. Beware
+what you buy!
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+3 1 419
+E
+pictures~
+You look at the pictures of Chaos's most elite...Ajnag, Alannon, Anakin,
+Angst, Babooshka, Candlebox, Chunli, Jenn, Kaariel, Midnight, Nomdeplume,
+Pitt, Raider, Raizen, Raven, Ryu, Sonja, Thallin, Vladamire, and Xentar.
+~
+S
+#423
+The Dark Hall~
+The hallway here is very quiet. The torches here burn an errie green.
+The marble floor here is scuffed and looks like it is in constant use. The 
+columns are cracked and rubble lies on the ground.
+~
+0 8 0
+D0
+You see a happening place to the north.
+~
+~
+3 1 426
+D1
+You see a hallway to the east.
+~
+~
+0 -1 427
+D2
+You see a HUGE Arena to the south.
+~
+~
+0 -1 428
+D3
+You see a hallway to the west.
+~
+~
+0 -1 421
+S
+#424
+Entry Hall~
+This room is filled with decaying trophies. The walls are covered
+with rusted and unusable weapons and the moldering heads of all manner of
+beasts. It appears as if someone had spent a lifetime in the pursuit of
+killing.
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 421
+D1
+You see a grand doorway to the East.
+~
+~
+3 1 452
+S
+#425
+Gate to the Mages' of Chaos School.~
+You are in an alcove with a strange marble statue in it, the likeness
+of an elf in long flowing robes. He is holding out his hands with the palms
+up as if to offer you something. There is an inscription around the bottom.
+You also see a grand gate to the south.
+~
+0 8192 0
+D1
+You see a door to the east.
+~
+~
+3 1 421
+D2
+You see a grand gate to the south.
+~
+~
+3 1 476
+E
+inscription~
+.           *--------------------------*
+            |    Chaos Mage School.    |
+            |    ******************    |
+            |                          |
+            |    Enter at Your own     |
+            |    Risk.                 |
+            |                          |
+            |         -Beowolf         |
+            *--------------------------*
+~
+S
+#426
+The Bar of Chaos.~
+You enter a boisterous and cheery place. This is the only place 
+that you have been in yet that was even close to lively. This place makes
+a croud look small. There are so many people here! You look up and see
+why... Huge diamonds tile the whole roof! People try to take the diamonds
+but when they touch them they are struck down by lightning bolts! You decide
+that trying to steal the diamonds isn't worth it. So care for a drink? Large
+cushioned barstools are next to the bar.
+~
+0 8 0
+D2
+You see a door to the south.
+~
+~
+3 1 423
+S
+#427
+The End of the Dark Hall.~
+You stand at the end of the Dark hall. There are many different 
+torches in this hall. They each have a different color burning. The one
+on the wall by the north door is Red and the one by the southern door
+is White. The marble here is Green and the columns are in perfect condition.
+~
+0 8 0
+D0
+You see an arched door to the north.
+~
+~
+0 -1 429
+D2
+You see a archway to the south.
+~
+~
+0 -1 430
+D3
+You see the hallway to the west.
+~
+~
+0 -1 423
+S
+#428
+The Arena.~
+You have stepped into the Arena. This is a vast place reaching
+fifty feet into the air and the whole chamber is so large that you cannot
+even comprehend its immenseness because of the darkness. Near you, you can
+make out tiers of seats stretching up and around the walls. You hear a
+cackle to the south.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 423
+D2
+You see something south.
+~
+~
+0 -1 475
+S
+#429
+The Master's Room.~
+In this room stands an ornate, archbacked, impressive throne, 
+apparently carved out of a single huge block of stone. It faces outwards,
+torwards the door you entered. The separated bones of a single human skeleton
+drift lazily in midair above the seat of the throne, shifting about in an
+endless jumble. The skull moves but is always facing outwards and turning
+to look at you; the only bones that are not part of this endless, silent
+slow dance are the intact feet of the skeleton. These are on the floor, 
+positioned as if the skeleton is sitting on the throne.
+         A small note lies at the skeleton's feet.
+~
+0 8 0
+D2
+You see a door to the south.
+~
+~
+3 1 427
+D5
+You see a crack in the floor.
+~
+~
+3 1 451
+E
+note~
+Beware: Death Awaits the foolish down from this room. 
+Seek death and you shall find it.
+~
+S
+#430
+A Cozy Room.~
+The warm, muted glow of two hooded lamps illuminate this cozy room.
+Furs cover the floor, and old, massive smoothly carved wooden furniture
+lines the walls. The furniture consists of a large eating table, a sideboard,
+three large reclining chairs woth foot-stools, and a high stool and a desk.
+Two shelf units are also along the walls, home to bright displayed weapons
+and a few thick books. On the far wall is a fireplace, a merry blaze 
+crackling within it. It is surounded by an ornately-carved stone mantel
+depicting armored human knights riding dragons and competing with elven
+knigts on Pegasi. Overhead, the dragon- and Pegasi-riders motif is repeated
+on the carved panels of the ceiling. Brass cloak-hooks project from a
+human-sized arch of richly polished wooden panelling just inside the door.
+The arch-topped panel contains a fold-down wooden bench, and is carved 
+with a large, complex scene of birds singing over a pool where a unicorn
+bends its head to drink. You don't hear anything but the faint crackle
+of the fire.
+~
+0 8 0
+D0
+You see a door to the north.
+~
+~
+3 1 427
+S
+#431
+The Kitchen of Souls~
+This large room was obviously a kitchen, the place where meals were
+prepared for the clerics and thier students. There are two large cooking
+hearths, one each on the north and west wall. The smell of rotten food
+fills this room.
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+3 1 433
+D2
+You see a door to the Dining Hall.
+~
+~
+3 1 420
+S
+#432
+Cleric's Hallway~
+You are in what many of the clerics used when they trained here. You
+see a LARGE PLAQUE on the wall. There are rotten benches of Black material
+lining the hall. There are torches on both sides of the hall glowing red.
+~
+0 8 5
+D0
+You see a door to the north.
+~
+~
+3 1 420
+D1
+You see a hall to the east.
+~
+~
+3 1 434
+E
+plaque~
+.       *------------------------*
+        |                        |
+        |   Clerical School of   |
+        |          Chaos         |
+        |    *****************   |
+        |                        |
+        |    This School and     |
+        |    Chaos is made       |
+        |    possible by         |
+        |    Beowolf.            |
+        |                        |
+        |    *****************   |
+        |    (for levels 15-51)  |
+        |                        |
+        *------------------------*
+~
+S
+#433
+Cold Storage~
+This dimly lit room is lined with shelves, and is strangely cold.
+The shelves seem to be laden with many small, unidentifiable masses. You
+can not tell from here if any of them are moving.
+~
+0 8 0
+D3
+You see a door back to the Kitchen.
+~
+~
+3 1 431
+S
+#434
+Cleric's Hallway.~
+You stand in the once busy hallway of the clerics of Chaos. It was
+here that all the faithful of Chaos came to learn and practice thier beliefs.
+It is here that they learned both the ways of Chaos and the way of Fate. 
+There are gold and crystal chandeliers hanging on the ceiling.
+~
+0 8 5
+D0
+There is an Iron door to the north.
+~
+~
+3 1 435
+D1
+There is a hallway to the east.
+~
+~
+0 -1 436
+D2
+There is a Silver door to the south.
+~
+~
+3 1 437
+D3
+There is a hallway to the west.
+~
+~
+0 -1 432
+S
+#435
+Students of Chaos Quarters~
+This room is virtually empty. Four piles of rotted wood and cloth
+are scattered in this room and may have once served as beds. This seems
+to be a dorm room for the Clerical students of Chaos. The walls have 
+many posters depicting the God of Chaos and there is a desk against the
+northern wall.
+~
+0 8 5
+D2
+You see an Iron door to the south.
+~
+~
+3 1 434
+S
+#436
+Cleric's Hallway.~
+You stand in the once busy hallway of the clerics of Chaos. It was
+here that all the faithful of Chaos came to learn and practice thier beliefs.
+It is here that they learned both the ways of Chaos and the way of Fate.
+There are gold and crystal chandeliers hanging on the ceiling.
+~
+0 8 5
+D0
+You see a white door to the north.
+~
+~
+3 1 440
+D1
+You see a hallway to the east.
+~
+~
+0 -1 438
+D2
+You see a doorway to the south.
+~
+~
+3 1 439
+D3
+You see a hallway to the west.
+~
+~
+0 -1 434
+S
+#437
+Better Quarters~
+This room appears similar to the others, except that it appears that
+someone or something has been cleaning up in here. The furnishings are still
+decayed, but the rotting piles have been neatly arranged. It appears as 
+though someone or something has been doing some housekeeping in here.
+~
+0 8 5
+D0
+You see a Silver door to the north.
+~
+~
+3 1 434
+S
+#438
+Cleric's Hallway~
+You stand in the once busy hallway of the clerics of Chaos. It was
+here that all the faithful of Chaos came to learn and practice their beliefs.
+It is here that they learned both the ways of Chaos and the way of Fate.
+There are gold and crystal chandeliers hanging on the ceiling.
+~
+0 8 5
+D0
+You see a room to the north.
+~
+~
+0 -1 441
+D1
+You see a hallway to the east.
+~
+~
+0 -1 442
+D2
+You see a hallway to the south.
+~
+~
+0 -1 443
+D3
+You see a hallway to the west.
+~
+~
+0 -1 436
+S
+#439
+Chaos Cleric's Room~
+This room appears like the others, misty and filled with crumbling
+furniture, but it seems much brighter. You can easily see the room and its
+rotting furnishings-as well as a small glint, as from something bright, 
+under some of the rotting wood.
+~
+0 8 5
+D0
+You see a door to the north.
+~
+~
+3 1 436
+S
+#440
+A Calm Room.~
+This huge room is full of corroded metal bedframes, and there is
+a decaying cabinet in the northwest corner. A strange looking glyph 
+decorates the floor just inside the doorway. You feel very calm in this 
+room.
+~
+0 8 5
+D2
+.
+You see a door to the south.
+~
+~
+3 1 436
+E
+glyph
+~
+This glyph is magical and you translate it. The glyph was used to keep
+unhealthy influence from the room.
+~
+S
+#441
+The Students' Library.~
+You stand in what is the students of Chaos's Library. This room is
+lavishly decorated. There are plush purple chairs and sofas' through-out
+the room. There are pictures on the walls depicting some of the most famous
+students of Chaos. There are large desks for privacy and paper magically
+floats in the air for special notes. The shelves here are made of pure gold.
+This room looks like it is used quite a bit to study in, even now! There 
+are thousands of books here. A tome of Chaos, a scroll of Chaos and a book 
+of Chaos lie on the floor here.
+(look tome, look scroll, look book to read these.)
+~
+0 8 5
+D2
+You see the Hallway to the south.
+~
+~
+3 1 438
+E
+tome~
+.       *******************************************************
+       (______________________________________________________(
+         |                                                    |
+         |    The knowledge of What Chaos means and stands    |
+         |    for. These are what make Chaos...               |
+         |                                                    |
+         |    1). Chaos is what we feel. It isn't just        |
+         |        mass confusion, it is Order as well.        |
+         |        A student of Chaos must always strive       |
+         |        to do their best. Although we have the      |
+         |        satanic nature we always strive to help     |
+         |        our fellow follower of Chaos.               |
+         |                                                    |
+        *******************************************************
+       (______________________________________________________(
+~
+E
+scroll~
+.       *******************************************************
+       (______________________________________________________(
+         |                                                    |
+         |            The Chaos Spiritual Side.               |
+         |                                                    |
+         |    To understand Chaos one must understand Fate.   |
+         |    Together Fate and Chaos are United. You see     |
+         |    Fate brings us all together and it is Chaos     |
+         |    that are the barriers in our lives. Chaos       |
+         |    is any and all difficulties that you may        |
+         |    face in your life to grow and become a better   |
+         |    person. It is this view that we strive for in   |
+         |    Chaos, because without Chaos in one's life      |
+         |    one would be without guidance. Chaos is how     |
+         |    we learn and become the great people that we    |
+         |    are destined to be...                           |  
+        *******************************************************
+       (______________________________________________________(
+~
+E
+book~
+.       *******************************************************
+       (______________________________________________________(
+         |                                                    |
+         |               Why Chaos is Evil...                 |
+         |                                                    |
+         |    For many centuries Chaos has been at work. It   |
+         |    has brought floods, volcanoes, and the very     |
+         |    creation of everything. When people feel like   |
+         |    everything is going wrong then that is Chaos.   |
+         |    It takes a special breed of students to realize |
+         |    just how great this is and we are generally     |
+         |    quite Chaotic. We strive to create that which   |
+         |    we learn from, Chaos!                           |
+         |    The Chaos saying.."Create Chaos, Live Chaos!"   |
+        *******************************************************
+       (______________________________________________________(
+~
+S
+#442
+Cleric's Hallway.~
+You stand in the once busy hallway of the Clerics of Chaos. It was
+here that all the faithful of Chaos came to learn and practice their beliefs.
+It is here that they learned both the ways of Chaos and the way of Fate.
+There are gold and crystal chandeliers hanging on the ceiling.
+~
+0 8 5
+D0
+You see a Bronze door to the north.
+~
+~
+3 1 444
+D1
+You see a Gold door the the east.
+~
+~
+3 1 445
+D3
+You see a hallway to the west.
+~
+~
+0 -1 438
+S
+#443
+Cleric's Hallway.~
+You stand in the once busy hallway of the clerics of Chaos. It was
+here that all the faithful of Chaos came to learn and practice their beliefs.
+It is here that they learned both the ways of Chaos and the way of Fate.
+There are gold and crystal chandeliers hanging on the ceiling.
+~
+0 8 5
+D0
+You see a hallway to the north.
+~
+~
+0 -1 438
+D1
+You see a door to the east.
+~
+~
+3 1 446
+D2
+You see a door to the south.
+~
+~
+1 1 447
+D3
+You see a door to the west.
+~
+~
+3 1 448
+S
+#444
+The Headmaster's room.~
+This room is larger than the others but similarly appointed. What
+remains of the furniture seems of better quality, but is still badly decayed.
+The room is uniformly dark and you are not casting any shadows. There is a 
+large brass desk in the corner of the room and windows look out over a
+strange view.
+~
+0 8 0
+D2
+You see a Bronze door to the south.
+~
+~
+3 1 442
+E
+desk~
+You look at the desk and see carvings on it..."soon...soon we
+will move to the new school of Chaos. This school is becoming very, very
+powerful..."
+~
+E
+windows~
+As you look at the windows you see huge swirling portals...Hmm, the Portals
+of Chaos maybe? This makes you wonder if this school is in decay because
+of something Chaotic...
+~
+S
+#445
+Headmistress's Parlor~
+This room appears to have been a sitting room of some kind. There 
+are the remains of a sofa and two chairs near the north wall. A decayed 
+table is in the northeast corner with a crystal decanter lying amongst the
+bits and pieces.
+~
+0 8 0
+D0
+You see a set of double doors to the north.
+~
+~
+3 1 449
+D3
+You see a gold door to the west.
+~
+~
+3 1 442
+S
+#446
+Leisure Room~
+This room appears to be where the students took breaks. There is
+a huge crystal ball in the center of the room. There is also a decayed 
+bedframe and some decomposed books on the floor. A strange design on
+the east wall appears to have been drawn in some type of thick paint, but
+you cannot make it out from here.
+~
+0 8 5
+D3
+You see a door to the west.
+~
+~
+3 1 443
+E
+design~
+This strange design is what mages call a glyph of warding. This one was
+used to paralyze the victim.
+~
+S
+#447
+Housekeeping Room~
+This room looks to be in a remarkable state of preservation. It
+contains a perfectly made bed and some clerical robes hung neatly on hooks
+in the southeast corner. Could it be that someone still lives here?
+~
+0 8 5
+D0
+You see a door to the north.
+~
+~
+3 1 443
+S
+#448
+Magic at Work~
+Tapestries woven with the images of fantastic and magical beasts
+line the walls of this room. Thick rugs resembling grass cover the floor.
+There are no other furnishings in this room.
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+3 1 443
+S
+#449
+Cherchez La Femme~
+This chamber was at one time lushly decorated. Glowing orbs of 
+various colors float near the ceiling, illuminating the metal frame of
+what was once a huge bed. There is a large hearth against the north wall
+and a huge moth eaten fur rug in front of it. There is a door in the east
+end of the wall. The air in this chamber is scented with the smells of
+Roses.
+~
+0 8 0
+D1
+You see a door in the east wall.
+~
+~
+3 1 450
+D2
+You see a set of double doors to the south.
+~
+~
+3 1 445
+S
+#450
+Personal Library~
+This room is well lit, and filled with books in what appear to be
+a perfect state of preservation. The tomes are bound in expensive leather
+and written in an unfamiliar language. The room is quite cozy.
+~
+0 8 0
+D3
+You see a door to the west.
+~
+~
+3 1 449
+S
+#451
+The Haze~
+A blue haze seems to rise before your very eyes, silently and
+rapidly, OBLITERATING the world around as you stare at the cryptic 
+inscription. The inscription seems to consist of a number of names
+and other nonsense, followed by the last line, glowing in deep blue
+common lettering: "If you're reading this, of course, its too late." 
+Blue radiance is everywhere; you are lost and floating somewhere not
+quite real. Blue, shifting light is under, over, and all around you. 
+The light begins to fade, and you realize that your legs and feet are
+colder- and wetter- than the rest of you. You're somewhere else, all
+light goes black and you are standing in inky, dark water as deep as your
+thighs. A faint purple light comes from your left. Ahead of you, in the
+distance, you hear the water rippling as something within it moves...
+~
+0 6 0
+S
+#452
+The Warrior's Bloodgrounds.~
+The floor of this huge room is covered with a layer of fine sand. 
+Perhaps warriors trained here long ago; it appears to have been a practice
+arena at one time. The light in here is especially intense, and the 
+temperature is noticeably warmer than in the other rooms. You see the
+markings of Chaos everywhere.
+~
+0 8192 0
+D1
+You see a door to the east.
+~
+~
+3 1 453
+D3
+You see a grand doorway to the west.
+~
+~
+3 1 424
+S
+#453
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a hall to the north.
+~
+~
+0 -1 454
+D1
+You see a hall to the east.
+~
+~
+0 -1 456
+D2
+You see a hall to the south.
+~
+~
+0 -1 455
+D3
+You see a door to the west.
+~
+~
+3 1 452
+S
+#454
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must 
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a hall to the north.
+~
+~
+0 -1 457
+D2
+You see a hall to the south.
+~
+~
+0 -1 453
+S
+#455
+The Hall of the Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must 
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a hall north.
+~
+~
+0 -1 453
+D2
+You see a door south.
+~
+~
+3 1 469
+S
+#456
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallwy. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+0 1 466
+D3
+You see a hall to the west.
+~
+~
+3 -1 453
+S
+#457
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must
+have inspired even the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 458
+D2
+You see a hall to the south.
+~
+~
+0 -1 454
+D3
+You see a hall to the west.
+~
+~
+0 -1 459
+S
+#458
+Instructor's Quarters.~
+This room is decorated with a few decaying trophies. There are also
+many weapons on the walls, which are, disappointingly, unusable- except for
+the sword hanging on the west wall, over the remains of the bed. That one
+appears intact.
+~
+0 8192 0
+D2
+You see a door to the south.
+~
+~
+3 1 457
+S
+#459
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knigts floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 460
+D1
+You see a hall to the east.
+~
+~
+0 -1 457
+D2
+You see a door to the south.
+~
+~
+3 1 461
+D3
+You see a hall to the west.
+~
+~
+0 -1 462
+S
+#460
+Clean Room.~
+This room is nearly empty. Even the scraps of decayed furnishings 
+that should be here are gone. It looks like someone or something has swept
+this room clean, although it is obvious that the room has not been aired out
+for years. There is a strange unpleasant odor here.
+~
+0 8192 0
+D2
+You see a door to the south.
+~
+~
+3 1 459
+S
+#461
+Warriors Dormitory.~
+You stand in the biggest room that you have ever entered. There are
+rusty metal bedframes scattered all about the room. This room looks like it 
+used to house well over five thousand warriors. There are markings on the 
+walls and a small square ring in the center of the room. The ring looks
+like the place where the warriors wrestled. The door behind you suddenly 
+slams shut and the room begins to glow. *POOF* before your very eyes you
+see a HUGE giant warrior! He seems to be floating on the air almost as if,
+it is magic! The warrior is a hologram! The room seems somehow different 
+though. You wonder what is going on.
+~
+0 8192 0
+D0
+You see a Glowing door to the North.
+~
+~
+3 1 459
+E
+markings~
+You see the names of warriors who have trained here.
+~
+E
+hologram~
+You see a HUGE beast of a man...It looks similar to the Immortal of
+Chaos.
+~
+S
+#462
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. You look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seem to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must
+have inspired the most hearty of evil warriors!
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 463
+D1
+You see a hall to the east.
+~
+~
+0 -1 459
+D2
+You see a door to the south.
+~
+~
+3 1 461
+D3
+You see a hall to the west.
+~
+~
+0 -1 464
+S
+#463
+The Instructors Quarters.~
+In this room, the linens seems to have fared better than the 
+furniture. The bedframe appears to have completely rotted away but some
+remnants of the sheets and a lump that may be the remains of a pillow
+still survive.
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 462
+S
+#464
+The Hall of The Knights of Chaos.~
+You stand in a grand hallway. you look at all the work and dedication
+that it must have taken to construct such a hallway. Carved figures, which
+represent warriors of every race, stand proudly with swords raised in a toast
+to you. Gold and silver line the hallway and you see holograms of Dragons and
+Knights floating in the air. The Knights seems to be fighting the good dragons
+and riding on the backs of the Evil Red and Black dragons. This place must 
+have inspired the most hearty of evil warrirors!
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 465
+D1
+You see a hall east.
+~
+~
+0 -1 462
+D2
+You see a door to the south.
+~
+~
+3 1 461
+S
+#465
+Instructors Room.~
+This room looks familiar, except that there is a formidable pile
+of bones in the middle of the floor. The bones themselves seem fairly
+small; they are obviously too fine ro be from a person, even from a
+gnome or halfling, but there are so many! The pile is 3 or 4 feet across
+and at least 4 feet high in the middle.
+~
+0 8192 0
+D2
+You see a door to the south.
+~
+~
+3 1 464
+S
+#466
+The Hall of Heroes.~
+This large room is filled with rows of stone tables and benches
+running down both sides. The lighting here, although still rather dim,
+is better than in the rest of this immense complex. Strangely, the room
+does not feel empty. If you are quiet, you can almost hear the murmuring
+of many voices in the misty gloom. There are decorative carvings on the 
+walls. You hear voices inside your head, stories of warriors in battles 
+and of fights with dragons. You feel completely at home here. Then one 
+more voice enters your head..."You are part of an eternal tradition."
+~
+0 8 0
+D1
+You see a door to the east.
+~
+~
+3 1 467
+D3
+You see a door to the west.
+~
+~
+0 -1 456
+S
+#467
+The Warriors' Kitchen.~
+This large room was obviously designed to prepare food for a mob
+of growing boys. There are two immense cooking hearths in this room, with
+kettles on them that would each hold enough food to feed a small army. The
+most notable thing about this kitchen, however, is the group of people
+working at the hearths and tables. If they weren't partially transparent,
+you would almost think they were alive- but they are, of course, merely
+not dead.
+~
+0 8192 0
+D1
+You see a door to the east.
+~
+~
+3 1 468
+D3
+You see a door to the west.
+~
+~
+3 1 466
+S
+#468
+Pantry.~
+This room appears to have been used to store food and supplies
+for the kitchen, and the crusted remains of the supplies and old cloths
+are clearly visible. Aside from the fact that it is strangely cool in here,
+it seems of little interest.
+~
+0 8192 0
+D3
+You see a door west.
+~
+~
+3 1 467
+S
+#469
+Supply Office.~
+You stand in a large room. A counter runs down the center of this
+room. There area is well lighted and the counter has small holes, almost 
+like inkwells, at intervals along it. This is where the students would
+come and check out various weapons.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 455
+D1
+You see a door east.
+~
+~
+3 1 471
+D2
+You see a door south.
+~
+~
+3 1 470
+D3
+You see a door west.
+~
+~
+3 1 472
+S
+#470
+Armour Storeroom.~
+This room has falling racks containing pieces of nearly every
+sort of armour, from rotting leather to corroded pieces of plate. There
+is even a heap of debris to the north that looks as if it were once a
+rack of shields. The remnants of armour may have once been neat and 
+orderly. Now they are scattered as if a great wind had struck this room.
+~
+0 8192 0
+D0
+There is a door north.
+~
+~
+3 1 469
+D2
+You see a door south.
+~
+~
+3 1 473
+S
+#471
+Projectiles Room.~
+The contents of this room are even more decrepit and deteriorated 
+than what you have already seen. This room is full of rotted racks 
+holding the decayed remnants of missile weapons. Obviously the components
+of bows and slings are more perishable than those of swords and armour.
+As you stand surveying the residue, an old rusted dagger flies by, narrowly
+missing your head!
+~
+0 8192 0
+D1
+You see a door to the east.
+~
+~
+3 1 474
+D3
+You see a door to the west.
+~
+~
+3 1 469
+S
+#472
+Weapons Room.~
+This room is filled with the debris of what apparently used to
+be racks of weapons. At first glance it seems obvious that any weapons
+that remain have long ago deteriorated into uselessness. You see a Chaos
+Logo on the wall.
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+3 1 469
+E
+logo~
+.     @@@@@@@  @     @       @ @        @@@@@@@@@     @@@@@@
+      @        @     @      @   @       @       @    @      @
+      @        @     @     @     @      @       @      @@@
+      @        @@@@@@@    @@@@@@@@@     @       @          @
+      @        @     @   @         @    @       @   @       @
+      @@@@@@@  @     @  @           @   @@@@@@@@@    @@@@@@@  
+~
+S
+#473
+The Smithy.~
+This room is recognizable as a weaponsmith shop to anyone who has
+ever seen one. From the forges along the wall to the hammers and tongs
+racked next to them everything looks to be in its place.
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 470
+S
+#474
+Practice Room.~
+This immense room is laid out in lanes for crossbow and hurled weapon
+practice. There are targets at the far north wall, and the room is marked in
+distances by numbers on the floor. The targets are attached to the ceiling
+and could be adjusted with pulleys from your position, if the ropes that
+went around the pulleys were not rotted away. The targets could be set up
+as suitable ranges for any type of practice, from thrown daggers to long
+bow.
+~
+0 8192 0
+D3
+You see a door west.
+~
+~
+3 1 471
+S
+#475
+The Arena.~
+The Arena still continues its immense growth but seems different 
+here. You see four statues in the corners of the arena, all which are 
+mages with thier wands pointing to you. Suddenly you hear a voice...
+"So you think you are strong enough to best me? I know that is why you
+have come to this place. And that is why I have been waiting here for you.
+For I am Stephan. Stephan, do you hear? The very name should make you
+tremble with fear. You silly little wretch will soon feel the power that
+is mine to command! For mine is the only way. If you seek to leave this
+place you must go through me. Kill me if you dare!"
+~
+0 8192 0
+D0
+You see the arena to the north.
+~
+~
+0 -1 428
+S
+#476
+Amazing Room of Magic.~
+This room has pictures on the walls which seem to move of thier own
+volition. They are pictures of mages, each in the act of casting a spell.
+Some of the spells you recognize, lightning bolt, fireball, but some are
+completely outside your experience. The pictures seem to run through a 
+sequence in two or three minutes then begain again. Each time that the 
+pictures change though, the scene is slightly different: a variation in
+background, a different mage casting the spell, etc.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 425
+D1
+You see a door east.
+~
+~
+3 1 477
+D2
+You see a door south.
+~
+~
+3 1 478
+S
+#477
+Mage's Hangout.~
+This room is filled with tables and benches formed from the stone
+of the floor itself. They seem to have grown from the floor like some kind
+of fungus. It is clean and orderly and even appears to be free of dust!
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+3 1 479
+D3
+You see a door west.
+~
+~
+3 1 476
+S
+#478
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and 
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 476
+D1
+You see a hall east.
+~
+~
+0 -1 483
+D2
+You see a hall to the south.
+~
+~
+0 -1 482
+D3
+You see a door west.
+~
+~
+3 1 484
+S
+#479
+Mages' Brewery.~
+This room looks like a normal kitchen, with a hearth at the east end
+with a cheery fire blazing away in it- a bright green fire, that is. A bright
+green fire with streaks of blue. The effect would really be quite attractive,
+if it were not so startling.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 480
+D2
+You see a door south.
+~
+~
+3 1 481
+D3
+You see a door west.
+~
+~
+3 1 477
+S
+#480
+Garbage.~
+This room is completely bare, and the floor is level and unbroken.
+You had come to expect a little room with a pit in the center for trash,
+but you don't see one. Then you notice that your food is slowly evaporating.
+It must be magic at work.
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 479
+S
+#481
+Store Room.~
+This room is lined with shelves and filled with old rotten barrels
+which obviously once held the food for the kitchen. It is surprisingly
+bright in here, considering that you saw no hint of a light until you stepped
+into this room. You notice as you enter and exit the room that the light
+dims and brightens with your presence. It is very cold in here.
+~
+0 8192 0
+D0
+You see a door to the north.
+~
+~
+3 1 479
+S
+#482
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and 
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D0
+You see a hall north.
+~
+~
+0 -1 478
+D1
+You see a hall east.
+~
+~
+0 -1 486
+D2
+You see a door south.
+~
+~
+3 1 485
+D3
+You see a hall west.
+~
+~
+0 -1 487
+S
+#483
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and 
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 488
+D1
+You see a door east.
+~
+~
+3 1 489
+D2
+You see a door south.
+~
+~
+3 1 490
+D3
+You see a hall west.
+~
+~
+0 -1 478
+S
+#484
+Necromancy Classroom.~
+This classroom is decorated in somber shades of gray and black and 
+wine red. The shelves which line the walls contain skulls- dozens of skulls
+of many sizes. This room is where the mages of Chaos came to be taught about
+death spells and the skulls were used to practice summoning the spirits of 
+the dead.
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+3 1 478
+S
+#485
+Students' Private Room.~
+You stand in a private bedroom of a young mage. This room is about
+60' X 60' and is tidy. The debris in this room is neatly arranged and there 
+is a bright light in one corner where a small pot sits. You look closer
+and notice that the light is directed on the pot and there is a dead plant
+sitting under the light. The young mage who lived here had created a light
+spell for his plant.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 483
+S
+#486
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and 
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+3 1 492
+D2
+You see a door south.
+~
+~
+3 1 491
+D3
+You see a hall to the west.
+~
+~
+0 -1 482
+S
+#487
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 493
+D1
+You see a hall east.
+~
+~
+0 -1 482
+D2
+You see a door south.
+~
+~
+3 1 495
+D3
+You see a hall west.
+~
+~
+0 -1 494
+S
+#488
+Summoning Room.~
+This room is huge, as well it might be; there are three protective
+circles here of differing types. This room was obviously used for summoning
+creatures from other planes. Many scorch marks from fire and other magic
+lines the walls. This must have at one time been a very important room.
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 483
+S
+#489
+The Alchemy Lab.~
+This room has two long, wide tables against the north wall. They
+are covered with glassware and instruments of a mysterious nature. The room
+is brightly lit by two huge braziers filled with bright blue flames. You
+notice that the floor is covered with weird patterns, probably remnants
+from lab experiments.
+~
+0 8192 0
+D3
+You see a door west.
+~
+~
+3 1 483
+S
+#490
+The Library.~
+This room is filled with a huge collection of books. There must be
+thousands of volumes here, all in a remarkable state of preservation. There
+is a large table and three chairs, also well preserved. You can almost
+feel the mystical energy in the air.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 483
+S
+#491
+A Lavish Room.~
+This room was once rather comfortably appointed with two beds and
+two chairs. The carvings on the walls are tasteful and soothing to the eye.
+There is a fireplace on the west wall, and a muted yellow flame burns in 
+the hearth. Although you sense no fuel or smoke, the fire seems to give
+off a pleasant warmth that is welcome in these stone halls.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 486
+S
+#492
+Headmaster's Bedroom.~
+This room is a calm and quiet place, much at odds with the Chaos
+of the rest of this area. There is a bed, a desk, and two chairs grouped
+around the empty fireplace, all which seem to have once been made of fine
+materials. Whoever loved here had very rich taste. In fact, he may still
+be here- there is a long decayed body on the bed, in the remnants of rich
+robes. A note is attached to the robes.
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 496
+D3
+You see a door west.
+~
+~
+3 1 486
+E
+note~
+Let this be a lesson to those who renounce Chaos...
+~
+S
+#493
+The Rainbow Room.~
+This room seems almost empty, except for the debris of desks and 
+chairs. But the walls seem to be of many different colors that shift and
+sway and sparkle. The effect is almost hypnotic. The colors keep swaying
+and moving...
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 487
+S
+#494
+Chaos Mage Hall.~
+This is a great magical hallway. The air seems to be crisp and
+full of magic. The walls are illuminated by glowing orbs of various colors
+and pictures of Chaos mages line the walls.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 497
+D1
+You see a hall east.
+~
+~
+0 -1 487
+D2
+You see a door south.
+~
+~
+3 1 498
+D3
+You see a door west.
+~
+~
+3 1 499
+S
+#495
+Mage's Lounge.~
+This room is lavishly decorated. Many plush couches line the walls
+and a fur rug is set in front of a blazing hearth. Desks and chairs also
+fit in this room and you see pictures of beautiful scenes of Pixies and 
+Nymphs dancing in the woods.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 487
+S
+#496
+Headmasters Library.~
+This room is filled with bookshelves. They are loaded with what
+appear to be spellbooks and tomes on the arts of magic, which seem relatively
+intact. A large desk sits in the corner and a chair sits with it.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 492
+S
+#497
+Classroom.~
+There are tables arranged thoughout the room with benches on one side
+of them so that those seated would face the west wall. On the west wall is
+a raised dais with a flat black space behind it for drawing various diagrams.
+This appears to have been a classroom for young mages. In fact, there appears
+to be a class in session at this moment. There is a robed form at the back
+of the class facing the wall, and a group of vague dark forms sitting at 
+the tables. You look more closely and see that it is really a ghost giving
+a lecture to a class of shadows.
+~
+0 8192 0
+D2
+You see a door south.
+~
+~
+3 1 494
+S
+#498
+Students Room.~
+This room looks very comfortable and is tidy. You see the remains 
+of an old desk and a bed in here and on the bed is a book. The book is a
+journal that one of the students on this room kept of his studies.
+~
+0 8192 0
+D0
+You see a door north.
+~
+~
+3 1 494
+S
+#499
+Students Room.~
+This room looks as if it was once a remarkably comfortable room.
+The remains of four beds and four large armchairs still survive. The room
+seems to be much cleaner than anywhere else you have seen. Perhaps some 
+of the unseen servants take care of the chores.
+~
+0 8192 0
+D1
+You see a door east.
+~
+~
+3 1 494
+S
+#0
+
+
+#RESETS
+M 1 401 1 400
+E 1 401 7 16
+E 1 400 7 17
+M 1 445 1 401
+M 1 402 5 404
+E 1 402 2 16
+M 1 402 4 405
+M 1 403 1 406
+E 1 403 6 8
+M 1 422 3 407
+M 1 405 1 408
+E 1 404 9 16
+M 1 404 1 410
+E 1 405 2 16
+D 1 411 3 1
+M 1 422 2 412
+D 1 412 3 1
+M 1 406 1 413
+E 1 406 9 0
+D 1 413 1 1
+D 1 414 1 1
+D 1 414 3 1
+D 1 414 0 1
+O 1 407 1 415
+P 1 408 1 407
+M 1 407 2 417
+E 1 446 4 16
+E 1 409 4 1
+M 1 408 1 418
+D 1 419 3 1
+M 1 409 2 420
+E 1 413 2 16
+D 1 420 0 1
+D 1 420 3 1
+D 1 421 2 1
+D 1 421 3 1
+M 1 418 1 422
+G 1 440 -1
+G 1 439 -1
+G 1 438 -1
+G 1 437 -1
+G 1 436 -1
+G 1 435 -1
+D 1 422 1 1
+M 1 409 1 423
+E 1 415 2 7
+E 1 414 2 10
+E 1 413 2 16
+E 1 411 2 9
+E 1 410 2 8
+D 1 423 0 1
+D 1 424 0 1
+D 1 424 1 1
+M 1 436 1 425
+E 1 434 4 16
+D 1 425 1 1
+D 1 425 2 1
+M 1 419 1 426
+G 1 471 -1
+G 1 466 -1
+G 1 445 -1
+G 1 444 -1
+G 1 443 -1
+G 1 442 -1
+G 1 441 -1
+D 1 426 2 1
+M 1 409 1 427
+E 1 413 2 16
+D 1 428 0 1
+M 1 420 1 429
+D 1 429 2 1
+D 1 429 5 1
+M 1 424 1 430
+E 1 448 6 13
+E 1 447 6 16
+M 1 425 2 430
+D 1 430 0 1
+M 1 411 2 431
+D 1 431 1 1
+D 1 431 2 1
+M 1 413 1 432
+E 1 416 7 16
+D 1 432 0 1
+D 1 432 1 1
+D 1 433 3 1
+M 1 412 1 434
+E 1 417 5 4
+D 1 434 0 1
+D 1 434 2 1
+M 1 413 2 435
+D 1 435 2 1
+D 1 436 0 1
+D 1 436 2 1
+M 1 410 1 437
+E 1 418 5 5
+D 1 437 0 1
+M 1 414 1 439
+G 1 467 -1
+E 1 423 3 16
+E 1 422 3 2
+E 1 421 3 1
+E 1 420 3 5
+E 1 419 3 6
+D 1 439 0 1
+O 1 424 1 440
+P 1 473 1 424
+D 1 440 2 1
+D 1 441 2 1
+D 1 442 0 1
+D 1 442 1 1
+D 1 443 1 1
+D 1 443 3 1
+M 1 417 1 444
+G 1 469 -1
+E 1 427 2 13
+E 1 426 2 4
+E 1 425 2 5
+E 1 429 2 12
+O 1 428 1 444
+P 1 474 1 428
+D 1 444 2 1
+M 1 421 3 445
+G 1 470 -1
+E 1 431 4 12
+O 1 430 1 445
+P 1 472 1 430
+D 1 445 0 1
+D 1 445 3 1
+M 1 413 2 446
+D 1 446 3 1
+M 1 421 1 447
+D 1 447 0 1
+M 1 415 1 448
+E 1 433 10 17
+E 1 432 10 13
+D 1 448 1 1
+D 1 449 1 1
+D 1 449 2 1
+M 1 416 1 450
+D 1 450 3 1
+M 1 423 1 451
+D 1 452 1 1
+D 1 452 3 1
+M 1 409 2 453
+D 1 453 3 1
+D 1 455 2 1
+M 1 409 1 456
+D 1 456 3 1
+D 1 457 0 1
+M 1 427 1 458
+E 1 449 4 16
+D 1 458 2 1
+D 1 459 0 1
+D 1 459 2 1
+M 1 428 4 460
+D 1 460 2 1
+M 1 429 1 461
+M 1 430 1 461
+E 1 450 7 6
+M 1 409 1 461
+D 1 461 0 1
+D 1 462 0 1
+D 1 462 2 1
+D 1 463 2 1
+D 1 464 0 1
+D 1 464 2 1
+M 1 431 5 465
+D 1 465 2 1
+D 1 466 1 1
+M 1 432 3 467
+D 1 467 1 1
+D 1 467 3 1
+D 1 468 3 1
+M 1 433 1 469
+E 1 453 9 8
+E 1 452 9 12
+E 1 451 100 0
+D 1 469 0 1
+D 1 469 1 1
+D 1 469 2 1
+D 1 469 3 1
+D 1 470 0 1
+D 1 470 2 1
+M 1 434 1 471
+D 1 471 1 1
+D 1 471 3 1
+D 1 472 1 1
+M 1 435 1 473
+G 1 468 -1
+E 1 455 7 16
+E 1 454 7 5
+D 1 473 0 1
+O 1 456 1 474
+P 1 475 1 456
+D 1 474 3 1
+M 1 400 1 475
+G 1 476 -1
+E 1 458 2 16
+E 1 457 2 13
+D 1 476 0 1
+D 1 476 1 1
+D 1 476 2 1
+M 1 437 1 477
+D 1 477 1 1
+D 1 477 3 1
+D 1 478 0 1
+D 1 478 3 1
+M 1 437 1 479
+D 1 479 0 1
+D 1 479 2 1
+D 1 479 3 1
+M 1 428 1 480
+D 1 480 2 1
+D 1 481 0 1
+D 1 482 2 1
+M 1 426 1 483
+E 1 459 5 16
+D 1 483 0 1
+D 1 483 0 1
+D 1 483 1 1
+D 1 483 2 1
+M 1 434 1 484
+D 1 484 1 1
+M 1 438 1 485
+D 1 485 0 1
+D 1 486 1 1
+D 1 486 2 1
+D 1 487 0 1
+D 1 487 2 1
+M 1 439 1 488
+E 1 446 2 16
+E 1 460 7 11
+D 1 488 2 1
+M 1 440 1 489
+E 1 462 7 1
+E 1 461 7 3
+D 1 489 3 1
+D 1 490 0 1
+M 1 441 1 491
+E 1 464 3 17
+E 1 463 4 5
+D 1 491 0 1
+M 1 442 1 492
+E 1 412 1 16
+E 1 465 3 9
+D 1 492 2 1
+D 1 492 3 1
+M 1 443 1 493
+D 1 493 2 1
+D 1 494 0 1
+D 1 494 2 1
+D 1 494 3 1
+M 1 438 4 495
+D 1 495 0 1
+D 1 496 0 1
+M 1 444 7 497
+D 1 497 2 1
+D 1 498 0 1
+D 1 499 1 1
+S
+
+
+#SHOPS
+ 418    9  0  0  0  0   105 100         0 23    ; Cyric
+ 419    8  0  3  0  0   105 100         0 23    ; Bhaal
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  403 spec_guard
+M  407 spec_cast_mage
+M  409 spec_guard
+M  410 spec_cast_cleric
+M  412 spec_cast_cleric
+M  413 spec_cast_cleric
+M  414 spec_cast_mage
+M  415 spec_cast_mage
+M  417 spec_cast_cleric
+M  428 spec_cast_undead
+M  436 spec_cast_mage
+M  438 spec_cast_mage
+M  440 spec_cast_mage
+M  441 spec_cast_mage
+M  442 spec_cast_mage
+S
+
+
+#$
